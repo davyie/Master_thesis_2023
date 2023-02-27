@@ -1,0 +1,212 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Nytt</w>
+  <w>lagförslag</w>
+  <w>:</w>
+  <w></w>
+  <w>Flyktingbarn</w>
+  <w></w>
+  <w>får</w>
+  <w>stanna</w>
+  <w>om</w>
+  <w>de</w>
+  <w>studerar</w>
+  <w>på</w>
+  <w>gymnasiet</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=1>
+  <w>Regeringen</w>
+  <w>har</w>
+  <w>nu</w>
+  <w>kommit</w>
+  <w>fram</w>
+  <w>till</w>
+  <w>en</w>
+  <w>lagändring</w>
+  <w>som</w>
+  <w>gör</w>
+  <w>det</w>
+  <w>möjligt</w>
+  <w>för</w>
+  <w>så</w>
+  <w>kallande</w>
+  <w>"</w>
+  <absaspan id=1>
+    <w>ensamkommande</w>
+    <w>flyktingbarn</w>
+  </absaspan>
+  <w>"</w>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=2 senti=2>
+    <w>riskerar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>utvisning</w>
+  </absaspan>
+  <w>den</w>
+  <w>dagen</w>
+  <w>de</w>
+  <w>enligt</w>
+  <w>påstådd</w>
+  <w>ålder</w>
+  <w>fyller</w>
+  <w>18</w>
+  <w>år</w>
+  <w>,</w>
+  <w>att</w>
+  <w>få</w>
+  <w>stanna</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>om</w>
+  <w>de</w>
+  <w>studerar</w>
+  <w>på</w>
+  <w>gymnasiet</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>populärt</w>
+  <w>bland</w>
+  <absaspan id=4 senti=2>
+    <w>"</w>
+    <w>flyktingbarnen</w>
+    <w>"</w>
+  </absaspan>
+  <w>som</w>
+  <w>egentligen</w>
+  <w>är</w>
+  <w>vuxna</w>
+  <w>män</w>
+  <w>,</w>
+  <w>att</w>
+  <w>gå</w>
+  <w>på</w>
+  <w>skolor</w>
+  <w>där</w>
+  <absaspan id=5>
+    <w>de</w>
+  </absaspan>
+  <w>fritt</w>
+  <absaspan id=6 senti=2>
+    <w>kan</w>
+    <w>våldta</w>
+    <w>svenska</w>
+    <w>tjejer</w>
+    <w>utan</w>
+    <w>riskera</w>
+    <w>värre</w>
+    <w>straff</w>
+    <w>än</w>
+    <w>några</w>
+    <w>timmars</w>
+    <w>samhällstjänst</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Vad</w>
+  <w>man</w>
+  <w>har</w>
+  <w>för</w>
+  <w>sysselsättning</w>
+  <w>kan</w>
+  <w>väl</w>
+  <absaspan id=7 senti=2>
+    <w>knappast</w>
+    <w>vara</w>
+  </absaspan>
+  <w>en</w>
+  <absaspan id=8>
+    <w>relevant</w>
+    <w>orsak</w>
+  </absaspan>
+  <w>till</w>
+  <w>om</w>
+  <w>man</w>
+  <w>ska</w>
+  <w>få</w>
+  <w>uppehållstillstånd</w>
+  <w>eller</w>
+  <w>inte</w>
+  <w>?</w>
+  <w>Eller</w>
+  <w>vad</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>är</w>
+  <w>det</w>
+  <w>bara</w>
+  <w>ett</w>
+  <w>sätt</w>
+  <w>för</w>
+  <absaspan id=9>
+    <w>regimen</w>
+  </absaspan>
+  <w>att</w>
+  <w>hitta</w>
+  <w>på</w>
+  <w>anledningar</w>
+  <w>till</w>
+  <w>att</w>
+  <w>öka</w>
+  <w>invandringen</w>
+  <w>ännu</w>
+  <w>mer</w>
+  <absaspan id=10 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>Tänk</w>
+  <w>på</w>
+  <w>att</w>
+  <w>"</w>
+  <absaspan id=11>
+    <w>ensamkommande</w>
+    <w>flyktingbarn</w>
+  </absaspan>
+  <w>"</w>
+  <w>redan</w>
+  <absaspan id=12 senti=2>
+    <w>ljuger</w>
+  </absaspan>
+  <w>om</w>
+  <w>sin</w>
+  <w>ålder</w>
+  <w>och</w>
+  <w>är</w>
+  <w>ofta</w>
+  <w>10</w>
+  <w>år</w>
+  <w>äldre</w>
+  <w>än</w>
+  <w>vad</w>
+  <w>det</w>
+  <w>står</w>
+  <w>på</w>
+  <w>pappret</w>
+  <w>.</w>
+  <absaspan id=13>
+    <w>Regimen</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>förbjuder</w>
+  </absaspan>
+  <w>ju</w>
+  <w>någon</w>
+  <w>att</w>
+  <absaspan id=15>
+    <w>ifrågasätta</w>
+    <w>uppgifter</w>
+    <w>om</w>
+    <w>deras</w>
+    <w>påstådda</w>
+    <w>identitet</w>
+    <w>och</w>
+    <w>påstått</w>
+    <w>födelsedatum</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

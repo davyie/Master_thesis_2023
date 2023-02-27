@@ -1,0 +1,66 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Hur</w>
+  <w>ser</w>
+  <w>dagens</w>
+  <w>flykting</w>
+  <w>på</w>
+  <w>att</w>
+  <w>mera</w>
+  <w>flyktingar</w>
+  <w>kommer</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Hur</w>
+  <w>ser</w>
+  <w>dagens</w>
+  <w>flykting</w>
+  <w>på</w>
+  <absaspan id=1>
+    <w>att</w>
+    <w>mera</w>
+    <w>flyktingar</w>
+    <w>kommer</w>
+    <w>till</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Som</w>
+  <w>en</w>
+  <absaspan id=2 senti=4>
+    <w>tillgång</w>
+  </absaspan>
+  <w>eller</w>
+  <absaspan id=3 senti=2>
+    <w>belastning</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=5 senti=4>
+    <w>Delar</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>dom</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>med</w>
+    <w>sig</w>
+    <w>av</w>
+    <w>välfärden</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

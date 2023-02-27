@@ -1,0 +1,276 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Kungen</w>
+  </absaspan>
+  <absaspan id=2 senti=5 source=1 target=3>
+    <w>betonar</w>
+    <w>vikten</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>att</w>
+    <w>visa</w>
+    <w>positiva</w>
+    <w>exempel</w>
+    <w>på</w>
+    <w>sitt</w>
+    <w>land</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>"</w>
+  <absaspan id=4>
+    <w>King</w>
+    <w>of</w>
+    <w>Sweden</w>
+  </absaspan>
+  <absaspan id=5 senti=5>
+    <w>stresses</w>
+    <w>need</w>
+    <w>for</w>
+  </absaspan>
+  <w></w>
+  <absaspan id=6>
+    <w>serious</w>
+    <w></w>
+    <w>media</w>
+    <w>and</w>
+    <w>source</w>
+    <w>checking</w>
+    <w>after</w>
+    <w>Donald</w>
+    <w>Trump</w>
+    <w></w>
+    <w>s</w>
+    <w>immigration</w>
+    <w>claims</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>"</w>
+  <absaspan id=7>
+    <w>Sweden</w>
+    <w></w>
+    <w>s</w>
+    <w>King</w>
+  </absaspan>
+  <absaspan id=8 senti=5>
+    <w>has</w>
+    <w>stressed</w>
+    <w>the</w>
+    <w>need</w>
+    <w>for</w>
+  </absaspan>
+  <w></w>
+  <absaspan id=9>
+    <w>serious</w>
+    <w></w>
+    <w>media</w>
+    <w>and</w>
+    <w>source</w>
+    <w>checking</w>
+    <w>in</w>
+    <w>the</w>
+    <w>era</w>
+    <w>of</w>
+    <w>Donald</w>
+    <w>Trump</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=10>
+    <w>King</w>
+    <w>Carl</w>
+    <w>XVI</w>
+    <w>Gustaf</w>
+  </absaspan>
+  <absaspan id=11 senti=5>
+    <w>emphasised</w>
+    <w>the</w>
+    <w>importance</w>
+    <w>of</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>sharing</w>
+    <w>positive</w>
+    <w>stories</w>
+    <w>about</w>
+    <w>Sweden</w>
+    <w>after</w>
+    <w>Donald</w>
+    <w>Trump</w>
+    <w>made</w>
+    <w>comments</w>
+    <w>about</w>
+    <w>immigration</w>
+    <w>in</w>
+    <w>the</w>
+    <w>country</w>
+    <w>.</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Asylsvenskan</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>"</w>
+  <absaspan id=13>
+    <w>Kungen</w>
+  </absaspan>
+  <w>om</w>
+  <w>Sverigebilden</w>
+  <w>:</w>
+  <absaspan id=14 senti=5>
+    <w>Viktigt</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>att</w>
+    <w>vi</w>
+    <w>inte</w>
+    <w>tröttnar</w>
+    <w>på</w>
+    <w>att</w>
+    <w>berätta</w>
+    <w>om</w>
+    <w>de</w>
+    <w>goda</w>
+    <w>exemplen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Det</w>
+  <absaspan id=16 senti=5>
+    <w>är</w>
+    <w>oerhört</w>
+    <w>viktigt</w>
+    <w>för</w>
+    <w>Sverigebilden</w>
+    <w>i</w>
+    <w>världen</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>att</w>
+    <w>vi</w>
+    <w>inte</w>
+    <w>ger</w>
+    <w>upp</w>
+    <w>utan</w>
+    <w>fortsätter</w>
+    <w>berätta</w>
+    <w>om</w>
+    <w>de</w>
+    <w>goda</w>
+    <w>exemplen</w>
+  </absaspan>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Vad</w>
+  <w>säger</w>
+  <w>Flashback</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Vad</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>för</w>
+  <w>goda</w>
+  <w>exempel</w>
+  <w>att</w>
+  <w>återge</w>
+  <w>till</w>
+  <w>omvärlden</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Har</w>
+  <w>Kungen</w>
+  <w>rätt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Har</w>
+  <w>för</w>
+  <w>övrigt</w>
+  <w>någon</w>
+  <w>utomlands</w>
+  <w>,</w>
+  <w>respekt</w>
+  <w>för</w>
+  <w>Kungen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Ses</w>
+  <w>han</w>
+  <w>som</w>
+  <w>en</w>
+  <w>outbildad</w>
+  <w>babblande</w>
+  <w>idiot</w>
+  <w>utomlands</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Är</w>
+  <absaspan id=18>
+    <w>Kungen</w>
+  </absaspan>
+  <w>den</w>
+  <w>ultimata</w>
+  <w>landsförrädaren</w>
+  <absaspan id=19 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>En</w>
+  <w>Quisling</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Vad</w>
+  <w>kan</w>
+  <absaspan id=20 senti=2>
+    <w>Kungen</w>
+  </absaspan>
+  <w>om</w>
+  <w>media</w>
+  <w>och</w>
+  <w>journalistik</w>
+  <absaspan id=21 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Kommer</w>
+  <w>Trump</w>
+  <w>nu</w>
+  <w>börja</w>
+  <w>dissa</w>
+  <w>Kungen</w>
+  <w>som</w>
+  <w>en</w>
+  <w>charlatan</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

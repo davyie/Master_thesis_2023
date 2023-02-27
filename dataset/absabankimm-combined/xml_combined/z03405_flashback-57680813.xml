@@ -1,0 +1,106 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Kommer</w>
+  <w>vi</w>
+  <w>att</w>
+  <w>få</w>
+  <w>en</w>
+  <w>omröstning</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>om</w>
+  <w>EU</w>
+  <w>medlemskapet</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Nu</w>
+  <w>har</w>
+  <w>ju</w>
+  <w>Storbritannien</w>
+  <w>haft</w>
+  <w>omröstning</w>
+  <w>om</w>
+  <w>man</w>
+  <w>skall</w>
+  <w>stå</w>
+  <w>utanför</w>
+  <w>EU</w>
+  <w>eller</w>
+  <w>inte</w>
+  <w>och</w>
+  <absaspan id=1>
+    <w>folkviljan</w>
+  </absaspan>
+  <w>var</w>
+  <w>ju</w>
+  <w>att</w>
+  <w>man</w>
+  <w>sade</w>
+  <w>att</w>
+  <w>man</w>
+  <absaspan id=2 senti=2>
+    <w>inte</w>
+    <w>vill</w>
+    <w>vara</w>
+    <w>del</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>denna</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>gigantiska</w>
+    <w>byråkrati</w>
+    <w>EU</w>
+    <w>koloss</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vi</w>
+  <w>som</w>
+  <absaspan id=5 senti=2>
+    <w>vill</w>
+    <w>att</w>
+    <w>Sverige</w>
+    <w>skall</w>
+    <w>stå</w>
+    <w>utanför</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>denna</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>EU</w>
+    <w>koloss</w>
+  </absaspan>
+  <w>hur</w>
+  <w>skall</w>
+  <w>vi</w>
+  <w>agera</w>
+  <w>?</w>
+  <w>Måste</w>
+  <w>vi</w>
+  <w>starta</w>
+  <w>ett</w>
+  <w>nytt</w>
+  <w>parti</w>
+  <w>eller</w>
+  <w>finns</w>
+  <w>det</w>
+  <absaspan id=8>
+    <w>partier</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=9 senti=4>
+    <w>tar</w>
+    <w>till</w>
+    <w>vara</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>vårt</w>
+    <w>intresse</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

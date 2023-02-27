@@ -1,0 +1,129 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>11</w>
+  <w>-</w>
+  <w>årig</w>
+  <w>flicka</w>
+  <w>slagen</w>
+  <w>av</w>
+  <w>killgäng</w>
+  <w>:</w>
+  <w></w>
+  <w>Sa</w>
+  <w>att</w>
+  <w>jag</w>
+  <w>skulle</w>
+  <w>åka</w>
+  <w>hem</w>
+  <w></w>
+  <w>Sthlm</w>
+  <w>160419</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>"</w>
+  <w>Sofia</w>
+  <w>,</w>
+  <w>11</w>
+  <w>,</w>
+  <w>blev</w>
+  <w>misshandlad</w>
+  <w>av</w>
+  <w>ett</w>
+  <w>killgäng</w>
+  <w>som</w>
+  <w>skrek</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>skulle</w>
+  <w>"</w>
+  <w>åka</w>
+  <w>tillbaka</w>
+  <w>till</w>
+  <w>sitt</w>
+  <w>hemland</w>
+  <w></w>
+  <w>när</w>
+  <w>hon</w>
+  <w>skulle</w>
+  <w>gå</w>
+  <w>till</w>
+  <w>skolan</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Nu</w>
+  <w>berättar</w>
+  <w>hon</w>
+  <w>själv</w>
+  <w>om</w>
+  <w>händelsen</w>
+  <w>för</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>.</w>
+  <w>:</w>
+  <w>Jag</w>
+  <w>gör</w>
+  <w>det</w>
+  <w>här</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>inte</w>
+    <w>vill</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=3>
+    <w>andra</w>
+    <w>tjejer</w>
+    <w>ska</w>
+    <w>råka</w>
+    <w>illa</w>
+    <w>ut</w>
+  </absaspan>
+  <w>för</w>
+  <w>det</w>
+  <w>som</w>
+  <w>jag</w>
+  <w>har</w>
+  <w>varit</w>
+  <w>med</w>
+  <w>om</w>
+  <w>.</w>
+  <absaspan id=4 senti=2>
+    <w>Ingen</w>
+    <w>ska</w>
+    <w>behöva</w>
+    <w>uppleva</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>det</w>
+    <w>här</w>
+  </absaspan>
+  <w>,</w>
+  <w>säger</w>
+  <w>hon</w>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Svenska</w>
+  <w>killar</w>
+  <w>?</w>
+  <w>Skedde</w>
+  <w>i</w>
+  <w>södra</w>
+  <w>Stockholm</w>
+  <w>.</w>
+</absapar>
+</absadoc>

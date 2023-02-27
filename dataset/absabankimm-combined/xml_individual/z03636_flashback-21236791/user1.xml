@@ -1,0 +1,137 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Varför</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>gör</w>
+    <w>ingen</w>
+    <w>något</w>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <w>är</w>
+  <w>ju</w>
+  <w>bevisat</w>
+  <w>att</w>
+  <w>Sverige</w>
+  <w>kommer</w>
+  <w>gå</w>
+  <w>under</w>
+  <w>.</w>
+  <w>I</w>
+  <absaspan id=3>
+    <w>alla</w>
+    <w>länder</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>dödar</w>
+    <w>man</w>
+    <w>varandra</w>
+    <w>för</w>
+    <w>att</w>
+    <w>få</w>
+    <w>några</w>
+    <w>meter</w>
+    <w>land</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Ingen</w>
+  <w>gör</w>
+  <w>något</w>
+  <w>för</w>
+  <w>att</w>
+  <w>bevara</w>
+  <w>Sverige</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Ska</w>
+  <w>man</w>
+  <w>leva</w>
+  <w>sitt</w>
+  <w>liv</w>
+  <w>och</w>
+  <w>sedan</w>
+  <w>dö</w>
+  <w>?</w>
+  <w>Verkar</w>
+  <w>som</w>
+  <w>det</w>
+  <w>nu</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=5 senti=4>
+    <w>Tycker</w>
+    <w>det</w>
+    <w>är</w>
+    <w>dags</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>att</w>
+    <w>göra</w>
+    <w>något</w>
+  </absaspan>
+  <w>,</w>
+  <w>så</w>
+  <w>allmänheten</w>
+  <w>för</w>
+  <w>upp</w>
+  <w>sina</w>
+  <w>ögon</w>
+  <w>.</w>
+  <absaspan id=7 senti=1>
+    <w>Inte</w>
+    <w>fan</w>
+    <w>hjälper</w>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>att</w>
+    <w>sitta</w>
+    <w>och</w>
+    <w>sura</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>man</w>
+  <w>ska</w>
+  <w>göra</w>
+  <w>?</w>
+  <w>Inbördeskrig</w>
+  <w>?</w>
+  <w>Kriga</w>
+  <w>mot</w>
+  <w>politiker</w>
+  <w>?</w>
+  <w>Fan</w>
+  <absaspan id=9>
+    <w>allt</w>
+  </absaspan>
+  <absaspan id=10 senti=1>
+    <w>är</w>
+    <w>åt</w>
+    <w>helvete</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=11 senti=2>
+    <w>Bara</w>
+    <w>en</w>
+    <w>massa</w>
+    <w>snack</w>
+    <w>med</w>
+    <w>liten</w>
+    <w>verkstad</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

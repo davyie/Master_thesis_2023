@@ -1,0 +1,73 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>Trots</w>
+  <w>larm</w>
+  <w>:</w>
+  <w>kommunerna</w>
+  <w>klarade</w>
+  <w>att</w>
+  <w>bosätta</w>
+  <w>nyanlända</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Jalla</w>
+  <w>Jalla</w>
+  <w>bostäder</w>
+  <w>åt</w>
+  <w>alla</w>
+  <w>utom</w>
+  <w>till</w>
+  <w>svenskarna</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>kostar</w>
+  <w>detta</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Ska</w>
+  <w>det</w>
+  <w>behöves</w>
+  <w>en</w>
+  <w>massa</w>
+  <w>flyktingar</w>
+  <w>för</w>
+  <w>att</w>
+  <w>lösa</w>
+  <absaspan id=1>
+    <w>bostadskrisen</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=2 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>Flyktingar</w>
+  <w>först</w>
+  <w>,</w>
+  <w>svenskar</w>
+  <w>sedan</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Var</w>
+  <w>ska</w>
+  <w>svenskar</w>
+  <w>utan</w>
+  <w>bostad</w>
+  <w>bo</w>
+  <w>?</w>
+  <w>Samt</w>
+  <w>välutbildad</w>
+  <w>utländsk</w>
+  <w>arbetskraft</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

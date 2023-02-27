@@ -1,0 +1,125 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Ni</w>
+  <w>som</w>
+  <w>nu</w>
+  <w>fått</w>
+  <w>erfara</w>
+  <w>mångkultur</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>De</w>
+  <w>demografiska</w>
+  <w>förhållandena</w>
+  <w>har</w>
+  <w>förändrats</w>
+  <w>drastiskt</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>på</w>
+  <w>kort</w>
+  <w>tid</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Det</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>faktum</w>
+  <w>att</w>
+  <w>man</w>
+  <w>nu</w>
+  <w>dagligen</w>
+  <w>möter</w>
+  <w>människor</w>
+  <w>som</w>
+  <w>är</w>
+  <w>främmande</w>
+  <w>för</w>
+  <w>en</w>
+  <w>på</w>
+  <w>många</w>
+  <w>sätt</w>
+  <w>,</w>
+  <w>i</w>
+  <w>svenska</w>
+  <w>städer</w>
+  <w>.</w>
+  <w>För</w>
+  <w>många</w>
+  <w>kanske</w>
+  <w>detta</w>
+  <w>är</w>
+  <w>deras</w>
+  <w>första</w>
+  <w>möte</w>
+  <w>med</w>
+  <w>mångkultur</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Trivs</w>
+  <w>ni</w>
+  <w>?</w>
+  <absaspan id=1 senti=4>
+    <w>Fungerar</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>integrationen</w>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Om</w>
+  <w>inte</w>
+  <w>,</w>
+  <w>kommer</w>
+  <w>ni</w>
+  <w>att</w>
+  <w>flytta</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Ut</w>
+  <w>på</w>
+  <w>landet</w>
+  <w>,</w>
+  <w>eller</w>
+  <w>utomlands</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=3>
+  <w>Tror</w>
+  <w>ni</w>
+  <w>att</w>
+  <w>de</w>
+  <w>som</w>
+  <w>kommit</w>
+  <w>hit</w>
+  <w>trivs</w>
+  <w>,</w>
+  <w>vilka</w>
+  <w>är</w>
+  <w>era</w>
+  <w>intryck</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7 senti=3>
+  <w>Trivs</w>
+  <w>andra</w>
+  <w>/</w>
+  <w>tredje</w>
+  <w>generationens</w>
+  <w>invandrare</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

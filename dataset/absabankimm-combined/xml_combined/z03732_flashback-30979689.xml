@@ -1,0 +1,182 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Artikel</w>
+  <w>:</w>
+  <absaspan id=1>
+    <w>Kalle</w>
+    <w>Anka</w>
+    <w>på</w>
+    <w>julafton</w>
+  </absaspan>
+  <w>censureras</w>
+  <w>-</w>
+  <absaspan id=2 senti=2>
+    <w>uppfattas</w>
+    <w>som</w>
+    <w>rasistisk</w>
+  </absaspan>
+  <w>(</w>
+  <w>flashback.se</w>
+  <w>)</w>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>ville</w>
+  <w>visa</w>
+  <w>en</w>
+  <w>utrikisk</w>
+  <w>kompis</w>
+  <w>vad</w>
+  <w>vi</w>
+  <w>brukar</w>
+  <w>se</w>
+  <w>på</w>
+  <w>julafton</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>och</w>
+  <w>visade</w>
+  <w>då</w>
+  <absaspan id=4>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>Djungelfotografen</w>
+    <w>"</w>
+    <w>med</w>
+    <w>den</w>
+    <w>där</w>
+    <w>galna</w>
+    <w>fågeln</w>
+  </absaspan>
+  <w>.</w>
+  <w>Efter</w>
+  <w>lite</w>
+  <w>sökande</w>
+  <w>hittade</w>
+  <w>jag</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>på</w>
+  <w>YouTube</w>
+  <w>.</w>
+  <w>På</w>
+  <w>engelska</w>
+  <w>heter</w>
+  <w>kortfilmen</w>
+  <w>"</w>
+  <w>Clown</w>
+  <w>of</w>
+  <w>the</w>
+  <w>Jungle</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Allt</w>
+  <w>är</w>
+  <w>identiskt</w>
+  <w>med</w>
+  <w>den</w>
+  <w>versionen</w>
+  <w>som</w>
+  <w>visas</w>
+  <w>på</w>
+  <w>julafton</w>
+  <w>,</w>
+  <w>förutom</w>
+  <w>några</w>
+  <w>sekunder</w>
+  <w>i</w>
+  <w>slutet</w>
+  <w>när</w>
+  <w>Kalle</w>
+  <w>går</w>
+  <w>lös</w>
+  <w>på</w>
+  <absaspan id=6 senti=2>
+    <w>fågeljäveln</w>
+  </absaspan>
+  <w>med</w>
+  <w>en</w>
+  <w>gammal</w>
+  <w>kulspruta</w>
+  <w>.</w>
+  <w>När</w>
+  <w>började</w>
+  <absaspan id=7>
+    <w>detta</w>
+  </absaspan>
+  <w>visas</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>?</w>
+  <w>Fanns</w>
+  <w>ens</w>
+  <w>debatt</w>
+  <w>om</w>
+  <w>"</w>
+  <w>videovåld</w>
+  <w>"</w>
+  <w>då</w>
+  <w>?</w>
+  <w>Om</w>
+  <absaspan id=8>
+    <w>det</w>
+  </absaspan>
+  <w>nu</w>
+  <absaspan id=9 senti=2>
+    <w>var</w>
+    <w>så</w>
+    <w>hemskt</w>
+    <w>att</w>
+    <w>Statens</w>
+    <w>Censureringsverk</w>
+    <w>var</w>
+    <w>tvungen</w>
+    <w>att</w>
+    <w>klippa</w>
+    <w>bort</w>
+    <w>det</w>
+  </absaspan>
+  <w>,</w>
+  <w>kunde</w>
+  <w>de</w>
+  <w>inte</w>
+  <w>ha</w>
+  <w>valt</w>
+  <w>ett</w>
+  <w>mer</w>
+  <w>"</w>
+  <w>barnvänligt</w>
+  <w>"</w>
+  <w>klipp</w>
+  <w>istället</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=10 senti=1>
+    <w>Skiten</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>som</w>
+    <w>visas</w>
+    <w>för</w>
+    <w>ungarna</w>
+    <w>nuförtiden</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>är</w>
+    <w>ju</w>
+    <w>sju</w>
+    <w>resor</w>
+    <w>värre</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

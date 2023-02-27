@@ -1,0 +1,51 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Malmö</w>
+  <w>:</w>
+  <w>Beväpnad</w>
+  <w>man</w>
+  <w>gripen</w>
+  <w>vid</w>
+  <w>Östra</w>
+  <w>kyrkogården</w>
+  <w>,</w>
+  <w>2017</w>
+  <w>-</w>
+  <w>10</w>
+  <w>-</w>
+  <w>11</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1 senti=3>
+    <w>Ännu</w>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>död</w>
+    <w>flykting</w>
+  </absaspan>
+  <w>eller</w>
+  <w>någon</w>
+  <w>som</w>
+  <w>fått</w>
+  <w>i</w>
+  <w>sig</w>
+  <w>bly</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>På</w>
+  <w>samma</w>
+  <w>kyrkogård</w>
+  <w>hittades</w>
+  <w>i</w>
+  <w>september</w>
+  <w>2016</w>
+  <w>en</w>
+  <w>död</w>
+  <w>flykting</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,116 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>En</w>
+  <w>dömd</w>
+  <w>för</w>
+  <w>uttalande</w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>-</w>
+  <w>en</w>
+  <w>annan</w>
+  <w>dömd</w>
+  <w>för</w>
+  <w>uttalande</w>
+  <w>på</w>
+  <w>Flashback</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Jaså</w>
+  <w>det</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>yttrandefrihet</w>
+  <w>på</w>
+  <w>Flashback</w>
+  <w>heller</w>
+  <w>!</w>
+  <w>Det</w>
+  <w>trodde</w>
+  <w>jag</w>
+  <w>!</w>
+  <w>Men</w>
+  <w>här</w>
+  <w>har</w>
+  <w>en</w>
+  <w>man</w>
+  <w>dömts</w>
+  <w>för</w>
+  <absaspan id=1 senti=1>
+    <w>hot</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=2 senti=1>
+    <w>nedsättande</w>
+    <w>uttryck</w>
+  </absaspan>
+  <absaspan id=3 senti=1>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>IKEA</w>
+    <w>mördaren</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Så</w>
+  <w>hur</w>
+  <w>skyddade</w>
+  <w>är</w>
+  <w>våra</w>
+  <w>identiter</w>
+  <w>egentligen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Tänk</w>
+  <w>på</w>
+  <w>att</w>
+  <w>Flashback</w>
+  <w>kan</w>
+  <w>inom</w>
+  <w>tio</w>
+  <w>år</w>
+  <w>bli</w>
+  <w>det</w>
+  <w>enda</w>
+  <w>stället</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>som</w>
+  <w>kommer</w>
+  <w>ha</w>
+  <absaspan id=5>
+    <w>yttrandefrihet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Hur</w>
+  <w>ska</w>
+  <absaspan id=6>
+    <w>Flashback</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>slå</w>
+    <w>vakt</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>detta</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Länken</w>
+  <w>är</w>
+  <w>från</w>
+  <w>idag</w>
+  <w>på</w>
+  <w>Fria</w>
+  <w>Tider</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,156 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <absaspan id=1>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=2 senti=5 source=3 target=1>
+    <w>bäst</w>
+    <w>i</w>
+    <w>världen</w>
+  </absaspan>
+  <w>på</w>
+  <w>integration</w>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=2>
+  <absaspan id=4>
+    <w>Kretinen</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>Daniel</w>
+    <w>Swedin</w>
+  </absaspan>
+  <w>slår</w>
+  <w>sig</w>
+  <w>på</w>
+  <w>bröstet</w>
+  <w>över</w>
+  <w>att</w>
+  <absaspan id=6>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=7 senti=5>
+    <w>har</w>
+    <w>bäst</w>
+    <w>flyktingmottagande</w>
+    <w>i</w>
+    <w>hela</w>
+    <w>världen</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>Han</w>
+  </absaspan>
+  <w>fortsätter</w>
+  <w>med</w>
+  <w>att</w>
+  <absaspan id=10>
+    <w>läget</w>
+  </absaspan>
+  <absaspan id=11 senti=1>
+    <w>är</w>
+    <w>allvarligt</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=12 senti=4>
+    <w>inget</w>
+    <w>att</w>
+    <w>vara</w>
+    <w>orolig</w>
+    <w>för</w>
+  </absaspan>
+  <w>,</w>
+  <w>så</w>
+  <w>länge</w>
+  <w>vi</w>
+  <w>öser</w>
+  <w>mer</w>
+  <w>pengar</w>
+  <w>över</w>
+  <w>immigranterna</w>
+  <w>.</w>
+  <w>Han</w>
+  <w>avslutar</w>
+  <w>med</w>
+  <w>att</w>
+  <w>den</w>
+  <w>här</w>
+  <absaspan id=13 senti=2>
+    <w>soppan</w>
+  </absaspan>
+  <w>drabbar</w>
+  <w>immigranterna</w>
+  <w>värst</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <absaspan id=14>
+    <w>Sveriges</w>
+    <w>integration</w>
+  </absaspan>
+  <absaspan id=15 senti=5>
+    <w>är</w>
+  </absaspan>
+  <w>alltså</w>
+  <absaspan id=16 senti=5>
+    <w>bäst</w>
+  </absaspan>
+  <absaspan id=17 senti=5>
+    <w>i</w>
+    <w>världen</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>resultatet</w>
+  <w>av</w>
+  <w>denna</w>
+  <absaspan id=18 senti=5 irony>
+    <w>världsbästa</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>politik</w>
+  </absaspan>
+  <w>ser</w>
+  <w>ni</w>
+  <w>dagligen</w>
+  <absaspan id=20>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=22 senti=5 irony>
+    <w>blir</w>
+    <w>helt</w>
+    <w>enkelt</w>
+    <w>inte</w>
+    <w>bättre</w>
+    <w>än</w>
+    <w>så</w>
+    <w>här</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Känner</w>
+  <w>ni</w>
+  <w>hopp</w>
+  <w>över</w>
+  <absaspan id=23>
+    <w>integrationen</w>
+    <w>och</w>
+    <w>framtiden</w>
+  </absaspan>
+  <w>gott</w>
+  <w>folk</w>
+  <w>?</w>
+  <absaspan id=24 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

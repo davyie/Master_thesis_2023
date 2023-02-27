@@ -1,0 +1,67 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Cecilia</w>
+    <w>Malmström</w>
+    <w>(</w>
+    <w>Fp</w>
+    <w>)</w>
+  </absaspan>
+  <w>:</w>
+  <w>"</w>
+  <w>Europa</w>
+  <absaspan id=2 senti=4>
+    <w>behöver</w>
+  </absaspan>
+  <absaspan id=3 senti=4>
+    <w>MER</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>invandring</w>
+  </absaspan>
+  <w>!</w>
+  <w>"</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Har</w>
+  <w>hon</w>
+  <w>rätt</w>
+  <w>?</w>
+  <w>Har</w>
+  <w>invandringen</w>
+  <w>till</w>
+  <w>Europe</w>
+  <w>varit</w>
+  <w>för</w>
+  <w>liten</w>
+  <w>?</w>
+  <w>Vad</w>
+  <w>säger</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Hur</w>
+  <w>känner</w>
+  <w>ni</w>
+  <absaspan id=5>
+    <w>invandringskritiker</w>
+    <w>som</w>
+    <w>röstade</w>
+    <w>på</w>
+    <w>Alliansen</w>
+  </absaspan>
+  <w>nu</w>
+  <w>?</w>
+  <absaspan id=6 senti=2>
+    <w>Ångrar</w>
+    <w>ni</w>
+    <w>er</w>
+    <w>inte</w>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

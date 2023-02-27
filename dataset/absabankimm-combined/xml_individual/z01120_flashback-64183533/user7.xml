@@ -1,0 +1,134 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>SVT</w>
+  <w>Aktuellt</w>
+  <w>30</w>
+  <w>/</w>
+  <w>5</w>
+  <w>2018</w>
+  <w>;</w>
+  <w>Åkesson</w>
+  <w>mot</w>
+  <w>Löfven</w>
+  <w>om</w>
+  <w>vinster</w>
+  <w>i</w>
+  <w>välfärden</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Tycker</w>
+  <w>mod</w>
+  <w>att</w>
+  <w>det</w>
+  <w>passar</w>
+  <w>bättre</w>
+  <w>i</w>
+  <w>MoJ</w>
+  <w>,</w>
+  <w>så</w>
+  <w>flytta</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>är</w>
+  <w>det</w>
+  <w>valår</w>
+  <w>,</w>
+  <w>så</w>
+  <absaspan id=1 senti=4>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=3 senti=4>
+    <w>nog</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>bättre</w>
+    <w>lämpat</w>
+    <w>här</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>.</w>
+  <w>-</w>
+  <w>Kommer</w>
+  <w>Stefan</w>
+  <w>gå</w>
+  <w>till</w>
+  <w>frontalattack</w>
+  <w>mot</w>
+  <w>Jimpa</w>
+  <w>för</w>
+  <w>att</w>
+  <w>deras</w>
+  <w>doktrin</w>
+  <w>menar</w>
+  <w>att</w>
+  <absaspan id=5>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>har</w>
+  </absaspan>
+  <w>gått</w>
+  <w>i</w>
+  <absaspan id=7>
+    <w>Moderaternas</w>
+  </absaspan>
+  <w>fotspår</w>
+  <w>och</w>
+  <absaspan id=8 senti=2>
+    <w>sålt</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>ut</w>
+    <w>välfärden</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=10>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>.</w>
+  <w>-</w>
+  <w>Kommer</w>
+  <w>Jimpa</w>
+  <w>våga</w>
+  <w>påpeka</w>
+  <w>att</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>en</w>
+  <w>rad</w>
+  <w>socialdemokrater</w>
+  <w>som</w>
+  <w>själva</w>
+  <w>har</w>
+  <w>kapitaliserat</w>
+  <w>på</w>
+  <w>privatiseringar</w>
+  <w>och</w>
+  <absaspan id=11 senti=2>
+    <w>utförsäljningarna</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=12>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>.</w>
+  <w>-</w>
+  <w>Blir</w>
+  <w>det</w>
+  <absaspan id=13 senti=2>
+    <w>floskelbingo</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

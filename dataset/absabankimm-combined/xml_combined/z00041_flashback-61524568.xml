@@ -1,0 +1,141 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>Satsningen</w>
+  <w>på</w>
+  <w>invandring</w>
+  <w>fortsätter</w>
+  <w>–</w>
+  <absaspan id=1>
+    <w>Sjöstedt</w>
+  </absaspan>
+  <absaspan id=2 senti=4 source=1 target=3>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>satsa</w>
+    <w>44</w>
+    <w>miljarder</w>
+    <w>till</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <absaspan id=4>
+    <w>Vänsterpartiets</w>
+    <w>ledare</w>
+    <w>Jonas</w>
+    <w>Sjöstedt</w>
+  </absaspan>
+  <w>tycker</w>
+  <w>inte</w>
+  <w>att</w>
+  <w>tillräckligt</w>
+  <w>av</w>
+  <w>skattebetalarnas</w>
+  <w>pengar</w>
+  <w>har</w>
+  <w>satsats</w>
+  <w>på</w>
+  <absaspan id=5>
+    <w>utanförskapsområden</w>
+    <w>=</w>
+    <w>invandrarområden</w>
+  </absaspan>
+  <w>=</w>
+  <absaspan id=6 senti=1>
+    <w>svarta</w>
+    <w>hål</w>
+  </absaspan>
+  <w>,</w>
+  <w>så</w>
+  <w>nu</w>
+  <absaspan id=7 senti=4>
+    <w>föreslår</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>Sjöstedt</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>en</w>
+    <w>ytterligare</w>
+    <w>satsning</w>
+    <w>på</w>
+    <w>44</w>
+    <w>miljarder</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Som</w>
+  <w>vanligt</w>
+  <w>blir</w>
+  <w>det</w>
+  <w>arbetande</w>
+  <w>svenskar</w>
+  <w>(</w>
+  <w>och</w>
+  <w>en</w>
+  <w>del</w>
+  <w>invandrare</w>
+  <w>)</w>
+  <w>som</w>
+  <w>får</w>
+  <w>betala</w>
+  <w>notan</w>
+  <absaspan id=11 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <absaspan id=12 senti=3>
+    <w>Är</w>
+    <w>det</w>
+    <w>rätt</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>att</w>
+    <w>fortsätta</w>
+    <w>pumpa</w>
+    <w>in</w>
+    <w>pengar</w>
+    <w>i</w>
+    <w>dessa</w>
+    <w>områden</w>
+  </absaspan>
+  <w>?</w>
+  <w>Hur</w>
+  <w>ställer</w>
+  <w>sig</w>
+  <w>svenska</w>
+  <w>skattebetalare</w>
+  <w>till</w>
+  <w>Sjöstedts</w>
+  <w>förslag</w>
+  <w>.</w>
+  <absaspan id=14 senti=1>
+    <w>Är</w>
+    <w>det</w>
+    <w>inte</w>
+    <w>på</w>
+    <w>tiden</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>Sjöstedt</w>
+    <w>och</w>
+    <w>V</w>
+  </absaspan>
+  <absaspan id=16 senti=1>
+    <w>slutar</w>
+  </absaspan>
+  <absaspan id=17 senti=1>
+    <w>att</w>
+    <w>slösa</w>
+    <w>på</w>
+    <w>andras</w>
+    <w>pengar</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,224 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Skulle</w>
+  <w>en</w>
+  <absaspan id=1>
+    <w>muslimsk</w>
+    <w>statskupp</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>lyckas</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>#</w>
+  <absaspan id=3 senti=1>
+    <w>P</w>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>1000</w>
+  <absaspan id=4>
+    <w>-</w>
+    <w>tals</w>
+    <w>araber</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>väller</w>
+    <w>in</w>
+    <w>i</w>
+    <w>landet</w>
+  </absaspan>
+  <w>varje</w>
+  <w>vecka</w>
+  <w>.</w>
+  <absaspan id=6>
+    <w>Kontrollen</w>
+    <w>av</w>
+    <w>dessa</w>
+    <w>element</w>
+  </absaspan>
+  <w>verkar</w>
+  <absaspan id=7 senti=2>
+    <w>närmast</w>
+    <w>obefintlig</w>
+  </absaspan>
+  <w>.</w>
+  <w>Säg</w>
+  <w>nu</w>
+  <w>att</w>
+  <absaspan id=8>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>har</w>
+    <w>tillgång</w>
+    <w>till</w>
+    <w>en</w>
+    <w>hel</w>
+    <w>del</w>
+    <w>automatvapen</w>
+    <w>genom</w>
+    <w>insmuggling</w>
+    <w>,</w>
+    <w>finansiering</w>
+  </absaspan>
+  <w>m.m</w>
+  <w>.</w>
+  <w>Säg</w>
+  <w>att</w>
+  <absaspan id=10>
+    <w>moskéerna</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>hjälper</w>
+    <w>till</w>
+    <w>med</w>
+    <w>organisering</w>
+  </absaspan>
+  <w>osv</w>
+  <w>.</w>
+  <w>Att</w>
+  <w>den</w>
+  <w>stora</w>
+  <w>(</w>
+  <w>></w>
+  <w>80</w>
+  <w>%</w>
+  <w>)</w>
+  <w>majoriteten</w>
+  <w>av</w>
+  <w>"</w>
+  <absaspan id=12>
+    <w>flyktingarna</w>
+  </absaspan>
+  <w>"</w>
+  <w>är</w>
+  <absaspan id=13 senti=1>
+    <w>kåta</w>
+    <w>unga</w>
+    <w>krigsföra</w>
+    <w>män</w>
+  </absaspan>
+  <w>innebär</w>
+  <w>ju</w>
+  <w>åtminstone</w>
+  <w>en</w>
+  <absaspan id=14 senti=1>
+    <w>stor</w>
+    <w>risk</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>en</w>
+  <absaspan id=15>
+    <w>instabil</w>
+    <w>och</w>
+    <w>farlig</w>
+    <w>utveckling</w>
+    <w>sker</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <w>Detta</w>
+  <absaspan id=16 senti=2>
+    <w>mansöverskott</w>
+  </absaspan>
+  <w>i</w>
+  <w>kombination</w>
+  <w>med</w>
+  <w>att</w>
+  <absaspan id=17>
+    <w>islam</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>uppmuntrar</w>
+    <w>till</w>
+    <w>jihad</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>kommer</w>
+    <w>ju</w>
+    <w>ge</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>dessa</w>
+  </absaspan>
+  <w>en</w>
+  <w>"</w>
+  <absaspan id=21 senti=2>
+    <w>moralisk</w>
+  </absaspan>
+  <absaspan id=22 senti=2>
+    <w>rätt</w>
+  </absaspan>
+  <w>"</w>
+  <w>enligt</w>
+  <w>deras</w>
+  <w>religion</w>
+  <w>att</w>
+  <w>börja</w>
+  <absaspan id=23 senti=1>
+    <w>döda</w>
+  </absaspan>
+  <absaspan id=24 senti=1>
+    <w>,</w>
+    <w>plundra</w>
+    <w>och</w>
+    <w>våldta</w>
+    <w>otrogna</w>
+    <w>ursinningslöst</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=1>
+  <w>Eller</w>
+  <w>kommer</w>
+  <absaspan id=25 senti=1>
+    <w>de</w>
+  </absaspan>
+  <w>vara</w>
+  <w>nöjda</w>
+  <w>så</w>
+  <w>länge</w>
+  <w>som</w>
+  <w>bidragen</w>
+  <w>flödar</w>
+  <w>och</w>
+  <w>den</w>
+  <w>demografiska</w>
+  <w>utvecklingen</w>
+  <w>går</w>
+  <w>enligt</w>
+  <w>deras</w>
+  <w>önskemål</w>
+  <absaspan id=26 senti=1>
+    <w>?</w>
+  </absaspan>
+  <w>Eller</w>
+  <w>är</w>
+  <w>det</w>
+  <w>lönlöst</w>
+  <w>för</w>
+  <absaspan id=27 senti=1>
+    <w>dem</w>
+  </absaspan>
+  <w>att</w>
+  <w>försöka</w>
+  <w>eftersom</w>
+  <w>omkringliggande</w>
+  <w>EU-länder</w>
+  <w>skulle</w>
+  <w>lägga</w>
+  <w>sig</w>
+  <w>i</w>
+  <w>?</w>
+  <absaspan id=28 senti=1>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

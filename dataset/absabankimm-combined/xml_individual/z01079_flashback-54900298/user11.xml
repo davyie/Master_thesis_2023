@@ -1,0 +1,52 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Facebookuppror</w>
+  <w>om</w>
+  <w>att</w>
+  <w>stänga</w>
+  <w>Sveriges</w>
+  <w>gränser</w>
+  <absaspan id=1>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=3>
+  <absaspan id=2>
+    <w>Man</w>
+  </absaspan>
+  <absaspan id=3 senti=4>
+    <w>är</w>
+    <w>inspirerade</w>
+  </absaspan>
+  <w>av</w>
+  <w>de</w>
+  <absaspan id=4>
+    <w>finska</w>
+    <w>demontranterna</w>
+    <w>i</w>
+    <w>Torneå</w>
+  </absaspan>
+  <w>-</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <absaspan id=5 senti=2>
+    <w>Gör</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>det</w>
+    <w>här</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>nån</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>nytta</w>
+    <w>i</w>
+    <w>vårt</w>
+    <w>land</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,80 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1 senti=5 irony target=1>
+    <w>Kvinnofriden</w>
+    <w>är</w>
+    <w>räddad-kurser</w>
+  </absaspan>
+  <w>startas</w>
+  <w>av</w>
+  <w>regeringen</w>
+  <w>om</w>
+  <w>jämlikhet</w>
+  <w>för</w>
+  <w>nyanlända</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Enligt</w>
+  <w>TV4</w>
+  <w>ska</w>
+  <w>regeringen</w>
+  <w>starta</w>
+  <w>ett</w>
+  <w>nationellt</w>
+  <w>program</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>lära</w>
+  <w>nyanlända</w>
+  <w>ensamkommande</w>
+  <w>pojkar</w>
+  <w>om</w>
+  <w>jämlikhet</w>
+  <w>och</w>
+  <w>kvinnors</w>
+  <w>rättigheter</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+  <w>Så</w>
+  <w>blir</w>
+  <w>den</w>
+  <w>frivillig</w>
+  <w>eller</w>
+  <w>obligatorisk</w>
+  <w>och</w>
+  <w>är</w>
+  <w>det</w>
+  <w>inte</w>
+  <absaspan id=2 senti=2>
+    <w>lite</w>
+    <w>väl</w>
+    <w>optimistiskt</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>att</w>
+    <w>tro</w>
+    <w>att</w>
+    <w>en</w>
+    <w>medfödd</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>nedvärderande</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>kvinnosyn</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>går</w>
+    <w>att</w>
+    <w>förändra</w>
+    <w>med</w>
+    <w>lite</w>
+    <w>värdegrundsinformation</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

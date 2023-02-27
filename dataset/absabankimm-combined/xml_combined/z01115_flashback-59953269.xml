@@ -1,0 +1,208 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1 senti=2 irony target=2>
+    <w>Chockerande</w>
+  </absaspan>
+  <absaspan id=2 senti=2 irony>
+    <w>besked</w>
+  </absaspan>
+  <w>:</w>
+  <w>Muslimer</w>
+  <w>kan</w>
+  <w>inte</w>
+  <w>alltid</w>
+  <w>ta</w>
+  <w>enkla</w>
+  <w>jobb</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Efter</w>
+  <w>kvällens</w>
+  <w>Agenda</w>
+  <w>där</w>
+  <absaspan id=3>
+    <w>SDM</w>
+    <w>och</w>
+    <w>S</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>var</w>
+    <w>överens</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=5>
+    <w>vikten</w>
+    <w>av</w>
+    <w>integration</w>
+  </absaspan>
+  <w>och</w>
+  <w>att</w>
+  <w>flytta</w>
+  <w>och</w>
+  <w>ta</w>
+  <w>dom</w>
+  <w>enkla</w>
+  <w>jobben</w>
+  <w>visar</w>
+  <w>en</w>
+  <w>dansk</w>
+  <w>undersökning</w>
+  <w>att</w>
+  <w>det</w>
+  <w>nog</w>
+  <w>inte</w>
+  <w>blir</w>
+  <w>så</w>
+  <w>alla</w>
+  <w>gånger</w>
+  <w>.</w>
+  <absaspan id=6>
+    <w>Vem</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>vill</w>
+    <w>komma</w>
+  </absaspan>
+  <w>till</w>
+  <absaspan id=8>
+    <w>helvetet</w>
+  </absaspan>
+  <w>för</w>
+  <w>ett</w>
+  <w>enkelt</w>
+  <w>jobb</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Kvinnor</w>
+  <w>får</w>
+  <w>inte</w>
+  <w>arbeta</w>
+  <w>på</w>
+  <w>arbetsplatser</w>
+  <w>med</w>
+  <w>män</w>
+  <w>och</w>
+  <w>då</w>
+  <w>faller</w>
+  <w>bla</w>
+  <w>kassajobb</w>
+  <w>bort</w>
+  <absaspan id=9 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Män</w>
+  <w>får</w>
+  <w>inte</w>
+  <w>köra</w>
+  <w>någon</w>
+  <w>i</w>
+  <w>taxi</w>
+  <w>till</w>
+  <w>en</w>
+  <w>inrättning</w>
+  <w>som</w>
+  <w>säljer</w>
+  <w>alkohol</w>
+  <absaspan id=10 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>Enkla</w>
+  <w>bankjobb</w>
+  <w>faller</w>
+  <w>bort</w>
+  <w>pga</w>
+  <w>att</w>
+  <w>man</w>
+  <w>inte</w>
+  <w>får</w>
+  <w>arbeta</w>
+  <w>där</w>
+  <w>det</w>
+  <w>tas</w>
+  <w>ut</w>
+  <w>ränta</w>
+  <w>etc</w>
+  <absaspan id=11 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5 senti=2>
+  <w>Kommer</w>
+  <w>Sverige</w>
+  <w>att</w>
+  <w>råka</w>
+  <w>ut</w>
+  <w>för</w>
+  <w>liknande</w>
+  <w>probl</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>jag</w>
+  <w>menar</w>
+  <w>utmaningar</w>
+  <w>?</w>
+  <absaspan id=12 senti=2 irony>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=6 senti=2>
+  <w>Är</w>
+  <w>SDM</w>
+  <w>och</w>
+  <w>S</w>
+  <w>vision</w>
+  <w>om</w>
+  <w>den</w>
+  <w>ljusnande</w>
+  <w>framtiden</w>
+  <w>bara</w>
+  <w>en</w>
+  <w>dröm</w>
+  <absaspan id=13 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>Kommer</w>
+  <w>pensionerna</w>
+  <w>inte</w>
+  <w>att</w>
+  <w>räddas</w>
+  <w>av</w>
+  <absaspan id=14 senti=2>
+    <w>arbetsvägrarna</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Andra</w>
+  <w>tankar</w>
+  <w>om</w>
+  <absaspan id=15>
+    <w>undersökningen</w>
+  </absaspan>
+  <w>och</w>
+  <w>hur</w>
+  <w>den</w>
+  <w>kan</w>
+  <w>komma</w>
+  <w>att</w>
+  <absaspan id=16 senti=2>
+    <w>spela</w>
+    <w>SDM</w>
+    <w>och</w>
+    <w>S</w>
+    <w>ett</w>
+    <w>spratt</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,117 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Finland</w>
+  <w>drar</w>
+  <w>ner</w>
+  <w>flyktingkvoten</w>
+  <w>med</w>
+  <w>25%</w>
+  <w>,</w>
+  <w>från</w>
+  <w>1000</w>
+  <w>flyktingar</w>
+  <w>till</w>
+  <w>750</w>
+  <absaspan id=1 senti=2>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Finland</w>
+  <w>vill</w>
+  <w>alltså</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>färre</w>
+  <w>flyktingar</w>
+  <w>i</w>
+  <w>framtiden</w>
+  <w>.</w>
+  <w>Bakgrunden</w>
+  <w>är</w>
+  <w>EU</w>
+  <w>:</w>
+  <w>s</w>
+  <w>förslag</w>
+  <w>att</w>
+  <w>jämnare</w>
+  <w>fördela</w>
+  <absaspan id=2 senti=2>
+    <w>flyktingtrycket</w>
+  </absaspan>
+  <w>i</w>
+  <w>Europa</w>
+  <w>mellan</w>
+  <w>EU-länderna</w>
+  <w>.</w>
+  <w>Genom</w>
+  <w>att</w>
+  <w>sänka</w>
+  <w>flyktingkvoten</w>
+  <w>vill</w>
+  <w>regeringen</w>
+  <w>hålla</w>
+  <w>det</w>
+  <w>totala</w>
+  <w>antalet</w>
+  <w>flyktingar</w>
+  <w>,</w>
+  <w>inkluderande</w>
+  <w>dessa</w>
+  <w>"</w>
+  <w>flyktingförflyttningar</w>
+  <w>"</w>
+  <w>på</w>
+  <w>samma</w>
+  <w>nivå</w>
+  <w>som</w>
+  <w>tidigare</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Vad</w>
+  <w>anser</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>?</w>
+  <absaspan id=3 senti=2>
+    <w>Sviker</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>Finland</w>
+  </absaspan>
+  <w>sitt</w>
+  <w>Europeiska</w>
+  <w>ansvar</w>
+  <w>?</w>
+  <w>Hur</w>
+  <w>är</w>
+  <w>det</w>
+  <w>med</w>
+  <w>Sverige</w>
+  <w>och</w>
+  <absaspan id=5>
+    <w>flyktingförflyttningar</w>
+  </absaspan>
+  <w>,</w>
+  <w>kommer</w>
+  <w>Sverige</w>
+  <w>att</w>
+  <w>få</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>fler</w>
+  <w>för</w>
+  <w>att</w>
+  <w>lätta</w>
+  <absaspan id=6 senti=2>
+    <w>trycket</w>
+  </absaspan>
+  <w>på</w>
+  <w>andra</w>
+  <w>EU-länder</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

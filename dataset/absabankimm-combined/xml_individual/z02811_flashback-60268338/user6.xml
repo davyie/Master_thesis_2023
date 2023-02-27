@@ -1,0 +1,137 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1 senti=5 irony target=1>
+    <w>Guldregn</w>
+  </absaspan>
+  <w>över</w>
+  <w>skolor</w>
+  <w>med</w>
+  <w>MENA-migranter</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Vi</w>
+  <w>har</w>
+  <w>på</w>
+  <w>senare</w>
+  <w>tid</w>
+  <absaspan id=2 senti=2>
+    <w>till</w>
+    <w>leda</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>hört</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=6 senti=1>
+    <w>katastrofalt</w>
+    <w>dåliga</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>skolresultaten</w>
+    <w>i</w>
+    <w>skolor</w>
+    <w>med</w>
+    <w>MENA-migranter</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>,</w>
+    <w>skall</w>
+    <w>åtgärdas</w>
+    <w>med</w>
+    <w>kraftigt</w>
+    <w>ökat</w>
+  </absaspan>
+  <absaspan id=9 senti=5 irony>
+    <w>penningregn</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>över</w>
+    <w>dessa</w>
+    <w>skolor</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Är</w>
+  <w>fullkomligt</w>
+  <w>övertygad</w>
+  <w>att</w>
+  <absaspan id=11>
+    <w>detta</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>kommer</w>
+    <w>aldrig</w>
+    <w>göra</w>
+    <w>någon</w>
+    <w>skillnad</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>En</w>
+  <w>lärare</w>
+  <w>på</w>
+  <w>universitetet</w>
+  <w>sade</w>
+  <w>en</w>
+  <w>gång</w>
+  <w>följande</w>
+  <w>sanna</w>
+  <w>ord</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Har</w>
+  <w>även</w>
+  <w>hört</w>
+  <w>samma</w>
+  <w>påstående</w>
+  <w>från</w>
+  <w>flera</w>
+  <w>andra</w>
+  <w>håll</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=1>
+  <w>Det</w>
+  <absaspan id=13 senti=1>
+    <w>är</w>
+  </absaspan>
+  <w>m.a.o</w>
+  <w>.</w>
+  <absaspan id=14 senti=1>
+    <w>helt</w>
+  </absaspan>
+  <absaspan id=15 senti=1>
+    <w>bortkastade</w>
+    <w>pengar</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>tro</w>
+    <w>man</w>
+    <w>kan</w>
+    <w>bilda</w>
+    <w>en</w>
+    <w>massa</w>
+  </absaspan>
+  <absaspan id=17 senti=1>
+    <w>neger</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=19 senti=1>
+    <w>arabungar</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

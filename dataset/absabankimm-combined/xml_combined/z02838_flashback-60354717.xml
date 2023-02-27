@@ -1,0 +1,193 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Davis</w>
+  <w>Salehs</w>
+  <w>nya</w>
+  <w>bok</w>
+  <w>Sex</w>
+  <w>och</w>
+  <w>samlevnad</w>
+  <w>för</w>
+  <w>nyanlända</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>"</w>
+  <w>Materialet</w>
+  <w>är</w>
+  <w>indelat</w>
+  <w>i</w>
+  <w>fyra</w>
+  <w>nivåer</w>
+  <w>som</w>
+  <w>baseras</w>
+  <w>på</w>
+  <w>elevernas</w>
+  <w>förkunskaper</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>.</w>
+  <w>*</w>
+  <w>T1</w>
+  <w>är</w>
+  <w>för</w>
+  <w>elever</w>
+  <w>som</w>
+  <w>helt</w>
+  <w>saknar</w>
+  <w>läs</w>
+  <w>-</w>
+  <w>och</w>
+  <w>skrivkunskaper</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>.</w>
+  <w>*</w>
+  <w>T2</w>
+  <w>är</w>
+  <w>för</w>
+  <w>elever</w>
+  <w>med</w>
+  <w>kort</w>
+  <w>skolbakgrund</w>
+  <w>,</w>
+  <w>4</w>
+  <w>-</w>
+  <w>7</w>
+  <w>år</w>
+  <w>i</w>
+  <w>skolan</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>.</w>
+  <w>*</w>
+  <w>T3</w>
+  <w>är</w>
+  <w>för</w>
+  <w>elever</w>
+  <w>med</w>
+  <w>9</w>
+  <w>år</w>
+  <w>eller</w>
+  <w>mer</w>
+  <w>i</w>
+  <w>skolan</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>.</w>
+  <w>*</w>
+  <w>TS</w>
+  <w>är</w>
+  <w>för</w>
+  <w>elever</w>
+  <w>med</w>
+  <w>behov</w>
+  <w>av</w>
+  <w>särskilt</w>
+  <w>stöd</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=3>
+  <w>Det</w>
+  <w>är</w>
+  <w>en</w>
+  <w>stor</w>
+  <w>omställning</w>
+  <w>för</w>
+  <absaspan id=1>
+    <w>nyanlända</w>
+    <w>elever</w>
+  </absaspan>
+  <w>att</w>
+  <w>komma</w>
+  <w>till</w>
+  <w>ett</w>
+  <w>nytt</w>
+  <w>land</w>
+  <w>och</w>
+  <w>annan</w>
+  <w>kultur</w>
+  <w>än</w>
+  <w>de</w>
+  <w>är</w>
+  <w>vana</w>
+  <w>vid</w>
+  <w>.</w>
+  <w>Inte</w>
+  <w>minst</w>
+  <absaspan id=2>
+    <w>vår</w>
+    <w>syn</w>
+    <w>på</w>
+    <w>sex</w>
+    <w>,</w>
+    <w>samlevnad</w>
+    <w>,</w>
+    <w>jämställdhet</w>
+    <w>och</w>
+    <w>hbtq</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>kan</w>
+    <w>upplevas</w>
+    <w>främmande</w>
+  </absaspan>
+  <w>.</w>
+  <w>"</w>
+  <absaspan id=4>
+    <w>Att</w>
+    <w>studera</w>
+    <w>sex</w>
+    <w>och</w>
+    <w>samlevnad</w>
+    <w>integrerat</w>
+    <w>i</w>
+    <w>språket</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>underlättar</w>
+    <w>och</w>
+    <w>förkortar</w>
+    <w>vägen</w>
+    <w>till</w>
+    <w>det</w>
+    <w>nya</w>
+    <w>samhället</w>
+  </absaspan>
+  <w>"</w>
+  <w>,</w>
+  <w>menar</w>
+  <absaspan id=6>
+    <w>David</w>
+    <w>Saleh</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>har</w>
+  <w>skrivit</w>
+  <w>Sex</w>
+  <w>och</w>
+  <w>samlevnad</w>
+  <w>för</w>
+  <w>nyanlända</w>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Är</w>
+  <w>detta</w>
+  <w>en</w>
+  <w>bra</w>
+  <w>idé</w>
+  <w>?</w>
+  <absaspan id=7 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

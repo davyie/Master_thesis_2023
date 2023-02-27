@@ -1,0 +1,70 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Varför</w>
+  <absaspan id=1 senti=2 partof=3>
+    <w>byggde</w>
+  </absaspan>
+  <w>man</w>
+  <absaspan id=2>
+    <w>miljonprogrammen</w>
+  </absaspan>
+  <w>så</w>
+  <absaspan id=3 senti=2 target=2>
+    <w>fult</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Varför</w>
+  <absaspan id=4 senti=2>
+    <w>gjorde</w>
+  </absaspan>
+  <w>man</w>
+  <absaspan id=5>
+    <w>miljonprogrammen</w>
+  </absaspan>
+  <w>så</w>
+  <absaspan id=6 senti=2>
+    <w>fula</w>
+  </absaspan>
+  <w>?</w>
+  <w>Pengar</w>
+  <w>?</w>
+  <absaspan id=7 senti=2>
+    <w>Dålig</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>fantasi</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Varför</w>
+  <absaspan id=9 senti=2>
+    <w>tycker</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>folk</w>
+    <w>i</w>
+    <w>allmänhet</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=11>
+    <w>dessa</w>
+    <w>områden</w>
+    <w>är</w>
+    <w>fula</w>
+  </absaspan>
+  <w>?</w>
+  <w>Hur</w>
+  <w>skulle</w>
+  <w>man</w>
+  <w>annars</w>
+  <w>ha</w>
+  <w>byggt</w>
+  <w>dem</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

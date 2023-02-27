@@ -1,0 +1,120 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>SD</w>
+    <w>ta</w>
+    <w>avstånd</w>
+    <w>ifrån</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>rasism</w>
+    <w>och</w>
+    <w>främlingsfientlighet</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3 senti=2>
+    <w>Varför</w>
+    <w>tar</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>mer</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>avstånd</w>
+    <w>ifrån</w>
+    <w>rasism</w>
+    <w>och</w>
+    <w>främlingsfientlighet</w>
+  </absaspan>
+  <w>när</w>
+  <w>det</w>
+  <absaspan id=7 senti=4>
+    <w>skulle</w>
+    <w>hjälpa</w>
+    <w>dem</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=8 senti=4>
+    <w>få</w>
+    <w>mer</w>
+    <w>trovärdighet</w>
+    <w>och</w>
+    <w>fler</w>
+    <w>röster</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Jag</w>
+  <w>ser</w>
+  <w>hur</w>
+  <absaspan id=9>
+    <w>många</w>
+    <w>SD-sympatisörer</w>
+  </absaspan>
+  <w>som</w>
+  <w>helst</w>
+  <w>på</w>
+  <w>forumet</w>
+  <w>som</w>
+  <absaspan id=10 senti=4>
+    <w>hävdar</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=11>
+    <w>SD</w>
+    <w>inte</w>
+    <w>alls</w>
+    <w>är</w>
+    <w>rasister</w>
+    <w>eller</w>
+    <w>främlingsfientliga</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vad</w>
+  <w>står</w>
+  <w>då</w>
+  <w>SD</w>
+  <w>för</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Och</w>
+  <absaspan id=12 senti=2>
+    <w>varför</w>
+    <w>tar</w>
+    <w>man</w>
+    <w>då</w>
+    <w>inte</w>
+    <w>mer</w>
+    <w>avstånd</w>
+    <w>ifrån</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>dessa</w>
+    <w>extrema</w>
+    <w>åsikter</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vad</w>
+  <w>säger</w>
+  <w>ni</w>
+  <w>som</w>
+  <w>röstat</w>
+  <w>på</w>
+  <w>SD</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

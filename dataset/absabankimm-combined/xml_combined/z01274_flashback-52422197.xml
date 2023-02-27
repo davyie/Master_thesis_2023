@@ -1,0 +1,203 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>[</w>
+  <absaspan id=1 senti=1 source=6 target=2>
+    <w>Förtal</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>stämpla</w>
+    <w>någon</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>rasist</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>?</w>
+  </absaspan>
+  <w>]</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Läste</w>
+  <w>denna</w>
+  <w>debatt</w>
+  <w>mellan</w>
+  <w>gunilla</w>
+  <w>gomer</w>
+  <w>och</w>
+  <w>(</w>
+  <w>kd</w>
+  <w>)</w>
+  <w>och</w>
+  <w>linda</w>
+  <w>snecker</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>gunilla</w>
+  <w>hävdar</w>
+  <w>först</w>
+  <w>i</w>
+  <w>en</w>
+  <w>ledare</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>något</w>
+  <w>konstigt</w>
+  <w>i</w>
+  <w>att</w>
+  <w>somalier</w>
+  <w>som</w>
+  <w>fått</w>
+  <w>asyl</w>
+  <w>i</w>
+  <w>sverige</w>
+  <w>packar</w>
+  <w>resväskan</w>
+  <w>och</w>
+  <w>åker</w>
+  <w>till</w>
+  <w>somalia</w>
+  <w>på</w>
+  <w>semester</w>
+  <w>samtidigt</w>
+  <w>som</w>
+  <w>nya</w>
+  <w>somalier</w>
+  <w>flyr</w>
+  <w>och</w>
+  <w>får</w>
+  <w>asyl</w>
+  <w>i</w>
+  <w>sverige</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>då</w>
+  <w>skriver</w>
+  <absaspan id=7>
+    <w>linda</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=8>
+    <w>gunilla</w>
+  </absaspan>
+  <absaspan id=9 senti=1>
+    <w>är</w>
+    <w>rasist</w>
+    <w>och</w>
+    <w>inte</w>
+    <w>har</w>
+    <w>någonting</w>
+    <w>att</w>
+    <w>komma</w>
+    <w>med</w>
+    <w>,</w>
+    <w>att</w>
+    <w>hon</w>
+    <w>gynnar</w>
+    <w>främlingsfientlighet</w>
+    <w>och</w>
+    <w>att</w>
+    <w>hon</w>
+    <w>får</w>
+    <w>vänja</w>
+    <w>sig</w>
+    <w>vid</w>
+    <w>att</w>
+    <w>få</w>
+    <w>dessa</w>
+    <w>epitet</w>
+    <w>klistrade</w>
+    <w>på</w>
+    <w>sig</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>dvs</w>
+  <w>,</w>
+  <w>folk</w>
+  <w>ska</w>
+  <w>ha</w>
+  <w>rätt</w>
+  <w>att</w>
+  <absaspan id=10 senti=2>
+    <w>rasiststämpla</w>
+  </absaspan>
+  <w>henne</w>
+  <w>bäst</w>
+  <w>fan</w>
+  <w>de</w>
+  <w>vill</w>
+  <w>.</w>
+  <absaspan id=11>
+    <w>läs</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>gärna</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>debattserien</w>
+    <w>själva</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>men</w>
+  <w>,</w>
+  <w>varför</w>
+  <w>har</w>
+  <w>jag</w>
+  <w>postat</w>
+  <w>här</w>
+  <w>i</w>
+  <w>juridik</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>jo</w>
+  <w>,</w>
+  <absaspan id=14>
+    <w>om</w>
+    <w>man</w>
+    <w>nu</w>
+    <w>får</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>rasiststämpel</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>på</w>
+    <w>sig</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>någon</w>
+    <w>person</w>
+    <w>(</w>
+    <w>antirasist</w>
+    <w>)</w>
+  </absaspan>
+  <w>,</w>
+  <w>kan</w>
+  <w>det</w>
+  <w>räknas</w>
+  <w>som</w>
+  <absaspan id=18 senti=1>
+    <w>förtal</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

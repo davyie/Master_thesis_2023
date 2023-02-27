@@ -1,0 +1,74 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Etnisk</w>
+  <w>nationalism</w>
+  <w>[</w>
+  <w>utbruten</w>
+  <w>tråd</w>
+  <w>/</w>
+  <w>Mod</w>
+  <w>]</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Är</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>lite</w>
+  <w>tvärtom</w>
+  <w>,</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>etniska</w>
+    <w>nationalister</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>har</w>
+    <w>kapat</w>
+    <w>själva</w>
+    <w>begreppet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>?</w>
+  <w>Man</w>
+  <absaspan id=3 senti=2>
+    <w>måste</w>
+    <w>ju</w>
+    <w>inte</w>
+    <w>vara</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>rasist</w>
+    <w>eller</w>
+    <w>ens</w>
+    <w>"</w>
+    <w>rasmedveten</w>
+  </absaspan>
+  <w>"</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=5 senti=4>
+    <w>tro</w>
+    <w>på</w>
+  </absaspan>
+  <w>en</w>
+  <absaspan id=6>
+    <w>stark</w>
+    <w>nationalstat</w>
+    <w>grundad</w>
+    <w>på</w>
+    <w>t.ex</w>
+    <w>kultur</w>
+    <w>eller</w>
+    <w>bara</w>
+    <w>geografi</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

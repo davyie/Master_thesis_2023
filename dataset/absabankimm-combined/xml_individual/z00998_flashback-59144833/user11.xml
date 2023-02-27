@@ -1,0 +1,173 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>#</w>
+  <absaspan id=1 senti=3>
+    <w>T</w>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=2>
+    <w>84%</w>
+    <w>av</w>
+    <w>asylsökande</w>
+  </absaspan>
+  <absaspan id=3 senti=4>
+    <w>vill</w>
+    <w>stanna</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>i</w>
+    <w>Sverige</w>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Expressen</w>
+  <w>har</w>
+  <w>gjort</w>
+  <w>en</w>
+  <w>enkätundersökning</w>
+  <w>med</w>
+  <w>1</w>
+  <w>691</w>
+  <w>personer</w>
+  <w>vid</w>
+  <w>18</w>
+  <w>av</w>
+  <w>landets</w>
+  <w>olika</w>
+  <w>asylboenden</w>
+  <w>.</w>
+  <absaspan id=5 senti=4>
+    <w>Känslan</w>
+    <w>man</w>
+    <w>fått</w>
+  </absaspan>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=6>
+    <w>vi</w>
+    <w>ska</w>
+    <w>hjälpa</w>
+    <w>människorna</w>
+    <w>under</w>
+    <w>en</w>
+    <w>tid</w>
+    <w>tills</w>
+    <w>de</w>
+    <w>kan</w>
+    <w>åka</w>
+    <w>hem</w>
+    <w>igen</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=7 senti=2>
+    <w>Den</w>
+    <w>känslan</w>
+    <w>kunde</w>
+    <w>inte</w>
+    <w>gå</w>
+    <w>mer</w>
+    <w>tvärt</w>
+    <w>emot</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>vad</w>
+    <w>de</w>
+    <w>asylsökande</w>
+    <w>själva</w>
+    <w>vill</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <w>Så</w>
+  <w>alla</w>
+  <w>dessa</w>
+  <absaspan id=9>
+    <w>84%</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>vill</w>
+    <w>alltså</w>
+    <w>stanna</w>
+    <w>permanent</w>
+  </absaspan>
+  <w>och</w>
+  <w>med</w>
+  <w>tanke</w>
+  <w>på</w>
+  <w>den</w>
+  <absaspan id=11>
+    <w>kraftiga</w>
+    <w>invandring</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>vi</w>
+    <w>haft</w>
+    <w>under</w>
+    <w>hela</w>
+    <w>2000</w>
+    <w>-</w>
+    <w>talet</w>
+  </absaspan>
+  <w>så</w>
+  <w>kommer</w>
+  <w>det</w>
+  <absaspan id=13 senti=2>
+    <w>krävas</w>
+    <w>enorma</w>
+    <w>investeringar</w>
+  </absaspan>
+  <w>i</w>
+  <w>både</w>
+  <w>infrastruktur</w>
+  <w>och</w>
+  <w>boende</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Hur</w>
+  <w>känner</w>
+  <w>ni</w>
+  <w>andra</w>
+  <w>?</w>
+  <w>Har</w>
+  <w>ni</w>
+  <w>också</w>
+  <w>fått</w>
+  <w>uppfattningen</w>
+  <w>att</w>
+  <absaspan id=14>
+    <w>etablissemanget</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>försökt</w>
+    <w>intala</w>
+    <w>oss</w>
+    <w>alla</w>
+    <w>att</w>
+    <w>de</w>
+    <w>är</w>
+    <w>här</w>
+    <w>temporärt</w>
+  </absaspan>
+  <w>tills</w>
+  <w>krigen</w>
+  <w>är</w>
+  <w>över</w>
+  <w>?</w>
+  <w>Och</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>därför</w>
+  <w>de</w>
+  <w>söker</w>
+  <w>just</w>
+  <w>asyl</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

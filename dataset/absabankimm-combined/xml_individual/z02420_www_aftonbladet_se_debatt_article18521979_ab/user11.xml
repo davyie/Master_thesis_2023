@@ -1,0 +1,557 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>En</w>
+    <w>dödad</w>
+    <w>journalist</w>
+  </absaspan>
+  <w>-</w>
+  <w>ett</w>
+  <absaspan id=2 senti=1 target=1>
+    <w>nederlag</w>
+    <w>för</w>
+    <w>demokratin</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Dödsskjutningen</w>
+    <w>av</w>
+    <w>Sveriges</w>
+    <w>Radios</w>
+    <w>asienkorrespondent</w>
+    <w>Nils</w>
+    <w>Horner</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>har</w>
+    <w>chockat</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>oss</w>
+    <w>alla</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vi</w>
+  <w>har</w>
+  <w>förlorat</w>
+  <w>en</w>
+  <absaspan id=6 senti=5>
+    <w>fantastisk</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>journalist</w>
+  </absaspan>
+  <w>och</w>
+  <w>en</w>
+  <absaspan id=8 senti=4>
+    <w>uppskattad</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>kollega</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=10>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>sörjer</w>
+  </absaspan>
+  <w>med</w>
+  <w>familj</w>
+  <w>och</w>
+  <w>anhöriga</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>vi</w>
+  <w>har</w>
+  <w>återigen</w>
+  <w>påmints</w>
+  <w>om</w>
+  <w>hur</w>
+  <absaspan id=12 senti=2>
+    <w>utsatt</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>journalistyrket</w>
+  </absaspan>
+  <w>är</w>
+  <w>.</w>
+  <w>Hur</w>
+  <w>journalister</w>
+  <w>görs</w>
+  <w>till</w>
+  <w>måltavlor</w>
+  <w>,</w>
+  <absaspan id=14 senti=1>
+    <w>utsätts</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=15>
+    <w>hot</w>
+    <w>och</w>
+    <w>våld</w>
+  </absaspan>
+  <w>.</w>
+  <w>Hur</w>
+  <w>journalister</w>
+  <w>mördas</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Internationella</w>
+  <w>journalistfederationen</w>
+  <w>,</w>
+  <w>IFJ</w>
+  <w>,</w>
+  <w>rapporterade</w>
+  <w>att</w>
+  <w>minst</w>
+  <w>120</w>
+  <w>kolleger</w>
+  <w>dödats</w>
+  <w>i</w>
+  <w>jobbet</w>
+  <w>under</w>
+  <w>2013</w>
+  <w>.</w>
+  <w>Endast</w>
+  <w>15</w>
+  <w>av</w>
+  <w>dessa</w>
+  <w>dödsfall</w>
+  <w>var</w>
+  <w>olyckor</w>
+  <w>.</w>
+  <w>105</w>
+  <w>journalister</w>
+  <w>dödades</w>
+  <w>alltså</w>
+  <w>av</w>
+  <w>någon</w>
+  <w>förra</w>
+  <w>året</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Siffrorna</w>
+  <w>är</w>
+  <w>högst</w>
+  <w>i</w>
+  <w>Syrien</w>
+  <w>,</w>
+  <w>Irak</w>
+  <w>,</w>
+  <w>Pakistan</w>
+  <w>,</w>
+  <w>Indien</w>
+  <w>och</w>
+  <w>Filippinerna</w>
+  <w>,</w>
+  <w>men</w>
+  <w>ytterligare</w>
+  <w>20</w>
+  <w>länder</w>
+  <w>återfinns</w>
+  <w>på</w>
+  <w>denna</w>
+  <w>svarta</w>
+  <w>lista</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Och</w>
+  <w>denna</w>
+  <absaspan id=16 senti=2>
+    <w>sorgliga</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>utveckling</w>
+  </absaspan>
+  <w>fortsätter</w>
+  <w>.</w>
+  <w>Årets</w>
+  <w>första</w>
+  <w>rapport</w>
+  <w>om</w>
+  <w>en</w>
+  <w>dödad</w>
+  <w>journalist</w>
+  <w>kom</w>
+  <w>redan</w>
+  <w>2</w>
+  <w>januari</w>
+  <w>,</w>
+  <w>då</w>
+  <w>en</w>
+  <w>pakistansk</w>
+  <w>reporter</w>
+  <w>hade</w>
+  <w>skjutits</w>
+  <w>till</w>
+  <w>döds</w>
+  <w>två</w>
+  <w>dagar</w>
+  <w>tidigare</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Rapporter</w>
+  <w>om</w>
+  <w>dödade</w>
+  <w>kolleger</w>
+  <w>har</w>
+  <w>därefter</w>
+  <w>kommit</w>
+  <w>med</w>
+  <w>jämna</w>
+  <w>mellanrum</w>
+  <w>även</w>
+  <w>i</w>
+  <w>år</w>
+  <w>,</w>
+  <w>och</w>
+  <w>nu</w>
+  <w>alltså</w>
+  <w>den</w>
+  <absaspan id=18 senti=1>
+    <w>fruktansvärda</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>nyheten</w>
+  </absaspan>
+  <w>om</w>
+  <w>Nils</w>
+  <w>Horner</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Vi</w>
+  <w>har</w>
+  <w>de</w>
+  <w>senaste</w>
+  <w>åren</w>
+  <w>sett</w>
+  <w>hur</w>
+  <absaspan id=20 senti=2>
+    <w>utsatta</w>
+  </absaspan>
+  <w>även</w>
+  <absaspan id=21>
+    <w>svenska</w>
+    <w>journalister</w>
+  </absaspan>
+  <w>är</w>
+  <w>i</w>
+  <w>samband</w>
+  <w>med</w>
+  <w>internationella</w>
+  <w>uppdrag</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>också</w>
+  <w>hur</w>
+  <absaspan id=22 senti=2>
+    <w>påtryckningsförsöken</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>mot</w>
+    <w>oss</w>
+  </absaspan>
+  <w>blir</w>
+  <w>allt</w>
+  <w>tydligare</w>
+  <w>här</w>
+  <w>hemma</w>
+  <absaspan id=24>
+    <w>.</w>
+  </absaspan>
+  <w>Journalistförbundets</w>
+  <w>undersökningar</w>
+  <w>visar</w>
+  <w>att</w>
+  <w>40</w>
+  <w>procent</w>
+  <w>av</w>
+  <w>medlemmarna</w>
+  <w>har</w>
+  <w>utsatts</w>
+  <w>för</w>
+  <w>någon</w>
+  <w>form</w>
+  <w>av</w>
+  <w>påtryckning</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <absaspan id=25>
+    <w>Journalister</w>
+  </absaspan>
+  <w>kommer</w>
+  <w>alltid</w>
+  <w>att</w>
+  <w>vara</w>
+  <w>ett</w>
+  <absaspan id=26 senti=2>
+    <w>hot</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=27>
+    <w>vissa</w>
+    <w>grupper</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>De</w>
+  <absaspan id=28>
+    <w>grupper</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=29 senti=2>
+    <w>inte</w>
+    <w>vill</w>
+    <w>se</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>demokrati</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=31 senti=2>
+    <w>inte</w>
+    <w>vill</w>
+    <w>se</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>öppenhet</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=33 senti=2>
+    <w>inte</w>
+    <w>vill</w>
+    <w>se</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>allas</w>
+    <w>lika</w>
+    <w>värde</w>
+  </absaspan>
+  <w>.</w>
+  <w>De</w>
+  <absaspan id=35>
+    <w>grupper</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=36 senti=2>
+    <w>inte</w>
+    <w>vill</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=37>
+    <w>verkligheten</w>
+    <w>ska</w>
+    <w>förmedlas</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Och</w>
+  <absaspan id=38>
+    <w>dessa</w>
+    <w>grupper</w>
+  </absaspan>
+  <w>drar</w>
+  <w>sig</w>
+  <w>inte</w>
+  <w>för</w>
+  <w>att</w>
+  <w>tysta</w>
+  <absaspan id=39>
+    <w>oss</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=40 senti=1>
+    <w>hot</w>
+    <w>och</w>
+    <w>våld</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Tio</w>
+  <w>journalister</w>
+  <w>dödas</w>
+  <w>alltså</w>
+  <w>varje</w>
+  <w>månad</w>
+  <w>,</w>
+  <w>året</w>
+  <w>om</w>
+  <absaspan id=41>
+    <w>.</w>
+  </absaspan>
+  <w>För</w>
+  <w>varje</w>
+  <w>demokratiskt</w>
+  <w>vald</w>
+  <w>ledare</w>
+  <w>borde</w>
+  <w>detta</w>
+  <w>vara</w>
+  <w>en</w>
+  <absaspan id=42 senti=1>
+    <w>skräcksiffra</w>
+  </absaspan>
+  <w>.</w>
+  <w>Ändå</w>
+  <w>hör</w>
+  <w>vi</w>
+  <w>fortfarande</w>
+  <w>väldigt</w>
+  <w>lite</w>
+  <w>om</w>
+  <w>hur</w>
+  <w>dessa</w>
+  <w>siffror</w>
+  <w>ska</w>
+  <w>minska</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>handlar</w>
+  <w>mest</w>
+  <w>om</w>
+  <w>hur</w>
+  <w>redaktioner</w>
+  <w>ska</w>
+  <w>ta</w>
+  <w>ansvar</w>
+  <w>,</w>
+  <w>och</w>
+  <w>hur</w>
+  <w>vi</w>
+  <w>ska</w>
+  <w>skydda</w>
+  <w>oss</w>
+  <w>på</w>
+  <w>fältet</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Och</w>
+  <w>visst</w>
+  <w>kan</w>
+  <w>journalistyrket</w>
+  <w>diskuteras</w>
+  <w>ur</w>
+  <w>ett</w>
+  <w>säkerhetsperspektiv</w>
+  <w>,</w>
+  <w>och</w>
+  <w>vilka</w>
+  <w>risker</w>
+  <w>enskilda</w>
+  <w>journalister</w>
+  <w>ska</w>
+  <w>ta</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Men</w>
+  <w>det</w>
+  <w>är</w>
+  <w>aldrig</w>
+  <w>journalister</w>
+  <w>som</w>
+  <w>väljer</w>
+  <w>att</w>
+  <w>bli</w>
+  <w>dödade</w>
+  <w>,</w>
+  <w>det</w>
+  <w>är</w>
+  <w>någon</w>
+  <w>som</w>
+  <w>väljer</w>
+  <w>att</w>
+  <w>döda</w>
+  <w>journalister</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>det</w>
+  <w>är</w>
+  <w>ett</w>
+  <absaspan id=43>
+    <w>brott</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=44 senti=1>
+    <w>aldrig</w>
+    <w>får</w>
+    <w>accepteras</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <absaspan id=45>
+    <w>Varje</w>
+    <w>dödad</w>
+    <w>journalist</w>
+  </absaspan>
+  <w>är</w>
+  <w>ett</w>
+  <absaspan id=46 senti=1>
+    <w>nederlag</w>
+    <w>för</w>
+    <w>yttrandefriheten</w>
+    <w>och</w>
+    <w>demokratin</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vi</w>
+  <w>måste</w>
+  <absaspan id=47 senti=5>
+    <w>hedra</w>
+  </absaspan>
+  <absaspan id=48>
+    <w>var</w>
+    <w>och</w>
+    <w>en</w>
+  </absaspan>
+  <w>genom</w>
+  <w>att</w>
+  <absaspan id=49 senti=2>
+    <w>aldrig</w>
+    <w>låta</w>
+  </absaspan>
+  <absaspan id=50 senti=2>
+    <w>dem</w>
+    <w>falla</w>
+    <w>i</w>
+    <w>glömska</w>
+  </absaspan>
+  <w>.</w>
+  <w>Och</w>
+  <w>fortsätta</w>
+  <w>deras</w>
+  <w>arbete</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Jonas</w>
+  <w>Nordling</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>R</w>
+  <w>.</w>
+</absapar>
+</absadoc>

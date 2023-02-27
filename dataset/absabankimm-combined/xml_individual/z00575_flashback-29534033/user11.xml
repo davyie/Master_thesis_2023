@@ -1,0 +1,183 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Är</w>
+  <w>sportjournalisten</w>
+  <absaspan id=1>
+    <w>Olof</w>
+    <w>Lundh</w>
+  </absaspan>
+  <absaspan id=2 senti=1 source=3 target=1>
+    <w>RASIST</w>
+  </absaspan>
+  <w>?</w>
+  <w>?</w>
+  <absaspan id=3>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Från</w>
+  <w>början</w>
+  <w>tänkte</w>
+  <w>jag</w>
+  <w>posta</w>
+  <w>detta</w>
+  <w>i</w>
+  <w>min</w>
+  <w>"</w>
+  <w>Morden</w>
+  <w>i</w>
+  <w>Midsomer</w>
+  <w>"</w>
+  <w>-</w>
+  <w>tråd</w>
+  <w>,</w>
+  <w>eftersom</w>
+  <w>det</w>
+  <w>går</w>
+  <w>att</w>
+  <w>dra</w>
+  <w>paralleller</w>
+  <w>,</w>
+  <w>men</w>
+  <w>jag</w>
+  <w>beslöt</w>
+  <w>mig</w>
+  <w>för</w>
+  <w>att</w>
+  <w>ge</w>
+  <w>det</w>
+  <w>hela</w>
+  <w>en</w>
+  <w>egen</w>
+  <w>tråd</w>
+  <w>.</w>
+  <w>Till</w>
+  <w>saken</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Nu</w>
+  <w>har</w>
+  <absaspan id=4>
+    <w>fotbollskrönikören</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=5 senti=2>
+    <w>gjort</w>
+    <w>sig</w>
+    <w>skyldig</w>
+  </absaspan>
+  <w>till</w>
+  <w>en</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>)</w>
+  <w>utan</w>
+  <w>motstycke</w>
+  <w>i</w>
+  <w>svensk</w>
+  <w>sportjournalistik</w>
+  <w>!</w>
+  <w>Han</w>
+  <w>skriver</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>senaste</w>
+  <w>bloggpost</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Fler</w>
+  <w>och</w>
+  <w>fler</w>
+  <w>börjar</w>
+  <absaspan id=6 senti=2>
+    <w>ifrågasätta</w>
+  </absaspan>
+  <w>den</w>
+  <absaspan id=7>
+    <w>rådande</w>
+    <w>multikultidogmen</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+  <w>Nu</w>
+  <w>en</w>
+  <w>av</w>
+  <w>Sveriges</w>
+  <w>största</w>
+  <w>fotbollsjournalister</w>
+  <w>.</w>
+  <absaspan id=9>
+    <w>Lundh</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>är</w>
+  </absaspan>
+  <w>alltså</w>
+  <absaspan id=11 senti=2>
+    <w>trött</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>på</w>
+  </absaspan>
+  <w>att</w>
+  <w>ett</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>fotbollslag</w>
+  <w>till</w>
+  <w>stor</w>
+  <w>del</w>
+  <w>består</w>
+  <w>av</w>
+  <absaspan id=13 senti=1>
+    <w>negrer</w>
+  </absaspan>
+  <w>och</w>
+  <w>andra</w>
+  <absaspan id=14 senti=1>
+    <w>bruningar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vad</w>
+  <w>säger</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>Är</w>
+  <w>det</w>
+  <w>dags</w>
+  <w>att</w>
+  <w>Olof</w>
+  <w>Lundh</w>
+  <w>också</w>
+  <w>får</w>
+  <w>smaka</w>
+  <w>på</w>
+  <absaspan id=15 senti=1>
+    <w>smutskastning</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=16 senti=2>
+    <w>uthängning</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=17 senti=1>
+    <w>naziststämpling</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

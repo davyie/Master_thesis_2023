@@ -1,0 +1,701 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Värsta</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>brotten</w>
+  </absaspan>
+  <w>av</w>
+  <w>svenskar</w>
+  <w>resp</w>
+  <w>asylsökande</w>
+  <w>/</w>
+  <w>utland</w>
+  <w>-</w>
+  <w>lista</w>
+  <w>för</w>
+  <w>jämförelse</w>
+  <w>(</w>
+  <w>2016</w>
+  <w>-</w>
+  <w>02</w>
+  <w>)</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Teori</w>
+  <w>/</w>
+  <w>Analys</w>
+  <w>:</w>
+  <w>Det</w>
+  <w>verkar</w>
+  <w>som</w>
+  <w>att</w>
+  <w>de</w>
+  <absaspan id=3 senti=2>
+    <w>värsta</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>svenska</w>
+    <w>brotten</w>
+  </absaspan>
+  <w>ofta</w>
+  <w>är</w>
+  <w>ensamma</w>
+  <w>gärningsmän</w>
+  <w>,</w>
+  <w>medan</w>
+  <w>brotten</w>
+  <w>av</w>
+  <w>asylsökande</w>
+  <w>/</w>
+  <w>utlänningar</w>
+  <w>ofta</w>
+  <w>begås</w>
+  <w>i</w>
+  <w>grupp</w>
+  <w>och</w>
+  <w>de</w>
+  <w>blir</w>
+  <w>mer</w>
+  <w>och</w>
+  <w>mer</w>
+  <w>frekventa</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vilka</w>
+  <w>är</w>
+  <w>de</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>som</w>
+  <w>begåtts</w>
+  <w>av</w>
+  <w>svenskar</w>
+  <w>(</w>
+  <w>S-serie</w>
+  <w>)</w>
+  <w>respektive</w>
+  <w>asylsökande</w>
+  <w>(</w>
+  <w>A-serie</w>
+  <w>)</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>S1</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>.</w>
+  <w>:</w>
+  <w>Göran</w>
+  <w>Lindberg</w>
+  <w>,</w>
+  <w>bl</w>
+  <w>a</w>
+  <w>våldtäkter</w>
+  <w>och</w>
+  <w>misshandel</w>
+  <w>,</w>
+  <w>dömd</w>
+  <w>2010</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>S2</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>.</w>
+  <w>,</w>
+  <w>Niklas</w>
+  <w>Lindgren</w>
+  <w>,</w>
+  <w>flera</w>
+  <w>grova</w>
+  <w>våldtäkter</w>
+  <w>och</w>
+  <w>misshandel</w>
+  <w>,</w>
+  <w>1998</w>
+  <w>-</w>
+  <w>2005</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>S3</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>.</w>
+  <w>,</w>
+  <w>Tony</w>
+  <w>Olsson</w>
+  <w>,</w>
+  <w>Andreas</w>
+  <w>Axelsson</w>
+  <w>-</w>
+  <w>Malexandermorden</w>
+  <w>på</w>
+  <w>två</w>
+  <w>poliser</w>
+  <w>,</w>
+  <w>1999</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>S4</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>.</w>
+  <w>:</w>
+  <w>sköt</w>
+  <w>rakt</w>
+  <w>in</w>
+  <w>i</w>
+  <w>Stureplanskö</w>
+  <w>och</w>
+  <w>dödade</w>
+  <w>4</w>
+  <w>människor</w>
+  <w>i</w>
+  <w>Stockholm</w>
+  <w>,</w>
+  <w>1994</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>S5</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>.</w>
+  <w>:</w>
+  <w>sköt</w>
+  <w>ihjäl</w>
+  <w>7</w>
+  <w>människor</w>
+  <w>i</w>
+  <w>Falun</w>
+  <w>,</w>
+  <w>1994</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>S6</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>.</w>
+  <w>:</w>
+  <w>sköt</w>
+  <w>11</w>
+  <w>personer</w>
+  <w>varav</w>
+  <w>en</w>
+  <w>dog</w>
+  <w>i</w>
+  <w>Stockholm</w>
+  <w>,</w>
+  <w>1991</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>S7</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>.</w>
+  <w>:</w>
+  <w>dödade</w>
+  <w>en</w>
+  <w>familj</w>
+  <w>med</w>
+  <w>3</w>
+  <w>medlemmar</w>
+  <w>i</w>
+  <w>Åmsele</w>
+  <w>,</w>
+  <w>1988</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>S8</w>
+  <w>.</w>
+</absapar>
+<absapar id=19>
+  <w>begår</w>
+  <w>gruppvåldtäkt</w>
+  <w>på</w>
+  <w>17</w>
+  <w>-</w>
+  <w>årig</w>
+  <w>flicka</w>
+  <w>,</w>
+  <w>Bråvalla</w>
+  <w>,</w>
+  <w>2015</w>
+  <w>.</w>
+</absapar>
+<absapar id=20>
+  <w>A1</w>
+  <w>.</w>
+</absapar>
+<absapar id=21>
+  <w>Flertal</w>
+  <w>män</w>
+  <w>väntar</w>
+  <w>i</w>
+  <w>lägenhet</w>
+  <w>och</w>
+  <w>försöker</w>
+  <w>våldta</w>
+  <w>20</w>
+  <w>-</w>
+  <w>årig</w>
+  <w>kvinna</w>
+  <w>,</w>
+  <w>Trestadsområdet</w>
+  <w>.</w>
+</absapar>
+<absapar id=22>
+  <w>A2</w>
+  <w>.</w>
+</absapar>
+<absapar id=23>
+  <w>Fyra</w>
+  <w>män</w>
+  <w>i</w>
+  <w>20</w>
+  <w>-</w>
+  <w>25</w>
+  <w>-</w>
+  <w>årsåldern</w>
+  <w>försöker</w>
+  <w>våldta</w>
+  <w>12</w>
+  <w>-</w>
+  <w>årig</w>
+  <w>flicka</w>
+  <w>,</w>
+  <w>ingripare</w>
+  <w>blir</w>
+  <w>misshandlad</w>
+  <w>,</w>
+  <w>Helsingborg</w>
+  <w>.</w>
+</absapar>
+<absapar id=24>
+  <w>A3</w>
+  <w>.</w>
+</absapar>
+<absapar id=25>
+  <w>Kvinna</w>
+  <w>våldtagen</w>
+  <w>av</w>
+  <w>två</w>
+  <w>män</w>
+  <w>i</w>
+  <w>Ludvika</w>
+  <w>.</w>
+</absapar>
+<absapar id=26>
+  <w>A4</w>
+  <w>.</w>
+</absapar>
+<absapar id=27>
+  <w>Emelie</w>
+  <w>vågar</w>
+  <w>berätta</w>
+  <w>om</w>
+  <w></w>
+  <w>dansvåldtäkten</w>
+  <w></w>
+  <w>hon</w>
+  <w>utsattes</w>
+  <w>för</w>
+  <w>på</w>
+  <w>Big</w>
+  <w>Slap</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=28>
+  <w>A5</w>
+  <w>.</w>
+</absapar>
+<absapar id=29>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1000</w>
+  <w>utländska</w>
+  <w>män</w>
+  <absaspan id=5 senti=1>
+    <w>massvåldtar</w>
+  </absaspan>
+  <w>och</w>
+  <w>sextrakasserar</w>
+  <w>i</w>
+  <w>.</w>
+</absapar>
+<absapar id=30>
+  <w>.</w>
+  <w>,</w>
+  <w>Düsseldorf</w>
+  <w>,</w>
+  <w>.</w>
+</absapar>
+<absapar id=31>
+  <w>A6</w>
+  <w>.</w>
+</absapar>
+<absapar id=32>
+  <w>Mobb</w>
+  <w>med</w>
+  <w>30</w>
+  <w>man</w>
+  <w>försöker</w>
+  <w>tränga</w>
+  <w>sig</w>
+  <w>in</w>
+  <w>och</w>
+  <w>våldta</w>
+  <w>en</w>
+  <w>kvinna</w>
+  <w>på</w>
+  <w>ett</w>
+  <w>asylboende</w>
+  <w>i</w>
+  <w>Kramfors</w>
+  <w>.</w>
+</absapar>
+<absapar id=33>
+  <w>A7</w>
+  <w>.</w>
+</absapar>
+<absapar id=34>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>33</w>
+  <w>-</w>
+  <w>årig</w>
+  <w>kvinna</w>
+  <w>våldtagen</w>
+  <w>på</w>
+  <w>gatan</w>
+  <w>två</w>
+  <w>gånger</w>
+  <w>på</w>
+  <w>en</w>
+  <w>timme</w>
+  <w>,</w>
+  <w>Strängnäs</w>
+  <w>.</w>
+</absapar>
+<absapar id=35>
+  <w>A8</w>
+  <w>.</w>
+</absapar>
+<absapar id=36>
+  <w>Sju</w>
+  <w>män</w>
+  <w>våldtar</w>
+  <w>en</w>
+  <w>kvinna</w>
+  <w>i</w>
+  <w>en</w>
+  <w>lägenhet</w>
+  <w>-</w>
+  <absaspan id=6 senti=2>
+    <w>ingen</w>
+    <w>utvisning</w>
+  </absaspan>
+  <w>,</w>
+  <w>Ludvika</w>
+  <w>.</w>
+</absapar>
+<absapar id=37>
+  <w>A9</w>
+  <w>.</w>
+</absapar>
+<absapar id=38>
+  <w>Två</w>
+  <w>gruppvåldtäkter</w>
+  <w>på</w>
+  <w>Finlandsfärjor</w>
+  <w>mörkas</w>
+  <w>av</w>
+  <w>svensk</w>
+  <w>media</w>
+  <w>.</w>
+</absapar>
+<absapar id=39>
+  <w>A10</w>
+  <w>.</w>
+</absapar>
+<absapar id=40>
+  <w>Två</w>
+  <w>män</w>
+  <w>drogar</w>
+  <w>och</w>
+  <w>gruppvåldtar</w>
+  <w>kvinna</w>
+  <w>vid</w>
+  <w>busskur</w>
+  <w>,</w>
+  <w>Göteborg</w>
+  <w>.</w>
+</absapar>
+<absapar id=41>
+  <w>A11</w>
+  <w>.</w>
+</absapar>
+<absapar id=42>
+  <w>Tre</w>
+  <w>män</w>
+  <w>häktade</w>
+  <w>för</w>
+  <w>gruppvåldtäkt</w>
+  <w>på</w>
+  <w>19</w>
+  <w>-</w>
+  <w>åring</w>
+  <w>,</w>
+  <w>Övik</w>
+  <w>.</w>
+</absapar>
+<absapar id=43>
+  <w>A12</w>
+  <w>.</w>
+</absapar>
+<absapar id=44>
+  <w>Fyra</w>
+  <w>män</w>
+  <w>gruppvåldtar</w>
+  <w>20</w>
+  <w>-</w>
+  <w>årig</w>
+  <w>kvinna</w>
+  <w>på</w>
+  <w>gatan</w>
+  <w>i</w>
+  <w>Jämtland</w>
+  <w>,</w>
+  <w>Hammerdal</w>
+  <w>.</w>
+</absapar>
+<absapar id=45>
+  <w>A13</w>
+  <w>.</w>
+</absapar>
+<absapar id=46>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>14</w>
+  <w>-</w>
+  <w>årig</w>
+  <w>flicka</w>
+  <w>drogad</w>
+  <w>och</w>
+  <w>gruppvåldtagen</w>
+  <w>av</w>
+  <w>tre</w>
+  <w>män</w>
+  <w>,</w>
+  <w>Kumla</w>
+  <w>.</w>
+</absapar>
+<absapar id=47>
+  <w>A14</w>
+  <w>.</w>
+</absapar>
+<absapar id=48>
+  <w>Sex</w>
+  <w>tonårspojkar</w>
+  <w>i</w>
+  <w>Tensta</w>
+  <w>frias</w>
+  <w>från</w>
+  <w>gruppvåldtäkt</w>
+  <w>för</w>
+  <w>att</w>
+  <w>flicka</w>
+  <w></w>
+  <w>Spelar</w>
+  <w>Död</w>
+  <w></w>
+  <w>.</w>
+</absapar>
+<absapar id=49>
+  <w>A15</w>
+  <w>.</w>
+</absapar>
+<absapar id=50>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>18</w>
+  <w>-</w>
+  <w>årig</w>
+  <w>kvinna</w>
+  <w>gruppvåldtagen</w>
+  <w>på</w>
+  <w>öppen</w>
+  <w>gata</w>
+  <w>av</w>
+  <w>tre</w>
+  <w>män</w>
+  <w>,</w>
+  <w>Hudiksvall</w>
+  <w>.</w>
+</absapar>
+<absapar id=51>
+  <w>A16</w>
+  <w>.</w>
+</absapar>
+<absapar id=52>
+  <absaspan id=7 senti=1>
+    <w>Sveriges</w>
+    <w>värsta</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>gruppvåldtäkt</w>
+  </absaspan>
+  <absaspan id=9 senti=1>
+    <w>någonsin</w>
+  </absaspan>
+  <w>utförs</w>
+  <w>av</w>
+  <w>8</w>
+  <w>asylsökande</w>
+  <w>på</w>
+  <w>en</w>
+  <w>ensamstående</w>
+  <w>2</w>
+  <w>-</w>
+  <w>barnsmamma</w>
+  <w>i</w>
+  <w>Mariannelund</w>
+  <w>.</w>
+</absapar>
+<absapar id=53>
+  <w>A17</w>
+  <w>.</w>
+</absapar>
+<absapar id=54>
+  <w>Tre</w>
+  <w>män</w>
+  <w>våldtar</w>
+  <w>två</w>
+  <w>flickor</w>
+  <w>,</w>
+  <w>13</w>
+  <w>och</w>
+  <w>15</w>
+  <w>år</w>
+  <w>gamla</w>
+  <w>,</w>
+  <w>Göteborg</w>
+  <w>.</w>
+</absapar>
+<absapar id=55>
+  <w>A18</w>
+  <w>.</w>
+</absapar>
+<absapar id=56>
+  <w>Sex</w>
+  <w>killar</w>
+  <w>våldtar</w>
+  <w>Jennifer</w>
+  <w>15</w>
+  <w>år</w>
+  <w>,</w>
+  <w>utredningen</w>
+  <w>läggs</w>
+  <w>ner</w>
+  <w>och</w>
+  <w>Jennifer</w>
+  <w>tar</w>
+  <w>sitt</w>
+  <w>liv</w>
+  <w>2010</w>
+  <w>,</w>
+  <w>Uppsala</w>
+  <w>.</w>
+</absapar>
+<absapar id=57>
+  <w>A19</w>
+  <w>.</w>
+</absapar>
+<absapar id=58>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>20</w>
+  <w>-</w>
+  <w>årig</w>
+  <w>kvinna</w>
+  <w>anmäler</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>blivit</w>
+  <w>gruppvåldtagen</w>
+  <w>av</w>
+  <w>fyra</w>
+  <w>män</w>
+  <w>,</w>
+  <w>Norrköping</w>
+  <w>.</w>
+</absapar>
+<absapar id=59>
+  <w>A20</w>
+  <w>.</w>
+</absapar>
+<absapar id=60>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>14</w>
+  <w>-</w>
+  <w>årig</w>
+  <w>flicka</w>
+  <w>gruppvåldtas</w>
+  <w>av</w>
+  <w>9</w>
+  <w>killar</w>
+  <w>,</w>
+  <w>Rissne</w>
+  <w>.</w>
+</absapar>
+<absapar id=61>
+  <w>A21</w>
+  <w>.</w>
+</absapar>
+<absapar id=62>
+  <w>Två</w>
+  <w>gripna</w>
+  <w>för</w>
+  <w>ytterligare</w>
+  <w>en</w>
+  <w>gruppvåldtäkt</w>
+  <w>,</w>
+  <w>Halmstad</w>
+  <w>.</w>
+</absapar>
+</absadoc>

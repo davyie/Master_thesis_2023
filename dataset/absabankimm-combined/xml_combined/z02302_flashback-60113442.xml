@@ -1,0 +1,254 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>Judiskt</w>
+    <w>par</w>
+  </absaspan>
+  <w>flydde</w>
+  <w>Sverige</w>
+  <w>-</w>
+  <absaspan id=2 senti=1 target=3 source=1>
+    <w>beskyller</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>massinvandring</w>
+    <w>ifrån</w>
+    <w>mellanöstern</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>säger</w>
+  <w>även</w>
+  <w>att</w>
+  <w>de</w>
+  <w>märkt</w>
+  <w>att</w>
+  <w>om</w>
+  <absaspan id=4>
+    <w>du</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>kritiserar</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>invandringen</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>kallas</w>
+  <w>du</w>
+  <w>för</w>
+  <w>rasist</w>
+  <w>eller</w>
+  <w>fascist</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>"</w>
+  <w>Dan's</w>
+  <w>words</w>
+  <w>,</w>
+  <w>the</w>
+  <w>immense</w>
+  <w>saturation</w>
+  <w>of</w>
+  <w>Jew</w>
+  <w>hatred</w>
+  <w>in</w>
+  <w>the</w>
+  <w>city</w>
+  <w>was</w>
+  <w>caused</w>
+  <w>by</w>
+  <w>"</w>
+  <w>the</w>
+  <absaspan id=7 senti=1>
+    <w>adverse</w>
+    <w>effects</w>
+    <w>of</w>
+  </absaspan>
+  <w>accepting</w>
+  <w>half-a-million</w>
+  <absaspan id=8>
+    <w>immigrants</w>
+    <w>from</w>
+    <w>the</w>
+    <w>Middle</w>
+    <w>East</w>
+  </absaspan>
+  <w>,</w>
+  <w>who</w>
+  <w>plainly</w>
+  <w>weren't</w>
+  <w>interesting</w>
+  <w>in</w>
+  <w>adopting</w>
+  <w>Sweden's</w>
+  <w>values</w>
+  <w>and</w>
+  <w>Swedish</w>
+  <w>culture</w>
+  <w>.</w>
+  <w>"</w>
+  <absaspan id=9>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=3>
+  <w>"</w>
+  <w>Karla</w>
+  <w>,</w>
+  <w>who'd</w>
+  <w>sat</w>
+  <w>passively</w>
+  <w>,</w>
+  <w>occasionally</w>
+  <w>nodding</w>
+  <w>in</w>
+  <w>agreement</w>
+  <w>at</w>
+  <w>Dan's</w>
+  <w>analysis</w>
+  <w>,</w>
+  <w>then</w>
+  <w>interrupted</w>
+  <w>,</w>
+  <w>saying</w>
+  <w>,</w>
+  <w>'</w>
+  <w>If</w>
+  <absaspan id=10>
+    <w>you</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>disagree</w>
+    <w>with</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>the</w>
+    <w>establishment</w>
+  </absaspan>
+  <w>,</w>
+  <w>you're</w>
+  <w>immediately</w>
+  <w>called</w>
+  <w>a</w>
+  <w>racist</w>
+  <w>or</w>
+  <w>fascist</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>"</w>
+  <w>In</w>
+  <w>Sweden</w>
+  <w>,</w>
+  <w>attacks</w>
+  <w>on</w>
+  <w>Jews</w>
+  <w>in</w>
+  <w>Malmo</w>
+  <w>,</w>
+  <w>the</w>
+  <w>country's</w>
+  <w>third</w>
+  <w>largest</w>
+  <w>city</w>
+  <w>,</w>
+  <w>are</w>
+  <w>so</w>
+  <w>common</w>
+  <w>that</w>
+  <w>Jews</w>
+  <w>are</w>
+  <w>leaving</w>
+  <w>the</w>
+  <w>city</w>
+  <w>and</w>
+  <w>the</w>
+  <w>country</w>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Dennis</w>
+  <w>Prager</w>
+  <w>är</w>
+  <w>en</w>
+  <w>judisk</w>
+  <w>man</w>
+  <w>.</w>
+  <w>och</w>
+  <w>"</w>
+  <w>jerusalem</w>
+  <w>post</w>
+  <w>"</w>
+  <w>bedrivs</w>
+  <w>inte</w>
+  <w>av</w>
+  <w>nazister</w>
+  <w>ifrån</w>
+  <w>SD</w>
+  <w>(</w>
+  <w>min</w>
+  <w>teori</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=3>
+  <w>Är</w>
+  <w>det</w>
+  <w>som</w>
+  <w>det</w>
+  <w>judiska</w>
+  <w>paret</w>
+  <w>säger</w>
+  <w>?</w>
+  <w>Har</w>
+  <w>vi</w>
+  <absaspan id=13 senti=1>
+    <w>enorma</w>
+    <w>problem</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>invandring</w>
+    <w>ifrån</w>
+    <w>mellanöstern</w>
+  </absaspan>
+  <w>,</w>
+  <w>ökar</w>
+  <absaspan id=15 senti=1>
+    <w>hatbrotten</w>
+    <w>gentemot</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>judar</w>
+    <w>?</w>
+  </absaspan>
+  <w>får</w>
+  <w>man</w>
+  <w>inte</w>
+  <absaspan id=17 senti=1>
+    <w>kritisera</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>vänstern</w>
+  </absaspan>
+  <w>och</w>
+  <w>deras</w>
+  <absaspan id=19 senti=1>
+    <w>massinvandring</w>
+  </absaspan>
+  <w>utan</w>
+  <w>att</w>
+  <w>kallas</w>
+  <w>för</w>
+  <w>rasist</w>
+  <w>?</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,130 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Film</w>
+  <w>:</w>
+  <w>Misshandlades</w>
+  <w>av</w>
+  <w>ledaren</w>
+  <w>för</w>
+  <w>islamdemo</w>
+  <w>i</w>
+  <w>Malmö</w>
+  <w>-</w>
+  <w>anmäls</w>
+  <w>för</w>
+  <w>hets</w>
+  <w>mot</w>
+  <w>folkgrupp</w>
+  <w>?</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>OK</w>
+  <w>,</w>
+  <w>så</w>
+  <w>under</w>
+  <w>muslimdemon</w>
+  <w>i</w>
+  <w>söndags</w>
+  <w>misshandlades</w>
+  <w>en</w>
+  <w>man</w>
+  <w>av</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=1>
+    <w>och</w>
+    <w>blev</w>
+    <w>sedan</w>
+    <w>anmäld</w>
+    <w>för</w>
+    <w>hets</w>
+    <w>mot</w>
+    <w>folkgrupp</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=2 senti=2>
+    <w>Verkar</w>
+    <w>väl</w>
+    <w>lite</w>
+    <w>konstigt</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>FILM</w>
+  <w>PÅ</w>
+  <w>MISSHANDELN</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>></w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Kommer</w>
+  <w>demoledaren</w>
+  <w>att</w>
+  <w>åtalas</w>
+  <w>istället</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Vad</w>
+  <w>sa</w>
+  <w>mannen</w>
+  <w>som</w>
+  <w>fick</w>
+  <w>honom</w>
+  <w>anmäld</w>
+  <w>för</w>
+  <w>"</w>
+  <w>hets</w>
+  <w>mot</w>
+  <w>folkgrupp</w>
+  <w>"</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Är</w>
+  <w>mannen</w>
+  <w>svensk</w>
+  <w>eller</w>
+  <absaspan id=3 senti=2>
+    <w>utlänning</w>
+  </absaspan>
+  <w>?</w>
+  <w>Låter</w>
+  <w>som</w>
+  <w>han</w>
+  <w>bryter</w>
+  <w>på</w>
+  <w>videon</w>
+  <absaspan id=4 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=8>
+  <w>Vem</w>
+  <w>är</w>
+  <w>demoledaren</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Vad</w>
+  <w>föregick</w>
+  <w>videon</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

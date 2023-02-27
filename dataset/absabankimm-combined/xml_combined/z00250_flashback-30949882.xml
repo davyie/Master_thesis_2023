@@ -1,0 +1,96 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Jared</w>
+  <w>Taylor</w>
+  <w>om</w>
+  <w>ras</w>
+  <w>,</w>
+  <w>integration</w>
+  <w>och</w>
+  <w>vetenskap</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>Jared</w>
+    <w>Taylor</w>
+  </absaspan>
+  <w>för</w>
+  <w>vetenskapliga</w>
+  <w>bevis</w>
+  <w>på</w>
+  <w>att</w>
+  <absaspan id=2>
+    <w>vi</w>
+  </absaspan>
+  <w>egentligen</w>
+  <absaspan id=3 senti=4>
+    <w>gillar</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>lik</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=5 senti=4>
+    <w>föredrar</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>den</w>
+    <w>egna</w>
+    <w>sorten</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <absaspan id=7 senti=5>
+    <w>Mycket</w>
+    <w>bra</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>tal</w>
+  </absaspan>
+  <w>som</w>
+  <w>visar</w>
+  <w>att</w>
+  <absaspan id=9>
+    <w>invandringen</w>
+  </absaspan>
+  <absaspan id=10 senti=1>
+    <w>gör</w>
+    <w>oss</w>
+    <w>olyckliga</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Nej</w>
+  <w>,</w>
+  <w>det</w>
+  <w>är</w>
+  <w>vi</w>
+  <w>inte</w>
+  <w>.</w>
+  <w>Och</w>
+  <absaspan id=11>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=12 senti=1>
+    <w>kommer</w>
+    <w>att</w>
+    <w>göra</w>
+    <w>allt</w>
+    <w>som</w>
+    <w>står</w>
+    <w>i</w>
+    <w>min</w>
+    <w>makt</w>
+    <w>för</w>
+    <w>att</w>
+    <w>förhindra</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>det</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,92 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>Laholm</w>
+  <w>:</w>
+  <w>Ridskola</w>
+  <w>lade</w>
+  <w>ner</w>
+  <w>när</w>
+  <w>flyktingboendet</w>
+  <w>öppnade</w>
+  <w>bredvid</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>En</w>
+  <w>nyöppnad</w>
+  <w>ridskola</w>
+  <w>i</w>
+  <w>Laholm</w>
+  <w>har</w>
+  <w>lagts</w>
+  <w>ned</w>
+  <w>efter</w>
+  <w>att</w>
+  <w>ett</w>
+  <w>boende</w>
+  <w>för</w>
+  <w>"</w>
+  <w>ensamkommande</w>
+  <w>"</w>
+  <w>öppnade</w>
+  <w>alldeles</w>
+  <w>intill</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Detta</w>
+  <w>är</w>
+  <w>ju</w>
+  <w>en</w>
+  <w>historia</w>
+  <w>som</w>
+  <w>om</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>vore</w>
+  <w>för</w>
+  <w>de</w>
+  <w>senaste</w>
+  <w>månadernas</w>
+  <absaspan id=1 senti=2>
+    <w>tvärvändning</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=2>
+    <w>opinionen</w>
+  </absaspan>
+  <w>och</w>
+  <w>hos</w>
+  <w>politikerna</w>
+  <w>vi</w>
+  <w>aldrig</w>
+  <w>skulle</w>
+  <w>fått</w>
+  <w>läsa</w>
+  <w>i</w>
+  <w>etablerade</w>
+  <w>medier</w>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Hur</w>
+  <w>många</w>
+  <w>andra</w>
+  <w>verksamheter</w>
+  <w>tvingas</w>
+  <w>läggas</w>
+  <w>ned</w>
+  <w>ett</w>
+  <w>att</w>
+  <w>nya</w>
+  <w>"</w>
+  <w>grannar</w>
+  <w>"</w>
+  <w>flyttar</w>
+  <w>in</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

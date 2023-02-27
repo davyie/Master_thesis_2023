@@ -1,0 +1,110 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Skulle</w>
+  <w>ni</w>
+  <w>låta</w>
+  <w>er</w>
+  <w>dotter</w>
+  <w>vara</w>
+  <w>ihop</w>
+  <w>med</w>
+  <w>invandrare</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Jag</w>
+  <w>har</w>
+  <w>en</w>
+  <w>fråga</w>
+  <w>till</w>
+  <w>er</w>
+  <w>rasister</w>
+  <w>än</w>
+  <w>en</w>
+  <w>gång</w>
+  <w>.</w>
+  <w>Skulle</w>
+  <w>ni</w>
+  <w>låta</w>
+  <w>era</w>
+  <w>döttrar</w>
+  <w>vara</w>
+  <w>med</w>
+  <w>invandrare</w>
+  <w>?</w>
+  <w>Eller</w>
+  <absaspan id=1 senti=4>
+    <w>skulle</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>ni</w>
+  </absaspan>
+  <absaspan id=3 senti=4>
+    <w>bete</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>er</w>
+    <w>"</w>
+    <w>hederligt</w>
+    <w>"</w>
+  </absaspan>
+  <w>mot</w>
+  <w>dem</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>För</w>
+  <w>om</w>
+  <w>ni</w>
+  <w>inte</w>
+  <w>skulle</w>
+  <w>låta</w>
+  <w>era</w>
+  <w>döttrar</w>
+  <w>vara</w>
+  <w>med</w>
+  <w>invandrare</w>
+  <w>så</w>
+  <absaspan id=5 senti=2>
+    <w>är</w>
+  </absaspan>
+  <w>ju</w>
+  <absaspan id=6>
+    <w>ni</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>lika</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>dåliga</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=9>
+    <w>invandrarna</w>
+    <w>som</w>
+    <w>inte</w>
+    <w>låter</w>
+    <w>sina</w>
+    <w>döttrar</w>
+    <w>vara</w>
+    <w>med</w>
+    <w>svennar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vad</w>
+  <w>är</w>
+  <w>då</w>
+  <w>skillnaden</w>
+  <w>mellan</w>
+  <w>"</w>
+  <w>er</w>
+  <w>"</w>
+  <w>och</w>
+  <w>"</w>
+  <w>dom</w>
+  <w>"</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

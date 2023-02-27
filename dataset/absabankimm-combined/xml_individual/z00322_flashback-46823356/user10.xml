@@ -1,0 +1,45 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1</w>
+  <absaspan id=1>
+    <w>/</w>
+    <w>3</w>
+    <w>av</w>
+    <w>alla</w>
+    <w>sfi-studerande</w>
+    <w>saknar</w>
+    <w>svensktalande</w>
+    <w>vänner</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Detta</w>
+  <absaspan id=2 senti=1>
+    <w>påverkar</w>
+    <w>givetvis</w>
+    <w>möjligheten</w>
+    <w>till</w>
+    <w>svenskinlärning</w>
+    <w>negativt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vad</w>
+  <w>göra</w>
+  <w>?</w>
+  <w>Ge</w>
+  <w>alla</w>
+  <w>sfi-studenter</w>
+  <absaspan id=3 senti=1>
+    <w>batikhäxor</w>
+  </absaspan>
+  <w>som</w>
+  <w>språkfaddrar</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

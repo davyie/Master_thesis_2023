@@ -1,0 +1,565 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Inte</w>
+  <w>särskilt</w>
+  <w>reko</w>
+  <w>om</w>
+  <w>alla</w>
+  <w>odlar</w>
+  <w>eko</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>Jag</w>
+    <w>och</w>
+    <w>Centerpartiet</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>har</w>
+    <w>alltid</w>
+    <w>kämpat</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>att</w>
+    <w>svenska</w>
+    <w>åkrar</w>
+    <w>och</w>
+    <w>betesmarker</w>
+    <w>ska</w>
+    <w>användas</w>
+    <w>till</w>
+    <w>resurshushållande</w>
+    <w>produktion</w>
+    <w>av</w>
+    <w>främst</w>
+    <w>mat</w>
+    <w>,</w>
+    <w>och</w>
+    <w>inte</w>
+    <w>läggas</w>
+    <w>ned</w>
+    <w>och</w>
+    <w>ersättas</w>
+    <w>av</w>
+    <w>import</w>
+    <w>från</w>
+    <w>länder</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>sämre</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>miljö</w>
+    <w>-</w>
+    <w>och</w>
+    <w>djurhänsyn</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Idag</w>
+  <w>hungrar</w>
+  <w>redan</w>
+  <w>800</w>
+  <w>miljoner</w>
+  <w>människor</w>
+  <w>och</w>
+  <w>befolkningstillväxten</w>
+  <w>gör</w>
+  <w>att</w>
+  <w>FAO</w>
+  <w>beräknar</w>
+  <w>att</w>
+  <w>jordbruket</w>
+  <w>måste</w>
+  <w>öka</w>
+  <w>sin</w>
+  <w>matproduktion</w>
+  <w>till</w>
+  <w>2050</w>
+  <w>med</w>
+  <w>över</w>
+  <w>70</w>
+  <w>procent</w>
+  <w>.</w>
+  <absaspan id=6>
+    <w>En</w>
+    <w>massiv</w>
+    <w>övergång</w>
+    <w>till</w>
+    <w>”</w>
+    <w>ekologiskt</w>
+    <w>”</w>
+    <w>skulle</w>
+    <w>istället</w>
+    <w>minska</w>
+    <w>produktionen</w>
+    <w>av</w>
+    <w>mat</w>
+    <w>i</w>
+    <w>världen</w>
+    <w>med</w>
+    <w>30</w>
+    <w>-</w>
+    <w>40</w>
+    <w>procent</w>
+    <w>vilket</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>skulle</w>
+    <w>ge</w>
+    <w>kaos</w>
+  </absaspan>
+  <w>.</w>
+  <w>Däremot</w>
+  <w>är</w>
+  <absaspan id=8>
+    <w>eko</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>en</w>
+    <w>viktig</w>
+    <w>marknadsnisch</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>har</w>
+    <w>potential</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=11 senti=4>
+    <w>Tack</w>
+    <w>vare</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>gott</w>
+    <w>stöd</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>från</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>marknad</w>
+    <w>och</w>
+    <w>politiker</w>
+  </absaspan>
+  <w>har</w>
+  <w>Sverige</w>
+  <w>ett</w>
+  <w>av</w>
+  <w>världens</w>
+  <w>största</w>
+  <w>ekojordbruk</w>
+  <w>som</w>
+  <w>mångdubblats</w>
+  <w>på</w>
+  <w>några</w>
+  <w>decennier</w>
+  <w>och</w>
+  <w>står</w>
+  <w>för</w>
+  <w>4</w>
+  <w>-</w>
+  <w>5</w>
+  <w>procent</w>
+  <w>av</w>
+  <w>produktionen</w>
+  <w>.</w>
+  <w>Däremot</w>
+  <w>har</w>
+  <w>det</w>
+  <w>dominerande</w>
+  <w>jordbruket</w>
+  <w>kraftigt</w>
+  <w>minskat</w>
+  <w>sin</w>
+  <w>mjölk</w>
+  <w>-</w>
+  <w>,</w>
+  <w>nöt</w>
+  <w>-</w>
+  <w>och</w>
+  <w>grisköttsproduktion</w>
+  <w>medan</w>
+  <w>importmaten</w>
+  <w>fördubblat</w>
+  <w>sin</w>
+  <w>andel</w>
+  <w>av</w>
+  <w>konsumtionen</w>
+  <w>från</w>
+  <w>25</w>
+  <w>till</w>
+  <w>snart</w>
+  <w>50</w>
+  <w>procent</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Den</w>
+  <w>anrika</w>
+  <w>Naturskyddsföreningen</w>
+  <w>borde</w>
+  <w>tillsammans</w>
+  <w>med</w>
+  <w>LRF</w>
+  <w>och</w>
+  <w>andra</w>
+  <absaspan id=15 senti=4>
+    <w>goda</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>krafter</w>
+  </absaspan>
+  <w>stå</w>
+  <w>på</w>
+  <w>barrikaderna</w>
+  <w>för</w>
+  <w>att</w>
+  <w>vända</w>
+  <w>denna</w>
+  <absaspan id=17 senti=2>
+    <w>alarmerande</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>utveckling</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=19 senti=2>
+    <w>Tyvärr</w>
+  </absaspan>
+  <absaspan id=20 senti=2>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>SNF</w>
+  </absaspan>
+  <absaspan id=22 senti=2>
+    <w>blivit</w>
+    <w>allt</w>
+    <w>extremare</w>
+  </absaspan>
+  <w>i</w>
+  <w>sina</w>
+  <w>uppfattningar</w>
+  <w>på</w>
+  <w>t</w>
+  <w>ex</w>
+  <w>jordbrukets</w>
+  <w>område</w>
+  <w>och</w>
+  <w>inriktar</w>
+  <w>sig</w>
+  <w>bara</w>
+  <w>på</w>
+  <w>att</w>
+  <w>”</w>
+  <w>allt</w>
+  <w>ska</w>
+  <w>vara</w>
+  <w>eko</w>
+  <w>”</w>
+  <w>.</w>
+  <absaspan id=23>
+    <w>Dess</w>
+    <w>ordförande</w>
+  </absaspan>
+  <absaspan id=24 senti=2>
+    <w>talar</w>
+    <w>föraktfullt</w>
+    <w>och</w>
+    <w>utan</w>
+    <w>respekt</w>
+  </absaspan>
+  <w>om</w>
+  <w>”</w>
+  <w>det</w>
+  <w>svenska</w>
+  <w>giftjordbruket</w>
+  <w>”</w>
+  <w>.</w>
+  <w>I</w>
+  <w>samma</w>
+  <w>linje</w>
+  <w>går</w>
+  <w>den</w>
+  <w>stora</w>
+  <w>kampanj</w>
+  <w>man</w>
+  <w>nu</w>
+  <w>driver</w>
+  <w>för</w>
+  <w>att</w>
+  <w>Sveriges</w>
+  <w>,</w>
+  <w>och</w>
+  <w>säkert</w>
+  <w>världens</w>
+  <w>,</w>
+  <w>jordbruk</w>
+  <w>helt</w>
+  <w>borde</w>
+  <w>bli</w>
+  <w>"</w>
+  <w>ekologiskt</w>
+  <w>"</w>
+  <w>,</w>
+  <w>dvs</w>
+  <w>upphöra</w>
+  <w>med</w>
+  <w>mineralgödsel</w>
+  <w>,</w>
+  <w>med</w>
+  <w>alla</w>
+  <w>kemiska</w>
+  <w>bekämpningsmedel</w>
+  <w>och</w>
+  <w>helt</w>
+  <w>avstå</w>
+  <w>från</w>
+  <w>gentekniken</w>
+  <w>för</w>
+  <w>att</w>
+  <w>utveckla</w>
+  <w>nya</w>
+  <w>växtsorter</w>
+  <w>som</w>
+  <w>t</w>
+  <w>ex</w>
+  <w>kan</w>
+  <w>ta</w>
+  <w>fram</w>
+  <w>eget</w>
+  <w>kväve</w>
+  <w>,</w>
+  <w>stå</w>
+  <w>emot</w>
+  <w>det</w>
+  <w>fruktade</w>
+  <w>potatisbladmöglet</w>
+  <w>eller</w>
+  <w>klara</w>
+  <w>svår</w>
+  <w>torka</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=25>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=26 senti=2>
+    <w>anser</w>
+    <w>det</w>
+    <w>ansvarslöst</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>att</w>
+    <w>intala</w>
+    <w>medborgarna</w>
+    <w>att</w>
+    <w>detta</w>
+    <w>skulle</w>
+    <w>vara</w>
+    <w>möjligt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Och</w>
+  <absaspan id=28>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=29 senti=1>
+    <w>är</w>
+    <w>chockad</w>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>hur</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>SNF</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>i</w>
+    <w>sin</w>
+    <w>kampanj</w>
+  </absaspan>
+  <absaspan id=33 senti=1>
+    <w>svartmålar</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>det</w>
+    <w>svenska</w>
+    <w>”</w>
+    <w>o-ekologiska</w>
+    <w>”</w>
+    <w>jordbruket</w>
+    <w>genom</w>
+    <w>att</w>
+    <w>koppla</w>
+    <w>det</w>
+    <w>till</w>
+    <w>t</w>
+    <w>ex</w>
+    <w>benfrakturer</w>
+    <w>,</w>
+    <w>nervstörningar</w>
+    <w>,</w>
+    <w>övergödning</w>
+    <w>och</w>
+    <w>hälsoskador</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=35>
+    <w>Många</w>
+  </absaspan>
+  <w>tar</w>
+  <w>till</w>
+  <w>sig</w>
+  <w>SNFs</w>
+  <w>budskap</w>
+  <w>och</w>
+  <absaspan id=36 senti=2>
+    <w>misstror</w>
+  </absaspan>
+  <w>då</w>
+  <absaspan id=37>
+    <w>både</w>
+    <w>jordbruket</w>
+    <w>och</w>
+    <w>myndigheterna</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=38>
+    <w>Svensk</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>ekomjölk</w>
+  </absaspan>
+  <absaspan id=40 senti=4>
+    <w>är</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=41 senti=4>
+    <w>bra</w>
+  </absaspan>
+  <absaspan id=42 senti=4>
+    <w>miljöalternativ</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>det</w>
+  <w>är</w>
+  <w>faktiskt</w>
+  <absaspan id=43>
+    <w>vanlig</w>
+  </absaspan>
+  <absaspan id=44>
+    <w>miljövänlig</w>
+    <w>svensk</w>
+    <w>mjölk</w>
+  </absaspan>
+  <w>också</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>ena</w>
+  <w>använder</w>
+  <w>mineralgödsel</w>
+  <w>och</w>
+  <w>kemiska</w>
+  <w>bekämpningsmedel</w>
+  <w>,</w>
+  <w>det</w>
+  <w>andra</w>
+  <w>kör</w>
+  <w>mera</w>
+  <w>dieseltraktor</w>
+  <w>och</w>
+  <w>laddar</w>
+  <w>jorden</w>
+  <w>med</w>
+  <w>kväve</w>
+  <w>från</w>
+  <w>grödor</w>
+  <w>och</w>
+  <w>stallgödsel</w>
+  <w>som</w>
+  <w>löper</w>
+  <w>större</w>
+  <w>risk</w>
+  <w>att</w>
+  <w>läcka</w>
+  <w>.</w>
+  <absaspan id=45>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=46 senti=4>
+    <w>har</w>
+    <w>respekt</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=47>
+    <w>båda</w>
+    <w>koncepten</w>
+  </absaspan>
+  <w>men</w>
+  <w>det</w>
+  <w>har</w>
+  <w>tyvärr</w>
+  <w>inte</w>
+  <w>SNF</w>
+  <w>,</w>
+  <w>vilket</w>
+  <w>är</w>
+  <w>djupt</w>
+  <w>beklagligt</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Som</w>
+  <w>natur</w>
+  <w>-</w>
+  <w>och</w>
+  <w>miljövän</w>
+  <w>vill</w>
+  <w>jag</w>
+  <w>,</w>
+  <w>och</w>
+  <w>säkert</w>
+  <w>många</w>
+  <w>andra</w>
+  <w>,</w>
+  <w>kunna</w>
+  <w>vara</w>
+  <w>med</w>
+  <w>i</w>
+  <w>SNF</w>
+  <w>.</w>
+  <w>Tänk</w>
+  <w>till</w>
+  <w>,</w>
+  <w>SNF</w>
+  <w>,</w>
+  <w>och</w>
+  <w>gör</w>
+  <w>det</w>
+  <w>möjligt</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Staffan</w>
+  <w>Danielsson</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,341 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Är</w>
+  <w>"</w>
+  <w>Bäckis</w>
+  <w>"</w>
+  <w>dopad</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Veckans</w>
+  <w>största</w>
+  <w>snackis</w>
+  <w>har</w>
+  <w>varit</w>
+  <w>Niklas</w>
+  <w>Bäckströms</w>
+  <w>positiva</w>
+  <w>dopingprov</w>
+  <w>i</w>
+  <w>helgen</w>
+  <w>.</w>
+  <w>I</w>
+  <w>kväll</w>
+  <w>reder</w>
+  <w>vi</w>
+  <w>ut</w>
+  <w>begreppen</w>
+  <w>och</w>
+  <w>får</w>
+  <w>svar</w>
+  <w>på</w>
+  <w>frågan</w>
+  <w>:</w>
+  <w>har</w>
+  <w>Niklas</w>
+  <w>Bäckström</w>
+  <w>dopat</w>
+  <w>sig</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=1>
+    <w>Hockeyläkare</w>
+  </absaspan>
+  <w>:</w>
+  <w>"</w>
+  <absaspan id=2>
+    <w>Nivåerna</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>är</w>
+    <w>onaturliga</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Debatten</w>
+  <w>har</w>
+  <w>rasat</w>
+  <w>mellan</w>
+  <absaspan id=4>
+    <w>de</w>
+    <w>som</w>
+    <w>tycker</w>
+  </absaspan>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>en</w>
+  <absaspan id=5 senti=1>
+    <w>praktskandal</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=6>
+    <w>de</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=7 senti=2>
+    <w>skyller</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>dåliga</w>
+    <w>läkarråd</w>
+  </absaspan>
+  <w>.</w>
+  <w>Medverkar</w>
+  <w>gör</w>
+  <w>Luleå</w>
+  <w>Hockeys</w>
+  <w>läkare</w>
+  <w>Lars</w>
+  <w>Gyllenfjord</w>
+  <w>som</w>
+  <w>tycker</w>
+  <w>att</w>
+  <w>substansen</w>
+  <w>pseudoefedrin</w>
+  <w>,</w>
+  <w>som</w>
+  <w>påvisats</w>
+  <w>i</w>
+  <w>för</w>
+  <w>höga</w>
+  <w>doser</w>
+  <w>i</w>
+  <w>Niklas</w>
+  <w>Bäckströms</w>
+  <w>urin</w>
+  <w>,</w>
+  <w>går</w>
+  <w>att</w>
+  <w>jämställa</w>
+  <w>med</w>
+  <w>amfetamin</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>.</w>
+  <w>-</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>en</w>
+  <w>stimulantia</w>
+  <w>.</w>
+  <w>Man</w>
+  <w>blir</w>
+  <w>kraftigare</w>
+  <w>och</w>
+  <w>håller</w>
+  <w>ut</w>
+  <w>längre</w>
+  <w>,</w>
+  <w>säger</w>
+  <w>han</w>
+  <w>till</w>
+  <w>P4</w>
+  <w>Norrbotten</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Niklas</w>
+  <w>Bäckström</w>
+  <w>har</w>
+  <w>hävdat</w>
+  <w>att</w>
+  <w>han</w>
+  <w>har</w>
+  <w>ätit</w>
+  <w>en</w>
+  <w>rekommenderad</w>
+  <w>dos</w>
+  <w>av</w>
+  <w>en</w>
+  <w>allergimedicin</w>
+  <w>mot</w>
+  <w>pollen</w>
+  <w>,</w>
+  <w>det</w>
+  <w>vill</w>
+  <w>säga</w>
+  <w>en</w>
+  <w>tablett</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>.</w>
+  <w>-</w>
+  <w>Att</w>
+  <absaspan id=9>
+    <w>komma</w>
+    <w>upp</w>
+    <w>i</w>
+    <w>de</w>
+    <w>här</w>
+    <w>nivåerna</w>
+    <w>på</w>
+    <w>en</w>
+    <w>tablett</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>är</w>
+    <w>för</w>
+    <w>mig</w>
+    <w>onaturligt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Allergimediciner</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>innehåller</w>
+  <w>inte</w>
+  <w>pseudoefedrin</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=11>
+    <w>Dopingexpert</w>
+  </absaspan>
+  <w>:</w>
+  <w>"</w>
+  <absaspan id=12 senti=3>
+    <w>Troligt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=13>
+    <w>medicinen</w>
+    <w>inte</w>
+    <w>höjer</w>
+    <w>Bäckström</w>
+    <w>prestation</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Någon</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>tror</w>
+  <w>att</w>
+  <w>Bäckström</w>
+  <w>medvetet</w>
+  <w>har</w>
+  <w>tagit</w>
+  <w>otillåtna</w>
+  <w>mängder</w>
+  <w>av</w>
+  <w>preparatet</w>
+  <w>är</w>
+  <w>farmakologiprofessorn</w>
+  <w>Fred</w>
+  <w>Nyberg</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>.</w>
+  <w>-</w>
+  <w>Man</w>
+  <w>kan</w>
+  <w>få</w>
+  <w>de</w>
+  <w>här</w>
+  <w>värdena</w>
+  <w>även</w>
+  <w>om</w>
+  <w>man</w>
+  <w>bara</w>
+  <w>har</w>
+  <w>tagit</w>
+  <w>en</w>
+  <w>tablett</w>
+  <w>,</w>
+  <w>det</w>
+  <w>är</w>
+  <w>väldigt</w>
+  <w>individuellt</w>
+  <w>,</w>
+  <w>säger</w>
+  <w>han</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>.</w>
+  <w>-</w>
+  <w>Dessutom</w>
+  <w>har</w>
+  <w>Bäckström</w>
+  <w>tagit</w>
+  <w>den</w>
+  <w>här</w>
+  <w>medicinen</w>
+  <w>under</w>
+  <w>sju</w>
+  <w>år</w>
+  <w>och</w>
+  <w>det</w>
+  <absaspan id=14 senti=3>
+    <w>är</w>
+    <w>troligt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=15>
+    <w>han</w>
+    <w>inte</w>
+    <w>får</w>
+    <w>någon</w>
+    <w>prestationshöjande</w>
+    <w>effekt</w>
+    <w>av</w>
+    <w>den</w>
+  </absaspan>
+  <w>,</w>
+  <w>eftersom</w>
+  <w>han</w>
+  <w>har</w>
+  <w>blivit</w>
+  <w>tillvänjd</w>
+  <w>,</w>
+  <w>enligt</w>
+  <absaspan id=16>
+    <w>Fred</w>
+    <w>Nyberg</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Dessutom</w>
+  <w>gästar</w>
+  <w>hockeyförbundets</w>
+  <w>ordförande</w>
+  <w>Christer</w>
+  <w>Englund</w>
+  <w>"</w>
+  <w>20</w>
+  <w>minuter</w>
+  <w>"</w>
+  <w>och</w>
+  <w>får</w>
+  <w>bemöta</w>
+  <absaspan id=17 senti=2>
+    <w>kritiken</w>
+    <w>som</w>
+    <w>rasat</w>
+  </absaspan>
+  <w>om</w>
+  <w>hur</w>
+  <absaspan id=18>
+    <w>förbundet</w>
+    <w>har</w>
+    <w>hanterat</w>
+    <w>frågan</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

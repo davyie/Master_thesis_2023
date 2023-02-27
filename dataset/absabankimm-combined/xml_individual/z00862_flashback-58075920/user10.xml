@@ -1,0 +1,203 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Asylsökande</w>
+  <w>flickor</w>
+  <w>besköts</w>
+  <w>,</w>
+  <w>polisen</w>
+  <w>ryckte</w>
+  <w>inte</w>
+  <w>ut</w>
+  <w>-</w>
+  <w>Backe</w>
+  <w>,</w>
+  <w>Strömsund</w>
+  <w>kommun</w>
+  <w>28</w>
+  <w>/</w>
+  <w>7</w>
+  <w>-</w>
+  <w>16</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Händelsen</w>
+  <w>inträffade</w>
+  <w>tydligen</w>
+  <w>i</w>
+  <w>förra</w>
+  <w>veckan</w>
+  <w>i</w>
+  <w>Jämtland</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Sex</w>
+  <w>stycken</w>
+  <w>asylsökande</w>
+  <w>flickor</w>
+  <w>går</w>
+  <w>in</w>
+  <w>på</w>
+  <w>en</w>
+  <w>gård</w>
+  <w>för</w>
+  <w>att</w>
+  <w>fotografera</w>
+  <w>djur</w>
+  <w>,</w>
+  <w>varför</w>
+  <w>dom</w>
+  <w>nu</w>
+  <w>gjorde</w>
+  <w>det</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Husägaren</w>
+  <w>och</w>
+  <w>en</w>
+  <w>kamrat</w>
+  <w>till</w>
+  <w>denna</w>
+  <w>kommer</w>
+  <w>ut</w>
+  <w>med</w>
+  <w>ett</w>
+  <w>gevär</w>
+  <w>och</w>
+  <w>skjuter</w>
+  <w>ett</w>
+  <w>skott</w>
+  <w>framför</w>
+  <w>fötterna</w>
+  <w>på</w>
+  <w>en</w>
+  <w>asylsökande</w>
+  <w>och</w>
+  <w>slår</w>
+  <w>en</w>
+  <w>annan</w>
+  <w>i</w>
+  <w>fejset</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Asylsökarna</w>
+  <w>ringde</w>
+  <w>112</w>
+  <w>men</w>
+  <w>polisen</w>
+  <w>ryckte</w>
+  <w>inte</w>
+  <w>ut</w>
+  <w>och</w>
+  <w>nu</w>
+  <w>ska</w>
+  <absaspan id=1>
+    <w>polisen</w>
+  </absaspan>
+  <w>tydligen</w>
+  <w>utreda</w>
+  <w>sig</w>
+  <w>själva</w>
+  <w>om</w>
+  <w>dom</w>
+  <absaspan id=2 senti=2>
+    <w>har</w>
+    <w>gjort</w>
+    <w>något</w>
+    <w>fel</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Frågan</w>
+  <w>är</w>
+  <w>om</w>
+  <w>det</w>
+  <w>någon</w>
+  <w>som</w>
+  <w>känner</w>
+  <w>till</w>
+  <w>vad</w>
+  <w>det</w>
+  <w>är</w>
+  <w>för</w>
+  <w>gård</w>
+  <w>eller</w>
+  <w>bondgård</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=3 senti=1>
+    <w>Överreagerade</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>Hus</w>
+    <w>/</w>
+    <w>Gårdsägaren</w>
+  </absaspan>
+  <w>?</w>
+  <w>och</w>
+  <absaspan id=5 senti=3>
+    <w>gjorde</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>polisen</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>rätt</w>
+  </absaspan>
+  <w>eller</w>
+  <absaspan id=8 senti=2>
+    <w>fel</w>
+  </absaspan>
+  <w>som</w>
+  <w>inte</w>
+  <w>åkte</w>
+  <w>ut</w>
+  <w>på</w>
+  <w>den</w>
+  <w>här</w>
+  <w>incidenten</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

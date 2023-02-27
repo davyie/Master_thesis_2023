@@ -1,0 +1,146 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Islamister</w>
+  <w>skulle</w>
+  <w>slå</w>
+  <w>i</w>
+  <w>Berlin</w>
+  <w>-</w>
+  <w>algerisk</w>
+  <w>"</w>
+  <w>asylsökande</w>
+  <w>"</w>
+  <w>hjärnan</w>
+  <w>bakom</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Tysk</w>
+  <w>polis</w>
+  <w>har</w>
+  <w>under</w>
+  <w>dagen</w>
+  <w>gjort</w>
+  <w>razzior</w>
+  <w>och</w>
+  <w>gripit</w>
+  <w>islamister</w>
+  <w>,</w>
+  <w>som</w>
+  <w>misstänks</w>
+  <w>ha</w>
+  <w>planerat</w>
+  <w>ett</w>
+  <w>terrordåd</w>
+  <w>mot</w>
+  <w>Berlin</w>
+  <w>.</w>
+  <w>Den</w>
+  <w>utpekade</w>
+  <w>ledaren</w>
+  <w>för</w>
+  <w>dessa</w>
+  <w>planer</w>
+  <w>är</w>
+  <w>en</w>
+  <w>35</w>
+  <w>-</w>
+  <w>årig</w>
+  <w>algerier</w>
+  <w>,</w>
+  <w>som</w>
+  <w>tros</w>
+  <w>ha</w>
+  <w>fått</w>
+  <w>utbildning</w>
+  <w>hos</w>
+  <w>Daesh</w>
+  <w>i</w>
+  <w>Syrien</w>
+  <w>och</w>
+  <w>som</w>
+  <w>i</w>
+  <w>höstas</w>
+  <w>anlände</w>
+  <w>till</w>
+  <w>Tyskland</w>
+  <w>som</w>
+  <w>asylsökande</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>En</w>
+  <w>annan</w>
+  <w>av</w>
+  <w>de</w>
+  <w>misstänkta</w>
+  <w>,</w>
+  <absaspan id=1>
+    <w>en</w>
+    <w>49</w>
+    <w>-</w>
+    <w>årig</w>
+    <w>algerier</w>
+    <w>som</w>
+    <w>greps</w>
+    <w>i</w>
+    <w>Berlin</w>
+  </absaspan>
+  <w>,</w>
+  <w>var</w>
+  <w>uppenbarligen</w>
+  <absaspan id=2 senti=5>
+    <w>god</w>
+    <w>vän</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>dem</w>
+    <w>som</w>
+    <w>begick</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>blodbadet</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>i</w>
+    <w>Paris</w>
+    <w>i</w>
+    <w>november</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>finna</w>
+  <w>bilder</w>
+  <w>där</w>
+  <w>man</w>
+  <w>ser</w>
+  <w>honom</w>
+  <w>äta</w>
+  <w>tillsammans</w>
+  <w>med</w>
+  <w>sina</w>
+  <absaspan id=6 senti=4>
+    <w>polare</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Som</w>
+  <w>mål</w>
+  <w>för</w>
+  <w>de</w>
+  <w>planerade</w>
+  <w>angreppen</w>
+  <w>utpekas</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>Alexanderplatz</w>
+  <w>och</w>
+  <w>före</w>
+  <w>detta</w>
+  <w>Checkpoint</w>
+  <w>Charlie</w>
+  <w>.</w>
+</absapar>
+</absadoc>

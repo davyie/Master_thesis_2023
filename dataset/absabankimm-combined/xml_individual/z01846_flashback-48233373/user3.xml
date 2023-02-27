@@ -1,0 +1,100 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Judisk</w>
+  <w>SD-företrädare</w>
+  <w>säger</w>
+  <w>ja</w>
+  <w>till</w>
+  <w>fler</w>
+  <w>ensamkommande</w>
+  <w>asylsökande</w>
+  <w>barn</w>
+  <w>/</w>
+  <w>unga</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Hur</w>
+  <w>mycket</w>
+  <w>ska</w>
+  <w>egentligen</w>
+  <w>till</w>
+  <w>innan</w>
+  <w>alla</w>
+  <absaspan id=1>
+    <w>SD-väljare</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>vaknar</w>
+    <w>upp</w>
+  </absaspan>
+  <w>och</w>
+  <w>inser</w>
+  <w>att</w>
+  <w>partiet</w>
+  <w>inte</w>
+  <w>är</w>
+  <w>mycket</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>en</w>
+  <w>kontrollerad</w>
+  <w>opinion</w>
+  <w>?</w>
+  <absaspan id=3 senti=2>
+    <w>Helt</w>
+    <w>sanslöst</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=4>
+    <w>man</w>
+    <w>mjuknar</w>
+  </absaspan>
+  <w>såhär</w>
+  <w>istället</w>
+  <w>för</w>
+  <w>att</w>
+  <w>utnyttja</w>
+  <w>den</w>
+  <w>vind</w>
+  <w>man</w>
+  <w>haft</w>
+  <w>i</w>
+  <w>segel</w>
+  <w>för</w>
+  <w>att</w>
+  <w>låta</w>
+  <w>sig</w>
+  <w>radikaliseras</w>
+  <w>.</w>
+  <w>Tvärtom</w>
+  <w>rekryterar</w>
+  <w>man</w>
+  <w>en</w>
+  <w>massa</w>
+  <w>konservativa</w>
+  <w>"</w>
+  <w>antirasister</w>
+  <w>"</w>
+  <w>,</w>
+  <w>sionister</w>
+  <w>och</w>
+  <absaspan id=5 senti=1>
+    <w>stureplambimbos</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=6 senti=2>
+    <w>Skämmes</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>säger</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>bara</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

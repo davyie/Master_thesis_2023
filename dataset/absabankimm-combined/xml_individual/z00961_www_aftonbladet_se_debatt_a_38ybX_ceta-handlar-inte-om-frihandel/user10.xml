@@ -1,0 +1,436 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Ceta</w>
+  <w>handlar</w>
+  <w>inte</w>
+  <w>om</w>
+  <w>frihandel</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>SLUTREPLIK</w>
+  <w>.</w>
+  <w>I</w>
+  <w>repliker</w>
+  <w>mot</w>
+  <w>vår</w>
+  <w>artikel</w>
+  <w>menar</w>
+  <absaspan id=1>
+    <w>Christofer</w>
+    <w>Fjellner</w>
+  </absaspan>
+  <w>(</w>
+  <w>M</w>
+  <w>)</w>
+  <w>samt</w>
+  <absaspan id=2>
+    <w>Diana</w>
+    <w>Van</w>
+  </absaspan>
+  <w>(</w>
+  <w>C</w>
+  <w>)</w>
+  <w>och</w>
+  <absaspan id=3>
+    <w>Caspian</w>
+    <w>Rehbinder</w>
+  </absaspan>
+  <w>(</w>
+  <w>C</w>
+  <w>)</w>
+  <w>att</w>
+  <absaspan id=4>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>har</w>
+    <w>fel</w>
+    <w>i</w>
+    <w>vår</w>
+    <w>kritik</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=6 senti=1>
+    <w>handelsavtalet</w>
+    <w>Ceta</w>
+  </absaspan>
+  <w>.</w>
+  <w>Att</w>
+  <w>det</w>
+  <w>enda</w>
+  <w>egentliga</w>
+  <w>bemötande</w>
+  <w>dessa</w>
+  <w>debattörer</w>
+  <w>lyckas</w>
+  <w>uppbåda</w>
+  <w>mot</w>
+  <w>vår</w>
+  <w>artikel</w>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=7>
+    <w>vi</w>
+  </absaspan>
+  <w>skulle</w>
+  <w>”</w>
+  <absaspan id=8 senti=1 irony>
+    <w>vara</w>
+    <w>emot</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>frihandel</w>
+  </absaspan>
+  <w>”</w>
+  <w>säger</w>
+  <w>en</w>
+  <w>del</w>
+  <w>om</w>
+  <w>vilka</w>
+  <absaspan id=10 senti=1>
+    <w>bristande</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>sakargument</w>
+  </absaspan>
+  <w>som</w>
+  <w>finns</w>
+  <w>för</w>
+  <w>det</w>
+  <w>här</w>
+  <w>avtalet</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=12>
+    <w>Christofer</w>
+    <w>Fjellner</w>
+  </absaspan>
+  <w>påpekar</w>
+  <w>att</w>
+  <w>skydd</w>
+  <w>mot</w>
+  <w>expropriation</w>
+  <w>existerar</w>
+  <w>i</w>
+  <w>svensk</w>
+  <w>rätt</w>
+  <w>,</w>
+  <w>vilket</w>
+  <w>är</w>
+  <w>en</w>
+  <w>självklarhet</w>
+  <w>och</w>
+  <w>så</w>
+  <w>också</w>
+  <w>ska</w>
+  <w>göra</w>
+  <w>fortsättningsvis</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Men</w>
+  <w>varför</w>
+  <absaspan id=13 senti=1>
+    <w>duger</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>det</w>
+    <w>svenska</w>
+    <w>rättssystemet</w>
+  </absaspan>
+  <absaspan id=15 senti=1>
+    <w>åt</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>Fjellner</w>
+  </absaspan>
+  <w>?</w>
+  <w>Varför</w>
+  <absaspan id=17 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>han</w>
+    <w>och</w>
+    <w>övriga</w>
+  </absaspan>
+  <absaspan id=19 senti=5>
+    <w>förespråkare</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>att</w>
+    <w>utländska</w>
+    <w>investerare</w>
+    <w>skall</w>
+    <w>få</w>
+  </absaspan>
+  <absaspan id=21 senti=5 irony>
+    <w>en</w>
+    <w>gräddfil</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>med</w>
+    <w>egen</w>
+    <w>domstol</w>
+    <w>där</w>
+    <w>endast</w>
+    <w>de</w>
+    <w>kan</w>
+    <w>stämma</w>
+    <w>stater</w>
+    <w>utanför</w>
+    <w>nationella</w>
+    <w>domstolar</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=23>
+    <w>Drygt</w>
+    <w>hundra</w>
+    <w>professorer</w>
+    <w>i</w>
+    <w>juridik</w>
+    <w>och</w>
+    <w>internationell</w>
+    <w>rätt</w>
+    <w>,</w>
+    <w>domarförbund</w>
+    <w>och</w>
+    <w>otaliga</w>
+    <w>andra</w>
+    <w>experter</w>
+  </absaspan>
+  <w>har</w>
+  <w>kontinuerligt</w>
+  <w>påtalat</w>
+  <w>att</w>
+  <absaspan id=24>
+    <w>investeringsskyddet</w>
+    <w>i</w>
+    <w>Ceta</w>
+  </absaspan>
+  <absaspan id=25 senti=1>
+    <w>riskerar</w>
+    <w>att</w>
+    <w>underminera</w>
+    <w>demokratiskt</w>
+    <w>beslutsfattande</w>
+  </absaspan>
+  <w>,</w>
+  <w>sannolikt</w>
+  <w>strider</w>
+  <w>mot</w>
+  <w>EU-rätten</w>
+  <w>och</w>
+  <w>dessutom</w>
+  <w>inte</w>
+  <w>behövs</w>
+  <w>mellan</w>
+  <w>utvecklade</w>
+  <w>rättsstater</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=26>
+    <w>Centerstudenter</w>
+  </absaspan>
+  <w>menar</w>
+  <w>att</w>
+  <absaspan id=27>
+    <w>Ceta</w>
+  </absaspan>
+  <absaspan id=28 senti=5>
+    <w>skapar</w>
+    <w>välstånd</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>hänvisar</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>replik</w>
+  <w>inte</w>
+  <w>till</w>
+  <w>några</w>
+  <w>studier</w>
+  <w>som</w>
+  <w>bekräftar</w>
+  <w>denna</w>
+  <w>tes</w>
+  <w>.</w>
+  <w>Inte</w>
+  <w>så</w>
+  <w>konstigt</w>
+  <w>,</w>
+  <w>då</w>
+  <w>några</w>
+  <w>sådana</w>
+  <w>inte</w>
+  <w>heller</w>
+  <w>existerar</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=29>
+    <w>Ceta</w>
+    <w>:</w>
+    <w>s</w>
+    <w>effekter</w>
+    <w>på</w>
+    <w>såväl</w>
+    <w>sysselsättning</w>
+    <w>som</w>
+    <w>BNP</w>
+  </absaspan>
+  <w>är</w>
+  <w>enligt</w>
+  <absaspan id=30>
+    <w>ett</w>
+    <w>flertal</w>
+    <w>studier</w>
+  </absaspan>
+  <absaspan id=31 senti=2>
+    <w>i</w>
+    <w>bästa</w>
+    <w>fall</w>
+    <w>marginella</w>
+  </absaspan>
+  <w>,</w>
+  <w>om</w>
+  <w>ens</w>
+  <w>mätbara</w>
+  <w>.</w>
+  <absaspan id=32>
+    <w>EU-kommissionens</w>
+    <w>eget</w>
+    <w>underlag</w>
+  </absaspan>
+  <w>talar</w>
+  <absaspan id=33 senti=5 irony>
+    <w>i</w>
+    <w>bästa</w>
+    <w>fall</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=34>
+    <w>en</w>
+    <w>BNP-tillväxt</w>
+    <w>som</w>
+    <w>i</w>
+    <w>svenska</w>
+    <w>förhållanden</w>
+    <w>sett</w>
+    <w>inte</w>
+    <w>ens</w>
+    <w>motsvarar</w>
+    <w>10</w>
+    <w>procent</w>
+    <w>av</w>
+    <w>vad</w>
+    <w>Skatteverket</w>
+    <w>förra</w>
+    <w>året</w>
+    <w>betalade</w>
+    <w>ut</w>
+    <w>i</w>
+    <w>ROT</w>
+    <w>-</w>
+    <w>och</w>
+    <w>RUT-avdrag</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Ceta</w>
+  <w>handlar</w>
+  <w>inte</w>
+  <w>om</w>
+  <w>frihandel</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=35 senti=5>
+    <w>stärka</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>den</w>
+    <w>ekonomiska</w>
+    <w>makten</w>
+  </absaspan>
+  <absaspan id=37 senti=1>
+    <w>på</w>
+    <w>bekostnad</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>den</w>
+    <w>demokratiska</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>.</w>
+  </absaspan>
+  <w>Kanske</w>
+  <w>är</w>
+  <w>det</w>
+  <w>just</w>
+  <w>därför</w>
+  <absaspan id=40>
+    <w>Moderater</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=41>
+    <w>Centerpartister</w>
+  </absaspan>
+  <absaspan id=42 senti=5>
+    <w>jublar</w>
+    <w>åt</w>
+  </absaspan>
+  <absaspan id=43>
+    <w>Ceta</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Mikael</w>
+  <w>Johansson</w>
+  <w>,</w>
+  <w>ordförande</w>
+  <w>MålarnaJohan</w>
+  <w>Lindholm</w>
+  <w>,</w>
+  <w>ordförande</w>
+  <w>ByggnadsMagnus</w>
+  <w>Pettersson</w>
+  <w>,</w>
+  <w>ordförande</w>
+  <w>FastighetsJanne</w>
+  <w>Rudén</w>
+  <w>,</w>
+  <w>ordförande</w>
+  <w>SekoJonas</w>
+  <w>Wallin</w>
+  <w>,</w>
+  <w>ordförande</w>
+  <w>Elektrikerna</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Häng</w>
+  <w>med</w>
+  <w>i</w>
+  <w>debatten</w>
+  <w>–</w>
+  <w>följ</w>
+  <w>Debatt</w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,381 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Gråter</w>
+  <w>i</w>
+  <w>radio</w>
+  <w>över</w>
+  <w>flyktingkrisen</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>I</w>
+  <w>Radiopsykologen</w>
+  <w>ringer</w>
+  <absaspan id=1>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>kvinna</w>
+  </absaspan>
+  <w>in</w>
+  <w>och</w>
+  <w>är</w>
+  <absaspan id=3 senti=1>
+    <w>förtvivlad</w>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>flyktingkrisen</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=5>
+    <w>Hon</w>
+  </absaspan>
+  <absaspan id=6 senti=1>
+    <w>orkar</w>
+    <w>inte</w>
+    <w>mer</w>
+    <w>,</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>hon</w>
+  </absaspan>
+  <absaspan id=8 senti=1>
+    <w>mår</w>
+    <w>fruktansvärt</w>
+    <w>dåligt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Hon</w>
+  <w>berättar</w>
+  <w>också</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>har</w>
+  <w>arbete</w>
+  <w>,</w>
+  <w>hon</w>
+  <w>har</w>
+  <w>barn</w>
+  <w>,</w>
+  <w>hon</w>
+  <w>har</w>
+  <w>en</w>
+  <w>sjuk</w>
+  <w>mamma</w>
+  <w>som</w>
+  <w>hon</w>
+  <w>måste</w>
+  <w>ta</w>
+  <w>hand</w>
+  <w>om</w>
+  <w>.</w>
+  <w>Då</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>förstå</w>
+  <w>att</w>
+  <absaspan id=9>
+    <w>hon</w>
+  </absaspan>
+  <absaspan id=10 senti=1>
+    <w>är</w>
+    <w>förtvivlad</w>
+  </absaspan>
+  <w>.</w>
+  <w>Hon</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>få</w>
+  <w>betala</w>
+  <w>allt</w>
+  <w>högre</w>
+  <w>skatt</w>
+  <w>,</w>
+  <w>hon</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>få</w>
+  <w>jobba</w>
+  <w>längre</w>
+  <w>innan</w>
+  <w>pension</w>
+  <w>,</w>
+  <w>hennes</w>
+  <w>sjuka</w>
+  <w>mamma</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>få</w>
+  <w>allt</w>
+  <w>sämre</w>
+  <w>vård</w>
+  <w>och</w>
+  <w>minskat</w>
+  <w>bistånd</w>
+  <w>,</w>
+  <w>hennes</w>
+  <w>barn</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>uppleva</w>
+  <w>en</w>
+  <w>allt</w>
+  <w>sämre</w>
+  <w>skolmiljö</w>
+  <w>,</w>
+  <w>de</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>växa</w>
+  <w>upp</w>
+  <w>i</w>
+  <absaspan id=11>
+    <w>ett</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=12 senti=1>
+    <w>är</w>
+    <w>avsevärt</w>
+    <w>sämre</w>
+  </absaspan>
+  <w>än</w>
+  <w>det</w>
+  <w>Sverige</w>
+  <w>deras</w>
+  <w>mamma</w>
+  <w>växte</w>
+  <w>upp</w>
+  <w>i</w>
+  <w>.</w>
+  <w>Klar</w>
+  <absaspan id=13>
+    <w>hon</w>
+  </absaspan>
+  <absaspan id=14 senti=1>
+    <w>är</w>
+    <w>förtvivlad</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Men</w>
+  <w>,</w>
+  <w>nej</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Det</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>alls</w>
+  <w>därför</w>
+  <absaspan id=15>
+    <w>hon</w>
+  </absaspan>
+  <absaspan id=16 senti=1>
+    <w>är</w>
+    <w>förtvivlad</w>
+  </absaspan>
+  <w>.</w>
+  <w>Hon</w>
+  <w>gråter</w>
+  <w>för</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>inte</w>
+  <w>orkar</w>
+  <w>göra</w>
+  <w>mer</w>
+  <w>för</w>
+  <w>invandrarna</w>
+  <w>(</w>
+  <w>eller</w>
+  <w>"</w>
+  <w>flyktingarna</w>
+  <w>"</w>
+  <w>,</w>
+  <w>som</w>
+  <w>hon</w>
+  <w>kallar</w>
+  <w>dem</w>
+  <w>)</w>
+  <w>.</w>
+  <w>Hon</w>
+  <w>är</w>
+  <w>med</w>
+  <w>i</w>
+  <w>en</w>
+  <w>Facebook-grupp</w>
+  <w>,</w>
+  <w>där</w>
+  <w>man</w>
+  <w>tydligen</w>
+  <w>ska</w>
+  <w>redovisa</w>
+  <w>vad</w>
+  <w>man</w>
+  <w>gjort</w>
+  <w>för</w>
+  <w>att</w>
+  <w>hjälpa</w>
+  <w>till</w>
+  <w>.</w>
+  <w>Hon</w>
+  <w>har</w>
+  <w>samlat</w>
+  <w>in</w>
+  <w>kläder</w>
+  <w>och</w>
+  <w>mobiltelefoner</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=17>
+    <w>hon</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>känner</w>
+    <w>att</w>
+    <w>det</w>
+    <w>inte</w>
+    <w>räcker</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=19>
+    <w>Hon</w>
+  </absaspan>
+  <absaspan id=20 senti=2>
+    <w>har</w>
+    <w>inte</w>
+    <w>gjort</w>
+    <w>nog</w>
+  </absaspan>
+  <w>.</w>
+  <w>Hon</w>
+  <w>orkar</w>
+  <w>inte</w>
+  <w>,</w>
+  <w>hon</w>
+  <w>hinner</w>
+  <w>inte</w>
+  <w>göra</w>
+  <w>mer</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <w>Jag</w>
+  <w>tänker</w>
+  <w>-</w>
+  <w>är</w>
+  <w>det</w>
+  <w>detta</w>
+  <w>som</w>
+  <w>är</w>
+  <absaspan id=21 senti=2>
+    <w>problemet</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=22>
+    <w>Att</w>
+    <w>vi</w>
+    <w>har</w>
+    <w>olika</w>
+    <w>grupper</w>
+    <w>i</w>
+    <w>Sverige</w>
+    <w>med</w>
+    <w>helt</w>
+    <w>olika</w>
+    <w>verklighetsuppfattning</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=23>
+    <w>En</w>
+    <w>grupp</w>
+  </absaspan>
+  <w>som</w>
+  <w>är</w>
+  <absaspan id=24 senti=1>
+    <w>förtvivlad</w>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>att</w>
+    <w>de</w>
+    <w>ser</w>
+    <w>sitt</w>
+    <w>fosterland</w>
+    <w>brytas</w>
+    <w>ner</w>
+  </absaspan>
+  <w>,</w>
+  <w>att</w>
+  <w>se</w>
+  <absaspan id=26>
+    <w>villkoren</w>
+  </absaspan>
+  <absaspan id=27 senti=2>
+    <w>försämras</w>
+  </absaspan>
+  <w>för</w>
+  <w>sig</w>
+  <w>,</w>
+  <w>sin</w>
+  <w>familj</w>
+  <w>och</w>
+  <w>sina</w>
+  <w>närstående</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>sedan</w>
+  <w>har</w>
+  <w>vi</w>
+  <absaspan id=28>
+    <w>en</w>
+    <w>annan</w>
+    <w>grupp</w>
+  </absaspan>
+  <w>som</w>
+  <w>är</w>
+  <absaspan id=29 senti=3>
+    <w>helt</w>
+    <w>oberörd</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>detta</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>bara</w>
+  <w>har</w>
+  <w>fokus</w>
+  <w>på</w>
+  <w>de</w>
+  <w>främlingar</w>
+  <w>som</w>
+  <w>kommer</w>
+  <w>till</w>
+  <w>vårt</w>
+  <w>land</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Kan</w>
+  <w>de</w>
+  <w>två</w>
+  <w>grupperna</w>
+  <w>någonsin</w>
+  <w>kommunicera</w>
+  <w>?</w>
+  <w>Kan</w>
+  <w>de</w>
+  <w>förstå</w>
+  <w>varandra</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

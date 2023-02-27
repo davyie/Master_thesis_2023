@@ -1,0 +1,69 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Nour</w>
+    <w>El-Refai</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>avslöjad</w>
+    <w>som</w>
+    <w>RASIST</w>
+  </absaspan>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>Intressant</w>
+  <w>klipp</w>
+  <w>med</w>
+  <w>uttalande</w>
+  <w>från</w>
+  <w>Nour</w>
+  <w>El-Refai</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>"</w>
+  <absaspan id=3>
+    <w>Ni</w>
+    <w>samlade</w>
+    <w>alla</w>
+    <w>rika</w>
+    <w>vita</w>
+    <w>i</w>
+    <w>ett</w>
+    <w>rum</w>
+    <w>och</w>
+    <w>hoppades</w>
+    <w>det</w>
+    <w>skulle</w>
+    <w>gå</w>
+    <w>bra</w>
+  </absaspan>
+  <w>"</w>
+  <w>säger</w>
+  <w>hon</w>
+  <w>i</w>
+  <w>Morgonpasset</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=4 senti=2>
+    <w>Hur</w>
+    <w>skulle</w>
+    <w>det</w>
+    <w>låta</w>
+    <w>om</w>
+    <w>en</w>
+    <w>etnisk</w>
+    <w>svensk</w>
+    <w>sagt</w>
+    <w>motsvarande</w>
+    <w>sak</w>
+    <w>fast</w>
+    <w>om</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

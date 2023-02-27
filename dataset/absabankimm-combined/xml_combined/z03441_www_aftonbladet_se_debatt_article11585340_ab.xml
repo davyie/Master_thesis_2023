@@ -1,0 +1,498 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Snus</w>
+  </absaspan>
+  <absaspan id=2 senti=1 target=1>
+    <w>är</w>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=3 senti=1 target=1 target=4>
+    <w>skadlig</w>
+  </absaspan>
+  <absaspan id=4 senti=1 target=1>
+    <w>produkt</w>
+  </absaspan>
+  <w>,</w>
+  <w>Björling</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>I</w>
+  <w>en</w>
+  <w>debattartikel</w>
+  <w>i</w>
+  <w>den</w>
+  <w>28</w>
+  <w>november</w>
+  <w>skriver</w>
+  <w>handelsminister</w>
+  <w>Ewa</w>
+  <w>Björling</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>vill</w>
+  <w>ta</w>
+  <w>bort</w>
+  <w>det</w>
+  <w>svenska</w>
+  <w>förbudet</w>
+  <w>mot</w>
+  <w>att</w>
+  <w>exportera</w>
+  <w>snus</w>
+  <w>.</w>
+  <w>Förbudet</w>
+  <w>tillkom</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=5>
+    <w>andra</w>
+    <w>EU-länder</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>inte</w>
+    <w>ville</w>
+    <w>tillåta</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>försäljning</w>
+    <w>i</w>
+    <w>sina</w>
+    <w>länder</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=8>
+    <w>Björling</w>
+  </absaspan>
+  <w>menar</w>
+  <w>att</w>
+  <absaspan id=9>
+    <w>dagens</w>
+    <w>svenska</w>
+    <w>undantag</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>är</w>
+    <w>orimligt</w>
+  </absaspan>
+  <w>och</w>
+  <w>strider</w>
+  <w>mot</w>
+  <w>EG-rätten</w>
+  <w>.</w>
+  <w>Björling</w>
+  <w>har</w>
+  <w>även</w>
+  <w>skickat</w>
+  <w>ett</w>
+  <w>brev</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>till</w>
+  <w>EU-kommissionären</w>
+  <w>för</w>
+  <w>inre</w>
+  <w>marknaden</w>
+  <w>och</w>
+  <w>tjänster</w>
+  <w>,</w>
+  <w>Charlie</w>
+  <w>McCreevy</w>
+  <w>.</w>
+  <w>Innebörden</w>
+  <w>av</w>
+  <w>Björlings</w>
+  <w>åsikter</w>
+  <w>är</w>
+  <w>att</w>
+  <w>länderna</w>
+  <w>som</w>
+  <absaspan id=11 senti=2>
+    <w>inte</w>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>ha</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>snus</w>
+    <w>i</w>
+    <w>sina</w>
+    <w>länder</w>
+  </absaspan>
+  <w>ska</w>
+  <absaspan id=14 senti=2>
+    <w>tvingas</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>det</w>
+  </absaspan>
+  <w>ändå</w>
+  <absaspan id=16>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Björling</w>
+  <w>för</w>
+  <w>i</w>
+  <w>mina</w>
+  <w>öron</w>
+  <w>ett</w>
+  <absaspan id=17 senti=1>
+    <w>fullständigt</w>
+    <w>oförklarligt</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>resonemang</w>
+  </absaspan>
+  <w>i</w>
+  <w>frågan</w>
+  <w>.</w>
+  <w>Till</w>
+  <w>att</w>
+  <w>börja</w>
+  <w>med</w>
+  <w>borde</w>
+  <w>Björling</w>
+  <w>som</w>
+  <w>tandläkare</w>
+  <w>vara</w>
+  <w>väl</w>
+  <w>insatt</w>
+  <w>i</w>
+  <w>forskningsresultat</w>
+  <absaspan id=19 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Alldeles</w>
+  <w>nyligen</w>
+  <w>poängterade</w>
+  <w>nordens</w>
+  <w>samtliga</w>
+  <w>socialstyrelser</w>
+  <w>att</w>
+  <w>snus</w>
+  <w>inte</w>
+  <w>räddar</w>
+  <w>liv</w>
+  <w>genom</w>
+  <w>att</w>
+  <w>det</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>ger</w>
+  <w>ökad</w>
+  <w>risk</w>
+  <w>att</w>
+  <w>drabbas</w>
+  <w>av</w>
+  <w>cancer</w>
+  <w>i</w>
+  <w>bukspottkörtel</w>
+  <w>,</w>
+  <w>matstrupe</w>
+  <w>och</w>
+  <w>magsäck</w>
+  <w>.</w>
+  <w>Likaså</w>
+  <w>att</w>
+  <w>det</w>
+  <w>ökar</w>
+  <w>risken</w>
+  <w>att</w>
+  <w>drabbas</w>
+  <w>av</w>
+  <w>såväl</w>
+  <w>hjärtinfarkt</w>
+  <w>som</w>
+  <w>stroke</w>
+  <w>och</w>
+  <w>för</w>
+  <w>högt</w>
+  <w>blodtryck</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>finns</w>
+  <w>också</w>
+  <w>undersökningar</w>
+  <w>som</w>
+  <w>exempelvis</w>
+  <w>pekar</w>
+  <w>på</w>
+  <w>att</w>
+  <w>snus</w>
+  <w>orsakar</w>
+  <w>diabetes</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Precis</w>
+  <w>som</w>
+  <w>Björling</w>
+  <w>skriver</w>
+  <w>innebär</w>
+  <w>grundbulten</w>
+  <w>inom</w>
+  <w>den</w>
+  <w>fria</w>
+  <w>rörligheten</w>
+  <w>inom</w>
+  <w>EU</w>
+  <w>att</w>
+  <w>varor</w>
+  <w>fritt</w>
+  <w>ska</w>
+  <w>kunna</w>
+  <w>säljas</w>
+  <w>mellan</w>
+  <w>länderna</w>
+  <w>.</w>
+  <w>Därtill</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>emellertid</w>
+  <w>,</w>
+  <w>vilket</w>
+  <absaspan id=20>
+    <w>Björling</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>nonchalerar</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>ett</w>
+    <w>viktigt</w>
+    <w>undantagsförhållande</w>
+  </absaspan>
+  <w>,</w>
+  <w>nämligen</w>
+  <w>då</w>
+  <w>det</w>
+  <w>bland</w>
+  <w>annat</w>
+  <absaspan id=23 senti=4>
+    <w>finns</w>
+    <w>ett</w>
+    <w>intresse</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>att</w>
+    <w>skydda</w>
+    <w>människors</w>
+    <w>hälsa</w>
+    <w>och</w>
+    <w>liv</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>.</w>
+  </absaspan>
+  <w>Det</w>
+  <w>står</w>
+  <w>klart</w>
+  <w>att</w>
+  <absaspan id=26>
+    <w>snus</w>
+  </absaspan>
+  <absaspan id=27 senti=2>
+    <w>innebär</w>
+    <w>tydliga</w>
+    <w>risker</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=28 senti=1>
+    <w>är</w>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=29 senti=1>
+    <w>skadlig</w>
+  </absaspan>
+  <absaspan id=30 senti=1>
+    <w>produkt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Det</w>
+  <absaspan id=31 senti=5>
+    <w>är</w>
+    <w>med</w>
+    <w>glädje</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>jag</w>
+    <w>under</w>
+    <w>senare</w>
+    <w>år</w>
+    <w>börjat</w>
+    <w>se</w>
+    <w>att</w>
+    <w>medlemsstater</w>
+    <w>börjat</w>
+    <w>ta</w>
+    <w>tobaksfrågan</w>
+    <w>på</w>
+    <w>mer</w>
+    <w>och</w>
+    <w>mer</w>
+    <w>allvar</w>
+  </absaspan>
+  <w>.</w>
+  <w>När</w>
+  <absaspan id=33 senti=4>
+    <w>äntligen</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>detta</w>
+    <w>har</w>
+    <w>blivit</w>
+    <w>en</w>
+    <w>betydelsefull</w>
+    <w>fråga</w>
+  </absaspan>
+  <absaspan id=35 senti=2>
+    <w>kan</w>
+    <w>man</w>
+    <w>sannerligen</w>
+    <w>fråga</w>
+    <w>sig</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>varför</w>
+    <w>arbetet</w>
+    <w>ska</w>
+    <w>inskränkas</w>
+  </absaspan>
+  <w>.</w>
+  <w>När</w>
+  <w>Sverige</w>
+  <w>för</w>
+  <w>så</w>
+  <w>länge</w>
+  <w>sen</w>
+  <w>som</w>
+  <w>14</w>
+  <w>år</w>
+  <w>gick</w>
+  <w>med</w>
+  <w>i</w>
+  <w>EU</w>
+  <w>var</w>
+  <w>det</w>
+  <w>inga</w>
+  <w>otydligheter</w>
+  <w>kring</w>
+  <w>det</w>
+  <w>svenska</w>
+  <w>exportförbudet</w>
+  <absaspan id=37 senti=4>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>Med</w>
+  <w>anledning</w>
+  <w>av</w>
+  <w>detta</w>
+  <w>anser</w>
+  <w>jag</w>
+  <w>att</w>
+  <absaspan id=38>
+    <w>Björling</w>
+  </absaspan>
+  <absaspan id=39 senti=2>
+    <w>har</w>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=40 senti=2>
+    <w>anmärkningsvärd</w>
+  </absaspan>
+  <absaspan id=41 senti=2>
+    <w>inställning</w>
+  </absaspan>
+  <absaspan id=42>
+    <w>till</w>
+    <w>snuset</w>
+  </absaspan>
+  <w>.</w>
+  <w>Jag</w>
+  <absaspan id=43 senti=2>
+    <w>hoppas</w>
+    <w>verkligen</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=44>
+    <w>att</w>
+    <w>detta</w>
+    <w>kommer</w>
+    <w>bli</w>
+    <w>en</w>
+    <w>huvudfråga</w>
+    <w>för</w>
+    <w>ministern</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>likhet</w>
+  <w>med</w>
+  <w>frågan</w>
+  <w>om</w>
+  <w>snus</w>
+  <w>är</w>
+  <w>det</w>
+  <w>också</w>
+  <w>oerhört</w>
+  <w>viktigt</w>
+  <w>att</w>
+  <w>medlemsstaterna</w>
+  <w>har</w>
+  <w>möjlighet</w>
+  <w>att</w>
+  <w>hävda</w>
+  <w>sin</w>
+  <w>egen</w>
+  <w>beslutanderätt</w>
+  <w>om</w>
+  <w>alkoholen</w>
+  <w>.</w>
+  <w>För</w>
+  <w>ett</w>
+  <absaspan id=45 senti=4>
+    <w>fruktbart</w>
+  </absaspan>
+  <absaspan id=46>
+    <w>förebyggande</w>
+    <w>arbete</w>
+  </absaspan>
+  <absaspan id=47 senti=2>
+    <w>är</w>
+  </absaspan>
+  <w>det</w>
+  <absaspan id=48 senti=2>
+    <w>ingen</w>
+  </absaspan>
+  <absaspan id=49 senti=2>
+    <w>bra</w>
+    <w>strategi</w>
+  </absaspan>
+  <absaspan id=50>
+    <w>att</w>
+    <w>släppa</w>
+    <w>snuset</w>
+    <w>fritt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Lars</w>
+  <w>Wohlin</w>
+  <w>,</w>
+  <w>europaparlamentariker</w>
+  <w>(</w>
+  <w>kd</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+</absadoc>

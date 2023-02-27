@@ -1,0 +1,103 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Det</w>
+  <w>är</w>
+  <w>okej</w>
+  <w>att</w>
+  <w>nämna</w>
+  <w>kön</w>
+  <w>men</w>
+  <w>inte</w>
+  <w>etnicitet</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>Män</w>
+  </absaspan>
+  <absaspan id=2 senti=2 irony>
+    <w>är</w>
+    <w>överrepresenterade</w>
+    <w>i</w>
+    <w>alla</w>
+    <w>möjliga</w>
+    <w>onda</w>
+    <w>grejer</w>
+  </absaspan>
+  <w>,</w>
+  <w>våldtäker</w>
+  <w>,</w>
+  <w>mord</w>
+  <w>,</w>
+  <w>you</w>
+  <w>name</w>
+  <w>it</w>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=3 senti=2>
+    <w>är</w>
+    <w>inga</w>
+    <w>problem</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>media</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>att</w>
+    <w>använda</w>
+    <w>begreppet</w>
+    <w>män</w>
+    <w>och</w>
+    <w>dra</w>
+    <w>alla</w>
+    <w>över</w>
+    <w>en</w>
+    <w>kant</w>
+    <w>,</w>
+    <w>vad</w>
+    <w>än</w>
+    <w>det</w>
+    <w>nu</w>
+    <w>må</w>
+    <w>gälla</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>när</w>
+  <w>det</w>
+  <w>kommer</w>
+  <w>till</w>
+  <w>etnicitet</w>
+  <w>är</w>
+  <w>det</w>
+  <w>ett</w>
+  <w>big</w>
+  <w>no</w>
+  <w>no</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=6 senti=2>
+    <w>Hur</w>
+    <w>blev</w>
+    <w>det</w>
+    <w>så</w>
+    <w>här</w>
+  </absaspan>
+  <w>och</w>
+  <w>varför</w>
+  <w>är</w>
+  <w>det</w>
+  <w>ena</w>
+  <w>okej</w>
+  <w>men</w>
+  <w>inte</w>
+  <w>det</w>
+  <w>andra</w>
+  <absaspan id=7 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

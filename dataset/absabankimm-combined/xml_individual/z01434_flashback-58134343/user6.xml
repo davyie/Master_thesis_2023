@@ -1,0 +1,133 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Svenska</w>
+  <w>landslagsspelare</w>
+  <w>sjunger</w>
+  <w>inte</w>
+  <w>nationalsången</w>
+  <w>-</w>
+  <w>varför</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>Janne</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Andersson</w>
+    <w>,</w>
+    <w>ny</w>
+    <w>förbundskapten</w>
+    <w>för</w>
+    <w>svenska</w>
+    <w>landslaget</w>
+    <w>i</w>
+    <w>fotboll</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>,</w>
+    <w>sade</w>
+    <w>i</w>
+    <w>P1</w>
+    <w>Sommar</w>
+    <w>att</w>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>var</w>
+    <w>viktigt</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>att</w>
+    <w>sjunga</w>
+    <w>med</w>
+    <w>i</w>
+    <w>nationalsången</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=6>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>var</w>
+    <w>tydligen</w>
+    <w>lite</w>
+    <w>kontroversiellt</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Svenske</w>
+  <w>lagkaptenen</w>
+  <w>Astrit</w>
+  <w>Ajdarevic</w>
+  <w>försöker</w>
+  <w>förklara</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Så</w>
+  <w>vad</w>
+  <w>menar</w>
+  <w>Ajdarevic</w>
+  <w>?</w>
+  <absaspan id=9>
+    <w>Relaterar</w>
+    <w>han</w>
+    <w>att</w>
+    <w>sjunga</w>
+    <w>den</w>
+    <w>svenska</w>
+    <w>nationalsången</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>balkanskt</w>
+    <w>elände</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=11 senti=2>
+    <w>så</w>
+    <w>till</w>
+    <w>den</w>
+    <w>milda</w>
+    <w>grad</w>
+  </absaspan>
+  <w>att</w>
+  <w>han</w>
+  <w>därmed</w>
+  <w>känner</w>
+  <w>sig</w>
+  <absaspan id=12 senti=2>
+    <w>riskera</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>att</w>
+    <w>förknippa</w>
+    <w>fotboll</w>
+    <w>med</w>
+    <w>krig</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Går</w>
+  <w>det</w>
+  <w>att</w>
+  <w>få</w>
+  <w>någon</w>
+  <w>rätsida</w>
+  <w>på</w>
+  <w>Ajdarevic</w>
+  <w>argumentation</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

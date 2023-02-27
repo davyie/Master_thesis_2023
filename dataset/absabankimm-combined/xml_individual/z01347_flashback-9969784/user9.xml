@@ -1,0 +1,244 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 source=2 target=1>
+    <w>Islamofobi</w>
+  </absaspan>
+  <w>ökar</w>
+  <w>i</w>
+  <w>Nederländerna</w>
+  <absaspan id=2>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Är</w>
+  <w>det</w>
+  <w>alltid</w>
+  <w>ickemuslimens</w>
+  <w>fel</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Och</w>
+  <w>vad</w>
+  <w>skapar</w>
+  <absaspan id=3 senti=2>
+    <w>islamfobin</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>?</w>
+  </absaspan>
+  <w>Muslimer</w>
+  <w>ställer</w>
+  <w>krav</w>
+  <w>och</w>
+  <w>inte</w>
+  <w>respekterar</w>
+  <w>europeiska</w>
+  <w>regler</w>
+  <w>som</w>
+  <w>ska</w>
+  <w>gälla</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Muslimer</w>
+  <w>ställer</w>
+  <w>krav</w>
+  <w>på</w>
+  <w>särbehandling</w>
+  <w>där</w>
+  <w>alla</w>
+  <w>regler</w>
+  <w>ska</w>
+  <w>gälla</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=5>
+    <w>Sharialagar</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>där</w>
+    <w>man</w>
+    <w>amputerar</w>
+    <w>armen</w>
+    <w>för</w>
+    <w>att</w>
+    <w>stulit</w>
+    <w>något</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=7 senti=2>
+    <w>Vad</w>
+    <w>ska</w>
+    <w>jag</w>
+    <w>se</w>
+    <w>posltivt</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>det</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Svenska</w>
+  <w>islamister</w>
+  <w>på</w>
+  <w>NOOR</w>
+  <w>hoppas</w>
+  <w>att</w>
+  <w>självmordsbombare</w>
+  <w>ska</w>
+  <w>nå</w>
+  <w>norden</w>
+  <w>och</w>
+  <w>döda</w>
+  <w>otrogna</w>
+  <w>KUFFAR</w>
+  <w>.</w>
+  <w>El-Swede</w>
+  <w>säger</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>varje</w>
+  <w>muslims</w>
+  <w>PLIKT</w>
+  <w>att</w>
+  <w>döda</w>
+  <w>runar</w>
+  <w>söögard</w>
+  <w>och</w>
+  <w>en</w>
+  <w>annan</w>
+  <w>i</w>
+  <w>samma</w>
+  <w>omkrets</w>
+  <w>att</w>
+  <w>man</w>
+  <w>ska</w>
+  <w>skära</w>
+  <w>upp</w>
+  <w>lars</w>
+  <w>vilks</w>
+  <w>strupe</w>
+  <w>PGA</w>
+  <w>EN</w>
+  <w>BILD</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Men</w>
+  <absaspan id=9>
+    <w>vad</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>dessa</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>sjuka</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>individer</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>beundrar</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <absaspan id=14>
+    <w>nämnligen</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>provocerat</w>
+    <w>våld</w>
+    <w>mot</w>
+    <w>mänskliga</w>
+    <w>rättigheter</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>pratar</w>
+  <w>ingen</w>
+  <w>om</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Och</w>
+  <w>det</w>
+  <w>är</w>
+  <w>ingen</w>
+  <w>som</w>
+  <w>anklagar</w>
+  <w>muslimer</w>
+  <w>för</w>
+  <absaspan id=16 senti=2>
+    <w>homofobi</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>?</w>
+  </absaspan>
+  <w>När</w>
+  <w>det</w>
+  <w>är</w>
+  <w>dödsstraff</w>
+  <w>på</w>
+  <w>det</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>När</w>
+  <w>ska</w>
+  <w>man</w>
+  <w>ställa</w>
+  <w>frågan</w>
+  <w>vad</w>
+  <w>beror</w>
+  <w>islamfobin</w>
+  <w>på</w>
+  <w>?</w>
+  <w>Skapar</w>
+  <w>muslimernas</w>
+  <w>eget</w>
+  <w>agerande</w>
+  <w>,</w>
+  <w>våld</w>
+  <w>och</w>
+  <w>hat</w>
+  <w>islamfobi</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Jag</w>
+  <w>borde</w>
+  <w>ha</w>
+  <w>mer</w>
+  <w>anledning</w>
+  <w>att</w>
+  <w>känna</w>
+  <w>mig</w>
+  <w>kränkt</w>
+  <w>pga</w>
+  <w>självmordsbombare</w>
+  <w>än</w>
+  <w>muslimer</w>
+  <w>pga</w>
+  <w>en</w>
+  <w>teddybjörn</w>
+  <w>som</w>
+  <w>heter</w>
+  <w>mohammed</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

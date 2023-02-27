@@ -1,0 +1,119 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Replik</w>
+  <w>:</w>
+  <w>Välkommen</w>
+  <w>till</w>
+  <w>verkligheten</w>
+  <w>!</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <w>är</w>
+  <w>lite</w>
+  <w>rörande</w>
+  <w>att</w>
+  <w>se</w>
+  <w>hur</w>
+  <absaspan id=1>
+    <w>kvällsarbetande</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>kulturarbetare</w>
+    <w>och</w>
+    <w>skådespelare</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>beklagar</w>
+    <w>sig</w>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>bristen</w>
+    <w>på</w>
+    <w>kommunal</w>
+    <w>barnomsorg</w>
+    <w>under</w>
+    <w>kvällar</w>
+    <w>och</w>
+    <w>helger</w>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>De</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>anser</w>
+    <w>sig</w>
+    <w>tvingade</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>att</w>
+    <w>välja</w>
+    <w>”</w>
+    <w>barn</w>
+    <w>eller</w>
+    <w>arbetet</w>
+  </absaspan>
+  <w>”</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Välkommen</w>
+  <w>till</w>
+  <w>verkligheten</w>
+  <w>!</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>nog</w>
+  <w>10</w>
+  <w>000</w>
+  <w>-</w>
+  <w>tals</w>
+  <w>föräldrar</w>
+  <w>som</w>
+  <w>tycker</w>
+  <w>jättesynd</w>
+  <w>om</w>
+  <w>er</w>
+  <w>.</w>
+  <w>De</w>
+  <w>jobbar</w>
+  <w>skift</w>
+  <w>,</w>
+  <w>med</w>
+  <w>tillhörande</w>
+  <w>kvällar</w>
+  <w>,</w>
+  <w>helger</w>
+  <w>och</w>
+  <w>nätter</w>
+  <w>inom</w>
+  <w>vård</w>
+  <w>,</w>
+  <w>handel</w>
+  <w>,</w>
+  <w>restaurang</w>
+  <w>och</w>
+  <w>industri</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>De</w>
+  <w>har</w>
+  <w>dock</w>
+  <w>lyckats</w>
+  <w>kombinera</w>
+  <w>det</w>
+  <w>som</w>
+  <w>ni</w>
+  <w>anser</w>
+  <w>vara</w>
+  <w>ett</w>
+  <w>motsatsförhållande</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+</absadoc>

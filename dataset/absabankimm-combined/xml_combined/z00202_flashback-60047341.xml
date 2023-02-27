@@ -1,0 +1,52 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>EU</w>
+  </absaspan>
+  <absaspan id=2 senti=4 target=3 source=1>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>att</w>
+    <w>Sverige</w>
+    <w>tar</w>
+    <w>80</w>
+    <w>000</w>
+    <w>migranter</w>
+    <w>utan</w>
+    <w>asylskäl</w>
+    <w>i</w>
+    <w>förvar</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Visst</w>
+  <w>kommer</w>
+  <w>det</w>
+  <w>att</w>
+  <w>ge</w>
+  <w>arbetstillfällen</w>
+  <w>men</w>
+  <w>hur</w>
+  <w>gör</w>
+  <w>man</w>
+  <w>rent</w>
+  <w>praktiskt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Var</w>
+  <w>ska</w>
+  <w>man</w>
+  <w>lämpligen</w>
+  <w>placera</w>
+  <absaspan id=4 senti=1>
+    <w>Sveriges</w>
+    <w>Guantanamo</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

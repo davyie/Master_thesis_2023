@@ -1,0 +1,35 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Har</w>
+  <w>Danmark</w>
+  <w>700K</w>
+  <w>Muslimer</w>
+  <w>?</w>
+  <w>Första</w>
+  <w>Muslimska</w>
+  <w>landet</w>
+  <w>i</w>
+  <w>Europa</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>'</w>
+  <absaspan id=1 senti=2>
+    <w>Fake</w>
+    <w>News</w>
+  </absaspan>
+  <w>'</w>
+  <w>.</w>
+  <w>.</w>
+  <w>vad</w>
+  <w>säger</w>
+  <w>Flashback</w>
+  <w>?</w>
+  <w>Någon</w>
+  <w>trovärdighet</w>
+  <w>bakom</w>
+  <w>artikeln</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

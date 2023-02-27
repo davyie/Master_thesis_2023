@@ -1,0 +1,578 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Loppor</w>
+  <w>,</w>
+  <w>löss</w>
+  <w>,</w>
+  <w>invandring</w>
+  <w>och</w>
+  <w>integration</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <w>heter</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>löss</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>trivs</w>
+    <w>bra</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=3>
+    <w>rena</w>
+    <w>miljöer</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <w>Ändå</w>
+  <w>hade</w>
+  <w>vi</w>
+  <w>inga</w>
+  <w>löss</w>
+  <w>när</w>
+  <w>jag</w>
+  <w>var</w>
+  <w>ung</w>
+  <w>och</w>
+  <absaspan id=4 senti=2>
+    <w>integraschoon</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>var</w>
+  <w>något</w>
+  <w>som</w>
+  <w>endast</w>
+  <w>förekom</w>
+  <w>i</w>
+  <w>matematikstudierna</w>
+  <w>.</w>
+  <w>(</w>
+  <w>Dvs</w>
+  <w>Integraler</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>för</w>
+  <w>de</w>
+  <absaspan id=5 senti=2>
+    <w>obildade</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>här</w>
+    <w>på</w>
+    <w>FB</w>
+  </absaspan>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=2>
+  <w>Nu</w>
+  <w>däremot</w>
+  <w>när</w>
+  <w>vi</w>
+  <w>har</w>
+  <w>en</w>
+  <absaspan id=7 senti=2>
+    <w>massiv</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>invandring</w>
+  </absaspan>
+  <w>av</w>
+  <w>berikare</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>så</w>
+  <w>säljer</w>
+  <w>Apoteket</w>
+  <w>tusentals</w>
+  <w>förpackningar</w>
+  <w>lusmedel</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Frågan</w>
+  <w>är</w>
+  <w>dock</w>
+  <w>:</w>
+  <w>Hur</w>
+  <w>smittar</w>
+  <w>löss</w>
+  <w>om</w>
+  <w>det</w>
+  <w>nu</w>
+  <absaspan id=9 senti=3>
+    <w>inte</w>
+    <w>beror</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>på</w>
+  <absaspan id=10>
+    <w>dålig</w>
+    <w>person</w>
+    <w>-</w>
+    <w>och</w>
+    <w>persedelvård</w>
+  </absaspan>
+  <w>enl</w>
+  <absaspan id=11>
+    <w>PK-iterna</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=12 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=9>
+  <w>"</w>
+  <w>Ökad</w>
+  <w>försäljning</w>
+  <w>av</w>
+  <w>-</w>
+  <w>lusmedel</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Försäljningen</w>
+  <w>av</w>
+  <w>lusmedel</w>
+  <w>på</w>
+  <w>Apoteket</w>
+  <w>har</w>
+  <w>ökat</w>
+  <w>med</w>
+  <w>hela</w>
+  <w>38</w>
+  <w>procent</w>
+  <w>mellan</w>
+  <w>2003</w>
+  <w>och</w>
+  <w>2005</w>
+  <w>.</w>
+  <w>Spridningen</w>
+  <w>brukar</w>
+  <w>ta</w>
+  <w>fart</w>
+  <w>när</w>
+  <w>skolor</w>
+  <w>och</w>
+  <w>förskolor</w>
+  <w>öppnar</w>
+  <w>för</w>
+  <w>terminen</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>”</w>
+  <absaspan id=13>
+    <w>Löss</w>
+    <w>förknippas</w>
+    <w>ofta</w>
+    <w>med</w>
+    <w>dålig</w>
+    <w>hygien</w>
+  </absaspan>
+  <w>men</w>
+  <w>det</w>
+  <absaspan id=14 senti=2>
+    <w>är</w>
+    <w>fel</w>
+  </absaspan>
+  <w>.</w>
+  <w>Tvärtom</w>
+  <w>så</w>
+  <absaspan id=15 senti=5>
+    <w>trivs</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>lössen</w>
+  </absaspan>
+  <absaspan id=17 senti=5>
+    <w>utmärkt</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=18>
+    <w>nytvättat</w>
+    <w>hår</w>
+  </absaspan>
+  <w>”</w>
+  <w>,</w>
+  <w>säger</w>
+  <absaspan id=19>
+    <w>Christina</w>
+    <w>Ekedahl</w>
+  </absaspan>
+  <w>,</w>
+  <w>Apotekets</w>
+  <w>egenvårdsspecialist</w>
+  <w>på</w>
+  <w>löss</w>
+  <w>,</w>
+  <w>enligt</w>
+  <w>ett</w>
+  <w>pressmeddelande</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>TT</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Publicerad</w>
+  <w>:</w>
+  <w>2006</w>
+  <w>-</w>
+  <w>08</w>
+  <w>-</w>
+  <w>31</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>"</w>
+  <w>Vem</w>
+  <w>drabbas</w>
+  <w>av</w>
+  <w>huvudlöss</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <absaspan id=20>
+    <w>Huvudlöss</w>
+  </absaspan>
+  <w>är</w>
+  <w>ett</w>
+  <absaspan id=21 senti=2>
+    <w>växande</w>
+    <w>problem</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>Vem</w>
+  <w>som</w>
+  <w>helst</w>
+  <w>kan</w>
+  <absaspan id=22 senti=2>
+    <w>drabbas</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=23>
+    <w>huvudlöss</w>
+  </absaspan>
+  <w>.</w>
+  <w>Under</w>
+  <w>de</w>
+  <w>senaste</w>
+  <w>10</w>
+  <w>åren</w>
+  <w>har</w>
+  <absaspan id=24 senti=2>
+    <w>problemen</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=25>
+    <w>huvudlöss</w>
+  </absaspan>
+  <absaspan id=26 senti=2>
+    <w>ökat</w>
+    <w>kraftigt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>framförallt</w>
+  <absaspan id=27>
+    <w>barn</w>
+    <w>mellan</w>
+    <w>3</w>
+    <w>-</w>
+    <w>11</w>
+    <w>år</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=28 senti=2>
+    <w>drabbas</w>
+  </absaspan>
+  <w>.</w>
+  <w>Ofta</w>
+  <w>brukar</w>
+  <absaspan id=29 senti=2>
+    <w>problemen</w>
+  </absaspan>
+  <w>uppmärksammas</w>
+  <w>vid</w>
+  <w>terminstart</w>
+  <w>på</w>
+  <w>dagis</w>
+  <w>och</w>
+  <w>i</w>
+  <w>skolor</w>
+  <w>,</w>
+  <w>men</w>
+  <w>angrepp</w>
+  <w>förekommer</w>
+  <w>under</w>
+  <w>hela</w>
+  <w>året</w>
+  <w>.</w>
+  <w>Enligt</w>
+  <w>Läkemedelsverket</w>
+  <w>visar</w>
+  <w>en</w>
+  <w>amerikansk</w>
+  <w>undersökning</w>
+  <w>att</w>
+  <w>huvudlöss</w>
+  <w>är</w>
+  <w>den</w>
+  <w>näst</w>
+  <w>vanligaste</w>
+  <w>åkomman</w>
+  <w>som</w>
+  <w>sprids</w>
+  <w>bland</w>
+  <w>skolbarn</w>
+  <w>efter</w>
+  <w>förkylning</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <absaspan id=30>
+    <w>Löss</w>
+  </absaspan>
+  <absaspan id=31 senti=4>
+    <w>trivs</w>
+    <w>bra</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>nära</w>
+    <w>hårbotten</w>
+  </absaspan>
+  <w>.</w>
+  <w>De</w>
+  <w>kan</w>
+  <w>varken</w>
+  <w>hoppa</w>
+  <w>eller</w>
+  <w>flyga</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>krävs</w>
+  <w>därför</w>
+  <w>nära</w>
+  <w>kontakt</w>
+  <w>hår</w>
+  <w>mot</w>
+  <w>hår</w>
+  <w>för</w>
+  <w>att</w>
+  <w>lössen</w>
+  <w>ska</w>
+  <w>kunna</w>
+  <w>krypa</w>
+  <w>över</w>
+  <w>och</w>
+  <w>smitta</w>
+  <w>en</w>
+  <w>ny</w>
+  <w>person</w>
+  <w>.</w>
+  <absaspan id=33 senti=2>
+    <w>Risken</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=34>
+    <w>spridning</w>
+  </absaspan>
+  <w>av</w>
+  <w>löss</w>
+  <w>via</w>
+  <w>kammar</w>
+  <w>,</w>
+  <w>hårborstar</w>
+  <w>eller</w>
+  <w>mössor</w>
+  <w>är</w>
+  <w>mycket</w>
+  <w>liten</w>
+  <w>.</w>
+  <absaspan id=35>
+    <w>Lössen</w>
+  </absaspan>
+  <absaspan id=36 senti=2>
+    <w>har</w>
+    <w>svårt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=37>
+    <w>klara</w>
+    <w>sig</w>
+    <w>utanför</w>
+    <w>hårbotten</w>
+  </absaspan>
+  <w>som</w>
+  <w>är</w>
+  <w>varm</w>
+  <w>och</w>
+  <w>fuktig</w>
+  <w>,</w>
+  <w>där</w>
+  <w>de</w>
+  <w>kan</w>
+  <w>suga</w>
+  <w>blod</w>
+  <w>.</w>
+  <w>Om</w>
+  <w>en</w>
+  <w>lus</w>
+  <w>skulle</w>
+  <w>fastna</w>
+  <w>i</w>
+  <w>en</w>
+  <w>mössa</w>
+  <w>kan</w>
+  <w>den</w>
+  <w>överleva</w>
+  <w>där</w>
+  <w>i</w>
+  <w>ca</w>
+  <w>ett</w>
+  <w>dygn</w>
+  <w>,</w>
+  <w>men</w>
+  <w>efter</w>
+  <w>bara</w>
+  <w>fyra</w>
+  <w>timmar</w>
+  <w>är</w>
+  <absaspan id=38>
+    <w>den</w>
+  </absaspan>
+  <w>i</w>
+  <w>så</w>
+  <absaspan id=39 senti=2>
+    <w>dåligt</w>
+    <w>skick</w>
+  </absaspan>
+  <w>att</w>
+  <w>den</w>
+  <w>inte</w>
+  <w>kan</w>
+  <w>fortplanta</w>
+  <w>sig</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>Barn</w>
+  <w>som</w>
+  <w>nyligen</w>
+  <w>blivit</w>
+  <w>smittade</w>
+  <w>och</w>
+  <w>vuxna</w>
+  <w>som</w>
+  <w>har</w>
+  <w>löss</w>
+  <w>har</w>
+  <w>ofta</w>
+  <w>inga</w>
+  <w>symptom</w>
+  <w>och</w>
+  <w>kan</w>
+  <w>därför</w>
+  <w>lätt</w>
+  <w>smitta</w>
+  <w>andra</w>
+  <w>utan</w>
+  <w>att</w>
+  <w>själva</w>
+  <w>veta</w>
+  <w>om</w>
+  <w>det</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>med</w>
+  <w>andra</w>
+  <w>ord</w>
+  <absaspan id=40 senti=2>
+    <w>lätt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=41>
+    <w>hela</w>
+    <w>familjen</w>
+    <w>drabbas</w>
+  </absaspan>
+  <w>om</w>
+  <w>någon</w>
+  <w>i</w>
+  <w>familjen</w>
+  <w>får</w>
+  <w>löss</w>
+  <w>.</w>
+</absapar>
+<absapar id=19>
+  <w>Många</w>
+  <w>skolor</w>
+  <w>och</w>
+  <w>dagis</w>
+  <w>försöker</w>
+  <w>informera</w>
+  <w>föräldrarna</w>
+  <w>om</w>
+  <w>att</w>
+  <w>det</w>
+  <w>går</w>
+  <w>huvudlöss</w>
+  <w>.</w>
+  <absaspan id=42 senti=2>
+    <w>Tyvärr</w>
+    <w>upplever</w>
+  </absaspan>
+  <absaspan id=43>
+    <w>många</w>
+    <w>skolsköterskor</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=44>
+    <w>föräldrarnas</w>
+    <w>insats</w>
+    <w>inte</w>
+    <w>räcker</w>
+    <w>till</w>
+  </absaspan>
+  <w>enligt</w>
+  <w>en</w>
+  <w>undersökning</w>
+  <w>som</w>
+  <w>Läkemedelsverket</w>
+  <w>genomförde</w>
+  <w>2001</w>
+  <w>.</w>
+</absapar>
+<absapar id=20>
+  <w>Löss</w>
+  <w>beror</w>
+  <w>inte</w>
+  <w>på</w>
+  <w>bristande</w>
+  <w>hygien</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+</absadoc>

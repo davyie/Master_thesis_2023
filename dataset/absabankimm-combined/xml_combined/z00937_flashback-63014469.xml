@@ -1,0 +1,61 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Fråga</w>
+  <w>till</w>
+  <w>er</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>vill</w>
+  <w>ha</w>
+  <w>någon</w>
+  <w>invandring</w>
+  <w>alls</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ni</w>
+  <w>som</w>
+  <w>vill</w>
+  <w>ha</w>
+  <w>noll</w>
+  <w>invandring</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>,</w>
+  <absaspan id=1 senti=2>
+    <w>inser</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>ni</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>hur</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>orimligt</w>
+    <w>det</w>
+    <w>är</w>
+  </absaspan>
+  <w>?</w>
+  <w>Ni</w>
+  <w>skulle</w>
+  <w>lika</w>
+  <w>gärna</w>
+  <w>kunna</w>
+  <w>sälla</w>
+  <w>er</w>
+  <w>till</w>
+  <absaspan id=5 senti=2>
+    <w>knäppfeministerna</w>
+  </absaspan>
+  <w>som</w>
+  <w>drömmer</w>
+  <w>om</w>
+  <w>ett</w>
+  <w>Sverige</w>
+  <w>fritt</w>
+  <w>från</w>
+  <w>män</w>
+  <w>.</w>
+</absapar>
+</absadoc>

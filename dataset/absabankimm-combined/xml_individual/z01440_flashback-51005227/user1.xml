@@ -1,0 +1,157 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Thomas</w>
+    <w>Gür</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=2>
+    <w>invandringen</w>
+  </absaspan>
+  <absaspan id=3 senti=2 target=2 source=1>
+    <w>leder</w>
+    <w>till</w>
+    <w>etniska</w>
+    <w>/</w>
+    <w>sociala</w>
+    <w>spänningar</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Journlistturk</w>
+  <w>med</w>
+  <w>fil</w>
+  <w>.</w>
+  <w>kand</w>
+  <w>i</w>
+  <w>nationalekonomi</w>
+  <w>och</w>
+  <w>lite</w>
+  <w>heder</w>
+  <w>kvar</w>
+  <w>i</w>
+  <w>kroppen</w>
+  <w>träder</w>
+  <w>fram</w>
+  <w>med</w>
+  <w>sanningen</w>
+  <w>om</w>
+  <w>invandringen</w>
+  <w>i</w>
+  <w>debatt</w>
+  <w>med</w>
+  <w>en</w>
+  <w>Sverigehatande</w>
+  <w>liberal</w>
+  <w>i</w>
+  <w>Studio</w>
+  <w>Ett</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <w>"</w>
+  <absaspan id=4>
+    <w>Invandrare</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>är</w>
+    <w>arbetslösa</w>
+    <w>i</w>
+    <w>15</w>
+    <w>år</w>
+    <w>sen</w>
+    <w>går</w>
+    <w>de</w>
+    <w>i</w>
+    <w>pension</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=6>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=2>
+  <absaspan id=7>
+    <w>Andreas</w>
+    <w>Bergström</w>
+  </absaspan>
+  <w>,</w>
+  <w>liberal</w>
+  <w>Sverigeförintare</w>
+  <w>på</w>
+  <w>Fores</w>
+  <w>säger</w>
+  <w>att</w>
+  <w>lösningen</w>
+  <w>är</w>
+  <w>att</w>
+  <w>sänka</w>
+  <w>svenskars</w>
+  <w>ingångslöner</w>
+  <w>då</w>
+  <w>de</w>
+  <w>är</w>
+  <w>för</w>
+  <w>höga</w>
+  <w>.</w>
+  <absaspan id=8 senti=2>
+    <w>Invällningen</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>skall</w>
+    <w>inte</w>
+    <w>trappas</w>
+    <w>ned</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=2>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>deras</w>
+  <w>analyser</w>
+  <w>?</w>
+  <w>Fixar</w>
+  <w>man</w>
+  <absaspan id=10>
+    <w>100</w>
+    <w>000</w>
+  </absaspan>
+  <absaspan id=11 senti=1>
+    <w>MENA-invällare</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>per</w>
+    <w>år</w>
+  </absaspan>
+  <w>sålänge</w>
+  <w>man</w>
+  <w>gör</w>
+  <w>dem</w>
+  <w>och</w>
+  <w>arbetarklassvenskar</w>
+  <w>till</w>
+  <w>rena</w>
+  <w>slavar</w>
+  <absaspan id=13 senti=1>
+    <w>?</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>Är</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>alla</w>
+    <w>liberala</w>
+    <w>svenskar</w>
+  </absaspan>
+  <absaspan id=16 senti=1>
+    <w>vanvettiga</w>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

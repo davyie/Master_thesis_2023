@@ -1,0 +1,243 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=1 target=1>
+    <w>Rasist</w>
+    <w>troll</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>har</w>
+  <w>varitt</w>
+  <w>medlem</w>
+  <w>ett</w>
+  <w>tag</w>
+  <w>på</w>
+  <w>forumet</w>
+  <w>men</w>
+  <w>inte</w>
+  <w>varitt</w>
+  <w>så</w>
+  <w>aktiv</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Men</w>
+  <w>har</w>
+  <w>börjat</w>
+  <w>vara</w>
+  <w>lite</w>
+  <w>mer</w>
+  <w>aktiv</w>
+  <w>på</w>
+  <w>sista</w>
+  <w>tiden</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Och</w>
+  <w>det</w>
+  <w>jag</w>
+  <w>upptäckt</w>
+  <w>efter</w>
+  <w>ca</w>
+  <w>11</w>
+  <w>⁄</w>
+  <w>2vecka</w>
+  <w>är</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Att</w>
+  <w>det</w>
+  <w>svämmar</w>
+  <w>över</w>
+  <w>med</w>
+  <absaspan id=2 senti=1>
+    <w>rasistiska</w>
+    <w>troll</w>
+  </absaspan>
+  <w>på</w>
+  <w>detta</w>
+  <w>forum</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Så</w>
+  <w>fort</w>
+  <w>det</w>
+  <w>går</w>
+  <w>kommer</w>
+  <w>det</w>
+  <absaspan id=3 senti=2>
+    <w>nedvärdernade</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>kommentarer</w>
+  </absaspan>
+  <w>om</w>
+  <w>invandrare</w>
+  <w>,</w>
+  <w>väldigt</w>
+  <w>ofta</w>
+  <w>helt</w>
+  <w>offtopic</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>allt</w>
+  <w>som</w>
+  <w>oftast</w>
+  <w>blir</w>
+  <w>trådarna</w>
+  <w>diskusioner</w>
+  <w>ang</w>
+  <w>folks</w>
+  <w>härkomst</w>
+  <w>istället</w>
+  <w>för</w>
+  <w>vad</w>
+  <w>tråden</w>
+  <w>verkligen</w>
+  <w>handlade</w>
+  <w>om</w>
+  <absaspan id=5 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=6>
+  <w>Detta</w>
+  <w>filmklipp</w>
+  <w>har</w>
+  <w>postats</w>
+  <w>i</w>
+  <w>två</w>
+  <w>olika</w>
+  <w>trådar</w>
+  <w>idag</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>och</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Här</w>
+  <w>är</w>
+  <w>några</w>
+  <w>av</w>
+  <w>kommentarerna</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>(</w>
+  <w>Okej</w>
+  <w>att</w>
+  <absaspan id=6>
+    <w>nån</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>låter</w>
+    <w>eller</w>
+    <w>uppförsig</w>
+    <w>som</w>
+    <w>en</w>
+    <w>apa</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+  <w>Men</w>
+  <w>just</w>
+  <w>det</w>
+  <w>att</w>
+  <w>stämningen</w>
+  <w>på</w>
+  <w>dem</w>
+  <w>flesta</w>
+  <w>delar</w>
+  <w>av</w>
+  <w>Flashbacks</w>
+  <w>forum</w>
+  <w>är</w>
+  <w>invandra</w>
+  <w>fientlig</w>
+  <w>gör</w>
+  <w>kommentarerna</w>
+  <w>mer</w>
+  <w>vinkade</w>
+  <w>än</w>
+  <w>vad</w>
+  <w>dem</w>
+  <w>kanske</w>
+  <w>är</w>
+  <w>.</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Folk</w>
+  <w>får</w>
+  <w>ha</w>
+  <w>sina</w>
+  <w>åsikter</w>
+  <w>men</w>
+  <w>när</w>
+  <w>varenda</w>
+  <w>tråd</w>
+  <w>man</w>
+  <w>läser</w>
+  <w>blir</w>
+  <w>till</w>
+  <w>en</w>
+  <absaspan id=9>
+    <w>diskusion</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>om</w>
+    <w>raser</w>
+    <w>och</w>
+    <w>liknade</w>
+  </absaspan>
+  <w>så</w>
+  <absaspan id=11 senti=2>
+    <w>börjar</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>bli</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>tjatigt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Så</w>
+  <absaspan id=15 senti=2>
+    <w>bort</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>dem</w>
+  </absaspan>
+  <absaspan id=17 senti=1>
+    <w>rasisitska</w>
+    <w>trollen</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>på</w>
+    <w>forumet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Hänvisa</w>
+  <w>dem</w>
+  <w>till</w>
+  <w>rätt</w>
+  <w>forum</w>
+  <w>.</w>
+</absapar>
+</absadoc>

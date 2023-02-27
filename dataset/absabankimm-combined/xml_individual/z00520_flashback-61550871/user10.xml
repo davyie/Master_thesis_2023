@@ -1,0 +1,94 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Varför</w>
+  <w>tror</w>
+  <w>inte</w>
+  <w>folk</w>
+  <w>att</w>
+  <w>våldet</w>
+  <w>minskat</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Ungefär</w>
+  <w>såhär</w>
+  <w>låter</w>
+  <w>det</w>
+  <w>på</w>
+  <w>Flashback</w>
+  <w>.</w>
+  <w>Ett</w>
+  <w>antal</w>
+  <w>påståenden</w>
+  <w>och</w>
+  <w>responsen</w>
+  <w>man</w>
+  <w>brukar</w>
+  <w>få</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Varför</w>
+  <w>är</w>
+  <w>det</w>
+  <w>på</w>
+  <w>det</w>
+  <w>här</w>
+  <w>viset</w>
+  <w>?</w>
+  <w>Varför</w>
+  <w>kan</w>
+  <absaspan id=1>
+    <w>folk</w>
+  </absaspan>
+  <w>köpa</w>
+  <w>att</w>
+  <w>nästan</w>
+  <absaspan id=2>
+    <w>alla</w>
+    <w>jordens</w>
+    <w>länder</w>
+  </absaspan>
+  <absaspan id=3 senti=4>
+    <w>blivit</w>
+    <w>fredligare</w>
+  </absaspan>
+  <w>förutom</w>
+  <w>just</w>
+  <w>Sverige</w>
+  <w>?</w>
+  <absaspan id=4 senti=3>
+    <w>Säger</w>
+    <w>det</w>
+    <w>inte</w>
+    <w>sig</w>
+    <w>själv</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>det</w>
+    <w>är</w>
+    <w>mycket</w>
+    <w>sannolikare</w>
+    <w>att</w>
+    <w>den</w>
+    <w>globala</w>
+    <w>våldsminskande</w>
+    <w>trenden</w>
+    <w>även</w>
+    <w>påverkar</w>
+    <w>Sverige</w>
+    <w>än</w>
+    <w>att</w>
+    <w>den</w>
+    <w>inte</w>
+    <w>gör</w>
+    <w>det</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

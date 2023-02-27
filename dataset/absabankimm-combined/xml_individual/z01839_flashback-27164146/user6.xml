@@ -1,0 +1,221 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Ni</w>
+  <w>som</w>
+  <w>är</w>
+  <w>för</w>
+  <w>gratis</w>
+  <w>sjukvård</w>
+  <w>till</w>
+  <w>gömda</w>
+  <w>flyktingar</w>
+  <w>och</w>
+  <absaspan id=1 senti=2>
+    <w>illegala</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>invandrare</w>
+  </absaspan>
+  <w>!</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Jag</w>
+  <w>skulle</w>
+  <w>vilja</w>
+  <w>veta</w>
+  <w>hur</w>
+  <w>ni</w>
+  <w>som</w>
+  <w>stödjer</w>
+  <w>gratis</w>
+  <w>sjukvård</w>
+  <w>till</w>
+  <w>gömda</w>
+  <w>flyktingar</w>
+  <w>och</w>
+  <absaspan id=3 senti=2>
+    <w>illegala</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>invandrare</w>
+  </absaspan>
+  <w>resonerar</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Mina</w>
+  <w>argument</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=5>
+    <w>Svenska</w>
+    <w>vården</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>är</w>
+    <w>överbelastad</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=7>
+    <w>väntetiderna</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>är</w>
+    <w>långa</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>har</w>
+  <w>hänt</w>
+  <w>att</w>
+  <w>folk</w>
+  <w>har</w>
+  <w>dött</w>
+  <w>eftersom</w>
+  <w>de</w>
+  <w>inte</w>
+  <w>kunnat</w>
+  <w>få</w>
+  <w>vård</w>
+  <w>tillräckligt</w>
+  <w>snabbt</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>2</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=2>
+  <absaspan id=9>
+    <w>Illegala</w>
+    <w>/</w>
+    <w>gömda</w>
+  </absaspan>
+  <w>betalar</w>
+  <w>ingen</w>
+  <w>skatt</w>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=10 senti=2>
+    <w>kommer</w>
+    <w>aldrig</w>
+    <w>bidra</w>
+  </absaspan>
+  <w>till</w>
+  <w>svenska</w>
+  <w>ekonomin</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=11>
+    <w>Svenska</w>
+    <w>medborgare</w>
+  </absaspan>
+  <w>betalar</w>
+  <w>däremot</w>
+  <w>skatt</w>
+  <w>,</w>
+  <w>dvs</w>
+  <absaspan id=12 senti=4>
+    <w>bär</w>
+    <w>upp</w>
+  </absaspan>
+  <w>sjukvården</w>
+  <w>,</w>
+  <w>och</w>
+  <w>borde</w>
+  <w>ha</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>inte</w>
+  <w>behöva</w>
+  <w>konkurrera</w>
+  <w>med</w>
+  <w>människor</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>gör</w>
+  <w>det</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>3</w>
+  <w>.</w>
+</absapar>
+<absapar id=9 senti=2>
+  <w>Antalet</w>
+  <w>illegala</w>
+  <w>/</w>
+  <w>gömda</w>
+  <w>ökar</w>
+  <w>hela</w>
+  <w>tiden</w>
+  <w>,</w>
+  <w>och</w>
+  <w>händelser</w>
+  <w>i</w>
+  <w>omvärlden</w>
+  <w>kommer</w>
+  <w>bara</w>
+  <w>skynda</w>
+  <w>på</w>
+  <w>denna</w>
+  <w>utveckling</w>
+  <w>.</w>
+  <w>Alltså</w>
+  <w>ännu</w>
+  <w>fler</w>
+  <w>människor</w>
+  <w>att</w>
+  <w>ge</w>
+  <w>vård</w>
+  <w>,</w>
+  <w>till</w>
+  <w>bekostnad</w>
+  <w>för</w>
+  <w>svenska</w>
+  <w>vårdtagare</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Nu</w>
+  <w>vill</w>
+  <w>jag</w>
+  <w>veta</w>
+  <w>,</w>
+  <w>hur</w>
+  <w>ställer</w>
+  <w>ni</w>
+  <w>er</w>
+  <w>till</w>
+  <w>dessa</w>
+  <w>argument</w>
+  <w>?</w>
+  <w>Jag</w>
+  <w>hoppas</w>
+  <w>på</w>
+  <w>en</w>
+  <w>givande</w>
+  <w>diskussion</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,82 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Expressen</w>
+  <w>ger</w>
+  <w>M</w>
+  <w>rätt</w>
+  <w>i</w>
+  <w>SDs</w>
+  <w>frågor</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>I</w>
+  <w>artikeln</w>
+  <w>nämns</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Sammanfattningsvis</w>
+  <w>håller</w>
+  <w>Expressen</w>
+  <w>nu</w>
+  <w>plötsligt</w>
+  <w>MED</w>
+  <w>SD</w>
+  <w>i</w>
+  <w>samtliga</w>
+  <w>frågor</w>
+  <w>som</w>
+  <w>var</w>
+  <w>aktuella</w>
+  <w>förra</w>
+  <w>valet</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Är</w>
+  <w>det</w>
+  <w>återigen</w>
+  <w>ett</w>
+  <w>fall</w>
+  <w>av</w>
+  <w>"</w>
+  <w>Det</w>
+  <w>spelar</w>
+  <w>ingen</w>
+  <w>roll</w>
+  <w>vad</w>
+  <w>man</w>
+  <w>säger</w>
+  <w>,</w>
+  <w>det</w>
+  <w>viktiga</w>
+  <w>är</w>
+  <w>vem</w>
+  <w>som</w>
+  <w>säger</w>
+  <w>det</w>
+  <w>"</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Börjar</w>
+  <w>känna</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>hela</w>
+    <w>landet</w>
+  </absaspan>
+  <w>mer</w>
+  <w>eller</w>
+  <w>mindre</w>
+  <w>består</w>
+  <w>av</w>
+  <absaspan id=2 senti=1>
+    <w>idioter</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

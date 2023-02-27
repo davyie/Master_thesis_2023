@@ -1,0 +1,231 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Ni</w>
+  <w>under</w>
+  <w>30</w>
+  <w>år</w>
+  <w>,</w>
+  <w>kunde</w>
+  <w>ni</w>
+  <w>se</w>
+  <w>detta</w>
+  <w>komma</w>
+  <absaspan id=1 senti=2>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Jag</w>
+  <w>är</w>
+  <w>född</w>
+  <w>1993</w>
+  <w>och</w>
+  <w>jag</w>
+  <w>bodde</w>
+  <w>i</w>
+  <w>invandrartäta</w>
+  <w>områden</w>
+  <w>under</w>
+  <w>uppväxten</w>
+  <w>och</w>
+  <w>kan</w>
+  <w>säga</w>
+  <w>så</w>
+  <w>här</w>
+  <w>att</w>
+  <w>jag</w>
+  <absaspan id=2 senti=2>
+    <w>inte</w>
+    <w>är</w>
+    <w>ett</w>
+    <w>dugg</w>
+    <w>förvånad</w>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>den</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>negativa</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>utvecklingen</w>
+    <w>som</w>
+    <w>vi</w>
+    <w>fått</w>
+    <w>i</w>
+    <w>Sverige</w>
+    <w>när</w>
+    <w>det</w>
+    <w>gäller</w>
+    <w>invandringen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Kunde</w>
+  <w>aldrig</w>
+  <w>se</w>
+  <w>hur</w>
+  <absaspan id=6 senti=2>
+    <w>kaozblattarna</w>
+  </absaspan>
+  <w>under</w>
+  <w>min</w>
+  <w>uppväxt</w>
+  <w>för</w>
+  <w>10</w>
+  <w>-</w>
+  <w>15</w>
+  <w>år</w>
+  <w>sedan</w>
+  <w>skulle</w>
+  <w>bli</w>
+  <w>produktiva</w>
+  <w>medlemmar</w>
+  <w>av</w>
+  <w>vårt</w>
+  <w>samhälle</w>
+  <absaspan id=7 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Redan</w>
+  <w>då</w>
+  <w>såg</w>
+  <w>jag</w>
+  <w>hur</w>
+  <absaspan id=8>
+    <w>invandrare</w>
+  </absaspan>
+  <w>blev</w>
+  <w>kriminella</w>
+  <w>i</w>
+  <w>tidig</w>
+  <w>ålder</w>
+  <w>och</w>
+  <absaspan id=9 senti=2>
+    <w>allmänt</w>
+    <w>var</w>
+    <w>stökiga</w>
+  </absaspan>
+  <w>i</w>
+  <w>skolan</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Tillskillnad</w>
+  <w>från</w>
+  <w>äldre</w>
+  <w>så</w>
+  <w>har</w>
+  <w>vi</w>
+  <w>alltid</w>
+  <w>upplevt</w>
+  <absaspan id=10 senti=2>
+    <w>kaosblattar</w>
+  </absaspan>
+  <w>i</w>
+  <w>skolan</w>
+  <w>och</w>
+  <w>aldrig</w>
+  <w>riktigt</w>
+  <w>sett</w>
+  <w>det</w>
+  <w>där</w>
+  <absaspan id=11 senti=4>
+    <w>trygga</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>Sverige</w>
+    <w>som</w>
+    <w>äldre</w>
+    <w>snackar</w>
+    <w>om</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Vi</w>
+  <w>är</w>
+  <w>uppväxta</w>
+  <w>under</w>
+  <w>hela</w>
+  <w>förändringen</w>
+  <w>av</w>
+  <w>Sveriges</w>
+  <w>samhälle</w>
+  <w>,</w>
+  <w>vi</w>
+  <w>fick</w>
+  <w>se</w>
+  <w>lite</w>
+  <w>granna</w>
+  <w>av</w>
+  <w>det</w>
+  <w>homogena</w>
+  <w>samhället</w>
+  <w>när</w>
+  <w>vi</w>
+  <w>var</w>
+  <w>jätteunga</w>
+  <w>och</w>
+  <w>nu</w>
+  <w>när</w>
+  <w>vi</w>
+  <w>är</w>
+  <w>i</w>
+  <w>vuxen</w>
+  <w>ålder</w>
+  <absaspan id=13>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>Sverige</w>
+    <w>blivit</w>
+    <w>mycket</w>
+    <w>mer</w>
+    <w>multikulturellt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=2>
+  <w>Ni</w>
+  <w>som</w>
+  <w>är</w>
+  <w>födda</w>
+  <w>efter</w>
+  <w>1985</w>
+  <w>och</w>
+  <w>gick</w>
+  <w>i</w>
+  <w>skolan</w>
+  <w>på</w>
+  <w>90</w>
+  <w>till</w>
+  <w>00</w>
+  <w>-</w>
+  <w>talet</w>
+  <w>,</w>
+  <w>kunde</w>
+  <w>ni</w>
+  <w>se</w>
+  <absaspan id=15>
+    <w>detta</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>framtida</w>
+    <w>kaos</w>
+  </absaspan>
+  <w>komma</w>
+  <w>?</w>
+  <w>Är</w>
+  <w>ni</w>
+  <w>förvånade</w>
+  <w>över</w>
+  <w>utvecklingen</w>
+  <w>?</w>
+  <absaspan id=17 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

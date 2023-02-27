@@ -1,0 +1,122 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=1 target=2>
+    <w>Jävligt</w>
+    <w>skumma</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>namn</w>
+    <w>på</w>
+    <w>barn</w>
+    <w>nu</w>
+    <w>för</w>
+    <w>tiden</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Föräldrar</w>
+  <w>verkar</w>
+  <w>döpa</w>
+  <w>sina</w>
+  <w>barn</w>
+  <w>till</w>
+  <absaspan id=3 senti=1>
+    <w>de</w>
+    <w>mest</w>
+    <w>skumma</w>
+    <w>namnen</w>
+  </absaspan>
+  <w>,</w>
+  <w>typ</w>
+  <w>"</w>
+  <absaspan id=4>
+    <w>Aminoa</w>
+  </absaspan>
+  <w>"</w>
+  <w>etc</w>
+  <w>etc</w>
+  <w>,</w>
+  <w>namn</w>
+  <w>som</w>
+  <w>man</w>
+  <w>i</w>
+  <w>stort</w>
+  <w>sett</w>
+  <w>aldrig</w>
+  <w>hört</w>
+  <w>förut</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>hände</w>
+  <w>med</w>
+  <w>Lina</w>
+  <w>,</w>
+  <w>Johanna</w>
+  <w>,</w>
+  <w>Sara</w>
+  <w>,</w>
+  <w>Peter</w>
+  <w>,</w>
+  <w>Johan</w>
+  <w>,</w>
+  <w>Robert</w>
+  <w>,</w>
+  <w>Kalle</w>
+  <w>och</w>
+  <w>Emma</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>verkar</w>
+  <w>som</w>
+  <w>att</w>
+  <w>varenda</w>
+  <w>förälder</w>
+  <w>ska</w>
+  <w>göra</w>
+  <w>sitt</w>
+  <w>barn</w>
+  <w>"</w>
+  <w>speciellt</w>
+  <w>"</w>
+  <w>å</w>
+  <w>ge</w>
+  <w>det</w>
+  <w>ett</w>
+  <w>"</w>
+  <w>speciellt</w>
+  <w>namn</w>
+  <w>"</w>
+  <w>så</w>
+  <w>de</w>
+  <w>står</w>
+  <w>ut</w>
+  <w>från</w>
+  <w>mängden</w>
+  <w>eller</w>
+  <w>något</w>
+  <w>,</w>
+  <w>så</w>
+  <w>man</w>
+  <w>plockar</w>
+  <w>nåt</w>
+  <absaspan id=5 senti=2>
+    <w>halvskumt</w>
+  </absaspan>
+  <w>namn</w>
+  <w>som</w>
+  <w>nästan</w>
+  <w>kan</w>
+  <w>missuppfattas</w>
+  <w>som</w>
+  <w>en</w>
+  <w>professionell</w>
+  <w>dansare</w>
+  <w>.</w>
+</absapar>
+</absadoc>

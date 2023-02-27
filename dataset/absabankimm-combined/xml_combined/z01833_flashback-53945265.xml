@@ -1,0 +1,106 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Debatt</w>
+  <w>mellan</w>
+  <w>Aschberg</w>
+  <w>vs</w>
+  <w>Åkesson</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>En</w>
+  <w>debatt</w>
+  <w>mellan</w>
+  <w>Robert</w>
+  <w>Aschberg</w>
+  <w>och</w>
+  <w>Jimmie</w>
+  <w>Åkesson</w>
+  <w>och</w>
+  <w>Linus</w>
+  <w>Bylund</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Ganska</w>
+  <w>traditionell</w>
+  <w>debatt</w>
+  <w>om</w>
+  <w>massinvandring</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>tycker</w>
+  <w>Robert</w>
+  <w>tar</w>
+  <w>upp</w>
+  <w>en</w>
+  <w>intressant</w>
+  <w>aspekt</w>
+  <w>där</w>
+  <w>Åkesson</w>
+  <w>inte</w>
+  <w>riktigt</w>
+  <w>klarar</w>
+  <w>av</w>
+  <w>att</w>
+  <w>svara</w>
+  <w>på</w>
+  <w>.</w>
+  <w>Varför</w>
+  <w>kallar</w>
+  <w>SD</w>
+  <w>några</w>
+  <w>promilles</w>
+  <w>invandring</w>
+  <w>för</w>
+  <w>massinvandring</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=1>
+    <w>Att</w>
+    <w>Åkesson</w>
+    <w>säger</w>
+    <w>att</w>
+    <w>han</w>
+    <w>väger</w>
+    <w>orden</w>
+    <w>på</w>
+    <w>sin</w>
+    <w>egen</w>
+    <w>guldskål</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>blir</w>
+    <w>lite</w>
+    <w>komiskt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Som</w>
+  <w>om</w>
+  <w>jag</w>
+  <w>skulle</w>
+  <w>börja</w>
+  <w>definiera</w>
+  <w>om</w>
+  <w>ord</w>
+  <w>för</w>
+  <w>att</w>
+  <w>det</w>
+  <w>ska</w>
+  <w>passa</w>
+  <w>mig</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Aschberg</w>
+  <w>vann</w>
+  <w>helt</w>
+  <w>klart</w>
+  <w>den</w>
+  <w>här</w>
+  <w>debatten</w>
+  <w>.</w>
+</absapar>
+</absadoc>

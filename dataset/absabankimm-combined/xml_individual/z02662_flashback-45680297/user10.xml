@@ -1,0 +1,43 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Så</w>
+  <w>här</w>
+  <w>är</w>
+  <w>det</w>
+  <w>i</w>
+  <w>Rinkeby</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>Såg</w>
+  <w>en</w>
+  <w>tråd</w>
+  <w>om</w>
+  <w>Tensta</w>
+  <w>varför</w>
+  <w>inte</w>
+  <w>en</w>
+  <w>om</w>
+  <w>"</w>
+  <absaspan id=1 senti=1>
+    <w>Mördarby</w>
+  </absaspan>
+  <w>"</w>
+  <w>också</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Hur</w>
+  <w>står</w>
+  <w>det</w>
+  <w>till</w>
+  <w>egentligen</w>
+  <w>i</w>
+  <absaspan id=2 senti=1>
+    <w>Gansterghettona</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

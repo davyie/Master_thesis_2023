@@ -1,0 +1,85 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Regeringen</w>
+  <w>inför</w>
+  <w>gränskontroller</w>
+  <w>fr</w>
+  <w>o</w>
+  <w>m</w>
+  <w>12</w>
+  <w>/</w>
+  <w>11kl</w>
+  <w>12</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Enligt</w>
+  <w>flera</w>
+  <w>uppgifter</w>
+  <w>på</w>
+  <w>Twitter</w>
+  <w>inför</w>
+  <w>regeringen</w>
+  <w>gränskontroller</w>
+  <w>på</w>
+  <w>torsdag</w>
+  <w>.</w>
+  <w>Man</w>
+  <w>har</w>
+  <w>kallat</w>
+  <w>till</w>
+  <w>presskonferens</w>
+  <w>nu</w>
+  <w>kl</w>
+  <w>.</w>
+  <w>20</w>
+  <w>:</w>
+  <w>00</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>innebär</w>
+  <w>detta</w>
+  <w>?</w>
+  <w>Kommer</w>
+  <w>det</w>
+  <w>stoppa</w>
+  <absaspan id=1 senti=2>
+    <w>massinvandringen</w>
+  </absaspan>
+  <w>eller</w>
+  <absaspan id=2 senti=2>
+    <w>blir</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>slag</w>
+    <w>i</w>
+    <w>luften</w>
+  </absaspan>
+  <w>?</w>
+  <w>Kommer</w>
+  <w>det</w>
+  <w>vara</w>
+  <w>högst</w>
+  <w>tillfälligt</w>
+  <w>eller</w>
+  <w>kommer</w>
+  <w>de</w>
+  <w>bli</w>
+  <w>permanenta</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Diskutera</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

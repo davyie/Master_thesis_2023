@@ -1,0 +1,284 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Varför</w>
+  <w>denna</w>
+  <absaspan id=1 senti=2 target=2>
+    <w>ökande</w>
+    <w>russofobi</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Saxat</w>
+  <w>ur</w>
+  <w>en</w>
+  <w>artikel</w>
+  <w>av</w>
+  <absaspan id=3>
+    <w>Sven</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>Hirdman</w>
+    <w>,</w>
+    <w>tidigare</w>
+    <w>diplomat</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=5>
+    <w>en</w>
+    <w>av</w>
+    <w>få</w>
+    <w>med</w>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>nyanserad</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>bild</w>
+    <w>av</w>
+    <w>Ryssland</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=8>
+    <w>Ryssland</w>
+    <w>är</w>
+    <w>en</w>
+    <w>av</w>
+    <w>Sveriges</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>viktigaste</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>handelspartners</w>
+  </absaspan>
+  <w>.</w>
+  <w>Närmare</w>
+  <w>400</w>
+  <w>svenska</w>
+  <w>företag</w>
+  <w>är</w>
+  <w>verksamma</w>
+  <w>på</w>
+  <w>den</w>
+  <w>ryska</w>
+  <w>marknaden</w>
+  <w>och</w>
+  <w>Business</w>
+  <w>Sweden</w>
+  <w>har</w>
+  <w>kontor</w>
+  <w>i</w>
+  <w>både</w>
+  <w>Moskva</w>
+  <w>och</w>
+  <w>S</w>
+  <w>:</w>
+  <w>t</w>
+  <w>Petersburg</w>
+  <w>.</w>
+  <w>Sverige</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>av</w>
+  <w>de</w>
+  <w>fem</w>
+  <w>största</w>
+  <w>investerarländerna</w>
+  <w>i</w>
+  <w>Ryssland</w>
+  <w>och</w>
+  <absaspan id=11 senti=5>
+    <w>tillväxtpotentialen</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=12>
+    <w>svenskt</w>
+    <w>näringsliv</w>
+    <w>i</w>
+    <w>Ryssland</w>
+  </absaspan>
+  <absaspan id=13 senti=5>
+    <w>är</w>
+    <w>enorm</w>
+  </absaspan>
+  <w>.</w>
+  <w>Idag</w>
+  <w>är</w>
+  <w>exempelvis</w>
+  <w>ryska</w>
+  <w>turister</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>i</w>
+  <w>topp</w>
+  <w>när</w>
+  <w>det</w>
+  <w>gäller</w>
+  <w>antal</w>
+  <w>hotellnätter</w>
+  <w>och</w>
+  <w>konsumtion</w>
+  <w>i</w>
+  <w>vårt</w>
+  <w>land</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Att</w>
+  <absaspan id=14>
+    <w>Ryssland</w>
+  </absaspan>
+  <absaspan id=15 senti=1>
+    <w>oprovocerat</w>
+    <w>skulle</w>
+    <w>angripa</w>
+  </absaspan>
+  <w>Sverige</w>
+  <w>:</w>
+  <w>eller</w>
+  <w>Finland</w>
+  <w>:</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>isolerat</w>
+  <w>förstahandsslag</w>
+  <w>framstår</w>
+  <w>som</w>
+  <w>helt</w>
+  <w>osannolikt</w>
+  <w>och</w>
+  <w>verklighetsfrämmande</w>
+  <absaspan id=16>
+    <w>.</w>
+  </absaspan>
+  <w>Ryssland</w>
+  <w>har</w>
+  <w>inget</w>
+  <w>strategiskt</w>
+  <w>behov</w>
+  <w>av</w>
+  <w>deras</w>
+  <w>territorier</w>
+  <w>med</w>
+  <absaspan id=17>
+    <w>en</w>
+    <w>befolkning</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=18 senti=2>
+    <w>är</w>
+    <w>avogt</w>
+    <w>inställd</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>Ryssland</w>
+  </absaspan>
+  <w>;</w>
+  <w>dels</w>
+  <w>åtnjuter</w>
+  <w>de</w>
+  <w>baltiska</w>
+  <w>staterna</w>
+  <w>militärt</w>
+  <w>skydd</w>
+  <w>av</w>
+  <w>USA</w>
+  <w>och</w>
+  <w>Nato</w>
+  <w>samt</w>
+  <w>politiskt</w>
+  <w>skydd</w>
+  <w>av</w>
+  <w>EU</w>
+  <w>.</w>
+  <w>Att</w>
+  <absaspan id=20>
+    <w>Ryssland</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>skulle</w>
+    <w>ta</w>
+    <w>risken</w>
+    <w>av</w>
+    <w>ett</w>
+    <w>krig</w>
+  </absaspan>
+  <w>med</w>
+  <w>Nato</w>
+  <w>för</w>
+  <w>Baltikum</w>
+  <w>med</w>
+  <w>de</w>
+  <w>följder</w>
+  <w>det</w>
+  <w>skulle</w>
+  <w>få</w>
+  <w>för</w>
+  <w>den</w>
+  <w>ryska</w>
+  <w>staten</w>
+  <w>och</w>
+  <w>för</w>
+  <w>det</w>
+  <w>ryska</w>
+  <w>samhället</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>sannolikt</w>
+  <absaspan id=22>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>I</w>
+  <w>dagens</w>
+  <w>läge</w>
+  <absaspan id=23 senti=4>
+    <w>bör</w>
+  </absaspan>
+  <w>Sveriges</w>
+  <absaspan id=24 senti=4>
+    <w>prioritet</w>
+    <w>vara</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>att</w>
+    <w>genom</w>
+    <w>diplomatiska</w>
+    <w>och</w>
+    <w>politiska</w>
+    <w>medel</w>
+    <w>medverka</w>
+    <w>till</w>
+    <w>att</w>
+    <w>mildra</w>
+    <w>de</w>
+    <w>säkerhetspolitiska</w>
+    <w>motsättningarna</w>
+    <w>mellan</w>
+    <w>Nato</w>
+    <w>och</w>
+    <w>Ryssland</w>
+    <w>och</w>
+    <w>på</w>
+    <w>så</w>
+    <w>sätt</w>
+    <w>verka</w>
+    <w>för</w>
+    <w>avspänning</w>
+    <w>i</w>
+    <w>Europa</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

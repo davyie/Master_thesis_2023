@@ -1,0 +1,103 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Ungdomens</w>
+  <w>riksdag</w>
+  <w>-</w>
+  <w>Invandringspolitik</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Tjena</w>
+  <w>grabbar</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Vi</w>
+  <w>har</w>
+  <w>skickat</w>
+  <w>in</w>
+  <w>en</w>
+  <w>motion</w>
+  <w>till</w>
+  <w>ungdomens</w>
+  <w>riksdag</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>vill</w>
+  <w>höra</w>
+  <w>era</w>
+  <w>åsikter</w>
+  <w>inom</w>
+  <w>detta</w>
+  <w>,</w>
+  <w>vår</w>
+  <w>motion</w>
+  <w>handlar</w>
+  <w>om</w>
+  <absaspan id=1>
+    <w>invandringspolitik</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>och</w>
+  <w>hur</w>
+  <w>man</w>
+  <w>ska</w>
+  <w>tackla</w>
+  <absaspan id=2 senti=2>
+    <w>detta</w>
+    <w>problem</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Här</w>
+  <w>är</w>
+  <w>vår</w>
+  <w>motion</w>
+  <w>,</w>
+  <w>vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>den</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Ni</w>
+  <w>kan</w>
+  <w>även</w>
+  <w>läsa</w>
+  <w>de</w>
+  <w>andras</w>
+  <w>motioner</w>
+  <w>här</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=3>
+    <w>En</w>
+    <w>del</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>är</w>
+    <w>lite</w>
+    <w>väl</w>
+    <w>sjuka</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>till</w>
+  <w>exempel</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Tack</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

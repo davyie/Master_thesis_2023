@@ -1,0 +1,382 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Er</w>
+    <w>linje</w>
+  </absaspan>
+  <w>–</w>
+  <w>ett</w>
+  <absaspan id=2 senti=2 target=1>
+    <w>hårt</w>
+    <w>slag</w>
+    <w>mot</w>
+    <w>vår</w>
+    <w>demokrati</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>SLUTREPLIK</w>
+  <w>.</w>
+  <w>På</w>
+  <w>Debatt</w>
+  <w>den</w>
+  <w>8</w>
+  <w>/</w>
+  <w>1</w>
+  <w>skriver</w>
+  <w>Christian</w>
+  <w>Carlsson</w>
+  <w>,</w>
+  <w>förbundsordförande</w>
+  <w>för</w>
+  <w>Kristdemokratiska</w>
+  <w>Ungdomsförbundet</w>
+  <w>(</w>
+  <w>KDU</w>
+  <w>)</w>
+  <w>en</w>
+  <w>replik</w>
+  <w>på</w>
+  <w>min</w>
+  <w>debattartikel</w>
+  <w>om</w>
+  <w>att</w>
+  <w>införa</w>
+  <w>republik</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Där</w>
+  <w>påstår</w>
+  <absaspan id=3>
+    <w>han</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=4 senti=2>
+    <w>jag</w>
+    <w>felaktigt</w>
+    <w>skriver</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=5>
+    <w>Sverige</w>
+    <w>inte</w>
+    <w>är</w>
+    <w>en</w>
+    <w>demokrati</w>
+  </absaspan>
+  <w>.</w>
+  <w>Sverige</w>
+  <w>är</w>
+  <w>en</w>
+  <w>konstitutionell</w>
+  <w>monarki</w>
+  <w>,</w>
+  <w>vilket</w>
+  <w>är</w>
+  <w>detsamma</w>
+  <w>som</w>
+  <w>att</w>
+  <w>säga</w>
+  <w>villkorad</w>
+  <w>monarki</w>
+  <w>.</w>
+  <w>I</w>
+  <w>vårt</w>
+  <w>land</w>
+  <w>är</w>
+  <w>statschefen</w>
+  <w>en</w>
+  <w>position</w>
+  <w>som</w>
+  <w>endast</w>
+  <w>kan</w>
+  <w>innehas</w>
+  <w>av</w>
+  <w>en</w>
+  <w>person</w>
+  <w>,</w>
+  <w>i</w>
+  <w>en</w>
+  <w>familj</w>
+  <w>,</w>
+  <w>genom</w>
+  <w>arvsband</w>
+  <w>–</w>
+  <w>nämligen</w>
+  <w>Bernadotte-familjen</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Vi</w>
+  <w>må</w>
+  <w>vara</w>
+  <w>demokratiska</w>
+  <w>i</w>
+  <w>hur</w>
+  <w>vi</w>
+  <w>styr</w>
+  <w>landet</w>
+  <w>,</w>
+  <w>men</w>
+  <w>en</w>
+  <absaspan id=6>
+    <w>fullbordad</w>
+    <w>demokrati</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>är</w>
+    <w>vi</w>
+    <w>inte</w>
+  </absaspan>
+  <w>.</w>
+  <w>Så</w>
+  <w>vitt</w>
+  <w>jag</w>
+  <w>kan</w>
+  <w>minnas</w>
+  <w>har</w>
+  <w>jag</w>
+  <w>aldrig</w>
+  <w>sett</w>
+  <w>en</w>
+  <w>statschefsvalsedel</w>
+  <w>på</w>
+  <w>valdagen</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Därutöver</w>
+  <absaspan id=8 senti=2>
+    <w>missar</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>Christian</w>
+    <w>Carlsson</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=10 senti=2>
+    <w>besvara</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>vårt</w>
+    <w>huvudargument</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=12>
+    <w>Vi</w>
+  </absaspan>
+  <w>menar</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=13 senti=4>
+    <w>är</w>
+    <w>högst</w>
+    <w>naturligt</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>för</w>
+    <w>medborgare</w>
+    <w>att</w>
+    <w>anse</w>
+    <w>Kronprinsessan</w>
+    <w>Victoria</w>
+    <w>vara</w>
+    <w>en</w>
+    <w>lämplig</w>
+    <w>kandidat</w>
+    <w>till</w>
+    <w>statschef</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=15>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=16 senti=4>
+    <w>menar</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=17>
+    <w>hon</w>
+    <w>då</w>
+    <w>bör</w>
+    <w>förtjäna</w>
+    <w>våra</w>
+    <w>röster</w>
+    <w>först</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=18>
+    <w>KDU</w>
+  </absaspan>
+  <w>har</w>
+  <w>tidigare</w>
+  <w>yttrat</w>
+  <w>sig</w>
+  <w>om</w>
+  <w>monarkin</w>
+  <w>och</w>
+  <absaspan id=19 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>åter</w>
+    <w>ge</w>
+    <w>kungahuset</w>
+    <w>de</w>
+    <w>befogenheter</w>
+    <w>de</w>
+    <w>hade</w>
+    <w>innan</w>
+    <w>Torekovskompromissen</w>
+    <w>1974</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=21 senti=1>
+    <w>vore</w>
+    <w>ett</w>
+    <w>katastrofalt</w>
+    <w>slag</w>
+  </absaspan>
+  <w>mot</w>
+  <w>våra</w>
+  <w>demokratiska</w>
+  <w>fri</w>
+  <w>-</w>
+  <w>och</w>
+  <w>rättigheter</w>
+  <w>att</w>
+  <absaspan id=22>
+    <w>ge</w>
+    <w>en</w>
+    <w>icke-vald</w>
+    <w>monark</w>
+    <w>rätten</w>
+    <w>att</w>
+    <w>avgöra</w>
+    <w>vilka</w>
+    <w>som</w>
+    <w>bör</w>
+    <w>sitta</w>
+    <w>i</w>
+    <w>vår</w>
+    <w>regering</w>
+    <w>,</w>
+    <w>stifta</w>
+    <w>egna</w>
+    <w>lagar</w>
+    <w>,</w>
+    <w>och</w>
+    <w>lägga</w>
+    <w>veto</w>
+    <w>på</w>
+    <w>de</w>
+    <w>förslag</w>
+    <w>våra</w>
+    <w>valda</w>
+    <w>riksdagsledamöter</w>
+    <w>lägger</w>
+    <w>i</w>
+    <w>riksdagen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=23>
+    <w>KDU</w>
+    <w>:</w>
+    <w>s</w>
+    <w>syn</w>
+  </absaspan>
+  <absaspan id=24 senti=2>
+    <w>oroar</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>mig</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=26>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=27 senti=4>
+    <w>är</w>
+    <w>glad</w>
+    <w>över</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=28>
+    <w>den</w>
+    <w>republikanska</w>
+    <w>opinionen</w>
+    <w>ökar</w>
+    <w>stadigt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Jag</w>
+  <w>upprepar</w>
+  <w>min</w>
+  <w>ursprungliga</w>
+  <w>poäng</w>
+  <w>;</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=29 senti=4>
+    <w>Vill</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>du</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>se</w>
+    <w>kronprinsessan</w>
+    <w>Victoria</w>
+    <w>bli</w>
+    <w>statschef</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=32 senti=4>
+    <w>Bra</w>
+  </absaspan>
+  <w>!</w>
+  <w>Lägg</w>
+  <w>då</w>
+  <w>en</w>
+  <w>röst</w>
+  <w>på</w>
+  <w>henne</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Aza</w>
+  <w>Cheragwandi</w>
+  <w>,</w>
+  <w>förbundsordförande</w>
+  <w>,</w>
+  <w>Unga</w>
+  <w>Republikaner</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Häng</w>
+  <w>med</w>
+  <w>i</w>
+  <w>debatten</w>
+  <w>–</w>
+  <w>följ</w>
+  <w>Debatt</w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>.</w>
+</absapar>
+</absadoc>

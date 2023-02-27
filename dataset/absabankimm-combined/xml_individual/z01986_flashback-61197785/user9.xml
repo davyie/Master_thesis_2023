@@ -1,0 +1,68 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1.000</w>
+  <w>asylsökare</w>
+  <w>flygs</w>
+  <w>direkt</w>
+  <w>till</w>
+  <w>Dalarna</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Dette</w>
+  <w>er</w>
+  <w>et</w>
+  <w>ærlig</w>
+  <w>spørsmål</w>
+  <w>,</w>
+  <absaspan id=1 senti=2>
+    <w>er</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>majoriteten</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>dum</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=4 senti=2>
+    <w>Hvorfor</w>
+    <w>i</w>
+    <w>helvete</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>stemmer</w>
+    <w>dere</w>
+    <w>på</w>
+    <w>partier</w>
+    <w>som</w>
+    <w>gruser</w>
+    <w>Sverige</w>
+    <w>tilbake</w>
+    <w>til</w>
+    <w>steinalderen</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=6 senti=2>
+    <w>Hva</w>
+    <w>i</w>
+    <w>helvete</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>skjer</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>,</w>
+  <w>ærlig</w>
+  <w>talt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,740 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Svenska</w>
+    <w>banker</w>
+  </absaspan>
+  <absaspan id=2 senti=4 source=1 target=3>
+    <w>göder</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>kriminella</w>
+    <w>nätverk</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <w>kriminella</w>
+  <w>våldet</w>
+  <w>eskalerar</w>
+  <w>och</w>
+  <w>skjutningar</w>
+  <w>har</w>
+  <w>numera</w>
+  <w>blivit</w>
+  <w>vardagshändelser</w>
+  <w>i</w>
+  <w>landet</w>
+  <w>.</w>
+  <w>En</w>
+  <w>del</w>
+  <w>av</w>
+  <w>dem</w>
+  <w>är</w>
+  <w>interna</w>
+  <w>uppgörelser</w>
+  <w>,</w>
+  <w>men</w>
+  <w>andra</w>
+  <w>kan</w>
+  <w>tillskrivas</w>
+  <w>globala</w>
+  <w>kriminella</w>
+  <w>nätverk</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>handlar</w>
+  <w>då</w>
+  <w>om</w>
+  <absaspan id=4 senti=2>
+    <w>mycket</w>
+    <w>grov</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>brottslighet</w>
+  </absaspan>
+  <w>där</w>
+  <w>droghandel</w>
+  <w>,</w>
+  <w>mord</w>
+  <w>och</w>
+  <w>kidnappningar</w>
+  <w>hör</w>
+  <w>till</w>
+  <w>vardagen</w>
+  <w>och</w>
+  <w>är</w>
+  <w>själva</w>
+  <w>affärsidén</w>
+  <w>.</w>
+  <w>En</w>
+  <w>stor</w>
+  <w>del</w>
+  <w>av</w>
+  <w>de</w>
+  <w>kriminella</w>
+  <w>ligornas</w>
+  <w>verksamheter</w>
+  <w>finansieras</w>
+  <w>av</w>
+  <w>bankbedrägerier</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Varje</w>
+  <w>år</w>
+  <w>går</w>
+  <w>miljontals</w>
+  <w>kronor</w>
+  <w>rakt</w>
+  <w>ner</w>
+  <w>i</w>
+  <w>fickorna</w>
+  <w>på</w>
+  <w>kriminella</w>
+  <w>både</w>
+  <w>inom</w>
+  <w>och</w>
+  <w>utanför</w>
+  <w>våra</w>
+  <w>gränser</w>
+  <w>,</w>
+  <w>och</w>
+  <w>det</w>
+  <w>sker</w>
+  <w>faktiskt</w>
+  <w>med</w>
+  <w>bankernas</w>
+  <w>goda</w>
+  <w>minne</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>kunder</w>
+  <w>märker</w>
+  <w>oftast</w>
+  <w>ingenting</w>
+  <w>av</w>
+  <w>det</w>
+  <w>som</w>
+  <w>händer</w>
+  <w>.</w>
+  <absaspan id=6>
+    <w>När</w>
+    <w>vi</w>
+    <w>blir</w>
+    <w>bestulna</w>
+    <w>på</w>
+    <w>pengar</w>
+    <w>från</w>
+    <w>våra</w>
+    <w>bankkonton</w>
+    <w>blir</w>
+    <w>vi</w>
+    <w>i</w>
+    <w>princip</w>
+    <w>alltid</w>
+    <w>ersatta</w>
+    <w>direkt</w>
+    <w>av</w>
+    <w>banken</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>utan</w>
+    <w>problem</w>
+  </absaspan>
+  <w>.</w>
+  <w>De</w>
+  <w>flesta</w>
+  <w>bedrägerier</w>
+  <w>får</w>
+  <w>vi</w>
+  <w>inte</w>
+  <w>ens</w>
+  <w>veta</w>
+  <w>om</w>
+  <w>.</w>
+  <w>De</w>
+  <w>fångas</w>
+  <w>upp</w>
+  <w>av</w>
+  <w>bankernas</w>
+  <w>egna</w>
+  <w>övervakningssystem</w>
+  <w>innan</w>
+  <w>uttagen</w>
+  <w>redovisas</w>
+  <w>på</w>
+  <w>våra</w>
+  <w>konton</w>
+  <w>och</w>
+  <w>ersätts</w>
+  <w>utan</w>
+  <w>omsvep</w>
+  <w>och</w>
+  <w>utan</w>
+  <w>att</w>
+  <w>banken</w>
+  <w>informerar</w>
+  <w>oss</w>
+  <w>om</w>
+  <w>vad</w>
+  <w>som</w>
+  <w>hänt</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Att</w>
+  <absaspan id=8>
+    <w>bankerna</w>
+  </absaspan>
+  <w>ersätter</w>
+  <w>oss</w>
+  <w>så</w>
+  <w>enkelt</w>
+  <w>och</w>
+  <w>smärtfritt</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=9>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>vill</w>
+    <w>ligga</w>
+    <w>lågt</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=11>
+    <w>informationen</w>
+    <w>om</w>
+    <w>bedrägerierna</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=12>
+    <w>Bankerna</w>
+  </absaspan>
+  <w>verkar</w>
+  <w>i</w>
+  <w>en</w>
+  <w>förtroendebransch</w>
+  <w>och</w>
+  <absaspan id=13 senti=2>
+    <w>det</w>
+    <w>sista</w>
+    <w>de</w>
+    <w>vill</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>att</w>
+    <w>visa</w>
+    <w>oss</w>
+    <w>hur</w>
+    <w>sårbara</w>
+    <w>de</w>
+    <w>är</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Därför</w>
+  <w>är</w>
+  <w>policyn</w>
+  <w>att</w>
+  <absaspan id=15 senti=2>
+    <w>lägga</w>
+    <w>locket</w>
+    <w>på</w>
+  </absaspan>
+  <w>,</w>
+  <w>ersätta</w>
+  <w>kunderna</w>
+  <w>så</w>
+  <w>långt</w>
+  <w>som</w>
+  <w>möjligt</w>
+  <w>,</w>
+  <w>helst</w>
+  <w>också</w>
+  <w>utan</w>
+  <w>att</w>
+  <w>blanda</w>
+  <w>in</w>
+  <w>polisen</w>
+  <w>.</w>
+  <w>Om</w>
+  <w>de</w>
+  <w>gör</w>
+  <w>det</w>
+  <w>,</w>
+  <absaspan id=16>
+    <w>blir</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>ju</w>
+    <w>siffrorna</w>
+    <w>på</w>
+    <w>bankbedrägerierna</w>
+    <w>offentliga</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=18>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>bankerna</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>undvika</w>
+  </absaspan>
+  <w>.</w>
+  <w>Endast</w>
+  <w>i</w>
+  <w>den</w>
+  <w>minoritet</w>
+  <w>av</w>
+  <w>fall</w>
+  <w>där</w>
+  <w>vi</w>
+  <w>själva</w>
+  <w>kan</w>
+  <w>se</w>
+  <w>att</w>
+  <w>pengar</w>
+  <w>dragits</w>
+  <w>från</w>
+  <w>våra</w>
+  <w>konton</w>
+  <w>uppmanar</w>
+  <w>bankerna</w>
+  <w>oss</w>
+  <w>att</w>
+  <w>polisanmäla</w>
+  <w>brotten</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Det</w>
+  <w>kan</w>
+  <absaspan id=22 senti=2>
+    <w>verka</w>
+    <w>märkligt</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>att</w>
+    <w>bankerna</w>
+    <w>accepterar</w>
+    <w>att</w>
+    <w>göra</w>
+    <w>miljonförluster</w>
+    <w>på</w>
+    <w>kort</w>
+    <w>-</w>
+    <w>och</w>
+    <w>kontobedrägerier</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>bilden</w>
+  <w>klarnar</w>
+  <w>när</w>
+  <w>man</w>
+  <w>förstår</w>
+  <w>att</w>
+  <absaspan id=24>
+    <w>kortbetalningar</w>
+  </absaspan>
+  <absaspan id=25 senti=4>
+    <w>är</w>
+  </absaspan>
+  <w>några</w>
+  <w>av</w>
+  <w>bankernas</w>
+  <absaspan id=26 senti=4>
+    <w>mest</w>
+  </absaspan>
+  <absaspan id=27 senti=4>
+    <w>lönsamma</w>
+    <w>affärsområden</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>.</w>
+  </absaspan>
+  <w>Så</w>
+  <w>länge</w>
+  <absaspan id=29>
+    <w>dessa</w>
+    <w>intäkter</w>
+  </absaspan>
+  <absaspan id=30 senti=4>
+    <w>med</w>
+    <w>råge</w>
+  </absaspan>
+  <w>överstiger</w>
+  <w>kostnaderna</w>
+  <w>för</w>
+  <w>bedrägerierna</w>
+  <w>låter</w>
+  <w>bankerna</w>
+  <w>det</w>
+  <w>ske</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>I</w>
+  <w>klartext</w>
+  <w>betyder</w>
+  <w>det</w>
+  <w>att</w>
+  <absaspan id=31>
+    <w>bankerna</w>
+  </absaspan>
+  <w>ser</w>
+  <w>kostnaderna</w>
+  <w>för</w>
+  <w>bedrägerierna</w>
+  <w>som</w>
+  <w>rena</w>
+  <w>transaktionskostnader</w>
+  <w>och</w>
+  <w>att</w>
+  <absaspan id=32>
+    <w>de</w>
+  </absaspan>
+  <w>därmed</w>
+  <w>faktiskt</w>
+  <absaspan id=33 senti=3>
+    <w>accepterar</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>att</w>
+    <w>finansiera</w>
+    <w>kriminella</w>
+    <w>nätverk</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Att</w>
+  <w>vi</w>
+  <w>alla</w>
+  <w>,</w>
+  <w>inklusive</w>
+  <w>jag</w>
+  <w>själv</w>
+  <w>,</w>
+  <w>gärna</w>
+  <w>ser</w>
+  <w>att</w>
+  <w>bankerna</w>
+  <w>kompenserar</w>
+  <w>oss</w>
+  <w>som</w>
+  <w>individer</w>
+  <w>är</w>
+  <w>en</w>
+  <w>helt</w>
+  <w>annan</w>
+  <w>femma</w>
+  <w>.</w>
+  <absaspan id=35>
+    <w>Men</w>
+  </absaspan>
+  <absaspan id=36 senti=4>
+    <w>i</w>
+    <w>sin</w>
+    <w>iver</w>
+  </absaspan>
+  <absaspan id=37>
+    <w>att</w>
+    <w>bli</w>
+    <w>av</w>
+    <w>med</w>
+    <w>kontanterna</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>driver</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>bankerna</w>
+  </absaspan>
+  <absaspan id=40>
+    <w>på</w>
+    <w>utvecklingen</w>
+    <w>så</w>
+    <w>snabbt</w>
+  </absaspan>
+  <absaspan id=41>
+    <w>att</w>
+    <w>säkerheten</w>
+  </absaspan>
+  <absaspan id=42 senti=2>
+    <w>inte</w>
+    <w>hinns</w>
+    <w>med</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=43>
+    <w>Detta</w>
+  </absaspan>
+  <absaspan id=44 senti=1>
+    <w>är</w>
+    <w>djupt</w>
+    <w>problematiskt</w>
+  </absaspan>
+  <w>och</w>
+  <w>något</w>
+  <w>som</w>
+  <w>vi</w>
+  <w>måste</w>
+  <w>börja</w>
+  <w>tala</w>
+  <w>om</w>
+  <w>.</w>
+  <w>Bankerna</w>
+  <w>är</w>
+  <w>förvisso</w>
+  <w>privata</w>
+  <w>bolag</w>
+  <w>men</w>
+  <w>de</w>
+  <w>är</w>
+  <w>också</w>
+  <w>förmedlare</w>
+  <w>av</w>
+  <w>viktig</w>
+  <w>samhällsservice</w>
+  <w>.</w>
+  <w>Därför</w>
+  <w>måste</w>
+  <w>vi</w>
+  <w>kunna</w>
+  <w>ställa</w>
+  <w>krav</w>
+  <w>på</w>
+  <w>att</w>
+  <w>även</w>
+  <w>bankerna</w>
+  <w>tar</w>
+  <w>ett</w>
+  <w>ökat</w>
+  <w>samhällsansvar</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Ett</w>
+  <w>uppenbart</w>
+  <w>krav</w>
+  <w>är</w>
+  <w>att</w>
+  <w>bankerna</w>
+  <w>måste</w>
+  <w>förmås</w>
+  <w>att</w>
+  <w>polisanmäla</w>
+  <w>alla</w>
+  <w>bedrägerier</w>
+  <w>som</w>
+  <w>kommer</w>
+  <w>till</w>
+  <w>deras</w>
+  <w>kännedom</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>I</w>
+  <w>dag</w>
+  <absaspan id=45 senti=2>
+    <w>gör</w>
+  </absaspan>
+  <absaspan id=46>
+    <w>bankerna</w>
+  </absaspan>
+  <absaspan id=47 senti=2>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=48 senti=2>
+    <w>enkelt</w>
+    <w>för</w>
+    <w>sig</w>
+  </absaspan>
+  <w>genom</w>
+  <absaspan id=49>
+    <w>att</w>
+    <w>hävda</w>
+    <w>att</w>
+    <w>det</w>
+    <w>är</w>
+    <w>de</w>
+    <w>enskilda</w>
+    <w>kunderna</w>
+    <w>som</w>
+    <w>är</w>
+    <w>målsägande</w>
+    <w>,</w>
+    <w>även</w>
+    <w>om</w>
+    <w>det</w>
+    <w>är</w>
+    <w>banken</w>
+    <w>som</w>
+    <w>lider</w>
+    <w>förlusten</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=50>
+    <w>Och</w>
+    <w>varför</w>
+  </absaspan>
+  <absaspan id=51 senti=2>
+    <w>så</w>
+    <w>få</w>
+  </absaspan>
+  <absaspan id=52>
+    <w>polisresurser</w>
+    <w>på</w>
+    <w>området</w>
+  </absaspan>
+  <w>?</w>
+  <w>Kan</w>
+  <absaspan id=53>
+    <w>en</w>
+    <w>helt</w>
+    <w>eller</w>
+    <w>delvis</w>
+    <w>bankfinansierad</w>
+    <w>bekämpning</w>
+    <w>av</w>
+    <w>bedrägeriverksamheten</w>
+  </absaspan>
+  <absaspan id=54 senti=4>
+    <w>vara</w>
+    <w>en</w>
+    <w>effektivare</w>
+    <w>väg</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>få</w>
+  <w>fram</w>
+  <w>mer</w>
+  <w>resurser</w>
+  <w>om</w>
+  <w>nu</w>
+  <absaspan id=55>
+    <w>pappa</w>
+    <w>staten</w>
+  </absaspan>
+  <absaspan id=56 senti=2>
+    <w>inte</w>
+    <w>tycker</w>
+    <w>sig</w>
+    <w>ha</w>
+    <w>råd</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Ett</w>
+  <w>annat</w>
+  <w>krav</w>
+  <w>är</w>
+  <w>att</w>
+  <w>bankerna</w>
+  <w>måste</w>
+  <w>börja</w>
+  <w>redovisa</w>
+  <w>omfattningen</w>
+  <w>och</w>
+  <w>kostnaderna</w>
+  <w>för</w>
+  <w>kontobedrägerier</w>
+  <w>i</w>
+  <w>sina</w>
+  <w>resultat</w>
+  <w>-</w>
+  <w>och</w>
+  <w>balansräkningar</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Det</w>
+  <absaspan id=57 senti=4>
+    <w>är</w>
+    <w>hög</w>
+    <w>tid</w>
+  </absaspan>
+  <absaspan id=58>
+    <w>att</w>
+    <w>någon</w>
+    <w>tar</w>
+    <w>ansvar</w>
+    <w>för</w>
+    <w>att</w>
+    <w>på</w>
+    <w>allvar</w>
+    <w>bekämpa</w>
+    <w>kortbedrägerier</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>När</w>
+  <w>får</w>
+  <w>vi</w>
+  <w>se</w>
+  <w>ett</w>
+  <w>handslag</w>
+  <w>om</w>
+  <w>en</w>
+  <absaspan id=59 senti=4>
+    <w>vettig</w>
+  </absaspan>
+  <absaspan id=60>
+    <w>arbetsfördelning</w>
+    <w>mellan</w>
+    <w>politiken</w>
+    <w>,</w>
+    <w>myndigheterna</w>
+    <w>och</w>
+    <w>banksektorn</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Björn</w>
+  <w>Eriksson</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Häng</w>
+  <w>med</w>
+  <w>i</w>
+  <w>debatten</w>
+  <w>och</w>
+  <w>kommentera</w>
+  <w>artikeln</w>
+  <w>–</w>
+  <w>följ</w>
+  <w>Debatt</w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>REN</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>N</w>
+  <w>.</w>
+</absapar>
+</absadoc>

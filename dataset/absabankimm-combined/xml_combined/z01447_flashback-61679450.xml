@@ -1,0 +1,91 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Merkel</w>
+  <w>uttalar</w>
+  <w>att</w>
+  <w>asylsökande</w>
+  <w>inte</w>
+  <w>bör</w>
+  <w>ta</w>
+  <w>semester</w>
+  <w>i</w>
+  <w>sitt</w>
+  <w>hemland</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Några</w>
+  <w>dagar</w>
+  <w>gammal</w>
+  <w>artikel</w>
+  <w>.</w>
+  <w>Vad</w>
+  <w>har</w>
+  <w>Sverige</w>
+  <w>för</w>
+  <w>policy</w>
+  <w>?</w>
+  <w>Någon</w>
+  <w>med</w>
+  <w>fakta</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Somalier</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>,</w>
+  <w>enligt</w>
+  <w>uppgifter</w>
+  <w>åker</w>
+  <w>i</w>
+  <w>skytteltrafik</w>
+  <w>till</w>
+  <w>Somalia</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Danmark</w>
+  <w>har</w>
+  <w>styrt</w>
+  <w>upp</w>
+  <w>det</w>
+  <w>(</w>
+  <w>hittar</w>
+  <absaspan id=1 senti=2>
+    <w>tyvärr</w>
+  </absaspan>
+  <w>ingen</w>
+  <w>länk</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=2>
+    <w>Schweiz</w>
+  </absaspan>
+  <w>har</w>
+  <absaspan id=3 senti=1>
+    <w>nolltolerans</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Hur</w>
+  <w>ser</w>
+  <absaspan id=4 senti=2>
+    <w>problematiken</w>
+  </absaspan>
+  <w>ut</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>och</w>
+  <w>hur</w>
+  <w>hanterar</w>
+  <w>myndigheterna</w>
+  <w>det</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

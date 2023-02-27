@@ -1,0 +1,130 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Svenska</w>
+    <w>kvinnor</w>
+  </absaspan>
+  <absaspan id=2 senti=4 target=3 source=1>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>bli</w>
+    <w>illa</w>
+    <w>behandlade</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Med</w>
+  <w>tanke</w>
+  <w>på</w>
+  <w>deras</w>
+  <w>politiska</w>
+  <w>sympatier</w>
+  <w>så</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>undra</w>
+  <w>om</w>
+  <absaspan id=4>
+    <w>svenska</w>
+    <w>kvinnor</w>
+  </absaspan>
+  <w>egentligen</w>
+  <absaspan id=5 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=6 senti=1>
+    <w>bli</w>
+    <w>illa</w>
+    <w>behandlade</w>
+    <w>,</w>
+    <w>förnedrade</w>
+    <w>,</w>
+    <w>tafsade</w>
+    <w>på</w>
+    <w>,</w>
+    <w>våldtagna</w>
+    <w>osv</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Det</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>direkt</w>
+  <w>någon</w>
+  <w>hemlighet</w>
+  <w>att</w>
+  <w>majoriteten</w>
+  <w>av</w>
+  <w>invandrarna</w>
+  <w>är</w>
+  <absaspan id=7>
+    <w>unga</w>
+    <w>muslimska</w>
+    <w>män</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=8 senti=2>
+    <w>en</w>
+    <w>allt</w>
+    <w>annat</w>
+    <w>än</w>
+    <w>feministisk</w>
+    <w>kvinnosyn</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Jag</w>
+  <w>tror</w>
+  <w>att</w>
+  <absaspan id=9>
+    <w>svenska</w>
+    <w>kvinnor</w>
+  </absaspan>
+  <w>egentligen</w>
+  <absaspan id=10 senti=4>
+    <w>tänder</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>tanken</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=12 senti=1>
+    <w>bli</w>
+    <w>antastade</w>
+    <w>,</w>
+    <w>gruppvåldtagna</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>mörka</w>
+    <w>män</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>undersökningar</w>
+  <w>som</w>
+  <w>bekräftar</w>
+  <w>kvinnors</w>
+  <w>mörka</w>
+  <w>fantasier</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Någon</w>
+  <w>annan</w>
+  <w>förklaring</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

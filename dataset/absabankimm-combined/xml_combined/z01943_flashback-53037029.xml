@@ -1,0 +1,176 @@
+<absadoc annotators=1 senti=5>
+<absatitle>
+  <w>Bygga</w>
+  <w>ett</w>
+  <absaspan id=1>
+    <w>samhälle</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=2 senti=4 target=1>
+    <w>tolerans</w>
+    <w>och</w>
+    <w>integration</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=5>
+  <w>Bygga</w>
+  <w>ett</w>
+  <absaspan id=3>
+    <w>samhälle</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=4 senti=4>
+    <w>tolerans</w>
+    <w>och</w>
+    <w>integration</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=5>
+  <w>Kan</w>
+  <w>inte</w>
+  <w>regeringen</w>
+  <w>bygga</w>
+  <w>ett</w>
+  <w>samhälle</w>
+  <w>med</w>
+  <w>olika</w>
+  <w>folkslag</w>
+  <w>och</w>
+  <w>kulturer</w>
+  <w>,</w>
+  <w>ateister</w>
+  <w>,</w>
+  <w>judar</w>
+  <w>,</w>
+  <w>muslimer</w>
+  <w>,</w>
+  <w>nudister</w>
+  <w>med</w>
+  <w>mera</w>
+  <w>.</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=5>
+  <w>Ett</w>
+  <absaspan id=5>
+    <w>samhälle</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>ifred</w>
+    <w>och</w>
+    <w>harmoni</w>
+  </absaspan>
+  <w>mångkulturellt</w>
+  <w>där</w>
+  <absaspan id=7>
+    <w>olika</w>
+    <w>religioner</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>samsas</w>
+  </absaspan>
+  <w>i</w>
+  <w>en</w>
+  <w>och</w>
+  <w>samma</w>
+  <w>byggnad</w>
+  <w>eller</w>
+  <absaspan id=9 senti=4>
+    <w>hjälper</w>
+    <w>varandra</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Stadsdirektören</w>
+  <w>får</w>
+  <w>vara</w>
+  <w>statsminister</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=5>
+  <w>Bygga</w>
+  <w>upp</w>
+  <w>ett</w>
+  <absaspan id=10 senti=4>
+    <w>blomstande</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>småföretagsamhet</w>
+  </absaspan>
+  <w>,</w>
+  <w>samt</w>
+  <w>högteknologiskt</w>
+  <w>med</w>
+  <absaspan id=12>
+    <w>olika</w>
+    <w>kulturer</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=13 senti=4>
+    <w>berikar</w>
+    <w>varandra</w>
+  </absaspan>
+  <w>,</w>
+  <w>funkar</w>
+  <w>i</w>
+  <w>andra</w>
+  <w>länder</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Små</w>
+  <w>brott</w>
+  <w>och</w>
+  <w>konflikter</w>
+  <w>löses</w>
+  <w>i</w>
+  <w>stadsdelsförvaltingens</w>
+  <w>folkdomstol</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>naturen</w>
+  <w>kan</w>
+  <w>få</w>
+  <w>blandas</w>
+  <w>in</w>
+  <w>i</w>
+  <w>form</w>
+  <w>av</w>
+  <w>ängar</w>
+  <w>på</w>
+  <w>taken</w>
+  <w>och</w>
+  <w>mycket</w>
+  <w>odlingslotter</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Där</w>
+  <w>folk</w>
+  <w>gifter</w>
+  <w>sig</w>
+  <w>med</w>
+  <w>varandra</w>
+  <w>och</w>
+  <w>där</w>
+  <w>olika</w>
+  <w>internationella</w>
+  <w>bekantskaper</w>
+  <w>stiftas</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Skulle</w>
+  <w>det</w>
+  <w>vara</w>
+  <w>möjligt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,136 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Tommy</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Robinson</w>
+    <w>(</w>
+    <w>UK</w>
+    <w>)</w>
+  </absaspan>
+  <w>gripen</w>
+  <absaspan id=3 senti=4>
+    <w>med</w>
+    <w>hopp</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>ska</w>
+    <w>mördas</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>där</w>
+  <w>hon</w>
+  <w>tror</w>
+  <w>han</w>
+  <w>kommer</w>
+  <w>bli</w>
+  <w>mördad</w>
+  <w>i</w>
+  <w>fängelse</w>
+  <w>vilket</w>
+  <w>inte</w>
+  <w>är</w>
+  <w>långsökt</w>
+  <w>om</w>
+  <w>man</w>
+  <w>har</w>
+  <w>lyssnat</w>
+  <w>på</w>
+  <w>hans</w>
+  <w>historier</w>
+  <w>i</w>
+  <w>fängelse</w>
+  <w>där</w>
+  <w>han</w>
+  <absaspan id=8 senti=1>
+    <w>har</w>
+    <w>blivit</w>
+    <w>misshandlad</w>
+    <w>och</w>
+    <w>dödshotad</w>
+    <w>och</w>
+    <w>mer</w>
+    <w>skit</w>
+  </absaspan>
+  <w>från</w>
+  <absaspan id=9>
+    <w>fängelsegäng</w>
+    <w>som</w>
+    <w>kallas</w>
+    <w>muslimska</w>
+    <w>brödraskapet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Tror</w>
+  <w>ni</w>
+  <absaspan id=10>
+    <w>"</w>
+    <w>dom</w>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=11 senti=5>
+    <w>har</w>
+    <w>längtat</w>
+    <w>efter</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>ett</w>
+    <w>läge</w>
+    <w>att</w>
+    <w>"</w>
+    <w>haffa</w>
+    <w>"</w>
+    <w>"</w>
+    <w>islamofoben</w>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>Tommy</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>igen</w>
+    <w>,</w>
+    <w>slänga</w>
+    <w>han</w>
+    <w>i</w>
+    <w>fängelse</w>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=15 senti=4>
+    <w>förhoppningsvis</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>bli</w>
+    <w>mördad</w>
+  </absaspan>
+  <w>?</w>
+  <w>Om</w>
+  <w>ja</w>
+  <w>,</w>
+  <w>vilka</w>
+  <w>är</w>
+  <w>"</w>
+  <w>dom</w>
+  <w>"</w>
+  <w>som</w>
+  <w>vill</w>
+  <w>göra</w>
+  <w>det</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

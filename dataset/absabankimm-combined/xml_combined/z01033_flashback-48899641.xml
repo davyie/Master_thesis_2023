@@ -1,0 +1,116 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Ny</w>
+  <w>antirasistfestival</w>
+  <w>i</w>
+  <w>Kiruna</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>"</w>
+  <w>I</w>
+  <w>dag</w>
+  <w>startade</w>
+  <w>en</w>
+  <w>helt</w>
+  <w>ny</w>
+  <w>festival</w>
+  <w>i</w>
+  <w>Kiruna</w>
+  <w>.</w>
+  <w>En</w>
+  <w>antirasistfestival</w>
+  <w>som</w>
+  <w>arrangerats</w>
+  <w>av</w>
+  <w>elever</w>
+  <w>på</w>
+  <w>Malmfältens</w>
+  <w>folkhögskola</w>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>"</w>
+  <w>-</w>
+  <w>Man</w>
+  <w>ser</w>
+  <w>ju</w>
+  <w>i</w>
+  <w>hela</w>
+  <w>Europa</w>
+  <w>att</w>
+  <absaspan id=1 senti=1>
+    <w>främlingsfientligheten</w>
+  </absaspan>
+  <w>växer</w>
+  <w>och</w>
+  <w>vi</w>
+  <w>känner</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>har</w>
+  <w>ett</w>
+  <w>ansvar</w>
+  <w>att</w>
+  <w>göra</w>
+  <w>något</w>
+  <w>åt</w>
+  <w>det</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>vi</w>
+  <w>vill</w>
+  <w>skapa</w>
+  <w>en</w>
+  <w>dialog</w>
+  <w>i</w>
+  <w>stället</w>
+  <w>för</w>
+  <w>att</w>
+  <w>stå</w>
+  <w>och</w>
+  <w>diskutera</w>
+  <absaspan id=2 senti=5>
+    <w>vad</w>
+    <w>som</w>
+    <w>är</w>
+    <w>fel</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=3 senti=5>
+    <w>vad</w>
+    <w>som</w>
+    <w>är</w>
+    <w>rätt</w>
+  </absaspan>
+  <w>,</w>
+  <w>säger</w>
+  <w>festivalgeneralen</w>
+  <w>Marit</w>
+  <w>Kindsbaekken</w>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=4 senti=5>
+    <w>En</w>
+    <w>bra</w>
+    <w>idé</w>
+  </absaspan>
+  <w>eller</w>
+  <w>ännu</w>
+  <w>mer</w>
+  <absaspan id=5 senti=1>
+    <w>pk-propaganda</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

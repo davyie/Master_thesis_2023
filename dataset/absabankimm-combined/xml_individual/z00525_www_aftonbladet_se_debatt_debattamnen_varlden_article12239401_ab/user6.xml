@@ -1,0 +1,889 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Därför</w>
+  <w>var</w>
+  <w>det</w>
+  <absaspan id=1 senti=4 target=2>
+    <w>rätt</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>att</w>
+    <w>kalla</w>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=3 senti=1 target=3>
+    <w>folkmord</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>De</w>
+  <absaspan id=4 senti=2>
+    <w>starka</w>
+  </absaspan>
+  <w>turkiska</w>
+  <absaspan id=5>
+    <w>reaktionerna</w>
+  </absaspan>
+  <w>på</w>
+  <w>riksdagens</w>
+  <w>beslut</w>
+  <w>att</w>
+  <w>politiskt</w>
+  <w>erkänna</w>
+  <w>folkmordet</w>
+  <w>mot</w>
+  <w>armenier</w>
+  <w>var</w>
+  <w>väntade</w>
+  <w>.</w>
+  <w>Mer</w>
+  <absaspan id=6 senti=2>
+    <w>anmärkningsvärt</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>vår</w>
+    <w>statsminister</w>
+    <w>och</w>
+    <w>vår</w>
+    <w>utrikesminister</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>beklagar</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>beslutet</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>och</w>
+    <w>tänker</w>
+    <w>obstruera</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>helgen</w>
+  <w>valde</w>
+  <absaspan id=12>
+    <w>Carl</w>
+    <w>Bildt</w>
+    <w>att</w>
+    <w>tillsammans</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>sin</w>
+    <w>turkiske</w>
+    <w>kollega</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>Ahmet</w>
+    <w>Davutoglu</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=15 senti=2>
+    <w>fördöma</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>riksdagens</w>
+    <w>beslut</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>riskerar</w>
+  <w>att</w>
+  <absaspan id=17 senti=2>
+    <w>låsa</w>
+    <w>och</w>
+    <w>förvirra</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>denna</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>svåra</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>fråga</w>
+  </absaspan>
+  <w>ytterligare</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Detta</w>
+  <w>handlar</w>
+  <w>inte</w>
+  <w>om</w>
+  <w>ta</w>
+  <w>ställning</w>
+  <w>för</w>
+  <w>turkisk</w>
+  <w>eller</w>
+  <w>armenisk</w>
+  <w>historieskrivning</w>
+  <w>,</w>
+  <w>utan</w>
+  <w>om</w>
+  <w>att</w>
+  <w>en</w>
+  <absaspan id=21 senti=4>
+    <w>klok</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>politik</w>
+    <w>för</w>
+    <w>folkrätt</w>
+    <w>och</w>
+    <w>mänskliga</w>
+    <w>rättigheter</w>
+  </absaspan>
+  <w>måste</w>
+  <w>bygga</w>
+  <w>på</w>
+  <w>en</w>
+  <absaspan id=23 senti=4>
+    <w>trovärdig</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>bild</w>
+    <w>av</w>
+    <w>gårdagen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Broderskapsrörelsens</w>
+  <w>kongress</w>
+  <w>beslutade</w>
+  <w>i</w>
+  <w>juli</w>
+  <w>2009</w>
+  <w>att</w>
+  <w>verka</w>
+  <w>för</w>
+  <w>ett</w>
+  <w>politiskt</w>
+  <w>erkännande</w>
+  <w>av</w>
+  <w>det</w>
+  <w>armeniska</w>
+  <w>folkmordet</w>
+  <w>.</w>
+  <w>Beslutet</w>
+  <w>var</w>
+  <w>enhälligt</w>
+  <w>.</w>
+  <w>Med</w>
+  <w>hjälp</w>
+  <w>av</w>
+  <w>historisk</w>
+  <w>och</w>
+  <w>folkrättslig</w>
+  <absaspan id=25 senti=4>
+    <w>expertis</w>
+  </absaspan>
+  <w>gjorde</w>
+  <w>vi</w>
+  <w>en</w>
+  <absaspan id=26 senti=4>
+    <w>ordentlig</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>analys</w>
+  </absaspan>
+  <w>av</w>
+  <w>de</w>
+  <w>argument</w>
+  <w>som</w>
+  <w>anförts</w>
+  <w>mot</w>
+  <w>ett</w>
+  <w>erkännande</w>
+  <w>.</w>
+  <w>Så</w>
+  <w>formades</w>
+  <w>argument</w>
+  <w>som</w>
+  <w>senare</w>
+  <w>fick</w>
+  <w>S-kongressen</w>
+  <w>att</w>
+  <w>fatta</w>
+  <w>samma</w>
+  <w>beslut</w>
+  <w>som</w>
+  <w>vi</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Ett</w>
+  <w>argument</w>
+  <w>är</w>
+  <w>att</w>
+  <w>det</w>
+  <w>saknas</w>
+  <w>forskning</w>
+  <w>och</w>
+  <w>att</w>
+  <w>historiker</w>
+  <w>har</w>
+  <w>olika</w>
+  <w>uppfattningar</w>
+  <w>om</w>
+  <w>massakern</w>
+  <w>ska</w>
+  <w>betraktas</w>
+  <w>som</w>
+  <w>folkmord</w>
+  <w>enligt</w>
+  <w>folkmordskonventionen</w>
+  <w>från</w>
+  <w>1948</w>
+  <w>.</w>
+  <w>Material</w>
+  <w>har</w>
+  <w>förstörts</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>finns</w>
+  <w>turkiska</w>
+  <w>forskare</w>
+  <w>som</w>
+  <w>har</w>
+  <w>en</w>
+  <w>annan</w>
+  <w>uppfattning</w>
+  <w>i</w>
+  <w>definitionsfrågan</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>det</w>
+  <w>samlade</w>
+  <w>källmaterialet</w>
+  <w>är</w>
+  <w>överväldigande</w>
+  <w>och</w>
+  <w>bilden</w>
+  <w>hos</w>
+  <w>oberoende</w>
+  <w>forskare</w>
+  <w>,</w>
+  <w>inklusive</w>
+  <w>några</w>
+  <w>modiga</w>
+  <w>turkiska</w>
+  <w>forskare</w>
+  <w>,</w>
+  <w>är</w>
+  <w>tillräckligt</w>
+  <w>entydig</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Ett</w>
+  <w>annat</w>
+  <w>argument</w>
+  <w>är</w>
+  <w>att</w>
+  <w>folkmordsdefinitionen</w>
+  <w>inte</w>
+  <w>kan</w>
+  <w>användas</w>
+  <w>för</w>
+  <w>massakrer</w>
+  <w>före</w>
+  <w>1948</w>
+  <w>.</w>
+  <w>Haagdomstolen</w>
+  <w>kan</w>
+  <w>inte</w>
+  <w>tillämpa</w>
+  <w>konventionen</w>
+  <w>retroaktivt</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>det</w>
+  <w>begränsar</w>
+  <w>inte</w>
+  <w>politiska</w>
+  <w>församlingars</w>
+  <w>erkännande</w>
+  <w>.</w>
+  <w>Riksdagen</w>
+  <w>ser</w>
+  <absaspan id=28>
+    <w>Förintelsen</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=29 senti=1>
+    <w>folkmord</w>
+  </absaspan>
+  <w>och</w>
+  <w>kallar</w>
+  <w>slaveriet</w>
+  <w>vid</w>
+  <w>dess</w>
+  <w>rätta</w>
+  <w>namn</w>
+  <w>även</w>
+  <w>för</w>
+  <w>tiden</w>
+  <w>innan</w>
+  <w>det</w>
+  <w>förbjöds</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Ett</w>
+  <w>tredje</w>
+  <w>argument</w>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=30>
+    <w>det</w>
+    <w>är</w>
+    <w>FN</w>
+    <w>,</w>
+    <w>domstolar</w>
+    <w>eller</w>
+    <w>historiker</w>
+    <w>som</w>
+    <w>ska</w>
+    <w>avgöra</w>
+    <w>dessa</w>
+    <w>frågor</w>
+    <w>,</w>
+    <w>inte</w>
+    <w>politiker</w>
+  </absaspan>
+  <w>.</w>
+  <w>Detta</w>
+  <w>är</w>
+  <w>ett</w>
+  <absaspan id=31 senti=2>
+    <w>svepskäl</w>
+  </absaspan>
+  <w>.</w>
+  <w>En</w>
+  <w>strikt</w>
+  <w>juridisk</w>
+  <w>hantering</w>
+  <w>är</w>
+  <w>omöjlig</w>
+  <w>men</w>
+  <w>det</w>
+  <w>historiska</w>
+  <w>materialet</w>
+  <w>är</w>
+  <w>omfattande</w>
+  <w>och</w>
+  <w>det</w>
+  <w>är</w>
+  <w>det</w>
+  <w>riksdagens</w>
+  <w>beslut</w>
+  <w>tagit</w>
+  <w>ställning</w>
+  <w>till</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=32>
+    <w>Ett</w>
+    <w>fjärde</w>
+    <w>argument</w>
+    <w>är</w>
+    <w>att</w>
+    <w>det</w>
+    <w>är</w>
+    <w>Turkiet</w>
+    <w>och</w>
+    <w>Armenien</w>
+    <w>som</w>
+    <w>ska</w>
+    <w>hantera</w>
+    <w>detta</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>viktigt</w>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=33 senti=2>
+    <w>räcker</w>
+    <w>inte</w>
+  </absaspan>
+  <w>.</w>
+  <w>Folkrätt</w>
+  <w>och</w>
+  <w>mänskliga</w>
+  <w>rättigheter</w>
+  <w>är</w>
+  <w>alla</w>
+  <w>länders</w>
+  <w>ansvar</w>
+  <w>.</w>
+  <w>Dessutom</w>
+  <w>fanns</w>
+  <w>inte</w>
+  <w>dessa</w>
+  <w>länder</w>
+  <w>när</w>
+  <w>folkmordet</w>
+  <w>begicks</w>
+  <w>.</w>
+  <w>Armenier</w>
+  <w>och</w>
+  <w>andra</w>
+  <w>kristna</w>
+  <w>överlevande</w>
+  <w>flydde</w>
+  <w>och</w>
+  <w>finns</w>
+  <w>nu</w>
+  <w>över</w>
+  <w>hela</w>
+  <w>världen</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Ett</w>
+  <w>femte</w>
+  <w>argument</w>
+  <w>är</w>
+  <w>tajming</w>
+  <w>.</w>
+  <w>Reinfeldt</w>
+  <w>har</w>
+  <w>en</w>
+  <w>poäng</w>
+  <w>att</w>
+  <w>det</w>
+  <w>var</w>
+  <absaspan id=34 senti=4>
+    <w>bättre</w>
+    <w>tajming</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>för</w>
+    <w>fyra</w>
+    <w>år</w>
+    <w>sedan</w>
+  </absaspan>
+  <w>,</w>
+  <w>när</w>
+  <w>han</w>
+  <w>förordade</w>
+  <w>ett</w>
+  <w>erkännande</w>
+  <w>.</w>
+  <w>Nu</w>
+  <w>kommer</w>
+  <w>beslutet</w>
+  <w>i</w>
+  <w>en</w>
+  <absaspan id=36 senti=2>
+    <w>trevande</w>
+  </absaspan>
+  <absaspan id=37>
+    <w>försoningsprocess</w>
+  </absaspan>
+  <w>och</w>
+  <w>i</w>
+  <w>ett</w>
+  <absaspan id=38 senti=2>
+    <w>känsligt</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>läge</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=40 senti=2>
+    <w>blir</w>
+    <w>värre</w>
+  </absaspan>
+  <absaspan id=41>
+    <w>ju</w>
+    <w>längre</w>
+    <w>man</w>
+    <w>väntar</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=42>
+    <w>De</w>
+    <w>drabbade</w>
+    <w>har</w>
+    <w>väntat</w>
+    <w>i</w>
+    <w>95</w>
+    <w>år</w>
+  </absaspan>
+  <w>och</w>
+  <w>denna</w>
+  <absaspan id=43 senti=2>
+    <w>frustration</w>
+  </absaspan>
+  <w>är</w>
+  <w>en</w>
+  <absaspan id=44 senti=2>
+    <w>grogrund</w>
+  </absaspan>
+  <w>till</w>
+  <absaspan id=45>
+    <w>motsättningar</w>
+    <w>i</w>
+    <w>bostadsområden</w>
+  </absaspan>
+  <w>också</w>
+  <w>i</w>
+  <w>vårt</w>
+  <w>land</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Mest</w>
+  <w>avgörande</w>
+  <w>för</w>
+  <w>riksdagens</w>
+  <w>tvekan</w>
+  <w>och</w>
+  <w>regeringens</w>
+  <w>agerande</w>
+  <w>är</w>
+  <w>dock</w>
+  <w>Turkiets</w>
+  <w>ilska</w>
+  <w>.</w>
+  <w>Här</w>
+  <w>behöver</w>
+  <w>man</w>
+  <w>söka</w>
+  <w>balans</w>
+  <w>mellan</w>
+  <w>folkrätt</w>
+  <w>och</w>
+  <w>maktpolitiska</w>
+  <w>realiteter</w>
+  <w>.</w>
+  <w>Den</w>
+  <w>balansen</w>
+  <w>ser</w>
+  <w>olika</w>
+  <w>ut</w>
+  <w>i</w>
+  <w>olika</w>
+  <w>partitraditioner</w>
+  <w>och</w>
+  <w>det</w>
+  <w>är</w>
+  <w>ingen</w>
+  <w>slump</w>
+  <w>att</w>
+  <w>det</w>
+  <w>blev</w>
+  <w>en</w>
+  <w>tydlig</w>
+  <w>höger-vänster-uppdelning</w>
+  <w>i</w>
+  <w>Riksdagen</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <absaspan id=46>
+    <w>Det</w>
+    <w>maktpolitiska</w>
+    <w>argumentet</w>
+  </absaspan>
+  <absaspan id=47 senti=4>
+    <w>är</w>
+    <w>logiskt</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>nu</w>
+  <w>har</w>
+  <w>riksdagen</w>
+  <w>fattat</w>
+  <w>sitt</w>
+  <w>beslut</w>
+  <w>.</w>
+  <w>När</w>
+  <w>plåstret</w>
+  <w>är</w>
+  <w>rivet</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>inga</w>
+  <w>skäl</w>
+  <w>att</w>
+  <w>sätta</w>
+  <w>dit</w>
+  <w>det</w>
+  <w>igen</w>
+  <absaspan id=48 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Genom</w>
+  <w>att</w>
+  <w>göra</w>
+  <w>gemensam</w>
+  <w>sak</w>
+  <w>med</w>
+  <w>Turkiets</w>
+  <w>regering</w>
+  <absaspan id=49 senti=2>
+    <w>riskerar</w>
+  </absaspan>
+  <w>den</w>
+  <w>svenska</w>
+  <w>regeringen</w>
+  <w>nu</w>
+  <w>istället</w>
+  <absaspan id=50>
+    <w>att</w>
+    <w>hamna</w>
+    <w>i</w>
+    <w>folkmordsförnekelse</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Det</w>
+  <absaspan id=51 senti=4>
+    <w>vore</w>
+    <w>mer</w>
+    <w>intelligent</w>
+  </absaspan>
+  <absaspan id=52>
+    <w>att</w>
+    <w>söka</w>
+    <w>en</w>
+    <w>politik</w>
+    <w>framåt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vi</w>
+  <w>som</w>
+  <absaspan id=53 senti=4>
+    <w>vill</w>
+    <w>se</w>
+  </absaspan>
+  <absaspan id=54>
+    <w>Turkiet</w>
+    <w>som</w>
+    <w>medlemmar</w>
+    <w>i</w>
+    <w>EU</w>
+  </absaspan>
+  <w>har</w>
+  <w>ett</w>
+  <w>ansvar</w>
+  <w>att</w>
+  <w>hjälpa</w>
+  <w>landet</w>
+  <w>reda</w>
+  <w>ut</w>
+  <w>denna</w>
+  <absaspan id=55 senti=2>
+    <w>mörka</w>
+  </absaspan>
+  <absaspan id=56>
+    <w>del</w>
+  </absaspan>
+  <w>av</w>
+  <w>sin</w>
+  <w>förhistoria</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Omedelbart</w>
+  <w>efter</w>
+  <absaspan id=57 senti=1>
+    <w>folkmordet</w>
+  </absaspan>
+  <w>fanns</w>
+  <w>en</w>
+  <w>turkisk</w>
+  <w>rättsprocess</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>när</w>
+  <w>det</w>
+  <w>moderna</w>
+  <w>Turkiet</w>
+  <w>bildades</w>
+  <absaspan id=58 senti=2>
+    <w>lades</w>
+    <w>en</w>
+    <w>filt</w>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=59>
+    <w>frågan</w>
+  </absaspan>
+  <w>och</w>
+  <w>det</w>
+  <w>är</w>
+  <w>fortfarande</w>
+  <absaspan id=60 senti=1>
+    <w>straffbart</w>
+  </absaspan>
+  <absaspan id=61>
+    <w>att</w>
+    <w>tala</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=62 senti=1>
+    <w>folkmordet</w>
+  </absaspan>
+  <absaspan id=63>
+    <w>mot</w>
+    <w>armenierna</w>
+  </absaspan>
+  <w>.</w>
+  <w>De</w>
+  <w>intellektuella</w>
+  <w>som</w>
+  <w>trotsar</w>
+  <w>förbudet</w>
+  <w>behöver</w>
+  <w>internationellt</w>
+  <w>stöd</w>
+  <w>.</w>
+  <absaspan id=64>
+    <w>En</w>
+    <w>förändrad</w>
+    <w>hållning</w>
+  </absaspan>
+  <w>skulle</w>
+  <w>ge</w>
+  <w>Turkiet</w>
+  <w>en</w>
+  <absaspan id=65 senti=4>
+    <w>starkare</w>
+    <w>position</w>
+  </absaspan>
+  <w>i</w>
+  <w>EU</w>
+  <w>och</w>
+  <absaspan id=66 senti=2>
+    <w>ta</w>
+    <w>bort</w>
+  </absaspan>
+  <absaspan id=67 senti=2>
+    <w>islamofobiska</w>
+  </absaspan>
+  <absaspan id=68>
+    <w>argument</w>
+  </absaspan>
+  <absaspan id=69>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=70 senti=2>
+    <w>försvårar</w>
+  </absaspan>
+  <absaspan id=71>
+    <w>turkiskt</w>
+    <w>EU-medlemskap</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Dagens</w>
+  <w>turkar</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>ansvariga</w>
+  <w>för</w>
+  <w>100</w>
+  <w>år</w>
+  <w>gamla</w>
+  <w>övergrepp</w>
+  <w>,</w>
+  <w>av</w>
+  <w>samma</w>
+  <w>skäl</w>
+  <w>som</w>
+  <w>vi</w>
+  <w>inte</w>
+  <w>håller</w>
+  <w>dagens</w>
+  <w>tyskar</w>
+  <w>ansvariga</w>
+  <w>för</w>
+  <w>övergreppen</w>
+  <w>under</w>
+  <w>Andra</w>
+  <w>världskriget</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=72>
+    <w>att</w>
+    <w>söka</w>
+    <w>och</w>
+    <w>berätta</w>
+    <w>sanningen</w>
+  </absaspan>
+  <absaspan id=73 senti=4>
+    <w>är</w>
+    <w>avgörande</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>försoningsprocesser</w>
+  <w>ska</w>
+  <w>kunna</w>
+  <w>verka</w>
+  <w>,</w>
+  <w>människor</w>
+  <w>ska</w>
+  <w>kunna</w>
+  <w>resa</w>
+  <w>sig</w>
+  <w>ur</w>
+  <w>sina</w>
+  <w>trauman</w>
+  <w>och</w>
+  <w>för</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>kollektivt</w>
+  <w>ska</w>
+  <w>kunna</w>
+  <w>ta</w>
+  <w>ansvar</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=74 senti=4>
+    <w>undvika</w>
+  </absaspan>
+  <absaspan id=75 senti=1>
+    <w>folkmord</w>
+  </absaspan>
+  <absaspan id=76>
+    <w>i</w>
+    <w>framtiden</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Peter</w>
+  <w>Weiderud</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Ordförande</w>
+  <w>Sveriges</w>
+  <w>kristna</w>
+  <w>socialdemokraters</w>
+  <w>förbund</w>
+  <w>–</w>
+  <w>Broderskapsrörelsen</w>
+  <w>.</w>
+</absapar>
+</absadoc>

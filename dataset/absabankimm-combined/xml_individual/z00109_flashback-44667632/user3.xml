@@ -1,0 +1,169 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Mediafolk</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=2 senti=2 target=1>
+    <w>verkar</w>
+    <w>sälja</w>
+    <w>sig</w>
+    <w>för</w>
+    <w>för</w>
+    <w>PK-ism</w>
+  </absaspan>
+  <w>och</w>
+  <w>Antirasism</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Här</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>par</w>
+  <w>exempel</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=3>
+    <w>Margret</w>
+    <w>Attladottir</w>
+  </absaspan>
+  <w>har</w>
+  <w>enligt</w>
+  <w>uppgift</w>
+  <w>till</w>
+  <w>en</w>
+  <w>början</w>
+  <w>drivit</w>
+  <w>en</w>
+  <w>högerblogg</w>
+  <w>dock</w>
+  <w>utan</w>
+  <w>vidare</w>
+  <w>framgång</w>
+  <w>.</w>
+  <w>Efter</w>
+  <w>att</w>
+  <absaspan id=4 senti=2>
+    <w>ha</w>
+    <w>sålt</w>
+    <w>sina</w>
+    <w>åsiker</w>
+  </absaspan>
+  <w>och</w>
+  <w>kanske</w>
+  <w>mer</w>
+  <w>därtill</w>
+  <w>till</w>
+  <absaspan id=5 senti=2>
+    <w>pk-vänstern</w>
+  </absaspan>
+  <w>så</w>
+  <w>gick</w>
+  <w>karriären</w>
+  <w>spikrakt</w>
+  <w>uppåt</w>
+  <w>.</w>
+  <w>Först</w>
+  <w>chefredaktör</w>
+  <w>på</w>
+  <w>Nöjesguiden</w>
+  <w>där</w>
+  <w>det</w>
+  <w>var</w>
+  <w>mer</w>
+  <w>prat</w>
+  <w>om</w>
+  <w>antirasism</w>
+  <w>och</w>
+  <w>anti-högerpolitik</w>
+  <w>än</w>
+  <w>nöjen</w>
+  <w>och</w>
+  <w>nu</w>
+  <w>vidare</w>
+  <w>till</w>
+  <w>jobb</w>
+  <w>på</w>
+  <w>s</w>
+  <absaspan id=6 senti=2>
+    <w>vänstersajt</w>
+  </absaspan>
+  <w>Politism</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=7>
+    <w>Henrik</w>
+    <w>Johansson</w>
+  </absaspan>
+  <w>som</w>
+  <w>skriver</w>
+  <w>för</w>
+  <w>Interasistmen</w>
+  <w>som</w>
+  <w>får</w>
+  <w>pengar</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=8 senti=2>
+    <w>smutskasta</w>
+    <w>SD</w>
+    <w>och</w>
+    <w>hylla</w>
+    <w>mångkulturen</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>svänger</w>
+    <w>sig</w>
+    <w>väldigt</w>
+    <w>ledigt</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=10>
+    <w>ord</w>
+    <w>som</w>
+    <w>te</w>
+    <w>x</w>
+    <w>"</w>
+    <w>negerboll</w>
+    <w>"</w>
+  </absaspan>
+  <w>på</w>
+  <w>twitter</w>
+  <w>.</w>
+  <w>Hur</w>
+  <w>samtalet</w>
+  <w>om</w>
+  <w>invandring</w>
+  <w>och</w>
+  <w>invandrare</w>
+  <w>går</w>
+  <w>på</w>
+  <w>redaktionen</w>
+  <w>på</w>
+  <w>Interasistmen</w>
+  <w>när</w>
+  <w>ingen</w>
+  <w>ser</w>
+  <w>vågar</w>
+  <w>man</w>
+  <w>knappt</w>
+  <w>spekulera</w>
+  <w>om</w>
+  <w>.</w>
+  <w>Som</w>
+  <w>det</w>
+  <w>verkar</w>
+  <w>är</w>
+  <w>det</w>
+  <w>bara</w>
+  <w>svenskar</w>
+  <w>som</w>
+  <w>arbetar</w>
+  <w>där</w>
+  <w>.</w>
+</absapar>
+</absadoc>

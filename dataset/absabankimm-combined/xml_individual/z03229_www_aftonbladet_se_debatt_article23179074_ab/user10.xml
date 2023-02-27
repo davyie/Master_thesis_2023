@@ -1,0 +1,470 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Vinge</w>
+  <w>har</w>
+  <w>fel</w>
+  <w>om</w>
+  <w>Black</w>
+  <w>lives</w>
+  <w>matter</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>REPLIK</w>
+  <w>.</w>
+  <absaspan id=1>
+    <w>Vinge</w>
+  </absaspan>
+  <w>argumenterar</w>
+  <w>som</w>
+  <w>sverigedemokrater</w>
+  <w>gör</w>
+  <w>–</w>
+  <absaspan id=2 senti=1>
+    <w>skapar</w>
+    <w>oro</w>
+    <w>och</w>
+    <w>rädsla</w>
+  </absaspan>
+  <w>genom</w>
+  <w>att</w>
+  <w>piska</w>
+  <w>upp</w>
+  <w>en</w>
+  <w>opinion</w>
+  <w>på</w>
+  <absaspan id=3 senti=1>
+    <w>lösryckta</w>
+    <w>,</w>
+    <w>rasistiska</w>
+    <w>argument</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=4>
+    <w>Vinge</w>
+  </absaspan>
+  <w>skriver</w>
+  <w>att</w>
+  <absaspan id=5>
+    <w>BLM</w>
+  </absaspan>
+  <absaspan id=6 senti=1>
+    <w>är</w>
+    <w>en</w>
+    <w>polishatande</w>
+    <w>organisation</w>
+  </absaspan>
+  <w>,</w>
+  <w>vilket</w>
+  <w>är</w>
+  <w>felaktigt</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Black</w>
+  <w>Lives</w>
+  <w>Matter-rörelsen</w>
+  <w>grundades</w>
+  <w>som</w>
+  <w>en</w>
+  <w>reaktion</w>
+  <w>efter</w>
+  <w>frikännandet</w>
+  <w>av</w>
+  <w>George</w>
+  <w>Zimmerman</w>
+  <w>2013</w>
+  <w>,</w>
+  <w>för</w>
+  <w>mordet</w>
+  <w>på</w>
+  <w>den</w>
+  <w>17</w>
+  <w>-</w>
+  <w>åriga</w>
+  <w>svarta</w>
+  <w>pojken</w>
+  <w>Trayvon</w>
+  <w>Martin</w>
+  <w>.</w>
+  <w>I</w>
+  <w>dag</w>
+  <w>har</w>
+  <w>Black</w>
+  <w>Lives</w>
+  <w>Matter</w>
+  <w>vuxit</w>
+  <w>till</w>
+  <w>en</w>
+  <w>stor</w>
+  <w>socialrörelse</w>
+  <w>för</w>
+  <w>rättvisa</w>
+  <w>,</w>
+  <w>med</w>
+  <w>fokus</w>
+  <w>på</w>
+  <w>icke-våld</w>
+  <w>och</w>
+  <w>rasojämlikheter</w>
+  <w>och</w>
+  <w>har</w>
+  <w>systerorganisationer</w>
+  <w>runtom</w>
+  <w>i</w>
+  <w>världen</w>
+  <w>.</w>
+  <w>Mellan</w>
+  <w>augusti</w>
+  <w>2014</w>
+  <w>och</w>
+  <w>augusti</w>
+  <w>2015</w>
+  <w>organiserade</w>
+  <w>BLM</w>
+  <w>i</w>
+  <w>världen</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>950</w>
+  <w>protestdemonstrationer</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>I</w>
+  <w>Sverige</w>
+  <w>har</w>
+  <w>flera</w>
+  <w>svarta</w>
+  <w>gräsrotsaktivister</w>
+  <w>anordnat</w>
+  <w>BLM</w>
+  <w>demonstrationer</w>
+  <w>och</w>
+  <w>Feministiskt</w>
+  <w>Initiativ</w>
+  <w>har</w>
+  <w>tillsammans</w>
+  <w>med</w>
+  <w>svarta</w>
+  <w>aktivister</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>gjort</w>
+  <w>en</w>
+  <w>video</w>
+  <w>till</w>
+  <w>stöd</w>
+  <w>av</w>
+  <w>BLM-USA</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=7>
+    <w>SD</w>
+  </absaspan>
+  <w>:</w>
+  <w>s</w>
+  <w>politik</w>
+  <w>utgår</w>
+  <w>inte</w>
+  <w>från</w>
+  <absaspan id=8 senti=1>
+    <w>sociala</w>
+    <w>orättvisor</w>
+  </absaspan>
+  <w>som</w>
+  <w>strukturella</w>
+  <w>,</w>
+  <w>utan</w>
+  <w>deras</w>
+  <w>politik</w>
+  <w>bygger</w>
+  <w>på</w>
+  <w>nationalism</w>
+  <w>,</w>
+  <w>rasism</w>
+  <w>och</w>
+  <w>en</w>
+  <absaspan id=9 senti=2>
+    <w>identitetspolitik</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=10 senti=2>
+    <w>utmålar</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>alla</w>
+    <w>som</w>
+    <w>inte</w>
+    <w>är</w>
+    <w>vita</w>
+    <w>svenskar</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>icke</w>
+    <w>medborgare</w>
+    <w>i</w>
+    <w>det</w>
+    <w>svenska</w>
+    <w>samhället</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>en</w>
+  <w>politik</w>
+  <w>som</w>
+  <w>bygger</w>
+  <w>på</w>
+  <w>”</w>
+  <w>vi</w>
+  <w>”</w>
+  <w>och</w>
+  <w>”</w>
+  <w>dem</w>
+  <w>”</w>
+  <w>och</w>
+  <w>attackerar</w>
+  <w>flyktingar</w>
+  <w>,</w>
+  <w>EU-migranter</w>
+  <w>,</w>
+  <w>feminister</w>
+  <w>,</w>
+  <w>antirasister</w>
+  <w>,</w>
+  <w>hbtq-personer</w>
+  <w>och</w>
+  <w>alla</w>
+  <w>oss</w>
+  <w>som</w>
+  <absaspan id=14 senti=4>
+    <w>står</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>allas</w>
+    <w>lika</w>
+    <w>värde</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=16>
+    <w>Vinge</w>
+  </absaspan>
+  <w>använder</w>
+  <w>statistik</w>
+  <w>på</w>
+  <w>ett</w>
+  <w>fenomen</w>
+  <w>som</w>
+  <w>är</w>
+  <w>känt</w>
+  <w>som</w>
+  <w>”</w>
+  <w>Black</w>
+  <w>on</w>
+  <w>Black</w>
+  <w>Crime</w>
+  <w>”</w>
+  <w>för</w>
+  <w>att</w>
+  <w>främja</w>
+  <w>sin</w>
+  <w>populistiska</w>
+  <w>,</w>
+  <w>rasistiska</w>
+  <w>poäng</w>
+  <w>att</w>
+  <absaspan id=17>
+    <w>afrikan-amerikaner</w>
+  </absaspan>
+  <w>(</w>
+  <w>som</w>
+  <w>han</w>
+  <w>felaktigt</w>
+  <w>kallar</w>
+  <w>för</w>
+  <w>afroamerikaner</w>
+  <w>)</w>
+  <w>är</w>
+  <absaspan id=18 senti=1>
+    <w>destruktiva</w>
+    <w>,</w>
+    <w>våldsglorifierande</w>
+    <w>gängbildare</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vi</w>
+  <w>ser</w>
+  <w>detta</w>
+  <w>som</w>
+  <w>hets</w>
+  <w>mot</w>
+  <w>folkgrupp</w>
+  <w>och</w>
+  <w>ytterligare</w>
+  <absaspan id=19 senti=2>
+    <w>brist</w>
+    <w>på</w>
+    <w>respekt</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>alla</w>
+    <w>de</w>
+    <w>oskyldiga</w>
+    <w>,</w>
+    <w>svarta</w>
+    <w>människor</w>
+    <w>som</w>
+    <w>dödats</w>
+    <w>av</w>
+    <w>statssanktionerat</w>
+    <w>polisvåld</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>ännu</w>
+  <w>en</w>
+  <absaspan id=21 senti=2>
+    <w>SD-attack</w>
+  </absaspan>
+  <w>på</w>
+  <w>svarta</w>
+  <w>människors</w>
+  <w>liv</w>
+  <absaspan id=22>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=6>
+  <w>Vinge</w>
+  <w>argumenterar</w>
+  <w>inte</w>
+  <w>heller</w>
+  <w>utifrån</w>
+  <w>vilket</w>
+  <w>ansvar</w>
+  <w>en</w>
+  <w>rättsstat</w>
+  <w>har</w>
+  <w>för</w>
+  <w>sina</w>
+  <w>medborgare</w>
+  <w>.</w>
+  <w>Polisens</w>
+  <w>jobb</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>att</w>
+  <w>använda</w>
+  <w>sitt</w>
+  <absaspan id=23 senti=2>
+    <w>våldsmonopol</w>
+  </absaspan>
+  <w>till</w>
+  <w>att</w>
+  <absaspan id=24 senti=2>
+    <w>rasprofilera</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=25 senti=1>
+    <w>trakassera</w>
+  </absaspan>
+  <w>eller</w>
+  <w>mörda</w>
+  <w>svarta</w>
+  <w>människor</w>
+  <w>,</w>
+  <w>utan</w>
+  <w>att</w>
+  <absaspan id=26 senti=4>
+    <w>ge</w>
+    <w>skydd</w>
+    <w>och</w>
+    <w>service</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>medborgarna</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=28>
+    <w>Feministiskt</w>
+    <w>Initiativ</w>
+  </absaspan>
+  <absaspan id=29 senti=4>
+    <w>stöd</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>BLM</w>
+  </absaspan>
+  <w>handlar</w>
+  <w>om</w>
+  <w>att</w>
+  <w>väcka</w>
+  <w>uppmärksamhet</w>
+  <w>och</w>
+  <w>kunskap</w>
+  <w>kring</w>
+  <w>angreppen</w>
+  <w>och</w>
+  <absaspan id=31 senti=2>
+    <w>devalvering</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>svarta</w>
+    <w>människors</w>
+  </absaspan>
+  <absaspan id=33 senti=2>
+    <w>liv</w>
+  </absaspan>
+  <w>i</w>
+  <w>USA</w>
+  <absaspan id=34>
+    <w>.</w>
+  </absaspan>
+  <w>Feministiskt</w>
+  <w>initiativ</w>
+  <w>vill</w>
+  <w>därigenom</w>
+  <w>bilda</w>
+  <w>opinion</w>
+  <w>kring</w>
+  <w>den</w>
+  <w>institutionaliserade</w>
+  <w>rasism</w>
+  <w>som</w>
+  <w>finns</w>
+  <w>i</w>
+  <w>USA</w>
+  <w>såväl</w>
+  <w>som</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Victoria</w>
+  <w>Kawesa</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Antirasistisk</w>
+  <w>talesperson</w>
+  <w>(</w>
+  <w>Fi</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,155 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Varför</w>
+  <absaspan id=1 senti=2 target=4 partof=3 source=2>
+    <w>kollar</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>svenskar</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>snett</w>
+  </absaspan>
+  <w>på</w>
+  <absaspan id=4>
+    <w>mig</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Hej</w>
+  <w>jag</w>
+  <w>har</w>
+  <w>ett</w>
+  <absaspan id=5 senti=2>
+    <w>vardags</w>
+    <w>problem</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=6>
+    <w>när</w>
+    <w>jag</w>
+    <w>ut</w>
+    <w>o</w>
+    <w>promonerar</w>
+    <w>kollar</w>
+    <w>svenskar</w>
+    <w>på</w>
+    <w>ett</w>
+    <w>fut</w>
+    <w>sätt</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=7>
+    <w>Dom</w>
+  </absaspan>
+  <w>tänker</w>
+  <absaspan id=8 senti=1>
+    <w>jävla</w>
+    <w>blatte</w>
+  </absaspan>
+  <w>,</w>
+  <w>jag</w>
+  <w>får</w>
+  <w>så</w>
+  <absaspan id=9 senti=2>
+    <w>dåligt</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>komunikation</w>
+    <w>med</w>
+    <w>svennar</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=11 senti=1>
+    <w>känns</w>
+    <w>ganska</w>
+    <w>jobbigt</w>
+  </absaspan>
+  <w>jag</w>
+  <w>har</w>
+  <w>bott</w>
+  <w>i</w>
+  <w>sverige</w>
+  <w>större</w>
+  <w>delen</w>
+  <w>av</w>
+  <w>mitt</w>
+  <w>liv</w>
+  <w>,</w>
+  <w>ändå</w>
+  <w>blir</w>
+  <w>kallad</w>
+  <absaspan id=12 senti=1>
+    <w>blatte</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=13 senti=1>
+    <w>svartskalle</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=14 senti=1>
+    <w>parasit</w>
+  </absaspan>
+  <w>o</w>
+  <w>allt</w>
+  <w>nu</w>
+  <w>vad</w>
+  <w>det</w>
+  <w>är</w>
+  <absaspan id=15>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Hur</w>
+  <w>har</w>
+  <w>ni</w>
+  <w>egentligen</w>
+  <w>tänk</w>
+  <w>att</w>
+  <w>man</w>
+  <w>ska</w>
+  <w>anpassa</w>
+  <w>sig</w>
+  <w>i</w>
+  <w>samhället</w>
+  <w>när</w>
+  <w>det</w>
+  <w>minns</w>
+  <absaspan id=16 senti=1>
+    <w>stor</w>
+    <w>kratig</w>
+    <w>motattack</w>
+  </absaspan>
+  <w>mot</w>
+  <absaspan id=17>
+    <w>individer</w>
+    <w>?</w>
+  </absaspan>
+  <w>Jag</w>
+  <w>går</w>
+  <w>ju</w>
+  <w>inte</w>
+  <w>anpassa</w>
+  <w>sig</w>
+  <w>samhället</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=18>
+    <w>Jag</w>
+  </absaspan>
+  <w>e</w>
+  <w>seriös</w>
+  <w>och</w>
+  <absaspan id=19 senti=4>
+    <w>behöver</w>
+    <w>verkligen</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>hjälp</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

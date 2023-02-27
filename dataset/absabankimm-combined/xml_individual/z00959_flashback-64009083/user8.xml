@@ -1,0 +1,105 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>SVT</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=3 source=1>
+    <w>"</w>
+    <w>varnar</w>
+    <w>"</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=3>
+    <w>Migrationsverket</w>
+    <w>kan</w>
+    <w>få</w>
+    <w>information</w>
+    <w>från</w>
+    <w>Arbetsförmedlingen</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>SVT</w>
+  <w>lyfter</w>
+  <w>fram</w>
+  <w>detta</w>
+  <w>stort</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Kan</w>
+  <w>man</w>
+  <w>tolka</w>
+  <w>det</w>
+  <w>på</w>
+  <w>annat</w>
+  <w>sätt</w>
+  <w>än</w>
+  <w>att</w>
+  <w>alla</w>
+  <w>,</w>
+  <w>inkl</w>
+  <w>SVT</w>
+  <w>,</w>
+  <w>är</w>
+  <w>fullt</w>
+  <w>införstådda</w>
+  <w>med</w>
+  <w>att</w>
+  <absaspan id=4>
+    <w>asylsökande</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>ljuger</w>
+  </absaspan>
+  <w>för</w>
+  <w>Migrationsverket</w>
+  <w>?</w>
+  <absaspan id=6>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Det</w>
+  <w>blir</w>
+  <w>ju</w>
+  <w>svårt</w>
+  <w>för</w>
+  <absaspan id=7>
+    <w>"</w>
+    <w>afghanen</w>
+    <w>"</w>
+    <w>Hassan</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>påstår</w>
+  <w>han</w>
+  <w>är</w>
+  <w>18</w>
+  <w>,</w>
+  <w>att</w>
+  <w>få</w>
+  <w>stanna</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>om</w>
+  <w>han</w>
+  <w>har</w>
+  <w>jobbat</w>
+  <w>som</w>
+  <w>snickare</w>
+  <w>i</w>
+  <w>Iran</w>
+  <w>i</w>
+  <w>10</w>
+  <w>år</w>
+  <w>.</w>
+  <w>.</w>
+  <absaspan id=8 senti=1>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

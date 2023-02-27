@@ -1,0 +1,114 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>-</w>
+  <w>=</w>
+  <w>År</w>
+  <w>1915</w>
+  <w>blev</w>
+  <w>6</w>
+  <w>miljoner</w>
+  <w>judar</w>
+  <absaspan id=1 senti=1>
+    <w>torterade</w>
+    <w>och</w>
+    <w>förföljda</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Även</w>
+  <w>andra</w>
+  <w>årtal</w>
+  <w>hände</w>
+  <w>detta</w>
+  <w>som</w>
+  <w>man</w>
+  <w>tydligt</w>
+  <w>ser</w>
+  <w>på</w>
+  <w>alla</w>
+  <w>bilder</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>alltid</w>
+  <w>6</w>
+  <w>miljoner</w>
+  <w>som</w>
+  <w>drabbas</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=2 senti=2>
+    <w>Det</w>
+    <w>påstås</w>
+  </absaspan>
+  <w>ju</w>
+  <w>även</w>
+  <absaspan id=3>
+    <w>att</w>
+    <w>6</w>
+    <w>miljoner</w>
+    <w>judar</w>
+    <w>blev</w>
+    <w>ihjälgasade</w>
+    <w>25</w>
+    <w>år</w>
+    <w>senare</w>
+  </absaspan>
+  <w>.</w>
+  <w>Fast</w>
+  <w>sen</w>
+  <w>ändrade</w>
+  <w>dom</w>
+  <w>sig</w>
+  <w>lite</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>sen</w>
+  <w>lite</w>
+  <w>till</w>
+  <w>så</w>
+  <w>nu</w>
+  <w>är</w>
+  <w>dom</w>
+  <w>väl</w>
+  <w>nere</w>
+  <w>i</w>
+  <w>1</w>
+  <w>miljon</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=4 senti=2>
+    <w>Känns</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>detta</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>lite</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>märkligt</w>
+    <w>?</w>
+  </absaspan>
+  <w>Hur</w>
+  <w>kommer</w>
+  <w>det</w>
+  <w>sig</w>
+  <w>att</w>
+  <w>siffran</w>
+  <w>6</w>
+  <w>miljoner</w>
+  <w>ständigt</w>
+  <w>återkommer</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

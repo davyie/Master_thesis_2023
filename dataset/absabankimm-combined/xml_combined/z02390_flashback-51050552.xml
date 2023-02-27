@@ -1,0 +1,97 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=2 senti=4 source=1 target=3>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>spara</w>
+    <w>187,7</w>
+    <w>miljarder</w>
+    <w>kronor</w>
+    <w>på</w>
+    <w>att</w>
+    <w>kraftigt</w>
+    <w>minska</w>
+    <w>invandringen</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <absaspan id=4>
+    <w>SD</w>
+  </absaspan>
+  <w>presenterar</w>
+  <w>idag</w>
+  <w>sin</w>
+  <w>skuggbudget</w>
+  <w>.</w>
+  <absaspan id=5>
+    <w>De</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>sapra</w>
+    <w>187,7</w>
+    <w>miljarder</w>
+    <w>kr</w>
+    <w>på</w>
+    <w>att</w>
+    <w>minska</w>
+    <w>indandringen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Är</w>
+  <w>detta</w>
+  <w>möjligt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Eller</w>
+  <w>har</w>
+  <w>Sverige</w>
+  <w>några</w>
+  <w>EU-avtal</w>
+  <w>som</w>
+  <w>hindrar</w>
+  <w>oss</w>
+  <w>från</w>
+  <w>att</w>
+  <w>minska</w>
+  <w>invandringen</w>
+  <w>så</w>
+  <w>drastiskt</w>
+  <w>som</w>
+  <w>SD</w>
+  <w>vill</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>fungerande</w>
+  <w>länk</w>
+  <w>infogad</w>
+  <w>i</w>
+  <w>samråd</w>
+  <w>med</w>
+  <w>TS</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>/</w>
+  <w>/</w>
+  <w>mod</w>
+  <w>.</w>
+</absapar>
+</absadoc>

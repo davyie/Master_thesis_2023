@@ -1,0 +1,169 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Sossar</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>klagar</w>
+  </absaspan>
+  <w>på</w>
+  <w>underskott</w>
+  <w>på</w>
+  <w>äldrevården</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Vad</w>
+  <w>man</w>
+  <w>blir</w>
+  <absaspan id=3 senti=2>
+    <w>för</w>
+    <w>bannad</w>
+  </absaspan>
+  <w>över</w>
+  <absaspan id=4>
+    <w>sossar</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=5 senti=2>
+    <w>spyr</w>
+    <w>galla</w>
+  </absaspan>
+  <w>över</w>
+  <w>summan</w>
+  <w>122</w>
+  <w>miljoner</w>
+  <w>är</w>
+  <w>att</w>
+  <w>man</w>
+  <w>sedan</w>
+  <w>själv</w>
+  <w>vägrar</w>
+  <w>visa</w>
+  <w>bokslut</w>
+  <w>för</w>
+  <w>flyktingar</w>
+  <w>och</w>
+  <w>vägrar</w>
+  <w>ha</w>
+  <w>folkomröstning</w>
+  <w>om</w>
+  <w>flytkingar</w>
+  <w>som</w>
+  <w>troligtvist</w>
+  <w>kostar</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=6 senti=4 irony>
+    <w>Rätt</w>
+    <w>lustigt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=7>
+    <w>här</w>
+    <w>är</w>
+    <w>det</w>
+    <w>så</w>
+    <w>vikgit</w>
+    <w>med</w>
+    <w>budget</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Men</w>
+  <w>inte</w>
+  <w>när</w>
+  <w>det</w>
+  <w>gäller</w>
+  <w>flyktigar</w>
+  <w>,</w>
+  <w>inget</w>
+  <w>tak</w>
+  <w>,</w>
+  <w>ingen</w>
+  <w>budget</w>
+  <w>?</w>
+  <absaspan id=8>
+    <w>De</w>
+  </absaspan>
+  <w>tycker</w>
+  <w>det</w>
+  <absaspan id=9 senti=4>
+    <w>är</w>
+    <w>ok</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=10>
+    <w>betala</w>
+    <w>180.000</w>
+    <w>till</w>
+    <w>kommunen</w>
+    <w>för</w>
+    <w>en</w>
+    <w>vuxen</w>
+    <w>flykting</w>
+  </absaspan>
+  <w>medans</w>
+  <w>ett</w>
+  <w>soc</w>
+  <w>fall</w>
+  <w>går</w>
+  <w>på</w>
+  <w>70.000</w>
+  <w>.</w>
+  <w>Ska</w>
+  <absaspan id=11>
+    <w>man</w>
+  </absaspan>
+  <w>då</w>
+  <absaspan id=12 senti=2>
+    <w>gnälla</w>
+  </absaspan>
+  <w>på</w>
+  <w>en</w>
+  <w>summa</w>
+  <w>över</w>
+  <w>122</w>
+  <w>miljoner</w>
+  <w>i</w>
+  <w>äldrevården</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=13 senti=2>
+    <w>Som</w>
+    <w>att</w>
+    <w>det</w>
+    <w>var</w>
+    <w>så</w>
+    <w>mycket</w>
+    <w>bättre</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=14>
+    <w>sossarna</w>
+    <w>och</w>
+    <w>världens</w>
+    <w>högsta</w>
+    <w>skattetryck</w>
+  </absaspan>
+  <w>?</w>
+  <w>Men</w>
+  <w>var</w>
+  <w>tog</w>
+  <w>dom</w>
+  <w>sossemiljarderna</w>
+  <w>vägen</w>
+  <w>,</w>
+  <w>som</w>
+  <w>man</w>
+  <w>inte</w>
+  <w>redovisar</w>
+  <w>?</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

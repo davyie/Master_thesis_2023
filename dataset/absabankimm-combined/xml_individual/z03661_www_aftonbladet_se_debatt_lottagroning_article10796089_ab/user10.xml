@@ -1,0 +1,245 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=1>
+    <w>Människor</w>
+    <w>hamnar</w>
+    <w>i</w>
+    <w>kläm</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=2 senti=2 target=2>
+    <w>det</w>
+    <w>politiska</w>
+    <w>trolleriet</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <w>är</w>
+  <w>nog</w>
+  <absaspan id=3>
+    <w>en</w>
+    <w>och</w>
+    <w>annan</w>
+    <w>förtidspensionär</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=4>
+    <w>en</w>
+    <w>hel</w>
+    <w>del</w>
+    <w>socialbidragstagare</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=5 senti=1>
+    <w>blir</w>
+    <w>stötta</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>regeringens</w>
+    <w>budskap</w>
+    <w>om</w>
+    <w>att</w>
+    <w>färre</w>
+    <w>sjukskrivningar</w>
+    <w>leder</w>
+    <w>till</w>
+    <w>nya</w>
+    <w>reformer</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vi</w>
+  <w>förstår</w>
+  <w>av</w>
+  <w>nödropen</w>
+  <w>till</w>
+  <w>debattsidan</w>
+  <w>att</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>vissa</w>
+  <w>trix</w>
+  <w>för</w>
+  <w>att</w>
+  <w>minska</w>
+  <w>sjukskrivningarna</w>
+  <w>.</w>
+  <w>Tvinga</w>
+  <w>folk</w>
+  <w>att</w>
+  <w>leva</w>
+  <w>på</w>
+  <w>kommunala</w>
+  <w>socialbidragspengar</w>
+  <w>är</w>
+  <w>bara</w>
+  <w>ett</w>
+  <w>sätt</w>
+  <w>.</w>
+  <w>Pär</w>
+  <w>Nuder</w>
+  <w>kallar</w>
+  <w>omflyttningen</w>
+  <w>av</w>
+  <w>pengar</w>
+  <w>i</w>
+  <w>budgeten</w>
+  <w>för</w>
+  <w>ett</w>
+  <w>trolleritrick</w>
+  <w>.</w>
+  <w>Visst</w>
+  <w>kan</w>
+  <w>även</w>
+  <w>vi</w>
+  <w>understyrka</w>
+  <w>att</w>
+  <absaspan id=7>
+    <w>politikerna</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=8 senti=4 irony>
+    <w>goda</w>
+    <w>förvandlingskonstnärer</w>
+  </absaspan>
+  <w>.</w>
+  <w>Så</w>
+  <w>goda</w>
+  <w>att</w>
+  <w>Joe</w>
+  <w>Labero</w>
+  <w>Kan</w>
+  <w>få</w>
+  <w>konkurrens</w>
+  <w>i</w>
+  <w>Las</w>
+  <w>Vegas</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=9 senti=2>
+    <w>Problemet</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>det</w>
+    <w>politiska</w>
+    <w>trolleriet</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>att</w>
+    <w>männsikor</w>
+    <w>hamnar</w>
+    <w>i</w>
+    <w>kläm</w>
+  </absaspan>
+  <w>,</w>
+  <w>de</w>
+  <w>blir</w>
+  <w>försvarslösa</w>
+  <w>och</w>
+  <w>rättslösa</w>
+  <w>och</w>
+  <w>i</w>
+  <w>händerna</w>
+  <w>på</w>
+  <w>tjänstemän</w>
+  <w>som</w>
+  <w>har</w>
+  <w>ett</w>
+  <w>regelverk</w>
+  <w>att</w>
+  <w>följa</w>
+  <w>.</w>
+  <absaspan id=13>
+    <w>Handläggarna</w>
+  </absaspan>
+  <w>får</w>
+  <w>högre</w>
+  <w>lön</w>
+  <w>för</w>
+  <w>att</w>
+  <w>de</w>
+  <w>följer</w>
+  <w>reglerna</w>
+  <w>och</w>
+  <absaspan id=14 senti=2>
+    <w>inte</w>
+    <w>tar</w>
+    <w>hänsyn</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>rent</w>
+    <w>mänskliga</w>
+    <w>aspekter</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=16>
+    <w>Chefen</w>
+  </absaspan>
+  <absaspan id=17 senti=3>
+    <w>vet</w>
+  </absaspan>
+  <w>nämligen</w>
+  <absaspan id=18 senti=5 irony>
+    <w>alltid</w>
+  </absaspan>
+  <absaspan id=19 senti=5 irony>
+    <w>bäst</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>i</w>
+    <w>statliga</w>
+    <w>organisationer</w>
+  </absaspan>
+  <w>.</w>
+  <w>En</w>
+  <w>socialsekreterare</w>
+  <w>,</w>
+  <w>Eva</w>
+  <w>Hillén</w>
+  <w>Ahlström</w>
+  <w>,</w>
+  <w>skriver</w>
+  <w>om</w>
+  <w>problematiken</w>
+  <w>på</w>
+  <w>debattsidan</w>
+  <w>idag</w>
+  <w>.</w>
+  <w>Hokus</w>
+  <w>,</w>
+  <w>pokus</w>
+  <w>filiokus</w>
+  <w>så</w>
+  <w>blir</w>
+  <w>sjukskrivna</w>
+  <w>socialbidragstagare</w>
+  <w>och</w>
+  <w>kommunens</w>
+  <w>ansvar</w>
+  <w>-</w>
+  <w>och</w>
+  <absaspan id=21>
+    <w>staten</w>
+  </absaspan>
+  <absaspan id=22 senti=4>
+    <w>slipper</w>
+    <w>bry</w>
+    <w>sig</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

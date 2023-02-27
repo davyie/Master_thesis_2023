@@ -1,0 +1,324 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Vad</w>
+  <w>är</w>
+  <w>ett</w>
+  <absaspan id=1 senti=5 target=2>
+    <w>idealt</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Sverige</w>
+  </absaspan>
+  <w>ur</w>
+  <w>invandrings</w>
+  <w>och</w>
+  <w>integrationsperspektiv</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Beroende</w>
+  <w>på</w>
+  <w>vilken</w>
+  <w>bevekelsegrund</w>
+  <absaspan id=3>
+    <w>man</w>
+  </absaspan>
+  <w>har</w>
+  <w>för</w>
+  <w>sitt</w>
+  <absaspan id=4 senti=2>
+    <w>motstånd</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>dagens</w>
+    <w>migrationspolitik</w>
+  </absaspan>
+  <w>torde</w>
+  <w>det</w>
+  <absaspan id=6 senti=4>
+    <w>önskesamhälle</w>
+  </absaspan>
+  <w>man</w>
+  <w>har</w>
+  <w>se</w>
+  <w>olika</w>
+  <w>ut</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Man</w>
+  <w>kan</w>
+  <w>tänka</w>
+  <w>sig</w>
+  <w>att</w>
+  <absaspan id=7>
+    <w>man</w>
+  </absaspan>
+  <absaspan id=8 senti=3>
+    <w>accepterar</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>dagens</w>
+    <w>situation</w>
+  </absaspan>
+  <w>,</w>
+  <w>ett</w>
+  <w>annat</w>
+  <w>alternativ</w>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=10>
+    <w>man</w>
+  </absaspan>
+  <w>bara</w>
+  <absaspan id=11 senti=3>
+    <w>accepterar</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>kvotflyktingar</w>
+  </absaspan>
+  <w>,</w>
+  <w>ett</w>
+  <w>tredje</w>
+  <w>alternativ</w>
+  <w>kan</w>
+  <w>vara</w>
+  <w>att</w>
+  <absaspan id=13>
+    <w>man</w>
+  </absaspan>
+  <w>bara</w>
+  <absaspan id=14 senti=3>
+    <w>accepterar</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>arbetskraftsinvandring</w>
+  </absaspan>
+  <w>och</w>
+  <w>ett</w>
+  <w>annat</w>
+  <w>alternativ</w>
+  <w>kan</w>
+  <w>vara</w>
+  <w>att</w>
+  <absaspan id=16>
+    <w>man</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=17 senti=2>
+    <w>säger</w>
+    <w>nej</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>all</w>
+    <w>invandring</w>
+    <w>och</w>
+    <w>alla</w>
+    <w>flyktingar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Man</w>
+  <w>kan</w>
+  <w>ha</w>
+  <w>en</w>
+  <w>bevekelsegrund</w>
+  <w>som</w>
+  <w>är</w>
+  <absaspan id=19 senti=2>
+    <w>krasst</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>ekonomisk</w>
+  </absaspan>
+  <w>eller</w>
+  <w>diskutera</w>
+  <w>i</w>
+  <w>termer</w>
+  <w>av</w>
+  <w>folkutbyte</w>
+  <w>,</w>
+  <w>etnicitet</w>
+  <w>,</w>
+  <w>bakgrund</w>
+  <w>,</w>
+  <w>religion</w>
+  <w>eller</w>
+  <w>språk</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Beroende</w>
+  <w>på</w>
+  <w>hur</w>
+  <w>man</w>
+  <w>resonerar</w>
+  <w>och</w>
+  <w>vad</w>
+  <w>man</w>
+  <w>baserar</w>
+  <w>sitt</w>
+  <w>ställningstagande</w>
+  <w>på</w>
+  <w>kommer</w>
+  <w>man</w>
+  <w>att</w>
+  <w>önska</w>
+  <w>sig</w>
+  <w>ett</w>
+  <w>Sverige</w>
+  <w>som</w>
+  <w>finns</w>
+  <w>eller</w>
+  <w>ett</w>
+  <w>Sverige</w>
+  <w>som</w>
+  <w>fanns</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Frågeställningarna</w>
+  <w>blir</w>
+  <w>följande</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=3>
+  <w>.</w>
+  <w>-</w>
+  <w>Ser</w>
+  <w>du</w>
+  <w>rent</w>
+  <w>ekonomiskt</w>
+  <w>på</w>
+  <w>invandringen</w>
+  <w>och</w>
+  <w>flyktingmottagandet</w>
+  <w>när</w>
+  <w>du</w>
+  <w>ser</w>
+  <w>ditt</w>
+  <absaspan id=21 senti=4>
+    <w>önskesamhälle</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7 senti=3>
+  <w>.</w>
+  <w>-</w>
+  <w>Lägger</w>
+  <w>du</w>
+  <w>in</w>
+  <w>etniska</w>
+  <w>aspekter</w>
+  <w>,</w>
+  <w>den</w>
+  <w>svenska</w>
+  <w>folkstammen</w>
+  <w>,</w>
+  <w>folkutbyte</w>
+  <w>,</w>
+  <absaspan id=22>
+    <w>germanska</w>
+    <w>rasens</w>
+  </absaspan>
+  <absaspan id=23 senti=4>
+    <w>bevarande</w>
+  </absaspan>
+  <w>etc</w>
+  <w>när</w>
+  <w>du</w>
+  <w>ser</w>
+  <w>ditt</w>
+  <absaspan id=24 senti=4>
+    <w>önskesamhälle</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=25>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=8 senti=3>
+  <w>.</w>
+  <w>-</w>
+  <w>Vid</w>
+  <w>vilket</w>
+  <w>årtionde</w>
+  <w>menar</w>
+  <w>du</w>
+  <w>att</w>
+  <absaspan id=26>
+    <w>invandringen</w>
+  </absaspan>
+  <w>var</w>
+  <absaspan id=27 senti=5>
+    <w>optimal</w>
+  </absaspan>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=9 senti=3>
+  <w>.</w>
+  <w>-</w>
+  <absaspan id=28 senti=5>
+    <w>Är</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>noll</w>
+    <w>i</w>
+    <w>invandring</w>
+    <w>och</w>
+    <w>flyktingmottagande</w>
+  </absaspan>
+  <absaspan id=30 senti=5>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=31 senti=5>
+    <w>optimala</w>
+  </absaspan>
+  <w>för</w>
+  <w>ett</w>
+  <w>samhälle</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=10 senti=3>
+  <w>.</w>
+  <w>-</w>
+  <w>Det</w>
+  <w>finns</w>
+  <w>idag</w>
+  <w>inget</w>
+  <w>parti</w>
+  <w>vars</w>
+  <w>grund</w>
+  <w>i</w>
+  <w>migrationspolitiken</w>
+  <w>är</w>
+  <w>"</w>
+  <absaspan id=32 senti=4>
+    <w>att</w>
+    <w>bevara</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>Sverige</w>
+    <w>svenskt</w>
+  </absaspan>
+  <w>"</w>
+  <w>saknar</w>
+  <w>du</w>
+  <w>ett</w>
+  <w>sådant</w>
+  <w>parti</w>
+  <w>?</w>
+  <absaspan id=34>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

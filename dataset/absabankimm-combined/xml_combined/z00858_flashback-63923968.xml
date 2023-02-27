@@ -1,0 +1,242 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Är</w>
+  <w>C</w>
+  <absaspan id=1 senti=2 target=1>
+    <w>hjärnsläpp</w>
+  </absaspan>
+  <w>avsiktligt</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>börjar</w>
+  <w>fundera</w>
+  <w>på</w>
+  <w>om</w>
+  <absaspan id=2>
+    <w>C</w>
+    <w>hjärnsläpp</w>
+  </absaspan>
+  <w>inte</w>
+  <absaspan id=3 senti=4>
+    <w>är</w>
+    <w>uppbackat</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=4>
+    <w>de</w>
+    <w>övriga</w>
+    <w>Allianspartierna</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>få</w>
+  <w>en</w>
+  <w>bra</w>
+  <w>out</w>
+  <w>så</w>
+  <w>de</w>
+  <w>röda</w>
+  <w>kan</w>
+  <w>styra</w>
+  <w>även</w>
+  <w>nästa</w>
+  <w>period</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=5>
+    <w>Sverige</w>
+  </absaspan>
+  <w>håller</w>
+  <w>på</w>
+  <w>och</w>
+  <absaspan id=6 senti=2>
+    <w>haverera</w>
+  </absaspan>
+  <w>och</w>
+  <w>de</w>
+  <w>som</w>
+  <w>sitter</w>
+  <w>nästa</w>
+  <w>period</w>
+  <w>kommer</w>
+  <w>få</w>
+  <w>ta</w>
+  <w>skiten</w>
+  <absaspan id=7>
+    <w>när</w>
+    <w>konjunkturen</w>
+    <w>går</w>
+    <w>ner</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=8 senti=1>
+    <w>blodet</w>
+    <w>kommer</w>
+    <w>flyta</w>
+    <w>på</w>
+    <w>gatorna</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Ett</w>
+  <absaspan id=9 senti=2>
+    <w>alliansbråk</w>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>vägran</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>att</w>
+    <w>samarbeta</w>
+    <w>med</w>
+    <w>SD</w>
+  </absaspan>
+  <w>ger</w>
+  <absaspan id=12>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>bra</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>skäl</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>att</w>
+    <w>låta</w>
+  </absaspan>
+  <absaspan id=16 senti=1>
+    <w>maktkåta</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>svetsarn</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>fortsätta</w>
+    <w>rätta</w>
+    <w>Sverige</w>
+    <w>ner</w>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>fördärvet</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>.</w>
+  </absaspan>
+  <w>Mp</w>
+  <w>kanske</w>
+  <w>byts</w>
+  <w>mot</w>
+  <w>Fi</w>
+  <absaspan id=21 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Kommer</w>
+  <w>vara</w>
+  <absaspan id=22 senti=4>
+    <w>öppet</w>
+    <w>mål</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>att</w>
+    <w>sitta</w>
+    <w>i</w>
+    <w>opposition</w>
+    <w>efter</w>
+    <w>valet</w>
+  </absaspan>
+  <w>,</w>
+  <w>speciellt</w>
+  <w>som</w>
+  <absaspan id=24>
+    <w>sossarna</w>
+    <w>haft</w>
+    <w>föregående</w>
+    <w>mandatperiod</w>
+  </absaspan>
+  <w>och</w>
+  <w>därför</w>
+  <absaspan id=25 senti=4>
+    <w>inte</w>
+    <w>kan</w>
+    <w>skylla</w>
+    <w>på</w>
+    <w>att</w>
+    <w>de</w>
+    <w>ärvde</w>
+  </absaspan>
+  <absaspan id=26 senti=4>
+    <w>eländet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=27>
+    <w>De</w>
+  </absaspan>
+  <w>kanske</w>
+  <absaspan id=28 senti=4>
+    <w>räknar</w>
+    <w>kallt</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>en</w>
+    <w>krasch</w>
+    <w>åtföljd</w>
+    <w>av</w>
+    <w>revolution</w>
+    <w>inom</w>
+    <w>2</w>
+    <w>år</w>
+    <w>och</w>
+    <w>sedan</w>
+    <w>när</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>Mp</w>
+    <w>/</w>
+    <w>Fi</w>
+    <w>/</w>
+    <w>S</w>
+    <w>politikerna</w>
+  </absaspan>
+  <absaspan id=31 senti=1>
+    <w>dinglar</w>
+    <w>från</w>
+    <w>gatlamporna</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>så</w>
+    <w>sveper</w>
+    <w>de</w>
+    <w>in</w>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=33 senti=4>
+    <w>säkrar</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>makten</w>
+    <w>för</w>
+    <w>lång</w>
+    <w>tid</w>
+    <w>framöver</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Vad</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

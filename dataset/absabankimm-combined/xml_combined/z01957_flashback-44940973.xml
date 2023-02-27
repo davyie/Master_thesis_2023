@@ -1,0 +1,52 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <absaspan id=1 senti=3>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>20%</w>
+  <w>av</w>
+  <w>sveriges</w>
+  <w>befolkning</w>
+  <w>har</w>
+  <w>invandrat</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>#</w>
+  <w>P</w>
+  <absaspan id=2 senti=3>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>20%</w>
+  <w>av</w>
+  <w>sveriges</w>
+  <w>befolkning</w>
+  <w>har</w>
+  <w>invandrat</w>
+  <w>.</w>
+  <w>Ser</w>
+  <absaspan id=3>
+    <w>ni</w>
+  </absaspan>
+  <w>några</w>
+  <absaspan id=4 senti=2>
+    <w>problem</w>
+  </absaspan>
+  <w>eller</w>
+  <absaspan id=5 senti=4>
+    <w>fördelar</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>detta</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

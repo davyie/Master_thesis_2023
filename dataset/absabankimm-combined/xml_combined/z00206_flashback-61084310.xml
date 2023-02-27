@@ -1,0 +1,297 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Beror</w>
+  <w>en</w>
+  <w>stor</w>
+  <w>del</w>
+  <w>av</w>
+  <w>brotten</w>
+  <w>som</w>
+  <w>begås</w>
+  <w>av</w>
+  <absaspan id=1>
+    <w>invandrare</w>
+  </absaspan>
+  <w>p.g.a</w>
+  <w>.</w>
+  <absaspan id=2 senti=2>
+    <w>avundsjuka</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Då</w>
+  <w>o</w>
+  <w>då</w>
+  <w>(</w>
+  <w>eller</w>
+  <w>ganska</w>
+  <w>ofta</w>
+  <w>)</w>
+  <w>läser</w>
+  <w>man</w>
+  <w>t.ex</w>
+  <w>.</w>
+  <w>sånt</w>
+  <w>här</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <w>Tror</w>
+  <w>ni</w>
+  <w>att</w>
+  <w>en</w>
+  <w>stor</w>
+  <w>del</w>
+  <w>av</w>
+  <w>brotten</w>
+  <w>som</w>
+  <w>begås</w>
+  <w>av</w>
+  <absaspan id=3>
+    <w>invandrare</w>
+  </absaspan>
+  <w>mot</w>
+  <absaspan id=4>
+    <w>svenskar</w>
+  </absaspan>
+  <w>beror</w>
+  <w>på</w>
+  <absaspan id=5 senti=2>
+    <w>avundsjuka</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=6>
+    <w>Medelsvensken</w>
+  </absaspan>
+  <w>har</w>
+  <absaspan id=7 senti=4>
+    <w>god</w>
+    <w>hälsa</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=8 senti=4>
+    <w>gott</w>
+    <w>ekonomiskt</w>
+    <w>ställt</w>
+  </absaspan>
+  <w>,</w>
+  <w>ett</w>
+  <absaspan id=9 senti=4>
+    <w>gott</w>
+    <w>förhållande</w>
+  </absaspan>
+  <w>,</w>
+  <w>ett</w>
+  <absaspan id=10 senti=4>
+    <w>bra</w>
+    <w>jobb</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=11 senti=4>
+    <w>trivsamt</w>
+    <w>boende</w>
+  </absaspan>
+  <w>,</w>
+  <w>m.m</w>
+  <w>.</w>
+  <w>De</w>
+  <w>som</w>
+  <w>"</w>
+  <w>flyr</w>
+  <w>"</w>
+  <w>hit</w>
+  <w>,</w>
+  <w>tänker</w>
+  <w>mest</w>
+  <w>på</w>
+  <absaspan id=12>
+    <w>MENA-invandrare</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=13 senti=4>
+    <w>längtar</w>
+    <w>efter</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=14>
+    <w>få</w>
+    <w>leva</w>
+  </absaspan>
+  <absaspan id=15 senti=4>
+    <w>den</w>
+    <w>svenska</w>
+    <w>drömmen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Men</w>
+  <w>så</w>
+  <w>när</w>
+  <w>de</w>
+  <w>kommer</w>
+  <w>hit</w>
+  <w>,</w>
+  <w>så</w>
+  <w>visar</w>
+  <w>det</w>
+  <w>sig</w>
+  <w>att</w>
+  <w>de</w>
+  <w>inte</w>
+  <w>får</w>
+  <w>ett</w>
+  <w>bra</w>
+  <w>jobb</w>
+  <w>,</w>
+  <w>en</w>
+  <w>svensk</w>
+  <w>tjej</w>
+  <w>,</w>
+  <w>trivsamt</w>
+  <w>boende</w>
+  <w>.</w>
+  <absaspan id=16>
+    <w>De</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>överöses</w>
+    <w>med</w>
+    <w>bidrag</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>det</w>
+  <w>är</w>
+  <absaspan id=18>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>inte</w>
+    <w>nöjda</w>
+    <w>med</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=20>
+    <w>De</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>proppas</w>
+    <w>in</w>
+    <w>på</w>
+    <w>nått</w>
+    <w>asylboende</w>
+  </absaspan>
+  <w>o</w>
+  <absaspan id=22 senti=2>
+    <w>klagar</w>
+    <w>på</w>
+    <w>allt</w>
+    <w>som</w>
+    <w>går</w>
+    <w>att</w>
+    <w>klaga</w>
+    <w>på</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=1>
+  <w>Så</w>
+  <absaspan id=23 senti=1>
+    <w>börjar</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>de</w>
+  </absaspan>
+  <w>med</w>
+  <w>sin</w>
+  <absaspan id=25 senti=1>
+    <w>brottslighet</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=26>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=27 senti=1>
+    <w>stjäl</w>
+  </absaspan>
+  <w>från</w>
+  <w>oss</w>
+  <w>,</w>
+  <absaspan id=28 senti=1>
+    <w>våldtar</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=29 senti=1>
+    <w>misshandlar</w>
+  </absaspan>
+  <w>,</w>
+  <w>m.m</w>
+  <w>.</w>
+  <w>när</w>
+  <w>de</w>
+  <w>inser</w>
+  <w>att</w>
+  <w>de</w>
+  <w>blivit</w>
+  <w>2</w>
+  <absaspan id=30 senti=2>
+    <w>:</w>
+    <w>a</w>
+  </absaspan>
+  <absaspan id=31 senti=2>
+    <w>klassens</w>
+    <w>invånare</w>
+  </absaspan>
+  <w>som</w>
+  <w>egentligen</w>
+  <absaspan id=32>
+    <w>ingen</w>
+  </absaspan>
+  <absaspan id=33 senti=2>
+    <w>vill</w>
+    <w>ha</w>
+    <w>att</w>
+    <w>göra</w>
+    <w>med</w>
+  </absaspan>
+  <w>.</w>
+  <w>Möjligen</w>
+  <w>nån</w>
+  <absaspan id=34 senti=2>
+    <w>batikhäxa</w>
+  </absaspan>
+  <w>från</w>
+  <w>#</w>
+  <w>vistårinteut</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=1>
+  <w>Jag</w>
+  <w>tror</w>
+  <w>en</w>
+  <w>stor</w>
+  <w>del</w>
+  <w>beror</w>
+  <w>på</w>
+  <absaspan id=35 senti=2>
+    <w>avundsjuka</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>.</w>
+  </absaspan>
+  <w>Tillsammans</w>
+  <w>med</w>
+  <absaspan id=37>
+    <w>deras</w>
+  </absaspan>
+  <absaspan id=38 senti=1>
+    <w>våldsamma</w>
+    <w>kultur</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,226 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Du</w>
+    <w>mångkulturalist</w>
+  </absaspan>
+  <w>,</w>
+  <w>varför</w>
+  <w>alltid</w>
+  <absaspan id=2 senti=2 target=1>
+    <w>så</w>
+    <w>trång</w>
+    <w>i</w>
+    <w>tanken</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Varför</w>
+  <absaspan id=3 senti=2>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>ni</w>
+    <w>mångkulturalister</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>alltid</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>så</w>
+    <w>trångt</w>
+    <w>anala</w>
+    <w>i</w>
+    <w>ert</w>
+    <w>tänkande</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Sverige</w>
+  <w>ska</w>
+  <w>antingen</w>
+  <w>släppa</w>
+  <w>in</w>
+  <w>varenda</w>
+  <absaspan id=7 senti=2>
+    <w>svartmusking</w>
+  </absaspan>
+  <w>som</w>
+  <w>kliver</w>
+  <w>över</w>
+  <w>gränsen</w>
+  <w>eller</w>
+  <w>så</w>
+  <absaspan id=8 senti=1>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=10 senti=1>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=11 senti=1>
+    <w>främlingsfientligt</w>
+    <w>land</w>
+  </absaspan>
+  <w>om</w>
+  <w>detta</w>
+  <w>inte</w>
+  <w>sker</w>
+  <absaspan id=12>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=2>
+  <absaspan id=13>
+    <w>Alla</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>krigsförbrytare</w>
+    <w>,</w>
+    <w>vanliga</w>
+    <w>yrkeskriminella</w>
+    <w>,</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>bidragssnyltare</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>PUT-fuskare</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>(</w>
+    <w>t.ex</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>skägg"barnen</w>
+  </absaspan>
+  <absaspan id=20 senti=2>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>eller</w>
+    <w>de</w>
+    <w>apatiska</w>
+    <w>familjerna</w>
+    <w>)</w>
+  </absaspan>
+  <w>är</w>
+  <w>tydligen</w>
+  <w>lika</w>
+  <w>välkomna</w>
+  <w>som</w>
+  <w>skötsamme</w>
+  <w>Achmed</w>
+  <w>som</w>
+  <w>vill</w>
+  <w>jobba</w>
+  <w>och</w>
+  <w>leva</w>
+  <w>i</w>
+  <w>lugn</w>
+  <w>och</w>
+  <w>ro</w>
+  <absaspan id=22 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>Hur</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>vara</w>
+  <w>så</w>
+  <w>trång</w>
+  <w>i</w>
+  <w>tanken</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=2>
+  <w>Hur</w>
+  <w>kommer</w>
+  <w>det</w>
+  <w>sig</w>
+  <w>att</w>
+  <absaspan id=23>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=25 senti=3>
+    <w>inte</w>
+    <w>har</w>
+    <w>något</w>
+    <w>emot</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>skötsamme</w>
+    <w>Achmed</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>,</w>
+    <w>men</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=29 senti=1>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>för</w>
+    <w>den</w>
+    <w>skull</w>
+  </absaspan>
+  <absaspan id=31 senti=1>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=32 senti=1>
+    <w>veta</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>de</w>
+    <w>föregående</w>
+    <w>grupperingarna</w>
+  </absaspan>
+  <w>,</w>
+  <w>alltid</w>
+  <w>ska</w>
+  <w>få</w>
+  <w>höra</w>
+  <w>hur</w>
+  <absaspan id=34>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=35 senti=1>
+    <w>vill</w>
+    <w>sparka</w>
+    <w>ut</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>alla</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>(</w>
+  <w>särskilt</w>
+  <w>skötsamme</w>
+  <w>Achmed</w>
+  <w>vill</w>
+  <w>vi</w>
+  <w>tydligen</w>
+  <w>sparka</w>
+  <w>ut</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+</absadoc>

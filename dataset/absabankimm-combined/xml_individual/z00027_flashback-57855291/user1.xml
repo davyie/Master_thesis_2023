@@ -1,0 +1,88 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Dåliga</w>
+    <w>nyheter</w>
+  </absaspan>
+  <w>i</w>
+  <w>SVD</w>
+  <w>:</w>
+  <w>"</w>
+  <absaspan id=2>
+    <w>EU</w>
+    <w>kan</w>
+    <w>stoppa</w>
+    <w>återgång</w>
+    <w>till</w>
+    <w>generös</w>
+    <w>flyktingpolitik</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Hur</w>
+  <w>ska</w>
+  <w>vi</w>
+  <w>agera</w>
+  <w>för</w>
+  <w>att</w>
+  <w>få</w>
+  <w>tillbaka</w>
+  <w>den</w>
+  <w>generösa</w>
+  <w>flyktingpolitiken</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Kan</w>
+  <w>man</w>
+  <w>använda</w>
+  <w>sig</w>
+  <w>av</w>
+  <w>något</w>
+  <w>trick</w>
+  <w>med</w>
+  <w>arbetskraftsinvandring</w>
+  <w>/</w>
+  <w>studier</w>
+  <w>skenäktenskap</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Finns</w>
+  <w>det</w>
+  <w>någon</w>
+  <w>som</w>
+  <w>stöder</w>
+  <absaspan id=3>
+    <w>EUs</w>
+    <w>förslag</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=4 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>Kommer</w>
+  <w>SD</w>
+  <w>i</w>
+  <w>och</w>
+  <w>med</w>
+  <w>detta</w>
+  <w>att</w>
+  <w>tvingas</w>
+  <w>dra</w>
+  <w>tillbaka</w>
+  <w>folkomröstningsförslaget</w>
+  <w>om</w>
+  <w>att</w>
+  <w>lämna</w>
+  <w>EU</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

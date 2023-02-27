@@ -1,0 +1,246 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Replik</w>
+  <w>:</w>
+  <absaspan id=1>
+    <w>Folkpartiet</w>
+  </absaspan>
+  <absaspan id=2 senti=3 target=1>
+    <w>inte</w>
+    <w>främlingsfientligt</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Jan</w>
+    <w>Åberg</w>
+  </absaspan>
+  <w>från</w>
+  <w>Göteborgs</w>
+  <w>antidiskrimineringsbyrå</w>
+  <w>upprepar</w>
+  <w>i</w>
+  <w>den</w>
+  <w>29</w>
+  <w>augusti</w>
+  <absaspan id=4 senti=2>
+    <w>anklagelserna</w>
+  </absaspan>
+  <w>mot</w>
+  <absaspan id=5>
+    <w>folkpartiet</w>
+  </absaspan>
+  <w>–</w>
+  <absaspan id=6>
+    <w>språktester</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=7 senti=2>
+    <w>främlingsfientlighet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=8>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>vädjar</w>
+  </absaspan>
+  <w>till</w>
+  <absaspan id=10>
+    <w>alla</w>
+    <w>mina</w>
+    <w>syskon</w>
+    <w>i</w>
+    <w>migrationens</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>:</w>
+  <w>tro</w>
+  <w>inte</w>
+  <w>på</w>
+  <w>honom</w>
+  <w>!</w>
+  <absaspan id=11 senti=4>
+    <w>Att</w>
+    <w>visa</w>
+    <w>respekt</w>
+  </absaspan>
+  <w>för</w>
+  <w>det</w>
+  <absaspan id=12>
+    <w>svenska</w>
+    <w>språket</w>
+  </absaspan>
+  <w>betyder</w>
+  <w>att</w>
+  <absaspan id=13 senti=4>
+    <w>visa</w>
+    <w>uppskattning</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=14>
+    <w>alla</w>
+    <w>språk</w>
+  </absaspan>
+  <w>,</w>
+  <w>att</w>
+  <absaspan id=15>
+    <w>göra</w>
+    <w>landets</w>
+    <w>kulturarv</w>
+    <w>känt</w>
+  </absaspan>
+  <w>är</w>
+  <w>ett</w>
+  <w>sätt</w>
+  <w>att</w>
+  <absaspan id=16 senti=4>
+    <w>skapa</w>
+    <w>vördnad</w>
+  </absaspan>
+  <w>för</w>
+  <w>alla</w>
+  <w>kulturer</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Kom</w>
+  <w>ihåg</w>
+  <absaspan id=17>
+    <w>kurdernas</w>
+  </absaspan>
+  <absaspan id=18 senti=4>
+    <w>kamp</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>för</w>
+    <w>eget</w>
+    <w>språk</w>
+  </absaspan>
+  <w>,</w>
+  <w>egen</w>
+  <w>kultur</w>
+  <w>:</w>
+  <w>varje</w>
+  <w>folks</w>
+  <w>identitet</w>
+  <w>är</w>
+  <w>sammanvuxen</w>
+  <w>med</w>
+  <absaspan id=20 senti=4>
+    <w>djup</w>
+    <w>kunskap</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=21>
+    <w>kulturarvet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Varför</w>
+  <w>skulle</w>
+  <w>just</w>
+  <absaspan id=22>
+    <w>vår</w>
+    <w>befolkning</w>
+  </absaspan>
+  <absaspan id=23 senti=2>
+    <w>inte</w>
+    <w>ha</w>
+    <w>rätt</w>
+    <w>till</w>
+  </absaspan>
+  <w>det</w>
+  <w>som</w>
+  <w>utgör</w>
+  <w>samhällets</w>
+  <w>identitet</w>
+  <w>?</w>
+  <w>Får</w>
+  <w>inte</w>
+  <w>svenskarna</w>
+  <w>vara</w>
+  <w>svenskar</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=24>
+    <w>Folkpartiet</w>
+  </absaspan>
+  <absaspan id=25 senti=4>
+    <w>försäkrar</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=26>
+    <w>testet</w>
+    <w>inte</w>
+    <w>skulle</w>
+    <w>kräva</w>
+    <w>avancerade</w>
+    <w>kunskaper</w>
+  </absaspan>
+  <w>och</w>
+  <w>att</w>
+  <w>människor</w>
+  <w>utan</w>
+  <w>inlärningsförmåga</w>
+  <w>ska</w>
+  <w>få</w>
+  <w>dispens</w>
+  <w>.</w>
+  <absaspan id=27>
+    <w>Folkpartiet</w>
+  </absaspan>
+  <absaspan id=28 senti=4>
+    <w>verkar</w>
+  </absaspan>
+  <w>för</w>
+  <w>arbetskraftsinvandring</w>
+  <w>och</w>
+  <absaspan id=29 senti=4>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=30 senti=4>
+    <w>att</w>
+    <w>övertyga</w>
+  </absaspan>
+  <w>fler</w>
+  <absaspan id=31>
+    <w>kommuner</w>
+  </absaspan>
+  <w>att</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>flyktingar</w>
+  <w>.</w>
+  <w>Ingen</w>
+  <w>främlingsfientlig</w>
+  <w>grupp</w>
+  <w>agerar</w>
+  <w>för</w>
+  <w>ökad</w>
+  <w>invandring</w>
+  <w>–</w>
+  <w>vilket</w>
+  <w>är</w>
+  <w>just</w>
+  <w>det</w>
+  <w>vi</w>
+  <w>gör</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Ana</w>
+  <w>Maria</w>
+  <w>Narti</w>
+  <w>,</w>
+  <w>Riksdagsledamot</w>
+  <w>[</w>
+  <w>fp</w>
+  <w>]</w>
+  <w>.</w>
+</absapar>
+</absadoc>

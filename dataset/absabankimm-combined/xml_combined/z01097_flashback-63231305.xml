@@ -1,0 +1,109 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Skolskjutning</w>
+  <w>i</w>
+  <w>USA</w>
+  <w>,</w>
+  <w>Florida</w>
+  <w>,</w>
+  <w>minst</w>
+  <w>17</w>
+  <w>döda</w>
+  <w>(</w>
+  <w>2018</w>
+  <w>-</w>
+  <w>02</w>
+  <w>-</w>
+  <w>14</w>
+  <w>)</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Väldigt</w>
+  <absaspan id=1 senti=2>
+    <w>knapphändiga</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>uppgifter</w>
+  </absaspan>
+  <w>än</w>
+  <w>så</w>
+  <w>länge</w>
+  <w>men</w>
+  <w>det</w>
+  <w>verkar</w>
+  <w>röra</w>
+  <w>sig</w>
+  <w>om</w>
+  <w>åtminstone</w>
+  <w>20</w>
+  <w>skadade</w>
+  <w>.</w>
+  <w>Finns</w>
+  <w>inga</w>
+  <w>uppgifter</w>
+  <w>om</w>
+  <w>att</w>
+  <w>någon</w>
+  <w>ska</w>
+  <w>ha</w>
+  <w>dödats</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Marjory</w>
+  <w>Stoneman</w>
+  <w>Douglas</w>
+  <w>High</w>
+  <w>School</w>
+  <w>ska</w>
+  <w>vara</w>
+  <w>skolan</w>
+  <w>där</w>
+  <w>detta</w>
+  <w>utspelas</w>
+  <w>.</w>
+  <w>Skolan</w>
+  <w>ligger</w>
+  <w>i</w>
+  <w>staden</w>
+  <w>Parkland</w>
+  <w>i</w>
+  <w>Florida</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Kan</w>
+  <w>det</w>
+  <w>ha</w>
+  <w>att</w>
+  <w>göra</w>
+  <w>med</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>alla</w>
+  <w>hjärtans</w>
+  <w>dag</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>?</w>
+  <w>Kanske</w>
+  <w>någon</w>
+  <absaspan id=3>
+    <w>förvirrad</w>
+    <w>själ</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=4 senti=2>
+    <w>är</w>
+    <w>bitter</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>över</w>
+    <w>sin</w>
+    <w>ensamhet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

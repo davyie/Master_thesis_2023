@@ -1,0 +1,194 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>SVT</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>hänger</w>
+    <w>ut</w>
+  </absaspan>
+  <w>hyresvärd</w>
+  <w>som</w>
+  <absaspan id=3 senti=1 target=3>
+    <w>rasist-föredrar</w>
+  </absaspan>
+  <w>svenska</w>
+  <w>hyresgäster</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>För</w>
+  <w>att</w>
+  <w>få</w>
+  <w>hyra</w>
+  <w>lägenhet</w>
+  <w>hos</w>
+  <w>den</w>
+  <w>privata</w>
+  <w>hyresvärden</w>
+  <w>Curt</w>
+  <w>Lundahl</w>
+  <w>i</w>
+  <w>Göteborg</w>
+  <w>krävs</w>
+  <w>att</w>
+  <w>den</w>
+  <w>sökande</w>
+  <w>fyller</w>
+  <w>i</w>
+  <w>nationalitet</w>
+  <w>och</w>
+  <w>hur</w>
+  <w>länge</w>
+  <w>man</w>
+  <w>bott</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+  <w>När</w>
+  <w>SVT</w>
+  <w>ringer</w>
+  <w>upp</w>
+  <w>och</w>
+  <w>begär</w>
+  <w>en</w>
+  <w>intresseanmälan</w>
+  <w>på</w>
+  <w>bruten</w>
+  <w>svenska</w>
+  <w>så</w>
+  <w>får</w>
+  <w>man</w>
+  <w>ingen</w>
+  <w>ens</w>
+  <w>tillskickad</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=4>
+    <w>när</w>
+    <w>man</w>
+    <w>ringer</w>
+    <w>upp</w>
+    <w>och</w>
+    <w>presenterar</w>
+    <w>sig</w>
+    <w>som</w>
+    <w>"</w>
+    <w>Hanna</w>
+    <w>"</w>
+    <w>och</w>
+    <w>pratar</w>
+    <w>ren</w>
+    <w>svenska</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>är</w>
+    <w>det</w>
+    <w>inga</w>
+    <w>problem</w>
+  </absaspan>
+  <w>.</w>
+  <w>Huset</w>
+  <w>kallas</w>
+  <w>av</w>
+  <absaspan id=6>
+    <w>grannarna</w>
+  </absaspan>
+  <w>för</w>
+  <w>"</w>
+  <absaspan id=7 senti=2>
+    <w>Svenneberget</w>
+  </absaspan>
+  <w>"</w>
+  <w>eller</w>
+  <w>"</w>
+  <absaspan id=8 senti=2>
+    <w>Svenneringen</w>
+  </absaspan>
+  <w>"</w>
+  <w>då</w>
+  <w>det</w>
+  <w>nästan</w>
+  <w>uteslutande</w>
+  <w>bor</w>
+  <w>svenskar</w>
+  <w>i</w>
+  <w>huset</w>
+  <w>i</w>
+  <w>det</w>
+  <w>för</w>
+  <w>övrigt</w>
+  <w>invandrartäta</w>
+  <w>Bergsjön</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=9 senti=4>
+    <w>har</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>en</w>
+    <w>privatvärd</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>rätt</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>att</w>
+    <w>gallra</w>
+    <w>ut</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>folk</w>
+  </absaspan>
+  <absaspan id=14 senti=4>
+    <w>utan</w>
+    <w>referenser</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=15 senti=2>
+    <w>troligen</w>
+    <w>går</w>
+    <w>på</w>
+    <w>socialbidrag</w>
+  </absaspan>
+  <w>eller</w>
+  <w>liknande</w>
+  <w>?</w>
+  <w>Ser</w>
+  <w>man</w>
+  <w>sedan</w>
+  <w>på</w>
+  <w>Bergsjön</w>
+  <w>i</w>
+  <w>stort</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>många</w>
+  <absaspan id=16 senti=2>
+    <w>avskräckande</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>exempel</w>
+  </absaspan>
+  <w>på</w>
+  <w>hur</w>
+  <absaspan id=18>
+    <w>boendemiljön</w>
+  </absaspan>
+  <absaspan id=19 senti=1>
+    <w>är</w>
+    <w>i</w>
+    <w>det</w>
+    <w>närmaste</w>
+    <w>en</w>
+    <w>katastrof</w>
+  </absaspan>
+  <w>i</w>
+  <w>många</w>
+  <w>hus</w>
+  <w>i</w>
+  <w>området</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,50 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Hur</w>
+  <w>är</w>
+  <w>en</w>
+  <w>kvinna</w>
+  <w>som</w>
+  <w>generellt</w>
+  <absaspan id=1 senti=3>
+    <w>anses</w>
+    <w>vara</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>feminin</w>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Majoriteten</w>
+    <w>av</w>
+    <w>män</w>
+  </absaspan>
+  <w>brukar</w>
+  <w>säga</w>
+  <w>att</w>
+  <w>de</w>
+  <absaspan id=4 senti=4>
+    <w>önskar</w>
+    <w>sig</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>en</w>
+    <w>feminin</w>
+    <w>partner</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Generellt</w>
+  <w>,</w>
+  <w>hur</w>
+  <w>är</w>
+  <w>en</w>
+  <w>feminin</w>
+  <w>kvinna</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

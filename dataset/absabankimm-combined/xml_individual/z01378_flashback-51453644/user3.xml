@@ -1,0 +1,110 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Kent</w>
+  <w>Ekeroth</w>
+  <w>vill</w>
+  <w>registrera</w>
+  <w>nationalitet</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ännu</w>
+  <w>en</w>
+  <w>gång</w>
+  <w>har</w>
+  <w>en</w>
+  <w>av</w>
+  <w>SD</w>
+  <w>:</w>
+  <w>s</w>
+  <absaspan id=1 senti=1>
+    <w>mysjudar</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Kent</w>
+    <w>Kazarin</w>
+    <w>Ekeroth</w>
+  </absaspan>
+  <w>,</w>
+  <w>gått</w>
+  <w>ut</w>
+  <w>med</w>
+  <w>en</w>
+  <w>intressant</w>
+  <w>riksdagsmotion</w>
+  <w>:</w>
+  <w>kriminalvården</w>
+  <w>och</w>
+  <w>andra</w>
+  <w>myndigheter</w>
+  <w>skall</w>
+  <w>registrera</w>
+  <w>invandrare</w>
+  <w>,</w>
+  <w>även</w>
+  <w>om</w>
+  <w>personen</w>
+  <w>som</w>
+  <w>registreras</w>
+  <w>är</w>
+  <w>född</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>och</w>
+  <w>dessutom</w>
+  <w>svensk</w>
+  <w>medborgare</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Hur</w>
+  <w>ställer</w>
+  <w>gemene</w>
+  <w>SD-väljare</w>
+  <w>till</w>
+  <w>den</w>
+  <w>här</w>
+  <w>motionen</w>
+  <w>?</w>
+  <w>Skall</w>
+  <w>även</w>
+  <absaspan id=3>
+    <w>Kent</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>Ekeroth</w>
+  </absaspan>
+  <w>registreras</w>
+  <w>då</w>
+  <w>hans</w>
+  <w>mor</w>
+  <w>är</w>
+  <w>en</w>
+  <absaspan id=5 senti=1>
+    <w>gasslukare</w>
+    <w>från</w>
+    <w>Kazakstan</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=6 senti=1>
+    <w>Vilken</w>
+    <w>färg</w>
+    <w>på</w>
+    <w>davidsstjärnan</w>
+    <w>ska</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=8 senti=1>
+    <w>få</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>källa</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+</absadoc>

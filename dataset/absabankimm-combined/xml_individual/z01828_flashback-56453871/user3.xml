@@ -1,0 +1,63 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Ungern</w>
+  <w>folkomröstar</w>
+  <w>om</w>
+  <w>invandringen</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Ungern</w>
+  <w>vill</w>
+  <w>att</w>
+  <w>folket</w>
+  <w>själv</w>
+  <w>där</w>
+  <w>skall</w>
+  <w>få</w>
+  <w>bestämma</w>
+  <w>om</w>
+  <w>invandringspolitiken</w>
+  <w>och</w>
+  <w>inte</w>
+  <w>EU</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Är</w>
+  <w>det</w>
+  <w>något</w>
+  <w>som</w>
+  <w>Sverige</w>
+  <w>borde</w>
+  <w>ta</w>
+  <w>efter</w>
+  <w>?</w>
+  <w>vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>Själv</w>
+  <w>tycker</w>
+  <w>jag</w>
+  <w>att</w>
+  <w>dom</w>
+  <absaspan id=1>
+    <w>enskilda</w>
+    <w>länderna</w>
+    <w>själva</w>
+    <w>skall</w>
+    <w>få</w>
+    <w>avgöra</w>
+    <w>sin</w>
+    <w>egen</w>
+    <w>flykting</w>
+    <w>/</w>
+    <w>invandrar</w>
+    <w>politik</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

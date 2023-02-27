@@ -1,0 +1,262 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=4 partof=3>
+    <w>Är</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>alla</w>
+    <w>socialdemokrater</w>
+  </absaspan>
+  <absaspan id=3 senti=2 target=3 source=2>
+    <w>multikulti-positiva</w>
+  </absaspan>
+  <w>och</w>
+  <w>naiva</w>
+  <w>vad</w>
+  <w>gäller</w>
+  <w>invandringspolitik</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Efter</w>
+  <w>de</w>
+  <w>senaste</w>
+  <w>årens</w>
+  <absaspan id=4 senti=2>
+    <w>kaospolitik</w>
+  </absaspan>
+  <w>(</w>
+  <w>okontrollerad</w>
+  <w>invandring</w>
+  <w>,</w>
+  <w>moskébyggen</w>
+  <w>,</w>
+  <w>våldtäktsvåger</w>
+  <w>,</w>
+  <w>t.o.m</w>
+  <w>.</w>
+  <w>terrordåd</w>
+  <w>)</w>
+  <absaspan id=5 senti=2>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>ytterst</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>svårt</w>
+    <w>att</w>
+    <w>förknippa</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>detta</w>
+    <w>Kalle</w>
+    <w>Anka-parti</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>med</w>
+    <w>något</w>
+    <w>annat</w>
+    <w>än</w>
+    <w>den</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>skit</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>de</w>
+    <w>skapat</w>
+    <w>för</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>.</w>
+  <w>Istället</w>
+  <absaspan id=13 senti=2>
+    <w>ser</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>jag</w>
+    <w>partiet</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>det</w>
+    <w>värsta</w>
+    <w>jävelskapet</w>
+    <w>som</w>
+    <w>tillkommit</w>
+    <w>i</w>
+    <w>landets</w>
+    <w>historia</w>
+  </absaspan>
+  <w>-</w>
+  <w>på</w>
+  <w>bara</w>
+  <w>ett</w>
+  <w>fåtal</w>
+  <w>år</w>
+  <w>har</w>
+  <w>de</w>
+  <w>raserat</w>
+  <w>"</w>
+  <absaspan id=17 senti=4>
+    <w>det</w>
+    <w>goda</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>samhälle</w>
+  </absaspan>
+  <w>"</w>
+  <w>som</w>
+  <w>i</w>
+  <w>generationer</w>
+  <w>byggts</w>
+  <w>upp</w>
+  <w>.</w>
+  <w>Inte</w>
+  <w>nog</w>
+  <w>med</w>
+  <w>att</w>
+  <w>de</w>
+  <w>har</w>
+  <w>initierat</w>
+  <w>det</w>
+  <w>största</w>
+  <w>folkutbytet</w>
+  <w>genom</w>
+  <w>historien</w>
+  <w>,</w>
+  <w>de</w>
+  <w>önskar</w>
+  <w>även</w>
+  <w>att</w>
+  <w>på</w>
+  <w>alla</w>
+  <w>möjliga</w>
+  <w>och</w>
+  <w>omöjliga</w>
+  <w>sätt</w>
+  <w>höja</w>
+  <w>skatterna</w>
+  <w>så</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>måltavlor</w>
+  <w>själva</w>
+  <w>ska</w>
+  <w>finansiera</w>
+  <w>vår</w>
+  <w>egen</w>
+  <w>död</w>
+  <w>(</w>
+  <w>såväl</w>
+  <w>kulturell</w>
+  <w>som</w>
+  <w>bokstavlig</w>
+  <w>sådan</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Så</w>
+  <w>fort</w>
+  <w>jag</w>
+  <w>ser</w>
+  <w>en</w>
+  <w>socialdemokrat</w>
+  <w>på</w>
+  <w>TV</w>
+  <w>handlar</w>
+  <w>det</w>
+  <w>om</w>
+  <absaspan id=19 senti=2>
+    <w>något</w>
+    <w>idiotämne</w>
+    <w>såsom</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>multikulti</w>
+    <w>,</w>
+    <w>invandring</w>
+    <w>,</w>
+    <w>"</w>
+    <w>asyl"boende</w>
+    <w>och</w>
+    <w>annat</w>
+    <w>som</w>
+    <w>enbart</w>
+    <w>är</w>
+    <w>ägnat</w>
+    <w>att</w>
+    <w>rasera</w>
+    <w>landet</w>
+  </absaspan>
+  <w>(</w>
+  <w>eller</w>
+  <w>rättare</w>
+  <w>sagt</w>
+  <w>de</w>
+  <w>smulor</w>
+  <w>av</w>
+  <w>det</w>
+  <w>som</w>
+  <w>en</w>
+  <w>gång</w>
+  <w>var</w>
+  <w>Sverige</w>
+  <w>som</w>
+  <w>finns</w>
+  <w>kvar</w>
+  <w>)</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>kan</w>
+  <w>varenda</w>
+  <w>replik</w>
+  <w>utantill</w>
+  <w>,</w>
+  <w>"</w>
+  <w>höj</w>
+  <w>skatterna</w>
+  <w>"</w>
+  <w>,</w>
+  <w>"</w>
+  <w>öka</w>
+  <w>invandringen</w>
+  <w>"</w>
+  <w>eller</w>
+  <w>"</w>
+  <w>svenskarna</w>
+  <w>är</w>
+  <w>rasister</w>
+  <w>!</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=21 senti=2>
+    <w>Finns</w>
+    <w>det</w>
+    <w>ens</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>socialdemokrater</w>
+  </absaspan>
+  <absaspan id=23 senti=2>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=24 senti=2>
+    <w>är</w>
+    <w>vettiga</w>
+    <w>i</w>
+    <w>skallen</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

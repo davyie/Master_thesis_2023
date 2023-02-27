@@ -1,0 +1,178 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Mångkulturellt</w>
+    <w>Centrum</w>
+    <w>i</w>
+    <w>Botkyrka</w>
+  </absaspan>
+  <absaspan id=2 senti=1>
+    <w>framställer</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>demokrati</w>
+    <w>och</w>
+    <w>polis</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>som</w>
+    <w>ondskefull</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=5>
+    <w>I</w>
+  </absaspan>
+  <absaspan id=6 senti=4 irony>
+    <w>de</w>
+    <w>barmhärtiga</w>
+    <w>Samariernas</w>
+    <w>fäste</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>Botkyrka</w>
+  </absaspan>
+  <w>tycker</w>
+  <w>man</w>
+  <w>att</w>
+  <absaspan id=8>
+    <w>ungdomar</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>lite</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>öppensinnade</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>polismyndigheten</w>
+    <w>och</w>
+    <w>demokrati</w>
+  </absaspan>
+  <w>.</w>
+  <w>För</w>
+  <w>att</w>
+  <w>tackla</w>
+  <w>problemet</w>
+  <w>har</w>
+  <w>Leif</w>
+  <w>Magnusson</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>i</w>
+  <w>en</w>
+  <w>utställning</w>
+  <w>låtit</w>
+  <w>sätta</w>
+  <w>upp</w>
+  <w>en</w>
+  <w>pappdocka</w>
+  <w>av</w>
+  <w>en</w>
+  <absaspan id=14 senti=2>
+    <w>elak</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>macho</w>
+    <w>snut</w>
+    <w>med</w>
+    <w>armar</w>
+    <w>i</w>
+    <w>kors</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>en</w>
+  <w>text</w>
+  <w>som</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>demokratins</w>
+  <w>våld</w>
+  <w>.</w>
+  <w>Alice</w>
+  <w>Bah</w>
+  <w>Kunke</w>
+  <w>var</w>
+  <w>schemalagd</w>
+  <w>till</w>
+  <w>utställningen</w>
+  <w>men</w>
+  <w>fick</w>
+  <w>förhinder</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=16>
+    <w>MKC</w>
+  </absaspan>
+  <w>har</w>
+  <w>gjort</w>
+  <w>liknande</w>
+  <w>satsningar</w>
+  <w>innan</w>
+  <w>som</w>
+  <w>att</w>
+  <w>sätta</w>
+  <w>upp</w>
+  <w>en</w>
+  <w>stor</w>
+  <w>gatumålning</w>
+  <w>av</w>
+  <absaspan id=17 senti=2>
+    <w>lokala</w>
+    <w>rånare</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=18 senti=4>
+    <w>har</w>
+    <w>förespråkat</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=19>
+    <w>motstånd</w>
+    <w>underifrån</w>
+    <w>"</w>
+    <w>i</w>
+    <w>deras</w>
+    <w>utställning</w>
+    <w>"</w>
+    <w>Nationell</w>
+    <w>Psykos</w>
+    <w>!</w>
+    <w>"</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vad</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>,</w>
+  <w>är</w>
+  <w>det</w>
+  <w>här</w>
+  <w>lösningen</w>
+  <w>?</w>
+  <w>ÄR</w>
+  <w>MKC</w>
+  <w>den</w>
+  <w>enande</w>
+  <w>kraften</w>
+  <w>vi</w>
+  <w>behöver</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

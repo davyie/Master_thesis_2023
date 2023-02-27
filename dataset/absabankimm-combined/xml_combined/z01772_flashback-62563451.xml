@@ -1,0 +1,69 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>#</w>
+  <absaspan id=1 senti=1 target=1>
+    <w>governmentrape</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Bianca</w>
+  <w>Muratagic</w>
+  <w>,</w>
+  <w>sångerska</w>
+  <w>som</w>
+  <w>syns</w>
+  <w>ganska</w>
+  <w>flitigt</w>
+  <w>i</w>
+  <w>social</w>
+  <w>media</w>
+  <w>har</w>
+  <w>startat</w>
+  <w>detta</w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Kommer</w>
+  <absaspan id=2>
+    <w>detta</w>
+  </absaspan>
+  <w>också</w>
+  <absaspan id=3 senti=2>
+    <w>sluta</w>
+    <w>i</w>
+    <w>ett</w>
+    <w>episkt</w>
+    <w>slukhål</w>
+  </absaspan>
+  <w>när</w>
+  <w>allt</w>
+  <w>för</w>
+  <w>många</w>
+  <absaspan id=4 senti=1>
+    <w>dårar</w>
+  </absaspan>
+  <w>anslutit</w>
+  <w>,</w>
+  <w>kommer</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>ens</w>
+  <w>komma</w>
+  <w>ur</w>
+  <w>startblocken</w>
+  <w>eller</w>
+  <w>kan</w>
+  <w>det</w>
+  <w>bli</w>
+  <absaspan id=5 senti=4>
+    <w>något</w>
+    <w>vettigt</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

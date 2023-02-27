@@ -1,0 +1,143 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=1 target=2>
+    <w>Rasistiskt</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>att</w>
+    <w>säga</w>
+  </absaspan>
+  <absaspan id=3 senti=1 target=3>
+    <w>rasist</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4>
+    <w>Journalister</w>
+    <w>och</w>
+    <w>många</w>
+    <w>andra</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>drar</w>
+    <w>sig</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>att</w>
+    <w>använda</w>
+    <w>ordet</w>
+    <w>"</w>
+    <w>ras</w>
+    <w>"</w>
+    <w>när</w>
+    <w>det</w>
+    <w>handlar</w>
+    <w>om</w>
+    <w>människor</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=7>
+    <w>Ordet</w>
+    <w>rasist</w>
+  </absaspan>
+  <w>däremot</w>
+  <absaspan id=8 senti=4>
+    <w>används</w>
+    <w>flitigt</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=9>
+    <w>många</w>
+    <w>i</w>
+    <w>dagens</w>
+    <w>samhälle</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>är</w>
+  <w>ju</w>
+  <w>ett</w>
+  <w>allmänt</w>
+  <w>accepterat</w>
+  <w>ord</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>egentligen</w>
+  <w>handlar</w>
+  <w>väl</w>
+  <w>ordet</w>
+  <w>rasist</w>
+  <w>just</w>
+  <w>om</w>
+  <w>att</w>
+  <w>man</w>
+  <w>skiljer</w>
+  <w>på</w>
+  <w>olika</w>
+  <w>"</w>
+  <w>raser</w>
+  <w>"</w>
+  <w>.</w>
+  <absaspan id=10>
+    <w>De</w>
+    <w>som</w>
+    <w>använder</w>
+    <w>ordet</w>
+    <w>rasist</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>uttrycker</w>
+    <w>enligt</w>
+    <w>mig</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>en</w>
+    <w>skillnad</w>
+    <w>mellan</w>
+    <w>människor</w>
+    <w>som</w>
+    <w>ordagrant</w>
+    <w>delar</w>
+    <w>upp</w>
+    <w>människor</w>
+    <w>i</w>
+    <w>raser</w>
+  </absaspan>
+  <w>.</w>
+  <w>Detta</w>
+  <w>är</w>
+  <w>bara</w>
+  <w>en</w>
+  <w>frågeställning</w>
+  <w>som</w>
+  <w>väckt</w>
+  <w>mig</w>
+  <w>,</w>
+  <w>märk</w>
+  <w>väl</w>
+  <w>att</w>
+  <w>jag</w>
+  <w>personligen</w>
+  <w>generellt</w>
+  <w>sett</w>
+  <w>inte</w>
+  <w>har</w>
+  <w>något</w>
+  <w>mot</w>
+  <w>invandrare</w>
+  <w>eller</w>
+  <w>liknande</w>
+  <w>.</w>
+  <w>Mod</w>
+  <w>får</w>
+  <w>gärna</w>
+  <w>flytta</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>ligger</w>
+  <w>fel</w>
+  <w>.</w>
+</absapar>
+</absadoc>

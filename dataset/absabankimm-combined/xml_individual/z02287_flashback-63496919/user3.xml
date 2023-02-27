@@ -1,0 +1,65 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Varför</w>
+  <w>är</w>
+  <w>du</w>
+  <w>inte</w>
+  <w>feminist</w>
+  <w>?</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>Tror</w>
+  <w>du</w>
+  <w>på</w>
+  <w>jämställdhet</w>
+  <w>mellan</w>
+  <w>alla</w>
+  <w>människor</w>
+  <w>oavsett</w>
+  <w>vilka</w>
+  <w>kön</w>
+  <w>den</w>
+  <w>har</w>
+  <w>?</w>
+  <absaspan id=1 senti=4>
+    <w>Grattis</w>
+  </absaspan>
+  <w>!</w>
+  <w>Då</w>
+  <w>är</w>
+  <absaspan id=2>
+    <w>du</w>
+  </absaspan>
+  <w>feminist</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Jag</w>
+  <w>läser</w>
+  <absaspan id=3 senti=1>
+    <w>mycket</w>
+    <w>skitsnack</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=4>
+    <w>feminism</w>
+  </absaspan>
+  <w>här</w>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=5 senti=1>
+    <w>nu</w>
+    <w>håller</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>du</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>käften</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

@@ -1,0 +1,193 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>ICAKuriren</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=3 source=1>
+    <w>i</w>
+    <w>våldsam</w>
+    <w>attack</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>pursvenskar</w>
+    <w>och</w>
+    <w>SD</w>
+  </absaspan>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4>
+    <w>Den</w>
+    <w>rundlagda</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>batikhäxan</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>Katarina</w>
+    <w>Mazetti</w>
+  </absaspan>
+  <w>,</w>
+  <w>känd</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>för</w>
+  <w>att</w>
+  <w>skrivit</w>
+  <w>boken</w>
+  <w>"</w>
+  <w>Grabben</w>
+  <w>i</w>
+  <w>graven</w>
+  <w>bredvid</w>
+  <w>"</w>
+  <w>,</w>
+  <absaspan id=7 senti=2>
+    <w>går</w>
+    <w>i</w>
+    <w>Icakuriren</w>
+    <w>till</w>
+    <w>chockattack</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>SD</w>
+    <w>och</w>
+    <w>vad</w>
+    <w>som</w>
+    <w>egentligen</w>
+    <w>är</w>
+    <w>svenskt</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Bland</w>
+  <w>annat</w>
+  <w>får</w>
+  <w>vi</w>
+  <w>veta</w>
+  <w>att</w>
+  <w>svensk</w>
+  <w>folkmusik</w>
+  <w>ursprungligen</w>
+  <w>är</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Hon</w>
+  <w>deklarerar</w>
+  <w>vidare</w>
+  <w>att</w>
+  <w>en</w>
+  <w>rejäl</w>
+  <w>del</w>
+  <w>av</w>
+  <w>den</w>
+  <w>svenska</w>
+  <w>befolkningen</w>
+  <w>är</w>
+  <w>svartmuskiga</w>
+  <w>bastarder</w>
+  <w>,</w>
+  <w>i</w>
+  <w>alla</w>
+  <w>fall</w>
+  <w>om</w>
+  <w>man</w>
+  <w>gräver</w>
+  <w>lite</w>
+  <w>i</w>
+  <w>historien</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=9 senti=4 irony>
+    <w>Som</w>
+    <w>grädde</w>
+    <w>på</w>
+    <w>mosen</w>
+  </absaspan>
+  <w>i</w>
+  <w>slutet</w>
+  <w>av</w>
+  <w>artiklen</w>
+  <absaspan id=10>
+    <w>så</w>
+    <w>är</w>
+    <w>tydligen</w>
+    <w>SD</w>
+    <w>:</w>
+    <w>arnas</w>
+    <w>nationaldräkt</w>
+    <w>bland</w>
+    <w>annat</w>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>Hur</w>
+  <w>vida</w>
+  <w>exempelvis</w>
+  <w>Judar</w>
+  <w>eller</w>
+  <w>kurder</w>
+  <w>endast</w>
+  <w>är</w>
+  <w>sociala</w>
+  <w>konstruktioner</w>
+  <w>,</w>
+  <w>utan</w>
+  <w>en</w>
+  <w>egen</w>
+  <w>kultur</w>
+  <w>och</w>
+  <w>folk</w>
+  <w>förtäljs</w>
+  <w>dock</w>
+  <w>inte</w>
+  <w>i</w>
+  <w>artikeln</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Anser</w>
+  <w>ni</w>
+  <w>att</w>
+  <w>Icakuriren</w>
+  <w>har</w>
+  <w>gått</w>
+  <w>lite</w>
+  <w>utanför</w>
+  <w>sina</w>
+  <w>normala</w>
+  <w>ämnen</w>
+  <w>med</w>
+  <w>denna</w>
+  <w>krönika</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Kommer</w>
+  <w>detta</w>
+  <w>få</w>
+  <w>konsekvenser</w>
+  <w>Katarina</w>
+  <w>Mazetti</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Några</w>
+  <w>andra</w>
+  <w>synpunkter</w>
+  <w>?</w>
+  <w>Diskutera</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

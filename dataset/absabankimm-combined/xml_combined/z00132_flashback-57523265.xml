@@ -1,0 +1,98 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Har</w>
+  <w>Carl</w>
+  <w>Tham</w>
+  <w>rätt</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Carl</w>
+  <w>Tham</w>
+  <w>:</w>
+  <w>Här</w>
+  <w>är</w>
+  <w>ditt</w>
+  <w>statsmannatal</w>
+  <w>,</w>
+  <w>Löfven</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=1>
+    <w>Någon</w>
+  </absaspan>
+  <w>kanske</w>
+  <w>tycker</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=2 senti=2>
+    <w>är</w>
+    <w>egendomligt</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>att</w>
+    <w>göra</w>
+    <w>upp</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>Turkiet</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>som</w>
+  </absaspan>
+  <w>ju</w>
+  <absaspan id=6 senti=2>
+    <w>är</w>
+    <w>an</w>
+    <w>halvdiktatur</w>
+  </absaspan>
+  <w>,</w>
+  <w>arresterar</w>
+  <w>oppositionen</w>
+  <w>,</w>
+  <w>beslagtar</w>
+  <w>deras</w>
+  <w>tidningar</w>
+  <w>och</w>
+  <w>skjuter</w>
+  <w>på</w>
+  <w>sin</w>
+  <w>egen</w>
+  <w>befolkning</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>vi</w>
+  <w>i</w>
+  <w>EU</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>intresserade</w>
+  <w>av</w>
+  <w>hur</w>
+  <w>det</w>
+  <w>står</w>
+  <w>till</w>
+  <w>i</w>
+  <w>Turkiet</w>
+  <w>.</w>
+  <w>För</w>
+  <w>oss</w>
+  <w>gäller</w>
+  <w>det</w>
+  <w>att</w>
+  <w>till</w>
+  <w>varje</w>
+  <w>pris</w>
+  <w>förhindra</w>
+  <w>att</w>
+  <w>det</w>
+  <w>kommer</w>
+  <w>fler</w>
+  <w>flyktingar</w>
+  <w>till</w>
+  <w>EU</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,228 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>Svenska</w>
+    <w>kvinnor</w>
+  </absaspan>
+  <absaspan id=2 senti=1 source=1 target=3>
+    <w>vägrar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>ha</w>
+    <w>barn</w>
+  </absaspan>
+  <w>.</w>
+  <w>Konsekvenser</w>
+  <w>för</w>
+  <w>I</w>
+  <w>&</w>
+  <w>I</w>
+  <w>,</w>
+  <w>framtiden</w>
+  <w>,</w>
+  <w>mm</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Lyssnade</w>
+  <w>på</w>
+  <w>Radio</w>
+  <w>på</w>
+  <w>vägen</w>
+  <w>hem</w>
+  <w>från</w>
+  <w>jobbet</w>
+  <w>igår</w>
+  <w>och</w>
+  <w>hörde</w>
+  <w>att</w>
+  <w>rekordmånga</w>
+  <w>svenska</w>
+  <w>kvinnor</w>
+  <w>väljer</w>
+  <w>antingen</w>
+  <w>att</w>
+  <w>ha</w>
+  <w>barn</w>
+  <w>allt</w>
+  <w>senare</w>
+  <w>i</w>
+  <w>livet</w>
+  <w>eller</w>
+  <w>inte</w>
+  <w>skaffa</w>
+  <w>sig</w>
+  <w>några</w>
+  <w>barn</w>
+  <w>alls</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Mycket</w>
+  <w>tyder</w>
+  <w>därmed</w>
+  <w>på</w>
+  <w>att</w>
+  <w>betydligt</w>
+  <w>färre</w>
+  <w>svenska</w>
+  <w>barn</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>födas</w>
+  <w>i</w>
+  <w>framtiden</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Vad</w>
+  <w>det</w>
+  <w>beror</w>
+  <w>på</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>diskutera</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Men</w>
+  <w>jag</w>
+  <w>är</w>
+  <w>mer</w>
+  <w>intresserad</w>
+  <w>för</w>
+  <w>de</w>
+  <w>praktiska</w>
+  <w>konsekvenserna</w>
+  <w>blir</w>
+  <w>av</w>
+  <w>att</w>
+  <absaspan id=4>
+    <w>allt</w>
+    <w>fler</w>
+    <w>svenska</w>
+    <w>kvinnor</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>vägrar</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>ha</w>
+    <w>barn</w>
+  </absaspan>
+  <w>,</w>
+  <w>samtidigt</w>
+  <w>som</w>
+  <w>denna</w>
+  <absaspan id=7 senti=1>
+    <w>massiva</w>
+    <w>invandring</w>
+  </absaspan>
+  <w>från</w>
+  <w>MENA</w>
+  <w>pågår</w>
+  <w>,</w>
+  <w>där</w>
+  <w>de</w>
+  <w>gärna</w>
+  <w>skaffar</w>
+  <w>sig</w>
+  <w>så</w>
+  <w>många</w>
+  <w>barn</w>
+  <w>som</w>
+  <w>möjligt</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Särskilt</w>
+  <w>nu</w>
+  <w>då</w>
+  <w>anhöriginvandringen</w>
+  <w>väntas</w>
+  <w>slå</w>
+  <w>alla</w>
+  <w>tidigare</w>
+  <w>rekord</w>
+  <w>de</w>
+  <w>kommande</w>
+  <w>åren</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=3>
+  <w>Jo</w>
+  <w>,</w>
+  <w>jag</w>
+  <w>vet</w>
+  <w>,</w>
+  <w>svenskar</w>
+  <w>kan</w>
+  <w>bli</w>
+  <w>minoritet</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>utöver</w>
+  <w>det</w>
+  <w>.</w>
+  <w>Vad</w>
+  <w>händer</w>
+  <w>med</w>
+  <w>samhället</w>
+  <w>i</w>
+  <w>sig</w>
+  <w>.</w>
+  <w>Myndighetsfunktioner</w>
+  <w>,</w>
+  <w>rättsväsendet</w>
+  <w>,</w>
+  <w>ekonomin</w>
+  <w>.</w>
+  <w>Hur</w>
+  <w>ser</w>
+  <w>det</w>
+  <w>samhället</w>
+  <w>ut</w>
+  <w>.</w>
+  <w>Där</w>
+  <w>många</w>
+  <w>med</w>
+  <w>invandrarbakgrund</w>
+  <w>har</w>
+  <w>flera</w>
+  <w>familjemedlemmar</w>
+  <w>,</w>
+  <w>medan</w>
+  <w>att</w>
+  <w>svenskar</w>
+  <w>förblir</w>
+  <w>som</w>
+  <w>singlar</w>
+  <w>framöver</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>utan</w>
+  <w>tvekan</w>
+  <absaspan id=8>
+    <w>en</w>
+    <w>samhällsexperiment</w>
+  </absaspan>
+  <absaspan id=9 senti=3>
+    <w>som</w>
+    <w>heter</w>
+    <w>duga</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>vad</w>
+  <w>ser</w>
+  <w>ni</w>
+  <w>i</w>
+  <w>eran</w>
+  <w>spåkula</w>
+  <w>.</w>
+</absapar>
+</absadoc>

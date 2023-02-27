@@ -1,0 +1,441 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=4 target=2>
+    <w>Aldrig</w>
+    <w>en</w>
+    <w>risk</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=2>
+    <w>rösta</w>
+    <w>efter</w>
+    <w>sina</w>
+    <w>värderingar</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ett</w>
+  <w>klargörande</w>
+  <w>,</w>
+  <w>angående</w>
+  <w>Lena</w>
+  <w>Einhorns</w>
+  <w>text</w>
+  <w>:</w>
+  <w>om</w>
+  <w>F</w>
+  <w>!</w>
+  <w>:</w>
+  <w>s</w>
+  <w>3,12</w>
+  <w>procent</w>
+  <w>hade</w>
+  <w>fördelats</w>
+  <w>på</w>
+  <w>de</w>
+  <w>rödgröna</w>
+  <w>så</w>
+  <w>hade</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>stoppat</w>
+  <w>SD</w>
+  <w>:</w>
+  <w>s</w>
+  <w>nuvarande</w>
+  <w>position</w>
+  <w>.</w>
+  <w>Hade</w>
+  <w>vi</w>
+  <w>däremot</w>
+  <w>kommit</w>
+  <w>in</w>
+  <w>hade</w>
+  <w>det</w>
+  <w>förändrat</w>
+  <w>läget</w>
+  <w>.</w>
+  <w>Fyra</w>
+  <w>procent</w>
+  <w>ger</w>
+  <w>17</w>
+  <w>-</w>
+  <w>20</w>
+  <w>mandat</w>
+  <w>.</w>
+  <w>Samma</w>
+  <w>röster</w>
+  <w>fördelade</w>
+  <w>på</w>
+  <w>riksdagspartierna</w>
+  <w>ger</w>
+  <w>mindre</w>
+  <w>utdelning</w>
+  <w>.</w>
+  <w>Så</w>
+  <w>fungerar</w>
+  <w>det</w>
+  <w>svenska</w>
+  <w>proportionalitetssystemet</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <absaspan id=3 senti=4>
+    <w>finns</w>
+    <w>inga</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>bortkastade</w>
+    <w>röster</w>
+    <w>i</w>
+    <w>en</w>
+    <w>demokrati</w>
+  </absaspan>
+  <w>.</w>
+  <w>Den</w>
+  <w>enda</w>
+  <w>röst</w>
+  <w>som</w>
+  <absaspan id=5 senti=2>
+    <w>inte</w>
+    <w>påverkar</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=6>
+    <w>den</w>
+    <w>som</w>
+    <w>aldrig</w>
+    <w>läggs</w>
+  </absaspan>
+  <w>.</w>
+  <w>Alla</w>
+  <w>F</w>
+  <w>!</w>
+  <w>-</w>
+  <absaspan id=7>
+    <w>röster</w>
+    <w>i</w>
+    <w>valet</w>
+  </absaspan>
+  <w>skapade</w>
+  <w>ett</w>
+  <absaspan id=8 senti=5>
+    <w>fantastiskt</w>
+    <w>feministiskt</w>
+    <w>genombrott</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vi</w>
+  <w>är</w>
+  <w>nu</w>
+  <w>representerade</w>
+  <w>i</w>
+  <w>13</w>
+  <w>kommuner</w>
+  <w>och</w>
+  <absaspan id=9 senti=4>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>lyfter</w>
+    <w>upp</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>jämställdhet</w>
+    <w>och</w>
+    <w>antidiskriminering</w>
+  </absaspan>
+  <w>på</w>
+  <w>ett</w>
+  <w>helt</w>
+  <w>nytt</w>
+  <w>sätt</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>betyder</w>
+  <w>att</w>
+  <absaspan id=12>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>stärker</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>demokratins</w>
+    <w>grundläggande</w>
+    <w>värdering</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=15 senti=5>
+    <w>respekten</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=16>
+    <w>varje</w>
+    <w>människas</w>
+    <w>lika</w>
+    <w>värde</w>
+  </absaspan>
+  <w>.</w>
+  <w>Just</w>
+  <w>det</w>
+  <w>som</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>utmanas</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>F</w>
+  <w>!</w>
+  <w>föddes</w>
+  <w>inte</w>
+  <w>som</w>
+  <w>protest</w>
+  <w>mot</w>
+  <w>borgerlig</w>
+  <w>politik</w>
+  <w>utan</w>
+  <w>i</w>
+  <w>en</w>
+  <absaspan id=17 senti=1>
+    <w>frustration</w>
+  </absaspan>
+  <w>över</w>
+  <absaspan id=18>
+    <w>fortsatta</w>
+    <w>löneskillnader</w>
+    <w>,</w>
+    <w>fortsatt</w>
+    <w>ojämnt</w>
+    <w>familjeansvar</w>
+    <w>,</w>
+    <w>fortsatt</w>
+    <w>våld</w>
+    <w>mot</w>
+    <w>kvinnor</w>
+    <w>,</w>
+    <w>fortsatt</w>
+    <w>sexuell</w>
+    <w>exploatering</w>
+    <w>oavsett</w>
+    <w>regering</w>
+  </absaspan>
+  <w>.</w>
+  <w>Insikten</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=19>
+    <w>ett</w>
+    <w>samhälle</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=20 senti=1>
+    <w>kvinnohat</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=22 senti=1>
+    <w>sexism</w>
+  </absaspan>
+  <w>också</w>
+  <absaspan id=23 senti=1>
+    <w>bär</w>
+    <w>rasism</w>
+    <w>,</w>
+    <w>homofobi</w>
+    <w>,</w>
+    <w>transfobi</w>
+    <w>och</w>
+    <w>fördomar</w>
+    <w>mot</w>
+    <w>funktionsvariationer</w>
+  </absaspan>
+  <w>har</w>
+  <w>vuxit</w>
+  <w>.</w>
+  <w>F</w>
+  <w>!</w>
+  <w>finns</w>
+  <w>för</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=24 senti=4>
+    <w>behövs</w>
+  </absaspan>
+  <w>ett</w>
+  <absaspan id=25>
+    <w>parti</w>
+    <w>som</w>
+    <w>synliggör</w>
+    <w>detta</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=26 senti=1>
+    <w>Rasismen</w>
+  </absaspan>
+  <w>är</w>
+  <w>varken</w>
+  <w>könlös</w>
+  <w>eller</w>
+  <w>klasslös</w>
+  <w>.</w>
+  <absaspan id=27 senti=1>
+    <w>Homo</w>
+    <w>-</w>
+    <w>och</w>
+    <w>transfobi</w>
+  </absaspan>
+  <w>finns</w>
+  <w>inte</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>vacuum</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Den</w>
+  <w>ideologi</w>
+  <w>som</w>
+  <absaspan id=28 senti=2>
+    <w>förnekar</w>
+    <w>allas</w>
+    <w>mänskliga</w>
+    <w>rättigheter</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=29>
+    <w>nationalismen</w>
+  </absaspan>
+  <w>.</w>
+  <w>Den</w>
+  <w>ideologi</w>
+  <w>som</w>
+  <absaspan id=30 senti=4>
+    <w>sätter</w>
+    <w>rätten</w>
+    <w>att</w>
+    <w>vara</w>
+    <w>människa</w>
+    <w>först</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=31>
+    <w>feminismen</w>
+  </absaspan>
+  <w>.</w>
+  <w>Begreppet</w>
+  <w>Nation</w>
+  <w>står</w>
+  <w>mot</w>
+  <w>Mänskliga</w>
+  <w>rättigheter</w>
+  <w>,</w>
+  <w>Tradition</w>
+  <w>står</w>
+  <w>mot</w>
+  <w>Kunskap</w>
+  <w>,</w>
+  <w>Norm</w>
+  <w>står</w>
+  <w>mot</w>
+  <w>Normkritik</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Vi</w>
+  <w>vet</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>är</w>
+  <w>större</w>
+  <w>som</w>
+  <w>människor</w>
+  <w>än</w>
+  <w>vad</w>
+  <w>de</w>
+  <absaspan id=32 senti=2>
+    <w>stereotypa</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>könsrollerna</w>
+  </absaspan>
+  <w>erbjuder</w>
+  <w>oss</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>vet</w>
+  <w>att</w>
+  <absaspan id=34>
+    <w>kärleken</w>
+  </absaspan>
+  <absaspan id=35 senti=4>
+    <w>bär</w>
+    <w>en</w>
+    <w>större</w>
+    <w>förändringskraft</w>
+    <w>än</w>
+    <w>rädslan</w>
+  </absaspan>
+  <w>.</w>
+  <w>Hopp</w>
+  <w>i</w>
+  <w>stället</w>
+  <w>för</w>
+  <w>hat</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Att</w>
+  <absaspan id=36>
+    <w>rösta</w>
+    <w>utifrån</w>
+    <w>sina</w>
+    <w>värderingar</w>
+  </absaspan>
+  <absaspan id=37 senti=3>
+    <w>är</w>
+    <w>inte</w>
+    <w>en</w>
+    <w>risk</w>
+  </absaspan>
+  <w>.</w>
+  <w>Gör</w>
+  <w>du</w>
+  <w>inte</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>däremot</w>
+  <w>en</w>
+  <absaspan id=38 senti=2>
+    <w>överhängande</w>
+    <w>risk</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=39>
+    <w>den</w>
+    <w>förändring</w>
+    <w>du</w>
+    <w>vill</w>
+    <w>se</w>
+    <w>aldrig</w>
+    <w>kommer</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Gudrun</w>
+  <w>Schyman</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Feministiskt</w>
+  <w>initiativ</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,149 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Stefan</w>
+  <w>Löfven</w>
+  <w>ska</w>
+  <w>tvinga</w>
+  <w>Polen</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>7000</w>
+  <w>invandrare</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Vad</w>
+  <w>ska</w>
+  <w>Sverige</w>
+  <w>få</w>
+  <w>i</w>
+  <w>utbyte</w>
+  <w>tvinga</w>
+  <w>andra</w>
+  <w>EU</w>
+  <w>länder</w>
+  <w>göra</w>
+  <w>precis</w>
+  <w>som</w>
+  <w>Sverige</w>
+  <w>?</w>
+  <absaspan id=1>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>är</w>
+    <w>väl</w>
+    <w>knappast</w>
+    <w>heller</w>
+    <w>en</w>
+    <w>god</w>
+    <w>förebild</w>
+  </absaspan>
+  <w>visa</w>
+  <w>hur</w>
+  <w>bra</w>
+  <w>integration</w>
+  <w>mångfald</w>
+  <w>mångkultur</w>
+  <w>fungerar</w>
+  <w>skuldbelägger</w>
+  <w>andra</w>
+  <w>länder</w>
+  <w>inte</w>
+  <w>gör</w>
+  <w>som</w>
+  <w>Sverige</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>man</w>
+  <w>håller</w>
+  <w>tyst</w>
+  <w>om</w>
+  <w>när</w>
+  <w>man</w>
+  <w>skuldbelägger</w>
+  <w>andra</w>
+  <w>länder</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Man</w>
+  <w>håller</w>
+  <w>alltså</w>
+  <w>tyst</w>
+  <w>det</w>
+  <w>är</w>
+  <w>stängt</w>
+  <w>,</w>
+  <w>jag</w>
+  <w>har</w>
+  <w>fått</w>
+  <w>ett</w>
+  <w>tips</w>
+  <w>vad</w>
+  <w>Sverige</w>
+  <w>vill</w>
+  <w>ha</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>I</w>
+  <w>vilken</w>
+  <w>makt</w>
+  <w>position</w>
+  <w>har</w>
+  <w>Sverige</w>
+  <w>skuldbelägga</w>
+  <w>andra</w>
+  <w>länder</w>
+  <w>?</w>
+  <w>Vad</w>
+  <w>ska</w>
+  <w>lilla</w>
+  <w>Sverige</w>
+  <w>få</w>
+  <w>tillbaks</w>
+  <w>i</w>
+  <w>utbyte</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <w>Samtidigt</w>
+  <w>som</w>
+  <w>Löfven</w>
+  <w>ska</w>
+  <w>skuldbelägga</w>
+  <w>EU</w>
+  <w>länder</w>
+  <w>avlasta</w>
+  <w>Grekland</w>
+  <w>Italien</w>
+  <w>160000</w>
+  <w>"</w>
+  <w>flyktingar</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=2>
+  <absaspan id=3 senti=2>
+    <w>Vem</w>
+    <w>fan</w>
+    <w>avlastar</w>
+    <w>Sveriges</w>
+    <w>160000</w>
+    <w>"</w>
+    <w>flyktingar</w>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>?</w>
+  </absaspan>
+  <w>Ingen</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

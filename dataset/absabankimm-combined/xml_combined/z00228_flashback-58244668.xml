@@ -1,0 +1,86 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Betongblock</w>
+    <w>släppt</w>
+    <w>från</w>
+    <w>bro</w>
+    <w>i</w>
+    <w>Danmark</w>
+    <w>,</w>
+    <w>en</w>
+    <w>person</w>
+    <w>avliden</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=2 senti=2>
+    <w>Mycket</w>
+    <w>allvarligt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Bilen</w>
+  <w>var</w>
+  <w>inte</w>
+  <w>registrerad</w>
+  <w>tydligen</w>
+  <w>,</w>
+  <w>vad</w>
+  <w>kan</w>
+  <w>det</w>
+  <w>berott</w>
+  <w>på</w>
+  <w>?</w>
+  <w>Flykt</w>
+  <w>?</w>
+  <w>Smugglare</w>
+  <w>?</w>
+  <w>Andra</w>
+  <w>omständigheter</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>En</w>
+  <w>familj</w>
+  <w>färdades</w>
+  <w>i</w>
+  <w>bilen</w>
+  <w>vad</w>
+  <w>jag</w>
+  <w>förstår</w>
+  <w>det</w>
+  <w>som</w>
+  <w>.</w>
+  <w>Någon</w>
+  <w>som</w>
+  <w>hört</w>
+  <w>något</w>
+  <w>mer</w>
+  <w>om</w>
+  <w>det</w>
+  <w>hela</w>
+  <w>?</w>
+  <absaspan id=3>
+    <w>GM</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>lär</w>
+    <w>säkert</w>
+    <w>åka</w>
+    <w>fast</w>
+    <w>förr</w>
+    <w>eller</w>
+    <w>senare</w>
+  </absaspan>
+  <w>,</w>
+  <w>vem</w>
+  <w>kan</w>
+  <w>det</w>
+  <w>vara</w>
+  <w>tro</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

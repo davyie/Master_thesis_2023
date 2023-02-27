@@ -1,0 +1,121 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Özz</w>
+  <w>Nûjen</w>
+  <w>kallar</w>
+  <w>Sverige</w>
+  <w>för</w>
+  <w>vårt</w>
+  <w>land</w>
+  <w>?</w>
+  <w>När</w>
+  <w>blev</w>
+  <w>Sverige</w>
+  <w>Özz</w>
+  <w>Nûjens</w>
+  <w>land</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=1>
+  <absaspan id=1 senti=1>
+    <w>Clown</w>
+    <w>turken</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Özz</w>
+    <w>Nûjen</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>är</w>
+    <w>inte</w>
+    <w>ens</w>
+    <w>Svensk</w>
+  </absaspan>
+  <w>ändå</w>
+  <w>kalla</w>
+  <w>han</w>
+  <w>Sverige</w>
+  <w>för</w>
+  <w>vårt</w>
+  <w>land</w>
+  <w>.</w>
+  <absaspan id=4>
+    <w>Özz</w>
+    <w>Nûjen</w>
+  </absaspan>
+  <w>hade</w>
+  <w>knappas</w>
+  <w>någon</w>
+  <w>Morfar</w>
+  <w>/</w>
+  <w>farfar</w>
+  <w>som</w>
+  <w>låg</w>
+  <w>beredskap</w>
+  <w>någonstans</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>för</w>
+  <w>att</w>
+  <w>försvara</w>
+  <w>Sverige</w>
+  <w>emot</w>
+  <w>den</w>
+  <w>marxisten</w>
+  <w>Josef</w>
+  <w>Stalin</w>
+  <absaspan id=5 senti=1>
+    <w>våldtäcktstörstade</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>trupper</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>.</w>
+  </absaspan>
+  <w>(</w>
+  <w>Ni</w>
+  <w>vet</w>
+  <w>väl</w>
+  <w>att</w>
+  <w>Vänsterpartiet</w>
+  <w>har</w>
+  <w>varit</w>
+  <w>delaktig</w>
+  <w>Josef</w>
+  <w>Stalins</w>
+  <w>folkmord</w>
+  <w>?</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <w>Så</w>
+  <w>ändå</w>
+  <w>kallar</w>
+  <absaspan id=8>
+    <w>Özz</w>
+    <w>Nûjen</w>
+  </absaspan>
+  <w>rätt</w>
+  <w>att</w>
+  <w>kalla</w>
+  <w>Sverige</w>
+  <w>för</w>
+  <w>sitt</w>
+  <w>land</w>
+  <w>när</w>
+  <w>han</w>
+  <absaspan id=9 senti=2>
+    <w>inte</w>
+    <w>ens</w>
+    <w>till</w>
+    <w>hör</w>
+    <w>den</w>
+    <w>Svenska</w>
+    <w>folkstammen</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

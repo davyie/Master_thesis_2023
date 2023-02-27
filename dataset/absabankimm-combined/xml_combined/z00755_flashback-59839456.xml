@@ -1,0 +1,41 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Migrationsverket</w>
+  <w>spår</w>
+  <absaspan id=1>
+    <w>fler</w>
+    <w>asylsökanden</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Så</w>
+  <w>vad</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>om</w>
+  <absaspan id=2 senti=2>
+    <w>denna</w>
+    <w>lilla</w>
+    <w>utmaningen</w>
+  </absaspan>
+  <w>,</w>
+  <w>kommer</w>
+  <w>vi</w>
+  <w>klara</w>
+  <w>av</w>
+  <w>det</w>
+  <w>eller</w>
+  <w>kommer</w>
+  <absaspan id=3>
+    <w>Sveriges</w>
+    <w>välfärd</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=4 senti=2>
+    <w>haverera</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,91 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Slopat</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Utlandsbistånd</w>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Är</w>
+  <w>inte</w>
+  <w>utlandsbiståndet</w>
+  <w>en</w>
+  <w>fråga</w>
+  <w>som</w>
+  <w>varje</w>
+  <w>medborgare</w>
+  <w>borde</w>
+  <w>få</w>
+  <w>besluta</w>
+  <w>om</w>
+  <w>själv</w>
+  <w>?</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>ju</w>
+  <w>egentligen</w>
+  <w>en</w>
+  <w>fråga</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>tvunget</w>
+  <w>behöver</w>
+  <w>beslutas</w>
+  <w>i</w>
+  <w>"</w>
+  <w>demokratisk</w>
+  <w>anda</w>
+  <w>"</w>
+  <w>.</w>
+  <w>Varje</w>
+  <w>person</w>
+  <w>får</w>
+  <w>skänka</w>
+  <w>precis</w>
+  <w>hur</w>
+  <w>mycket</w>
+  <w>den</w>
+  <w>vill</w>
+  <w>till</w>
+  <w>just</w>
+  <w>den</w>
+  <w>typ</w>
+  <w>av</w>
+  <w>hjälp</w>
+  <w>denne</w>
+  <w>anser</w>
+  <w>vara</w>
+  <w>bäst</w>
+  <w>i</w>
+  <w>behov</w>
+  <w>av</w>
+  <w>ens</w>
+  <w>surt</w>
+  <w>förvärvade</w>
+  <w>slantar</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Själv</w>
+  <w>hade</w>
+  <w>jag</w>
+  <w>ändå</w>
+  <w>givit</w>
+  <w>en</w>
+  <w>slant</w>
+  <w>även</w>
+  <w>om</w>
+  <w>det</w>
+  <w>vore</w>
+  <w>frivilligt</w>
+  <w>.</w>
+  <w>Vad</w>
+  <w>sägs</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

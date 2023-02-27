@@ -1,0 +1,100 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Socionom</w>
+  <w>eller</w>
+  <w>ekonom</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Hej</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Har</w>
+  <w>svårt</w>
+  <w>att</w>
+  <w>välja</w>
+  <w>mellan</w>
+  <w>Socionomprogrammet</w>
+  <w>och</w>
+  <w>Ekonomie</w>
+  <w>kandidat</w>
+  <w>på</w>
+  <w>Lunds</w>
+  <w>Universitet</w>
+  <w>.</w>
+  <w>Ekonomer</w>
+  <w>verkar</w>
+  <w>ha</w>
+  <absaspan id=1 senti=4>
+    <w>goda</w>
+    <w>chanser</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>hög</w>
+    <w>lön</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>är</w>
+  <w>det</w>
+  <w>verkligen</w>
+  <w>många</w>
+  <w>som</w>
+  <w>kommer</w>
+  <w>upp</w>
+  <w>dit</w>
+  <w>?</w>
+  <w>Socionomer</w>
+  <w>har</w>
+  <w>väl</w>
+  <w>rätt</w>
+  <absaspan id=3 senti=4>
+    <w>goda</w>
+    <w>chanser</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>att</w>
+    <w>få</w>
+    <w>jobb</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>kanske</w>
+  <absaspan id=5 senti=4>
+    <w>ser</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>den</w>
+    <w>arbetsmarknaden</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>lite</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>ljusare</w>
+    <w>ut</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>än</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>vad</w>
+    <w>det</w>
+    <w>gör</w>
+    <w>för</w>
+    <w>ekonomer</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Behöver</w>
+  <w>lite</w>
+  <w>upplysning</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

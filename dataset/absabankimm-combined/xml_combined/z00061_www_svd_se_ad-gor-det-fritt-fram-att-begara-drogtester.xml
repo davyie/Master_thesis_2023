@@ -1,0 +1,656 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>AD</w>
+  <w>gör</w>
+  <w>det</w>
+  <w>fritt</w>
+  <w>fram</w>
+  <w>att</w>
+  <w>begära</w>
+  <w>drogtester</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ska</w>
+  <w>våra</w>
+  <w>arbetsgivares</w>
+  <w>kunder</w>
+  <w>ha</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>begära</w>
+  <w>medicinska</w>
+  <w>tester</w>
+  <w>och</w>
+  <w>utdrag</w>
+  <w>ur</w>
+  <w>belastningsregistret</w>
+  <w>på</w>
+  <w>oss</w>
+  <w>?</w>
+  <w>Det</w>
+  <w>kan</w>
+  <w>bli</w>
+  <w>konsekvenserna</w>
+  <w>av</w>
+  <w>en</w>
+  <w>dom</w>
+  <w>i</w>
+  <w>arbetsdomstolen</w>
+  <w>tidigare</w>
+  <w>i</w>
+  <w>veckan</w>
+  <w>,</w>
+  <w>skriver</w>
+  <w>Lars</w>
+  <w>Lindgren</w>
+  <w>,</w>
+  <w>Transportarbetarförbundet</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=1>
+    <w>Arbetsdomstolens</w>
+  </absaspan>
+  <w>dom</w>
+  <absaspan id=2 senti=1>
+    <w>är</w>
+    <w>ett</w>
+    <w>oerhört</w>
+    <w>olyckligt</w>
+    <w>slag</w>
+    <w>mot</w>
+    <w>hela</w>
+    <w>den</w>
+    <w>svenska</w>
+    <w>arbetskraften.Lars</w>
+  </absaspan>
+  <w>Lindgren</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Att</w>
+  <w>arbetsgivare</w>
+  <w>har</w>
+  <w>rätt</w>
+  <w>till</w>
+  <w>vissa</w>
+  <w>tester</w>
+  <w>och</w>
+  <w>kontroller</w>
+  <w>av</w>
+  <w>sina</w>
+  <w>anställda</w>
+  <w>är</w>
+  <w>inget</w>
+  <w>nytt</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>har</w>
+  <w>fack</w>
+  <w>och</w>
+  <w>arbetsgivare</w>
+  <w>förhandlat</w>
+  <w>och</w>
+  <w>kommit</w>
+  <w>överens</w>
+  <w>om</w>
+  <w>.</w>
+  <w>Så</w>
+  <w>länge</w>
+  <w>det</w>
+  <w>rör</w>
+  <w>sig</w>
+  <w>om</w>
+  <w>rimliga</w>
+  <w>tester</w>
+  <w>har</w>
+  <w>det</w>
+  <absaspan id=3 senti=4>
+    <w>rått</w>
+    <w>samförstånd</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>efter</w>
+  <w>domen</w>
+  <w>i</w>
+  <w>arbetsdomstolen</w>
+  <w>där</w>
+  <w>Transport</w>
+  <absaspan id=4 senti=1>
+    <w>förlorade</w>
+    <w>målet</w>
+  </absaspan>
+  <w>om</w>
+  <w>alkotester</w>
+  <w>vid</w>
+  <w>företaget</w>
+  <w>Ferruform</w>
+  <w>är</w>
+  <w>manegen</w>
+  <w>krattad</w>
+  <w>för</w>
+  <w>ytterligare</w>
+  <absaspan id=5 senti=1>
+    <w>inskränkningar</w>
+    <w>i</w>
+    <w>arbetstagarnas</w>
+    <w>personliga</w>
+    <w>integritet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Ferruform</w>
+  <w>fick</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>alkotesta</w>
+  <w>sin</w>
+  <w>transportörs</w>
+  <w>anställda</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Arbetsgivarens</w>
+  <w>kund</w>
+  <w>,</w>
+  <w>alltså</w>
+  <w>tredje</w>
+  <w>part</w>
+  <w>,</w>
+  <w>kliver</w>
+  <w>in</w>
+  <w>och</w>
+  <w>dikterar</w>
+  <w>villkoren</w>
+  <w>mellan</w>
+  <w>arbetsgivare</w>
+  <w>och</w>
+  <w>anställda</w>
+  <w>.</w>
+  <w>Effekten</w>
+  <w>blir</w>
+  <absaspan id=6>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=8 senti=5>
+    <w>givande</w>
+    <w>och</w>
+    <w>effektiva</w>
+    <w>nykterhetsarbete</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>som</w>
+    <w>bedrivits</w>
+    <w>gemensamt</w>
+    <w>mellan</w>
+    <w>fack</w>
+    <w>och</w>
+    <w>arbetsgivare</w>
+  </absaspan>
+  <absaspan id=10 senti=1>
+    <w>blir</w>
+    <w>meningslöst</w>
+    <w>i</w>
+    <w>upphandlade</w>
+    <w>branscher</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=11>
+    <w>Detta</w>
+  </absaspan>
+  <w>är</w>
+  <w>naturligtvis</w>
+  <absaspan id=12 senti=1>
+    <w>helt</w>
+    <w>oacceptabelt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Domstolen</w>
+  <w>var</w>
+  <w>heller</w>
+  <w>inte</w>
+  <w>enig</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>I</w>
+  <w>det</w>
+  <w>här</w>
+  <w>fallet</w>
+  <w>rörde</w>
+  <w>det</w>
+  <w>sig</w>
+  <w>om</w>
+  <w>alkotester</w>
+  <w>för</w>
+  <w>lastbilsförare</w>
+  <w>som</w>
+  <w>körde</w>
+  <w>bilar</w>
+  <w>utrustade</w>
+  <w>med</w>
+  <w>alkolås</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>innebär</w>
+  <w>att</w>
+  <w>en</w>
+  <w>chaufför</w>
+  <w>,</w>
+  <w>utöver</w>
+  <w>det</w>
+  <w>obligatoriska</w>
+  <w>testet</w>
+  <w>för</w>
+  <w>att</w>
+  <w>få</w>
+  <w>starta</w>
+  <w>sitt</w>
+  <w>fordon</w>
+  <w>,</w>
+  <w>kan</w>
+  <w>testas</w>
+  <w>uppåt</w>
+  <w>10</w>
+  <w>gånger</w>
+  <w>under</w>
+  <w>sin</w>
+  <w>arbetsdag</w>
+  <w>.</w>
+  <absaspan id=13 senti=1>
+    <w>Ett</w>
+    <w>förnedrande</w>
+    <w>misstänkliggörande</w>
+  </absaspan>
+  <w>som</w>
+  <w>få</w>
+  <w>andra</w>
+  <w>yrkesgrupper</w>
+  <w>skulle</w>
+  <w>acceptera</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Är</w>
+  <w>nästa</w>
+  <w>steg</w>
+  <w>att</w>
+  <w>transportköparna</w>
+  <w>ska</w>
+  <w>få</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>begära</w>
+  <w>in</w>
+  <w>utdrag</w>
+  <w>ur</w>
+  <w>belastningsregistret</w>
+  <w>för</w>
+  <w>sin</w>
+  <w>transportörs</w>
+  <w>förare</w>
+  <w>?</w>
+  <w>Blodprov</w>
+  <w>?</w>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <absaspan id=14 senti=1>
+    <w>en</w>
+    <w>mycket</w>
+    <w>olycklig</w>
+    <w>utveckling</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Effekten</w>
+  <w>blir</w>
+  <w>att</w>
+  <absaspan id=15>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=16 senti=5>
+    <w>givande</w>
+    <w>och</w>
+    <w>effektiva</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>nykterhetsarbete</w>
+    <w>som</w>
+    <w>bedrivits</w>
+    <w>gemensamt</w>
+    <w>mellan</w>
+    <w>fack</w>
+    <w>och</w>
+    <w>arbetsgivare</w>
+  </absaspan>
+  <absaspan id=18 senti=1>
+    <w>blir</w>
+    <w>meningslöst</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=19>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=20 senti=2>
+    <w>oroar</w>
+    <w>oss</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>hur</w>
+    <w>långt</w>
+    <w>arbetsdomstolen</w>
+    <w>menar</w>
+    <w>att</w>
+    <w>tredje</w>
+    <w>part</w>
+    <w>har</w>
+    <w>rätt</w>
+    <w>att</w>
+    <w>gå</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>I</w>
+  <w>en</w>
+  <w>tid</w>
+  <w>då</w>
+  <w>regeringen</w>
+  <w>pressar</w>
+  <w>polisen</w>
+  <w>att</w>
+  <w>utföra</w>
+  <w>id-kontroller</w>
+  <w>baserade</w>
+  <w>på</w>
+  <w>hudfärg</w>
+  <w>är</w>
+  <w>det</w>
+  <w>extra</w>
+  <w>viktigt</w>
+  <w>att</w>
+  <absaspan id=22>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=23 senti=4>
+    <w>slår</w>
+    <w>vakt</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>den</w>
+    <w>personliga</w>
+    <w>integriteten</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=25>
+    <w>vår</w>
+    <w>värdighet</w>
+    <w>som</w>
+    <w>individer</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=26>
+    <w>Arbetsdomstolens</w>
+    <w>dom</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=27 senti=1>
+    <w>ett</w>
+    <w>oerhört</w>
+    <w>olyckligt</w>
+    <w>slag</w>
+    <w>mot</w>
+    <w>hela</w>
+    <w>den</w>
+    <w>svenska</w>
+    <w>arbetskraften</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>LARS</w>
+  <w>LINDGREN</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>förbundsordförande</w>
+  <w>Svenska</w>
+  <w>Transportarbetareförbundet</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Bakgrund</w>
+  <w>:</w>
+  <w>Arbetsdomstolens</w>
+  <w>beslut</w>
+  <w>gäller</w>
+  <w>en</w>
+  <w>tvist</w>
+  <w>mellan</w>
+  <w>Transport</w>
+  <w>och</w>
+  <w>företaget</w>
+  <w>DHL</w>
+  <w>.</w>
+  <w>Den</w>
+  <absaspan id=28 senti=3>
+    <w>viktigaste</w>
+    <w>aktören</w>
+  </absaspan>
+  <w>i</w>
+  <w>tvisten</w>
+  <w>är</w>
+  <w>dock</w>
+  <w>en</w>
+  <w>annan</w>
+  <w>:</w>
+  <w>Scanias</w>
+  <w>dotterföretag</w>
+  <w>Ferruform</w>
+  <w>i</w>
+  <w>Luleå</w>
+  <w>.</w>
+  <w>Företaget</w>
+  <w>omfattas</w>
+  <w>av</w>
+  <w>Scanias</w>
+  <w>drogpolicy</w>
+  <w>vilket</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>innebär</w>
+  <w>att</w>
+  <w>chaufförer</w>
+  <w>som</w>
+  <w>kör</w>
+  <w>godstransporter</w>
+  <w>till</w>
+  <w>och</w>
+  <w>från</w>
+  <w>Ferruform</w>
+  <w>kan</w>
+  <absaspan id=29 senti=2>
+    <w>utsättas</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>slumpvisa</w>
+    <w>alkotester</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <absaspan id=31>
+    <w>DHL</w>
+  </absaspan>
+  <w>accepterade</w>
+  <w>villkoren</w>
+  <w>,</w>
+  <w>med</w>
+  <w>motiveringen</w>
+  <w>att</w>
+  <w>de</w>
+  <w>annars</w>
+  <w>kunde</w>
+  <w>förlora</w>
+  <w>uppdraget</w>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=32 senti=1>
+    <w>beordrade</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>de</w>
+    <w>anställda</w>
+    <w>chaufförerna</w>
+  </absaspan>
+  <absaspan id=34 senti=1>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=35 senti=1>
+    <w>underkasta</w>
+    <w>sig</w>
+  </absaspan>
+  <w>testen</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Orsaken</w>
+  <w>till</w>
+  <w>att</w>
+  <absaspan id=36>
+    <w>Transport</w>
+  </absaspan>
+  <absaspan id=37 senti=1>
+    <w>motsätter</w>
+    <w>sig</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>den</w>
+    <w>ordningen</w>
+  </absaspan>
+  <w>är</w>
+  <w>inte</w>
+  <w>att</w>
+  <w>förbundet</w>
+  <w>är</w>
+  <w>emot</w>
+  <w>alkotester</w>
+  <w>.</w>
+  <w>Tvärt</w>
+  <w>om</w>
+  <w>har</w>
+  <w>vi</w>
+  <w>,</w>
+  <absaspan id=39 senti=2>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=40 senti=2>
+    <w>brist</w>
+    <w>på</w>
+  </absaspan>
+  <w>tydlig</w>
+  <w>lagstiftning</w>
+  <w>,</w>
+  <w>tecknat</w>
+  <w>kollektivavtal</w>
+  <w>som</w>
+  <w>reglerar</w>
+  <w>hur</w>
+  <w>exempelvis</w>
+  <w>drog</w>
+  <w>-</w>
+  <w>och</w>
+  <w>alkoholtester</w>
+  <w>ska</w>
+  <w>gå</w>
+  <w>till</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=41 senti=4>
+    <w>säkerställa</w>
+  </absaspan>
+  <w>såväl</w>
+  <absaspan id=42>
+    <w>kvalitetskrav</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=43>
+    <w>den</w>
+    <w>personliga</w>
+    <w>integriteten</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>Källa</w>
+  <w>:</w>
+  <w>Transportarbetarförbundet</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,120 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>invandringens</w>
+  <w>kostnad</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>kan</w>
+  <w>det</w>
+  <w>stämma</w>
+  <w>att</w>
+  <w>varje</w>
+  <w>person</w>
+  <w>som</w>
+  <w>jobbar</w>
+  <w>,</w>
+  <w>dvs</w>
+  <w>5</w>
+  <w>miljoner</w>
+  <w>personer</w>
+  <w>i</w>
+  <w>sverige</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <w>betalar</w>
+  <w>30k</w>
+  <w>i</w>
+  <w>snitt</w>
+  <w>om</w>
+  <w>året</w>
+  <w>till</w>
+  <absaspan id=1 senti=2>
+    <w>invandrarpacken</w>
+  </absaspan>
+  <w>som</w>
+  <w>kommer</w>
+  <w>hit</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>150</w>
+  <w>miljarder</w>
+  <w>/</w>
+  <w>5</w>
+  <w>miljoner</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=1>
+  <w>isf</w>
+  <absaspan id=2 senti=1>
+    <w>måste</w>
+  </absaspan>
+  <w>ju</w>
+  <absaspan id=3>
+    <w>regeringen</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>avgå</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>med</w>
+    <w>detsamma</w>
+  </absaspan>
+  <w>.</w>
+  <w>Hur</w>
+  <w>fan</w>
+  <w>kan</w>
+  <w>dom</w>
+  <w>låta</w>
+  <w>oss</w>
+  <w>svenskar</w>
+  <w>bära</w>
+  <w>den</w>
+  <w>bördan</w>
+  <absaspan id=6 senti=1>
+    <w>.</w>
+  </absaspan>
+  <w>Fan</w>
+  <w>vi</w>
+  <w>skulle</w>
+  <w>ju</w>
+  <w>alla</w>
+  <w>vara</w>
+  <w>riktigt</w>
+  <w>rika</w>
+  <w>om</w>
+  <w>dom</w>
+  <w>inte</w>
+  <w>kom</w>
+  <w>hit</w>
+  <absaspan id=7 senti=1>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <absaspan id=8>
+    <w>30k</w>
+    <w>om</w>
+    <w>året</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>är</w>
+    <w>mycket</w>
+    <w>cash</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+</absadoc>

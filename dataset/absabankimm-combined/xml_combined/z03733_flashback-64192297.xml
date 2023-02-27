@@ -1,0 +1,66 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=1 target=1>
+    <w>Batikhäxa</w>
+  </absaspan>
+  <w>anmäler</w>
+  <w>"</w>
+  <absaspan id=2 senti=1 target=2>
+    <w>hatfilm</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+  <w>Bor</w>
+  <w>med</w>
+  <w>18</w>
+  <w>-</w>
+  <w>årig</w>
+  <w>ensamkommande</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Kvinnan</w>
+  <w>är</w>
+  <w>född</w>
+  <w>1958</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Bor</w>
+  <w>med</w>
+  <w>ensamkommande</w>
+  <w>född</w>
+  <w>1999</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>I</w>
+  <w>"</w>
+  <absaspan id=3 senti=1>
+    <w>hatfilmen</w>
+  </absaspan>
+  <w>"</w>
+  <w>påstås</w>
+  <w>att</w>
+  <w>många</w>
+  <w>av</w>
+  <w>kvinnorna</w>
+  <w>hjälper</w>
+  <w>"</w>
+  <w>baaaarnen</w>
+  <w>"</w>
+  <w>för</w>
+  <w>att</w>
+  <w>få</w>
+  <w>sex</w>
+  <w>.</w>
+  <w>Kände</w>
+  <w>hon</w>
+  <w>sig</w>
+  <w>träffad</w>
+  <w>i</w>
+  <w>filmen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

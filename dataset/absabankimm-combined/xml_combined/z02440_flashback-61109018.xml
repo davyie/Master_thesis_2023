@@ -1,0 +1,45 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Sverige</w>
+  <w>ger</w>
+  <w>1</w>
+  <w>miljard</w>
+  <w>kronor</w>
+  <w>till</w>
+  <w>Irak</w>
+  <w>:</w>
+  <w>för</w>
+  <w>att</w>
+  <w>stärka</w>
+  <w>jämställdheten</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Hur</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>höja</w>
+  <w>skatterna</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>och</w>
+  <w>samtidigt</w>
+  <w>skicka</w>
+  <w>ett-tusen-miljoner</w>
+  <w>till</w>
+  <w>Irak</w>
+  <w>?</w>
+  <w>Ha</w>
+  <absaspan id=1>
+    <w>Regeringen</w>
+  </absaspan>
+  <absaspan id=2 senti=1>
+    <w>helt</w>
+    <w>tappat</w>
+    <w>vettet</w>
+  </absaspan>
+  <w>?</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

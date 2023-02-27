@@ -1,0 +1,145 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Varför</w>
+  <absaspan id=1 senti=5 partof=3 target=4 source=2>
+    <w>vurmar</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>svensk</w>
+    <w>MSM</w>
+  </absaspan>
+  <absaspan id=3 senti=5 target=4 source=2>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>invandrare</w>
+    <w>/</w>
+    <w>flyktingar</w>
+  </absaspan>
+  <w>när</w>
+  <w>dom</w>
+  <w>inte</w>
+  <w>nyttjar</w>
+  <w>deras</w>
+  <w>alster</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=1>
+  <w>Har</w>
+  <w>aldrig</w>
+  <w>noterat</w>
+  <w>en</w>
+  <absaspan id=5 senti=1>
+    <w>invällare</w>
+  </absaspan>
+  <w>läsa</w>
+  <w>vare</w>
+  <w>sig</w>
+  <absaspan id=6>
+    <w>DN</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>/</w>
+    <w>SVD</w>
+    <w>/</w>
+    <w>/</w>
+    <w>Expressen</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vem</w>
+  <w>riktar</w>
+  <absaspan id=8>
+    <w>dom</w>
+  </absaspan>
+  <w>sig</w>
+  <w>till</w>
+  <w>med</w>
+  <w>sin</w>
+  <absaspan id=9 senti=1>
+    <w>agendasättande</w>
+    <w>'</w>
+    <w>fake</w>
+    <w>news</w>
+    <w>'</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <absaspan id=10>
+    <w>Invandrare</w>
+  </absaspan>
+  <w>läser</w>
+  <w>sin</w>
+  <w>lokala</w>
+  <w>tidning</w>
+  <w>på</w>
+  <w>internet</w>
+  <w>,</w>
+  <absaspan id=11 senti=2>
+    <w>förutsatt</w>
+    <w>att</w>
+    <w>dom</w>
+    <w>kan</w>
+    <w>läsa</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Likadant</w>
+  <w>med</w>
+  <w>SVT</w>
+  <w>och</w>
+  <w>TV4</w>
+  <w>.</w>
+  <w>Tror</w>
+  <w>deras</w>
+  <w>tittarsiffror</w>
+  <w>är</w>
+  <w>försumbara</w>
+  <w>bland</w>
+  <w>invandrare</w>
+  <w>.</w>
+  <w>Parabol</w>
+  <w>har</w>
+  <w>existerat</w>
+  <w>länge</w>
+  <w>,</w>
+  <w>men</w>
+  <w>idag</w>
+  <w>använder</w>
+  <w>man</w>
+  <w>troligen</w>
+  <w>IPTV</w>
+  <w>för</w>
+  <w>att</w>
+  <w>t.ex</w>
+  <w>.</w>
+  <w>få</w>
+  <w>tillgång</w>
+  <w>till</w>
+  <w>sin</w>
+  <w>turkiska</w>
+  <w>favo</w>
+  <w>kanal</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Hur</w>
+  <w>resonerar</w>
+  <absaspan id=12>
+    <w>svensk</w>
+    <w>MSM</w>
+  </absaspan>
+  <w>genom</w>
+  <w>att</w>
+  <absaspan id=13 senti=2>
+    <w>alienera</w>
+  </absaspan>
+  <w>sin</w>
+  <w>verkliga</w>
+  <w>kundbas</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

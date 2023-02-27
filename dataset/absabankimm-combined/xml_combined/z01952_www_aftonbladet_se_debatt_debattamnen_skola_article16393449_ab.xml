@@ -1,0 +1,348 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Jonas</w>
+    <w>Sjöstedt</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=2>
+    <w>Lärarnas</w>
+    <w>krav</w>
+    <w>på</w>
+    <w>friskolorna</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=3 senti=2>
+    <w>inte</w>
+    <w>nog</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <absaspan id=4 senti=2>
+    <w>är</w>
+    <w>oacceptabelt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=5>
+    <w>elever</w>
+    <w>får</w>
+    <w>sin</w>
+    <w>utbildning</w>
+    <w>förstörd</w>
+    <w>för</w>
+    <w>att</w>
+    <w>skolor</w>
+    <w>går</w>
+    <w>i</w>
+    <w>konkurs</w>
+  </absaspan>
+  <w>.</w>
+  <w>Att</w>
+  <absaspan id=6>
+    <w>Metta</w>
+    <w>Fjelkner</w>
+    <w>och</w>
+    <w>Lärarnas</w>
+    <w>Riksförbund</w>
+    <w>ser</w>
+    <w>problemet</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>är</w>
+    <w>bra</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=8>
+    <w>deras</w>
+    <w>förslag</w>
+    <w>om</w>
+    <w>mer</w>
+    <w>kontroll</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>är</w>
+    <w>inte</w>
+    <w>tillräckliga</w>
+  </absaspan>
+  <w>.</w>
+  <w>För</w>
+  <w>att</w>
+  <w>få</w>
+  <w>skolor</w>
+  <w>man</w>
+  <w>kan</w>
+  <w>lita</w>
+  <w>på</w>
+  <absaspan id=10 senti=2>
+    <w>behöver</w>
+    <w>vi</w>
+    <w>bli</w>
+    <w>av</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>vinstintresset</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>När</w>
+  <w>eleverna</w>
+  <w>på</w>
+  <w>Karlstads</w>
+  <w>idrottsgymnasium</w>
+  <w>kom</w>
+  <w>tillbaka</w>
+  <w>till</w>
+  <w>skolan</w>
+  <w>efter</w>
+  <w>jullovet</w>
+  <w>fick</w>
+  <w>de</w>
+  <w>ett</w>
+  <w>besked</w>
+  <w>ingen</w>
+  <w>ska</w>
+  <w>behöva</w>
+  <w>få</w>
+  <w>.</w>
+  <w>Skolans</w>
+  <w>ägare</w>
+  <w>hade</w>
+  <w>försatt</w>
+  <w>den</w>
+  <w>i</w>
+  <w>konkurs</w>
+  <w>.</w>
+  <absaspan id=12>
+    <w>Beskedet</w>
+  </absaspan>
+  <w>kom</w>
+  <w>som</w>
+  <w>en</w>
+  <absaspan id=13 senti=1>
+    <w>chock</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=14>
+    <w>elevernas</w>
+  </absaspan>
+  <w>framtid</w>
+  <w>blev</w>
+  <w>plötsligt</w>
+  <w>väldigt</w>
+  <w>osäker</w>
+  <w>.</w>
+  <w>För</w>
+  <w>lärarna</w>
+  <w>väntar</w>
+  <w>arbetslöshet</w>
+  <w>.</w>
+  <w>Samtidigt</w>
+  <w>har</w>
+  <w>ägaren</w>
+  <w>under</w>
+  <w>de</w>
+  <w>senaste</w>
+  <w>åren</w>
+  <w>plockat</w>
+  <w>ut</w>
+  <w>mångmiljonbelopp</w>
+  <w>från</w>
+  <w>sitt</w>
+  <w>friskoleföretag</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Detta</w>
+  <w>är</w>
+  <w>ingenting</w>
+  <w>som</w>
+  <w>går</w>
+  <w>att</w>
+  <w>lösa</w>
+  <w>bara</w>
+  <w>genom</w>
+  <w>mer</w>
+  <w>kontroll</w>
+  <w>och</w>
+  <w>ändrande</w>
+  <w>i</w>
+  <w>ersättningssystem</w>
+  <w>.</w>
+  <w>Så</w>
+  <w>länge</w>
+  <w>vi</w>
+  <w>tillåter</w>
+  <absaspan id=15>
+    <w>skolföretag</w>
+    <w>vars</w>
+    <w>syfte</w>
+    <w>är</w>
+    <w>att</w>
+    <w>maximera</w>
+    <w>vinsten</w>
+  </absaspan>
+  <w>,</w>
+  <w>så</w>
+  <w>kommer</w>
+  <w>de</w>
+  <w>att</w>
+  <absaspan id=16 senti=2>
+    <w>ställa</w>
+    <w>till</w>
+    <w>med</w>
+    <w>problem</w>
+  </absaspan>
+  <w>och</w>
+  <w>försöka</w>
+  <w>överlista</w>
+  <w>systemet</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Hur</w>
+  <absaspan id=17 senti=2>
+    <w>orimligt</w>
+  </absaspan>
+  <w>det</w>
+  <w>än</w>
+  <w>låter</w>
+  <w>med</w>
+  <absaspan id=18>
+    <w>skolor</w>
+    <w>som</w>
+    <w>går</w>
+    <w>i</w>
+    <w>konkurs</w>
+  </absaspan>
+  <w>,</w>
+  <w>så</w>
+  <w>är</w>
+  <w>det</w>
+  <w>vad</w>
+  <w>man</w>
+  <w>kan</w>
+  <w>vänta</w>
+  <w>sig</w>
+  <w>av</w>
+  <w>att</w>
+  <w>förvandla</w>
+  <w>utbildning</w>
+  <w>till</w>
+  <w>en</w>
+  <w>marknad</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>ju</w>
+  <w>precis</w>
+  <w>så</w>
+  <w>här</w>
+  <w>marknader</w>
+  <w>är</w>
+  <w>tänkta</w>
+  <w>att</w>
+  <w>fungera</w>
+  <w>.</w>
+  <w>Företag</w>
+  <w>kommer</w>
+  <w>och</w>
+  <w>går</w>
+  <w>,</w>
+  <w>vissa</w>
+  <w>växer</w>
+  <w>och</w>
+  <w>andra</w>
+  <w>konkurreras</w>
+  <w>ut</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>fungerar</w>
+  <w>för</w>
+  <w>hamburgerrestauranger</w>
+  <w>och</w>
+  <w>skoaffärer</w>
+  <w>,</w>
+  <w>men</w>
+  <w>för</w>
+  <absaspan id=19>
+    <w>skolor</w>
+  </absaspan>
+  <absaspan id=20 senti=2>
+    <w>passar</w>
+    <w>det</w>
+    <w>mycket</w>
+    <w>dåligt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Därför</w>
+  <absaspan id=21 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>Vänsterpartiet</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>införa</w>
+    <w>en</w>
+    <w>lag</w>
+    <w>mot</w>
+    <w>vinstintresset</w>
+    <w>i</w>
+    <w>skolan</w>
+  </absaspan>
+  <w>.</w>
+  <w>Och</w>
+  <w>när</w>
+  <w>nya</w>
+  <w>skolor</w>
+  <w>öppnas</w>
+  <w>för</w>
+  <w>skattepengar</w>
+  <absaspan id=24 senti=4>
+    <w>ska</w>
+    <w>det</w>
+    <w>alltid</w>
+    <w>göras</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>noggranna</w>
+    <w>bedömningar</w>
+    <w>av</w>
+    <w>behoven</w>
+  </absaspan>
+  <w>och</w>
+  <w>tas</w>
+  <w>demokratiska</w>
+  <w>beslut</w>
+  <w>.</w>
+  <w>Så</w>
+  <w>får</w>
+  <w>vi</w>
+  <absaspan id=26>
+    <w>skolor</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=27 senti=4>
+    <w>lita</w>
+    <w>på</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Jonas</w>
+  <w>Sjöstedt</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Partiledare</w>
+  <w>Vänsterpartiet</w>
+  <w>.</w>
+</absapar>
+</absadoc>

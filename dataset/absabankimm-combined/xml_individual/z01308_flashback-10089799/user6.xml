@@ -1,0 +1,85 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>muslim</w>
+  <w>anmäler</w>
+  <w>migrationsverket</w>
+  <w>till</w>
+  <w>DO</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <absaspan id=1 senti=4>
+    <w>Borde</w>
+    <w>det</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>startas</w>
+    <w>en</w>
+    <w>tråd</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>kränkta</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>muslimer</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <absaspan id=5>
+    <w>Den</w>
+    <w>här</w>
+    <w>historien</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>var</w>
+  </absaspan>
+  <w>ju</w>
+  <absaspan id=7 senti=4>
+    <w>ganska</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>kul</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=9>
+    <w>en</w>
+    <w>muslim</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=10 senti=2>
+    <w>känner</w>
+    <w>sig</w>
+    <w>diskriminerad</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=11>
+    <w>migrationsverket</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>de</w>
+  <w>frågade</w>
+  <w>om</w>
+  <w>hans</w>
+  <w>kvinnosyn</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Jag</w>
+  <w>ger</w>
+  <w>honom</w>
+  <w>3%</w>
+  <w>chans</w>
+  <w>att</w>
+  <w>vinna</w>
+  <absaspan id=12 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

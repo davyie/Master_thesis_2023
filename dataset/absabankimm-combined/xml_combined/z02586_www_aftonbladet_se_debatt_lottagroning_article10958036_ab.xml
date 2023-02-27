@@ -1,0 +1,270 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Frågor</w>
+  <w>som</w>
+  <w>väntar</w>
+  <w>på</w>
+  <w>svar</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>I</w>
+  <w>väntan</w>
+  <w>på</w>
+  <w>en</w>
+  <w>ny</w>
+  <w>regering</w>
+  <w>hinner</w>
+  <w>man</w>
+  <w>fundera</w>
+  <w>på</w>
+  <w>ett</w>
+  <w>och</w>
+  <w>annat</w>
+  <w>.</w>
+  <absaspan id=1>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>såg</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>Maud</w>
+    <w>Olofsson</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>kräver</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>en</w>
+    <w>jämställd</w>
+    <w>regering</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=6>
+    <w>Det</w>
+  </absaspan>
+  <w>är</w>
+  <w>ett</w>
+  <w>uttalande</w>
+  <w>som</w>
+  <absaspan id=7 senti=2>
+    <w>känns</w>
+    <w>lite</w>
+    <w>mossigt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Borde</w>
+  <w>inte</w>
+  <absaspan id=8>
+    <w>varannan</w>
+    <w>damernas</w>
+  </absaspan>
+  <w>också</w>
+  <absaspan id=9 senti=5 irony>
+    <w>vara</w>
+    <w>en</w>
+    <w>självklarhet</w>
+  </absaspan>
+  <w>för</w>
+  <w>alliansen</w>
+  <w>,</w>
+  <w>är</w>
+  <w>det</w>
+  <w>någon</w>
+  <w>som</w>
+  <w>är</w>
+  <w>emot</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Jag</w>
+  <w>tänker</w>
+  <w>mycket</w>
+  <w>på</w>
+  <w>Lars</w>
+  <w>Leijonborg</w>
+  <w>.</w>
+  <w>Valresultatet</w>
+  <w>halverade</w>
+  <w>folkpartiet</w>
+  <w>men</w>
+  <w>ändå</w>
+  <w>säger</w>
+  <w>han</w>
+  <w>att</w>
+  <w>han</w>
+  <w>aldrig</w>
+  <w>varit</w>
+  <w>så</w>
+  <w>glad</w>
+  <absaspan id=10 senti=2>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>Folkpartiet</w>
+  </absaspan>
+  <w>kanske</w>
+  <absaspan id=12 senti=1>
+    <w>är</w>
+    <w>slut</w>
+    <w>som</w>
+    <w>parti</w>
+  </absaspan>
+  <w>och</w>
+  <w>även</w>
+  <w>Leijonborg</w>
+  <w>som</w>
+  <w>partiledare</w>
+  <w>.</w>
+  <w>Han</w>
+  <w>bör</w>
+  <w>väl</w>
+  <w>snart</w>
+  <w>berätta</w>
+  <w>vad</w>
+  <w>han</w>
+  <w>visste</w>
+  <w>i</w>
+  <w>folkpartiets</w>
+  <w>spionskandal</w>
+  <absaspan id=13 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Jag</w>
+  <absaspan id=14 senti=4>
+    <w>är</w>
+  </absaspan>
+  <w>i</w>
+  <w>alla</w>
+  <w>fall</w>
+  <absaspan id=15 senti=4 irony>
+    <w>jättenyfiken</w>
+  </absaspan>
+  <absaspan id=16 senti=4 irony>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>alliansens</w>
+    <w>regering</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=18 senti=4 irony>
+    <w>Särskilt</w>
+    <w>spännade</w>
+    <w>ska</w>
+    <w>det</w>
+    <w>bli</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>att</w>
+    <w>se</w>
+    <w>hur</w>
+    <w>de</w>
+    <w>organiserar</w>
+    <w>politiken</w>
+  </absaspan>
+  <w>.</w>
+  <w>Jag</w>
+  <w>utgår</w>
+  <w>ifrån</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>får</w>
+  <w>en</w>
+  <w>helt</w>
+  <w>ny</w>
+  <w>struktur</w>
+  <w>när</w>
+  <w>det</w>
+  <w>gäller</w>
+  <w>departementen</w>
+  <w>.</w>
+  <w>Jag</w>
+  <absaspan id=20 senti=5>
+    <w>hoppas</w>
+    <w>innerligt</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>Maud</w>
+    <w>Olofsson</w>
+    <w>inte</w>
+    <w>får</w>
+    <w>ansvar</w>
+    <w>för</w>
+    <w>arbetsmarknadspolitiken</w>
+    <w>och</w>
+    <w>att</w>
+    <w>Göran</w>
+    <w>Hägglund</w>
+    <w>inte</w>
+    <w>får</w>
+    <w>ta</w>
+    <w>hand</w>
+    <w>om</w>
+    <w>familjepolitiken</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=23 senti=4 irony>
+    <w>Snälla</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>Fredrik</w>
+    <w>Reinfeldt</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=25 senti=2>
+    <w>låt</w>
+    <w>oss</w>
+    <w>slippa</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>det</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Jovisst</w>
+  <w>ja</w>
+  <w>,</w>
+  <w>det</w>
+  <w>är</w>
+  <w>en</w>
+  <w>sak</w>
+  <w>till</w>
+  <w>jag</w>
+  <w>funderar</w>
+  <w>över</w>
+  <w>:</w>
+  <w>Får</w>
+  <w>AMS-chefen</w>
+  <w>Bo</w>
+  <w>Bylund</w>
+  <w>kicken</w>
+  <w>nu</w>
+  <w>på</w>
+  <w>grund</w>
+  <w>av</w>
+  <w>sina</w>
+  <w>sina</w>
+  <w>glädjekalkyler</w>
+  <w>för</w>
+  <w>arbetslösheten</w>
+  <w>?</w>
+  <absaspan id=27 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,58 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Var</w>
+  <absaspan id=1>
+    <w>indianerna</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>rasister</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Indianerna</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>hatade</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>invandrarna</w>
+    <w>som</w>
+    <w>ville</w>
+    <w>ta</w>
+    <w>av</w>
+    <w>deras</w>
+    <w>land</w>
+    <w>,</w>
+    <w>seder</w>
+    <w>och</w>
+    <w>bruk</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=6 senti=2>
+    <w>gjorde</w>
+    <w>våldsamt</w>
+    <w>motstånd</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=7 senti=2>
+    <w>våldtog</w>
+    <w>invandrarnas</w>
+    <w>kvinnor</w>
+  </absaspan>
+  <w>.</w>
+  <w>Var</w>
+  <absaspan id=8>
+    <w>indianerna</w>
+  </absaspan>
+  <w>historiens</w>
+  <w>första</w>
+  <absaspan id=9 senti=2>
+    <w>rasister</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

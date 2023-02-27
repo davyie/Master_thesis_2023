@@ -1,0 +1,311 @@
+<absadoc annotators=6 senti=>
+<absatitle>
+  <absaspan id=1 senti=4 target=1>
+    <w>Ett</w>
+    <w>litet</w>
+    <w>kliv</w>
+    <w>framåt</w>
+    <w>för</w>
+    <w>mänskligheten</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>hörde</w>
+  <w>på</w>
+  <w>radion</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>den</w>
+    <w>amerikanska</w>
+    <w>bilindustrin</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>hade</w>
+    <w>uppvaktat</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>George</w>
+    <w>W</w>
+    <w>Bush</w>
+  </absaspan>
+  <w>.</w>
+  <w>Anledningen</w>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=6>
+    <w>bilindustrin</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>har</w>
+    <w>stora</w>
+    <w>problem</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>den</w>
+    <w>tuffa</w>
+    <w>konkurrensen</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>deras</w>
+  <w>krav</w>
+  <w>till</w>
+  <w>presidenten</w>
+  <w>handlade</w>
+  <w>inte</w>
+  <w>om</w>
+  <w>stödpaket</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=9>
+    <w>De</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>ville</w>
+    <w>i</w>
+    <w>stället</w>
+    <w>ha</w>
+    <w>ett</w>
+    <w>löfte</w>
+    <w>från</w>
+    <w>Bush</w>
+    <w>att</w>
+    <w>se</w>
+    <w>till</w>
+    <w>att</w>
+    <w>det</w>
+    <w>finns</w>
+    <w>etanolpumpar</w>
+    <w>på</w>
+    <w>alla</w>
+    <w>mackar</w>
+    <w>inom</w>
+    <w>en</w>
+    <w>snar</w>
+    <w>framtid</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=11>
+    <w>I</w>
+    <w>gengäld</w>
+    <w>skulle</w>
+    <w>de</w>
+    <w>producera</w>
+    <w>etanolbilar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Även</w>
+  <w>om</w>
+  <absaspan id=12>
+    <w>miljön</w>
+  </absaspan>
+  <absaspan id=13 senti=3>
+    <w>inte</w>
+    <w>var</w>
+    <w>det</w>
+    <w>främsta</w>
+    <w>skälet</w>
+  </absaspan>
+  <w>till</w>
+  <absaspan id=14>
+    <w>deras</w>
+    <w>framstöt</w>
+  </absaspan>
+  <w>utan</w>
+  <w>snarare</w>
+  <w>lönsamheten</w>
+  <w>och</w>
+  <w>oljeberoendet</w>
+  <w>så</w>
+  <absaspan id=15 senti=4>
+    <w>är</w>
+    <w>det</w>
+    <w>toppen</w>
+  </absaspan>
+  <absaspan id=16 senti=5>
+    <w>!</w>
+  </absaspan>
+  <absaspan id=17 senti=5>
+    <w>Satsar</w>
+    <w>USA</w>
+    <w>stenhårt</w>
+    <w>på</w>
+    <w>etanolbilar</w>
+  </absaspan>
+  <absaspan id=18 senti=4>
+    <w>lär</w>
+    <w>det</w>
+    <w>sprida</w>
+    <w>sig</w>
+    <w>till</w>
+    <w>hela</w>
+    <w>bilindustrin</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=19>
+    <w>Det</w>
+    <w>stora</w>
+    <w>internationella</w>
+    <w>politiska</w>
+    <w>engagemaget</w>
+    <w>för</w>
+    <w>miljön</w>
+    <w>just</w>
+    <w>nu</w>
+  </absaspan>
+  <absaspan id=20 senti=5>
+    <w>är</w>
+    <w>en</w>
+    <w>milstolpe</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=21 senti=4>
+    <w>Jag</w>
+    <w>applåderar</w>
+  </absaspan>
+  <w>fast</w>
+  <w>politikerna</w>
+  <w>just</w>
+  <w>nu</w>
+  <w>flyger</w>
+  <w>över</w>
+  <w>hela</w>
+  <w>världen</w>
+  <w>fram</w>
+  <w>och</w>
+  <w>tillbaka</w>
+  <w>och</w>
+  <w>diskurerar</w>
+  <w>nya</w>
+  <w>åtgärder</w>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=22 senti=4>
+    <w>vore</w>
+    <w>bättre</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>de</w>
+    <w>sammanträdde</w>
+    <w>över</w>
+    <w>internet</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>vi</w>
+  <w>ska</w>
+  <w>inte</w>
+  <w>begära</w>
+  <w>allt</w>
+  <w>på</w>
+  <w>en</w>
+  <w>gång</w>
+  <w>.</w>
+  <absaspan id=24>
+    <w>Kampen</w>
+    <w>för</w>
+    <w>miljön</w>
+  </absaspan>
+  <absaspan id=25 senti=4>
+    <w>har</w>
+    <w>tagit</w>
+    <w>ett</w>
+    <w>”</w>
+    <w>litet</w>
+    <w>”</w>
+    <w>kliv</w>
+    <w>för</w>
+    <w>mänskligheten</w>
+  </absaspan>
+  <absaspan id=26 senti=4>
+    <w>.</w>
+  </absaspan>
+  <w>Mycket</w>
+  <w>återstår</w>
+  <w>.</w>
+  <w>Framför</w>
+  <w>allt</w>
+  <w>kan</w>
+  <absaspan id=27>
+    <w>vi</w>
+    <w>som</w>
+    <w>enskilda</w>
+    <w>individer</w>
+  </absaspan>
+  <w>också</w>
+  <absaspan id=28 senti=4>
+    <w>dra</w>
+    <w>vårt</w>
+    <w>strå</w>
+    <w>till</w>
+    <w>stacken</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Dagens</w>
+  <w>debattsida</w>
+  <w>visar</w>
+  <w>en</w>
+  <w>del</w>
+  <w>av</w>
+  <w>det</w>
+  <absaspan id=29 senti=4>
+    <w>stora</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>gensvar</w>
+    <w>som</w>
+    <w>fått</w>
+    <w>från</w>
+    <w>människor</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>I</w>
+  <w>dag</w>
+  <w>överlåter</w>
+  <w>vi</w>
+  <w>sidorna</w>
+  <w>till</w>
+  <w>alla</w>
+  <w>som</w>
+  <w>vill</w>
+  <w>diskutera</w>
+  <absaspan id=31 senti=1>
+    <w>klimathotet</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=32 senti=4>
+    <w>Äntligen</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>det</w>
+    <w>miljön</w>
+    <w>som</w>
+    <w>vi</w>
+    <w>diskuterar</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>!</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

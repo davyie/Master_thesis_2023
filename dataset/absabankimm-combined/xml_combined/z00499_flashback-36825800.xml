@@ -1,0 +1,184 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <absaspan id=1 senti=3>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>5050</w>
+  <w>st</w>
+  <w>ensammkommande</w>
+  <w>flyktingbarn</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>2010</w>
+  <w>-</w>
+  <w>2011</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Sverige</w>
+  <w>har</w>
+  <w>gjort</w>
+  <w>det</w>
+  <w>igen</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>#</w>
+  <w>P</w>
+  <absaspan id=2 senti=3>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>5050</w>
+  <w>stycken</w>
+  <w>ensamkommande</w>
+  <w>flyktingbarn</w>
+  <w>under</w>
+  <w>2010</w>
+  <w>-</w>
+  <w>2011</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Och</w>
+  <w>det</w>
+  <w>verkar</w>
+  <w>komma</w>
+  <w>mer</w>
+  <w>i</w>
+  <w>år</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=2>
+  <absaspan id=3 senti=1>
+    <w>Hur</w>
+    <w>f-n</w>
+    <w>är</w>
+    <w>det</w>
+    <w>möjligt</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>att</w>
+    <w>detta</w>
+    <w>kan</w>
+    <w>hända</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=2>
+  <w>Resa</w>
+  <w>utan</w>
+  <w>äldre</w>
+  <w>personer</w>
+  <w>över</w>
+  <w>land</w>
+  <w>och</w>
+  <w>rika</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=1>
+  <w>Och</w>
+  <w>sen</w>
+  <w>troligtvis</w>
+  <w>"</w>
+  <w>tappat</w>
+  <w>"</w>
+  <w>alla</w>
+  <w>papper</w>
+  <w>när</w>
+  <w>de</w>
+  <w>beträder</w>
+  <w>svensk</w>
+  <w>mark</w>
+  <w>.</w>
+</absapar>
+<absapar id=7 senti=1>
+  <w>Men</w>
+  <w>vi</w>
+  <w>tycker</w>
+  <w>så</w>
+  <w>synd</w>
+  <w>om</w>
+  <w>dessa</w>
+  <w>"</w>
+  <w>barn</w>
+  <w>"</w>
+  <w>så</w>
+  <w>vi</w>
+  <w>tar</w>
+  <w>in</w>
+  <w>dom</w>
+  <w>hit</w>
+  <w>.</w>
+</absapar>
+<absapar id=8 senti=2>
+  <w>Ger</w>
+  <w>dom</w>
+  <w>en</w>
+  <w>rakhyvel</w>
+  <w>och</w>
+  <w>ett</w>
+  <w>hus</w>
+  <w>att</w>
+  <w>bo</w>
+  <w>i</w>
+  <w>.</w>
+</absapar>
+<absapar id=9 senti=2>
+  <w>även</w>
+  <w>fast</w>
+  <w>pensionärer</w>
+  <w>lider</w>
+  <w>i</w>
+  <w>samma</w>
+  <w>kommun</w>
+  <w>.</w>
+</absapar>
+<absapar id=10 senti=2>
+  <w>via</w>
+  <w>de</w>
+  <w>skäggiga</w>
+  <w>barnen</w>
+  <w>verkar</w>
+  <w>det</w>
+  <w>som</w>
+  <w>.</w>
+</absapar>
+<absapar id=11 senti=1>
+  <absaspan id=5 senti=1>
+    <w>fy</w>
+    <w>f-n</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>sverige</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=12 senti=1>
+  <absaspan id=7 senti=1>
+    <w>hur</w>
+    <w>f-n</w>
+    <w>är</w>
+    <w>det</w>
+    <w>möjligt</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>att</w>
+    <w>dom</w>
+    <w>kan</w>
+    <w>komma</w>
+    <w>hit</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=13 senti=2>
+  <w>kan</w>
+  <w>nån</w>
+  <w>svar</w>
+  <w>.</w>
+</absapar>
+</absadoc>

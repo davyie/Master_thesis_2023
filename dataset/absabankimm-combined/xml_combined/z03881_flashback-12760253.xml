@@ -1,0 +1,40 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Vad</w>
+  <absaspan id=1 senti=2 target=1>
+    <w>17</w>
+  </absaspan>
+  <w>är</w>
+  <w>nu</w>
+  <w>på</w>
+  <w>gång</w>
+  <w>?</w>
+  <absaspan id=2 senti=1>
+    <w>Etnisk</w>
+    <w>registrering</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Varför</w>
+  <w>skulle</w>
+  <w>de</w>
+  <w>etniska</w>
+  <w>minoriteterna</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>ha</w>
+  <w>en</w>
+  <w>annan</w>
+  <w>sjukdomsbild</w>
+  <w>än</w>
+  <w>oss</w>
+  <absaspan id=3 senti=1>
+    <w>vanliga</w>
+    <w>ussla</w>
+    <w>svennar</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,114 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Är</w>
+  <w>handikappade</w>
+  <w>en</w>
+  <w>folkgrupp</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Hej</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>(</w>
+  <w>Vet</w>
+  <w>inte</w>
+  <w>om</w>
+  <absaspan id=1>
+    <w>kriminologi</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=2 senti=3>
+    <w>den</w>
+    <w>rätta</w>
+    <w>tråden</w>
+  </absaspan>
+  <w>men</w>
+  <w>det</w>
+  <w>lär</w>
+  <w>jag</w>
+  <w>väll</w>
+  <w>få</w>
+  <w>se</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1</w>
+  <w>)</w>
+  <w>Är</w>
+  <w>handikappade</w>
+  <w>en</w>
+  <w>folkgrupp</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>2</w>
+  <w>)</w>
+  <w>Kan</w>
+  <absaspan id=3>
+    <w>någon</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=4 senti=2>
+    <w>säger</w>
+    <w>något</w>
+    <w>nedlåtande</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=5>
+    <w>handikappade</w>
+  </absaspan>
+  <w>dömas</w>
+  <w>för</w>
+  <w>hets</w>
+  <w>mot</w>
+  <w>folkgrupp</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>3</w>
+  <w>)</w>
+  <w>Hur</w>
+  <w>grovt</w>
+  <w>måste</w>
+  <w>den</w>
+  <w>nedlåtande</w>
+  <w>kommentarn</w>
+  <w>vara</w>
+  <w>för</w>
+  <w>att</w>
+  <w>det</w>
+  <w>ska</w>
+  <w>leda</w>
+  <w>till</w>
+  <w>en</w>
+  <w>dom</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>M.v.h</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Smiliz</w>
+  <w>.</w>
+</absapar>
+</absadoc>

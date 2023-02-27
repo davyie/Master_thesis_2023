@@ -1,0 +1,305 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Regeringen</w>
+  </absaspan>
+  <absaspan id=2 senti=2 source=1 target=3>
+    <w>i</w>
+    <w>panik</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>då</w>
+    <w>"</w>
+    <w>falska</w>
+    <w>"</w>
+    <w>Sverigenyheter</w>
+    <w>sprids</w>
+    <w>i</w>
+    <w>Ungern</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Med</w>
+  <w>drygt</w>
+  <w>fem</w>
+  <w>månader</w>
+  <w>till</w>
+  <w>sin</w>
+  <w>sorti</w>
+  <w>ur</w>
+  <w>riksdagen</w>
+  <w>har</w>
+  <w>miljöskadepartiets</w>
+  <w>språk</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>.</w>
+  <w>,</w>
+  <w>missbildningsminister</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>begett</w>
+  <w>sig</w>
+  <w>till</w>
+  <w>Ungern</w>
+  <w>för</w>
+  <w>att</w>
+  <w>göra</w>
+  <w>rent</w>
+  <w>hus</w>
+  <w>med</w>
+  <w>de</w>
+  <w>missuppfattningar</w>
+  <w>och</w>
+  <w>fördomar</w>
+  <w>som</w>
+  <w>frodas</w>
+  <w>om</w>
+  <w>Svärjet</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Det</w>
+  <w>vore</w>
+  <w>intressant</w>
+  <w>att</w>
+  <w>få</w>
+  <w>veta</w>
+  <w>vad</w>
+  <w>de</w>
+  <w>ungerska</w>
+  <w>medierna</w>
+  <w>skriver</w>
+  <w>om</w>
+  <w>besöket</w>
+  <w>.</w>
+  <absaspan id=4 senti=2>
+    <w>Tyvärr</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>måste</w>
+    <w>jag</w>
+    <w>på</w>
+    <w>grund</w>
+    <w>av</w>
+    <w>nästan</w>
+    <w>obefintliga</w>
+    <w>kunskaper</w>
+    <w>i</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=6>
+    <w>nöja</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>mig</w>
+    <w>med</w>
+    <w>ett</w>
+    <w>par</w>
+    <w>engelskspråkiga</w>
+    <w>artiklar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Nättidningen</w>
+  <w>Budapest</w>
+  <w>Beacon</w>
+  <w>har</w>
+  <w>gjort</w>
+  <w>en</w>
+  <w>"</w>
+  <w>flash</w>
+  <w>interview</w>
+  <w>"</w>
+  <w>med</w>
+  <w>Fridolin</w>
+  <w>-</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>.</w>
+  <w>-</w>
+  <w>och</w>
+  <w>ställt</w>
+  <w>frågor</w>
+  <w>om</w>
+  <w>den</w>
+  <w>alltmer</w>
+  <w>kringskurna</w>
+  <w>yttrandefriheten</w>
+  <w>i</w>
+  <w>Svédország</w>
+  <w>.</w>
+  <w>Fridolin</w>
+  <w>svarar</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Intervjuaren</w>
+  <w>frågar</w>
+  <w>om</w>
+  <w>våldsbrottsligheten</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+  <w>I</w>
+  <w>stället</w>
+  <w>för</w>
+  <w>att</w>
+  <w>besvara</w>
+  <w>frågan</w>
+  <absaspan id=8 senti=4>
+    <w>gläds</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>Fridolin</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>att</w>
+    <w>Sverige</w>
+    <w>kunnat</w>
+    <w>bevilja</w>
+    <w>så</w>
+    <w>många</w>
+    <w>flyktingar</w>
+    <w>trygghet</w>
+    <w>och</w>
+    <w>säkerhet</w>
+    <w>,</w>
+    <w>och</w>
+    <w>över</w>
+    <w>att</w>
+    <w>den</w>
+    <w>goda</w>
+    <w>stämningen</w>
+    <w>i</w>
+    <w>landet</w>
+    <w>gör</w>
+    <w>att</w>
+    <w>svenska</w>
+    <w>familjer</w>
+    <w>skaffar</w>
+    <w>en</w>
+    <w>massa</w>
+    <w>ungar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Fridolin</w>
+  <w>vidhåller</w>
+  <w>också</w>
+  <w>att</w>
+  <w>dödligt</w>
+  <w>våld</w>
+  <w>är</w>
+  <w>sällsynt</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>,</w>
+  <w>jämfört</w>
+  <w>med</w>
+  <w>"</w>
+  <w>andra</w>
+  <w>europeiska</w>
+  <w>länder</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Sedan</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>en</w>
+  <w>sådan</w>
+  <w>här</w>
+  <w>artikel</w>
+  <w>,</w>
+  <w>där</w>
+  <w>Fridolin</w>
+  <w>själv</w>
+  <w>inte</w>
+  <w>tycks</w>
+  <w>få</w>
+  <w>komma</w>
+  <w>till</w>
+  <w>tals</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=12 senti=2>
+    <w>miljömupparnas</w>
+  </absaspan>
+  <w>ungerska</w>
+  <w>systerparti</w>
+  <w>LMP</w>
+  <w>:</w>
+  <w>s</w>
+  <w>premiärministerkandidat</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>har</w>
+  <w>talat</w>
+  <w>med</w>
+  <w>honom</w>
+  <w>,</w>
+  <w>och</w>
+  <w>berättar</w>
+  <w>exalterad</w>
+  <w>hur</w>
+  <w>hon</w>
+  <w>vill</w>
+  <w>förbättra</w>
+  <w>Ungerns</w>
+  <w>skolväsen</w>
+  <w>efter</w>
+  <w>svensk</w>
+  <w>modell</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>.</w>
+  <w>,</w>
+  <w>säger</w>
+  <w>hon</w>
+  <w>av</w>
+  <w>allt</w>
+  <w>att</w>
+  <w>döma</w>
+  <w>utan</w>
+  <w>en</w>
+  <w>enda</w>
+  <w>gnutta</w>
+  <w>ironi</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Några</w>
+  <w>ungerska</w>
+  <w>länkar</w>
+  <w>,</w>
+  <w>som</w>
+  <w>det</w>
+  <w>vore</w>
+  <w>väldigt</w>
+  <w>trevligt</w>
+  <w>att</w>
+  <w>få</w>
+  <w>refererade</w>
+  <w>av</w>
+  <w>någon</w>
+  <w>språkkunnig</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,151 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Invandrare</w>
+  <w>i</w>
+  <w>klacken</w>
+  <w>=</w>
+  <w>tecken</w>
+  <w>på</w>
+  <absaspan id=1 senti=4 target=2>
+    <w>lyckad</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>integration</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Jag</w>
+  <w>har</w>
+  <w>på</w>
+  <w>senare</w>
+  <w>tid</w>
+  <w>sett</w>
+  <w>att</w>
+  <w>det</w>
+  <w>dycker</w>
+  <w>upp</w>
+  <w>fler</w>
+  <w>och</w>
+  <absaspan id=3>
+    <w>fler</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>invandrare</w>
+    <w>i</w>
+    <w>de</w>
+    <w>allsvenska</w>
+    <w>klackarna</w>
+  </absaspan>
+  <w>,</w>
+  <w>typ</w>
+  <w>AIK</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>och</w>
+  <w>IFK</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Är</w>
+  <absaspan id=5>
+    <w>detta</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>tecken</w>
+    <w>på</w>
+    <w>någonting</w>
+    <w>bra</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Är</w>
+  <w>det</w>
+  <absaspan id=7 senti=4>
+    <w>bra</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>att</w>
+    <w>fler</w>
+    <w>invandrare</w>
+    <w>blir</w>
+    <w>fans</w>
+    <w>till</w>
+    <w>svenska</w>
+    <w>lag</w>
+  </absaspan>
+  <w>?</w>
+  <w>Det</w>
+  <w>borde</w>
+  <w>ju</w>
+  <w>vara</w>
+  <w>ett</w>
+  <w>tecken</w>
+  <w>på</w>
+  <w>en</w>
+  <absaspan id=9 senti=4>
+    <w>lyckad</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>integration</w>
+  </absaspan>
+  <w>för</w>
+  <w>dessa</w>
+  <w>personer</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Vilket</w>
+  <w>lag</w>
+  <w>har</w>
+  <w>flest</w>
+  <w>inavndrare</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>klack</w>
+  <w>?</w>
+  <w>Alltså</w>
+  <w>av</w>
+  <w>de</w>
+  <w>stora</w>
+  <w>svenska</w>
+  <w>klubbarna</w>
+  <w>(</w>
+  <w>ej</w>
+  <w>Syrianska</w>
+  <w>osv</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <w>Jag</w>
+  <w>har</w>
+  <w>sett</w>
+  <w>invandrare</w>
+  <w>som</w>
+  <w>rest</w>
+  <w>med</w>
+  <w>sina</w>
+  <w>allsvenska</w>
+  <w>lag</w>
+  <w>till</w>
+  <w>andra</w>
+  <w>städer</w>
+  <w>(</w>
+  <w>vilket</w>
+  <w>får</w>
+  <w>anses</w>
+  <w>som</w>
+  <w>att</w>
+  <w>man</w>
+  <w>då</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>hängivet</w>
+  <w>fan</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+</absadoc>

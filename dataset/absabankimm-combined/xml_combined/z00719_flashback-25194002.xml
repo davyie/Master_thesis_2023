@@ -1,0 +1,59 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Dansk</w>
+  </absaspan>
+  <absaspan id=2 senti=2 source=1 target=3>
+    <w>kritik</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=3>
+    <w>Valcensur</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4 senti=2>
+    <w>Så</w>
+    <w>illa</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=5>
+    <w>det</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Tycker</w>
+  <w>ni</w>
+  <w>också</w>
+  <w>det</w>
+  <absaspan id=6 senti=4>
+    <w>behövs</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>valobservatörer</w>
+    <w>till</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>,</w>
+  <w>eller</w>
+  <w>är</w>
+  <w>det</w>
+  <w>bra</w>
+  <w>att</w>
+  <absaspan id=8 senti=2>
+    <w>makten</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>kan</w>
+    <w>kontrollera</w>
+    <w>folket</w>
+    <w>hämningslöst</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

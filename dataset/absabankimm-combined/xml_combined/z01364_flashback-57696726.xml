@@ -1,0 +1,127 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Orsak</w>
+  <w>till</w>
+  <w>Brexit</w>
+  <w>nämns</w>
+  <w>aldrig</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>När</w>
+  <w>man</w>
+  <w>läser</w>
+  <w>om</w>
+  <w>Brexit</w>
+  <w>så</w>
+  <w>nämns</w>
+  <w>aldrig</w>
+  <w>några</w>
+  <w>bakomliggande</w>
+  <w>orsaker</w>
+  <w>.</w>
+  <w>Alltså</w>
+  <w>vad</w>
+  <w>som</w>
+  <w>gjorde</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>britterna</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>fick</w>
+    <w>nog</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>EU</w>
+  </absaspan>
+  <w>.</w>
+  <w>Idag</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>läsa</w>
+  <w>i</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>om</w>
+  <w>hur</w>
+  <absaspan id=4>
+    <w>Angela</w>
+    <w>Merkel</w>
+    <w>och</w>
+    <w>Francois</w>
+    <w>Hollande</w>
+  </absaspan>
+  <w>har</w>
+  <w>en</w>
+  <w>gemensam</w>
+  <w>plan</w>
+  <w>för</w>
+  <w>hur</w>
+  <w>man</w>
+  <absaspan id=5 senti=2>
+    <w>ska</w>
+    <w>stoppa</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>"</w>
+    <w>Brexit-smittan</w>
+    <w>"</w>
+  </absaspan>
+  <w>,</w>
+  <w>så</w>
+  <w>den</w>
+  <w>inte</w>
+  <w>sprids</w>
+  <w>till</w>
+  <w>andra</w>
+  <w>EU-länder</w>
+  <w>,</w>
+  <w>men</w>
+  <w>inte</w>
+  <w>ens</w>
+  <w>i</w>
+  <w>den</w>
+  <w>artikeln</w>
+  <w>nämns</w>
+  <w>något</w>
+  <w>om</w>
+  <w>vad</w>
+  <w>orsakerna</w>
+  <w>var</w>
+  <w>till</w>
+  <w>att</w>
+  <w>UK</w>
+  <w>ville</w>
+  <w>lämna</w>
+  <w>.</w>
+  <w>Om</w>
+  <w>man</w>
+  <absaspan id=7 senti=2>
+    <w>ska</w>
+    <w>stoppa</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>smittan</w>
+  </absaspan>
+  <w>och</w>
+  <w>jobba</w>
+  <w>förebyggande</w>
+  <w>så</w>
+  <w>måste</w>
+  <w>man</w>
+  <w>väl</w>
+  <w>ta</w>
+  <w>reda</w>
+  <w>på</w>
+  <w>hur</w>
+  <w>den</w>
+  <w>uppstod</w>
+  <w>?</w>
+  <absaspan id=9>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

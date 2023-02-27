@@ -1,0 +1,121 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Butikskedjan</w>
+  <w>Indiska</w>
+  <w>rasistisk</w>
+  <w>?</w>
+  <w>Tvingar</w>
+  <w>sina</w>
+  <w>kunder</w>
+  <w>säga</w>
+  <w>God</w>
+  <w>Jul</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Såg</w>
+  <w>nyligen</w>
+  <w>TV-reklamen</w>
+  <w>för</w>
+  <w>Indiska</w>
+  <w>där</w>
+  <w>de</w>
+  <w>i</w>
+  <w>slutet</w>
+  <w>säger</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>man</w>
+    <w>får</w>
+    <w>rabatt</w>
+    <w>i</w>
+    <w>kassan</w>
+    <w>om</w>
+    <w>man</w>
+    <w>säger</w>
+    <w>God</w>
+    <w>Jul</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=2>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>tog</w>
+    <w>väldigt</w>
+    <w>illa</w>
+    <w>vid</w>
+    <w>mig</w>
+  </absaspan>
+  <w>då</w>
+  <w>jag</w>
+  <w>inte</w>
+  <w>firar</w>
+  <w>Jul</w>
+  <w>och</w>
+  <w>undrar</w>
+  <w>om</w>
+  <w>det</w>
+  <absaspan id=4 senti=4>
+    <w>är</w>
+    <w>okej</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>butikskedjan</w>
+    <w>att</w>
+    <w>göra</w>
+    <w>så</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=6>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>(</w>
+  <w>Gjorde</w>
+  <w>samma</w>
+  <w>tråd</w>
+  <w>under</w>
+  <w>en</w>
+  <w>annan</w>
+  <w>kategori</w>
+  <w>men</w>
+  <w>admin</w>
+  <w>kastade</w>
+  <w>den</w>
+  <w>i</w>
+  <w>papperskorgen</w>
+  <w>istället</w>
+  <w>för</w>
+  <w>att</w>
+  <w>bara</w>
+  <w>ändra</w>
+  <w>kategori</w>
+  <w>så</w>
+  <w>därför</w>
+  <w>skapar</w>
+  <w>jag</w>
+  <w>en</w>
+  <w>ny</w>
+  <w>och</w>
+  <w>hoppas</w>
+  <w>jag</w>
+  <w>har</w>
+  <w>valt</w>
+  <w>rätt</w>
+  <w>kategori</w>
+  <w>denna</w>
+  <w>gång</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+</absadoc>

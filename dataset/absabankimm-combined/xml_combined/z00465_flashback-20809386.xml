@@ -1,0 +1,74 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Ensamkommande</w>
+  <w>ankarbarn</w>
+  <w>fick</w>
+  <w>eget</w>
+  <w>radhus</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Ett</w>
+  <absaspan id=1 senti=4 irony>
+    <w>"</w>
+    <w>bra</w>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>sätt</w>
+  </absaspan>
+  <w>att</w>
+  <w>ljuga</w>
+  <w>sig</w>
+  <w>till</w>
+  <w>PUT</w>
+  <w>är</w>
+  <w>att</w>
+  <w>"</w>
+  <w>hävda</w>
+  <w>att</w>
+  <w>föräldrarna</w>
+  <w>är</w>
+  <w>döda</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Men</w>
+  <w>så</w>
+  <w>var</w>
+  <w>inte</w>
+  <w>fallet</w>
+  <w>.</w>
+  <w>Efter</w>
+  <w>ett</w>
+  <w>tag</w>
+  <w>.</w>
+  <w>Nu</w>
+  <w>bor</w>
+  <w>familjen</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>radhus</w>
+  <w>för</w>
+  <w>skattepengar</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <absaspan id=3 senti=2>
+    <w>Hur</w>
+    <w>kan</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>detta</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>vara</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>möjligt</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

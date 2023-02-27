@@ -1,0 +1,64 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Regerigen</w>
+  <w>överväger</w>
+  <w>att</w>
+  <w>införa</w>
+  <w>tiggeriförbud</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>DN</w>
+  <w>rapporterar</w>
+  <w>nu</w>
+  <w>om</w>
+  <w>att</w>
+  <w>regeringen</w>
+  <w>överväger</w>
+  <w>att</w>
+  <w>införa</w>
+  <absaspan id=1>
+    <w>tiggeriförbud</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>enligt</w>
+    <w>norsk</w>
+    <w>eller</w>
+    <w>dansk</w>
+    <w>modell</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>om</w>
+  <absaspan id=3>
+    <w>detta</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=4 senti=4>
+    <w>Ett</w>
+    <w>steg</w>
+    <w>i</w>
+    <w>rätt</w>
+    <w>riktning</w>
+  </absaspan>
+  <w>eller</w>
+  <absaspan id=5 senti=2>
+    <w>bara</w>
+    <w>en</w>
+    <w>floskel</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>locka</w>
+  <w>tillbaka</w>
+  <w>väljare</w>
+  <w>från</w>
+  <w>SD</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

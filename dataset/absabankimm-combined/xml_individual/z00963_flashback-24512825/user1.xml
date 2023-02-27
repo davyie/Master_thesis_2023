@@ -1,0 +1,74 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>World</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>of</w>
+    <w>Tanks</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ett</w>
+  <w>MMO</w>
+  <w>med</w>
+  <w>tanks</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Har</w>
+  <w>just</w>
+  <w>borjat</w>
+  <w>lira</w>
+  <w>betan</w>
+  <w>och</w>
+  <absaspan id=3>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>ar</w>
+    <w>ju</w>
+    <w>riktigt</w>
+    <w>roligt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Kan</w>
+  <w>inte</w>
+  <w>sluta</w>
+  <w>spela</w>
+  <w>,</w>
+  <w>maste</w>
+  <w>fa</w>
+  <w>ihop</w>
+  <w>xp</w>
+  <w>till</w>
+  <w>att</w>
+  <w>lasa</w>
+  <w>upp</w>
+  <w>IS</w>
+  <w>2</w>
+  <w>-</w>
+  <w>THE</w>
+  <w>GREATEST</w>
+  <w>TANK</w>
+  <w>OF</w>
+  <w>WW2</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Man</w>
+  <w>kan</w>
+  <w>fortfarande</w>
+  <w>ansöka</w>
+  <w>om</w>
+  <w>en</w>
+  <w>beta</w>
+  <w>nyckel</w>
+  <w>helt</w>
+  <w>gratis</w>
+  <w>pa</w>
+  <w>.</w>
+</absapar>
+</absadoc>

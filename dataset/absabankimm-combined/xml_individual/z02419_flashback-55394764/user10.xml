@@ -1,0 +1,133 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Vill</w>
+  <w>att</w>
+  <w>bistånd</w>
+  <w>ska</w>
+  <w>gå</w>
+  <w>till</w>
+  <w>mat</w>
+  <w>,</w>
+  <w>medecin</w>
+  <w>osv</w>
+  <w>.</w>
+  <w>och</w>
+  <w>ej</w>
+  <w>till</w>
+  <w>invandring.Är</w>
+  <w>jag</w>
+  <w>vänster</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Som</w>
+  <w>rubriken</w>
+  <w>lyder</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>anser</w>
+  <w>att</w>
+  <absaspan id=1 senti=4>
+    <w>solidaritet</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>utlandets</w>
+    <w>drabbade</w>
+  </absaspan>
+  <w>visas</w>
+  <absaspan id=3 senti=5>
+    <w>bäst</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>när</w>
+    <w>resurser</w>
+    <w>går</w>
+    <w>till</w>
+    <w>utlandet</w>
+    <w>istället</w>
+    <w>för</w>
+    <w>till</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>,</w>
+  <w>samt</w>
+  <w>att</w>
+  <absaspan id=5>
+    <w>ett</w>
+    <w>krisdrabbat</w>
+    <w>utland</w>
+  </absaspan>
+  <w>alltid</w>
+  <w>bör</w>
+  <w>ses</w>
+  <w>som</w>
+  <absaspan id=6 senti=1>
+    <w>en</w>
+    <w>förlustaffär</w>
+  </absaspan>
+  <w>istället</w>
+  <w>för</w>
+  <w>(</w>
+  <w>genom</w>
+  <w>invandring</w>
+  <w>)</w>
+  <w>en</w>
+  <w>vinst</w>
+  <w>,</w>
+  <w>eftersom</w>
+  <absaspan id=7>
+    <w>politikerna</w>
+  </absaspan>
+  <w>då</w>
+  <w>har</w>
+  <w>motiv</w>
+  <w>till</w>
+  <w>att</w>
+  <absaspan id=8 senti=4>
+    <w>stävja</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>kriserna</w>
+  </absaspan>
+  <w>i</w>
+  <w>utlandet</w>
+  <w>istället</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=10 senti=4>
+    <w>dra</w>
+    <w>nytta</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>dem</w>
+  </absaspan>
+  <w>.</w>
+  <w>Är</w>
+  <absaspan id=12>
+    <w>jag</w>
+  </absaspan>
+  <w>,</w>
+  <w>med</w>
+  <w>en</w>
+  <w>sådan</w>
+  <w>syn</w>
+  <w>på</w>
+  <w>hur</w>
+  <absaspan id=13 senti=4>
+    <w>solidaritet</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>utlandet</w>
+  </absaspan>
+  <w>ska</w>
+  <w>visas</w>
+  <w>,</w>
+  <w>fortfarande</w>
+  <w>vänster</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

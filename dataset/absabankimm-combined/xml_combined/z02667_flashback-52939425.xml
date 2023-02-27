@@ -1,0 +1,267 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Skillnad</w>
+  <w>på</w>
+  <w>Hitlers</w>
+  <w>lebensraum</w>
+  <w>och</w>
+  <w>Israels</w>
+  <w>ockupation</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Hitler</w>
+  <w>ville</w>
+  <w>ha</w>
+  <w>lebensraum</w>
+  <w>-</w>
+  <w>livsrum</w>
+  <w>.</w>
+  <w>Gör</w>
+  <w>inte</w>
+  <w>judarna</w>
+  <w>(</w>
+  <w>Israel</w>
+  <w>)</w>
+  <w>samma</w>
+  <w>sak</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=1>
+    <w>Hitler</w>
+  </absaspan>
+  <w>utrotade</w>
+  <absaspan id=2>
+    <w>judar</w>
+  </absaspan>
+  <w>(</w>
+  <absaspan id=3>
+    <w>som</w>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>såg</w>
+    <w>som</w>
+    <w>en</w>
+    <w>plåga</w>
+  </absaspan>
+  <w>)</w>
+  <w>-</w>
+  <w>gör</w>
+  <w>inte</w>
+  <w>judarna</w>
+  <w>samma</w>
+  <w>sak</w>
+  <w>(</w>
+  <w>med</w>
+  <w>palestinerna</w>
+  <w>)</w>
+  <w>.</w>
+  <w>Tänker</w>
+  <w>på</w>
+  <w>krigen</w>
+  <w>,</w>
+  <absaspan id=5 senti=2>
+    <w>onödiga</w>
+  </absaspan>
+  <w>(</w>
+  <w>?</w>
+  <w>)</w>
+  <absaspan id=6>
+    <w>dödskjutningar</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=7 senti=2>
+    <w>överdrivna</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>fängslingar</w>
+    <w>fängslingar</w>
+    <w>(</w>
+    <w>av</w>
+    <w>palestininer</w>
+    <w>)</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Jag</w>
+  <w>vistas</w>
+  <w>hellre</w>
+  <w>med</w>
+  <w>judar</w>
+  <w>i</w>
+  <w>Israel</w>
+  <w>än</w>
+  <w>med</w>
+  <w>araber</w>
+  <w>i</w>
+  <w>Palestina</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>beror</w>
+  <w>dock</w>
+  <w>mest</w>
+  <w>på</w>
+  <w>kulturen</w>
+  <w>-</w>
+  <absaspan id=9>
+    <w>den</w>
+    <w>israeliska</w>
+    <w>kulturen</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>är</w>
+    <w>mer</w>
+    <w>västerländsk</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Så</w>
+  <w>hur</w>
+  <w>försvarar</w>
+  <w>judarna</w>
+  <w>detta</w>
+  <w>agerande</w>
+  <w>(</w>
+  <w>Punkt</w>
+  <w>1</w>
+  <w>&</w>
+  <w>2</w>
+  <w>)</w>
+  <w>?</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>ju</w>
+  <w>trots</w>
+  <w>allt</w>
+  <absaspan id=11 senti=1>
+    <w>ett</w>
+    <w>"</w>
+    <w>jävla</w>
+    <w>gnäll</w>
+    <w>"</w>
+  </absaspan>
+  <w>från</w>
+  <absaspan id=12>
+    <w>judarna</w>
+  </absaspan>
+  <w>gällande</w>
+  <absaspan id=13>
+    <w>WW2</w>
+  </absaspan>
+  <w>.</w>
+  <w>Borde</w>
+  <w>de</w>
+  <w>inte</w>
+  <w>föregå</w>
+  <w>med</w>
+  <w>gott</w>
+  <w>exempel</w>
+  <absaspan id=14 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>D.v.s</w>
+  <w>hålla</w>
+  <w>sig</w>
+  <w>till</w>
+  <w>sina</w>
+  <w>områden</w>
+  <w>,</w>
+  <w>inte</w>
+  <w>expandera</w>
+  <w>och</w>
+  <w>inte</w>
+  <absaspan id=15 senti=1>
+    <w>"</w>
+    <w>jävlas</w>
+    <w>"</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>araberna</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1</w>
+  <w>.</w>
+  <w>Gör</w>
+  <w>de</w>
+  <absaspan id=17>
+    <w>(</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>judarna</w>
+    <w>)</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>samma</w>
+    <w>"</w>
+    <w>hemskheter</w>
+    <w>"</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=20>
+    <w>de</w>
+  </absaspan>
+  <w>själva</w>
+  <absaspan id=21 senti=2>
+    <w>klagade</w>
+    <w>och</w>
+    <w>klagar</w>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>(</w>
+    <w>WW2</w>
+    <w>)</w>
+  </absaspan>
+  <w>&</w>
+  <w>2</w>
+  <w>.</w>
+  <w>Hur</w>
+  <w>försvarar</w>
+  <w>de</w>
+  <w>sitt</w>
+  <w>agerande</w>
+  <w>(</w>
+  <w>Se</w>
+  <w>punkt</w>
+  <w>2</w>
+  <w>)</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Vet</w>
+  <w>att</w>
+  <absaspan id=23>
+    <w>frågeställningen</w>
+  </absaspan>
+  <absaspan id=24 senti=2>
+    <w>är</w>
+    <w>kort</w>
+    <w>och</w>
+    <w>månne</w>
+    <w>"</w>
+    <w>ytlig</w>
+    <w>"</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>vill</w>
+  <w>samla</w>
+  <w>åsikter</w>
+  <w>i</w>
+  <w>ämnet</w>
+  <w>.</w>
+</absapar>
+</absadoc>

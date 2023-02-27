@@ -1,0 +1,60 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>I'm</w>
+  <w>a</w>
+  <w>Muslim</w>
+  <w>,</w>
+  <absaspan id=1 senti=1 target=2>
+    <w>fuck</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Swedes</w>
+    <w>!</w>
+  </absaspan>
+  <w>"</w>
+  <w>:</w>
+  <w>sen</w>
+  <w>slog</w>
+  <w>de</w>
+  <w>ned</w>
+  <w>svensk</w>
+  <w>på</w>
+  <w>kryckor</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Kommer</w>
+  <w>vi</w>
+  <w>se</w>
+  <w>flera</w>
+  <w>såna</w>
+  <w>här</w>
+  <w>fall</w>
+  <w>av</w>
+  <w>rasism</w>
+  <w>mot</w>
+  <w>svenskar</w>
+  <w>?</w>
+  <w>Detta</w>
+  <w>måste</w>
+  <w>väl</w>
+  <w>ändå</w>
+  <w>räknas</w>
+  <w>som</w>
+  <w>hatbrott</w>
+  <w>eller</w>
+  <w>är</w>
+  <w>det</w>
+  <w>något</w>
+  <w>som</w>
+  <w>man</w>
+  <w>måste</w>
+  <w>acceptera</w>
+  <w>i</w>
+  <w>vårt</w>
+  <w>mångkulturella</w>
+  <w>samhälle</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

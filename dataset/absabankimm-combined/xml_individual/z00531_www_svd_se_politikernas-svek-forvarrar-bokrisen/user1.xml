@@ -1,0 +1,888 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Politikernas</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>svek</w>
+  </absaspan>
+  <absaspan id=3 senti=2 target=1>
+    <w>förvärrar</w>
+  </absaspan>
+  <w>bokrisen</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Bostadskrisen</w>
+  <w>är</w>
+  <w>sedan</w>
+  <w>länge</w>
+  <w>ett</w>
+  <w>faktum</w>
+  <w>.</w>
+  <w>Den</w>
+  <w>politiska</w>
+  <absaspan id=4 senti=2>
+    <w>handlingsförlamningen</w>
+  </absaspan>
+  <w>när</w>
+  <w>det</w>
+  <w>gäller</w>
+  <w>de</w>
+  <w>strukturella</w>
+  <w>problemen</w>
+  <w>är</w>
+  <w>dessvärre</w>
+  <w>också</w>
+  <w>sedan</w>
+  <w>länge</w>
+  <w>ett</w>
+  <w>faktum</w>
+  <w>.</w>
+  <absaspan id=5>
+    <w>Alliansregeringen</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>gjorde</w>
+    <w>för</w>
+    <w>lite</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=7>
+    <w>De</w>
+    <w>rödgröna</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>gör</w>
+    <w>ingenting</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>Sverige</w>
+  <w>tål</w>
+  <w>inte</w>
+  <w>mer</w>
+  <absaspan id=9>
+    <w>bostadsbrist</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Nu</w>
+  <absaspan id=11 senti=4>
+    <w>måste</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>statsministern</w>
+    <w>och</w>
+    <w>samtliga</w>
+    <w>partiledare</w>
+    <w>engagera</w>
+  </absaspan>
+  <w>sig</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=13>
+    <w>Bostadsbristen</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>är</w>
+    <w>ett</w>
+    <w>hot</w>
+  </absaspan>
+  <w>mot</w>
+  <w>Sveriges</w>
+  <w>ekonomiska</w>
+  <w>utveckling</w>
+  <w>.</w>
+  <absaspan id=15>
+    <w>Bristen</w>
+    <w>på</w>
+    <w>hyresrätter</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>är</w>
+    <w>det</w>
+    <w>stora</w>
+    <w>problemet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Konflikten</w>
+  <w>mellan</w>
+  <w>verklighet</w>
+  <w>och</w>
+  <w>politisk</w>
+  <w>taktik</w>
+  <w>är</w>
+  <w>uppenbar</w>
+  <w>.</w>
+  <w>Årets</w>
+  <w>Almedalsvecka</w>
+  <w>hade</w>
+  <w>fler</w>
+  <w>seminarier</w>
+  <w>om</w>
+  <w>bostadskrisen</w>
+  <w>än</w>
+  <w>någon</w>
+  <w>gång</w>
+  <w>tidigare</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>ingen</w>
+  <w>partiledare</w>
+  <w>tog</w>
+  <w>upp</w>
+  <w>bostadsbristen</w>
+  <w>i</w>
+  <w>sitt</w>
+  <w>tal</w>
+  <w>,</w>
+  <w>utom</w>
+  <absaspan id=17>
+    <w>FP-ledaren</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=18 senti=2>
+    <w>raljerade</w>
+  </absaspan>
+  <w>om</w>
+  <w>ett</w>
+  <w>planhushållningssystem</w>
+  <w>han</w>
+  <w>slagit</w>
+  <w>vakt</w>
+  <w>om</w>
+  <w>i</w>
+  <w>regeringsställning</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>I</w>
+  <absaspan id=19>
+    <w>en</w>
+    <w>nyligen</w>
+    <w>presenterad</w>
+    <w>bilaga</w>
+    <w>till</w>
+    <w>Långtidsutredningen</w>
+  </absaspan>
+  <w>konstateras</w>
+  <w>att</w>
+  <absaspan id=20>
+    <w>en</w>
+    <w>väl</w>
+    <w>fungerande</w>
+    <w>matchning</w>
+    <w>mellan</w>
+    <w>arbetsgivare</w>
+    <w>och</w>
+    <w>arbetssökande</w>
+  </absaspan>
+  <absaspan id=21 senti=4>
+    <w>är</w>
+    <w>central</w>
+    <w>för</w>
+    <w>den</w>
+    <w>ekonomiska</w>
+    <w>tillväxten</w>
+  </absaspan>
+  <w>och</w>
+  <w>att</w>
+  <w>detta</w>
+  <w>förutsätter</w>
+  <w>en</w>
+  <w>väl</w>
+  <w>fungerande</w>
+  <w>bostadsmarknad</w>
+  <w>.</w>
+  <absaspan id=22 senti=4>
+    <w>Det</w>
+    <w>konstateras</w>
+  </absaspan>
+  <w>vidare</w>
+  <absaspan id=23>
+    <w>att</w>
+    <w>normalt</w>
+    <w>är</w>
+    <w>hyresrätten</w>
+    <w>lättare</w>
+    <w>att</w>
+    <w>flytta</w>
+    <w>till</w>
+    <w>och</w>
+    <w>från</w>
+    <w>än</w>
+    <w>ägda</w>
+    <w>bostäder</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>,</w>
+  <w>skriver</w>
+  <w>man</w>
+  <w>,</w>
+  <w>"</w>
+  <w>Sverige</w>
+  <w>skiljer</w>
+  <w>sig</w>
+  <w>emellertid</w>
+  <w>från</w>
+  <w>andra</w>
+  <w>länder</w>
+  <w>i</w>
+  <w>detta</w>
+  <w>avseende</w>
+  <w>.</w>
+  <w>(</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>)</w>
+  <w>Anledningen</w>
+  <w>till</w>
+  <w>detta</w>
+  <w>är</w>
+  <w>att</w>
+  <w>regleringen</w>
+  <w>av</w>
+  <w>den</w>
+  <w>svenska</w>
+  <w>hyresmarknaden</w>
+  <w>,</w>
+  <w>det</w>
+  <w>så</w>
+  <w>kallade</w>
+  <w>bruksvärdessystemet</w>
+  <w>,</w>
+  <w>gör</w>
+  <w>att</w>
+  <w>transaktionskostnaderna</w>
+  <w>,</w>
+  <w>främst</w>
+  <w>i</w>
+  <w>form</w>
+  <w>av</w>
+  <w>söktid</w>
+  <w>,</w>
+  <w>ökar</w>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Kort</w>
+  <w>sagt</w>
+  <w>.</w>
+  <absaspan id=24>
+    <w>Bostadsbristen</w>
+  </absaspan>
+  <absaspan id=25 senti=2>
+    <w>är</w>
+    <w>ett</w>
+    <w>hot</w>
+  </absaspan>
+  <w>mot</w>
+  <w>Sveriges</w>
+  <w>ekonomiska</w>
+  <w>utveckling</w>
+  <w>.</w>
+  <absaspan id=26>
+    <w>Bristen</w>
+    <w>på</w>
+    <w>hyresrätter</w>
+  </absaspan>
+  <absaspan id=27 senti=2>
+    <w>är</w>
+    <w>det</w>
+    <w>stora</w>
+    <w>problemet</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=28 senti=4>
+    <w>Förvisso</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>har</w>
+    <w>det</w>
+    <w>politiska</w>
+    <w>och</w>
+    <w>mediala</w>
+    <w>intresset</w>
+    <w>ökat</w>
+    <w>i</w>
+    <w>takt</w>
+    <w>med</w>
+    <w>att</w>
+    <w>fler</w>
+    <w>drabbas</w>
+    <w>av</w>
+    <w>bostadskrisen</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=30>
+    <w>Den</w>
+    <w>politiska</w>
+    <w>diskussionen</w>
+  </absaspan>
+  <absaspan id=31 senti=2>
+    <w>har</w>
+  </absaspan>
+  <w>dock</w>
+  <absaspan id=32 senti=2>
+    <w>stannat</w>
+  </absaspan>
+  <absaspan id=33 senti=2>
+    <w>vid</w>
+  </absaspan>
+  <absaspan id=34 senti=2>
+    <w>ytlig</w>
+    <w>retorik</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=35 senti=2>
+    <w>inte</w>
+    <w>fört</w>
+    <w>saken</w>
+    <w>framåt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Undantaget</w>
+  <w>kan</w>
+  <w>sägas</w>
+  <w>vara</w>
+  <w>bostadsminister</w>
+  <absaspan id=36>
+    <w>Stefan</w>
+    <w>Attefalls</w>
+  </absaspan>
+  <absaspan id=37 senti=4>
+    <w>ambitiösa</w>
+  </absaspan>
+  <absaspan id=38 senti=4>
+    <w>avvecklingsplan</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>av</w>
+    <w>administrativa</w>
+    <w>hinder</w>
+  </absaspan>
+  <w>för</w>
+  <w>en</w>
+  <w>snabb</w>
+  <w>planprocess</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>alliansregeringen</w>
+  <w>valde</w>
+  <w>att</w>
+  <w>avstå</w>
+  <w>från</w>
+  <w>strukturella</w>
+  <w>förändringar</w>
+  <w>av</w>
+  <w>denna</w>
+  <absaspan id=40 senti=2>
+    <w>kollapsade</w>
+  </absaspan>
+  <absaspan id=41>
+    <w>marknad</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Den</w>
+  <w>nuvarande</w>
+  <w>regeringen</w>
+  <w>föreslår</w>
+  <absaspan id=42>
+    <w>subventioner</w>
+  </absaspan>
+  <absaspan id=43>
+    <w>–</w>
+    <w>och</w>
+    <w>tillfälliga</w>
+    <w>"</w>
+    <w>moduler</w>
+  </absaspan>
+  <w>"</w>
+  <w>–</w>
+  <w>som</w>
+  <w>lösningen</w>
+  <w>på</w>
+  <w>bostadsbristen</w>
+  <w>.</w>
+  <absaspan id=44>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=45 senti=2>
+    <w>ger</w>
+    <w>inte</w>
+    <w>ett</w>
+  </absaspan>
+  <w>särskilt</w>
+  <absaspan id=46 senti=2>
+    <w>genomtänkt</w>
+  </absaspan>
+  <absaspan id=47 senti=2>
+    <w>intryck</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=48 senti=2>
+    <w>Varken</w>
+  </absaspan>
+  <absaspan id=49>
+    <w>fastighetsbranschen</w>
+  </absaspan>
+  <absaspan id=50 senti=2>
+    <w>eller</w>
+  </absaspan>
+  <absaspan id=51>
+    <w>byggbranschen</w>
+  </absaspan>
+  <absaspan id=52 senti=2>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=53 senti=2>
+    <w>ha</w>
+  </absaspan>
+  <absaspan id=54>
+    <w>subventioner</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=55 senti=2>
+    <w>Ingen</w>
+    <w>tror</w>
+  </absaspan>
+  <w>förmodligen</w>
+  <absaspan id=56 senti=2>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=57>
+    <w>de</w>
+    <w>tillfälliga</w>
+    <w>modulerna</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Det</w>
+  <w>bostadspolitiska</w>
+  <w>problemet</w>
+  <w>är</w>
+  <w>som</w>
+  <w>sagt</w>
+  <w>inte</w>
+  <w>nytt</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>har</w>
+  <w>därför</w>
+  <w>varit</w>
+  <w>föremål</w>
+  <w>för</w>
+  <w>otaliga</w>
+  <w>utredningar</w>
+  <w>:</w>
+  <w>SOU</w>
+  <w>,</w>
+  <w>Finanspolitiska</w>
+  <w>rådet</w>
+  <w>,</w>
+  <w>Boverket</w>
+  <w>,</w>
+  <w>Riksbanken</w>
+  <w>,</w>
+  <w>EU-kommissionen</w>
+  <w>,</w>
+  <w>OECD</w>
+  <w>,</w>
+  <w>IMF</w>
+  <w>,</w>
+  <w>Nybyggarkommissionen</w>
+  <w>,</w>
+  <w>Bokriskommittén</w>
+  <w>och</w>
+  <w>nyligen</w>
+  <w>bostadsrapporten</w>
+  <w>kopplad</w>
+  <w>till</w>
+  <w>Långtidsutredningen</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>i</w>
+  <w>dagarna</w>
+  <w>Europeiska</w>
+  <w>rådet</w>
+  <w>.</w>
+  <w>Frågan</w>
+  <w>är</w>
+  <w>med</w>
+  <w>andra</w>
+  <w>ord</w>
+  <w>välutredd</w>
+  <w>och</w>
+  <absaspan id=58>
+    <w>ytterligare</w>
+    <w>utredningar</w>
+  </absaspan>
+  <w>om</w>
+  <w>grundproblemen</w>
+  <absaspan id=59 senti=2>
+    <w>behövs</w>
+    <w>inte</w>
+  </absaspan>
+  <w>.</w>
+  <w>Nu</w>
+  <absaspan id=60 senti=4>
+    <w>krävs</w>
+  </absaspan>
+  <absaspan id=61>
+    <w>beslut</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=62 senti=2>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=63>
+    <w>fler</w>
+    <w>utredningar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <absaspan id=64>
+    <w>Investeringar</w>
+    <w>i</w>
+    <w>nya</w>
+    <w>hyresbostäder</w>
+  </absaspan>
+  <absaspan id=65 senti=4>
+    <w>är</w>
+    <w>långsiktiga</w>
+    <w>och</w>
+    <w>mycket</w>
+    <w>kapitalintensiva</w>
+  </absaspan>
+  <w>.</w>
+  <w>Spelreglerna</w>
+  <w>för</w>
+  <w>dessa</w>
+  <w>investeringar</w>
+  <w>måste</w>
+  <w>därför</w>
+  <w>vara</w>
+  <w>politiskt</w>
+  <w>stabila</w>
+  <w>och</w>
+  <w>långsiktigt</w>
+  <w>trovärdiga</w>
+  <w>.</w>
+  <absaspan id=66 senti=4>
+    <w>Detta</w>
+    <w>kräver</w>
+  </absaspan>
+  <absaspan id=67>
+    <w>blocköverskridande</w>
+    <w>överenskommelser</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>samband</w>
+  <w>med</w>
+  <w>presentationen</w>
+  <w>av</w>
+  <w>Nybyggarkommissionens</w>
+  <w>rapport</w>
+  <w>konstaterade</w>
+  <w>förre</w>
+  <w>statsministern</w>
+  <w>Göran</w>
+  <w>Persson</w>
+  <w>också</w>
+  <w>att</w>
+  <w>förändringar</w>
+  <w>i</w>
+  <w>bostadspolitiken</w>
+  <w>kräver</w>
+  <w>en</w>
+  <w>statsministers</w>
+  <w>helhjärtade</w>
+  <w>engagemang</w>
+  <w>för</w>
+  <w>att</w>
+  <w>bli</w>
+  <w>framgångsrika</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Statsministern</w>
+  <absaspan id=68 senti=4>
+    <w>måste</w>
+  </absaspan>
+  <w>nu</w>
+  <w>,</w>
+  <w>när</w>
+  <absaspan id=69>
+    <w>bostadsbristen</w>
+  </absaspan>
+  <absaspan id=70 senti=2>
+    <w>är</w>
+    <w>ett</w>
+    <w>hot</w>
+  </absaspan>
+  <w>mot</w>
+  <w>fler</w>
+  <w>jobb</w>
+  <w>och</w>
+  <w>ekonomisk</w>
+  <w>tillväxt</w>
+  <w>,</w>
+  <w>ta</w>
+  <absaspan id=71>
+    <w>initiativ</w>
+    <w>till</w>
+    <w>omgående</w>
+    <w>överläggningar</w>
+    <w>med</w>
+    <w>övriga</w>
+    <w>partiledare</w>
+    <w>om</w>
+    <w>konkreta</w>
+    <w>förändringar</w>
+    <w>av</w>
+    <w>förutsättningarna</w>
+    <w>för</w>
+    <w>fler</w>
+    <w>tillgängliga</w>
+    <w>bostäder</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>,</w>
+  <w>framför</w>
+  <w>allt</w>
+  <w>hyresrätter</w>
+  <w>i</w>
+  <w>Stockholmsregionen</w>
+  <w>och</w>
+  <w>övriga</w>
+  <w>tillväxtorter</w>
+  <w>.</w>
+  <absaspan id=72>
+    <w>Att</w>
+    <w>fortsätta</w>
+    <w>att</w>
+    <w>göra</w>
+    <w>ingenting</w>
+  </absaspan>
+  <absaspan id=73 senti=2>
+    <w>är</w>
+    <w>inte</w>
+    <w>ett</w>
+    <w>alternativ</w>
+  </absaspan>
+  <w>.</w>
+  <w>Och</w>
+  <w>nu</w>
+  <absaspan id=74 senti=3>
+    <w>behövs</w>
+  </absaspan>
+  <absaspan id=75 senti=3>
+    <w>mer</w>
+    <w>än</w>
+  </absaspan>
+  <absaspan id=76>
+    <w>taktiska</w>
+    <w>överväganden</w>
+  </absaspan>
+  <w>,</w>
+  <w>nämligen</w>
+  <absaspan id=77>
+    <w>politiskt</w>
+    <w>mod</w>
+    <w>och</w>
+    <w>handlingskraft</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Och</w>
+  <w>med</w>
+  <w>dessa</w>
+  <w>partiledaregenskaper</w>
+  <w>som</w>
+  <w>fundament</w>
+  <absaspan id=78 senti=4>
+    <w>innehåller</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=79>
+    <w>slutsatserna</w>
+    <w>i</w>
+    <w>de</w>
+    <w>många</w>
+    <w>redan</w>
+    <w>gjorda</w>
+    <w>utredningarna</w>
+  </absaspan>
+  <absaspan id=80 senti=4>
+    <w>några</w>
+  </absaspan>
+  <absaspan id=81 senti=4>
+    <w>oöverstigliga</w>
+    <w>politiska</w>
+    <w>hinder</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Lyckas</w>
+  <w>inte</w>
+  <w>de</w>
+  <w>politiska</w>
+  <w>ledarna</w>
+  <w>under</w>
+  <w>statsministerns</w>
+  <w>ledning</w>
+  <absaspan id=82>
+    <w>att</w>
+    <w>mycket</w>
+    <w>snart</w>
+    <w>komma</w>
+    <w>överens</w>
+    <w>om</w>
+    <w>en</w>
+    <w>långsiktig</w>
+    <w>politik</w>
+    <w>för</w>
+    <w>fler</w>
+    <w>bostäder</w>
+  </absaspan>
+  <w>,</w>
+  <w>framför</w>
+  <w>allt</w>
+  <w>fler</w>
+  <w>hyresrätter</w>
+  <w>,</w>
+  <w>så</w>
+  <absaspan id=83>
+    <w>kommer</w>
+  </absaspan>
+  <absaspan id=84>
+    <w>människors</w>
+    <w>livsdrömmar</w>
+    <w>att</w>
+    <w>fortsätta</w>
+    <w>att</w>
+    <w>krossas</w>
+    <w>och</w>
+    <w>den</w>
+    <w>ekonomiska</w>
+    <w>utvecklingen</w>
+    <w>att</w>
+    <w>motverkas</w>
+  </absaspan>
+  <absaspan id=85 senti=4>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=86>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=87 senti=2>
+    <w>har</w>
+  </absaspan>
+  <w>Sverige</w>
+  <absaspan id=88 senti=2>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=89 senti=2>
+    <w>råd</w>
+    <w>med</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Christer</w>
+  <w>Jansson</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>tidigare</w>
+  <w>vd</w>
+  <w>för</w>
+  <w>Fastighetsägarna</w>
+  <w>Stockholm</w>
+  <w>,</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Senior</w>
+  <w>Advisor</w>
+  <w>vid</w>
+  <w>Nordic</w>
+  <w>Public</w>
+  <w>Affairs</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,136 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Eurobarometern</w>
+  <w>:</w>
+  <absaspan id=1>
+    <w>3</w>
+    <w>/</w>
+    <w>4</w>
+    <w>svenskar</w>
+  </absaspan>
+  <absaspan id=2 senti=4 source=1>
+    <w>är</w>
+    <w>positiva</w>
+  </absaspan>
+  <w>till</w>
+  <absaspan id=3>
+    <w>invandring</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Men</w>
+  <w>som</w>
+  <w>vanligt</w>
+  <w>så</w>
+  <w>finns</w>
+  <w>det</w>
+  <absaspan id=4 senti=2>
+    <w>stora</w>
+    <w>problem</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=5>
+    <w>dessa</w>
+    <w>undersökningar</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Hur</w>
+  <w>många</w>
+  <absaspan id=6 senti=4>
+    <w>vågade</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>uttrycka</w>
+    <w>sin</w>
+    <w>uppriktiga</w>
+    <w>åsikt</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Hur</w>
+  <w>många</w>
+  <w>var</w>
+  <w>verkligen</w>
+  <w>svenskar</w>
+  <w>som</w>
+  <w>dom</w>
+  <w>frågade</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Jag</w>
+  <absaspan id=9 senti=3>
+    <w>tror</w>
+    <w>utan</w>
+    <w>tvekan</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=10>
+    <w>svensken</w>
+    <w>är</w>
+    <w>mest</w>
+    <w>positiv</w>
+    <w>av</w>
+    <w>alla</w>
+    <w>i</w>
+    <w>Europa</w>
+    <w>till</w>
+    <w>en</w>
+    <w>utomeuropeisk</w>
+    <w>invandring</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>tre</w>
+  <w>av</w>
+  <w>fyra</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Haha</w>
+  <w>,</w>
+  <w>inte</w>
+  <w>en</w>
+  <w>chans</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=2>
+  <w>Det</w>
+  <w>börjar</w>
+  <w>snarare</w>
+  <w>att</w>
+  <w>närma</w>
+  <w>sig</w>
+  <w>50</w>
+  <w>/</w>
+  <w>50</w>
+  <w>nu</w>
+  <w>.</w>
+  <w>Just</w>
+  <w>därför</w>
+  <w>så</w>
+  <w>snickrade</w>
+  <absaspan id=11>
+    <w>dom</w>
+  </absaspan>
+  <w>ihop</w>
+  <w>denna</w>
+  <w>undersökning</w>
+  <w>i</w>
+  <absaspan id=12 senti=2>
+    <w>ren</w>
+    <w>desperation</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

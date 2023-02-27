@@ -1,0 +1,174 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Våldtäkt</w>
+  </absaspan>
+  <w>-</w>
+  <absaspan id=2 senti=2 target=1>
+    <w>det</w>
+    <w>tassas</w>
+    <w>runt</w>
+    <w>elefanten</w>
+    <w>i</w>
+    <w>rummet</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <w>händer</w>
+  <w>saker</w>
+  <w>i</w>
+  <w>vår</w>
+  <w>herres</w>
+  <w>hage</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Studio</w>
+  <w>Ett</w>
+  <w>hade</w>
+  <w>denna</w>
+  <w>dag</w>
+  <w>en</w>
+  <w>minidebatt</w>
+  <w>mellan</w>
+  <w>Morgan</w>
+  <w>Johansson</w>
+  <w>och</w>
+  <w>Tomas</w>
+  <w>Tobé</w>
+  <w>.</w>
+  <w>Den</w>
+  <w>handlade</w>
+  <w>om</w>
+  <w>att</w>
+  <w>anmälningar</w>
+  <w>rörande</w>
+  <w>våldtäkter</w>
+  <w>blir</w>
+  <w>liggande</w>
+  <w>hos</w>
+  <w>polisen</w>
+  <w>i</w>
+  <w>månader</w>
+  <w>utan</w>
+  <w>utredning</w>
+  <w>.</w>
+  <w>Ingalunda</w>
+  <w>några</w>
+  <w>häpnadsväckande</w>
+  <w>nyheter</w>
+  <w>för</w>
+  <absaspan id=3 senti=2>
+    <w>det</w>
+    <w>luttrade</w>
+    <w>folket</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Nyhetsvärdet</w>
+  <w>med</w>
+  <w>denna</w>
+  <w>tilldragelse</w>
+  <w>var</w>
+  <w>att</w>
+  <w>Tomas</w>
+  <w>Tobé</w>
+  <w>helt</w>
+  <w>utan</w>
+  <w>tvekan</w>
+  <w>i</w>
+  <w>rösten</w>
+  <w>talade</w>
+  <w>om</w>
+  <w>att</w>
+  <w>mycket</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>värderingar</w>
+  <w>och</w>
+  <w>att</w>
+  <w>han</w>
+  <w>i</w>
+  <w>samma</w>
+  <w>mening</w>
+  <w>som</w>
+  <w>ordet</w>
+  <w>våldtäkt</w>
+  <w>pratade</w>
+  <w>om</w>
+  <w>ensamkommande</w>
+  <w>Afghaner</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>.</w>
+  <w>Som</w>
+  <w>lök</w>
+  <w>på</w>
+  <w>laxen</w>
+  <absaspan id=4 senti=2>
+    <w>fick</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>Tobé</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>minsta</w>
+    <w>mothugg</w>
+  </absaspan>
+  <w>,</w>
+  <w>varken</w>
+  <w>från</w>
+  <w>Johansson</w>
+  <w>eller</w>
+  <w>redaktionen</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=8>
+    <w>Jag</w>
+  </absaspan>
+  <w>får</w>
+  <w>intrycket</w>
+  <w>av</w>
+  <w>att</w>
+  <w>något</w>
+  <w>hänt</w>
+  <w>efter</w>
+  <w>Batras</w>
+  <w>tillkännagivande</w>
+  <w>om</w>
+  <w>sin</w>
+  <w>avgång</w>
+  <w>,</w>
+  <absaspan id=9>
+    <w>debatten</w>
+    <w>har</w>
+    <w>öppnats</w>
+    <w>upp</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>må</w>
+  <w>vara</w>
+  <w>en</w>
+  <w>slump</w>
+  <w>,</w>
+  <absaspan id=10 senti=4>
+    <w>känns</w>
+    <w>uppfriskande</w>
+  </absaspan>
+  <w>oavsett</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,121 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Stockholm</w>
+  <w>:</w>
+  <w>Äldre</w>
+  <w>dam</w>
+  <w>till</w>
+  <w>rasistattack</w>
+  <w>mot</w>
+  <w>tjejer</w>
+  <w>,</w>
+  <w>nu</w>
+  <w>sprids</w>
+  <w>video</w>
+  <w>på</w>
+  <w>nätet</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Vad</w>
+  <w>vet</w>
+  <w>vi</w>
+  <w>flashbackare</w>
+  <w>mer</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>?</w>
+  <w>Vad</w>
+  <w>är</w>
+  <w>det</w>
+  <w>fråga</w>
+  <w>om</w>
+  <w>för</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>brott</w>
+  <w>här</w>
+  <w>?</w>
+  <w>Dom</w>
+  <w>följer</w>
+  <w>ju</w>
+  <w>efter</w>
+  <w>kvinnan</w>
+  <w>och</w>
+  <w>bara</w>
+  <w>späder</w>
+  <w>på</w>
+  <w>det</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>hela</w>
+  <w>tiden</w>
+  <w>känns</w>
+  <w>det</w>
+  <w>som</w>
+  <w>,</w>
+  <w>man</w>
+  <w>säger</w>
+  <w>väl</w>
+  <w>mycket</w>
+  <w>skit</w>
+  <w>när</w>
+  <w>man</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>är</w>
+  <w>berusad</w>
+  <w>eller</w>
+  <w>är</w>
+  <w>hon</w>
+  <w>en</w>
+  <w>tvättäkta</w>
+  <w>'</w>
+  <w>'</w>
+  <w>rasist</w>
+  <w>'</w>
+  <w>'</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=1 senti=2>
+    <w>Lite</w>
+    <w>jävla</w>
+    <w>hjärndött</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>och</w>
+    <w>följa</w>
+    <w>efter</w>
+    <w>ett</w>
+    <w>fyllo</w>
+    <w>och</w>
+    <w>försöka</w>
+    <w>få</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>något</w>
+  <w>vett</w>
+  <w>ur</w>
+  <w>henne</w>
+  <w>?</w>
+  <absaspan id=3 senti=2>
+    <w>Man</w>
+    <w>kan</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>prata</w>
+    <w>vett</w>
+    <w>med</w>
+    <w>fyllon</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

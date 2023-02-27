@@ -1,0 +1,260 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Vad</w>
+  <w>ska</w>
+  <w>du</w>
+  <w>göra</w>
+  <w>i</w>
+  <w>morgon</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <w>är</w>
+  <w>vår</w>
+  <w>nationaldag</w>
+  <w>i</w>
+  <w>morgon</w>
+  <w>.</w>
+  <w>Den</w>
+  <w>har</w>
+  <w>blivit</w>
+  <w>helgdag</w>
+  <w>,</w>
+  <w>vi</w>
+  <w>är</w>
+  <w>lediga</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>kan</w>
+  <w>tycka</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <absaspan id=1 senti=4>
+    <w>skönt</w>
+  </absaspan>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <absaspan id=2>
+    <w>en</w>
+    <w>fredag</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>så</w>
+  <w>där</w>
+  <w>himla</w>
+  <w>nationalistisk</w>
+  <w>känner</w>
+  <w>jag</w>
+  <w>mig</w>
+  <w>inte</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>är</w>
+  <w>mer</w>
+  <w>svensk</w>
+  <w>på</w>
+  <absaspan id=3>
+    <w>midsommarafton</w>
+  </absaspan>
+  <w>.</w>
+  <w>Då</w>
+  <w>vill</w>
+  <absaspan id=4>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>verkligen</w>
+    <w>fira</w>
+  </absaspan>
+  <w>med</w>
+  <w>jordgubbar</w>
+  <w>och</w>
+  <w>sill</w>
+  <w>och</w>
+  <w>nubbe</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>i</w>
+  <w>morgon</w>
+  <absaspan id=6 senti=4>
+    <w>unnar</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>jag</w>
+  </absaspan>
+  <w>mig</w>
+  <w>nog</w>
+  <absaspan id=8>
+    <w>inte</w>
+    <w>ens</w>
+    <w>en</w>
+    <w>bakelse</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>handlar</w>
+  <w>absolut</w>
+  <w>inte</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=9>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>inte</w>
+    <w>är</w>
+    <w>stolt</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>över</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>jag</w>
+  <w>!</w>
+  <w>Men</w>
+  <w>jag</w>
+  <w>har</w>
+  <w>ingen</w>
+  <w>relation</w>
+  <w>till</w>
+  <w>den</w>
+  <w>6</w>
+  <w>juni</w>
+  <w>.</w>
+  <absaspan id=12>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>avskyr</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>folkdräkter</w>
+    <w>och</w>
+    <w>ceremonier</w>
+    <w>med</w>
+    <w>flaggan</w>
+  </absaspan>
+  <w>.</w>
+  <w>Jag</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>så</w>
+  <w>intresserad</w>
+  <w>av</w>
+  <w>kungen</w>
+  <w>heller</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Egentligen</w>
+  <w>tycker</w>
+  <absaspan id=15>
+    <w>jag</w>
+  </absaspan>
+  <w>det</w>
+  <w>är</w>
+  <w>ett</w>
+  <absaspan id=16 senti=2>
+    <w>europeiskt</w>
+    <w>influerat</w>
+    <w>påhitt</w>
+  </absaspan>
+  <w>att</w>
+  <w>vi</w>
+  <w>också</w>
+  <absaspan id=17>
+    <w>ska</w>
+    <w>vara</w>
+    <w>glada</w>
+    <w>på</w>
+    <w>nationaldagen</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=18>
+    <w>Firandet</w>
+  </absaspan>
+  <w>har</w>
+  <absaspan id=19 senti=2>
+    <w>ingen</w>
+    <w>folklig</w>
+    <w>förankring</w>
+  </absaspan>
+  <w>,</w>
+  <w>det</w>
+  <w>är</w>
+  <w>regering</w>
+  <w>och</w>
+  <w>riksdag</w>
+  <w>som</w>
+  <w>har</w>
+  <w>bestämt</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>ska</w>
+  <w>vara</w>
+  <w>glada</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Även</w>
+  <w>om</w>
+  <absaspan id=20>
+    <w>politikerna</w>
+  </absaspan>
+  <w>kan</w>
+  <w>instifta</w>
+  <w>ledighetsdagar</w>
+  <absaspan id=21 senti=2>
+    <w>kan</w>
+    <w>de</w>
+    <w>inte</w>
+    <w>beordra</w>
+    <w>nationaldagsglädje</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>som</w>
+  <w>sagt</w>
+  <w>,</w>
+  <w>det</w>
+  <w>är</w>
+  <w>fredag</w>
+  <w>och</w>
+  <w>vi</w>
+  <w>är</w>
+  <w>lediga</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Vad</w>
+  <w>ska</w>
+  <w>ni</w>
+  <w>göra</w>
+  <w>i</w>
+  <w>morgon</w>
+  <w>?</w>
+  <w>Firar</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Mejla</w>
+  <w>oss</w>
+  <w>d</w>
+  <w>[</w>
+  <w>email</w>
+  <w>protected</w>
+  <w>]</w>
+  <w>.</w>
+</absapar>
+</absadoc>

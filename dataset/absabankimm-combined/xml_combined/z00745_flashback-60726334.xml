@@ -1,0 +1,68 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1 senti=4 target=1>
+    <w>Snygga</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Brukar</w>
+  <w>ni</w>
+  <w>ofta</w>
+  <w>se</w>
+  <absaspan id=2 senti=4>
+    <w>snygga</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>tänker</w>
+  <w>ni</w>
+  <w>då</w>
+  <w>när</w>
+  <w>ni</w>
+  <w>ser</w>
+  <w>dom</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>om</w>
+  <absaspan id=3 senti=4>
+    <w>snygga</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Finns</w>
+  <w>det</w>
+  <w>många</w>
+  <absaspan id=4 senti=4>
+    <w>snygga</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <w>Berätta</w>
+  <w>allt</w>
+  <w>ni</w>
+  <w>tycker</w>
+  <w>om</w>
+  <absaspan id=5 senti=4>
+    <w>snygga</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

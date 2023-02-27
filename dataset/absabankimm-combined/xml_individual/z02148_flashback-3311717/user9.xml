@@ -1,0 +1,184 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Bröderna</w>
+    <w>Schulman</w>
+  </absaspan>
+  <w>-</w>
+  <absaspan id=2 senti=2 target=1>
+    <w>vad</w>
+    <w>är</w>
+    <w>det</w>
+    <w>för</w>
+    <w>tomtar</w>
+  </absaspan>
+  <w>egentligen</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Dessa</w>
+  <w>två</w>
+  <w>snabbpratande</w>
+  <w>ynglingar</w>
+  <w>tycks</w>
+  <w>lida</w>
+  <w>av</w>
+  <w>någon</w>
+  <w>lindrigare</w>
+  <w>variant</w>
+  <w>av</w>
+  <w>damp</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Den</w>
+  <w>äldste</w>
+  <w>av</w>
+  <w>dem</w>
+  <w>skriver</w>
+  <w>ju</w>
+  <w>lite</w>
+  <w>krönikor</w>
+  <w>på</w>
+  <w>bl.a</w>
+  <w>Mingel</w>
+  <w>,</w>
+  <absaspan id=3>
+    <w>några</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>har</w>
+    <w>varit</w>
+    <w>lite</w>
+    <w>småroliga</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=5>
+    <w>andra</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>har</w>
+    <w>varit</w>
+    <w>riktiga</w>
+    <w>bottennapp</w>
+  </absaspan>
+  <w>.</w>
+  <w>Han</w>
+  <w>figurerar</w>
+  <w>ju</w>
+  <w>en</w>
+  <w>del</w>
+  <w>på</w>
+  <w>åttiotals-siten</w>
+  <w>"</w>
+  <w>Stureplan</w>
+  <w>"</w>
+  <w>också</w>
+  <w>har</w>
+  <w>jag</w>
+  <w>sett</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=7>
+    <w>Den</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>tvärhand</w>
+    <w>höge</w>
+    <w>(</w>
+    <w>Carl-Johan</w>
+    <w>)</w>
+    <w>,</w>
+    <w>med</w>
+    <w>det</w>
+    <w>säregna</w>
+    <w>utseendet</w>
+  </absaspan>
+  <w>uppmärksammade</w>
+  <w>jag</w>
+  <w>först</w>
+  <w>i</w>
+  <w>samband</w>
+  <w>med</w>
+  <w>"</w>
+  <w>Vem</w>
+  <w>vill</w>
+  <w>bli</w>
+  <w>miljonär</w>
+  <w>"</w>
+  <w>,</w>
+  <absaspan id=9>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>verkar</w>
+    <w>vid</w>
+    <w>en</w>
+    <w>första</w>
+    <w>anblick</w>
+    <w>vara</w>
+    <w>oerhört</w>
+    <w>enerverande</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vilka</w>
+  <w>är</w>
+  <absaspan id=11 senti=2>
+    <w>dessa</w>
+    <w>pajsare</w>
+  </absaspan>
+  <w>,</w>
+  <w>jag</w>
+  <w>gissar</w>
+  <w>att</w>
+  <w>de</w>
+  <w>fått</w>
+  <w>sina</w>
+  <w>mediejobb</w>
+  <w>genom</w>
+  <w>familj</w>
+  <w>och</w>
+  <w>vänner</w>
+  <w>?</w>
+  <w>Det</w>
+  <w>fanns</w>
+  <w>en</w>
+  <w>skäggig</w>
+  <w>farbror</w>
+  <w>som</w>
+  <w>hette</w>
+  <w>Schulman</w>
+  <w>,</w>
+  <w>var</w>
+  <w>inte</w>
+  <w>han</w>
+  <w>in</w>
+  <w>skvallerbranschen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Tydligen</w>
+  <w>har</w>
+  <w>de</w>
+  <w>retat</w>
+  <w>upp</w>
+  <w>någon</w>
+  <w>kvinna</w>
+  <w>i</w>
+  <w>övergångsåldern</w>
+  <w>så</w>
+  <w>att</w>
+  <w>de</w>
+  <w>fick</w>
+  <w>sparken</w>
+  <w>från</w>
+  <w>jobbet</w>
+  <w>på</w>
+  <w>TV4</w>
+  <w>.</w>
+</absapar>
+</absadoc>

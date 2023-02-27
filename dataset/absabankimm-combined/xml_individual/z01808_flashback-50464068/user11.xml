@@ -1,0 +1,191 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Metroartikel</w>
+  <w>om</w>
+  <absaspan id=1 senti=2 target=2>
+    <w>hånad</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>tiggarkvinna</w>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Följande</w>
+  <w>mycket</w>
+  <absaspan id=3>
+    <w>beklämmande</w>
+    <w>artikel</w>
+    <w>i</w>
+    <w>Metro</w>
+  </absaspan>
+  <w>för</w>
+  <w>en</w>
+  <w>att</w>
+  <absaspan id=4 senti=2>
+    <w>tappa</w>
+    <w>tron</w>
+    <w>på</w>
+    <w>människans</w>
+    <w>inneboende</w>
+    <w>godhet</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=5 senti=2>
+    <w>Problemet</w>
+    <w>är</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=6>
+    <w>artikeln</w>
+    <w>är</w>
+    <w>publicerad</w>
+    <w>i</w>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>notoriskt</w>
+    <w>opålitlig</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>medieprodukt</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>utan</w>
+    <w>någon</w>
+    <w>större</w>
+    <w>trovärdighet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vad</w>
+  <w>skall</w>
+  <w>man</w>
+  <w>tro</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Just</w>
+  <w>det</w>
+  <w>att</w>
+  <w>polisen</w>
+  <w>inget</w>
+  <w>gjorde</w>
+  <w>,</w>
+  <w>enligt</w>
+  <w>artikeln</w>
+  <w>,</w>
+  <w>gör</w>
+  <w>ju</w>
+  <w>att</w>
+  <w>man</w>
+  <w>undrar</w>
+  <w>lite</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Dessutom</w>
+  <w>ser</w>
+  <w>det</w>
+  <w>mer</w>
+  <w>ut</w>
+  <w>som</w>
+  <w>att</w>
+  <w>någon</w>
+  <w>hjälper</w>
+  <w>kvinnan</w>
+  <w>,</w>
+  <w>eventuellt</w>
+  <w>ger</w>
+  <w>henne</w>
+  <w>pengar</w>
+  <w>eller</w>
+  <w>pratar</w>
+  <w>med</w>
+  <w>henne</w>
+  <w>.</w>
+  <w>I</w>
+  <w>vart</w>
+  <w>fall</w>
+  <w>ser</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>ut</w>
+  <w>som</w>
+  <w>att</w>
+  <absaspan id=10>
+    <w>personen</w>
+  </absaspan>
+  <w>rakt</w>
+  <w>framför</w>
+  <absaspan id=11 senti=2>
+    <w>hånar</w>
+  </absaspan>
+  <w>henne</w>
+  <absaspan id=12>
+    <w>.</w>
+  </absaspan>
+  <w>I</w>
+  <w>artikeln</w>
+  <w>står</w>
+  <w>det</w>
+  <w>att</w>
+  <w>ingen</w>
+  <w>pratade</w>
+  <w>med</w>
+  <w>henne</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=13 senti=1>
+    <w>Puckot</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>med</w>
+    <w>mobilen</w>
+  </absaspan>
+  <w>däremot</w>
+  <absaspan id=15 senti=2>
+    <w>verkar</w>
+    <w>dock</w>
+    <w>lite</w>
+    <w>hånfull</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Vad</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Är</w>
+  <absaspan id=16>
+    <w>händelsen</w>
+  </absaspan>
+  <absaspan id=17 senti=3>
+    <w>korrekt</w>
+    <w>beskriven</w>
+    <w>i</w>
+    <w>Metro</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Någon</w>
+  <w>som</w>
+  <w>sett</w>
+  <w>något</w>
+  <w>i</w>
+  <w>sociala</w>
+  <w>medier</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,469 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Kollektivavtal</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>inte</w>
+    <w>effektiv</w>
+    <w>väg</w>
+    <w>att</w>
+    <w>gå</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Regleringar</w>
+  <w>via</w>
+  <w>kollektivavtal</w>
+  <w>är</w>
+  <w>i</w>
+  <w>det</w>
+  <w>här</w>
+  <w>fallet</w>
+  <w>inte</w>
+  <w>en</w>
+  <w>effektiv</w>
+  <w>väg</w>
+  <w>då</w>
+  <w>två</w>
+  <w>tredjedelar</w>
+  <w>av</w>
+  <w>företagen</w>
+  <w>saknar</w>
+  <w>avtal.Jan</w>
+  <w>Siezing</w>
+  <w>,</w>
+  <w>Mats</w>
+  <w>Björs</w>
+  <w>,</w>
+  <w>Thomas</w>
+  <w>Dahlberg</w>
+  <w>,</w>
+  <w>Hampe</w>
+  <w>Mobärg</w>
+  <w>,</w>
+  <w>Erik</w>
+  <w>Haara</w>
+  <w>,</w>
+  <w>Björn</w>
+  <w>Hellman</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=3>
+    <w>Arbetsgivare</w>
+    <w>och</w>
+    <w>arbetstagare</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>är</w>
+    <w>rörande</w>
+    <w>eniga</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>att</w>
+    <w>vi</w>
+    <w>på</w>
+    <w>alla</w>
+    <w>sätt</w>
+    <w>vill</w>
+    <w>förbättra</w>
+    <w>bygg</w>
+    <w>-</w>
+    <w>och</w>
+    <w>installationsbranschen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Låt</w>
+  <w>oss</w>
+  <w>därför</w>
+  <w>fokusera</w>
+  <w>på</w>
+  <w>likheterna</w>
+  <w>:</w>
+  <w>Det</w>
+  <w>finns</w>
+  <absaspan id=6>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>samsyn</w>
+    <w>mellan</w>
+    <w>fack</w>
+    <w>och</w>
+    <w>arbetsgivare</w>
+    <w>kring</w>
+    <w>skärpt</w>
+    <w>lagstiftning</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>skulle</w>
+    <w>göra</w>
+    <w>branschen</w>
+    <w>ännu</w>
+    <w>mera</w>
+    <w>effektiv</w>
+    <w>och</w>
+    <w>säker</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=10>
+    <w>Byggnads</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>kan</w>
+    <w>välja</w>
+    <w>att</w>
+    <w>driva</w>
+    <w>dessa</w>
+    <w>frågor</w>
+    <w>tillsammans</w>
+    <w>med</w>
+    <w>oss</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=12>
+    <w>vilket</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>skulle</w>
+    <w>gagna</w>
+  </absaspan>
+  <w>alla</w>
+  <w>parter</w>
+  <w>i</w>
+  <w>kedjan</w>
+  <w>,</w>
+  <w>från</w>
+  <w>bygg</w>
+  <w>-</w>
+  <w>och</w>
+  <w>installationsbranschen</w>
+  <w>till</w>
+  <w>slutkonsument</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1</w>
+  <w>.</w>
+  <w>Vi</w>
+  <absaspan id=14 senti=2>
+    <w>tror</w>
+    <w>inte</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>regleringar</w>
+    <w>i</w>
+    <w>kollektivavtalet</w>
+    <w>i</w>
+    <w>detta</w>
+    <w>fall</w>
+  </absaspan>
+  <w>,</w>
+  <w>det</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>garanterat</w>
+  <w>effektivt</w>
+  <w>sätt</w>
+  <w>att</w>
+  <w>bidra</w>
+  <w>till</w>
+  <w>utslagning</w>
+  <w>av</w>
+  <w>företag</w>
+  <w>och</w>
+  <w>deras</w>
+  <w>anställda</w>
+  <w>på</w>
+  <w>grund</w>
+  <w>av</w>
+  <absaspan id=16 senti=2>
+    <w>snedvriden</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>konkurrens</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>2</w>
+  <w>.</w>
+  <absaspan id=18>
+    <w>Regleringar</w>
+    <w>via</w>
+    <w>kollektivavtal</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>är</w>
+  </absaspan>
+  <w>i</w>
+  <w>det</w>
+  <w>här</w>
+  <w>fallet</w>
+  <absaspan id=20 senti=2>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>en</w>
+    <w>effektiv</w>
+    <w>väg</w>
+  </absaspan>
+  <w>då</w>
+  <w>två</w>
+  <w>tredjedelar</w>
+  <w>av</w>
+  <w>företagen</w>
+  <w>saknar</w>
+  <w>avtal</w>
+  <w>och</w>
+  <w>därför</w>
+  <w>inte</w>
+  <w>skulle</w>
+  <w>beröras</w>
+  <w>av</w>
+  <w>Byggnads</w>
+  <w>förslag</w>
+  <w>.</w>
+  <w>Från</w>
+  <w>arbetsgivarhåll</w>
+  <absaspan id=22 senti=5>
+    <w>är</w>
+  </absaspan>
+  <w>vi</w>
+  <absaspan id=23 senti=5>
+    <w>oerhört</w>
+  </absaspan>
+  <absaspan id=24 senti=5>
+    <w>måna</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>att</w>
+    <w>ingen</w>
+    <w>som</w>
+    <w>jobbar</w>
+    <w>i</w>
+    <w>branschen</w>
+    <w>ska</w>
+    <w>fara</w>
+    <w>illa</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=26>
+    <w>Att</w>
+    <w>bortse</w>
+    <w>från</w>
+    <w>dessa</w>
+    <w>faktorer</w>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=27 senti=2>
+    <w>riskera</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>en</w>
+    <w>stor</w>
+    <w>arbetsmarknadskonflikt</w>
+  </absaspan>
+  <absaspan id=29 senti=2>
+    <w>tycker</w>
+    <w>inte</w>
+    <w>vi</w>
+    <w>är</w>
+    <w>att</w>
+    <w>"</w>
+    <w>komma</w>
+    <w>till</w>
+    <w>insikt</w>
+    <w>och</w>
+    <w>ta</w>
+    <w>ansvar</w>
+    <w>"</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=30>
+    <w>Byggnads</w>
+  </absaspan>
+  <w>efterlyser</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <absaspan id=31>
+    <w>Att</w>
+    <w>aktivt</w>
+    <w>ta</w>
+    <w>initiativ</w>
+    <w>till</w>
+    <w>att</w>
+    <w>stävja</w>
+    <w>fusk</w>
+    <w>och</w>
+    <w>personrisker</w>
+    <w>i</w>
+    <w>hela</w>
+    <w>branschen</w>
+    <w>genom</w>
+    <w>lagstiftning</w>
+  </absaspan>
+  <absaspan id=32 senti=5>
+    <w>är</w>
+    <w>vad</w>
+    <w>vi</w>
+    <w>kallar</w>
+    <w>att</w>
+    <w>ha</w>
+    <w>insikt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Och</w>
+  <w>framför</w>
+  <w>allt</w>
+  <w>vad</w>
+  <w>vi</w>
+  <w>kallar</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>långsiktigt</w>
+  <w>ansvar</w>
+  <absaspan id=33 senti=5>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=9>
+  <w>JAN</w>
+  <w>SIEZING</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>vd</w>
+  <w>Elektriska</w>
+  <w>Installatörsorganisationen</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>MATS</w>
+  <w>BJÖRS</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>vd</w>
+  <w>VVS</w>
+  <w>Företagen</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>THOMAS</w>
+  <w>DAHLBERG</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>vd</w>
+  <w>PLR</w>
+  <w>Entreprenadföretagen</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>HAMPE</w>
+  <w>MOBÄRG</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>vd</w>
+  <w>Maskinentreprenörerna</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>ERIK</w>
+  <w>HAARA</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>vd</w>
+  <w>Glasbranschföreningen</w>
+  <w>.</w>
+</absapar>
+<absapar id=19>
+  <w>BJÖRN</w>
+  <w>HELLMAN</w>
+  <w>.</w>
+</absapar>
+<absapar id=20>
+  <w>vd</w>
+  <w>Målarmästarna</w>
+  <w>.</w>
+</absapar>
+<absapar id=21>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

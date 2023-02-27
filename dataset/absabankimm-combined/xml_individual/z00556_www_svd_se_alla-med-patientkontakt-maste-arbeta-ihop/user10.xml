@@ -1,0 +1,505 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=3 target=2>
+    <w>Alla</w>
+    <w>med</w>
+    <w>patientkontakt</w>
+    <w>måste</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>arbeta</w>
+    <w>ihop</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Anders</w>
+    <w>Rane</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=4>
+    <w>Lars</w>
+    <w>L</w>
+    <w>Gustavsson</w>
+  </absaspan>
+  <w>(</w>
+  <w>22</w>
+  <w>/</w>
+  <w>11</w>
+  <w>)</w>
+  <w>undrar</w>
+  <w>vilken</w>
+  <w>bot</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>för</w>
+  <absaspan id=5 senti=1>
+    <w>överbehandling</w>
+    <w>med</w>
+    <w>läkemedel</w>
+  </absaspan>
+  <w>till</w>
+  <w>våra</w>
+  <w>äldre</w>
+  <w>patienter</w>
+  <w>och</w>
+  <w>verkar</w>
+  <absaspan id=6 senti=4>
+    <w>anse</w>
+    <w>att</w>
+    <w>lösningen</w>
+    <w>är</w>
+  </absaspan>
+  <w>att</w>
+  <w>det</w>
+  <w>ska</w>
+  <w>finnas</w>
+  <absaspan id=7>
+    <w>en</w>
+    <w>elektronisk</w>
+    <w>kunskapsdatabas</w>
+    <w>tillgänglig</w>
+    <w>för</w>
+    <w>läkare</w>
+    <w>i</w>
+    <w>förskrivningsögonblicket</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Kanske</w>
+  <w>kan</w>
+  <w>detta</w>
+  <w>ge</w>
+  <w>vissa</w>
+  <w>effekter</w>
+  <w>men</w>
+  <w>vi</w>
+  <w>vill</w>
+  <w>betona</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=8 senti=3>
+    <w>inte</w>
+    <w>är</w>
+    <w>den</w>
+    <w>slutgiltiga</w>
+    <w>lösningen</w>
+  </absaspan>
+  <w>–</w>
+  <w>därtill</w>
+  <w>är</w>
+  <absaspan id=9>
+    <w>problemet</w>
+  </absaspan>
+  <absaspan id=10 senti=1>
+    <w>alltför</w>
+    <w>stort</w>
+    <w>och</w>
+    <w>komplext</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=11>
+    <w>En</w>
+    <w>databas</w>
+    <w>som</w>
+    <w>införs</w>
+    <w>utan</w>
+    <w>att</w>
+    <w>man</w>
+    <w>samtidigt</w>
+    <w>höjer</w>
+    <w>läkemedelskunnandet</w>
+    <w>i</w>
+    <w>vården</w>
+  </absaspan>
+  <w>blir</w>
+  <w>sannolikt</w>
+  <absaspan id=12 senti=1>
+    <w>en</w>
+    <w>dyr</w>
+    <w>kraftlös</w>
+    <w>satsning</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>De</w>
+  <w>skriver</w>
+  <w>även</w>
+  <w>att</w>
+  <w>läkemedelsgenomgångar</w>
+  <w>inte</w>
+  <w>ger</w>
+  <w>särskilt</w>
+  <w>stor</w>
+  <w>effekt</w>
+  <w>.</w>
+  <w>Observera</w>
+  <w>att</w>
+  <absaspan id=13>
+    <w>läkemedelsgenomgångar</w>
+  </absaspan>
+  <w>är</w>
+  <w>ett</w>
+  <w>ospecifikt</w>
+  <w>begrepp</w>
+  <w>,</w>
+  <absaspan id=14 senti=1>
+    <w>i</w>
+    <w>fel</w>
+    <w>sammanhang</w>
+    <w>och</w>
+    <w>fel</w>
+    <w>utförda</w>
+    <w>kan</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=16 senti=1>
+    <w>vara</w>
+  </absaspan>
+  <absaspan id=17 senti=1>
+    <w>kontraproduktiva</w>
+  </absaspan>
+  <w>.</w>
+  <w>Idag</w>
+  <w>finns</w>
+  <w>bevis</w>
+  <w>för</w>
+  <w>att</w>
+  <w>man</w>
+  <w>med</w>
+  <absaspan id=18>
+    <w>läkemedelsgenomgångar</w>
+  </absaspan>
+  <w>kan</w>
+  <absaspan id=19 senti=5>
+    <w>öka</w>
+    <w>patientsäkerheten</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=20 senti=5>
+    <w>höja</w>
+    <w>kvaliteten</w>
+    <w>på</w>
+    <w>läkemedelsanvändningen</w>
+  </absaspan>
+  <w>–</w>
+  <w>och</w>
+  <w>minska</w>
+  <w>vårdkostnaderna</w>
+  <w>–</w>
+  <w>om</w>
+  <w>man</w>
+  <w>satsar</w>
+  <w>på</w>
+  <w>ett</w>
+  <w>koncept</w>
+  <w>som</w>
+  <w>innefattar</w>
+  <w>läkare</w>
+  <w>och</w>
+  <w>apotekare</w>
+  <w>i</w>
+  <w>samverkan</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Visst</w>
+  <absaspan id=21 senti=5>
+    <w>bör</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=23 senti=5>
+    <w>sträva</w>
+  </absaspan>
+  <absaspan id=24 senti=5>
+    <w>efter</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>att</w>
+    <w>förskrivningen</w>
+    <w>blir</w>
+    <w>rätt</w>
+    <w>från</w>
+    <w>början</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=26 senti=2>
+    <w>där</w>
+    <w>är</w>
+    <w>vi</w>
+    <w>inte</w>
+    <w>än</w>
+    <w>på</w>
+    <w>långa</w>
+    <w>vägar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Patienter</w>
+  <w>behöver</w>
+  <w>dessutom</w>
+  <w>information</w>
+  <w>och</w>
+  <w>utbildning</w>
+  <w>om</w>
+  <w>sina</w>
+  <w>läkemedel</w>
+  <w>och</w>
+  <w>ordinationer</w>
+  <w>behöver</w>
+  <w>ständigt</w>
+  <w>omprövas</w>
+  <w>.</w>
+  <w>Därför</w>
+  <w>behövs</w>
+  <w>kompetenssamverkan</w>
+  <w>och</w>
+  <w>läkemedelsgenomgångar</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Den</w>
+  <w>SBU-rapport</w>
+  <w>som</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>försökt</w>
+  <w>värdera</w>
+  <w>nyttan</w>
+  <w>med</w>
+  <w>läkemedelsgenomgångar</w>
+  <w>,</w>
+  <w>har</w>
+  <w>endast</w>
+  <w>tagit</w>
+  <w>med</w>
+  <w>studier</w>
+  <w>publicerade</w>
+  <w>fram</w>
+  <w>till</w>
+  <w>2007</w>
+  <w>.</w>
+  <absaspan id=27>
+    <w>Forskning</w>
+    <w>inom</w>
+    <w>området</w>
+    <w>de</w>
+    <w>senaste</w>
+    <w>åren</w>
+  </absaspan>
+  <absaspan id=28 senti=5>
+    <w>har</w>
+    <w>visat</w>
+    <w>mycket</w>
+    <w>positiva</w>
+    <w>resultat</w>
+  </absaspan>
+  <w>–</w>
+  <w>däribland</w>
+  <w>en</w>
+  <w>studie</w>
+  <w>från</w>
+  <w>vår</w>
+  <w>forskargrupp</w>
+  <w>i</w>
+  <w>Uppsala</w>
+  <w>som</w>
+  <w>tidigare</w>
+  <w>i</w>
+  <w>år</w>
+  <w>publicerades</w>
+  <w>i</w>
+  <w>Archives</w>
+  <w>of</w>
+  <w>Internal</w>
+  <w>Medicine</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Vår</w>
+  <w>slutsats</w>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=29>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=30 senti=1>
+    <w>måste</w>
+    <w>sluta</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>tänka</w>
+    <w>antingen</w>
+    <w>eller</w>
+    <w>–</w>
+    <w>antingen</w>
+    <w>förskrivardatabas</w>
+    <w>eller</w>
+    <w>läkemedelsgenomgångar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Alla</w>
+  <w>professioner</w>
+  <w>med</w>
+  <w>läkemedelskunnande</w>
+  <w>och</w>
+  <w>patientkontakt</w>
+  <w>behövs</w>
+  <w>och</w>
+  <w>vi</w>
+  <w>måste</w>
+  <w>arbeta</w>
+  <w>tillsammans</w>
+  <w>,</w>
+  <w>med</w>
+  <absaspan id=32 senti=5>
+    <w>bästa</w>
+    <w>möjliga</w>
+    <w>kunskapsstöd</w>
+  </absaspan>
+  <w>,</w>
+  <w>för</w>
+  <w>att</w>
+  <w>kunna</w>
+  <w>få</w>
+  <w>till</w>
+  <absaspan id=33 senti=5>
+    <w>en</w>
+    <w>kraftfull</w>
+    <w>förbättring</w>
+  </absaspan>
+  <w>av</w>
+  <w>läkemedelsanvändningen</w>
+  <w>.</w>
+  <absaspan id=34 senti=5>
+    <w>Vår</w>
+    <w>gemensamma</w>
+    <w>viktigaste</w>
+    <w>uppgift</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>att</w>
+    <w>öka</w>
+    <w>patientsäkerheten</w>
+    <w>för</w>
+    <w>våra</w>
+    <w>äldre</w>
+    <w>patienter</w>
+    <w>med</w>
+    <w>många</w>
+    <w>läkemedel</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Skräddarsydda</w>
+  <w>kurser</w>
+  <w>i</w>
+  <w>ämnen</w>
+  <w>som</w>
+  <w>intresserar</w>
+  <w>och</w>
+  <w>engagerar</w>
+  <w>både</w>
+  <w>kropp</w>
+  <w>och</w>
+  <w>själ</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>ULRIKA</w>
+  <w>GILLESPIE</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>leg</w>
+  <w>apotekare</w>
+  <w>och</w>
+  <w>doktorandCLAES</w>
+  <w>MÖRLIN</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>docent</w>
+  <w>,</w>
+  <w>överläkare</w>
+  <w>medicinklinikenASTRID</w>
+  <w>FORSSTRÖM</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>läkemedelschef</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>samtliga</w>
+  <w>Akademiska</w>
+  <w>sjukhuset</w>
+  <w>,</w>
+  <w>Uppsala</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

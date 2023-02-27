@@ -1,0 +1,53 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Sherins</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>moské</w>
+    <w>har</w>
+    <w>bara</w>
+    <w>kvinnliga</w>
+    <w>imamer</w>
+  </absaspan>
+  <w>:</w>
+  <w></w>
+  <w>utmanar</w>
+  <w>islamofober</w>
+  <w></w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3 senti=4>
+    <w>Är</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>detta</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>bra</w>
+    <w>väg</w>
+    <w>att</w>
+    <w>gå</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Kommer</w>
+  <w>de</w>
+  <w>riktigt</w>
+  <w>konservativa</w>
+  <w>muslimerna</w>
+  <w>att</w>
+  <w>legitimera</w>
+  <w>detta</w>
+  <w>?</w>
+  <w>På</w>
+  <w>riktigt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

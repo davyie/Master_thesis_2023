@@ -1,0 +1,310 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Kommer</w>
+  <w>svenskarna</w>
+  <w>någonsin</w>
+  <w>vakna</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <absaspan id=1 senti=3>
+    <w>All</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>invandring</w>
+  </absaspan>
+  <absaspan id=3 senti=3>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=4 senti=3>
+    <w>inte</w>
+    <w>dålig</w>
+  </absaspan>
+  <w>men</w>
+  <w>få</w>
+  <w>kan</w>
+  <w>förneka</w>
+  <w>att</w>
+  <absaspan id=5 senti=1>
+    <w>den</w>
+    <w>försämring</w>
+    <w>som</w>
+  </absaspan>
+  <w>i</w>
+  <w>mångt</w>
+  <w>och</w>
+  <w>mycket</w>
+  <w>sedan</w>
+  <w>decennier</w>
+  <absaspan id=6 senti=1>
+    <w>drabbat</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>vårat</w>
+    <w>land</w>
+    <w>,</w>
+    <w>kan</w>
+    <w>härledas</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>denna</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Ser</w>
+  <w>man</w>
+  <absaspan id=9>
+    <w>tillbaka</w>
+    <w>i</w>
+    <w>tiden</w>
+  </absaspan>
+  <w>så</w>
+  <absaspan id=10 senti=4>
+    <w>var</w>
+    <w>det</w>
+    <w>bättre</w>
+    <w>på</w>
+    <w>många</w>
+    <w>sätt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Sverige</w>
+  <w>hade</w>
+  <w>ett</w>
+  <w>helt</w>
+  <w>annat</w>
+  <absaspan id=11 senti=5>
+    <w>välstånd</w>
+  </absaspan>
+  <w>,</w>
+  <w>en</w>
+  <w>helt</w>
+  <w>annan</w>
+  <absaspan id=12 senti=5>
+    <w>trygghet</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=13 senti=5>
+    <w>framtidshopp</w>
+  </absaspan>
+  <w>.</w>
+  <w>Idag</w>
+  <w>så</w>
+  <absaspan id=14 senti=2>
+    <w>finns</w>
+    <w>inte</w>
+    <w>mycket</w>
+    <w>hopp</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>det</w>
+  <w>handlar</w>
+  <w>mest</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=15 senti=4>
+    <w>lösa</w>
+    <w>problem</w>
+  </absaspan>
+  <w>.</w>
+  <w>Åtminstone</w>
+  <w>rationella</w>
+  <w>människor</w>
+  <w>vill</w>
+  <w>detta</w>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=16>
+    <w>en</w>
+    <w>stor</w>
+    <w>del</w>
+  </absaspan>
+  <absaspan id=17 senti=5>
+    <w>vurmar</w>
+  </absaspan>
+  <w>fortfarande</w>
+  <absaspan id=18 senti=5>
+    <w>för</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=19 senti=1>
+    <w>bidrar</w>
+    <w>till</w>
+    <w>en</w>
+    <w>fortgående</w>
+    <w>försämring</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <absaspan id=20>
+    <w>Många</w>
+  </absaspan>
+  <absaspan id=21 senti=1>
+    <w>blundar</w>
+    <w>för</w>
+    <w>problemen</w>
+  </absaspan>
+  <w>eller</w>
+  <w>försöker</w>
+  <w>medvetet</w>
+  <w>dölja</w>
+  <w>dem</w>
+  <w>.</w>
+  <w>Denna</w>
+  <w>strategi</w>
+  <w>har</w>
+  <w>många</w>
+  <w>av</w>
+  <w>våra</w>
+  <w>politiker</w>
+  <w>och</w>
+  <w>journalister</w>
+  <w>.</w>
+  <w>När</w>
+  <absaspan id=22>
+    <w>Sverige</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=23 senti=1>
+    <w>baktalades</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=24>
+    <w>i</w>
+    <w>utlandet</w>
+  </absaspan>
+  <w>gick</w>
+  <w>deras</w>
+  <w>reaktion</w>
+  <w>mycket</w>
+  <w>riktigt</w>
+  <w>också</w>
+  <w>ut</w>
+  <w>på</w>
+  <w>att</w>
+  <absaspan id=25 senti=2>
+    <w>förneka</w>
+  </absaspan>
+  <w>detta</w>
+  <w>.</w>
+  <w>Även</w>
+  <w>inom</w>
+  <w>landet</w>
+  <w>håller</w>
+  <w>många</w>
+  <w>journalister</w>
+  <w>och</w>
+  <w>kändisar</w>
+  <w>m.fl</w>
+  <w>ännu</w>
+  <w>på</w>
+  <w>med</w>
+  <w>detta</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=1>
+  <w>Vi</w>
+  <w>hade</w>
+  <w>dock</w>
+  <absaspan id=26 senti=1>
+    <w>krisen</w>
+  </absaspan>
+  <w>2015</w>
+  <w>,</w>
+  <absaspan id=27 senti=1>
+    <w>sanslöst</w>
+    <w>ökat</w>
+    <w>våld</w>
+  </absaspan>
+  <w>med</w>
+  <w>skjutningar</w>
+  <w>och</w>
+  <w>annat</w>
+  <w>,</w>
+  <w>terrordåd</w>
+  <w>i</w>
+  <w>år</w>
+  <w>,</w>
+  <absaspan id=28 senti=1>
+    <w>vårdkris</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=29>
+    <w>en</w>
+    <w>situation</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=30 senti=1>
+    <w>kontinuerligt</w>
+    <w>verkar</w>
+    <w>försämras</w>
+  </absaspan>
+  <w>för</w>
+  <w>landet</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=1>
+  <w>Så</w>
+  <w>frågan</w>
+  <w>är</w>
+  <w>när</w>
+  <w>svenskarna</w>
+  <w>kommer</w>
+  <w>vakna</w>
+  <w>?</w>
+  <w>När</w>
+  <w>kommer</w>
+  <w>majoriteten</w>
+  <w>inse</w>
+  <w>att</w>
+  <absaspan id=31>
+    <w>den</w>
+    <w>utveckling</w>
+    <w>som</w>
+    <w>fortgår</w>
+  </absaspan>
+  <absaspan id=32 senti=1>
+    <w>kommer</w>
+    <w>leda</w>
+    <w>till</w>
+    <w>vår</w>
+    <w>undergång</w>
+  </absaspan>
+  <w>?</w>
+  <w>Hur</w>
+  <w>mycket</w>
+  <w>krävs</w>
+  <w>för</w>
+  <w>att</w>
+  <w>att</w>
+  <w>de</w>
+  <w>ska</w>
+  <w>fatta</w>
+  <w>poängen</w>
+  <w>,</w>
+  <w>att</w>
+  <absaspan id=33>
+    <w>något</w>
+  </absaspan>
+  <absaspan id=34 senti=1>
+    <w>är</w>
+    <w>kraftigt</w>
+    <w>fel</w>
+  </absaspan>
+  <w>och</w>
+  <w>att</w>
+  <w>något</w>
+  <w>på</w>
+  <w>allvar</w>
+  <w>måste</w>
+  <w>göras</w>
+  <w>åt</w>
+  <w>det</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

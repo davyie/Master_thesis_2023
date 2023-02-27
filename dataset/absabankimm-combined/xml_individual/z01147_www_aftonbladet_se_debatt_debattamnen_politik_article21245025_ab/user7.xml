@@ -1,0 +1,322 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=2 senti=4 source=1 target=3>
+    <w>välkomnar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>samtal</w>
+    <w>med</w>
+    <w>M</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>SLUTREPLIK</w>
+  <w>.</w>
+  <w>Situationen</w>
+  <w>för</w>
+  <w>utsatta</w>
+  <w>EU-medborgare</w>
+  <w>som</w>
+  <w>är</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>och</w>
+  <w>ber</w>
+  <w>om</w>
+  <w>pengar</w>
+  <w>är</w>
+  <w>ständigt</w>
+  <w>aktuell</w>
+  <w>.</w>
+  <w>Just</w>
+  <w>nu</w>
+  <w>är</w>
+  <w>det</w>
+  <w>mycket</w>
+  <w>fokus</w>
+  <w>på</w>
+  <absaspan id=4>
+    <w>den</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>senaste</w>
+    <w>tidens</w>
+    <w>våld</w>
+    <w>mot</w>
+    <w>gruppen</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=6>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>är</w>
+    <w>upprörande</w>
+    <w>och</w>
+    <w>obehagligt</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=8>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=9 senti=3>
+    <w>vet</w>
+    <w>ännu</w>
+    <w>inte</w>
+  </absaspan>
+  <w>exakt</w>
+  <w>vad</w>
+  <w>som</w>
+  <w>har</w>
+  <w>hänt</w>
+  <w>eller</w>
+  <w>vilka</w>
+  <w>motiv</w>
+  <w>som</w>
+  <w>ligger</w>
+  <w>bakom</w>
+  <w>.</w>
+  <w>Polisen</w>
+  <w>utreder</w>
+  <w>fallen</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Regeringen</w>
+  <w>har</w>
+  <w>dessutom</w>
+  <w>nyligen</w>
+  <w>gett</w>
+  <w>polisen</w>
+  <w>i</w>
+  <w>uppdrag</w>
+  <w>att</w>
+  <w>analysera</w>
+  <w>vilken</w>
+  <w>kriminalitet</w>
+  <w>som</w>
+  <w>förekommer</w>
+  <w>mot</w>
+  <w>utsatta</w>
+  <w>EU-medborgare</w>
+  <w>och</w>
+  <w>vilka</w>
+  <w>brott</w>
+  <w>som</w>
+  <w>eventuellt</w>
+  <w>begås</w>
+  <w>av</w>
+  <w>gruppen</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>ännu</w>
+  <w>en</w>
+  <w>konkret</w>
+  <w>åtgärd</w>
+  <w>i</w>
+  <w>regeringens</w>
+  <w>arbete</w>
+  <w>med</w>
+  <w>utsatta</w>
+  <w>EU-medborgare</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=10>
+    <w>Tomas</w>
+    <w>Tobé</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>vet</w>
+    <w>mycket</w>
+    <w>väl</w>
+  </absaspan>
+  <w>att</w>
+  <w>regeringen</w>
+  <w>har</w>
+  <w>vidtagit</w>
+  <w>ett</w>
+  <w>flertal</w>
+  <w>åtgärder</w>
+  <w>sedan</w>
+  <w>dag</w>
+  <w>ett</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>insatser</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>,</w>
+  <w>samtal</w>
+  <w>på</w>
+  <w>EU-nivå</w>
+  <w>samt</w>
+  <w>samarbete</w>
+  <w>med</w>
+  <w>Rumänien</w>
+  <w>och</w>
+  <w>Bulgarien</w>
+  <w>,</w>
+  <w>vilket</w>
+  <w>jag</w>
+  <w>redogjorde</w>
+  <w>för</w>
+  <w>i</w>
+  <w>min</w>
+  <w>debattartikel</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=12>
+    <w>Utsatta</w>
+    <w>EU-medborgares</w>
+    <w>situation</w>
+  </absaspan>
+  <absaspan id=13 senti=3>
+    <w>är</w>
+    <w>en</w>
+    <w>angelägen</w>
+    <w>samhällsfråga</w>
+  </absaspan>
+  <w>och</w>
+  <w>lämpar</w>
+  <w>sig</w>
+  <w>väl</w>
+  <w>för</w>
+  <absaspan id=14 senti=4>
+    <w>konstruktivt</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>samarbete</w>
+    <w>över</w>
+    <w>partigränserna</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=16>
+    <w>På</w>
+    <w>senare</w>
+    <w>tid</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>dessvärre</w>
+  </absaspan>
+  <absaspan id=20 senti=2>
+    <w>sett</w>
+    <w>exempel</w>
+    <w>på</w>
+    <w>partipolitiska</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>hetskampanjer</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=22>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=23 senti=4>
+    <w>uppskattar</w>
+  </absaspan>
+  <absaspan id=24 senti=4>
+    <w>viljan</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>samarbete</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=26 senti=4>
+    <w>ser</w>
+    <w>fram</w>
+    <w>emot</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>samtal</w>
+    <w>om</w>
+    <w>hur</w>
+    <w>det</w>
+    <w>kan</w>
+    <w>konkretiseras</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>.</w>
+  </absaspan>
+  <w>Här</w>
+  <absaspan id=29 senti=4>
+    <w>behövs</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>dialog</w>
+    <w>och</w>
+    <w>ansvarstagande</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>nå</w>
+  <w>framsteg</w>
+  <w>.</w>
+  <absaspan id=31>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=32 senti=4>
+    <w>välkomnar</w>
+  </absaspan>
+  <w>därför</w>
+  <absaspan id=33>
+    <w>samtal</w>
+    <w>med</w>
+    <w>bland</w>
+    <w>annat</w>
+    <w>Moderaterna</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Åsa</w>
+  <w>Regnér</w>
+  <w>,</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>barn</w>
+  <w>-</w>
+  <w>,</w>
+  <w>äldre</w>
+  <w>-</w>
+  <w>och</w>
+  <w>jämställdhetsminister</w>
+  <w>(</w>
+  <w>S</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>och</w>
+  <w>med</w>
+  <w>samordnande</w>
+  <w>ansvar</w>
+  <w>i</w>
+  <w>regeringen</w>
+  <w>för</w>
+  <w>frågor</w>
+  <w>som</w>
+  <w>rör</w>
+  <w>utsatta</w>
+  <w>EU-medborgare</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,110 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>SVT</w>
+  <w>:</w>
+  <absaspan id=1>
+    <w>Svenska</w>
+    <w>muslimer</w>
+  </absaspan>
+  <absaspan id=2 senti=5 source=1 target=3>
+    <w>hyllar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>terrorattacken</w>
+    <w>i</w>
+    <w>Paris</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Varför</w>
+  <w>tror</w>
+  <w>svenskar</w>
+  <w>fortfarande</w>
+  <w>att</w>
+  <w>det</w>
+  <w>finns</w>
+  <absaspan id=4>
+    <w>"</w>
+    <w>moderata</w>
+    <w>"</w>
+    <w>muslimer</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=5 senti=2>
+    <w>tar</w>
+    <w>avstånd</w>
+    <w>från</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>islams</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>våldsbudskap</w>
+  </absaspan>
+  <w>?</w>
+  <w>Om</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>"</w>
+  <w>moderata</w>
+  <w>"</w>
+  <w>musimer</w>
+  <w>,</w>
+  <w>varför</w>
+  <w>går</w>
+  <w>dem</w>
+  <w>inte</w>
+  <w>ut</w>
+  <w>i</w>
+  <w>tidningarna</w>
+  <w>och</w>
+  <absaspan id=8 senti=2>
+    <w>ber</w>
+    <w>om</w>
+    <w>ursäkt</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>vad</w>
+    <w>deras</w>
+    <w>bröder</w>
+    <w>gjort</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>?</w>
+  </absaspan>
+  <w>Det</w>
+  <w>finns</w>
+  <w>inga</w>
+  <w>moderata</w>
+  <w>muslimer</w>
+  <w>!</w>
+  <w>Alla</w>
+  <w>vill</w>
+  <w>dem</w>
+  <w>samma</w>
+  <w>sak</w>
+  <w>-</w>
+  <w>ta</w>
+  <w>över</w>
+  <w>västvärlden</w>
+  <w>med</w>
+  <w>våld</w>
+  <w>och</w>
+  <w>införa</w>
+  <w>ett</w>
+  <w>muslimskt</w>
+  <w>kalifat</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>När</w>
+  <w>ska</w>
+  <w>västvärlden</w>
+  <w>fatta</w>
+  <w>detta</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

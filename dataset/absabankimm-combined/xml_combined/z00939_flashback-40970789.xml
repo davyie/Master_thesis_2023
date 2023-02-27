@@ -1,0 +1,106 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Du</w>
+  <w>vet</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>du</w>
+  </absaspan>
+  <absaspan id=2 senti=2 irony target=1>
+    <w>är</w>
+    <w>rasist</w>
+  </absaspan>
+  <w>när</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Du</w>
+  <w>vet</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>du</w>
+  </absaspan>
+  <absaspan id=4 senti=2 irony>
+    <w>är</w>
+    <w>rasist</w>
+  </absaspan>
+  <w>när</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>du</w>
+  <w>sjunger</w>
+  <w>nationalsången</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>du</w>
+  <w>går</w>
+  <w>i</w>
+  <w>kyrkan</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>du</w>
+  <w>läser</w>
+  <w>Tintin</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>du</w>
+  <w>äter</w>
+  <w>pepparkaksgubbar</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>du</w>
+  <w>inte</w>
+  <w>gillar</w>
+  <w>pizza</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Fyll</w>
+  <w>på</w>
+  <w>.</w>
+</absapar>
+</absadoc>

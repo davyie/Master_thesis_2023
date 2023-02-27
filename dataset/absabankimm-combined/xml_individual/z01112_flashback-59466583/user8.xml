@@ -1,0 +1,47 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Finns</w>
+    <w>det</w>
+    <w>risk</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>att</w>
+    <w>sverige</w>
+    <w>blir</w>
+    <w>ett</w>
+    <w>U</w>
+    <w>-</w>
+    <w>land</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4 senti=2>
+    <w>Finns</w>
+    <w>det</w>
+    <w>risk</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>att</w>
+    <w>sverige</w>
+    <w>kommer</w>
+    <w>att</w>
+    <w>likna</w>
+    <w>ett</w>
+    <w>U</w>
+    <w>-</w>
+    <w>land</w>
+    <w>dom</w>
+    <w>närmaste</w>
+    <w>50</w>
+    <w>åren</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

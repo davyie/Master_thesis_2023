@@ -1,0 +1,53 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Rasism</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>mot</w>
+    <w>"</w>
+    <w>vita</w>
+    <w>"</w>
+  </absaspan>
+  <w>på</w>
+  <w>Pride</w>
+  <w>möte</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Nån</w>
+  <w>som</w>
+  <w>kan</w>
+  <w>reflektera</w>
+  <w>lite</w>
+  <w>över</w>
+  <w>situationen</w>
+  <w>i</w>
+  <w>videoklippet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>För</w>
+  <w>ur</w>
+  <w>min</w>
+  <w>syn</w>
+  <w>så</w>
+  <w>verkar</w>
+  <w>detta</w>
+  <w>vara</w>
+  <absaspan id=3 senti=2>
+    <w>sinnessjukt</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>att</w>
+    <w>det</w>
+    <w>ska</w>
+    <w>på</w>
+    <w>det</w>
+    <w>här</w>
+    <w>viset</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

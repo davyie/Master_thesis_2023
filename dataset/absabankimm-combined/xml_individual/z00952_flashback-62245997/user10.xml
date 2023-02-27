@@ -1,0 +1,112 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Hur</w>
+  <w>många</w>
+  <w>påhittade</w>
+  <w>historier</w>
+  <w>om</w>
+  <w>våldsamma</w>
+  <w>asylsökande</w>
+  <w>finns</w>
+  <w>där</w>
+  <w>ute</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Denna</w>
+  <w>gång</w>
+  <w>handlar</w>
+  <w>det</w>
+  <w>om</w>
+  <w>en</w>
+  <w>identifierad</w>
+  <w>"</w>
+  <absaspan id=1 senti=5 irony>
+    <w>Sverigevän</w>
+  </absaspan>
+  <w>"</w>
+  <w>(</w>
+  <w>M.k</w>
+  <w>.</w>
+  <w>.</w>
+  <w>l</w>
+  <w>Fr.b.rg</w>
+  <w>-</w>
+  <w>i</w>
+  <w>ae</w>
+  <w>ö</w>
+  <w>e</w>
+  <w>)</w>
+  <w>som</w>
+  <w>spred</w>
+  <w>historien</w>
+  <w>om</w>
+  <w>en</w>
+  <w>gammal</w>
+  <w>pensionär</w>
+  <w>som</w>
+  <w>blev</w>
+  <w>slagen</w>
+  <w>och</w>
+  <w>rånad</w>
+  <w>av</w>
+  <w>tre</w>
+  <w>asylsökande</w>
+  <w>i</w>
+  <w>Jordbro</w>
+  <w>utanför</w>
+  <w>Stockholm</w>
+  <w>.</w>
+  <w>Han</w>
+  <w>råkade</w>
+  <w>dock</w>
+  <absaspan id=2 senti=2>
+    <w>av</w>
+    <w>misstag</w>
+  </absaspan>
+  <w>ha</w>
+  <w>med</w>
+  <w>en</w>
+  <w>bild</w>
+  <w>på</w>
+  <w>en</w>
+  <w>svensk</w>
+  <w>kvinna</w>
+  <w>som</w>
+  <w>skulle</w>
+  <w>föreställa</w>
+  <w>offret</w>
+  <w>,</w>
+  <w>hennes</w>
+  <w>anhöriga</w>
+  <w>kände</w>
+  <w>dock</w>
+  <w>igen</w>
+  <w>henne</w>
+  <w>och</w>
+  <w>på</w>
+  <w>så</w>
+  <w>vis</w>
+  <w>uppdagades</w>
+  <w>det</w>
+  <w>hela</w>
+  <w>som</w>
+  <absaspan id=3 senti=1>
+    <w>en</w>
+    <w>bluff</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vilka</w>
+  <w>fler</w>
+  <w>liknande</w>
+  <absaspan id=4 senti=1>
+    <w>bluffhistorier</w>
+  </absaspan>
+  <w>kommer</w>
+  <w>ni</w>
+  <w>andra</w>
+  <w>på</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

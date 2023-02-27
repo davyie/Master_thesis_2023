@@ -1,0 +1,639 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Mitt</w>
+    <w>Romney</w>
+    <w>blir</w>
+    <w>nästa</w>
+    <w>president</w>
+  </absaspan>
+  <w>och</w>
+  <w>det</w>
+  <absaspan id=2 senti=4 target=1>
+    <w>är</w>
+    <w>bra</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Hårda</w>
+  <w>siffror</w>
+  <w>talar</w>
+  <w>emot</w>
+  <w>Barack</w>
+  <w>Obama</w>
+  <w>.</w>
+  <w>Arbetslösheten</w>
+  <w>är</w>
+  <w>hög</w>
+  <w>,</w>
+  <w>tillväxten</w>
+  <w>låg</w>
+  <w>.</w>
+  <absaspan id=3>
+    <w>Väljarnas</w>
+  </absaspan>
+  <w>framtidshopp</w>
+  <w>och</w>
+  <w>konsumentförtroende</w>
+  <w>,</w>
+  <w>attityderna</w>
+  <w>till</w>
+  <w>presidenten</w>
+  <w>och</w>
+  <w>ekonomin</w>
+  <w>pekar</w>
+  <w>fel</w>
+  <w>för</w>
+  <absaspan id=4>
+    <w>Obama</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Om</w>
+  <w>man</w>
+  <w>gör</w>
+  <w>en</w>
+  <w>teknisk</w>
+  <w>analys</w>
+  <w>–</w>
+  <w>utan</w>
+  <w>att</w>
+  <w>bry</w>
+  <w>sig</w>
+  <w>om</w>
+  <w>vad</w>
+  <w>man</w>
+  <w>tycker</w>
+  <w>politiskt</w>
+  <w>–</w>
+  <w>finner</w>
+  <w>man</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>ovanligt</w>
+  <w>att</w>
+  <w>en</w>
+  <w>president</w>
+  <w>blir</w>
+  <w>omvald</w>
+  <w>som</w>
+  <w>läget</w>
+  <w>är</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>.</w>
+  <w>Tänk</w>
+  <w>ett</w>
+  <w>fotbollslag</w>
+  <w>som</w>
+  <w>ligger</w>
+  <w>under</w>
+  <w>med</w>
+  <w>1</w>
+  <w>-</w>
+  <w>0</w>
+  <w>.</w>
+  <w>Utan</w>
+  <w>att</w>
+  <w>ens</w>
+  <w>titta</w>
+  <w>på</w>
+  <w>spelet</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>gissa</w>
+  <absaspan id=6 senti=4>
+    <w>klokt</w>
+  </absaspan>
+  <w>om</w>
+  <w>utgången</w>
+  <w>.</w>
+  <w>Jaha</w>
+  <w>,</w>
+  <w>förlust</w>
+  <w>65</w>
+  <w>gånger</w>
+  <w>av</w>
+  <w>100</w>
+  <w>,</w>
+  <w>då</w>
+  <w>satsar</w>
+  <w>jag</w>
+  <w>på</w>
+  <w>andra</w>
+  <w>laget</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Självklart</w>
+  <w>kan</w>
+  <w>oddsen</w>
+  <w>sättas</w>
+  <w>ur</w>
+  <w>spel</w>
+  <w>.</w>
+  <w>Kanske</w>
+  <w>andra</w>
+  <w>laget</w>
+  <w>får</w>
+  <w>två</w>
+  <w>spelare</w>
+  <w>utvisade</w>
+  <w>,</w>
+  <w>laget</w>
+  <w>som</w>
+  <w>ligger</w>
+  <w>under</w>
+  <w>har</w>
+  <w>Bosse</w>
+  <w>Larsson</w>
+  <w>redo</w>
+  <w>för</w>
+  <w>inhopp</w>
+  <w>.</w>
+  <w>Finns</w>
+  <w>sådana</w>
+  <w>faktorer</w>
+  <w>som</w>
+  <w>kan</w>
+  <w>neutralisera</w>
+  <w>sakläget</w>
+  <w>för</w>
+  <w>Obama</w>
+  <w>?</w>
+  <w>Jag</w>
+  <w>kan</w>
+  <w>tänka</w>
+  <w>mig</w>
+  <w>tre</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=7>
+    <w>Det</w>
+    <w>republikanskt</w>
+    <w>styrda</w>
+    <w>representanthuset</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>är</w>
+    <w>impopulärt</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>.</w>
+  </absaspan>
+  <w>Obama</w>
+  <w>kan</w>
+  <w>kampanja</w>
+  <w>mot</w>
+  <w>det</w>
+  <w>,</w>
+  <w>och</w>
+  <w>låta</w>
+  <w>Mitt</w>
+  <w>Romney</w>
+  <w>svepas</w>
+  <w>med</w>
+  <w>av</w>
+  <absaspan id=10 senti=2>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>allmän</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>motvilja</w>
+  </absaspan>
+  <w>till</w>
+  <absaspan id=13>
+    <w>hans</w>
+    <w>parti</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=14>
+    <w>Romney</w>
+  </absaspan>
+  <w>är</w>
+  <w>(</w>
+  <w>än</w>
+  <w>så</w>
+  <w>länge</w>
+  <w>)</w>
+  <absaspan id=15 senti=2>
+    <w>inte</w>
+    <w>en</w>
+    <w>stark</w>
+    <w>kandidat</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=16>
+    <w>Han</w>
+  </absaspan>
+  <w>är</w>
+  <w>mormon</w>
+  <w>och</w>
+  <w>miljardär</w>
+  <w>,</w>
+  <absaspan id=17 senti=2>
+    <w>obekväm</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>i</w>
+    <w>offentligheten</w>
+  </absaspan>
+  <w>,</w>
+  <w>med</w>
+  <w>en</w>
+  <w>politisk</w>
+  <w>historia</w>
+  <w>som</w>
+  <w>innehåller</w>
+  <w>en</w>
+  <w>del</w>
+  <w>tvära</w>
+  <w>lappkast</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Valet</w>
+  <w>avgörs</w>
+  <w>i</w>
+  <w>en</w>
+  <w>handfull</w>
+  <w>,</w>
+  <w>enskilda</w>
+  <w>delstater</w>
+  <w>.</w>
+  <w>Obamas</w>
+  <w>gräsrotskampanj</w>
+  <w>kan</w>
+  <w>fälla</w>
+  <w>avgörandet</w>
+  <w>om</w>
+  <w>det</w>
+  <w>blir</w>
+  <w>jämnt</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>För</w>
+  <absaspan id=19>
+    <w>Romney</w>
+  </absaspan>
+  <w>gäller</w>
+  <w>det</w>
+  <w>att</w>
+  <w>behålla</w>
+  <w>fokus</w>
+  <w>på</w>
+  <w>jobb</w>
+  <w>och</w>
+  <w>ekonomi</w>
+  <w>,</w>
+  <w>och</w>
+  <w>få</w>
+  <absaspan id=20>
+    <w>folket</w>
+  </absaspan>
+  <w>att</w>
+  <w>känna</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=21 senti=3>
+    <w>vore</w>
+    <w>helt</w>
+    <w>okej</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>honom</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>i</w>
+    <w>Ovala</w>
+    <w>Rummet</w>
+  </absaspan>
+  <w>.</w>
+  <w>För</w>
+  <absaspan id=25>
+    <w>Obama</w>
+  </absaspan>
+  <w>gäller</w>
+  <w>det</w>
+  <w>att</w>
+  <w>erbjuda</w>
+  <w>sig</w>
+  <w>själv</w>
+  <w>som</w>
+  <absaspan id=26 senti=5>
+    <w>trygg</w>
+    <w>hamn</w>
+  </absaspan>
+  <w>i</w>
+  <w>en</w>
+  <absaspan id=27 senti=2>
+    <w>osäker</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>tid</w>
+  </absaspan>
+  <w>–</w>
+  <w>och</w>
+  <w>att</w>
+  <w>mobilisera</w>
+  <w>sina</w>
+  <w>väljare</w>
+  <absaspan id=29>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=8>
+  <w>Intrycket</w>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=30>
+    <w>Obamas</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>kampanj</w>
+  </absaspan>
+  <absaspan id=32 senti=2>
+    <w>inte</w>
+    <w>lyckas</w>
+  </absaspan>
+  <w>.</w>
+  <w>Man</w>
+  <w>talar</w>
+  <w>om</w>
+  <w>p-medel</w>
+  <w>och</w>
+  <w>samkönade</w>
+  <w>äktenskap</w>
+  <w>,</w>
+  <absaspan id=33>
+    <w>väljarna</w>
+  </absaspan>
+  <absaspan id=34 senti=2>
+    <w>oroar</w>
+    <w>sig</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>ekonomin</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=36>
+    <w>Man</w>
+  </absaspan>
+  <w>går</w>
+  <w>till</w>
+  <w>val</w>
+  <w>på</w>
+  <w>att</w>
+  <absaspan id=37 senti=2>
+    <w>avfärda</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>kapitalismen</w>
+  </absaspan>
+  <w>–</w>
+  <w>i</w>
+  <w>USA</w>
+  <w>!</w>
+  <w>Man</w>
+  <w>trumpetar</w>
+  <absaspan id=39>
+    <w>Obamas</w>
+    <w>reformer</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=40>
+    <w>folket</w>
+  </absaspan>
+  <absaspan id=41 senti=2>
+    <w>helst</w>
+    <w>hade</w>
+    <w>velat</w>
+    <w>slippa</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=42>
+    <w>Man</w>
+  </absaspan>
+  <w>utmålar</w>
+  <absaspan id=43>
+    <w>Romney</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=44 senti=1>
+    <w>farlig</w>
+    <w>och</w>
+    <w>kallhamrad</w>
+  </absaspan>
+  <w>,</w>
+  <w>när</w>
+  <w>han</w>
+  <w>i</w>
+  <w>själva</w>
+  <w>verket</w>
+  <w>är</w>
+  <absaspan id=45 senti=4>
+    <w>en</w>
+    <w>hygglig</w>
+    <w>prick</w>
+  </absaspan>
+  <w>,</w>
+  <w>politiskt</w>
+  <w>nära</w>
+  <w>mitten</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Slutsatsen</w>
+  <w>är</w>
+  <w>att</w>
+  <w>verkligheten</w>
+  <w>talar</w>
+  <w>emot</w>
+  <w>Obama</w>
+  <w>,</w>
+  <w>och</w>
+  <w>kampanjen</w>
+  <w>hittar</w>
+  <w>inget</w>
+  <w>motvapen</w>
+  <w>.</w>
+  <absaspan id=46>
+    <w>Hans</w>
+    <w>styrka</w>
+    <w>för</w>
+    <w>fyra</w>
+    <w>år</w>
+    <w>sedan</w>
+    <w>,</w>
+  </absaspan>
+  <absaspan id=47>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=48 senti=5>
+    <w>genuint</w>
+    <w>gripande</w>
+  </absaspan>
+  <absaspan id=49>
+    <w>orden</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=50 senti=2>
+    <w>har</w>
+    <w>tappat</w>
+    <w>i</w>
+    <w>slagkraft</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=51>
+    <w>Om</w>
+    <w>inget</w>
+    <w>extraordinärt</w>
+    <w>händer</w>
+    <w>vinner</w>
+    <w>Romney</w>
+  </absaspan>
+  <w>.</w>
+  <w>Och</w>
+  <w>det</w>
+  <absaspan id=52 senti=4>
+    <w>är</w>
+    <w>bra</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Roland</w>
+  <w>Poirier</w>
+  <w>Martinsson</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>Proffstyckarna</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <absaspan id=53>
+    <w>Manuel</w>
+    <w>Ferrer</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Politisk</w>
+  <w>mittfältsstrateg</w>
+  <w>som</w>
+  <absaspan id=54 senti=5>
+    <w>älskar</w>
+  </absaspan>
+  <absaspan id=55>
+    <w>en</w>
+    <w>brutal</w>
+    <w>kapning</w>
+    <w>lika</w>
+    <w>mycket</w>
+    <w>som</w>
+    <w>en</w>
+    <w>vacker</w>
+    <w>överstegsfint</w>
+  </absaspan>
+  <w>.</w>
+  <w>Arbetade</w>
+  <w>i</w>
+  <w>regeringskansliet</w>
+  <w>under</w>
+  <w>Persson-dynastin</w>
+  <w>,</w>
+  <w>avslutade</w>
+  <w>den</w>
+  <w>politiska</w>
+  <w>karriären</w>
+  <w>som</w>
+  <w>presschef</w>
+  <w>för</w>
+  <w>S</w>
+  <w>.</w>
+  <w>Driver</w>
+  <w>nu</w>
+  <w>strategibyrån</w>
+  <w>Progress</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Roland</w>
+  <w>Poirier</w>
+  <w>Martinsson</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Filosof</w>
+  <w>,</w>
+  <w>författare</w>
+  <w>,</w>
+  <w>katolik</w>
+  <w>.</w>
+  <w>Flyttar</w>
+  <w>snart</w>
+  <w>hem</w>
+  <w>till</w>
+  <w>Texas</w>
+  <w>,</w>
+  <w>där</w>
+  <w>jag</w>
+  <w>ägnar</w>
+  <w>mig</w>
+  <w>åt</w>
+  <w>att</w>
+  <w>äta</w>
+  <w>biff</w>
+  <w>med</w>
+  <w>tabasco</w>
+  <w>i</w>
+  <w>sällskap</w>
+  <w>med</w>
+  <w>republikanska</w>
+  <w>höjdare</w>
+  <w>.</w>
+  <w>Festade</w>
+  <w>med</w>
+  <w>Obama</w>
+  <w>när</w>
+  <w>han</w>
+  <w>svors</w>
+  <w>in</w>
+  <w>som</w>
+  <w>president</w>
+  <w>,</w>
+  <w>men</w>
+  <w>höll</w>
+  <w>på</w>
+  <w>hans</w>
+  <w>motståndare</w>
+  <w>.</w>
+  <w>I</w>
+  <w>dag</w>
+  <w>leder</w>
+  <w>jag</w>
+  <w>Timbro</w>
+  <w>Medieinstitut</w>
+  <w>.</w>
+</absapar>
+</absadoc>

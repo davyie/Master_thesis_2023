@@ -1,0 +1,285 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Gamla</w>
+  <w>Rasist</w>
+  <w>mod-låtar</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=2 senti=5>
+    <w>har</w>
+    <w>fina</w>
+    <w>barndomsminnen</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>dessa</w>
+    <w>gamla</w>
+    <w>klassiker</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>vill</w>
+  <w>återuppleva</w>
+  <w>dom</w>
+  <w>igen</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Formatet</w>
+  <w>kallas</w>
+  <w>för</w>
+  <w>mod</w>
+  <w>,</w>
+  <w>fråga</w>
+  <w>mig</w>
+  <w>inte</w>
+  <w>vad</w>
+  <w>det</w>
+  <w>står</w>
+  <w>för</w>
+  <w>,</w>
+  <w>är</w>
+  <w>typ</w>
+  <w>som</w>
+  <w>mp3</w>
+  <w>fast</w>
+  <absaspan id=4 senti=1>
+    <w>rätt</w>
+    <w>sunkig</w>
+    <w>kvalitet</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Låtarna</w>
+  <w>gick</w>
+  <w>i</w>
+  <w>stil</w>
+  <w>med</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>"</w>
+  <w>Araber</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>LUKTAR</w>
+  <w>ILLA</w>
+  <absaspan id=6 senti=1>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>"</w>
+  <w>(</w>
+  <absaspan id=7 senti=1>
+    <w>blatteröst</w>
+  </absaspan>
+  <w>)</w>
+  <w>jag</w>
+  <w>gillar</w>
+  <w>kasta</w>
+  <w>ut</w>
+  <w>tvn</w>
+  <w>genom</w>
+  <w>fönstret</w>
+  <w>,</w>
+  <w>VITLÖK</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>jag</w>
+  <w>vill</w>
+  <w>inte</w>
+  <w>,</w>
+  <w>jag</w>
+  <w>vill</w>
+  <w>inte</w>
+  <w>på</w>
+  <w>jobbet</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>jag</w>
+  <w>vill</w>
+  <w>bara</w>
+  <w>röka</w>
+  <w>haschich</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>"</w>
+  <absaspan id=8>
+    <w>Negrer</w>
+  </absaspan>
+  <absaspan id=9 senti=4 irony>
+    <w>e</w>
+    <w>bra</w>
+    <w>,</w>
+    <w>alla</w>
+    <w>borde</w>
+    <w>ha</w>
+    <w>en</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <absaspan id=10>
+    <w>Negrer</w>
+  </absaspan>
+  <absaspan id=11 senti=4 irony>
+    <w>e</w>
+    <w>bra</w>
+  </absaspan>
+  <w>,</w>
+  <w>så</w>
+  <w>länge</w>
+  <w>dom</w>
+  <w>håller</w>
+  <w>sig</w>
+  <w>uppe</w>
+  <w>i</w>
+  <w>träden</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>(</w>
+  <absaspan id=12 senti=1>
+    <w>negertjut</w>
+  </absaspan>
+  <w>)</w>
+  <w>uuahahhah</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>"</w>
+  <w>Håll</w>
+  <w>käften</w>
+  <absaspan id=13 senti=1>
+    <w>din</w>
+    <w>jävla</w>
+    <w>neger</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Och</w>
+  <w>typ</w>
+  <w>i</w>
+  <w>bakgrunden</w>
+  <w>gick</w>
+  <w>någon</w>
+  <w>dr</w>
+  <w>alban</w>
+  <w>röst</w>
+  <w>som</w>
+  <w>sjöng</w>
+  <w>"</w>
+  <w>no</w>
+  <w>no</w>
+  <w>hasch</w>
+  <w>hasch</w>
+  <w>no</w>
+  <w>kokain</w>
+  <w>"</w>
+  <w>osv</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Sen</w>
+  <w>fanns</w>
+  <w>det</w>
+  <w>en</w>
+  <w>låt</w>
+  <w>som</w>
+  <w>hade</w>
+  <w>en</w>
+  <w>trumma</w>
+  <w>och</w>
+  <w>liten</w>
+  <w>melodi</w>
+  <w>och</w>
+  <w>gick</w>
+  <w>ut</w>
+  <w>på</w>
+  <w>att</w>
+  <w>en</w>
+  <w>pappa</w>
+  <w>våldtog</w>
+  <w>sin</w>
+  <w>son</w>
+  <w>,</w>
+  <w>typ</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>"</w>
+  <w>Böj</w>
+  <w>dig</w>
+  <w>framåt</w>
+  <w>Lars</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Nej</w>
+  <w>jag</w>
+  <w>vill</w>
+  <w>inte</w>
+  <w>pappa</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>HÅLL</w>
+  <w>KÄFTEN</w>
+  <w>UNGE</w>
+  <w>,</w>
+  <w>böj</w>
+  <w>dig</w>
+  <w>framåt</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>neeeeej</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <absaspan id=14 senti=5>
+    <w>Vore</w>
+    <w>otroligt</w>
+    <w>tacksam</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>jag</w>
+    <w>kunde</w>
+    <w>få</w>
+    <w>tag</w>
+    <w>på</w>
+    <w>en</w>
+    <w>,</w>
+    <w>eller</w>
+    <w>flera</w>
+    <w>låtar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Har</w>
+  <w>letat</w>
+  <w>ett</w>
+  <w>bra</w>
+  <w>tag</w>
+  <w>utan</w>
+  <w>resultat</w>
+  <w>.</w>
+</absapar>
+</absadoc>

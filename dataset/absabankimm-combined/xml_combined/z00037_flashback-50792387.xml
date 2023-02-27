@@ -1,0 +1,220 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>Nationalekonom</w>
+    <w>i</w>
+    <w>SvD</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=2>
+    <w>Invandringen</w>
+  </absaspan>
+  <w>kostar</w>
+  <w>mycket</w>
+  <w>(</w>
+  <w>även</w>
+  <w>på</w>
+  <w>sikt</w>
+  <w>)</w>
+  <w>men</w>
+  <absaspan id=3 senti=4>
+    <w>är</w>
+  </absaspan>
+  <w>ändå</w>
+  <absaspan id=4 senti=4>
+    <w>lönsam</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>En</w>
+  <absaspan id=5 senti=2>
+    <w>något</w>
+    <w>märklig</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>debbatartikel</w>
+  </absaspan>
+  <w>,</w>
+  <w>där</w>
+  <w>nationalekenomen</w>
+  <w>Joakim</w>
+  <w>Ruist</w>
+  <w>erkänner</w>
+  <w>invandringens</w>
+  <w>omfattande</w>
+  <w>kostnader</w>
+  <w>,</w>
+  <w>men</w>
+  <w>hävdar</w>
+  <w>samitidigt</w>
+  <w>att</w>
+  <w>den</w>
+  <w>är</w>
+  <w>lönsam</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Han</w>
+  <w>menar</w>
+  <w>att</w>
+  <w>invandringen</w>
+  <w>må</w>
+  <w>vara</w>
+  <w>en</w>
+  <w>ekonomisk</w>
+  <w>förlust</w>
+  <w>för</w>
+  <w>samhället</w>
+  <w>,</w>
+  <w>men</w>
+  <w>att</w>
+  <w>den</w>
+  <w>bidrar</w>
+  <w>till</w>
+  <w>samhällsmoralen</w>
+  <w>och</w>
+  <absaspan id=7 senti=2>
+    <w>upprätthåller</w>
+    <w>Svenskarnas</w>
+    <w>illusion</w>
+  </absaspan>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=8>
+    <w>vara</w>
+    <w>världens</w>
+    <w>mest</w>
+    <w>solidariska</w>
+    <w>och</w>
+    <w>medmänskliga</w>
+    <w>land</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>att</w>
+  <w>denna</w>
+  <w>moralboost</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>tur</w>
+  <w>leder</w>
+  <w>till</w>
+  <w>ökad</w>
+  <w>ekonomisk</w>
+  <w>lönsamhet</w>
+  <w>i</w>
+  <w>andra</w>
+  <w>delar</w>
+  <w>av</w>
+  <w>samhället</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Diskussionunderlaget</w>
+  <w>är</w>
+  <w>som</w>
+  <w>följande</w>
+  <w>;</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>#</w>
+  <w>P</w>
+  <absaspan id=9 senti=3>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>1</w>
+  <w>.</w>
+  <w>Skulle</w>
+  <w>en</w>
+  <w>minskad</w>
+  <w>invandring</w>
+  <w>(</w>
+  <w>t.ex</w>
+  <w>till</w>
+  <w>Finlands</w>
+  <w>nivå</w>
+  <w>)</w>
+  <w>leda</w>
+  <w>till</w>
+  <w>ett</w>
+  <w>moraliskt</w>
+  <w>förfall</w>
+  <w>i</w>
+  <w>samhället</w>
+  <w>där</w>
+  <absaspan id=10>
+    <w>invånarna</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>blir</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>sjukligt</w>
+    <w>egoistiska</w>
+    <w>och</w>
+    <w>misstänsksamma</w>
+    <w>mot</w>
+    <w>varandra</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=13 senti=2>
+    <w>vilket</w>
+    <w>i</w>
+    <w>sin</w>
+    <w>tur</w>
+    <w>leder</w>
+    <w>till</w>
+    <w>en</w>
+    <w>total</w>
+    <w>välfärdskollaps</w>
+    <w>och</w>
+    <w>allmän</w>
+    <w>misär</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>2</w>
+  <w>.</w>
+  <w>Kan</w>
+  <w>man</w>
+  <w>stå</w>
+  <w>upp</w>
+  <w>för</w>
+  <w>den</w>
+  <w>vänsterliberala</w>
+  <w>principen</w>
+  <w>om</w>
+  <w>"</w>
+  <w>alla</w>
+  <w>människors</w>
+  <w>like</w>
+  <w>värde</w>
+  <w>"</w>
+  <w>utan</w>
+  <w>att</w>
+  <w>ha</w>
+  <w>Europas</w>
+  <w>i</w>
+  <w>särklass</w>
+  <w>högsta</w>
+  <w>asyl</w>
+  <w>och</w>
+  <absaspan id=14 senti=2>
+    <w>bidragsinvandring</w>
+  </absaspan>
+  <w>från</w>
+  <w>tredje</w>
+  <w>världen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

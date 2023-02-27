@@ -1,0 +1,285 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Patienterna</w>
+  </absaspan>
+  <w>vi</w>
+  <absaspan id=2 senti=2 target=1>
+    <w>gärna</w>
+    <w>glömmer</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <w>kom</w>
+  <w>ett</w>
+  <w>TT-telegram</w>
+  <w>som</w>
+  <w>berättade</w>
+  <w>att</w>
+  <w>tryckskador</w>
+  <w>/</w>
+  <w>liggsår</w>
+  <w>på</w>
+  <w>sjukhuspatienter</w>
+  <w>ökar</w>
+  <w>.</w>
+  <w>En</w>
+  <w>undersökning</w>
+  <w>hade</w>
+  <w>gjorts</w>
+  <w>på</w>
+  <w>lasaretten</w>
+  <w>i</w>
+  <w>Växjö</w>
+  <w>och</w>
+  <w>Ljungby</w>
+  <w>och</w>
+  <absaspan id=3>
+    <w>var</w>
+    <w>fjärde</w>
+    <w>patient</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>led</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=5>
+    <w>tryckskador</w>
+  </absaspan>
+  <w>.</w>
+  <w>Nio</w>
+  <w>patienter</w>
+  <w>hade</w>
+  <w>så</w>
+  <w>svåra</w>
+  <w>tryckskador</w>
+  <w>att</w>
+  <w>man</w>
+  <w>kunde</w>
+  <w>se</w>
+  <w>in</w>
+  <w>till</w>
+  <w>skelettet</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Jag</w>
+  <w>letade</w>
+  <w>fakta</w>
+  <w>om</w>
+  <w>liggsår</w>
+  <w>på</w>
+  <w>nätet</w>
+  <w>och</w>
+  <w>hittade</w>
+  <w>en</w>
+  <w>blogg</w>
+  <w>av</w>
+  <w>en</w>
+  <w>kvinna</w>
+  <w>som</w>
+  <w>skrev</w>
+  <w>om</w>
+  <w>sin</w>
+  <w>mammas</w>
+  <w>liggsår</w>
+  <w>.</w>
+  <w>Så</w>
+  <w>här</w>
+  <w>skrev</w>
+  <absaspan id=6>
+    <w>hon</w>
+  </absaspan>
+  <w>:</w>
+  <w>”</w>
+  <absaspan id=7>
+    <w>Ett</w>
+    <w>liggsår</w>
+  </absaspan>
+  <absaspan id=8 senti=1>
+    <w>kan</w>
+    <w>ofattbart</w>
+    <w>nog</w>
+    <w>vara</w>
+    <w>en</w>
+    <w>rutten</w>
+    <w>,</w>
+    <w>knytnävsstor</w>
+    <w>grop</w>
+  </absaspan>
+  <w>rakt</w>
+  <w>in</w>
+  <w>i</w>
+  <w>en</w>
+  <w>levande</w>
+  <w>människa</w>
+  <w>.</w>
+  <w>En</w>
+  <absaspan id=9>
+    <w>människa</w>
+  </absaspan>
+  <w>som</w>
+  <w>sedan</w>
+  <w>blir</w>
+  <absaspan id=10 senti=1>
+    <w>halvt</w>
+    <w>galen</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=11>
+    <w>smärtan</w>
+    <w>,</w>
+    <w>av</w>
+    <w>stanken</w>
+    <w>och</w>
+    <w>av</w>
+    <w>paniken</w>
+    <w>över</w>
+    <w>att</w>
+    <w>ingen</w>
+    <w>lyssnar</w>
+  </absaspan>
+  <w>!</w>
+  <w>Min</w>
+  <w>mamma</w>
+  <w>!</w>
+  <w>”</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>fanns</w>
+  <w>en</w>
+  <w>bild</w>
+  <w>också</w>
+  <w>.</w>
+  <absaspan id=12>
+    <w>Ett</w>
+    <w>liggsår</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=13 senti=2>
+    <w>ingen</w>
+    <w>vacker</w>
+    <w>syn</w>
+  </absaspan>
+  <w>.</w>
+  <w>Människor</w>
+  <w>som</w>
+  <w>sitter</w>
+  <w>eller</w>
+  <w>ligger</w>
+  <w>för</w>
+  <w>länge</w>
+  <w>utan</w>
+  <w>att</w>
+  <w>vändas</w>
+  <w>får</w>
+  <w>liggsår</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>absolut</w>
+  <w>inget</w>
+  <w>nytt</w>
+  <w>fenomen</w>
+  <w>,</w>
+  <w>tvärt</w>
+  <w>om</w>
+  <w>,</w>
+  <w>larmrapporter</w>
+  <w>kommer</w>
+  <w>ofta</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=14>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>har</w>
+    <w>inte</w>
+    <w>hjälpt</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=16 senti=2>
+    <w>Inte</w>
+    <w>heller</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>ökad</w>
+    <w>utbildning</w>
+    <w>av</w>
+    <w>personalen</w>
+    <w>och</w>
+    <w>en</w>
+    <w>satsning</w>
+    <w>på</w>
+    <w>bättre</w>
+    <w>material</w>
+    <w>för</w>
+    <w>de</w>
+    <w>sjuka</w>
+    <w>att</w>
+    <w>ligga</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>tycks</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>hjälpa</w>
+  </absaspan>
+  <w>.</w>
+  <w>Personalen</w>
+  <w>på</w>
+  <w>de</w>
+  <w>båda</w>
+  <w>sjukhusen</w>
+  <w>förklarar</w>
+  <w>ökningen</w>
+  <w>av</w>
+  <w>tryckskador</w>
+  <w>med</w>
+  <w>besparingarna</w>
+  <w>inom</w>
+  <w>vården</w>
+  <w>.</w>
+  <w>Personalen</w>
+  <w>hinner</w>
+  <w>helt</w>
+  <w>enkelt</w>
+  <w>inte</w>
+  <w>vända</w>
+  <w>patienterna</w>
+  <w>så</w>
+  <w>ofta</w>
+  <w>som</w>
+  <w>det</w>
+  <w>behövs</w>
+  <w>.</w>
+  <w>Detta</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>svåra</w>
+  <w>tryckskador</w>
+  <w>kan</w>
+  <w>leda</w>
+  <w>till</w>
+  <w>döden</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Läs</w>
+  <w>Lotta</w>
+  <w>Grönings</w>
+  <w>blogg</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

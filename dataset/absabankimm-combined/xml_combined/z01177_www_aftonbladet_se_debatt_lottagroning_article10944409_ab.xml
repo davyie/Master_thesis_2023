@@ -1,0 +1,263 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Han</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=3 source=1>
+    <w>ifrågasätter</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>systemet</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Miljöpartisten</w>
+  <absaspan id=4>
+    <w>Gustav</w>
+    <w>Fridolin</w>
+  </absaspan>
+  <w>slutar</w>
+  <w>i</w>
+  <w>riksdagen</w>
+  <w>.</w>
+  <w>Han</w>
+  <w>är</w>
+  <w>23</w>
+  <w>år</w>
+  <w>gammal</w>
+  <w>och</w>
+  <w>har</w>
+  <w>suttit</w>
+  <w>en</w>
+  <w>mandatperiod</w>
+  <w>i</w>
+  <w>riksdagen</w>
+  <w>.</w>
+  <absaspan id=5 senti=3>
+    <w>Hans</w>
+    <w>övertygelse</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>att</w>
+    <w>politiker</w>
+    <w>inte</w>
+    <w>ska</w>
+    <w>sitta</w>
+    <w>för</w>
+    <w>länge</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>en</w>
+  <w>tankeställare</w>
+  <w>till</w>
+  <w>alla</w>
+  <w>dem</w>
+  <w>som</w>
+  <w>tagit</w>
+  <w>uppdraget</w>
+  <w>som</w>
+  <w>en</w>
+  <w>livsuppgift</w>
+  <w>och</w>
+  <w>kanske</w>
+  <w>är</w>
+  <w>inne</w>
+  <w>på</w>
+  <w>andra</w>
+  <w>decenniet</w>
+  <w>som</w>
+  <w>riksdagsledamot</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=7>
+    <w>Gustav</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>Fridolin</w>
+  </absaspan>
+  <w>utmanar</w>
+  <w>.</w>
+  <absaspan id=9>
+    <w>Han</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>struntar</w>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>gamla</w>
+    <w>regler</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=12 senti=4>
+    <w>utmanar</w>
+    <w>gamla</w>
+    <w>ingrodda</w>
+    <w>strukturer</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=13>
+    <w>Många</w>
+  </absaspan>
+  <w>har</w>
+  <w>nog</w>
+  <w>sett</w>
+  <w>honom</w>
+  <w>lite</w>
+  <w>över</w>
+  <w>axeln</w>
+  <w>och</w>
+  <w>tänkt</w>
+  <w>att</w>
+  <absaspan id=14>
+    <w>pojken</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>inte</w>
+    <w>är</w>
+    <w>torr</w>
+    <w>bakom</w>
+    <w>öronen</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>oavsett</w>
+  <w>vilken</w>
+  <w>politisk</w>
+  <w>färg</w>
+  <w>vi</w>
+  <w>tillskriver</w>
+  <w>oss</w>
+  <absaspan id=16 senti=5>
+    <w>borde</w>
+    <w>vi</w>
+    <w>alla</w>
+    <w>vara</w>
+    <w>glada</w>
+    <w>åt</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>sådana</w>
+    <w>kreativa</w>
+    <w>förstörare</w>
+    <w>som</w>
+    <w>Gustav</w>
+    <w>Fridolin</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=18>
+    <w>Han</w>
+  </absaspan>
+  <w>har</w>
+  <w>inte</w>
+  <w>lärt</w>
+  <w>sig</w>
+  <absaspan id=19>
+    <w>systemet</w>
+  </absaspan>
+  <w>utan</w>
+  <absaspan id=20 senti=2>
+    <w>ifrågasatt</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>det</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>ringde</w>
+  <w>en</w>
+  <w>gammal</w>
+  <w>tant</w>
+  <w>till</w>
+  <w>debattredaktionen</w>
+  <w>.</w>
+  <w>Genast</w>
+  <w>sa</w>
+  <w>hon</w>
+  <w>:</w>
+  <w>”</w>
+  <w>Jag</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>miljöpartist</w>
+  <w>,</w>
+  <w>men</w>
+  <w>Gustav</w>
+  <w>Fridolin</w>
+  <w>borde</w>
+  <w>bli</w>
+  <w>statsminister</w>
+  <w>.</w>
+  <absaspan id=22>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=23 senti=1>
+    <w>är</w>
+    <w>så</w>
+    <w>ledsen</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>han</w>
+    <w>slutar</w>
+  </absaspan>
+  <w>.</w>
+  <w>”</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vad</w>
+  <w>Gustav</w>
+  <w>Fridolin</w>
+  <w>har</w>
+  <w>visat</w>
+  <w>är</w>
+  <w>det</w>
+  <w>enormt</w>
+  <w>stora</w>
+  <w>behovet</w>
+  <w>av</w>
+  <w>nytt</w>
+  <w>blod</w>
+  <w>i</w>
+  <w>politiken</w>
+  <w>och</w>
+  <w>framför</w>
+  <w>allt</w>
+  <w>av</w>
+  <absaspan id=25 senti=5>
+    <w>personer</w>
+    <w>som</w>
+    <w>vågar</w>
+    <w>tänka</w>
+    <w>själva</w>
+  </absaspan>
+  <w>också</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Vem</w>
+  <w>vet</w>
+  <w>,</w>
+  <w>vid</w>
+  <w>nästa</w>
+  <w>val</w>
+  <w>kanske</w>
+  <w>Gustav</w>
+  <w>Fridolin</w>
+  <w>återkommer</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

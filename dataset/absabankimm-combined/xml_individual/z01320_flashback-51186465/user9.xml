@@ -1,0 +1,82 @@
+<absadoc annotators=1 senti=4>
+<absatitle>
+  <absaspan id=1 senti=4 target=2>
+    <w>Goda</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>nyheter</w>
+  </absaspan>
+  <w>från</w>
+  <w>professor</w>
+  <w>fastslår</w>
+  <w>slutgiltigt</w>
+  <w>:</w>
+  <w>"</w>
+  <w>Migration</w>
+  <w>sänker</w>
+  <w>inte</w>
+  <w>löner</w>
+  <w>"</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Den</w>
+  <w>faktaspäckade</w>
+  <w>publikationen</w>
+  <w>arbetet</w>
+  <w>kommer</w>
+  <w>med</w>
+  <w>lite</w>
+  <absaspan id=3 senti=4>
+    <w>goda</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>nyheter</w>
+  </absaspan>
+  <w>i</w>
+  <w>höstmörkret</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=4>
+  <w>Innebär</w>
+  <w>dessa</w>
+  <w>i</w>
+  <w>princip</w>
+  <w>oemotsägabara</w>
+  <w>fakta</w>
+  <w>att</w>
+  <w>en</w>
+  <w>stor</w>
+  <w>del</w>
+  <absaspan id=5 senti=2>
+    <w>invandringskritiska</w>
+  </absaspan>
+  <w>bör</w>
+  <w>byta</w>
+  <w>åsikt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=4>
+  <w>Dessutom</w>
+  <w>lite</w>
+  <w>nya</w>
+  <w>rön</w>
+  <w>om</w>
+  <w>dom</w>
+  <w>för</w>
+  <w>Sverige</w>
+  <absaspan id=6 senti=4>
+    <w>positiva</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>effekterna</w>
+    <w>av</w>
+    <w>migration</w>
+  </absaspan>
+  <w>i</w>
+  <w>samma</w>
+  <w>publikation</w>
+  <w>.</w>
+</absapar>
+</absadoc>

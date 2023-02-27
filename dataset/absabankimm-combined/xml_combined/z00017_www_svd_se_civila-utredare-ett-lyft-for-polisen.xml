@@ -1,0 +1,759 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Civila</w>
+  <w>utredare</w>
+  <w>ett</w>
+  <w>lyft</w>
+  <w>för</w>
+  <w>polisen</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Inom</w>
+  <w>Polisens</w>
+  <w>finns</w>
+  <absaspan id=1 senti=2>
+    <w>legala</w>
+    <w>hinder</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=2>
+    <w>att</w>
+    <w>låta</w>
+    <w>civilanställda</w>
+    <w>utredare</w>
+    <w>utföra</w>
+    <w>ett</w>
+    <w>antal</w>
+    <w>utredningsåtgärder</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=3>
+    <w>Resultatet</w>
+  </absaspan>
+  <w>är</w>
+  <w>mycket</w>
+  <absaspan id=4 senti=2>
+    <w>olyckligt</w>
+  </absaspan>
+  <w>och</w>
+  <w>den</w>
+  <w>samlade</w>
+  <w>kompetensen</w>
+  <w>utnyttjas</w>
+  <w>därmed</w>
+  <w>inte</w>
+  <w>fullt</w>
+  <w>ut</w>
+  <w>,</w>
+  <w>skriver</w>
+  <absaspan id=5>
+    <w>Staffan</w>
+    <w>Tilling</w>
+    <w>och</w>
+    <w>Louise</w>
+    <w>Adelborg</w>
+  </absaspan>
+  <w>,</w>
+  <w>Jusek</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>är</w>
+  <w>hög</w>
+  <w>tid</w>
+  <w>att</w>
+  <absaspan id=6 senti=4>
+    <w>modernisera</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>svensk</w>
+    <w>polis</w>
+  </absaspan>
+  <w>genom</w>
+  <w>att</w>
+  <absaspan id=8 senti=4>
+    <w>förstärka</w>
+  </absaspan>
+  <w>de</w>
+  <absaspan id=9>
+    <w>civilanställdas</w>
+    <w>befogenheter.Staffan</w>
+  </absaspan>
+  <w>TillingLouise</w>
+  <w>Adelborg</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>I</w>
+  <w>dag</w>
+  <w>debatteras</w>
+  <w>justitieutskottets</w>
+  <w>betänkande</w>
+  <w>om</w>
+  <w>fler</w>
+  <w>civilanställda</w>
+  <w>inom</w>
+  <w>Polisen</w>
+  <w>i</w>
+  <w>riksdagen</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>hög</w>
+  <w>tid</w>
+  <w>.</w>
+  <w>Ingen</w>
+  <w>kan</w>
+  <w>ha</w>
+  <w>undgått</w>
+  <w>det</w>
+  <w>faktum</w>
+  <w>att</w>
+  <absaspan id=10>
+    <w>svensk</w>
+    <w>polis</w>
+  </absaspan>
+  <w>under</w>
+  <w>flera</w>
+  <w>år</w>
+  <w>har</w>
+  <absaspan id=11 senti=2>
+    <w>kritiserats</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=12 senti=2>
+    <w>ineffektivitet</w>
+  </absaspan>
+  <w>och</w>
+  <w>för</w>
+  <absaspan id=13 senti=2>
+    <w>bristande</w>
+    <w>kvalitet</w>
+  </absaspan>
+  <w>i</w>
+  <w>sina</w>
+  <absaspan id=14>
+    <w>utredningar</w>
+    <w>.</w>
+  </absaspan>
+  <w>Men</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>också</w>
+  <absaspan id=15 senti=4>
+    <w>ljusglimtar</w>
+  </absaspan>
+  <w>.</w>
+  <w>De</w>
+  <absaspan id=16>
+    <w>civilanställda</w>
+    <w>utredarna</w>
+  </absaspan>
+  <w>lyfts</w>
+  <w>särskilt</w>
+  <w>fram</w>
+  <w>som</w>
+  <absaspan id=17 senti=4>
+    <w>ett</w>
+    <w>gott</w>
+    <w>exempel</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>gäller</w>
+  <w>exempelvis</w>
+  <w>i</w>
+  <w>justitiedepartementets</w>
+  <w>interna</w>
+  <w>granskning</w>
+  <w>och</w>
+  <w>Riksrevisionens</w>
+  <w>granskning</w>
+  <w>av</w>
+  <w>Polisen</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Inom</w>
+  <w>Polisen</w>
+  <w>finns</w>
+  <w>flera</w>
+  <w>kategorier</w>
+  <w>av</w>
+  <w>civilt</w>
+  <w>anställda</w>
+  <w>utredare</w>
+  <w>.</w>
+  <w>Många</w>
+  <w>av</w>
+  <w>dessa</w>
+  <w>har</w>
+  <w>akademisk</w>
+  <w>examen</w>
+  <w>inom</w>
+  <w>exempelvis</w>
+  <w>juridik</w>
+  <w>,</w>
+  <w>ekonomi</w>
+  <w>,</w>
+  <w>system</w>
+  <w>-</w>
+  <w>och</w>
+  <w>samhällsvetenskap</w>
+  <w>.</w>
+  <absaspan id=18>
+    <w>Deras</w>
+  </absaspan>
+  <w>specifika</w>
+  <absaspan id=19 senti=4>
+    <w>kompetens</w>
+  </absaspan>
+  <w>gör</w>
+  <w>dem</w>
+  <w>till</w>
+  <absaspan id=20 senti=4>
+    <w>naturliga</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>utredare</w>
+  </absaspan>
+  <w>inom</w>
+  <w>exempelvis</w>
+  <w>it</w>
+  <w>-</w>
+  <w>,</w>
+  <w>skatte</w>
+  <w>-</w>
+  <w>,</w>
+  <w>miljö</w>
+  <w>-</w>
+  <w>eller</w>
+  <w>familjevåldsbrott</w>
+  <w>.</w>
+  <w>De</w>
+  <absaspan id=22>
+    <w>civila</w>
+    <w>utredarna</w>
+  </absaspan>
+  <absaspan id=23 senti=4>
+    <w>tillför</w>
+    <w>nytt</w>
+    <w>kunnande</w>
+  </absaspan>
+  <w>och</w>
+  <w>nya</w>
+  <w>perspektiv</w>
+  <w>och</w>
+  <absaspan id=24 senti=4>
+    <w>kompletterar</w>
+  </absaspan>
+  <w>de</w>
+  <w>polisutbildade</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Under</w>
+  <w>senare</w>
+  <w>år</w>
+  <w>har</w>
+  <w>det</w>
+  <w>skett</w>
+  <w>en</w>
+  <w>utveckling</w>
+  <w>när</w>
+  <w>det</w>
+  <w>gäller</w>
+  <w>rekrytering</w>
+  <w>av</w>
+  <w>personal</w>
+  <w>med</w>
+  <w>icke-polisiär</w>
+  <w>bakgrund</w>
+  <w>till</w>
+  <w>den</w>
+  <w>brottsutredande</w>
+  <w>verksamheten</w>
+  <w>.</w>
+  <w>Den</w>
+  <absaspan id=25>
+    <w>utvecklingen</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=26 senti=4>
+    <w>positiv</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vi</w>
+  <w>vet</w>
+  <w>att</w>
+  <w>det</w>
+  <w>finns</w>
+  <absaspan id=27 senti=4>
+    <w>goda</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>exempel</w>
+  </absaspan>
+  <w>från</w>
+  <w>svensk</w>
+  <w>förvaltning</w>
+  <w>där</w>
+  <w>brottsutredningar</w>
+  <w>bedrivs</w>
+  <w>av</w>
+  <w>andra</w>
+  <w>än</w>
+  <w>Polisen</w>
+  <w>.</w>
+  <w>Vid</w>
+  <w>exempelvis</w>
+  <w>Skattemyndigheten</w>
+  <w>,</w>
+  <w>Tullverket</w>
+  <w>och</w>
+  <w>Kustbevakningen</w>
+  <w>utförs</w>
+  <w>brottsutredande</w>
+  <w>verksamhet</w>
+  <w>av</w>
+  <w>specialutbildade</w>
+  <w>yrkeskategorier</w>
+  <w>.</w>
+  <w>Dessa</w>
+  <w>utredare</w>
+  <w>har</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>tjänsteutövning</w>
+  <w>befogenheter</w>
+  <w>som</w>
+  <w>huvudsak</w>
+  <w>motsvarar</w>
+  <w>en</w>
+  <w>polismans</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Inom</w>
+  <w>Polisens</w>
+  <w>verksamhet</w>
+  <w>finns</w>
+  <w>däremot</w>
+  <absaspan id=29 senti=2>
+    <w>legala</w>
+    <w>hinder</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=30>
+    <w>att</w>
+    <w>låta</w>
+    <w>civilanställda</w>
+    <w>utredare</w>
+    <w>utföra</w>
+    <w>ett</w>
+    <w>antal</w>
+    <w>utredningsåtgärder</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=31>
+    <w>Resultatet</w>
+  </absaspan>
+  <w>är</w>
+  <w>mycket</w>
+  <absaspan id=32 senti=2>
+    <w>olyckligt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Den</w>
+  <w>samlade</w>
+  <w>kompetensen</w>
+  <w>inom</w>
+  <w>Polisen</w>
+  <w>utnyttjas</w>
+  <w>därmed</w>
+  <w>inte</w>
+  <w>fullt</w>
+  <w>ut</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>För</w>
+  <w>att</w>
+  <absaspan id=33 senti=4>
+    <w>tillföra</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>ny</w>
+    <w>kompetens</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=35 senti=4>
+    <w>stärka</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>polisens</w>
+    <w>brottsutredningar</w>
+  </absaspan>
+  <w>krävs</w>
+  <w>ändringar</w>
+  <w>i</w>
+  <w>lagstiftningen</w>
+  <w>.</w>
+  <w>Vår</w>
+  <w>uppfattning</w>
+  <w>är</w>
+  <w>tydlig</w>
+  <w>.</w>
+  <w>Civila</w>
+  <w>utredare</w>
+  <w>ska</w>
+  <w>kunna</w>
+  <w>utföra</w>
+  <w>alla</w>
+  <w>brottsutredande</w>
+  <w>åtgärder</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>inbegriper</w>
+  <absaspan id=37 senti=2>
+    <w>våldsanvändning</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Det</w>
+  <absaspan id=38 senti=2>
+    <w>saknas</w>
+  </absaspan>
+  <w>idag</w>
+  <w>en</w>
+  <absaspan id=39>
+    <w>naturlig</w>
+    <w>karriärväg</w>
+    <w>för</w>
+    <w>civila</w>
+    <w>utredare</w>
+  </absaspan>
+  <w>att</w>
+  <w>bli</w>
+  <w>chefer</w>
+  <w>och</w>
+  <w>förundersökningsledare</w>
+  <w>.</w>
+  <w>Detta</w>
+  <w>hör</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>tur</w>
+  <w>ihop</w>
+  <w>med</w>
+  <w>dagens</w>
+  <w>lagstiftning</w>
+  <w>,</w>
+  <w>eftersom</w>
+  <w>bara</w>
+  <w>poliser</w>
+  <w>får</w>
+  <w>fatta</w>
+  <w>beslut</w>
+  <w>i</w>
+  <w>en</w>
+  <w>brottsutredning</w>
+  <w>eller</w>
+  <w>verkställa</w>
+  <w>olika</w>
+  <w>utredningsåtgärder</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>En</w>
+  <w>ytterligare</w>
+  <absaspan id=40 senti=4>
+    <w>viktig</w>
+    <w>fråga</w>
+  </absaspan>
+  <w>gällande</w>
+  <w>polisens</w>
+  <w>utredningsverksamhet</w>
+  <w>är</w>
+  <w>det</w>
+  <absaspan id=41>
+    <w>kvalificerade</w>
+    <w>förundersökningsledarskapet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Med</w>
+  <w>nuvarande</w>
+  <w>lagstiftning</w>
+  <w>kan</w>
+  <w>till</w>
+  <w>exempel</w>
+  <w>en</w>
+  <absaspan id=42>
+    <w>åklagare</w>
+  </absaspan>
+  <w>–</w>
+  <w>som</w>
+  <w>anställs</w>
+  <w>som</w>
+  <w>civil</w>
+  <w>utredare</w>
+  <w>-</w>
+  <w>med</w>
+  <absaspan id=43 senti=4>
+    <w>lång</w>
+    <w>erfarenhet</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=44 senti=4>
+    <w>kvalificerat</w>
+  </absaspan>
+  <absaspan id=45>
+    <w>utredningsarbete</w>
+  </absaspan>
+  <w>och</w>
+  <w>förundersökningsledning</w>
+  <w>inte</w>
+  <w>tilldelas</w>
+  <w>uppgiften</w>
+  <w>att</w>
+  <w>ansvara</w>
+  <w>för</w>
+  <w>en</w>
+  <w>enkel</w>
+  <w>förundersökning</w>
+  <w>inom</w>
+  <w>Polisen</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Mot</w>
+  <w>denna</w>
+  <w>bakgrund</w>
+  <w>har</w>
+  <absaspan id=46>
+    <w>civilanställda</w>
+    <w>brottsutredare</w>
+  </absaspan>
+  <absaspan id=47 senti=2>
+    <w>mycket</w>
+    <w>svårt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=48>
+    <w>hävda</w>
+    <w>sig</w>
+    <w>i</w>
+    <w>konkurrensen</w>
+    <w>om</w>
+    <w>attraktiva</w>
+    <w>tjänster</w>
+  </absaspan>
+  <w>på</w>
+  <w>utredningssidan</w>
+  <w>.</w>
+  <w>Dessutom</w>
+  <w>är</w>
+  <w>den</w>
+  <absaspan id=49 senti=4>
+    <w>naturliga</w>
+  </absaspan>
+  <absaspan id=50>
+    <w>karriärvägen</w>
+  </absaspan>
+  <w>för</w>
+  <w>en</w>
+  <absaspan id=51 senti=4>
+    <w>duktig</w>
+  </absaspan>
+  <absaspan id=52>
+    <w>civil</w>
+    <w>utredare</w>
+  </absaspan>
+  <w>stängd</w>
+  <w>,</w>
+  <w>eftersom</w>
+  <w>enbart</w>
+  <w>poliser</w>
+  <w>kan</w>
+  <w>avancera</w>
+  <w>till</w>
+  <w>förundersökningsledare</w>
+  <w>inom</w>
+  <w>Polisen</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Det</w>
+  <w>är</w>
+  <w>hög</w>
+  <w>tid</w>
+  <w>att</w>
+  <absaspan id=53 senti=4>
+    <w>modernisera</w>
+  </absaspan>
+  <absaspan id=54>
+    <w>svensk</w>
+    <w>polis</w>
+  </absaspan>
+  <w>genom</w>
+  <w>att</w>
+  <absaspan id=55 senti=4>
+    <w>förstärka</w>
+  </absaspan>
+  <w>de</w>
+  <absaspan id=56>
+    <w>civilanställdas</w>
+    <w>befogenheter</w>
+  </absaspan>
+  <w>.</w>
+  <w>En</w>
+  <w>sådan</w>
+  <absaspan id=57>
+    <w>reform</w>
+  </absaspan>
+  <w>skulle</w>
+  <absaspan id=58 senti=4>
+    <w>starkt</w>
+    <w>bidra</w>
+  </absaspan>
+  <w>till</w>
+  <w>att</w>
+  <absaspan id=59 senti=4>
+    <w>öka</w>
+    <w>effektiviteten</w>
+  </absaspan>
+  <w>och</w>
+  <w>därmed</w>
+  <absaspan id=60 senti=4>
+    <w>bredda</w>
+  </absaspan>
+  <absaspan id=61>
+    <w>polisens</w>
+  </absaspan>
+  <absaspan id=62 senti=4>
+    <w>kompetens</w>
+  </absaspan>
+  <w>.</w>
+  <w>Nya</w>
+  <w>karriärvägar</w>
+  <w>skulle</w>
+  <w>skapas</w>
+  <w>.</w>
+  <w>En</w>
+  <w>konkurrens</w>
+  <w>på</w>
+  <w>lika</w>
+  <w>villkor</w>
+  <w>kring</w>
+  <absaspan id=63 senti=4>
+    <w>attraktiva</w>
+  </absaspan>
+  <absaspan id=64>
+    <w>tjänster</w>
+  </absaspan>
+  <w>i</w>
+  <w>den</w>
+  <w>brottsutredande</w>
+  <w>verksamheten</w>
+  <w>möjliggöras</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>I</w>
+  <w>sin</w>
+  <w>förlängning</w>
+  <w>är</w>
+  <absaspan id=65 senti=4>
+    <w>den</w>
+    <w>stora</w>
+    <w>vinnaren</w>
+  </absaspan>
+  <w>polisens</w>
+  <w>uppdragsgivare</w>
+  <w>,</w>
+  <w>nämligen</w>
+  <absaspan id=66>
+    <w>allmänheten</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>STAFFAN</w>
+  <w>TILLING</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>ordförande</w>
+  <w>Juseks</w>
+  <w>polissektion</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>LOUISE</w>
+  <w>ADELBORG</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>vd</w>
+  <w>Jusek</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

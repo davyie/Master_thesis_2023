@@ -1,0 +1,80 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>USA</w>
+  <w>:</w>
+  <absaspan id=1>
+    <w>Ensamkommande</w>
+    <w>flyktingbarn</w>
+  </absaspan>
+  <absaspan id=2 senti=1 target=1>
+    <w>gruppvåldtar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>14</w>
+    <w>-</w>
+    <w>åring</w>
+    <w>på</w>
+    <w>skola</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=2>
+  <absaspan id=5 senti=1>
+    <w>våldtog</w>
+  </absaspan>
+  <w>en</w>
+  <w>14</w>
+  <w>-</w>
+  <w>årig</w>
+  <w>elev</w>
+  <w>oralt</w>
+  <w>vaginalt</w>
+  <w>och</w>
+  <w>analt</w>
+  <w>.</w>
+  <w>18</w>
+  <w>-</w>
+  <w>åringen</w>
+  <w>har</w>
+  <w>redan</w>
+  <w>utvisningsbeslut</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Många</w>
+  <w>frågor</w>
+  <w>kring</w>
+  <w>detta</w>
+  <w>fall</w>
+  <w>.</w>
+  <w>Är</w>
+  <w>Rockville</w>
+  <w>Maryland</w>
+  <w>sanctuary</w>
+  <w>city</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Varför</w>
+  <w>får</w>
+  <w>dom</w>
+  <w>leka</w>
+  <w>med</w>
+  <w>14</w>
+  <w>-</w>
+  <w>åringar</w>
+  <w>?</w>
+  <w>9th</w>
+  <w>grade</w>
+  <w>at</w>
+  <w>high</w>
+  <w>school</w>
+  <w>är</w>
+  <w>INTE</w>
+  <w>gymnasiet</w>
+  <w>.</w>
+</absapar>
+</absadoc>

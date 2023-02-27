@@ -1,0 +1,184 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <absaspan id=1>
+    <w>MENA</w>
+    <w>människor</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>förstör</w>
+    <w>nu</w>
+    <w>ekonomin</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=1>
+  <w>I</w>
+  <w>och</w>
+  <w>med</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>fler</w>
+    <w>och</w>
+    <w>fler</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>analfabeter</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>kriminella</w>
+    <w>från</w>
+    <w>tredje</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>världen</w>
+  </absaspan>
+  <w>skrivs</w>
+  <w>in</w>
+  <w>på</w>
+  <w>arbetsförmedlingen</w>
+  <w>och</w>
+  <absaspan id=8 senti=2>
+    <w>lär</w>
+    <w>stanna</w>
+    <w>där</w>
+    <w>tills</w>
+    <w>helvete</w>
+    <w>fryser</w>
+  </absaspan>
+  <w>så</w>
+  <w>ökar</w>
+  <w>nu</w>
+  <w>pressen</w>
+  <w>på</w>
+  <w>staten</w>
+  <w>att</w>
+  <w>fundera</w>
+  <w>ut</w>
+  <w>vad</w>
+  <w>man</w>
+  <w>ska</w>
+  <w>göra</w>
+  <w>med</w>
+  <w>alla</w>
+  <w>dessa</w>
+  <absaspan id=9 senti=1>
+    <w>idioter</w>
+    <w>och</w>
+    <w>kriminella</w>
+  </absaspan>
+  <w>från</w>
+  <absaspan id=10 senti=1>
+    <w>MENA</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>"</w>
+  <absaspan id=11 senti=4>
+    <w>En</w>
+    <w>av</w>
+    <w>de</w>
+    <w>viktigaste</w>
+    <w>förklaringarna</w>
+  </absaspan>
+  <w>till</w>
+  <w>trendbrottet</w>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=12>
+    <w>fler</w>
+    <w>nyanlända</w>
+    <w>fått</w>
+    <w>sina</w>
+    <w>uppehållstillstånd</w>
+    <w>och</w>
+    <w>ingår</w>
+    <w>i</w>
+    <w>Arbetsförmedlingens</w>
+    <w>aktivitetsprogram</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>.</w>
+  </absaspan>
+  <w>Det</w>
+  <w>innebär</w>
+  <w>att</w>
+  <w>de</w>
+  <w>räknas</w>
+  <w>som</w>
+  <w>arbetssökande</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>.</w>
+  <w>:</w>
+  <w>Den</w>
+  <w>ökning</w>
+  <w>som</w>
+  <w>vi</w>
+  <w>nu</w>
+  <w>ser</w>
+  <w>av</w>
+  <w>antalet</w>
+  <w>arbetslösa</w>
+  <w>är</w>
+  <w>väntad</w>
+  <w>.</w>
+  <w>Många</w>
+  <w>av</w>
+  <w>de</w>
+  <w>flyktingar</w>
+  <w>som</w>
+  <w>kom</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>hösten</w>
+  <w>2015</w>
+  <w>har</w>
+  <w>skrivits</w>
+  <w>in</w>
+  <w>i</w>
+  <w>Arbetsförmedlingens</w>
+  <w>"</w>
+  <absaspan id=14>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4 senti=1>
+  <w>Vad</w>
+  <w>bör</w>
+  <w>man</w>
+  <w>göra</w>
+  <w>?</w>
+  <w>Mitt</w>
+  <w>förslag</w>
+  <w>är</w>
+  <w>att</w>
+  <w>utvisa</w>
+  <absaspan id=15>
+    <w>alla</w>
+    <w>från</w>
+    <w>MENA</w>
+    <w>länder</w>
+  </absaspan>
+  <w>som</w>
+  <w>någonsin</w>
+  <w>har</w>
+  <w>sökt</w>
+  <w>asyl</w>
+  <absaspan id=16 senti=1>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>Vad</w>
+  <w>är</w>
+  <w>ert</w>
+  <w>förslag</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

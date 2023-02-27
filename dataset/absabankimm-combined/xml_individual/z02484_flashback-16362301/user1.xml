@@ -1,0 +1,156 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Bonus</w>
+  <w>till</w>
+  <w>asylsökande</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Skellefteå</w>
+  <w>säger</w>
+  <w>ja</w>
+  <w>aktivitetsbonus</w>
+  <w>för</w>
+  <w>de</w>
+  <w>asylsökande</w>
+  <w>som</w>
+  <w>utöver</w>
+  <w>studier</w>
+  <w>i</w>
+  <w>svenska</w>
+  <w>går</w>
+  <w>med</w>
+  <w>på</w>
+  <w>kommunens</w>
+  <w>erbjudande</w>
+  <w>om</w>
+  <w>jobb</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>här</w>
+  <w>framgår</w>
+  <w>av</w>
+  <w>yttrandet</w>
+  <w>över</w>
+  <w>"</w>
+  <w>Aktiva</w>
+  <w>väntan</w>
+  <w>:</w>
+  <w>asylsökande</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Genom</w>
+  <absaspan id=1>
+    <w>att</w>
+    <w>i</w>
+    <w>tidigt</w>
+    <w>skede</w>
+    <w>erbjuda</w>
+    <w>ekonomiska</w>
+    <w>morötter</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>förbättras</w>
+    <w>möjligheterna</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=3 senti=4>
+    <w>integration</w>
+  </absaspan>
+  <w>,</w>
+  <w>menar</w>
+  <absaspan id=4>
+    <w>kommunen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vad</w>
+  <w>ska</w>
+  <w>man</w>
+  <w>säga</w>
+  <w>?</w>
+  <w>Snacka</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=5>
+    <w>staten</w>
+    <w>/</w>
+    <w>kommunen</w>
+  </absaspan>
+  <absaspan id=6 senti=1>
+    <w>pissar</w>
+    <w>oss</w>
+    <w>vanliga</w>
+    <w>invånare</w>
+    <w>i</w>
+    <w>ansiktet</w>
+  </absaspan>
+  <w>,</w>
+  <w>för</w>
+  <w>oss</w>
+  <w>finns</w>
+  <w>inte</w>
+  <w>ens</w>
+  <w>jobb</w>
+  <w>att</w>
+  <w>erbjudas</w>
+  <w>än</w>
+  <w>mindre</w>
+  <w>ekonomiska</w>
+  <w>morötter</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Håller</w>
+  <absaspan id=7>
+    <w>Sverige</w>
+  </absaspan>
+  <w>på</w>
+  <w>att</w>
+  <w>köra</w>
+  <w>sig</w>
+  <w>självt</w>
+  <w>i</w>
+  <w>botten</w>
+  <w>?</w>
+  <absaspan id=8 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=6>
+  <w>Undra</w>
+  <w>vilket</w>
+  <w>annat</w>
+  <w>land</w>
+  <w>vi</w>
+  <w>skulle</w>
+  <w>kunna</w>
+  <w>dra</w>
+  <w>till</w>
+  <w>och</w>
+  <w>få</w>
+  <w>det</w>
+  <w>lika</w>
+  <w>bra</w>
+  <w>som</w>
+  <w>dom</w>
+  <w>som</w>
+  <w>landar</w>
+  <w>här</w>
+  <w>i</w>
+  <absaspan id=9 senti=2>
+    <w>Sverige</w>
+  </absaspan>
+  <w>!</w>
+  <absaspan id=10 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

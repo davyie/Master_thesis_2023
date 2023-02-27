@@ -1,0 +1,39 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Nu</w>
+  <w>kommer</w>
+  <w>skattehöjningarna</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Nu</w>
+  <w>kommer</w>
+  <w>de</w>
+  <w>utlovade</w>
+  <w>skattehöjningarna</w>
+  <w>som</w>
+  <w>svenskarna</w>
+  <w>måste</w>
+  <w>betala</w>
+  <w>för</w>
+  <absaspan id=1 senti=2>
+    <w>massinvandringen</w>
+  </absaspan>
+  <w>,</w>
+  <w>regeringen</w>
+  <w>kallar</w>
+  <w>dem</w>
+  <w>miljöskatter</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Är</w>
+  <w>du</w>
+  <w>stolt</w>
+  <w>nu</w>
+  <w>87%</w>
+  <w>are</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

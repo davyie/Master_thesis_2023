@@ -1,0 +1,94 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Även</w>
+  <absaspan id=1>
+    <w>invandrare</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=3 source=1>
+    <w>har</w>
+    <w>blivit</w>
+    <w>kritiska</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>invandringen</w>
+    <w>till</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Är</w>
+  <w>det</w>
+  <w>bara</w>
+  <w>jag</w>
+  <w>som</w>
+  <w>har</w>
+  <w>märkt</w>
+  <w>att</w>
+  <w>allt</w>
+  <w>fler</w>
+  <w>invandrare</w>
+  <w>är</w>
+  <w>kritiska</w>
+  <w>mot</w>
+  <w>invandringen</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>?</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>längre</w>
+  <w>sällsynt</w>
+  <w>att</w>
+  <w>se</w>
+  <absaspan id=4>
+    <w>invandrare</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>beklaga</w>
+    <w>sig</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>invandringen</w>
+  </absaspan>
+  <w>även</w>
+  <w>om</w>
+  <absaspan id=7>
+    <w>många</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>distanserar</w>
+    <w>sig</w>
+    <w>från</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>SD</w>
+  </absaspan>
+  <w>.</w>
+  <w>Inom</w>
+  <w>ett</w>
+  <w>par</w>
+  <w>år</w>
+  <w>,</w>
+  <w>har</w>
+  <absaspan id=10>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>en</w>
+    <w>ny</w>
+    <w>väljargrupp</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=12 senti=4>
+    <w>se</w>
+    <w>fram</w>
+    <w>emot</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

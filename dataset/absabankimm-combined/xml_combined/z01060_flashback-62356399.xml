@@ -1,0 +1,323 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Andres</w>
+    <w>Lokko</w>
+  </absaspan>
+  <absaspan id=2 senti=1 source=1 target=3>
+    <w>spyr</w>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>Morrisseys</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>nya</w>
+    <w>album</w>
+  </absaspan>
+  <w>:</w>
+  <w>"</w>
+  <w>SD-rock</w>
+  <w>!</w>
+  <w>"</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ha</w>
+  <w>,</w>
+  <w>ha</w>
+  <w>,</w>
+  <w>ha</w>
+  <w>,</w>
+  <w>eh</w>
+  <w>eh</w>
+  <w>hö</w>
+  <w>,</w>
+  <w>hö</w>
+  <w>,</w>
+  <w>åhh</w>
+  <w>,</w>
+  <w>åh</w>
+  <w>,</w>
+  <w>ha</w>
+  <w>ha</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>ja</w>
+  <w>,</w>
+  <w>jag</w>
+  <w>kan</w>
+  <w>fan</w>
+  <w>i</w>
+  <w>mig</w>
+  <w>inte</w>
+  <w>sluta</w>
+  <w>skratta</w>
+  <w>åt</w>
+  <absaspan id=5>
+    <w>Andres</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>Lokko</w>
+  </absaspan>
+  <w>:</w>
+  <w>s</w>
+  <absaspan id=7 senti=1>
+    <w>infantial</w>
+    <w>ruelse</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=8 senti=1>
+    <w>ilska</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>I</w>
+  <w>en</w>
+  <w>förhållandevis</w>
+  <w>lång</w>
+  <w>artikel</w>
+  <absaspan id=9 senti=1>
+    <w>spyr</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=11 senti=1>
+    <w>galla</w>
+  </absaspan>
+  <w>och</w>
+  <w>besvikelse</w>
+  <w>om</w>
+  <w>vart</w>
+  <w>annat</w>
+  <absaspan id=12 senti=1>
+    <w>över</w>
+  </absaspan>
+  <w>att</w>
+  <w>den</w>
+  <w>så</w>
+  <absaspan id=13 senti=2>
+    <w>tidigare</w>
+    <w>aktade</w>
+  </absaspan>
+  <w>(</w>
+  <w>för</w>
+  <w>att</w>
+  <w>han</w>
+  <w>var</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>.</w>
+  <w>,</w>
+  <w>osv</w>
+  <w>förstås</w>
+  <w>)</w>
+  <absaspan id=14>
+    <w>artisten</w>
+  </absaspan>
+  <w>nu</w>
+  <w>svängt</w>
+  <w>till</w>
+  <w>"</w>
+  <absaspan id=15 senti=1>
+    <w>högerextrema</w>
+    <w>"</w>
+    <w>åsikter</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Så</w>
+  <w>,</w>
+  <w>och</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Jag</w>
+  <w>vet</w>
+  <w>att</w>
+  <w>det</w>
+  <w>flesta</w>
+  <w>artister</w>
+  <w>,</w>
+  <w>som</w>
+  <w>uttalar</w>
+  <w>sig</w>
+  <w>offentligt</w>
+  <w>om</w>
+  <w>sina</w>
+  <w>politiska</w>
+  <w>åsikter</w>
+  <w>,</w>
+  <w>är</w>
+  <w>vänster</w>
+  <w>.</w>
+  <absaspan id=16>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=17 senti=4>
+    <w>kan</w>
+    <w>ändå</w>
+    <w>njuta</w>
+    <w>av</w>
+  </absaspan>
+  <w>deras</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>eller</w>
+  <w>what</w>
+  <w>ever</w>
+  <absaspan id=18>
+    <w>deras</w>
+    <w>talanger</w>
+  </absaspan>
+  <w>består</w>
+  <w>av</w>
+  <w>.</w>
+  <w>Man</w>
+  <w>skulle</w>
+  <w>ju</w>
+  <w>kunna</w>
+  <w>tycka</w>
+  <w>att</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>nej</w>
+  <w>,</w>
+  <w>nej</w>
+  <w>,</w>
+  <w>nej</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <absaspan id=19>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=20 senti=1>
+    <w>skiter</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>Andres</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>Lokko</w>
+  </absaspan>
+  <w>(</w>
+  <w>Poco</w>
+  <w>)</w>
+  <absaspan id=23 senti=1>
+    <w>i</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=24>
+    <w>Han</w>
+  </absaspan>
+  <w>gnyr</w>
+  <w>,</w>
+  <w>gnäller</w>
+  <w>,</w>
+  <absaspan id=25 senti=1>
+    <w>boffar</w>
+    <w>som</w>
+    <w>en</w>
+    <w>gammal</w>
+    <w>kärring</w>
+  </absaspan>
+  <w>över</w>
+  <w>allt</w>
+  <w>annat</w>
+  <w>.</w>
+  <w>I</w>
+  <w>herr</w>
+  <w>Loco-poco</w>
+  <w>:</w>
+  <w>s</w>
+  <w>musikrecension</w>
+  <w>finner</w>
+  <w>jag</w>
+  <w>inte</w>
+  <w>inte</w>
+  <w>ett</w>
+  <w>endaste</w>
+  <w>ord</w>
+  <w>om</w>
+  <w>vad</w>
+  <w>han</w>
+  <w>tycker</w>
+  <w>om</w>
+  <w>musiken</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <absaspan id=26 senti=1>
+    <w>Din</w>
+    <w>pajas</w>
+  </absaspan>
+  <w>,</w>
+  <w>ha</w>
+  <w>haha</w>
+  <w>,</w>
+  <w>hö</w>
+  <w>,</w>
+  <w>hö</w>
+  <w>,</w>
+  <w>hö</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <absaspan id=27 senti=5>
+    <w>njuter</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>det</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <absaspan id=29 senti=5>
+    <w>Man</w>
+    <w>blir</w>
+    <w>ju</w>
+    <w>jättesugen</w>
+    <w>nu</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>att</w>
+    <w>lyssna</w>
+    <w>hur</w>
+    <w>Morrissey</w>
+    <w>låter</w>
+    <w>idag</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=31 senti=5 irony>
+    <w>tack</w>
+    <w>för</w>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>Andres</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

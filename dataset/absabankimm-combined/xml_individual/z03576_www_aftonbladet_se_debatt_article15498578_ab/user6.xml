@@ -1,0 +1,434 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Herman</w>
+  <w>Lindqvist</w>
+  <w>:</w>
+  <w>Få</w>
+  <w>klassiker</w>
+  <w>kvar</w>
+  <w>om</w>
+  <w>allt</w>
+  <w>ska</w>
+  <w>vara</w>
+  <w>lämpligt</w>
+  <absaspan id=1 senti=2>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <absaspan id=2>
+    <w>Kulturhusets</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>nye</w>
+    <w>konstnärlige</w>
+    <w>ledare</w>
+    <w>Behrang</w>
+    <w>Miri</w>
+  </absaspan>
+  <w>har</w>
+  <w>beordrat</w>
+  <w>storstädning</w>
+  <w>på</w>
+  <w>hyllorna</w>
+  <w>i</w>
+  <w>barn</w>
+  <w>-</w>
+  <w>och</w>
+  <w>ungdomsbiblioteket</w>
+  <w>.</w>
+  <absaspan id=4>
+    <w>Han</w>
+  </absaspan>
+  <w>börjar</w>
+  <w>med</w>
+  <absaspan id=5>
+    <w>Tintinböckerna</w>
+  </absaspan>
+  <w>men</w>
+  <absaspan id=6 senti=2>
+    <w>vill</w>
+  </absaspan>
+  <w>även</w>
+  <absaspan id=7 senti=2>
+    <w>slänga</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>ut</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>annan</w>
+    <w>”</w>
+    <w>afrofobisk</w>
+    <w>,</w>
+    <w>rasistisk</w>
+    <w>och</w>
+    <w>homofobisk</w>
+    <w>litteratur</w>
+    <w>”</w>
+    <w>även</w>
+    <w>de</w>
+    <w>som</w>
+    <w>finns</w>
+    <w>på</w>
+    <w>vuxenavdelningarna</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=10>
+    <w>Behrang</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>är</w>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>framstående</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>rappare</w>
+    <w>och</w>
+    <w>låtskrivare</w>
+  </absaspan>
+  <w>med</w>
+  <w>rötter</w>
+  <w>i</w>
+  <w>Malmö</w>
+  <w>.</w>
+  <w>Hans</w>
+  <w>chefsposition</w>
+  <w>i</w>
+  <w>Kulturhuset</w>
+  <w>i</w>
+  <w>Stockholm</w>
+  <w>ger</w>
+  <w>honom</w>
+  <w>makten</w>
+  <w>att</w>
+  <w>rensa</w>
+  <w>på</w>
+  <w>bibliotekets</w>
+  <w>hyllor</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>oklart</w>
+  <w>hur</w>
+  <w>många</w>
+  <w>böcker</w>
+  <w>han</w>
+  <w>själv</w>
+  <w>läst</w>
+  <w>,</w>
+  <w>för</w>
+  <w>varför</w>
+  <w>nöja</w>
+  <w>sig</w>
+  <w>med</w>
+  <w>Tintin</w>
+  <w>-</w>
+  <w>varför</w>
+  <w>inte</w>
+  <w>gå</w>
+  <w>till</w>
+  <w>roten</w>
+  <w>för</w>
+  <w>allt</w>
+  <w>ont</w>
+  <absaspan id=14 senti=2>
+    <w>?</w>
+  </absaspan>
+  <absaspan id=15 senti=2 irony>
+    <w>Ut</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>Bibeln</w>
+    <w>och</w>
+    <w>Koranen</w>
+  </absaspan>
+  <w>-</w>
+  <absaspan id=17 senti=2>
+    <w>där</w>
+    <w>finns</w>
+    <w>mycket</w>
+    <w>rasism</w>
+    <w>och</w>
+    <w>homofobi</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=18 senti=2 irony>
+    <w>Ut</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>Shakespeare</w>
+    <w>,</w>
+    <w>Astrid</w>
+    <w>Lindgren</w>
+    <w>och</w>
+    <w>Söderhavet</w>
+    <w>,</w>
+    <w>bort</w>
+    <w>Robinson</w>
+    <w>Crusoe</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=20 senti=2 irony>
+    <w>Ut</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>Ture</w>
+    <w>Sventon</w>
+    <w>och</w>
+    <w>hans</w>
+    <w>Omar</w>
+  </absaspan>
+  <w>.</w>
+  <w>(</w>
+  <w>Onkel</w>
+  <w>Toms</w>
+  <w>Stuga</w>
+  <w>är</w>
+  <w>väl</w>
+  <w>borta</w>
+  <w>sedan</w>
+  <w>länge</w>
+  <absaspan id=22 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>)</w>
+  <absaspan id=23 senti=2 irony>
+    <w>Ut</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>”</w>
+    <w>Tusen</w>
+    <w>och</w>
+    <w>en</w>
+    <w>natt</w>
+    <w>”</w>
+    <w>och</w>
+    <w>alla</w>
+    <w>Grimbergs</w>
+    <w>sagor</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vräk</w>
+  <w>ut</w>
+  <w>större</w>
+  <w>delen</w>
+  <w>av</w>
+  <w>världslitteraturen</w>
+  <absaspan id=25 senti=1>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>Dostojevskij</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>,</w>
+    <w>Dumas</w>
+    <w>,</w>
+    <w>Strindberg</w>
+    <w>,</w>
+    <w>Rydberg</w>
+    <w>,</w>
+    <w>Topelius</w>
+    <w>och</w>
+    <w>Runeberg</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=29 senti=1>
+    <w>dryper</w>
+    <w>av</w>
+    <w>afrofobi</w>
+    <w>,</w>
+    <w>antisemitism</w>
+    <w>och</w>
+    <w>alla</w>
+    <w>andra</w>
+    <w>former</w>
+    <w>av</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>.</w>
+  <w>Ja</w>
+  <w>,</w>
+  <w>varför</w>
+  <w>inte</w>
+  <w>slänga</w>
+  <w>ut</w>
+  <w>alla</w>
+  <w>band</w>
+  <w>av</w>
+  <w>världshistorien</w>
+  <w>också</w>
+  <absaspan id=30 senti=1>
+    <w>?</w>
+  </absaspan>
+  <w>Så</w>
+  <w>mycket</w>
+  <w>kolonialt</w>
+  <w>tänkande</w>
+  <w>som</w>
+  <w>genomsyrar</w>
+  <w>de</w>
+  <w>böckerna</w>
+  <w>.</w>
+  <w>Sida</w>
+  <w>upp</w>
+  <w>och</w>
+  <w>sida</w>
+  <w>ner</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Behrang</w>
+  <w>Miri</w>
+  <w>är</w>
+  <w>anställd</w>
+  <w>som</w>
+  <w>konstärlig</w>
+  <w>ledare</w>
+  <w>.</w>
+  <w>Detta</w>
+  <w>är</w>
+  <w>kanske</w>
+  <w>en</w>
+  <w>planerad</w>
+  <w>stor</w>
+  <w>happening</w>
+  <absaspan id=31 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>Alla</w>
+  <w>de</w>
+  <w>utrensade</w>
+  <w>böckerna</w>
+  <w>kan</w>
+  <w>under</w>
+  <w>häftig</w>
+  <w>rapmusik</w>
+  <w>travas</w>
+  <w>i</w>
+  <w>en</w>
+  <w>väldig</w>
+  <w>installation</w>
+  <w>på</w>
+  <w>Sergels</w>
+  <w>torg</w>
+  <w>som</w>
+  <w>ett</w>
+  <w>monument</w>
+  <w>över</w>
+  <w>den</w>
+  <w>kulturella</w>
+  <w>nivå</w>
+  <w>vi</w>
+  <w>nått</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>2012</w>
+  <absaspan id=32 senti=1>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <absaspan id=33 senti=4>
+    <w>Som</w>
+    <w>väl</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>finns</w>
+    <w>det</w>
+    <w>andra</w>
+    <w>bibliotek</w>
+    <w>,</w>
+    <w>som</w>
+    <w>inte</w>
+    <w>sköts</w>
+    <w>av</w>
+    <w>Behrang</w>
+    <w>Miri</w>
+    <w>,</w>
+    <w>där</w>
+    <w>man</w>
+    <w>förstått</w>
+    <w>att</w>
+    <w>böcker</w>
+    <w>även</w>
+    <w>med</w>
+    <w>andra</w>
+    <w>åsikter</w>
+    <w>än</w>
+    <w>våra</w>
+    <w>egna</w>
+    <w>,</w>
+    <w>är</w>
+    <w>tidsdokument</w>
+    <w>som</w>
+    <w>förklarar</w>
+    <w>varför</w>
+    <w>vi</w>
+    <w>är</w>
+    <w>som</w>
+    <w>vi</w>
+    <w>är</w>
+    <w>,</w>
+    <w>varför</w>
+    <w>vi</w>
+    <w>har</w>
+    <w>de</w>
+    <w>tankar</w>
+    <w>vi</w>
+    <w>har</w>
+    <w>och</w>
+    <w>befinner</w>
+    <w>oss</w>
+    <w>där</w>
+    <w>vi</w>
+    <w>befinner</w>
+    <w>oss</w>
+  </absaspan>
+  <w>.</w>
+  <w>Böckerna</w>
+  <w>är</w>
+  <w>rötterna</w>
+  <w>för</w>
+  <w>vår</w>
+  <w>kultur</w>
+  <w>,</w>
+  <absaspan id=35>
+    <w>kapar</w>
+    <w>vi</w>
+    <w>de</w>
+    <w>rötterna</w>
+  </absaspan>
+  <absaspan id=36 senti=2>
+    <w>vinglar</w>
+    <w>vi</w>
+    <w>rapande</w>
+    <w>omkring</w>
+    <w>i</w>
+    <w>mörkret</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Herman</w>
+  <w>Lindqvist</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,377 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=4 target=2>
+    <w>Fina</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>ord</w>
+  </absaspan>
+  <absaspan id=3 senti=2 target=1>
+    <w>räddar</w>
+    <w>inte</w>
+  </absaspan>
+  <w>klimatet</w>
+  <w>,</w>
+  <w>Grön</w>
+  <w>Ungdom</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Grön</w>
+  <w>ungdoms</w>
+  <w>två</w>
+  <w>språkrör</w>
+  <w>svarade</w>
+  <w>på</w>
+  <w>min</w>
+  <w>kritik</w>
+  <w>mot</w>
+  <absaspan id=4>
+    <w>Miljöpartiets</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>otydliga</w>
+    <w>,</w>
+    <w>om</w>
+    <w>inte</w>
+    <w>irrelevanta</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=6>
+    <w>roll</w>
+    <w>i</w>
+    <w>svensk</w>
+    <w>politik</w>
+  </absaspan>
+  <w>.</w>
+  <w>De</w>
+  <w>går</w>
+  <w>på</w>
+  <absaspan id=7 senti=1>
+    <w>hårt</w>
+    <w>angrepp</w>
+  </absaspan>
+  <w>och</w>
+  <w>menar</w>
+  <absaspan id=8>
+    <w>att</w>
+    <w>Moderaterna</w>
+    <w>bromsar</w>
+    <w>Sveriges</w>
+    <w>klimatarbete</w>
+    <w>och</w>
+    <w>att</w>
+    <w>MUF</w>
+    <w>totalt</w>
+    <w>ignorerar</w>
+    <w>klimatfrågan</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=9>
+    <w>Att</w>
+    <w>svara</w>
+    <w>offensivt</w>
+  </absaspan>
+  <w>är</w>
+  <w>ju</w>
+  <w>en</w>
+  <absaspan id=10 senti=4 irony>
+    <w>tacksam</w>
+    <w>strategi</w>
+  </absaspan>
+  <w>när</w>
+  <w>man</w>
+  <absaspan id=11 senti=2>
+    <w>inte</w>
+    <w>har</w>
+    <w>så</w>
+    <w>mycket</w>
+    <w>att</w>
+    <w>komma</w>
+    <w>med</w>
+  </absaspan>
+  <w>–</w>
+  <w>vilket</w>
+  <w>är</w>
+  <w>just</w>
+  <w>fallet</w>
+  <w>med</w>
+  <absaspan id=12>
+    <w>Miljöpartiet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=13>
+    <w>Miljöpartiets</w>
+    <w>klimatpolitik</w>
+  </absaspan>
+  <absaspan id=14 senti=4>
+    <w>låter</w>
+    <w>oerhört</w>
+    <w>ambitiös</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>i</w>
+  <w>praktiken</w>
+  <absaspan id=15 senti=2>
+    <w>är</w>
+  </absaspan>
+  <w>den</w>
+  <absaspan id=16 senti=2>
+    <w>ineffektiv</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=17>
+    <w>Sju</w>
+    <w>av</w>
+    <w>åtta</w>
+    <w>klimatförslag</w>
+    <w>i</w>
+    <w>regeringens</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>budget</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>får</w>
+    <w>kritik</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=20>
+    <w>Konjunkturinstitutet</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>de</w>
+  <absaspan id=21 senti=2>
+    <w>är</w>
+    <w>ineffektiva</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>finns</w>
+  <w>heller</w>
+  <absaspan id=22 senti=2>
+    <w>inget</w>
+    <w>egenvärde</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>att</w>
+    <w>öka</w>
+    <w>miljöbudgeten</w>
+    <w>om</w>
+    <w>inte</w>
+    <w>resurserna</w>
+    <w>används</w>
+    <w>effektivt</w>
+    <w>och</w>
+    <w>ger</w>
+    <w>resultat</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=24>
+    <w>Miljardsatsningar</w>
+    <w>på</w>
+    <w>elcyklar</w>
+  </absaspan>
+  <absaspan id=25 senti=2>
+    <w>är</w>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=26 senti=2>
+    <w>utomordentligt</w>
+  </absaspan>
+  <absaspan id=27 senti=2>
+    <w>exempel</w>
+  </absaspan>
+  <absaspan id=28 senti=2>
+    <w>på</w>
+    <w>att</w>
+    <w>Miljöpartiet</w>
+    <w>inte</w>
+    <w>kan</w>
+    <w>prioritera</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=29 senti=4>
+    <w>Fina</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>ord</w>
+  </absaspan>
+  <absaspan id=31 senti=2>
+    <w>räcker</w>
+    <w>inte</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=32 senti=4>
+    <w>rädda</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>klimatet</w>
+  </absaspan>
+  <w>,</w>
+  <w>det</w>
+  <w>måste</w>
+  <w>till</w>
+  <absaspan id=34 senti=4>
+    <w>förslag</w>
+    <w>som</w>
+    <w>faktiskt</w>
+    <w>ger</w>
+    <w>resultat</w>
+  </absaspan>
+  <w>.</w>
+  <w>Moderaterna</w>
+  <w>vill</w>
+  <w>bland</w>
+  <w>annat</w>
+  <absaspan id=35>
+    <w>tredubbla</w>
+    <w>de</w>
+    <w>medel</w>
+    <w>som</w>
+    <w>regeringen</w>
+    <w>lägger</w>
+    <w>på</w>
+    <w>internationella</w>
+    <w>klimatinvesteringar</w>
+    <w>,</w>
+    <w>göra</w>
+    <w>en</w>
+    <w>riktad</w>
+    <w>satsning</w>
+    <w>på</w>
+    <w>att</w>
+    <w>bygga</w>
+    <w>ut</w>
+    <w>laddinfrastruktur</w>
+    <w>längs</w>
+    <w>våra</w>
+    <w>vägar</w>
+    <w>,</w>
+    <w>satsa</w>
+    <w>på</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=36 senti=2>
+    <w>minska</w>
+  </absaspan>
+  <absaspan id=37 senti=2>
+    <w>basindustrins</w>
+    <w>utsläpp</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>och</w>
+    <w>samtidigt</w>
+    <w>mer</w>
+    <w>än</w>
+    <w>dubbla</w>
+    <w>regeringens</w>
+    <w>satsning</w>
+    <w>på</w>
+    <w>miljöforskning</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=39>
+    <w>Moderaterna</w>
+  </absaspan>
+  <w>vill</w>
+  <w>dessutom</w>
+  <w>bygga</w>
+  <w>ut</w>
+  <w>järnvägen</w>
+  <w>och</w>
+  <absaspan id=40 senti=4>
+    <w>matchar</w>
+    <w>varje</w>
+    <w>krona</w>
+  </absaspan>
+  <w>som</w>
+  <w>regeringen</w>
+  <w>lägger</w>
+  <w>,</w>
+  <w>vilket</w>
+  <w>skulle</w>
+  <w>innebära</w>
+  <w>en</w>
+  <w>ökning</w>
+  <w>anslagen</w>
+  <w>till</w>
+  <w>järnvägens</w>
+  <w>underhåll</w>
+  <w>med</w>
+  <w>50</w>
+  <w>procent</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=41>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=42 senti=4>
+    <w>står</w>
+    <w>fast</w>
+    <w>vid</w>
+  </absaspan>
+  <absaspan id=43>
+    <w>det</w>
+    <w>jag</w>
+    <w>skrev</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=44>
+    <w>Miljöpartiet</w>
+  </absaspan>
+  <absaspan id=45 senti=2>
+    <w>fyller</w>
+    <w>ingen</w>
+    <w>funktion</w>
+  </absaspan>
+  <absaspan id=46>
+    <w>i</w>
+    <w>svensk</w>
+    <w>politik</w>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=47 senti=1>
+    <w>borde</w>
+    <w>läggas</w>
+    <w>ned</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Benjamin</w>
+  <w>Dousa</w>
+  <w>,</w>
+  <w>förbundsordförande</w>
+  <w>Moderata</w>
+  <w>ungdomsförbundet</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Häng</w>
+  <w>med</w>
+  <w>i</w>
+  <w>debatten</w>
+  <w>och</w>
+  <w>kommentera</w>
+  <w>artikeln</w>
+  <w>–</w>
+  <w>gilla</w>
+  <w>Debatt</w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>.</w>
+</absapar>
+</absadoc>

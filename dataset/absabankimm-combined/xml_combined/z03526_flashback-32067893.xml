@@ -1,0 +1,66 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>Grekland</w>
+    <w>reser</w>
+    <w>taggtråd</w>
+    <w>för</w>
+    <w>att</w>
+    <w>bromsa</w>
+    <w>invandring</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Greklands</w>
+  <w>regering</w>
+  <w>har</w>
+  <w>tydligen</w>
+  <w>inte</w>
+  <w>samma</w>
+  <w>syn</w>
+  <w>på</w>
+  <w>invandring</w>
+  <w>som</w>
+  <w>den</w>
+  <w>svenska</w>
+  <w>regeringen</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Är</w>
+  <w>detta</w>
+  <w>en</w>
+  <w>av</w>
+  <w>alla</w>
+  <w>åtgärder</w>
+  <w>som</w>
+  <w>krävs</w>
+  <w>för</w>
+  <w>att</w>
+  <w>rätta</w>
+  <w>till</w>
+  <w>Greklands</w>
+  <absaspan id=2 senti=1>
+    <w>usla</w>
+    <w>statsfinanser</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=3 senti=1>
+    <w>En</w>
+    <w>ganska</w>
+    <w>drastisk</w>
+    <w>åtgärd</w>
+  </absaspan>
+  <w>isåfall</w>
+  <w>,</w>
+  <w>sett</w>
+  <w>med</w>
+  <w>svenska</w>
+  <w>ögon</w>
+  <w>.</w>
+</absapar>
+</absadoc>

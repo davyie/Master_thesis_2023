@@ -1,0 +1,49 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Med</w>
+  <w>Öppna</w>
+  <w>Portar</w>
+  <w>-</w>
+  <w>Hur</w>
+  <w>Europa</w>
+  <w>begår</w>
+  <w>kollektivt</w>
+  <w>självmord</w>
+  <w>|</w>
+  <w>FILM</w>
+  <w>MÅSTE</w>
+  <w>SES</w>
+  <absaspan id=1 senti=1>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=1>
+  <absaspan id=2>
+    <w>Sanningen</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>är</w>
+    <w>verkligen</w>
+    <w>skrämmande</w>
+  </absaspan>
+  <w>.</w>
+  <w>När</w>
+  <w>kommer</w>
+  <w>vi</w>
+  <w>känna</w>
+  <w>av</w>
+  <w>konsekvenserna</w>
+  <w>av</w>
+  <w>denna</w>
+  <absaspan id=4 senti=1>
+    <w>groteska</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>kolonialisering</w>
+    <w>av</w>
+    <w>Europa</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

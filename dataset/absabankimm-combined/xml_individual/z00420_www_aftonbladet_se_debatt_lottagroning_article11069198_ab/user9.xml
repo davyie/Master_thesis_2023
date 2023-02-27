@@ -1,0 +1,272 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=4>
+    <w>Faller</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Reinfeldt</w>
+  </absaspan>
+  <w>också</w>
+  <absaspan id=3 senti=4 source=2 partof=1 target=4>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>Bush</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Nu</w>
+  <w>har</w>
+  <w>det</w>
+  <w>hänt</w>
+  <w>.</w>
+  <w>Fredrik</w>
+  <w>Reinfeldt</w>
+  <w>har</w>
+  <w>träffat</w>
+  <w>USA</w>
+  <w>:</w>
+  <w>s</w>
+  <w>president</w>
+  <w>George</w>
+  <w>Bush</w>
+  <w>.</w>
+  <w>De</w>
+  <w>diskuterade</w>
+  <w>klimat</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>undrar</w>
+  <w>om</w>
+  <w>personkemin</w>
+  <w>stämmer</w>
+  <w>?</w>
+  <absaspan id=5>
+    <w>Göran</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>Persson</w>
+    <w>och</w>
+    <w>George</w>
+    <w>Bush</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>föll</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>varandra</w>
+  </absaspan>
+  <w>,</w>
+  <w>minns</w>
+  <w>ni</w>
+  <w>det</w>
+  <w>?</w>
+  <w>Det</w>
+  <w>var</w>
+  <absaspan id=9>
+    <w>grabbarna</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>från</w>
+    <w>landet</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>hade</w>
+    <w>samma</w>
+  </absaspan>
+  <w>spontanitet</w>
+  <w>,</w>
+  <w>lantliga</w>
+  <w>touch</w>
+  <w>och</w>
+  <absaspan id=13 senti=2>
+    <w>självgodhet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Göran</w>
+  <w>Persson</w>
+  <w>blev</w>
+  <w>imponerad</w>
+  <w>och</w>
+  <w>George</w>
+  <w>Bush</w>
+  <w>blev</w>
+  <w>i</w>
+  <w>alla</w>
+  <w>fall</w>
+  <w>överraskad</w>
+  <w>av</w>
+  <w>den</w>
+  <w>svenska</w>
+  <w>statschefen</w>
+  <w>som</w>
+  <w>skrattade</w>
+  <w>så</w>
+  <w>gott</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Efter</w>
+  <w>det</w>
+  <w>mötet</w>
+  <w>tog</w>
+  <w>alltid</w>
+  <w>Göran</w>
+  <w>Persson</w>
+  <w>George</w>
+  <w>Bush</w>
+  <w>i</w>
+  <w>försvar</w>
+  <w>.</w>
+  <w>”</w>
+  <w>Han</w>
+  <w>är</w>
+  <w>mycket</w>
+  <w>klokare</w>
+  <w>än</w>
+  <w>vad</w>
+  <w>vi</w>
+  <w>tror</w>
+  <w>”</w>
+  <w>,</w>
+  <w>sa</w>
+  <w>Persson</w>
+  <w>.</w>
+  <w>”</w>
+  <w>Underskattad</w>
+  <w>är</w>
+  <w>ordet</w>
+  <w>.</w>
+  <w>”</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=14>
+    <w>Fredrik</w>
+    <w>Reinfeldt</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>är</w>
+    <w>också</w>
+    <w>självgod</w>
+  </absaspan>
+  <w>men</w>
+  <w>saknar</w>
+  <w>den</w>
+  <w>spontana</w>
+  <w>folkigheten</w>
+  <w>.</w>
+  <absaspan id=16>
+    <w>Reinfeldt</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>sa</w>
+    <w>visst</w>
+    <w>före</w>
+    <w>resan</w>
+    <w>till</w>
+    <w>USA</w>
+    <w>att</w>
+    <w>han</w>
+    <w>skulle</w>
+    <w>lära</w>
+    <w>presidenten</w>
+    <w>klimatfrågan</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=18>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>är</w>
+    <w>nog</w>
+    <w>inget</w>
+    <w>bra</w>
+    <w>utgångsläge</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>Reinfeldt</w>
+  <w>är</w>
+  <w>också</w>
+  <w>bara</w>
+  <w>människa</w>
+  <w>och</w>
+  <w>trots</w>
+  <w>sin</w>
+  <w>väl</w>
+  <w>avmätta</w>
+  <w>kylighet</w>
+  <w>blir</w>
+  <w>nog</w>
+  <w>även</w>
+  <w>han</w>
+  <w>imponerad</w>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=20 senti=5>
+    <w>måste</w>
+    <w>vara</w>
+    <w>drömmen</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>en</w>
+    <w>ungmoderat</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>att</w>
+    <w>få</w>
+    <w>kliva</w>
+    <w>in</w>
+    <w>i</w>
+    <w>den</w>
+    <w>konservativa</w>
+    <w>högborgen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Det</w>
+  <w>är</w>
+  <w>bara</w>
+  <w>en</w>
+  <w>sak</w>
+  <w>jag</w>
+  <w>undrar</w>
+  <w>,</w>
+  <w>om</w>
+  <w>George</w>
+  <w>Bush</w>
+  <w>är</w>
+  <w>påläst</w>
+  <w>och</w>
+  <w>frågar</w>
+  <w>Reinfeldt</w>
+  <w>varför</w>
+  <w>de</w>
+  <w>nu</w>
+  <w>kallar</w>
+  <w>sig</w>
+  <w>det</w>
+  <w>nya</w>
+  <w>arbetarpartiet</w>
+  <w>–</w>
+  <w>vad</w>
+  <w>svarar</w>
+  <w>han</w>
+  <w>då</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

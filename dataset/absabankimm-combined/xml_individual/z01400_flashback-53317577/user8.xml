@@ -1,0 +1,151 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Nytt</w>
+  <w>Ship</w>
+  <w>to</w>
+  <w>Gaza</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Nu</w>
+  <w>är</w>
+  <w>tydligen</w>
+  <w>Ship</w>
+  <w>to</w>
+  <w>Gaza</w>
+  <w>på</w>
+  <w>sjön</w>
+  <w>igen</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>utgick</w>
+  <w>från</w>
+  <w>Göteborg</w>
+  <w>,</w>
+  <w>landade</w>
+  <w>i</w>
+  <w>Helsingborg</w>
+  <w>,</w>
+  <w>är</w>
+  <w>på</w>
+  <w>väg</w>
+  <w>till</w>
+  <w>Köpenhamn</w>
+  <w>och</w>
+  <w>andra</w>
+  <w>europeiska</w>
+  <w>städer</w>
+  <w>för</w>
+  <w>att</w>
+  <w>i</w>
+  <w>Medelhavet</w>
+  <w>stråla</w>
+  <w>samman</w>
+  <w>med</w>
+  <w>andra</w>
+  <w>skepp</w>
+  <w>i</w>
+  <w>samma</w>
+  <w>ärende</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Enligt</w>
+  <w>uppgift</w>
+  <w>innehåller</w>
+  <w>skeppet</w>
+  <w>mediciner</w>
+  <w>och</w>
+  <w>solceller</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Egyptens</w>
+  <w>gräns</w>
+  <w>mot</w>
+  <w>Gaza</w>
+  <w>är</w>
+  <w>stängd</w>
+  <w>pga</w>
+  <absaspan id=1 senti=1>
+    <w>terroristattacker</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Israels</w>
+  <w>gräns</w>
+  <w>är</w>
+  <w>kontrollerad</w>
+  <w>av</w>
+  <w>Israel</w>
+  <w>men</w>
+  <absaspan id=2>
+    <w>varor</w>
+    <w>och</w>
+    <w>material</w>
+    <w>skickas</w>
+    <w>kontinuerligt</w>
+    <w>genom</w>
+    <w>Israels</w>
+  </absaspan>
+  <absaspan id=3 senti=4>
+    <w>försorg</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Jag</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>så</w>
+  <w>insatt</w>
+  <w>:</w>
+  <w>vilka</w>
+  <w>mediciner</w>
+  <w>skickar</w>
+  <w>INTE</w>
+  <w>Israel</w>
+  <w>till</w>
+  <w>Gaza</w>
+  <w>?</w>
+  <w>Och</w>
+  <w>är</w>
+  <w>solceller</w>
+  <w>inte</w>
+  <w>något</w>
+  <w>som</w>
+  <w>ingår</w>
+  <w>i</w>
+  <w>det</w>
+  <w>Israel</w>
+  <w>skickar</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Med</w>
+  <w>andra</w>
+  <w>ord</w>
+  <w>:</w>
+  <w>är</w>
+  <absaspan id=4>
+    <w>Ship</w>
+    <w>to</w>
+    <w>Gaza</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>onödigt</w>
+  </absaspan>
+  <w>eller</w>
+  <absaspan id=6 senti=4>
+    <w>nödvändigt</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

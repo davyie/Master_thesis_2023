@@ -1,0 +1,103 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>"</w>
+  <w>Ni</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>Jason</w>
+  <w>"</w>
+  <w>-</w>
+  <w>SVT</w>
+  <w>debatt</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>Vita</w>
+    <w>män</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>får</w>
+    <w>inte</w>
+    <w>vara</w>
+    <w>med</w>
+  </absaspan>
+  <w>i</w>
+  <w>kampen</w>
+  <w>för</w>
+  <w>det</w>
+  <w>goda</w>
+  <w>menar</w>
+  <absaspan id=3>
+    <w>en</w>
+    <w>utsatt</w>
+    <w>människa</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>.</w>
+  <w>-</w>
+  <w>Har</w>
+  <w>hon</w>
+  <w>rätt</w>
+  <w>?</w>
+  <w>Kan</w>
+  <w>vita</w>
+  <w>män</w>
+  <w>inte</w>
+  <w>vara</w>
+  <w>med</w>
+  <w>i</w>
+  <w>fajten</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>.</w>
+  <w>-</w>
+  <w>På</w>
+  <w>vilket</w>
+  <w>sätt</w>
+  <w>är</w>
+  <w>vita</w>
+  <w>män</w>
+  <w>privilegierade</w>
+  <w>?</w>
+  <absaspan id=4 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>.</w>
+  <w>-</w>
+  <w>Hur</w>
+  <w>utsatta</w>
+  <w>är</w>
+  <w>människor</w>
+  <w>med</w>
+  <w>brun</w>
+  <w>hy</w>
+  <w>egentligen</w>
+  <absaspan id=5 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>Varför</w>
+  <w>görs</w>
+  <w>ingenting</w>
+  <w>emot</w>
+  <w>denna</w>
+  <w>utsatthet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>.</w>
+  <w>-</w>
+  <w>Övriga</w>
+  <w>tankar</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

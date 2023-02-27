@@ -1,0 +1,305 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Den</w>
+  <w>ideella</w>
+  <w>sektorns</w>
+  <w>inflytande</w>
+  <w>har</w>
+  <w>minskat</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Handikappförbunden</w>
+  <w>har</w>
+  <w>tagit</w>
+  <w>del</w>
+  <w>av</w>
+  <w>den</w>
+  <w>statistik</w>
+  <w>som</w>
+  <w>Arvsfonden</w>
+  <w>använder</w>
+  <w>som</w>
+  <w>försvar</w>
+  <w>mot</w>
+  <w>vår</w>
+  <w>kritik</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=1 senti=2>
+    <w>Problemet</w>
+  </absaspan>
+  <w>med</w>
+  <w>statistiken</w>
+  <absaspan id=2 senti=2>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>att</w>
+    <w>den</w>
+    <w>inte</w>
+    <w>säger</w>
+    <w>något</w>
+    <w>om</w>
+    <w>hur</w>
+    <w>medlen</w>
+    <w>fördelas</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Vår</w>
+  <w>huvudsakliga</w>
+  <absaspan id=4 senti=2>
+    <w>oro</w>
+    <w>handlar</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>att</w>
+    <w>det</w>
+    <w>är</w>
+    <w>offentlig</w>
+    <w>sektor</w>
+    <w>som</w>
+    <w>i</w>
+    <w>allt</w>
+    <w>större</w>
+    <w>utsträckning</w>
+    <w>beviljas</w>
+    <w>medel</w>
+    <w>i</w>
+    <w>egenskap</w>
+    <w>av</w>
+    <w>huvudman</w>
+    <w>eller</w>
+    <w>medsökande</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>den</w>
+  <w>lag</w>
+  <w>som</w>
+  <w>styr</w>
+  <w>Arvsfonden</w>
+  <absaspan id=6 senti=4>
+    <w>står</w>
+    <w>det</w>
+    <w>tydligt</w>
+  </absaspan>
+  <w>i</w>
+  <w>§</w>
+  <w>7</w>
+  <absaspan id=7>
+    <w>att</w>
+    <w>medel</w>
+    <w>endast</w>
+    <w>kan</w>
+    <w>delas</w>
+    <w>ut</w>
+    <w>till</w>
+    <w>offentlig</w>
+    <w>huvudman</w>
+    <w>om</w>
+    <w>det</w>
+    <w>finns</w>
+    <w>särskilda</w>
+    <w>skäl</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>så</w>
+  <w>är</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>.</w>
+  <w>I</w>
+  <w>stället</w>
+  <w>kopplas</w>
+  <w>ideella</w>
+  <w>organisationer</w>
+  <w>in</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=8 senti=2>
+    <w>legitimera</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>projekten</w>
+  </absaspan>
+  <w>–</w>
+  <w>utan</w>
+  <w>att</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>bra</w>
+  <w>strukturer</w>
+  <w>för</w>
+  <w>samarbete</w>
+  <w>.</w>
+  <w>Den</w>
+  <w>ideella</w>
+  <w>sektorn</w>
+  <absaspan id=10 senti=2>
+    <w>reduceras</w>
+  </absaspan>
+  <w>från</w>
+  <w>projektägare</w>
+  <absaspan id=11 senti=2>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>projektmedarbetare</w>
+  </absaspan>
+  <w>,</w>
+  <w>utan</w>
+  <w>större</w>
+  <w>inflytande</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>På</w>
+  <w>uppdrag</w>
+  <w>av</w>
+  <w>Arvsfonden</w>
+  <w>har</w>
+  <w>Högskolan</w>
+  <w>i</w>
+  <w>Halmstad</w>
+  <w>genomfört</w>
+  <w>en</w>
+  <w>utvärdering</w>
+  <w>av</w>
+  <w>172</w>
+  <w>projekt</w>
+  <w>med</w>
+  <w>målgruppen</w>
+  <w>barn</w>
+  <w>,</w>
+  <w>unga</w>
+  <w>eller</w>
+  <w>vuxna</w>
+  <w>med</w>
+  <w>intellektuell</w>
+  <w>funktionsnedsättning</w>
+  <w>.</w>
+  <w>Två</w>
+  <w>av</w>
+  <w>slutsatserna</w>
+  <w>är</w>
+  <w>dessa</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>De</w>
+  <w>flesta</w>
+  <w>projekt</w>
+  <w>har</w>
+  <w>någon</w>
+  <w>grad</w>
+  <w>av</w>
+  <w>brukarinflytande</w>
+  <w>,</w>
+  <w>men</w>
+  <w>det</w>
+  <w>är</w>
+  <w>ovanligt</w>
+  <w>att</w>
+  <w>målgruppen</w>
+  <w>har</w>
+  <w>inflytande</w>
+  <w>över</w>
+  <w>hela</w>
+  <w>projektprocessen</w>
+  <w>.</w>
+  <w>I</w>
+  <w>huvudsak</w>
+  <w>deltar</w>
+  <w>målgruppen</w>
+  <w>som</w>
+  <w>mottagare</w>
+  <w>av</w>
+  <w>projektets</w>
+  <w>insatser</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Sett</w>
+  <w>över</w>
+  <w>tid</w>
+  <w>har</w>
+  <w>fler</w>
+  <w>projekt</w>
+  <w>under</w>
+  <w>senare</w>
+  <w>år</w>
+  <w>karaktären</w>
+  <w>av</w>
+  <w>att</w>
+  <w>kompensera</w>
+  <w>för</w>
+  <absaspan id=13 senti=2>
+    <w>brister</w>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>samhällets</w>
+    <w>lagstadgade</w>
+    <w>stödinsatser</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=15>
+    <w>Gränsdragningen</w>
+    <w>mellan</w>
+    <w>det</w>
+    <w>offentligas</w>
+    <w>ansvar</w>
+    <w>för</w>
+    <w>verksamheter</w>
+    <w>och</w>
+    <w>utvecklingsarbete</w>
+    <w>och</w>
+    <w>föreningars</w>
+    <w>ansvar</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>är</w>
+    <w>otydligt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Cirka</w>
+  <w>en</w>
+  <w>femtedel</w>
+  <w>av</w>
+  <w>alla</w>
+  <w>projekts</w>
+  <w>verksamheter</w>
+  <w>kan</w>
+  <w>betraktas</w>
+  <w>som</w>
+  <w>något</w>
+  <w>som</w>
+  <w>tydligt</w>
+  <w>faller</w>
+  <w>under</w>
+  <w>lagstiftade</w>
+  <w>ansvar</w>
+  <absaspan id=17 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=7>
+  <w>Ingrid</w>
+  <w>Burman</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Ordförande</w>
+  <w>Handikappförbunden</w>
+  <w>.</w>
+</absapar>
+</absadoc>

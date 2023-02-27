@@ -1,0 +1,136 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Vill</w>
+  <w>inte</w>
+  <w>ha</w>
+  <absaspan id=1 senti=1 target=1>
+    <w>svartskallar</w>
+  </absaspan>
+  <w>till</w>
+  <w>dagispersonal</w>
+  <w>efter</w>
+  <w>SVT24</w>
+  <w>:</w>
+  <w>s</w>
+  <w>asylbarnkastingsreportage</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>såg</w>
+  <w>detta</w>
+  <absaspan id=2 senti=1>
+    <w>vidriga</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>klipp</w>
+  </absaspan>
+  <w>från</w>
+  <w>hamnen</w>
+  <w>Aten</w>
+  <w>,</w>
+  <w>där</w>
+  <w>flyktingar</w>
+  <w>som</w>
+  <w>ska</w>
+  <w>avvisas</w>
+  <w>hotar</w>
+  <w>att</w>
+  <w>kasta</w>
+  <w>sina</w>
+  <w>bäbisar</w>
+  <w>på</w>
+  <w>polisen</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Mina</w>
+  <w>barn</w>
+  <w>går</w>
+  <w>på</w>
+  <w>ett</w>
+  <w>dagis</w>
+  <w>och</w>
+  <w>det</w>
+  <w>finns</w>
+  <absaspan id=4 senti=1>
+    <w>svartskallar</w>
+  </absaspan>
+  <w>bland</w>
+  <w>dagispersonalen</w>
+  <w>,</w>
+  <absaspan id=5>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>känner</w>
+    <w>mig</w>
+    <w>verkligen</w>
+    <w>inte</w>
+    <w>pigg</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>på</w>
+    <w>att</w>
+    <w>släppa</w>
+    <w>barnen</w>
+    <w>till</w>
+    <w>dagis</w>
+  </absaspan>
+  <w>efter</w>
+  <w>detta</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Kan</w>
+  <w>jag</w>
+  <w>få</w>
+  <absaspan id=8 senti=1>
+    <w>svartskallarna</w>
+  </absaspan>
+  <w>utbyta</w>
+  <w>?</w>
+  <w>Måste</w>
+  <w>jag</w>
+  <w>byta</w>
+  <w>dagis</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Har</w>
+  <w>ni</w>
+  <w>erfarenheter</w>
+  <w>av</w>
+  <absaspan id=9 senti=1>
+    <w>svartskallepersonal</w>
+  </absaspan>
+  <w>på</w>
+  <w>dagis</w>
+  <w>?</w>
+  <w>Är</w>
+  <w>ni</w>
+  <w>rädda</w>
+  <w>för</w>
+  <w>barnens</w>
+  <w>säkerhet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Hur</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>veta</w>
+  <w>var</w>
+  <w>det</w>
+  <w>finns</w>
+  <absaspan id=10 senti=1>
+    <w>blattefria</w>
+  </absaspan>
+  <w>dagis</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

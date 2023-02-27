@@ -1,0 +1,110 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=1 partof=3>
+    <w>Är</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>ordet</w>
+    <w>rasist</w>
+  </absaspan>
+  <absaspan id=3 senti=1 target=2>
+    <w>rasistiskt</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Hörde</w>
+  <w>av</w>
+  <absaspan id=4>
+    <w>en</w>
+    <w>polare</w>
+  </absaspan>
+  <w>att</w>
+  <w>en</w>
+  <absaspan id=5 senti=4>
+    <w>bör</w>
+    <w>säga</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>funktionsvarierad</w>
+    <w>istället</w>
+    <w>för</w>
+    <w>funktionsnedsatt</w>
+  </absaspan>
+  <w>,</w>
+  <w>eftersom</w>
+  <w>ordet</w>
+  <w>funktionsnedsättning</w>
+  <w>förutsätter</w>
+  <w>en</w>
+  <w>nedsättning</w>
+  <w>och</w>
+  <w>att</w>
+  <w>så</w>
+  <w>behöver</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>vara</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>fick</w>
+  <w>mig</w>
+  <w>att</w>
+  <w>tänka</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Ordet</w>
+  <w>rasist</w>
+  <w>;</w>
+  <w>förutsätter</w>
+  <w>det</w>
+  <w>att</w>
+  <w>människan</w>
+  <w>är</w>
+  <w>uppdelad</w>
+  <w>i</w>
+  <w>raser</w>
+  <w>?</w>
+  <w>(</w>
+  <w>Typ</w>
+  <w>som</w>
+  <w>klassism</w>
+  <w>;</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>olika</w>
+  <w>klasser</w>
+  <w>och</w>
+  <w>borgarklassen</w>
+  <w>vill</w>
+  <w>bevara</w>
+  <w>klassystemet</w>
+  <w>för</w>
+  <w>att</w>
+  <w>bevara</w>
+  <w>sina</w>
+  <w>privilegier</w>
+  <w>som</w>
+  <w>borgarklass</w>
+  <w>.</w>
+  <w>)</w>
+  <w>I</w>
+  <w>så</w>
+  <w>fall</w>
+  <absaspan id=7 senti=1>
+    <w>är</w>
+  </absaspan>
+  <w>väl</w>
+  <absaspan id=8>
+    <w>ordet</w>
+    <w>rasist</w>
+  </absaspan>
+  <absaspan id=9 senti=1>
+    <w>rasistiskt</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

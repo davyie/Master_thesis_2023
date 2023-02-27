@@ -1,0 +1,94 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Växande</w>
+  <w>flyktingström</w>
+  <w>från</w>
+  <w>Irak</w>
+  <w>&</w>
+  <w>Jihad</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Läste</w>
+  <w>att</w>
+  <w>uppemot</w>
+  <w>3.000</w>
+  <w>om</w>
+  <w>dagen</w>
+  <w>flyr</w>
+  <w>Irak</w>
+  <w>och</w>
+  <w>snart</w>
+  <w>4</w>
+  <w>miljoner</w>
+  <w>har</w>
+  <w>flytt</w>
+  <w>sedan</w>
+  <w>kriget</w>
+  <w>började</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Jag</w>
+  <w>antar</w>
+  <w>att</w>
+  <w>de</w>
+  <w>flesta</w>
+  <w>som</w>
+  <w>flyr</w>
+  <w>är</w>
+  <w>muslimer</w>
+  <w>och</w>
+  <w>inte</w>
+  <w>bara</w>
+  <w>kvinnor</w>
+  <w>och</w>
+  <w>barn</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>jag</w>
+  <w>undrar</w>
+  <w>över</w>
+  <w>.</w>
+  <w>Ska</w>
+  <w>en</w>
+  <w>muslim</w>
+  <w>fly</w>
+  <w>från</w>
+  <w>jihad</w>
+  <w>?</w>
+  <absaspan id=1>
+    <w>Muslimer</w>
+  </absaspan>
+  <w>som</w>
+  <w>allt</w>
+  <w>så</w>
+  <w>ofta</w>
+  <w>vid</w>
+  <w>protester</w>
+  <w>och</w>
+  <w>demonstrationer</w>
+  <w>yttrar</w>
+  <w>de</w>
+  <absaspan id=2 senti=4>
+    <w>ska</w>
+    <w>slåss</w>
+    <w>till</w>
+    <w>sista</w>
+    <w>blodsdroppen</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>Allah</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=4>
+    <w>Profeten</w>
+    <w>Mohammed</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

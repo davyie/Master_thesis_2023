@@ -1,0 +1,40 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>S-debattören</w>
+  </absaspan>
+  <absaspan id=2 senti=3 target=2 source=1>
+    <w>skräder</w>
+    <w>inte</w>
+    <w>orden</w>
+  </absaspan>
+  <w>"</w>
+  <w>De</w>
+  <w>ensamkommande</w>
+  <w>avgör</w>
+  <w>valet</w>
+  <w>redan</w>
+  <w>nu</w>
+  <w>"</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Har</w>
+  <w>den</w>
+  <w>S-märkte</w>
+  <w>prognosmakaren</w>
+  <w>rätt</w>
+  <w>i</w>
+  <w>att</w>
+  <w>valrörelsen</w>
+  <w>inte</w>
+  <w>blir</w>
+  <w>spännande</w>
+  <w>eftersom</w>
+  <w>den</w>
+  <w>avgörs</w>
+  <w>nu</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

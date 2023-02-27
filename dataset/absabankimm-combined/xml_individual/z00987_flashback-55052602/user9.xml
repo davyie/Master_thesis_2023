@@ -1,0 +1,80 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1 senti=3>
+    <w>Oroa</w>
+  </absaspan>
+  <w>er</w>
+  <absaspan id=2 senti=3 partof=1>
+    <w>inte</w>
+  </absaspan>
+  <w>-</w>
+  <absaspan id=3>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=4 senti=4 target=3>
+    <w>världsbäst</w>
+  </absaspan>
+  <w>på</w>
+  <w>integration</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>Från</w>
+  <w>att</w>
+  <absaspan id=5 senti=2>
+    <w>ha</w>
+    <w>varit</w>
+    <w>nästan</w>
+    <w>sämst</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <absaspan id=6 senti=5>
+    <w>Är</w>
+    <w>nu</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=8 senti=5>
+    <w>bäst</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Vad</w>
+  <w>har</w>
+  <w>hänt</w>
+  <w>?</w>
+  <w>Vad</w>
+  <w>är</w>
+  <w>det</w>
+  <w>för</w>
+  <absaspan id=9 senti=2>
+    <w>tragisk</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>person</w>
+  </absaspan>
+  <w>som</w>
+  <w>skriver</w>
+  <w>i</w>
+  <w>?</w>
+  <w>Tror</w>
+  <w>hen</w>
+  <w>att</w>
+  <w>hen</w>
+  <w>ska</w>
+  <w>lugna</w>
+  <w>oss</w>
+  <absaspan id=11 senti=2>
+    <w>förbannade</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>svenskar</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

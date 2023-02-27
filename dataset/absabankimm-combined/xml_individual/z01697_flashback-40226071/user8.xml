@@ -1,0 +1,40 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Polisbilar</w>
+  <w>får</w>
+  <w>förstärkta</w>
+  <w>rutor</w>
+  <w>efter</w>
+  <w>stenkastning</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Är</w>
+  <absaspan id=1>
+    <w>poliserna</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>för</w>
+    <w>stygga</w>
+  </absaspan>
+  <w>när</w>
+  <absaspan id=3 senti=5 irony>
+    <w>änglarna</w>
+  </absaspan>
+  <w>där</w>
+  <w>aldrig</w>
+  <w>gör</w>
+  <w>något</w>
+  <w>bus</w>
+  <w>,</w>
+  <w>eller</w>
+  <w>vad</w>
+  <w>ska</w>
+  <w>de</w>
+  <w>göra</w>
+  <absaspan id=4>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

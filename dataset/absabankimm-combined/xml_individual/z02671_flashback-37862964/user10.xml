@@ -1,0 +1,60 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Ensamkommande</w>
+  <w>flyktingbarn</w>
+  <w>stal</w>
+  <w>Gustav</w>
+  <w>VI</w>
+  <w>Adolf</w>
+  <w>smycken</w>
+  <w>värde</w>
+  <w>850.000</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Tom</w>
+  <absaspan id=1>
+    <w>kungahuset</w>
+  </absaspan>
+  <absaspan id=2 senti=1>
+    <w>drabbas</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>mångkulturen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Tydligen</w>
+  <w>fanns</w>
+  <w>det</w>
+  <w>en</w>
+  <w>tråd</w>
+  <w>i</w>
+  <w>det</w>
+  <w>här</w>
+  <w>ämnet</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=1>
+  <w>Kungahuset</w>
+  <w>bestulet</w>
+  <w>av</w>
+  <absaspan id=4 senti=1>
+    <w>ett</w>
+    <w>skäggbarn</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Sorry</w>
+  <w>!</w>
+  <w>Kan</w>
+  <w>slänga</w>
+  <w>den</w>
+  <w>här</w>
+  <w>tråden</w>
+  <w>.</w>
+</absapar>
+</absadoc>

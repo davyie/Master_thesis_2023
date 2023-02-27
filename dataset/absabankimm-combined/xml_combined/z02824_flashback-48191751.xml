@@ -1,0 +1,125 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=1 target=1>
+    <w>Fiasko</w>
+  </absaspan>
+  <w>igen</w>
+  <w>!</w>
+  <w>ny</w>
+  <w>PISA</w>
+  <w>mäter</w>
+  <w>problemlösning</w>
+  <w>,</w>
+  <w>"</w>
+  <absaspan id=2>
+    <w>svensken</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=3 senti=2>
+    <w>dummare</w>
+  </absaspan>
+  <w>också</w>
+  <absaspan id=4>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>testet</w>
+  <w>mäter</w>
+  <w>mer</w>
+  <w>intelligens</w>
+  <w>jämfört</w>
+  <w>med</w>
+  <w>det</w>
+  <w>vanliga</w>
+  <w>PISA</w>
+  <w>som</w>
+  <w>mäter</w>
+  <w>kunskaper</w>
+  <w>,</w>
+  <w>därav</w>
+  <w>också</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Resultatet</w>
+  <w>av</w>
+  <w>det</w>
+  <w>digitala</w>
+  <w>Pisa-prov</w>
+  <w>som</w>
+  <w>nu</w>
+  <w>ska</w>
+  <w>presenteras</w>
+  <w>bygger</w>
+  <w>på</w>
+  <w>digitala</w>
+  <w>tester</w>
+  <w>av</w>
+  <w>elevers</w>
+  <w>förmåga</w>
+  <w>att</w>
+  <w>lösa</w>
+  <w>problem</w>
+  <w>.</w>
+  <w>Svenska</w>
+  <w>15</w>
+  <w>-</w>
+  <w>åringar</w>
+  <w>gjorde</w>
+  <w>testet</w>
+  <w>,</w>
+  <w>och</w>
+  <w>totalt</w>
+  <w>deltog</w>
+  <w>44</w>
+  <w>länder</w>
+  <w>(</w>
+  <w>varav</w>
+  <w>28</w>
+  <w>OECD-länder</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Sverige</w>
+  <w>under</w>
+  <w>OECD-snittet</w>
+  <w>,</w>
+  <w>väntat</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Flickor</w>
+  <w>har</w>
+  <w>bättre</w>
+  <w>resultat</w>
+  <w>än</w>
+  <w>pojkar</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>,</w>
+  <w>även</w>
+  <w>om</w>
+  <w>skillnaden</w>
+  <w>inte</w>
+  <w>är</w>
+  <w>statistiskt</w>
+  <w>säkerställd</w>
+  <w>,</w>
+  <w>säger</w>
+  <w>projektledare</w>
+  <w>Anita</w>
+  <w>Wester</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>vi</w>
+  <w>slår</w>
+  <w>Polen</w>
+  <w>!</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

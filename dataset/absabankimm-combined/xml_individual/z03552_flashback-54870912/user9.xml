@@ -1,0 +1,83 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>60000kr</w>
+  <w>/</w>
+  <w>mån</w>
+  <w>för</w>
+  <w>en</w>
+  <w>ensamkommandes</w>
+  <w>boende-nytt</w>
+  <w>rekord</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <absaspan id=1>
+    <w>Det</w>
+    <w>privata</w>
+    <w>vårdföretaget</w>
+    <w>Aleris</w>
+    <w>tar</w>
+    <w>60000kr</w>
+    <w>/</w>
+    <w>mån</w>
+    <w>för</w>
+    <w>en</w>
+    <w>lägenhet</w>
+    <w>med</w>
+    <w>en</w>
+    <w>enda</w>
+    <w>ensamkommande</w>
+    <w>boende</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=2 senti=2>
+    <w>Ren</w>
+    <w>utpressning</w>
+  </absaspan>
+  <w>mot</w>
+  <w>Göteborgs</w>
+  <w>kommun</w>
+  <w>men</w>
+  <w>är</w>
+  <w>det</w>
+  <w>bara</w>
+  <w>toppen</w>
+  <w>på</w>
+  <w>isberget</w>
+  <w>och</w>
+  <w>när</w>
+  <w>spricker</w>
+  <w>bubblan</w>
+  <w>?</w>
+  <w>:</w>
+  <w>Verkar</w>
+  <w>vara</w>
+  <w>en</w>
+  <w>väldigt</w>
+  <w>lukrativ</w>
+  <w>marknad</w>
+  <w>där</w>
+  <absaspan id=3 senti=2>
+    <w>gamarna</w>
+  </absaspan>
+  <absaspan id=4 senti=3>
+    <w>inte</w>
+    <w>skäms</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>att</w>
+    <w>roffa</w>
+    <w>åt</w>
+    <w>sig</w>
+    <w>av</w>
+    <w>våra</w>
+    <w>skattepengar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,53 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Historiker</w>
+  <w>Salih</w>
+  <w>Selimović</w>
+  <w>:</w>
+  <absaspan id=1>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>muslimer</w>
+    <w>är</w>
+    <w>Serber</w>
+    <w>som</w>
+    <w>pratar</w>
+    <w>serbiskt</w>
+    <w>språk</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Professor</w>
+  <w>,</w>
+  <w>historiker</w>
+  <w>Salih</w>
+  <w>Selimović</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=3>
+    <w>Dessa</w>
+    <w>fakta</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>ignoreras</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=5>
+    <w>väst</w>
+  </absaspan>
+  <w>som</w>
+  <w>för</w>
+  <w>turk</w>
+  <w>/</w>
+  <w>albansk</w>
+  <w>propaganda</w>
+  <w>.</w>
+  <w>Varför</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

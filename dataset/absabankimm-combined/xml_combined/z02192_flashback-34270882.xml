@@ -1,0 +1,59 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Kvinna</w>
+  <absaspan id=1 senti=1>
+    <w>bunden</w>
+    <w>och</w>
+    <w>dumpad</w>
+  </absaspan>
+  <w>utanför</w>
+  <w>Uppsala</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Någon</w>
+  <w>som</w>
+  <w>har</w>
+  <w>någon</w>
+  <w>mer</w>
+  <w>info</w>
+  <w>?</w>
+  <w>Rör</w>
+  <w>det</w>
+  <w>sig</w>
+  <w>om</w>
+  <w>något</w>
+  <absaspan id=2 senti=1>
+    <w>trafficking</w>
+  </absaspan>
+  <absaspan id=3 senti=1>
+    <w>offer</w>
+  </absaspan>
+  <w>eller</w>
+  <w>är</w>
+  <w>det</w>
+  <w>fri</w>
+  <w>släppningen</w>
+  <w>av</w>
+  <w>någon</w>
+  <absaspan id=4 senti=1>
+    <w>kidnappad</w>
+  </absaspan>
+  <w>.</w>
+  <w>Eller</w>
+  <w>möjligen</w>
+  <absaspan id=5>
+    <w>en</w>
+    <w>svensexa</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>gått</w>
+    <w>snett</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

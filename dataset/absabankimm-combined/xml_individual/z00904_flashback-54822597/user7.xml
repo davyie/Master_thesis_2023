@@ -1,0 +1,68 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>Regeringen</w>
+  </absaspan>
+  <absaspan id=2 senti=4 source=1 target=3>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>snabbehandla</w>
+    <w>lagen</w>
+    <w>som</w>
+    <w>ska</w>
+    <w>fördela</w>
+    <w>flyktingar</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>[</w>
+  <w>url</w>
+  <w>]</w>
+  <w>http</w>
+  <w>:</w>
+  <w>/</w>
+  <w>/</w>
+  <w>www.svt.se</w>
+  <w>/</w>
+  <w>nyheter</w>
+  <w>/</w>
+  <w>lag-om-tvingande-flyktingmottagande-tidigare-an-planerat</w>
+  <w>/</w>
+  <w>URL</w>
+  <w>]</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Från</w>
+  <w>SVT</w>
+  <w>text-tv</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Och</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Diskussionsunderlag</w>
+  <w>:</w>
+  <w>Kommer</w>
+  <w>detta</w>
+  <w>att</w>
+  <w>innebära</w>
+  <w>att</w>
+  <w>alla</w>
+  <w>kommuner</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>flyktingar</w>
+  <w>?</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

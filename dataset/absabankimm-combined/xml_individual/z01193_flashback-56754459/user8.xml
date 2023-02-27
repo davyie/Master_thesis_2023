@@ -1,0 +1,85 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Strömbäck</w>
+  <w>:</w>
+  <w>"</w>
+  <w>Det</w>
+  <w>finns</w>
+  <w>ingen</w>
+  <w>forskning</w>
+  <w>som</w>
+  <w>stödjer</w>
+  <w>idén</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>medierna</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>mörkar</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4>
+    <w>Medieforskaren</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>Jesper</w>
+    <w>Strömbäck</w>
+  </absaspan>
+  <w>sänker</w>
+  <absaspan id=6>
+    <w>konspirationsteorin</w>
+  </absaspan>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=7>
+    <w>medierna</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>mörkar</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=9>
+    <w>Han</w>
+  </absaspan>
+  <w>anser</w>
+  <w>också</w>
+  <w>att</w>
+  <absaspan id=10>
+    <w>termen</w>
+    <w>alternativmedier</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>är</w>
+    <w>missvisande</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=12 senti=1>
+    <w>sågar</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=14 senti=1>
+    <w>hatsajter</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>som</w>
+    <w>gör</w>
+    <w>anspråk</w>
+    <w>på</w>
+    <w>benämningen</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=16>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

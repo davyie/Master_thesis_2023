@@ -1,0 +1,927 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <absaspan id=1>
+    <w>Åkesson</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>blundar</w>
+    <w>för</w>
+    <w>hotet</w>
+    <w>mot</w>
+    <w>demokratin</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>I</w>
+  <w>dagarna</w>
+  <w>står</w>
+  <w>Centerpartiet</w>
+  <w>värd</w>
+  <w>för</w>
+  <w>politiker</w>
+  <w>från</w>
+  <w>tolv</w>
+  <w>av</w>
+  <w>våra</w>
+  <w>systerpartier</w>
+  <w>runtom</w>
+  <w>i</w>
+  <w>Europa</w>
+  <w>,</w>
+  <w>från</w>
+  <w>såväl</w>
+  <w>Spanien</w>
+  <w>,</w>
+  <w>Estland</w>
+  <w>som</w>
+  <w>Nederländerna</w>
+  <w>.</w>
+  <absaspan id=3>
+    <w>Liberala</w>
+    <w>systerpartier</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>med</w>
+    <w>tydliga</w>
+    <w>värderingar</w>
+    <w>om</w>
+    <w>tolerans</w>
+    <w>och</w>
+    <w>öppenhet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Våra</w>
+  <w>värderingsmässiga</w>
+  <w>vänner</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>När</w>
+  <w>sverigedemokrater</w>
+  <w>väljer</w>
+  <w>att</w>
+  <w>åka</w>
+  <w>till</w>
+  <w>det</w>
+  <absaspan id=5 senti=2>
+    <w>allt</w>
+    <w>mer</w>
+    <w>totalitära</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>Ungern</w>
+  </absaspan>
+  <w>för</w>
+  <w>värderingsmässig</w>
+  <w>inspiration</w>
+  <w>väljer</w>
+  <w>Centerpartiet</w>
+  <w>motsatt</w>
+  <w>väg</w>
+  <w>.</w>
+  <absaspan id=7>
+    <w>Utvecklingen</w>
+    <w>i</w>
+    <w>allt</w>
+    <w>för</w>
+    <w>stor</w>
+    <w>del</w>
+    <w>av</w>
+    <w>Europa</w>
+  </absaspan>
+  <absaspan id=8 senti=1>
+    <w>är</w>
+    <w>skrämmande</w>
+  </absaspan>
+  <w>.</w>
+  <w>Hur</w>
+  <w>svenska</w>
+  <w>partier</w>
+  <w>förhåller</w>
+  <w>sig</w>
+  <w>till</w>
+  <w>utvecklingen</w>
+  <w>visar</w>
+  <w>också</w>
+  <w>på</w>
+  <w>hur</w>
+  <w>man</w>
+  <w>ser</w>
+  <w>på</w>
+  <w>Sverige</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=9>
+    <w>När</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>Jimmie</w>
+    <w>Åkesson</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>i</w>
+    <w>helgens</w>
+    <w>lördagsintervju</w>
+  </absaspan>
+  <absaspan id=12 senti=3>
+    <w>sade</w>
+    <w>sig</w>
+    <w>inte</w>
+    <w>känna</w>
+    <w>någon</w>
+    <w>oro</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>exempelvis</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>utvecklingen</w>
+    <w>i</w>
+    <w>Ungern</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>och</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>kritiken</w>
+    <w>mot</w>
+    <w>Ungern</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>”</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>är</w>
+    <w>väldigt</w>
+    <w>svepande</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>”</w>
+  </absaspan>
+  <absaspan id=20 senti=2>
+    <w>finns</w>
+    <w>det</w>
+    <w>all</w>
+    <w>anledning</w>
+    <w>att</w>
+    <w>känna</w>
+    <w>oro</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=21>
+    <w>FN</w>
+    <w>:</w>
+    <w>s</w>
+    <w>människorättskommitté</w>
+  </absaspan>
+  <absaspan id=22 senti=2>
+    <w>kritiserar</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>Ungern</w>
+  </absaspan>
+  <w>.</w>
+  <w>Landet</w>
+  <w>ändrar</w>
+  <w>godtyckligt</w>
+  <w>i</w>
+  <w>grundlagen</w>
+  <w>för</w>
+  <w>att</w>
+  <w>bättre</w>
+  <w>passa</w>
+  <w>regeringen</w>
+  <w>,</w>
+  <w>landet</w>
+  <w>stänger</w>
+  <w>ner</w>
+  <w>universitet</w>
+  <w>på</w>
+  <w>politiska</w>
+  <w>grunder</w>
+  <w>och</w>
+  <w>landet</w>
+  <w>finns</w>
+  <w>med</w>
+  <w>i</w>
+  <w>Transparency</w>
+  <w>Internationals</w>
+  <w>absoluta</w>
+  <w>topp</w>
+  <w>vad</w>
+  <w>gäller</w>
+  <w>de</w>
+  <absaspan id=24 senti=1>
+    <w>mest</w>
+    <w>korrupta</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>länderna</w>
+  </absaspan>
+  <w>i</w>
+  <w>EU</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Utvärderingar</w>
+  <w>av</w>
+  <w>valkampanjen</w>
+  <w>visar</w>
+  <w>hur</w>
+  <w>den</w>
+  <w>statliga</w>
+  <w>tv</w>
+  <w>:</w>
+  <w>n</w>
+  <w>ensidigt</w>
+  <w>gynnade</w>
+  <w>regeringen</w>
+  <w>och</w>
+  <w>att</w>
+  <absaspan id=26>
+    <w>retoriken</w>
+    <w>i</w>
+    <w>medierna</w>
+  </absaspan>
+  <absaspan id=27 senti=1>
+    <w>var</w>
+  </absaspan>
+  <w>så</w>
+  <w>partisk</w>
+  <w>och</w>
+  <absaspan id=28 senti=1>
+    <w>så</w>
+  </absaspan>
+  <absaspan id=29 senti=1>
+    <w>full</w>
+    <w>av</w>
+    <w>främlingsfientlighet</w>
+    <w>att</w>
+    <w>väljarna</w>
+    <w>inte</w>
+    <w>kunde</w>
+    <w>göra</w>
+    <w>informerade</w>
+    <w>val</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Jimmie</w>
+  <w>Åkessons</w>
+  <w>svar</w>
+  <w>på</w>
+  <w>detta</w>
+  <w>var</w>
+  <w>att</w>
+  <w>hävda</w>
+  <w>att</w>
+  <w>väljarna</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>inte</w>
+  <w>heller</w>
+  <w>kunde</w>
+  <w>göra</w>
+  <w>informerade</w>
+  <w>val</w>
+  <w>.</w>
+  <absaspan id=30>
+    <w>Jimmie</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>Åkesson</w>
+  </absaspan>
+  <absaspan id=32 senti=2>
+    <w>tar</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>helt</w>
+    <w>enkelt</w>
+  </absaspan>
+  <absaspan id=34 senti=2>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=35 senti=2>
+    <w>hoten</w>
+    <w>mot</w>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=36 senti=2>
+    <w>öppna</w>
+    <w>,</w>
+    <w>rättssäkra</w>
+    <w>och</w>
+    <w>toleranta</w>
+  </absaspan>
+  <absaspan id=37 senti=2>
+    <w>Europa</w>
+  </absaspan>
+  <absaspan id=38 senti=2>
+    <w>på</w>
+    <w>allvar</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=39>
+    <w>Detta</w>
+  </absaspan>
+  <absaspan id=40 senti=1>
+    <w>är</w>
+    <w>ytterst</w>
+    <w>anmärkningsvärt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Det</w>
+  <w>som</w>
+  <w>byggt</w>
+  <w>Europa</w>
+  <w>starkt</w>
+  <w>hotas</w>
+  <w>nu</w>
+  <w>inifrån</w>
+  <w>.</w>
+  <w>Europa</w>
+  <w>hålls</w>
+  <w>samman</w>
+  <w>av</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>bara</w>
+  <w>fjällkedjor</w>
+  <w>,</w>
+  <w>vallmofält</w>
+  <w>och</w>
+  <w>motorvägar</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>hålls</w>
+  <w>samman</w>
+  <w>av</w>
+  <absaspan id=41 senti=4>
+    <w>frihetliga</w>
+    <w>värden</w>
+  </absaspan>
+  <w>och</w>
+  <w>en</w>
+  <w>stark</w>
+  <w>gemenskap</w>
+  <w>som</w>
+  <w>växt</w>
+  <w>fram</w>
+  <w>efter</w>
+  <w>de</w>
+  <w>bägge</w>
+  <w>världskrigens</w>
+  <absaspan id=42 senti=1>
+    <w>slakt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Värden</w>
+  <w>om</w>
+  <absaspan id=43 senti=4>
+    <w>rättssäkerhet</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=44 senti=4>
+    <w>öppenhet</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=45 senti=4>
+    <w>medmänsklighet</w>
+  </absaspan>
+  <w>har</w>
+  <w>varit</w>
+  <w>kärnan</w>
+  <w>i</w>
+  <w>bygget</w>
+  <w>av</w>
+  <w>den</w>
+  <w>Europeiska</w>
+  <w>unionen</w>
+  <w>.</w>
+  <w>Dessa</w>
+  <w>värderingar</w>
+  <w>utmanas</w>
+  <w>nu</w>
+  <w>över</w>
+  <w>hela</w>
+  <w>kontinenten</w>
+  <w>.</w>
+  <w>Så</w>
+  <w>även</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <absaspan id=46>
+    <w>Centerpartiet</w>
+  </absaspan>
+  <absaspan id=47 senti=4>
+    <w>vill</w>
+    <w>vara</w>
+    <w>garanten</w>
+    <w>för</w>
+    <w>att</w>
+    <w>Sverige</w>
+    <w>fortsatt</w>
+    <w>värnar</w>
+    <w>dessa</w>
+    <w>frihetliga</w>
+    <w>idéer</w>
+    <w>och</w>
+    <w>för</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=48 senti=4>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=49 senti=4>
+    <w>fortsätter</w>
+    <w>vara</w>
+  </absaspan>
+  <absaspan id=50 senti=4>
+    <w>ett</w>
+    <w>värderingsmässigt</w>
+    <w>föredöme</w>
+  </absaspan>
+  <absaspan id=51 senti=4>
+    <w>i</w>
+    <w>Europa</w>
+  </absaspan>
+  <w>.</w>
+  <w>Tillsammans</w>
+  <w>med</w>
+  <w>våra</w>
+  <w>liberala</w>
+  <w>partivänner</w>
+  <w>kommer</w>
+  <w>vi</w>
+  <w>ta</w>
+  <w>fasta</w>
+  <w>på</w>
+  <w>hur</w>
+  <w>vi</w>
+  <absaspan id=52 senti=4>
+    <w>bäst</w>
+  </absaspan>
+  <absaspan id=53>
+    <w>bemöter</w>
+  </absaspan>
+  <w>nationalism</w>
+  <w>och</w>
+  <absaspan id=54 senti=1>
+    <w>aggressiv</w>
+    <w>populism</w>
+  </absaspan>
+  <w>och</w>
+  <w>hur</w>
+  <w>vi</w>
+  <w>med</w>
+  <w>liberala</w>
+  <w>idéer</w>
+  <w>kan</w>
+  <w>bygga</w>
+  <w>en</w>
+  <w>kontinent</w>
+  <w>som</w>
+  <w>i</w>
+  <w>stället</w>
+  <w>fylls</w>
+  <w>av</w>
+  <w>framtidstro</w>
+  <w>och</w>
+  <w>optimism</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Valen</w>
+  <w>till</w>
+  <w>riksdagen</w>
+  <w>och</w>
+  <w>Europaparlamentet</w>
+  <w>2018</w>
+  <w>och</w>
+  <w>2019</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>handla</w>
+  <w>om</w>
+  <w>värderingar</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>ser</w>
+  <w>runt</w>
+  <w>om</w>
+  <w>i</w>
+  <w>Europa</w>
+  <w>att</w>
+  <absaspan id=55 senti=1>
+    <w>auktoritära</w>
+  </absaspan>
+  <absaspan id=56>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=57 senti=1>
+    <w>främlingsfientliga</w>
+  </absaspan>
+  <absaspan id=58>
+    <w>partier</w>
+  </absaspan>
+  <w>växer</w>
+  <w>sig</w>
+  <w>starkare</w>
+  <w>.</w>
+  <w>I</w>
+  <w>de</w>
+  <w>val</w>
+  <w>som</w>
+  <w>har</w>
+  <w>hållits</w>
+  <w>det</w>
+  <w>senaste</w>
+  <w>året</w>
+  <w>i</w>
+  <w>våra</w>
+  <w>europeiska</w>
+  <w>grannländer</w>
+  <absaspan id=59 senti=2>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=60>
+    <w>dessa</w>
+    <w>partier</w>
+  </absaspan>
+  <absaspan id=61 senti=2>
+    <w>tagit</w>
+  </absaspan>
+  <w>stora</w>
+  <w>och</w>
+  <absaspan id=62 senti=2>
+    <w>farliga</w>
+  </absaspan>
+  <absaspan id=63 senti=2>
+    <w>kliv</w>
+    <w>framåt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=11 senti=4>
+  <w>Självklart</w>
+  <w>finns</w>
+  <w>fortsatt</w>
+  <absaspan id=64 senti=1>
+    <w>stora</w>
+    <w>problem</w>
+  </absaspan>
+  <w>i</w>
+  <w>Europa</w>
+  <w>.</w>
+  <w>Utanförskap</w>
+  <w>göder</w>
+  <absaspan id=65 senti=2>
+    <w>intolerans</w>
+  </absaspan>
+  <w>.</w>
+  <w>En</w>
+  <w>ekonomi</w>
+  <w>som</w>
+  <w>fortfarande</w>
+  <w>behöver</w>
+  <w>bli</w>
+  <w>betydligt</w>
+  <w>mer</w>
+  <w>konkurrenskraftig</w>
+  <w>.</w>
+  <absaspan id=66>
+    <w>Ett</w>
+    <w>flyktingmottagande</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=67 senti=2>
+    <w>är</w>
+    <w>osolidariskt</w>
+    <w>fördelat</w>
+  </absaspan>
+  <w>mellan</w>
+  <w>medlemsstaterna</w>
+  <w>.</w>
+  <absaspan id=68 senti=2>
+    <w>Hot</w>
+    <w>från</w>
+  </absaspan>
+  <absaspan id=69 senti=1>
+    <w>aggressiva</w>
+  </absaspan>
+  <absaspan id=70>
+    <w>grannländer</w>
+  </absaspan>
+  <w>.</w>
+  <w>Allt</w>
+  <w>detta</w>
+  <w>har</w>
+  <w>pressat</w>
+  <w>det</w>
+  <w>europeiska</w>
+  <w>samarbetet</w>
+  <w>.</w>
+</absapar>
+<absapar id=12 senti=4>
+  <w>I</w>
+  <w>detta</w>
+  <w>landskap</w>
+  <w>så</w>
+  <w>är</w>
+  <w>det</w>
+  <w>lätt</w>
+  <w>för</w>
+  <absaspan id=71>
+    <w>nationalism</w>
+  </absaspan>
+  <absaspan id=72>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=73 senti=1>
+    <w>aggressiv</w>
+    <w>populism</w>
+  </absaspan>
+  <w>att</w>
+  <w>få</w>
+  <w>fotfäste</w>
+  <w>,</w>
+  <w>trots</w>
+  <w>att</w>
+  <absaspan id=74>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=75 senti=2>
+    <w>inte</w>
+    <w>har</w>
+    <w>rätt</w>
+    <w>lösningar</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=76>
+    <w>Den</w>
+  </absaspan>
+  <absaspan id=77 senti=2>
+    <w>populism</w>
+  </absaspan>
+  <absaspan id=78>
+    <w>som</w>
+    <w>breder</w>
+    <w>ut</w>
+    <w>sig</w>
+  </absaspan>
+  <absaspan id=79 senti=2>
+    <w>splittrar</w>
+  </absaspan>
+  <w>Europa</w>
+  <w>,</w>
+  <w>men</w>
+  <w>gör</w>
+  <w>oss</w>
+  <w>också</w>
+  <w>mer</w>
+  <w>sårbara</w>
+  <w>för</w>
+  <w>hot</w>
+  <w>från</w>
+  <w>ett</w>
+  <absaspan id=80 senti=2>
+    <w>allt</w>
+    <w>mer</w>
+    <w>totalitärt</w>
+  </absaspan>
+  <absaspan id=81>
+    <w>Ryssland</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Det</w>
+  <absaspan id=82 senti=4>
+    <w>behövs</w>
+  </absaspan>
+  <absaspan id=83>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=84>
+    <w>annan</w>
+    <w>riktning</w>
+    <w>för</w>
+    <w>Europa</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=85>
+    <w>En</w>
+  </absaspan>
+  <absaspan id=86>
+    <w>politik</w>
+    <w>som</w>
+    <w>ser</w>
+    <w>värdet</w>
+    <w>i</w>
+    <w>handeln</w>
+    <w>över</w>
+    <w>gränser</w>
+    <w>,</w>
+    <w>i</w>
+    <w>företagande</w>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=87 senti=4>
+    <w>medmänsklighet</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=88>
+    <w>En</w>
+  </absaspan>
+  <absaspan id=89>
+    <w>politik</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=90 senti=4>
+    <w>inte</w>
+    <w>vänder</w>
+    <w>kappan</w>
+    <w>efter</w>
+    <w>vinden</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=91>
+    <w>Centerpartiet</w>
+    <w>och</w>
+    <w>de</w>
+    <w>vänner</w>
+    <w>vi</w>
+    <w>i</w>
+    <w>dagarna</w>
+    <w>samlar</w>
+  </absaspan>
+  <absaspan id=92 senti=4>
+    <w>står</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=93>
+    <w>den</w>
+    <w>riktningen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=14 senti=4>
+  <w>I</w>
+  <w>valet</w>
+  <w>i</w>
+  <w>september</w>
+  <w>kommer</w>
+  <w>Europas</w>
+  <w>blickar</w>
+  <w>att</w>
+  <w>riktas</w>
+  <w>mot</w>
+  <w>Sverige</w>
+  <w>.</w>
+  <w>Vilken</w>
+  <w>väg</w>
+  <w>kommer</w>
+  <w>Sverige</w>
+  <w>att</w>
+  <w>välja</w>
+  <w>?</w>
+  <w>Väljer</w>
+  <w>vi</w>
+  <w>,</w>
+  <w>likt</w>
+  <w>andra</w>
+  <w>länder</w>
+  <w>i</w>
+  <w>Europa</w>
+  <w>,</w>
+  <absaspan id=94 senti=2>
+    <w>slutenhet</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=95 senti=2>
+    <w>misstänkliggörande</w>
+    <w>av</w>
+    <w>våra</w>
+  </absaspan>
+  <absaspan id=96 senti=2>
+    <w>medmänniskor</w>
+  </absaspan>
+  <w>,</w>
+  <w>eller</w>
+  <w>kommer</w>
+  <w>vi</w>
+  <w>att</w>
+  <w>fortsätta</w>
+  <w>stå</w>
+  <w>upp</w>
+  <w>för</w>
+  <absaspan id=97 senti=4>
+    <w>medmänsklighet</w>
+  </absaspan>
+  <w>och</w>
+  <w>humanism</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>För</w>
+  <absaspan id=98>
+    <w>Centerpartiet</w>
+  </absaspan>
+  <w>är</w>
+  <w>valet</w>
+  <w>enkelt</w>
+  <w>.</w>
+  <absaspan id=99>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=100 senti=4>
+    <w>står</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=101>
+    <w>ett</w>
+    <w>ledarskap</w>
+    <w>som</w>
+    <w>kan</w>
+    <w>försvara</w>
+    <w>de</w>
+    <w>värderingar</w>
+    <w>som</w>
+    <w>historiskt</w>
+    <w>byggt</w>
+    <w>Europa</w>
+    <w>starkt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>Det</w>
+  <w>är</w>
+  <w>så</w>
+  <w>vi</w>
+  <w>tar</w>
+  <w>ansvar</w>
+  <w>för</w>
+  <w>att</w>
+  <w>lösa</w>
+  <w>de</w>
+  <w>problem</w>
+  <w>vi</w>
+  <w>har</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>och</w>
+  <w>det</w>
+  <w>är</w>
+  <w>så</w>
+  <w>vi</w>
+  <w>tar</w>
+  <w>såväl</w>
+  <w>Sverige</w>
+  <w>och</w>
+  <w>EU</w>
+  <w>framåt</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>Annie</w>
+  <w>Lööf</w>
+  <w>Fredrick</w>
+  <w>Federley</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>RERNA</w>
+  <w>.</w>
+</absapar>
+<absapar id=19>
+  <w>Häng</w>
+  <w>med</w>
+  <w>i</w>
+  <w>debatten</w>
+  <w>och</w>
+  <w>kommentera</w>
+  <w>artikeln</w>
+  <w>–</w>
+  <w>gilla</w>
+  <w>Debatt</w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,203 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Debatt</w>
+  <w>om</w>
+  <w>invandringen</w>
+  <w>/</w>
+  <w>invandrarna</w>
+  <w>,</w>
+  <w>för</w>
+  <w>och</w>
+  <w>nackdelar</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Debatt</w>
+  <w>om</w>
+  <w>invandring</w>
+  <w>och</w>
+  <w>invandrarna</w>
+  <w>.</w>
+  <w>För</w>
+  <w>och</w>
+  <w>nackdelar</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Trådstarten</w>
+  <w>är</w>
+  <w>skriven</w>
+  <w>i</w>
+  <w>samråd</w>
+  <w>med</w>
+  <w>Adventualhorizon</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Tanken</w>
+  <w>med</w>
+  <w>tråden</w>
+  <w>är</w>
+  <w>att</w>
+  <w>den</w>
+  <w>ska</w>
+  <w>liknas</w>
+  <w>med</w>
+  <w>en</w>
+  <w>partiledardebatt</w>
+  <w>inför</w>
+  <w>kommande</w>
+  <w>val</w>
+  <w>fast</w>
+  <w>med</w>
+  <w>den</w>
+  <w>väsentliga</w>
+  <w>skillnaden</w>
+  <w>att</w>
+  <w>den</w>
+  <w>inte</w>
+  <w>är</w>
+  <w>tidsbegränsad</w>
+  <w>.</w>
+  <absaspan id=1>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>att</w>
+    <w>vi</w>
+    <w>ska</w>
+    <w>diskutera</w>
+    <w>positiva</w>
+    <w>och</w>
+    <w>negativa</w>
+    <w>sidor</w>
+    <w>som</w>
+    <w>invandringen</w>
+    <w>och</w>
+    <w>invandrarna</w>
+    <w>för</w>
+    <w>med</w>
+    <w>sig</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>För</w>
+  <w>nedanstående</w>
+  <w>punkter</w>
+  <w>ska</w>
+  <w>följande</w>
+  <w>diskuteras</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <w>Vad</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>för</w>
+  <w>olika</w>
+  <w>för</w>
+  <w>och</w>
+  <w>nackdelar</w>
+  <w>för</w>
+  <w>svenskar</w>
+  <w>respektive</w>
+  <w>nysvenskar</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=3>
+  <w>Vad</w>
+  <w>kan</w>
+  <w>göras</w>
+  <w>bättre</w>
+  <w>för</w>
+  <w>svenskar</w>
+  <w>respektive</w>
+  <w>nysvenskar</w>
+  <w>och</w>
+  <w>de</w>
+  <w>behövande</w>
+  <w>runtom</w>
+  <w>i</w>
+  <w>världen</w>
+  <w>istället</w>
+  <w>för</w>
+  <w>dagens</w>
+  <w>I</w>
+  <w>&</w>
+  <w>I-politik</w>
+  <w>och</w>
+  <w>biståndspolitik</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7 senti=3>
+  <w>Hur</w>
+  <w>påverkar</w>
+  <w>invandringen</w>
+  <w>?</w>
+  <w>*</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1</w>
+  <w>.</w>
+  <w>Skolresultat</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>2</w>
+  <w>.</w>
+  <w>Brott</w>
+  <w>och</w>
+  <w>brottsbekämpning</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>3</w>
+  <w>.</w>
+  <w>Bostadsmarknaden</w>
+  <w>och</w>
+  <w>bostadsbyggande</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>4</w>
+  <w>.</w>
+  <w>Vård</w>
+  <w>och</w>
+  <w>omsorg</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>5</w>
+  <w>.</w>
+  <w>Arbetsmarknaden</w>
+  <w>.</w>
+</absapar>
+</absadoc>

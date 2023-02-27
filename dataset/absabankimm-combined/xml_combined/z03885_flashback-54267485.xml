@@ -1,0 +1,115 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Att</w>
+  <w>man</w>
+  <w>är</w>
+  <w>född</w>
+  <w>här</w>
+  <w>gör</w>
+  <w>inte</w>
+  <w>att</w>
+  <w>man</w>
+  <w>har</w>
+  <w>mer</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>bo</w>
+  <w>här</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Någon</w>
+  <w>på</w>
+  <w>nyheter24</w>
+  <w>skrev</w>
+  <w>att</w>
+  <w>bara</w>
+  <w>för</w>
+  <w>att</w>
+  <w>man</w>
+  <w>har</w>
+  <w>haft</w>
+  <absaspan id=1 senti=4>
+    <w>"</w>
+    <w>turen</w>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>att</w>
+    <w>födas</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>så</w>
+  <w>gör</w>
+  <w>inte</w>
+  <w>det</w>
+  <w>att</w>
+  <w>man</w>
+  <w>mer</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>vara</w>
+  <w>här</w>
+  <w>än</w>
+  <w>en</w>
+  <w>somalier</w>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+  <w>Men</w>
+  <w>jag</w>
+  <w>anser</w>
+  <w>att</w>
+  <w>om</w>
+  <w>ens</w>
+  <w>förfäder</w>
+  <w>byggt</w>
+  <w>upp</w>
+  <w>det</w>
+  <absaspan id=4 senti=4>
+    <w>trygga</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>land</w>
+    <w>vi</w>
+    <w>en</w>
+    <w>gång</w>
+    <w>hade</w>
+  </absaspan>
+  <w>så</w>
+  <w>är</w>
+  <w>det</w>
+  <w>självklart</w>
+  <w>att</w>
+  <w>man</w>
+  <w>har</w>
+  <w>större</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>vistas</w>
+  <w>här</w>
+  <w>än</w>
+  <w>al</w>
+  <w>shaabab-abdul</w>
+  <w>.</w>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>?</w>
+  <absaspan id=6>
+    <w>Har</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>tyvärr</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>ingen</w>
+    <w>länk</w>
+    <w>att</w>
+    <w>bjuds</w>
+    <w>på</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

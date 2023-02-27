@@ -1,0 +1,44 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>50</w>
+  <w>-</w>
+  <w>tal</w>
+  <w>från</w>
+  <w>Nordiska</w>
+  <w>Motståndsrörelsen</w>
+  <w>demonstrerar</w>
+  <w>i</w>
+  <w>Göteborg</w>
+  <w>2017</w>
+  <w>-</w>
+  <w>09</w>
+  <w>-</w>
+  <w>17</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1 senti=3>
+    <w>Kan</w>
+  </absaspan>
+  <w>det</w>
+  <w>här</w>
+  <absaspan id=2 senti=3>
+    <w>påverka</w>
+  </absaspan>
+  <w>den</w>
+  <absaspan id=3>
+    <w>tillståndsgivna</w>
+    <w>demonstrationen</w>
+  </absaspan>
+  <w>i</w>
+  <w>slutet</w>
+  <w>av</w>
+  <w>månaden</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

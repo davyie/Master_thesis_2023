@@ -1,0 +1,475 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Syrianer</w>
+  </absaspan>
+  <absaspan id=2 senti=4 partof=3>
+    <w>är</w>
+  </absaspan>
+  <w>Sveriges</w>
+  <absaspan id=3 senti=4 target=1>
+    <w>bästa</w>
+  </absaspan>
+  <w>invandrare</w>
+  <w>ifrån</w>
+  <w>Mellanöstern</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4 senti=4>
+    <w>Hur</w>
+    <w>kan</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>syrianer</w>
+  </absaspan>
+  <w>inte</w>
+  <absaspan id=6 senti=4>
+    <w>anses</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>vara</w>
+  </absaspan>
+  <w>den</w>
+  <absaspan id=8 senti=4>
+    <w>bästa</w>
+  </absaspan>
+  <w>invandrargruppen</w>
+  <w>?</w>
+  <w>Själv</w>
+  <w>har</w>
+  <absaspan id=9>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>alltid</w>
+    <w>tyckt</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>att</w>
+    <w>muslimska</w>
+    <w>araber</w>
+    <w>och</w>
+    <w>afrikaner</w>
+    <w>hittils</w>
+    <w>varit</w>
+    <w>Sveriges</w>
+    <w>bästa</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>men</w>
+  <w>ju</w>
+  <w>mer</w>
+  <w>jag</w>
+  <w>umgås</w>
+  <w>med</w>
+  <w>syrianer</w>
+  <w>så</w>
+  <w>inser</w>
+  <w>jag</w>
+  <w>att</w>
+  <w>utan</w>
+  <w>de</w>
+  <w>vore</w>
+  <w>Sverige</w>
+  <w>ingenting</w>
+  <w>.</w>
+  <w>Tyvärr</w>
+  <absaspan id=12 senti=2>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>den</w>
+    <w>äldre</w>
+    <w>generationen</w>
+  </absaspan>
+  <w>rätt</w>
+  <absaspan id=14 senti=2>
+    <w>islamofobisk</w>
+  </absaspan>
+  <w>ibland</w>
+  <w>men</w>
+  <w>det</w>
+  <w>är</w>
+  <w>extremt</w>
+  <absaspan id=15 senti=4>
+    <w>få</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>syrianer</w>
+  </absaspan>
+  <w>idag</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>som</w>
+  <absaspan id=17 senti=4>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=18 senti=4>
+    <w>islamofobiska</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Min</w>
+  <w>bästa</w>
+  <w>vän</w>
+  <w>är</w>
+  <w>syrian</w>
+  <w>ifrån</w>
+  <w>Libanon</w>
+  <w>och</w>
+  <absaspan id=19>
+    <w>hon</w>
+  </absaspan>
+  <absaspan id=20 senti=5>
+    <w>är</w>
+    <w>den</w>
+    <w>snällaste</w>
+    <w>människan</w>
+    <w>som</w>
+    <w>finns</w>
+  </absaspan>
+  <w>och</w>
+  <w>det</w>
+  <w>verkar</w>
+  <w>vara</w>
+  <w>väldigt</w>
+  <w>vanligt</w>
+  <w>har</w>
+  <w>jag</w>
+  <w>märkt</w>
+  <w>hos</w>
+  <absaspan id=21>
+    <w>syrianer</w>
+  </absaspan>
+  <w>att</w>
+  <w>de</w>
+  <absaspan id=22 senti=4>
+    <w>är</w>
+    <w>väldigt</w>
+    <w>snälla</w>
+  </absaspan>
+  <w>,</w>
+  <w>de</w>
+  <absaspan id=23 senti=4>
+    <w>hjälper</w>
+    <w>alltid</w>
+    <w>sina</w>
+    <w>vänner</w>
+  </absaspan>
+  <w>och</w>
+  <w>är</w>
+  <w>där</w>
+  <w>för</w>
+  <w>dem</w>
+  <w>och</w>
+  <w>dessutom</w>
+  <absaspan id=24 senti=4>
+    <w>får</w>
+  </absaspan>
+  <w>de</w>
+  <absaspan id=25 senti=4>
+    <w>ekonomin</w>
+  </absaspan>
+  <absaspan id=26 senti=4>
+    <w>att</w>
+    <w>blomstra</w>
+  </absaspan>
+  <w>.</w>
+  <w>Jag</w>
+  <w>fick</w>
+  <w>veta</w>
+  <w>att</w>
+  <w>nästan</w>
+  <w>alla</w>
+  <w>pizzerior</w>
+  <w>och</w>
+  <w>kebabställen</w>
+  <w>ägs</w>
+  <w>av</w>
+  <w>syrianer</w>
+  <w>och</w>
+  <w>inte</w>
+  <w>muslimska</w>
+  <w>araber</w>
+  <w>eller</w>
+  <w>turkar</w>
+  <w>som</w>
+  <w>jag</w>
+  <w>tidigare</w>
+  <w>trodde</w>
+  <w>,</w>
+  <w>har</w>
+  <w>de</w>
+  <w>inte</w>
+  <w>restauranger</w>
+  <w>så</w>
+  <w>har</w>
+  <w>de</w>
+  <w>butiker</w>
+  <w>där</w>
+  <w>de</w>
+  <w>säljer</w>
+  <absaspan id=27 senti=4>
+    <w>fina</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>saker</w>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>De</w>
+  </absaspan>
+  <absaspan id=30 senti=4>
+    <w>arbetar</w>
+  </absaspan>
+  <w>väldigt</w>
+  <absaspan id=31 senti=4>
+    <w>hårt</w>
+  </absaspan>
+  <w>precis</w>
+  <w>som</w>
+  <w>muslimska</w>
+  <w>araber</w>
+  <w>.</w>
+  <w>Likaså</w>
+  <absaspan id=32 senti=4>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=34 senti=4>
+    <w>väldigt</w>
+  </absaspan>
+  <absaspan id=35 senti=4>
+    <w>stor</w>
+    <w>moral</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=36 senti=4>
+    <w>respekt</w>
+    <w>för</w>
+    <w>sina</w>
+    <w>medmänniskor</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Min</w>
+  <w>bästa</w>
+  <w>väns</w>
+  <w>döttrar</w>
+  <w>säger</w>
+  <w>att</w>
+  <w>de</w>
+  <w>vill</w>
+  <w>bli</w>
+  <w>VD</w>
+  <w>och</w>
+  <w>CEO</w>
+  <w>för</w>
+  <w>framtidens</w>
+  <w>nya</w>
+  <w>svenska</w>
+  <w>Apple</w>
+  <w>som</w>
+  <w>de</w>
+  <w>ska</w>
+  <w>vara</w>
+  <w>med</w>
+  <w>och</w>
+  <w>utveckla</w>
+  <w>,</w>
+  <absaspan id=37>
+    <w>alla</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>syrianer</w>
+    <w>jag</w>
+    <w>har</w>
+    <w>träffat</w>
+  </absaspan>
+  <absaspan id=39 senti=4>
+    <w>har</w>
+    <w>varit</w>
+    <w>lika</w>
+    <w>ambitiösa</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=40>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=41 senti=4>
+    <w>gör</w>
+    <w>verkligen</w>
+    <w>allt</w>
+    <w>de</w>
+    <w>kan</w>
+    <w>för</w>
+    <w>att</w>
+    <w>bidra</w>
+    <w>till</w>
+    <w>samhället</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=42>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=43 senti=2>
+    <w>kan</w>
+    <w>erkänna</w>
+  </absaspan>
+  <absaspan id=44>
+    <w>att</w>
+    <w>en</w>
+    <w>del</w>
+    <w>muslimska</w>
+    <w>araber</w>
+    <w>har</w>
+    <w>svårt</w>
+    <w>för</w>
+    <w>detta</w>
+  </absaspan>
+  <w>men</w>
+  <w>det</w>
+  <w>beror</w>
+  <w>på</w>
+  <w>att</w>
+  <w>rasismen</w>
+  <w>mot</w>
+  <w>de</w>
+  <w>är</w>
+  <w>mycket</w>
+  <w>större</w>
+  <w>i</w>
+  <w>samhället</w>
+  <w>och</w>
+  <w>när</w>
+  <w>män</w>
+  <w>jämt</w>
+  <w>och</w>
+  <w>ständigt</w>
+  <w>blir</w>
+  <w>utpekad</w>
+  <w>och</w>
+  <w>diskriminerad</w>
+  <w>på</w>
+  <w>arbetsmarknaden</w>
+  <w>så</w>
+  <w>är</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>konstigt</w>
+  <w>att</w>
+  <w>man</w>
+  <w>gör</w>
+  <w>lite</w>
+  <w>busstreck</w>
+  <w>mot</w>
+  <w>det</w>
+  <w>som</w>
+  <w>man</w>
+  <w>anser</w>
+  <w>tycker</w>
+  <w>förtryckaren</w>
+  <w>representerar</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Jag</w>
+  <absaspan id=45 senti=4>
+    <w>undrar</w>
+    <w>varför</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=46>
+    <w>syrianer</w>
+  </absaspan>
+  <absaspan id=47>
+    <w>anses</w>
+    <w>som</w>
+    <w>Mellanösterns</w>
+    <w>bästa</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>när</w>
+  <w>de</w>
+  <absaspan id=48 senti=4>
+    <w>är</w>
+    <w>en</w>
+    <w>av</w>
+    <w>Sveriges</w>
+    <w>bästa</w>
+    <w>och</w>
+    <w>framgångsrika</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>.</w>
+  <w>Mellanösterns</w>
+  <w>första</w>
+  <w>arkeolog</w>
+  <w>var</w>
+  <w>syrian</w>
+  <w>-</w>
+  <w>Hormuzd</w>
+  <w>Rassam</w>
+  <w>.</w>
+  <w>Glöm</w>
+  <w>inte</w>
+  <w>heller</w>
+  <w>bort</w>
+  <w>Younanfamiljen</w>
+  <w>och</w>
+  <w>Bob</w>
+  <w>Miner</w>
+  <w>var</w>
+  <w>en</w>
+  <w>grundarna</w>
+  <w>till</w>
+  <w>Oracle</w>
+  <w>Corporation</w>
+  <w>.</w>
+  <absaspan id=49 senti=4>
+    <w>Entrepenörskap</w>
+    <w>verkar</w>
+    <w>vara</w>
+    <w>medfött</w>
+  </absaspan>
+  <w>hos</w>
+  <absaspan id=50>
+    <w>syrianer</w>
+  </absaspan>
+  <w>så</w>
+  <absaspan id=51 senti=4>
+    <w>varför</w>
+    <w>är</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=52>
+    <w>dessa</w>
+    <w>människor</w>
+    <w>Sveriges</w>
+    <w>bästa</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>då</w>
+  <w>det</w>
+  <w>uppenbarligen</w>
+  <w>är</w>
+  <w>de</w>
+  <w>som</w>
+  <w>leder</w>
+  <w>och</w>
+  <w>kommer</w>
+  <w>leda</w>
+  <w>Sverige</w>
+  <w>till</w>
+  <w>IT-landet</w>
+  <w>nummer</w>
+  <w>ett</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

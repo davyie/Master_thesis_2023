@@ -1,0 +1,89 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Har</w>
+  <w>bytt</w>
+  <w>policy</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Anna</w>
+  <w>Andersson</w>
+  <w>skriver</w>
+  <w>rakt</w>
+  <w>ut</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1</w>
+  <w>)</w>
+  <w>Att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>gäng</w>
+  <absaspan id=1 senti=2>
+    <w>zigenare</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>är</w>
+    <w>förövare</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>2</w>
+  <w>)</w>
+  <w>Hon</w>
+  <w>kallar</w>
+  <w>dem</w>
+  <w>inte</w>
+  <w>ens</w>
+  <w>"</w>
+  <w>romer</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Själv</w>
+  <w>tror</w>
+  <w>jag</w>
+  <w>att</w>
+  <w>denna</w>
+  <w>artikel</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>korrigeras</w>
+  <w>inom</w>
+  <w>det</w>
+  <w>snaraste</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Eller</w>
+  <absaspan id=4 senti=2>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>även</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>AB</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>tröttnat</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

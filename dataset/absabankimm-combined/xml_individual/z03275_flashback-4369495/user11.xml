@@ -1,0 +1,54 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Ledande</w>
+    <w>militär</w>
+  </absaspan>
+  <absaspan id=2 senti=1 target=3 source=1>
+    <w>varnar</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>massinvandring</w>
+  </absaspan>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>Källa</w>
+  <w>:</w>
+  <w>-</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <absaspan id=4>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>tycker</w>
+    <w>det</w>
+    <w>är</w>
+    <w>bra</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=6>
+    <w>höjdare</w>
+    <w>i</w>
+    <w>åtminstone</w>
+    <w>Storbrittanien</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>vågar</w>
+    <w>stå</w>
+    <w>upp</w>
+    <w>och</w>
+    <w>möta</w>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>politiskt</w>
+    <w>korrekta</w>
+    <w>etablissemanget</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

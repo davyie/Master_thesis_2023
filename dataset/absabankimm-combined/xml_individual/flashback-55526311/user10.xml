@@ -1,0 +1,107 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1 senti=4>
+    <w>Föra</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>SD-politik</w>
+  </absaspan>
+  <absaspan id=3 senti=4 target=2 partof=1>
+    <w>utan</w>
+    <w>anklagelser</w>
+  </absaspan>
+  <w>för</w>
+  <w>rasism</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Hur</w>
+  <w>kommer</w>
+  <w>det</w>
+  <w>sig</w>
+  <w>att</w>
+  <absaspan id=4>
+    <w>nuvarande</w>
+    <w>regering</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>kan</w>
+    <w>införa</w>
+    <w>restriktioner</w>
+    <w>och</w>
+    <w>prata</w>
+    <w>volymer</w>
+  </absaspan>
+  <w>utan</w>
+  <w>att</w>
+  <absaspan id=6 senti=1>
+    <w>anklagas</w>
+    <w>för</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Var</w>
+  <w>är</w>
+  <absaspan id=7 senti=2>
+    <w>upprördheten</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=8 senti=2>
+    <w>rasismanklagelserna</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>miljöpartiet</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Varför</w>
+  <w>kan</w>
+  <absaspan id=11>
+    <w>vissa</w>
+    <w>partier</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>förespråka</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>restriktioner</w>
+  </absaspan>
+  <w>men</w>
+  <w>inte</w>
+  <w>andra</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=14 senti=1>
+    <w>Blir</w>
+    <w>det</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>först</w>
+  <w>när</w>
+  <w>det</w>
+  <w>är</w>
+  <absaspan id=15>
+    <w>SD</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=16 senti=2>
+    <w>förespråkar</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>samma</w>
+    <w>sak</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,49 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Apatiska</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>flyktingbarn</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Denna</w>
+  <absaspan id=3 senti=5 irony>
+    <w>superhajpade</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>epidemi</w>
+  </absaspan>
+  <w>dog</w>
+  <w>ju</w>
+  <w>ut</w>
+  <w>när</w>
+  <w>man</w>
+  <w>kom</w>
+  <w>på</w>
+  <w>att</w>
+  <w>farsorna</w>
+  <w>till</w>
+  <w>de</w>
+  <absaspan id=5 senti=2>
+    <w>apatiska</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>ungarna</w>
+  </absaspan>
+  <w>bluffade</w>
+  <w>alltihop</w>
+  <absaspan id=7 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Varför</w>
+  <w>blev</w>
+  <w>det</w>
+  <w>så</w>
+  <w>tyst</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

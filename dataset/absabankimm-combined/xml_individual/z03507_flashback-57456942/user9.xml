@@ -1,0 +1,271 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Journalister</w>
+  <w>som</w>
+  <w>belyser</w>
+  <w>både</w>
+  <w>USA</w>
+  <w>:</w>
+  <w>s</w>
+  <w>fattigdom</w>
+  <w>och</w>
+  <w>dess</w>
+  <absaspan id=1 senti=4 irony>
+    <w>"</w>
+    <w>lyckade</w>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>invandring</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Svensk</w>
+    <w>PK-media</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>ojar</w>
+    <w>sig</w>
+    <w>ofta</w>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>de</w>
+    <w>stackars</w>
+    <w>fattiga</w>
+    <w>amerikanerna</w>
+  </absaspan>
+  <w>.</w>
+  <w>De</w>
+  <w>säger</w>
+  <w>att</w>
+  <w>statskassan</w>
+  <w>är</w>
+  <w>snedfördelad</w>
+  <w>,</w>
+  <w>att</w>
+  <w>icke-vita</w>
+  <w>alltid</w>
+  <w>glöms</w>
+  <w>bort</w>
+  <w>i</w>
+  <w>sina</w>
+  <w>ekonomiska</w>
+  <w>trångmål</w>
+  <w>,</w>
+  <w>att</w>
+  <w>politikerna</w>
+  <w>skiter</w>
+  <w>i</w>
+  <w>folket</w>
+  <w>och</w>
+  <w>bara</w>
+  <w>fokuserar</w>
+  <w>på</w>
+  <w>den</w>
+  <w>enprocentiga</w>
+  <w>andelen</w>
+  <w>som</w>
+  <w>genererar</w>
+  <w>miljarder</w>
+  <w>åt</w>
+  <w>vita</w>
+  <w>huset</w>
+  <w>.</w>
+  <w>De</w>
+  <w>tycker</w>
+  <w>synd</w>
+  <w>om</w>
+  <w>amerikanerna</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>lever</w>
+  <w>i</w>
+  <w>socialdemokrati</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Samtidigt</w>
+  <w>så</w>
+  <absaspan id=6 senti=4>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>USA</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>ofta</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>lyfts</w>
+    <w>fram</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=10>
+    <w>svensk</w>
+    <w>PK-media</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>som</w>
+    <w>ett</w>
+    <w>lysande</w>
+    <w>exempel</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>hur</w>
+    <w>lyckad</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>fri</w>
+    <w>invandring</w>
+  </absaspan>
+  <absaspan id=14 senti=4>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=15 senti=4>
+    <w>för</w>
+    <w>ett</w>
+    <w>lands</w>
+    <w>ekonomi</w>
+  </absaspan>
+  <w>.</w>
+  <w>De</w>
+  <w>pratar</w>
+  <w>om</w>
+  <w>hur</w>
+  <w>mycket</w>
+  <w>invandrarna</w>
+  <w>bidrar</w>
+  <w>till</w>
+  <w>statskassan</w>
+  <w>och</w>
+  <w>hur</w>
+  <w>infrastrukturen</w>
+  <w>hålls</w>
+  <w>i</w>
+  <w>trim</w>
+  <w>tack</w>
+  <w>vare</w>
+  <w>deras</w>
+  <w>ekonomiska</w>
+  <w>medverkan</w>
+  <w>,</w>
+  <w>parallellt</w>
+  <w>med</w>
+  <w>sina</w>
+  <w>egna</w>
+  <w>rapporter</w>
+  <w>om</w>
+  <w>hur</w>
+  <absaspan id=16>
+    <w>USA</w>
+    <w>:</w>
+    <w>s</w>
+    <w>infrastruktur</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>håller</w>
+    <w>på</w>
+    <w>att</w>
+    <w>haverera</w>
+    <w>totalt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>För</w>
+  <w>några</w>
+  <w>år</w>
+  <w>sedan</w>
+  <w>var</w>
+  <w>det</w>
+  <w>någon</w>
+  <absaspan id=18 senti=2>
+    <w>stolle</w>
+  </absaspan>
+  <w>på</w>
+  <w>som</w>
+  <w>rapporterade</w>
+  <w>om</w>
+  <w>fattigdomen</w>
+  <w>i</w>
+  <w>New</w>
+  <w>Yorks</w>
+  <w>förorter</w>
+  <w>,</w>
+  <w>minns</w>
+  <w>inte</w>
+  <w>vad</w>
+  <w>han</w>
+  <w>heter</w>
+  <w>.</w>
+  <w>Ett</w>
+  <w>av</w>
+  <w>hans</w>
+  <absaspan id=19 senti=2>
+    <w>snyftargument</w>
+  </absaspan>
+  <w>var</w>
+  <w>att</w>
+  <absaspan id=20>
+    <w>invånarna</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>hade</w>
+    <w>3</w>
+    <w>km</w>
+    <w>till</w>
+    <w>närmaste</w>
+    <w>matbutik</w>
+    <w>(</w>
+    <w>eller</w>
+    <w>om</w>
+    <w>det</w>
+    <w>var</w>
+    <w>1,5</w>
+    <w>km</w>
+    <w>)</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=22>
+    <w>vilket</w>
+  </absaspan>
+  <absaspan id=23 senti=2>
+    <w>tydligen</w>
+    <w>var</w>
+    <w>en</w>
+    <w>helt</w>
+    <w>miserabel</w>
+    <w>levnadsstandard</w>
+  </absaspan>
+  <w>som</w>
+  <w>ingen</w>
+  <w>svensk</w>
+  <w>(</w>
+  <w>på</w>
+  <w>Södermalm</w>
+  <w>)</w>
+  <w>kunde</w>
+  <w>föreställa</w>
+  <w>sig</w>
+  <absaspan id=24>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=25 senti=2>
+    <w>Slaskpressens</w>
+  </absaspan>
+  <w>definition</w>
+  <w>av</w>
+  <w>"</w>
+  <w>fattigdom</w>
+  <w>"</w>
+  <w>är</w>
+  <w>minst</w>
+  <w>sagt</w>
+  <w>bred</w>
+  <w>.</w>
+</absapar>
+</absadoc>

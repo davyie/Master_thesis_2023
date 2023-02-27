@@ -1,0 +1,69 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Margareta</w>
+    <w>Larsson</w>
+    <w>(</w>
+    <w>SD</w>
+    <w>)</w>
+  </absaspan>
+  <w>,</w>
+  <w>Jimmie</w>
+  <w>Åkessons</w>
+  <w>svärmor</w>
+  <w>,</w>
+  <w>lämnar</w>
+  <w>partiet</w>
+  <w>och</w>
+  <absaspan id=2 senti=1>
+    <w>sågar</w>
+  </absaspan>
+  <w>nu</w>
+  <absaspan id=3>
+    <w>SD</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4>
+    <w>Margareta</w>
+    <w>Larsson</w>
+    <w>(</w>
+    <w>SD</w>
+    <w>)</w>
+  </absaspan>
+  <w>,</w>
+  <w>riksdagsledamot</w>
+  <w>och</w>
+  <w>dessutom</w>
+  <w>partiledaren</w>
+  <w>Jimmie</w>
+  <w>Åkessons</w>
+  <w>svärmor</w>
+  <w>,</w>
+  <w>lämnar</w>
+  <w>partiet</w>
+  <w>och</w>
+  <absaspan id=5 senti=1>
+    <w>passar</w>
+    <w>på</w>
+    <w>att</w>
+    <w>såga</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>den</w>
+    <w>nuvarande</w>
+    <w>SD-ledningen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>vi</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

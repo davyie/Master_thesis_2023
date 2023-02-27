@@ -1,0 +1,77 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Rasism</w>
+  <w>mot</w>
+  <w>svenskar</w>
+  <w>i</w>
+  <w>skolan</w>
+  <w>-</w>
+  <w>P1</w>
+  <w>Morgon</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Jaha</w>
+  <w>,</w>
+  <w>vad</w>
+  <w>säger</w>
+  <w>vi</w>
+  <w>om</w>
+  <w>det</w>
+  <w>här</w>
+  <w>då</w>
+  <w>kära</w>
+  <w>användare</w>
+  <w>?</w>
+  <w>Själv</w>
+  <w>anser</w>
+  <w>jag</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=1 senti=4>
+    <w>är</w>
+    <w>intressant</w>
+    <w>och</w>
+    <w>anmärkningsvärt</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>att</w>
+    <w>man</w>
+    <w>faktiskt</w>
+    <w>tar</w>
+    <w>upp</w>
+    <w>frågan</w>
+    <w>alls</w>
+  </absaspan>
+  <w>,</w>
+  <w>även</w>
+  <w>om</w>
+  <w>det</w>
+  <w>naturligtvis</w>
+  <w>blir</w>
+  <w>passande</w>
+  <w>nedgraderat</w>
+  <w>till</w>
+  <w>oviktigt</w>
+  <w>i</w>
+  <w>förhållande</w>
+  <w>till</w>
+  <w>hur</w>
+  <w>invandrade</w>
+  <w>barn</w>
+  <w>blir</w>
+  <w>utsatta</w>
+  <w>för</w>
+  <w>rasism</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>anser</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>programmet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

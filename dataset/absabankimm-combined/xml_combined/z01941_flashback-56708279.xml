@@ -1,0 +1,125 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>"</w>
+  <absaspan id=1 senti=1 source=2>
+    <w>Vreden</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>på</w>
+    <w>Östermalm</w>
+  </absaspan>
+  <w>"</w>
+  <w>-</w>
+  <w>medias</w>
+  <w>mörkning</w>
+  <w>om</w>
+  <w>invandringen</w>
+  <w>och</w>
+  <w>SD</w>
+  <w>:</w>
+  <w>s</w>
+  <w>tillväxt</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>DN</w>
+  <w>gör</w>
+  <w>ett</w>
+  <w>reportage</w>
+  <w>om</w>
+  <absaspan id=3 senti=1>
+    <w>vreden</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>på</w>
+    <w>Östermalm</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Ett</w>
+  <w>längre</w>
+  <w>reportage</w>
+  <w>där</w>
+  <w>vi</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>får</w>
+  <w>veta</w>
+  <w>att</w>
+  <w>toppolitiker</w>
+  <w>läser</w>
+  <w>Avpixlat</w>
+  <w>för</w>
+  <w>att</w>
+  <w>gammelmedia</w>
+  <w>mörkar</w>
+  <w>om</w>
+  <w>invandringen</w>
+  <w>och</w>
+  <w>att</w>
+  <absaspan id=5>
+    <w>folk</w>
+    <w>på</w>
+    <w>Östermalm</w>
+  </absaspan>
+  <w>numera</w>
+  <absaspan id=6 senti=2>
+    <w>överger</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>M</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>SD</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Stämmer</w>
+  <w>det</w>
+  <w>att</w>
+  <w>SD</w>
+  <w>går</w>
+  <w>starkt</w>
+  <w>i</w>
+  <w>typiska</w>
+  <w>moderatfästen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Hur</w>
+  <w>reagerar</w>
+  <w>du</w>
+  <w>på</w>
+  <w>att</w>
+  <w>toppolitiker</w>
+  <w>menar</w>
+  <w>att</w>
+  <w>gammelmedia</w>
+  <w>mörkar</w>
+  <w>om</w>
+  <w>invandringen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>du</w>
+  <w>är</w>
+  <w>anmärkningsvärt</w>
+  <w>/</w>
+  <w>intressant</w>
+  <w>i</w>
+  <w>denna</w>
+  <w>text</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

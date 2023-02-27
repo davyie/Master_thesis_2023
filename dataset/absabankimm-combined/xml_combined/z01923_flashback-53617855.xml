@@ -1,0 +1,88 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>33</w>
+  <w>-</w>
+  <w>årig</w>
+  <w>(</w>
+  <w>34</w>
+  <w>)</w>
+  <w>falubo</w>
+  <w>dömdes</w>
+  <w>för</w>
+  <w>dödshot</w>
+  <w>mot</w>
+  <w>"</w>
+  <w>Inte</w>
+  <w>rasist</w>
+  <w>,</w>
+  <w>men</w>
+  <w>"</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Vem</w>
+  <w>är</w>
+  <w>denne</w>
+  <absaspan id=1 senti=4 irony>
+    <w>tuffe</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>näthatare</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=3 senti=4>
+    <w>Gillar</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>han</w>
+  </absaspan>
+  <w>även</w>
+  <absaspan id=5>
+    <w>att</w>
+    <w>hota</w>
+    <w>andra</w>
+    <w>folk</w>
+    <w>till</w>
+    <w>livet</w>
+  </absaspan>
+  <w>?</w>
+  <w>Varför</w>
+  <w>vågade</w>
+  <w>han</w>
+  <w>inte</w>
+  <w>dyka</w>
+  <w>upp</w>
+  <w>på</w>
+  <w>rättegången</w>
+  <w>?</w>
+  <w>Har</w>
+  <w>han</w>
+  <w>något</w>
+  <w>arbete</w>
+  <w>?</w>
+  <w>Frågorna</w>
+  <w>är</w>
+  <w>många</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>Att</w>
+  <w>diskussionen</w>
+  <w>rör</w>
+  <w>honom</w>
+  <w>som</w>
+  <w>person</w>
+  <w>och</w>
+  <w>brottet</w>
+  <w>ifråga</w>
+  <w>behöver</w>
+  <w>väl</w>
+  <w>knappast</w>
+  <w>påpekas</w>
+  <w>.</w>
+</absapar>
+</absadoc>

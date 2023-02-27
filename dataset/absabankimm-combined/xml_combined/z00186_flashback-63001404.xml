@@ -1,0 +1,82 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Är</w>
+  <absaspan id=1>
+    <w>Sverige</w>
+  </absaspan>
+  <w>det</w>
+  <w>enda</w>
+  <w>land</w>
+  <absaspan id=2 refersto=1>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=3 senti=4 source=2 target=4>
+    <w>välkomnar</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>flyktingar</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Är</w>
+  <absaspan id=5>
+    <w>Sverige</w>
+  </absaspan>
+  <w>det</w>
+  <w>enda</w>
+  <w>land</w>
+  <absaspan id=6>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>så</w>
+    <w>mycket</w>
+    <w>värnar</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>ensamkommande</w>
+    <w>samt</w>
+    <w>flyktingar</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Samt</w>
+  <w>generöst</w>
+  <w>med</w>
+  <w>bidrag</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Det</w>
+  <w>finns</w>
+  <w>ju</w>
+  <absaspan id=9>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>massa</w>
+    <w>organisationer</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>välkomnar</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>dom</w>
+  </absaspan>
+  <w>samt</w>
+  <w>vill</w>
+  <w>ha</w>
+  <w>in</w>
+  <w>ännu</w>
+  <w>flera</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,141 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>Hur</w>
+  <w>stor</w>
+  <w>andel</w>
+  <w>invandrare</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>i</w>
+  <w>Svedmyra</w>
+  <w>(</w>
+  <w>Stockholm</w>
+  <w>)</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Bor</w>
+  <w>för</w>
+  <w>närvarande</w>
+  <w>i</w>
+  <w>nybyggda</w>
+  <absaspan id=1>
+    <w>Norra</w>
+    <w>Djurgårdsstaden</w>
+  </absaspan>
+  <w>vilket</w>
+  <w>är</w>
+  <absaspan id=2 senti=5>
+    <w>en</w>
+    <w>fantastisk</w>
+    <w>oas</w>
+  </absaspan>
+  <w>sett</w>
+  <w>till</w>
+  <w>lugn</w>
+  <w>,</w>
+  <absaspan id=3 senti=4>
+    <w>bra</w>
+    <w>folk</w>
+  </absaspan>
+  <w>och</w>
+  <w>trygghet</w>
+  <w>,</w>
+  <w>som</w>
+  <w>ändå</w>
+  <w>ligger</w>
+  <w>innanför</w>
+  <w>tullarna</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Dock</w>
+  <w>betalar</w>
+  <w>jag</w>
+  <w>över</w>
+  <w>9</w>
+  <w>tusen</w>
+  <w>/</w>
+  <w>månad</w>
+  <w>för</w>
+  <w>min</w>
+  <w>etta</w>
+  <w>vilket</w>
+  <w>börjar</w>
+  <w>kännas</w>
+  <w>i</w>
+  <w>plånboken</w>
+  <w>,</w>
+  <w>och</w>
+  <w>söker</w>
+  <w>nu</w>
+  <w>ny</w>
+  <w>lägenhet</w>
+  <w>.</w>
+  <w>Fått</w>
+  <w>napp</w>
+  <w>på</w>
+  <w>en</w>
+  <w>lägenhet</w>
+  <w>i</w>
+  <w>Svedmyra</w>
+  <w>men</w>
+  <w>då</w>
+  <w>jag</w>
+  <w>aldrig</w>
+  <w>bott</w>
+  <w>i</w>
+  <w>söderort</w>
+  <w>har</w>
+  <w>jag</w>
+  <w>ingen</w>
+  <w>aning</w>
+  <w>om</w>
+  <w>hur</w>
+  <w>området</w>
+  <w>är</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=1>
+  <w>Någon</w>
+  <w>med</w>
+  <w>vetskap</w>
+  <w>om</w>
+  <w>hur</w>
+  <w>invandrartätt</w>
+  <w>det</w>
+  <w>är</w>
+  <w>i</w>
+  <w>Svedmyra</w>
+  <w>?</w>
+  <w>Har</w>
+  <w>själv</w>
+  <w>bott</w>
+  <w>i</w>
+  <w>områden</w>
+  <w>som</w>
+  <w>Hjulsta</w>
+  <w>,</w>
+  <w>Kista</w>
+  <w>,</w>
+  <w>Husby</w>
+  <w>och</w>
+  <w>Rissne</w>
+  <w>förut</w>
+  <w>och</w>
+  <absaspan id=4 senti=1>
+    <w>vill</w>
+    <w>ALDRIG</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>flytta</w>
+    <w>till</w>
+    <w>liknande</w>
+    <w>områden</w>
+  </absaspan>
+  <absaspan id=6 senti=1>
+    <w>igen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

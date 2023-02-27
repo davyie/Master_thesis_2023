@@ -1,0 +1,68 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Invandring</w>
+  <w>från</w>
+  <w>öst</w>
+  <w>-</w>
+  <w>och</w>
+  <w>sydöstra</w>
+  <w>Asien</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Skulle</w>
+  <w>vara</w>
+  <w>intressant</w>
+  <w>att</w>
+  <w>höra</w>
+  <w>vad</w>
+  <w>ni</w>
+  <w>tycker</w>
+  <w>om</w>
+  <w>invandring</w>
+  <w>från</w>
+  <w>länder</w>
+  <w>som</w>
+  <w>Kina</w>
+  <w>,</w>
+  <w>Japan</w>
+  <w>,</w>
+  <w>Filippinerna</w>
+  <w>,</w>
+  <w>Thailand</w>
+  <w>osv</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Speciellt</w>
+  <absaspan id=1>
+    <w>ni</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>är</w>
+    <w>kritiska</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>invandring</w>
+    <w>från</w>
+    <w>Mellanöstern</w>
+    <w>och</w>
+    <w>Afrika</w>
+  </absaspan>
+  <w>.</w>
+  <w>Hur</w>
+  <w>bra</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>att</w>
+  <w>östasiater</w>
+  <w>integrerar</w>
+  <w>sig</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

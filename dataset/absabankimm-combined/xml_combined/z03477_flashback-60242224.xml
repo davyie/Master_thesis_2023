@@ -1,0 +1,40 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Ny</w>
+  <w>dom</w>
+  <w>:</w>
+  <w>Afghaner</w>
+  <w>får</w>
+  <w>stanna</w>
+  <w>2017</w>
+  <w>-</w>
+  <w>03</w>
+  <w>-</w>
+  <w>23</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Ni</w>
+  <w>som</w>
+  <w>trodde</w>
+  <w>dessa</w>
+  <w>skulle</w>
+  <w>få</w>
+  <w>avslag</w>
+  <absaspan id=1 senti=2>
+    <w>får</w>
+    <w>nu</w>
+    <w>helt</w>
+    <w>enkelt</w>
+    <w>acceptera</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>att</w>
+    <w>de</w>
+    <w>skall</w>
+    <w>bo</w>
+    <w>här</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

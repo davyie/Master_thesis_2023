@@ -1,0 +1,168 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Replik</w>
+  <w>:</w>
+  <w>Nu</w>
+  <absaspan id=1 senti=1 partof=3>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=3 senti=1 source=2>
+    <w>fått</w>
+  </absaspan>
+  <absaspan id=4 senti=1 source=2>
+    <w>nog</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>de</w>
+    <w>borgerliga</w>
+    <w>brudarna</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=6 senti=4>
+    <w>Fram</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>brudarna</w>
+  </absaspan>
+  <w>,</w>
+  <w>utropar</w>
+  <absaspan id=8>
+    <w>Birgitta</w>
+    <w>Ohlsson</w>
+    <w>(</w>
+    <w>fp</w>
+    <w>)</w>
+  </absaspan>
+  <w>i</w>
+  <w>s</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Har</w>
+  <w>någon</w>
+  <w>av</w>
+  <w>dessa</w>
+  <w>brudar</w>
+  <w>i</w>
+  <w>folkpartiet</w>
+  <w>och</w>
+  <w>centern</w>
+  <w>,</w>
+  <w>sagt</w>
+  <w>någonting</w>
+  <w>om</w>
+  <w>den</w>
+  <w>den</w>
+  <absaspan id=9 senti=2>
+    <w>orättvisa</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>fördelning</w>
+  </absaspan>
+  <w>som</w>
+  <w>genomförs</w>
+  <w>av</w>
+  <w>alliansen</w>
+  <w>?</w>
+  <w>Tyst</w>
+  <w>som</w>
+  <w>i</w>
+  <w>graven</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=11 senti=2>
+    <w>Försämrad</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>sjukförsäkring</w>
+  </absaspan>
+  <w>,</w>
+  <w>a-kasseförsämring</w>
+  <w>,</w>
+  <w>sämre</w>
+  <w>för</w>
+  <w>förtidspensionärer</w>
+  <w>.</w>
+  <w>Ingenting</w>
+  <w>till</w>
+  <w>vanliga</w>
+  <w>pensionärer</w>
+  <w>,</w>
+  <w>högre</w>
+  <w>bilskatt</w>
+  <w>osv</w>
+  <w>,</w>
+  <w>och</w>
+  <w>nu</w>
+  <w>vill</w>
+  <w>Alliansen</w>
+  <w>sälja</w>
+  <w>ut</w>
+  <w>våra</w>
+  <w>gemensamma</w>
+  <w>tillgångar</w>
+  <w>,</w>
+  <w>som</w>
+  <w>generar</w>
+  <w>mycket</w>
+  <w>pengar</w>
+  <w>till</w>
+  <w>samhället</w>
+  <w>.</w>
+  <w>Vem</w>
+  <w>gynnar</w>
+  <w>utförsäljningen</w>
+  <w>?</w>
+  <w>Ja</w>
+  <w>,</w>
+  <w>inte</w>
+  <w>inte</w>
+  <w>dom</w>
+  <w>som</w>
+  <w>behöver</w>
+  <w>dom</w>
+  <w>.</w>
+  <absaspan id=13>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>vill</w>
+    <w>inte</w>
+    <w>ha</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>mera</w>
+    <w>borgerliga</w>
+    <w>brudar</w>
+  </absaspan>
+  <w>!</w>
+  <w>!</w>
+  <w>Varför</w>
+  <w>försvarar</w>
+  <w>ni</w>
+  <w>inte</w>
+  <w>dom</w>
+  <w>svaga</w>
+  <w>i</w>
+  <w>samhället</w>
+  <w>,</w>
+  <absaspan id=16>
+    <w>Birgitta</w>
+    <w>Ohlsson</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=17 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

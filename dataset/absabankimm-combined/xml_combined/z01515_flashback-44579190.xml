@@ -1,0 +1,124 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Vit</w>
+    <w>Josephine</w>
+    <w>Baker</w>
+    <w>får</w>
+    <w>brunkräm</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=2 senti=1 irony target=1>
+    <w>rasism</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Berns</w>
+  <w>i</w>
+  <w>Stockholm</w>
+  <w>firar</w>
+  <w>150</w>
+  <w>-</w>
+  <w>årsjubileum</w>
+  <w>.</w>
+  <w>En</w>
+  <w>kavalkad</w>
+  <w>med</w>
+  <w>de</w>
+  <w>stjärnor</w>
+  <w>som</w>
+  <w>under</w>
+  <w>åren</w>
+  <w>uppträtt</w>
+  <w>på</w>
+  <w>Berns</w>
+  <w>är</w>
+  <w>en</w>
+  <w>del</w>
+  <w>i</w>
+  <w>firandet</w>
+  <w>.</w>
+  <w>ABC-nytt</w>
+  <w>intervjuar</w>
+  <w>projektledaren</w>
+  <w>som</w>
+  <w>förklarar</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>brist</w>
+  <w>på</w>
+  <w>svarta</w>
+  <w>statister</w>
+  <w>under</w>
+  <w>sommaren</w>
+  <w>,</w>
+  <w>och</w>
+  <w>därför</w>
+  <w>så</w>
+  <w>tog</w>
+  <w>man</w>
+  <w>en</w>
+  <w>vit</w>
+  <w>tjej</w>
+  <w>och</w>
+  <w>smörjde</w>
+  <w>in</w>
+  <w>henne</w>
+  <w>med</w>
+  <w>brunkräm</w>
+  <w>.</w>
+  <w>Journalisten</w>
+  <w>undrar</w>
+  <w>då</w>
+  <w>:</w>
+  <w>"</w>
+  <w>Kan</w>
+  <w>inte</w>
+  <w>detta</w>
+  <w>uppfattas</w>
+  <w>som</w>
+  <w>rasistiskt</w>
+  <w>?</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Ja</w>
+  <w>,</w>
+  <w>kan</w>
+  <w>det</w>
+  <w>uppfattas</w>
+  <w>som</w>
+  <w>rasistiskt</w>
+  <w>?</w>
+  <absaspan id=3 senti=2>
+    <w>Eller</w>
+    <w>bara</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=4>
+    <w>att</w>
+    <w>en</w>
+    <w>journalistvikarie</w>
+    <w>ställer</w>
+    <w>den</w>
+    <w>fråga</w>
+    <w>som</w>
+    <w>hon</w>
+    <w>tror</w>
+    <w>uppskattas</w>
+    <w>av</w>
+    <w>hennes</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>miljöpartistiska</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>kompisar</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,149 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Asylsökande</w>
+  <w>begår</w>
+  <w>brott-polisen</w>
+  <w>vägras</w>
+  <w>uppgifter</w>
+  <w>av</w>
+  <w>migrationsverket</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>På</w>
+  <w>asylboendet</w>
+  <w>Hanöhus</w>
+  <w>i</w>
+  <w>Sölvesborg</w>
+  <absaspan id=1 senti=1>
+    <w>hotas</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>volontärer</w>
+  </absaspan>
+  <absaspan id=3 senti=1>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>livet</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=5>
+    <w>en</w>
+    <w>grupp</w>
+    <w>dominanta</w>
+    <w>män</w>
+  </absaspan>
+  <w>sätter</w>
+  <w>sina</w>
+  <w>upp</w>
+  <w>egna</w>
+  <w>regler</w>
+  <w>på</w>
+  <w>boendet</w>
+  <w>.</w>
+  <absaspan id=6>
+    <w>Men</w>
+    <w>när</w>
+    <w>polisen</w>
+    <w>begär</w>
+    <w>ut</w>
+    <w>personuppgifter</w>
+    <w>på</w>
+    <w>dom</w>
+    <w>skyldiga</w>
+    <w>från</w>
+    <w>migrationsverket</w>
+    <w>så</w>
+    <w>hänvisas</w>
+    <w>till</w>
+    <w>sekretess</w>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>inte</w>
+    <w>ens</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>polisen</w>
+    <w>får</w>
+    <w>ut</w>
+    <w>personuppgifter</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=9 senti=2>
+    <w>Är</w>
+  </absaspan>
+  <w>det</w>
+  <absaspan id=10 senti=2>
+    <w>så</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>illa</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>att</w>
+    <w>asylsökanden</w>
+    <w>kan</w>
+    <w>begå</w>
+    <w>brott</w>
+    <w>och</w>
+    <w>förbli</w>
+    <w>straffimuna</w>
+    <w>pg</w>
+    <w>av</w>
+    <w>migrationsverkets</w>
+    <w>sekretessbestämmelser</w>
+  </absaspan>
+  <w>?</w>
+  <w>Kan</w>
+  <w>det</w>
+  <w>vara</w>
+  <w>därför</w>
+  <absaspan id=13>
+    <w>polisen</w>
+    <w>i</w>
+    <w>sthlm</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>är</w>
+    <w>maktlös</w>
+  </absaspan>
+  <w>mot</w>
+  <w>alla</w>
+  <w>asylsökanden</w>
+  <w>som</w>
+  <w>kör</w>
+  <w>svarttaxi</w>
+  <w>utan</w>
+  <w>körkort</w>
+  <w>och</w>
+  <w>i</w>
+  <absaspan id=15 senti=2>
+    <w>undermåliga</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>bilar</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=17 senti=2>
+    <w>Inget</w>
+    <w>förvånar</w>
+    <w>längre</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=18>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>flataste</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>landet</w>
+    <w>i</w>
+    <w>hela</w>
+    <w>västvärlden</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

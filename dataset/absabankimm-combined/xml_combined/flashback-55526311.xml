@@ -1,0 +1,123 @@
+<absadoc annotators=10 senti=2>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Föra</w>
+    <w>SD-politik</w>
+  </absaspan>
+  <absaspan id=2 senti=2 source=4 partof=1>
+    <w>utan</w>
+    <w>anklagelser</w>
+  </absaspan>
+  <absaspan id=3 senti=1 source=4 target=3>
+    <w>för</w>
+    <w>rasism</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Hur</w>
+  <w>kommer</w>
+  <w>det</w>
+  <w>sig</w>
+  <w>att</w>
+  <absaspan id=5>
+    <w>nuvarande</w>
+    <w>regering</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>kan</w>
+    <w>införa</w>
+    <w>restriktioner</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>och</w>
+    <w>prata</w>
+    <w>volymer</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>utan</w>
+    <w>att</w>
+    <w>anklagas</w>
+    <w>för</w>
+    <w>rasism</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>?</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2 senti=3>
+  <absaspan id=11 senti=2>
+    <w>Var</w>
+    <w>är</w>
+    <w>upprördheten</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>och</w>
+    <w>rasismanklagelserna</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>miljöpartiet</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>?</w>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Varför</w>
+  <absaspan id=16 senti=2>
+    <w>kan</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>vissa</w>
+    <w>partier</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>förespråka</w>
+    <w>restriktioner</w>
+  </absaspan>
+  <w>men</w>
+  <w>inte</w>
+  <w>andra</w>
+  <absaspan id=19 senti=2>
+    <w>?</w>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4 senti=3>
+  <absaspan id=20 senti=1>
+    <w>Blir</w>
+    <w>det</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>först</w>
+  <w>när</w>
+  <w>det</w>
+  <w>är</w>
+  <absaspan id=21>
+    <w>SD</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=22 senti=4>
+    <w>förespråkar</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>samma</w>
+    <w>sak</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>?</w>
+  </absaspan>
+  <absaspan id=25 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

@@ -1,0 +1,106 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Varför</w>
+  <w>har</w>
+  <w>SD</w>
+  <w>så</w>
+  <w>lågt</w>
+  <w>stöd</w>
+  <w>(</w>
+  <w>relativt</w>
+  <w>totalen</w>
+  <w>)</w>
+  <w>bland</w>
+  <w>akademiker</w>
+  <w>och</w>
+  <w>kvinnor</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Läste</w>
+  <w>nyligen</w>
+  <w>om</w>
+  <w>SD</w>
+  <w>:</w>
+  <w>s</w>
+  <w>låga</w>
+  <w>stöd</w>
+  <w>,</w>
+  <w>1</w>
+  <w>/</w>
+  <w>12</w>
+  <w>alltså</w>
+  <w>ca</w>
+  <w>8</w>
+  <w>%</w>
+  <w>bland</w>
+  <w>akademiker</w>
+  <w>,</w>
+  <w>och</w>
+  <w>9,5</w>
+  <w>%</w>
+  <w>bland</w>
+  <w>kvinnor</w>
+  <w>.</w>
+  <w>Var</w>
+  <w>inte</w>
+  <w>originalkällan</w>
+  <w>men</w>
+  <w>hittade</w>
+  <w>det</w>
+  <w>här</w>
+  <w>nu</w>
+  <w>i</w>
+  <w>efterhand</w>
+  <w>iallafall</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Någon</w>
+  <w>som</w>
+  <w>har</w>
+  <w>en</w>
+  <w>bra</w>
+  <w>förklaring</w>
+  <w>till</w>
+  <w>denna</w>
+  <absaspan id=1 senti=2>
+    <w>skevhet</w>
+  </absaspan>
+  <w>?</w>
+  <w>Varför</w>
+  <w>når</w>
+  <w>man</w>
+  <w>inte</w>
+  <w>riktigt</w>
+  <w>fram</w>
+  <w>till</w>
+  <w>dessa</w>
+  <w>grupper</w>
+  <w>?</w>
+  <w>Ser</w>
+  <absaspan id=2>
+    <w>partiet</w>
+    <w>det</w>
+  </absaspan>
+  <w>ens</w>
+  <w>som</w>
+  <absaspan id=3 senti=2>
+    <w>en</w>
+    <w>nackdel</w>
+  </absaspan>
+  <w>/</w>
+  <absaspan id=4 senti=2>
+    <w>svaghet</w>
+  </absaspan>
+  <w>eller</w>
+  <w>bryr</w>
+  <w>de</w>
+  <w>sig</w>
+  <w>bara</w>
+  <w>om</w>
+  <w>totalen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

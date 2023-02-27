@@ -1,0 +1,364 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=5 target=2>
+    <w>Ge</w>
+    <w>unga</w>
+    <w>möjlighet</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>att</w>
+    <w>träna</w>
+    <w>gymnastik</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Gymnastiken</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>är</w>
+    <w>en</w>
+    <w>av</w>
+    <w>få</w>
+    <w>idrotter</w>
+    <w>som</w>
+    <w>växer</w>
+  </absaspan>
+  <w>.</w>
+  <w>Just</w>
+  <w>nu</w>
+  <w>är</w>
+  <w>vi</w>
+  <w>226</w>
+  <w>000</w>
+  <w>medlemmar</w>
+  <w>varav</w>
+  <w>45</w>
+  <w>000</w>
+  <w>håller</w>
+  <w>på</w>
+  <w>med</w>
+  <w>tävlingsverksamhet</w>
+  <w>.</w>
+  <absaspan id=5>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=6 senti=5>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=8 senti=5>
+    <w>stolta</w>
+  </absaspan>
+  <absaspan id=9 senti=5>
+    <w>över</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>det</w>
+  <w>är</w>
+  <w>en</w>
+  <w>verksamhet</w>
+  <w>som</w>
+  <w>till</w>
+  <w>stor</w>
+  <w>del</w>
+  <w>kämpar</w>
+  <w>på</w>
+  <w>i</w>
+  <w>anläggningar</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>är</w>
+  <w>gjorda</w>
+  <w>för</w>
+  <w>vår</w>
+  <w>idrott</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Ute</w>
+  <w>i</w>
+  <w>hallarna</w>
+  <w>ser</w>
+  <w>vi</w>
+  <w>gymnaster</w>
+  <w>som</w>
+  <w>börjar</w>
+  <w>och</w>
+  <w>avslutar</w>
+  <w>sin</w>
+  <w>träning</w>
+  <w>med</w>
+  <w>att</w>
+  <w>plocka</w>
+  <w>fram</w>
+  <w>mängder</w>
+  <w>av</w>
+  <w>stora</w>
+  <w>och</w>
+  <w>tunga</w>
+  <w>redskap</w>
+  <w>.</w>
+  <w>Tänk</w>
+  <w>dig</w>
+  <w>samma</w>
+  <w>scenario</w>
+  <w>i</w>
+  <w>andra</w>
+  <w>idrotter</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>skulle</w>
+  <w>vara</w>
+  <absaspan id=10 senti=2>
+    <w>en</w>
+    <w>absurd</w>
+    <w>situation</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>att</w>
+    <w>se</w>
+    <w>barnen</w>
+    <w>rulla</w>
+    <w>ut</w>
+    <w>konstgräs</w>
+    <w>på</w>
+    <w>fotbollsplanen</w>
+    <w>varje</w>
+    <w>träning</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=12>
+    <w>Unga</w>
+    <w>i</w>
+    <w>stora</w>
+    <w>delar</w>
+    <w>av</w>
+    <w>landet</w>
+  </absaspan>
+  <w>har</w>
+  <absaspan id=13 senti=2>
+    <w>inte</w>
+    <w>tillräckligt</w>
+    <w>bra</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>träningsmöjligheter</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>utvecklas</w>
+  <w>och</w>
+  <w>med</w>
+  <absaspan id=15 senti=5>
+    <w>bättre</w>
+    <w>förutsättningar</w>
+  </absaspan>
+  <w>skulle</w>
+  <w>fler</w>
+  <w>få</w>
+  <w>möjlighet</w>
+  <w>att</w>
+  <w>stanna</w>
+  <w>inom</w>
+  <w>gymnastiken</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>långa</w>
+  <w>köer</w>
+  <w>till</w>
+  <w>gymnastikföreningarna</w>
+  <w>,</w>
+  <w>speciellt</w>
+  <w>i</w>
+  <w>storstäderna</w>
+  <w>.</w>
+  <w>Vår</w>
+  <absaspan id=16 senti=5>
+    <w>målsättning</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>att</w>
+    <w>alla</w>
+    <w>som</w>
+    <w>vill</w>
+    <w>ska</w>
+    <w>få</w>
+    <w>börja</w>
+    <w>träna</w>
+  </absaspan>
+  <w>men</w>
+  <w>avsaknaden</w>
+  <w>av</w>
+  <w>specialhallar</w>
+  <w>gör</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>inte</w>
+  <w>når</w>
+  <w>målet</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>En</w>
+  <w>undersökning</w>
+  <w>som</w>
+  <w>gjordes</w>
+  <w>2011</w>
+  <w>visar</w>
+  <w>att</w>
+  <w>över</w>
+  <w>7</w>
+  <w>000</w>
+  <w>barn</w>
+  <w>stod</w>
+  <w>i</w>
+  <w>kö</w>
+  <w>för</w>
+  <w>att</w>
+  <w>börja</w>
+  <w>träna</w>
+  <w>gymnastik</w>
+  <w>i</w>
+  <w>våra</w>
+  <w>föreningar</w>
+  <w>och</w>
+  <w>det</w>
+  <w>lär</w>
+  <w>inte</w>
+  <w>vara</w>
+  <w>färre</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>,</w>
+  <w>tvärtom</w>
+  <w>.</w>
+  <absaspan id=18>
+    <w>Barn</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=19 senti=4>
+    <w>vill</w>
+    <w>lära</w>
+    <w>sig</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>att</w>
+    <w>stå</w>
+    <w>på</w>
+    <w>händer</w>
+    <w>,</w>
+    <w>hjula</w>
+    <w>och</w>
+    <w>slå</w>
+    <w>volter</w>
+  </absaspan>
+  <w>.</w>
+  <w>Barn</w>
+  <w>som</w>
+  <w>skulle</w>
+  <w>kunna</w>
+  <w>göra</w>
+  <w>sig</w>
+  <w>av</w>
+  <w>med</w>
+  <w>en</w>
+  <w>massa</w>
+  <w>energi</w>
+  <w>på</w>
+  <w>samma</w>
+  <w>gång</w>
+  <w>som</w>
+  <w>motoriska</w>
+  <w>färdigheter</w>
+  <w>utvecklas</w>
+  <w>.</w>
+  <w>Dessutom</w>
+  <w>visar</w>
+  <w>forskning</w>
+  <w>att</w>
+  <w>inlärning</w>
+  <w>stimuleras</w>
+  <w>av</w>
+  <w>fysisk</w>
+  <w>rörelse</w>
+  <w>.</w>
+  <w>Politiker</w>
+  <w>och</w>
+  <w>tjänstemän</w>
+  <w>behöver</w>
+  <w>förstå</w>
+  <w>vikten</w>
+  <w>av</w>
+  <w>att</w>
+  <w>planera</w>
+  <w>för</w>
+  <w>fler</w>
+  <w>specialutrustade</w>
+  <w>hallar</w>
+  <w>i</w>
+  <w>hela</w>
+  <w>landet</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Låt</w>
+  <w>oss</w>
+  <absaspan id=21 senti=5>
+    <w>få</w>
+    <w>möjlighet</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>att</w>
+    <w>ligga</w>
+    <w>kvar</w>
+    <w>i</w>
+    <w>toppen</w>
+    <w>av</w>
+    <w>listan</w>
+    <w>över</w>
+    <w>idrotter</w>
+    <w>som</w>
+    <w>växer</w>
+  </absaspan>
+  <w>.</w>
+  <w>Med</w>
+  <w>rätt</w>
+  <w>stöd</w>
+  <w>kan</w>
+  <w>vi</w>
+  <w>det</w>
+  <absaspan id=23 senti=5>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=6>
+  <w>Linn</w>
+  <w>Kimreus</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Ordförande</w>
+  <w>ungdomskommittén</w>
+  <w>Gymnastikförbundet</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Johan</w>
+  <w>Fyrberg</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Generalsekreterare</w>
+  <w>Gymnastikförbundet</w>
+  <w>.</w>
+</absapar>
+</absadoc>

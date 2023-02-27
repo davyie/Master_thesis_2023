@@ -1,0 +1,72 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1</w>
+  <w>bild</w>
+  <w>säger</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>1000</w>
+  <w>ord</w>
+  <w>[</w>
+  <w>Arbetskraftsinvandring</w>
+  <w>]</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Om</w>
+  <w>den</w>
+  <w>passar</w>
+  <w>bättre</w>
+  <w>inom</w>
+  <w>politik</w>
+  <w>></w>
+  <w>inrikes</w>
+  <w>får</w>
+  <w>någon</w>
+  <w>mod</w>
+  <w>gärna</w>
+  <w>flytta</w>
+  <w>tråden</w>
+  <w>dit</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Kände</w>
+  <w>att</w>
+  <w>det</w>
+  <w>behövdes</w>
+  <w>en</w>
+  <w>liten</w>
+  <w>skärmdump</w>
+  <w>på</w>
+  <w>denna</w>
+  <w>lilla</w>
+  <w>nyhet</w>
+  <w>då</w>
+  <absaspan id=1>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>inte</w>
+    <w>finner</w>
+    <w>någon</w>
+    <w>logik</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=3>
+    <w>hela</w>
+    <w>situationen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Några</w>
+  <w>kommentarer</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,69 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Panik</w>
+  <w>i</w>
+  <w>Bryssel</w>
+  <w>idag-erbjuder</w>
+  <w>desperat</w>
+  <w>10</w>
+  <w>000</w>
+  <w>Euro</w>
+  <w>per</w>
+  <w>flykting</w>
+  <w>ett</w>
+  <w>land</w>
+  <w>tar</w>
+  <w>emot</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Migrantansamlingarna</w>
+  <w>i</w>
+  <w>Italien</w>
+  <w>och</w>
+  <w>Grekland</w>
+  <w>gör</w>
+  <w>att</w>
+  <w>Junker</w>
+  <w>kommer</w>
+  <w>med</w>
+  <absaspan id=1>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>sockrat</w>
+    <w>mottagarebjudande</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <absaspan id=3 senti=4>
+    <w>Är</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>tillräckligt</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>generöst</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>länder</w>
+  <w>ska</w>
+  <w>nappa</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Hur</w>
+  <w>många</w>
+  <w>borde</w>
+  <w>Sverige</w>
+  <w>ta</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,141 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Varför</w>
+  <w>får</w>
+  <w>man</w>
+  <w>inte</w>
+  <w>skämta</w>
+  <w>om</w>
+  <w>SD</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Hej</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Varje</w>
+  <w>gång</w>
+  <w>jag</w>
+  <w>träffar</w>
+  <w>folk</w>
+  <w>och</w>
+  <w>skämtar</w>
+  <w>omkring</w>
+  <w>så</w>
+  <w>går</w>
+  <w>det</w>
+  <w>fin</w>
+  <w>fint</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Men</w>
+  <absaspan id=1>
+    <w>om</w>
+    <w>man</w>
+    <w>råkar</w>
+    <w>nämna</w>
+    <w>SD</w>
+    <w>i</w>
+    <w>ett</w>
+    <w>skämt</w>
+  </absaspan>
+  <w>så</w>
+  <absaspan id=2 senti=2>
+    <w>blir</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>Sdare</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>förolämpade</w>
+  </absaspan>
+  <w>och</w>
+  <w>börjar</w>
+  <w>kasta</w>
+  <w>ur</w>
+  <w>sig</w>
+  <w>massa</w>
+  <w>fakta</w>
+  <w>om</w>
+  <w>invandring</w>
+  <w>och</w>
+  <w>sånt</w>
+  <w>.</w>
+  <w>Ingen</w>
+  <w>annan</w>
+  <w>reagerar</w>
+  <w>så</w>
+  <w>förutom</w>
+  <w>Sdare</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Varför</w>
+  <absaspan id=5 senti=2>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>Sdare</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>så</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>dålig</w>
+    <w>humor</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=9 senti=2>
+    <w>Är</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>överkänsliga</w>
+  </absaspan>
+  <w>allmänt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Varför</w>
+  <w>reagerar</w>
+  <w>de</w>
+  <w>så</w>
+  <w>defensivt</w>
+  <w>hela</w>
+  <w>tiden</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Detta</w>
+  <w>är</w>
+  <w>även</w>
+  <w>observerat</w>
+  <w>online</w>
+  <w>och</w>
+  <w>andra</w>
+  <w>ställen</w>
+  <w>.</w>
+  <w>Såfort</w>
+  <w>SD</w>
+  <w>är</w>
+  <w>skämtet</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>skämt</w>
+  <w>så</w>
+  <w>blir</w>
+  <w>dom</w>
+  <w>jättedefensiva</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

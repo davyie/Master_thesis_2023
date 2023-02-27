@@ -1,0 +1,87 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Muslimer</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>genomför</w>
+    <w>etnisk</w>
+    <w>rensning</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>I</w>
+  <w>klippet</w>
+  <w>nedan</w>
+  <w>intervjuas</w>
+  <w>en</w>
+  <w>fransk</w>
+  <w>affärsinnehavare</w>
+  <w>och</w>
+  <w>hon</w>
+  <w>menar</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>för</w>
+  <w>många</w>
+  <w>muslimer</w>
+  <w>där</w>
+  <w>hon</w>
+  <w>bor</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Skulle</w>
+  <w>en</w>
+  <w>svensk</w>
+  <w>kvinna</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>muslimtätt</w>
+  <w>område</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>också</w>
+  <w>kunna</w>
+  <w>bli</w>
+  <w>rånad</w>
+  <w>,</w>
+  <w>våldtagen</w>
+  <w>och</w>
+  <w>få</w>
+  <w>syra</w>
+  <w>kastad</w>
+  <w>på</w>
+  <w>sig</w>
+  <w>om</w>
+  <w>hon</w>
+  <w>uttryckte</w>
+  <w>sig</w>
+  <w>lika</w>
+  <w>rasistiskt</w>
+  <w>?</w>
+  <w>Om</w>
+  <w>detta</w>
+  <w>händer</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>skulle</w>
+  <w>du</w>
+  <w>flytta</w>
+  <w>eller</w>
+  <w>skulle</w>
+  <w>du</w>
+  <w>föredra</w>
+  <w>att</w>
+  <w>stanna</w>
+  <w>kvar</w>
+  <w>som</w>
+  <w>kvinnan</w>
+  <w>i</w>
+  <w>filmen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,92 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Norrtälje</w>
+    <w>fixar</w>
+    <w>fotbollsturnering</w>
+    <w>för</w>
+    <w>ensamkommande</w>
+    <w>flyktingbarn</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>(</w>
+  <w>bildbevis</w>
+  <w>)</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <absaspan id=2 senti=4>
+    <w>är</w>
+    <w>väl</w>
+    <w>ett</w>
+    <w>trevligt</w>
+    <w>initiativ</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=3 senti=4>
+    <w>Det</w>
+    <w>får</w>
+    <w>man</w>
+    <w>väl</w>
+    <w>ge</w>
+    <w>tummen</w>
+    <w>upp</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Men</w>
+  <w>till</w>
+  <w>och</w>
+  <w>med</w>
+  <w>min</w>
+  <w>farmor</w>
+  <w>reagerar</w>
+  <w>på</w>
+  <w>bilderna</w>
+  <w>.</w>
+  <w>Hur</w>
+  <w>många</w>
+  <w>är</w>
+  <w>under</w>
+  <w>18år</w>
+  <w>verkligen</w>
+  <w>?</w>
+  <w>Det</w>
+  <w>blir</w>
+  <w>nästan</w>
+  <w>pinsamt</w>
+  <w>att</w>
+  <w>en</w>
+  <w>tidning</w>
+  <w>lägger</w>
+  <w>ut</w>
+  <w>bilder</w>
+  <w>och</w>
+  <w>stolt</w>
+  <w>visar</w>
+  <w>upp</w>
+  <w>våra</w>
+  <w>nyanlända</w>
+  <w>ensamkommande</w>
+  <w>barn</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Så</w>
+  <w>här</w>
+  <w>ser</w>
+  <w>barnen</w>
+  <w>under</w>
+  <w>18</w>
+  <w>år</w>
+  <w>ut</w>
+  <w>eller</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

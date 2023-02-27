@@ -1,0 +1,54 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Vem</w>
+  <w>är</w>
+  <w>kille</w>
+  <w>i</w>
+  <w>detta</w>
+  <w>klipp</w>
+  <w>,</w>
+  <w>pratar</w>
+  <w>om</w>
+  <w>invandring</w>
+  <w>på</w>
+  <w>90</w>
+  <w>talet</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Första</w>
+  <w>snubben</w>
+  <w>som</w>
+  <w>snackar</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=1 senti=2>
+    <w>inget</w>
+    <w>land</w>
+    <w>klarar</w>
+  </absaspan>
+  <w>en</w>
+  <absaspan id=2>
+    <w>allt</w>
+    <w>för</w>
+    <w>stor</w>
+    <w>invandring</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vem</w>
+  <w>är</w>
+  <w>han</w>
+  <w>?</w>
+  <w>,</w>
+  <w>detta</w>
+  <w>måste</w>
+  <w>vara</w>
+  <w>90</w>
+  <w>tal</w>
+  <w>va</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

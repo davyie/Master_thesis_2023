@@ -1,0 +1,974 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>”</w>
+  <absaspan id=1>
+    <w>Carl</w>
+    <w>Bildt</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=2 senti=2>
+    <w>du</w>
+    <w>får</w>
+    <w>mig</w>
+    <w>att</w>
+    <w>skämmas</w>
+  </absaspan>
+  <w>”</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Just</w>
+  <w>när</w>
+  <w>vi</w>
+  <w>tror</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>Carl</w>
+    <w>Bildt</w>
+  </absaspan>
+  <w>har</w>
+  <w>lärt</w>
+  <w>sig</w>
+  <w>läxan</w>
+  <w>från</w>
+  <w>Egypten</w>
+  <w>gör</w>
+  <w>han</w>
+  <w>det</w>
+  <w>igen</w>
+  <w>:</w>
+  <absaspan id=4 senti=1>
+    <w>vägrar</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>stödja</w>
+    <w>en</w>
+    <w>folklig</w>
+    <w>revolution</w>
+    <w>mot</w>
+    <w>en</w>
+    <w>diktatur</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>.</w>
+  <w>–</w>
+  <w>Det</w>
+  <w>handlar</w>
+  <w>inte</w>
+  <w>om</w>
+  <w>att</w>
+  <w>stödja</w>
+  <w>den</w>
+  <w>ena</w>
+  <w>eller</w>
+  <w>andra</w>
+  <w>,</w>
+  <w>det</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=6 senti=4>
+    <w>få</w>
+    <w>stabilitet</w>
+    <w>och</w>
+    <w>en</w>
+    <w>rimlig</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>utveckling</w>
+  </absaspan>
+  <w>,</w>
+  <w>sa</w>
+  <absaspan id=8>
+    <w>Bildt</w>
+  </absaspan>
+  <w>till</w>
+  <w>Ekot</w>
+  <w>samma</w>
+  <w>dag</w>
+  <w>som</w>
+  <w>Libyens</w>
+  <w>Moammar</w>
+  <w>Gaddafi</w>
+  <w>anföll</w>
+  <w>demonstranter</w>
+  <w>med</w>
+  <w>stridsflyg</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Låt</w>
+  <w>oss</w>
+  <w>gissa</w>
+  <w>att</w>
+  <absaspan id=9>
+    <w>Bildt</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>tycker</w>
+  </absaspan>
+  <w>att</w>
+  <w>en</w>
+  <absaspan id=11>
+    <w>mångårig</w>
+    <w>diktator</w>
+    <w>är</w>
+    <w>stabilare</w>
+    <w>än</w>
+    <w>en</w>
+    <w>oförutsägbar</w>
+    <w>revolution</w>
+  </absaspan>
+  <w>för</w>
+  <w>demokrati</w>
+  <w>och</w>
+  <w>mänskliga</w>
+  <w>rättigheter</w>
+  <absaspan id=12 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4 senti=4>
+  <w>För</w>
+  <absaspan id=13>
+    <w>Sveriges</w>
+    <w>utrikesminister</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>verkar</w>
+    <w>den</w>
+    <w>största</w>
+    <w>oron</w>
+    <w>inte</w>
+    <w>vara</w>
+    <w>Gaddafis</w>
+    <w>folkmord</w>
+  </absaspan>
+  <w>.</w>
+  <w>Utan</w>
+  <w>den</w>
+  <w>”</w>
+  <absaspan id=15>
+    <w>flyktingström</w>
+  </absaspan>
+  <w>”</w>
+  <w>till</w>
+  <w>Europa</w>
+  <w>som</w>
+  <absaspan id=16 senti=2>
+    <w>folkmordet</w>
+    <w>riskerar</w>
+    <w>att</w>
+    <w>skapa</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>.</w>
+  <w>–</w>
+  <w>Länderna</w>
+  <w>i</w>
+  <w>södra</w>
+  <absaspan id=18>
+    <w>Europa</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>är</w>
+    <w>mer</w>
+    <w>omedelbart</w>
+    <w>oroade</w>
+  </absaspan>
+  <w>,</w>
+  <w>där</w>
+  <w>har</w>
+  <w>vi</w>
+  <w>anledning</w>
+  <w>att</w>
+  <w>säga</w>
+  <w>att</w>
+  <absaspan id=20 senti=2>
+    <w>vi</w>
+    <w>delar</w>
+    <w>den</w>
+    <w>oron</w>
+  </absaspan>
+  <w>,</w>
+  <w>säger</w>
+  <absaspan id=21>
+    <w>Bildt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=22>
+    <w>Han</w>
+  </absaspan>
+  <w>tillägger</w>
+  <w>att</w>
+  <w>”</w>
+  <absaspan id=23>
+    <w>solidaritet</w>
+  </absaspan>
+  <w>är</w>
+  <w>en</w>
+  <absaspan id=24 senti=4>
+    <w>grundläggande</w>
+    <w>del</w>
+  </absaspan>
+  <w>av</w>
+  <w>det</w>
+  <w>europeiska</w>
+  <w>samarbetet</w>
+  <w>.</w>
+  <w>”</w>
+  <absaspan id=25>
+    <w>Solidaritet</w>
+    <w>med</w>
+    <w>gränsen</w>
+    <w>mellan</w>
+    <w>EU-länderna</w>
+    <w>och</w>
+    <w>Libyen</w>
+  </absaspan>
+  <absaspan id=26 senti=4>
+    <w>är</w>
+    <w>alltså</w>
+    <w>viktigare</w>
+  </absaspan>
+  <w>för</w>
+  <w>den</w>
+  <absaspan id=27>
+    <w>svenska</w>
+    <w>utrikesministern</w>
+  </absaspan>
+  <w>än</w>
+  <w>solidaritet</w>
+  <w>med</w>
+  <w>Libyens</w>
+  <w>demokratikämpar</w>
+  <absaspan id=28 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=7>
+  <absaspan id=29>
+    <w>Med</w>
+    <w>Bildt</w>
+    <w>har</w>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=30 senti=2>
+    <w>fått</w>
+    <w>en</w>
+    <w>röst</w>
+    <w>i</w>
+    <w>världen</w>
+    <w>som</w>
+    <w>vägrar</w>
+    <w>ta</w>
+    <w>avstånd</w>
+    <w>från</w>
+    <w>diktaturer</w>
+    <w>och</w>
+    <w>folkmord</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=31 senti=4>
+    <w>solidariska</w>
+    <w>arvet</w>
+  </absaspan>
+  <w>från</w>
+  <absaspan id=32>
+    <w>Olof</w>
+    <w>Palme</w>
+    <w>och</w>
+    <w>Anna</w>
+    <w>Lindh</w>
+  </absaspan>
+  <w>förvandlas</w>
+  <w>från</w>
+  <w>tradition</w>
+  <w>till</w>
+  <w>minne</w>
+  <w>.</w>
+  <absaspan id=33>
+    <w>I</w>
+    <w>alliansregeringens</w>
+    <w>vokabulär</w>
+    <w>används</w>
+    <w>orden</w>
+    <w>”</w>
+    <w>demokrati</w>
+    <w>”</w>
+    <w>och</w>
+    <w>”</w>
+    <w>mänskliga</w>
+    <w>rättigheter</w>
+  </absaspan>
+  <w>”</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=34 senti=2>
+    <w>skyla</w>
+    <w>över</w>
+    <w>tvivelaktiga</w>
+    <w>affärer</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Handelsminister</w>
+  <w>Ewa</w>
+  <w>Björling</w>
+  <w>åkte</w>
+  <w>på</w>
+  <w>säljresa</w>
+  <w>till</w>
+  <w>Libyen</w>
+  <w>,</w>
+  <w>avslöjade</w>
+  <w>SVT</w>
+  <w>för</w>
+  <w>ett</w>
+  <w>år</w>
+  <w>sedan</w>
+  <w>.</w>
+  <absaspan id=35>
+    <w>Rymdbolaget</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>till</w>
+  <w>hundra</w>
+  <w>procent</w>
+  <w>ägs</w>
+  <w>av</w>
+  <w>svenska</w>
+  <w>staten</w>
+  <w>,</w>
+  <absaspan id=36 senti=4>
+    <w>ville</w>
+  </absaspan>
+  <absaspan id=37>
+    <w>sälja</w>
+    <w>sitt</w>
+    <w>system</w>
+    <w>för</w>
+    <w>flygburen</w>
+    <w>övervakning</w>
+    <w>till</w>
+    <w>de</w>
+    <w>libyska</w>
+    <w>myndigheterna</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>.</w>
+  <w>–</w>
+  <w>Vi</w>
+  <w>kan</w>
+  <w>hjälpa</w>
+  <w>er</w>
+  <w>att</w>
+  <w>hålla</w>
+  <w>efter</w>
+  <w>flyktingsituationen</w>
+  <w>utmed</w>
+  <w>gränserna</w>
+  <w>och</w>
+  <w>ute</w>
+  <w>på</w>
+  <w>Medelhavet</w>
+  <w>,</w>
+  <w>sa</w>
+  <w>Rymdbolagets</w>
+  <w>Björn</w>
+  <w>Ohlson</w>
+  <w>under</w>
+  <w>ett</w>
+  <w>möte</w>
+  <w>med</w>
+  <w>Libyens</w>
+  <w>handelsminister</w>
+  <w>.</w>
+</absapar>
+<absapar id=10 senti=4>
+  <w>I</w>
+  <w>Libyen</w>
+  <w>finns</w>
+  <w>cirka</w>
+  <w>två</w>
+  <w>miljoner</w>
+  <w>flyktingar</w>
+  <w>på</w>
+  <w>väg</w>
+  <w>från</w>
+  <w>Afrika</w>
+  <w>till</w>
+  <w>Europa</w>
+  <w>.</w>
+  <w>Ett</w>
+  <w>avtal</w>
+  <w>med</w>
+  <w>Italien</w>
+  <w>säger</w>
+  <w>nämligen</w>
+  <w>att</w>
+  <w>libyska</w>
+  <w>myndigheter</w>
+  <w>ska</w>
+  <w>stoppa</w>
+  <w>flyktingar</w>
+  <w>som</w>
+  <w>försöker</w>
+  <w>ta</w>
+  <w>sig</w>
+  <w>över</w>
+  <w>Medelhavet</w>
+  <w>.</w>
+  <w>Enligt</w>
+  <w>FN</w>
+  <w>:</w>
+  <w>s</w>
+  <w>flyktingorgan</w>
+  <absaspan id=38>
+    <w>blir</w>
+    <w>många</w>
+    <w>av</w>
+    <w>de</w>
+    <w>infångade</w>
+    <w>flyktingarna</w>
+    <w>inspärrade</w>
+    <w>på</w>
+    <w>obestämd</w>
+    <w>tid</w>
+    <w>under</w>
+  </absaspan>
+  <absaspan id=39 senti=2>
+    <w>mycket</w>
+    <w>svåra</w>
+  </absaspan>
+  <absaspan id=40>
+    <w>förhållanden</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=41 senti=2>
+    <w>i</w>
+    <w>strid</w>
+    <w>med</w>
+    <w>internationell</w>
+    <w>rätt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <absaspan id=42>
+    <w>Amnesty</w>
+  </absaspan>
+  <absaspan id=43 senti=2>
+    <w>kritiserade</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=44>
+    <w>Sverige</w>
+    <w>försökte</w>
+    <w>sälja</w>
+    <w>övervakningssystemet</w>
+    <w>till</w>
+    <w>Libyen</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=45>
+    <w>alliansregeringens</w>
+  </absaspan>
+  <w>argument</w>
+  <w>för</w>
+  <w>säljresan</w>
+  <w>var</w>
+  <w>att</w>
+  <absaspan id=46>
+    <w>handel</w>
+  </absaspan>
+  <absaspan id=47 senti=4>
+    <w>är</w>
+    <w>ett</w>
+    <w>bra</w>
+    <w>sätt</w>
+    <w>att</w>
+    <w>främja</w>
+    <w>demokratisk</w>
+    <w>utveckling</w>
+    <w>i</w>
+    <w>diktaturer</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>.</w>
+  <w>–</w>
+  <w>Det</w>
+  <w>gäller</w>
+  <w>då</w>
+  <w>att</w>
+  <w>vara</w>
+  <absaspan id=48 senti=4>
+    <w>extra</w>
+    <w>tydlig</w>
+  </absaspan>
+  <w>med</w>
+  <w>att</w>
+  <absaspan id=49>
+    <w>berätta</w>
+    <w>hur</w>
+    <w>bra</w>
+    <w>svenska</w>
+    <w>företag</w>
+    <w>är</w>
+  </absaspan>
+  <w>när</w>
+  <w>det</w>
+  <w>gäller</w>
+  <w>mänskliga</w>
+  <w>rättigheter</w>
+  <w>och</w>
+  <w>att</w>
+  <w>se</w>
+  <w>till</w>
+  <w>att</w>
+  <w>det</w>
+  <w>blir</w>
+  <w>skillnad</w>
+  <w>i</w>
+  <w>praktiken</w>
+  <w>,</w>
+  <w>sa</w>
+  <absaspan id=50>
+    <w>Ewa</w>
+    <w>Björling</w>
+  </absaspan>
+  <w>till</w>
+  <w>SVT</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Vi</w>
+  <w>kan</w>
+  <w>konstatera</w>
+  <w>att</w>
+  <absaspan id=51>
+    <w>alliansregeringens</w>
+    <w>strategi</w>
+  </absaspan>
+  <absaspan id=52 senti=2>
+    <w>inte</w>
+    <w>har</w>
+    <w>lyckats</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=53 senti=2>
+    <w>Trots</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=54>
+    <w>svenska</w>
+    <w>företag</w>
+    <w>är</w>
+    <w>”</w>
+    <w>goda</w>
+    <w>exempel</w>
+    <w>”</w>
+  </absaspan>
+  <w>väljer</w>
+  <w>den</w>
+  <w>libyska</w>
+  <w>statsledningen</w>
+  <w>att</w>
+  <w>anfalla</w>
+  <w>demokratikämpar</w>
+  <w>med</w>
+  <w>stridsflyg</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Kan</w>
+  <absaspan id=55>
+    <w>Carl</w>
+    <w>Bildts</w>
+  </absaspan>
+  <absaspan id=56 senti=2>
+    <w>undfallenhet</w>
+  </absaspan>
+  <w>i</w>
+  <w>kommentarerna</w>
+  <w>om</w>
+  <w>Libyen</w>
+  <w>ha</w>
+  <w>med</w>
+  <w>personliga</w>
+  <w>relationer</w>
+  <w>att</w>
+  <w>göra</w>
+  <w>?</w>
+  <w>Utrikesministern</w>
+  <w>har</w>
+  <w>suttit</w>
+  <w>i</w>
+  <w>styrelsen</w>
+  <w>för</w>
+  <w>det</w>
+  <absaspan id=57 senti=2>
+    <w>kontroversiella</w>
+  </absaspan>
+  <absaspan id=58>
+    <w>bolaget</w>
+    <w>Lundin</w>
+    <w>Oil</w>
+    <w>/</w>
+    <w>Lundin</w>
+    <w>Petroleum</w>
+  </absaspan>
+  <w>.</w>
+  <w>På</w>
+  <w>hemsidan</w>
+  <w>listas</w>
+  <w>de</w>
+  <w>”</w>
+  <w>mest</w>
+  <w>framgångsrika</w>
+  <w>projekten</w>
+  <w>”</w>
+  <w>under</w>
+  <w>åren</w>
+  <w>.</w>
+  <w>1998</w>
+  <w>upptäcktes</w>
+  <w>två</w>
+  <w>oljefält</w>
+  <w>i</w>
+  <w>Libyen</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>”</w>
+  <w>Efter</w>
+  <w>ett</w>
+  <w>framgångsrikt</w>
+  <w>utvärderingsprogram</w>
+  <w>under</w>
+  <w>1998</w>
+  <w>och</w>
+  <w>1999</w>
+  <w>deklarerades</w>
+  <w>fältet</w>
+  <w>kommersiellt</w>
+  <w>och</w>
+  <w>utbyggnadsprogrammet</w>
+  <w>påbörjades</w>
+  <w>[</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>]</w>
+  <w>Utvinningsbara</w>
+  <w>reserver</w>
+  <w>uppskattades</w>
+  <w>till</w>
+  <w>cirka</w>
+  <w>100</w>
+  <w>miljoner</w>
+  <w>fat</w>
+  <w>olja</w>
+  <w>”</w>
+  <w>,</w>
+  <w>skriver</w>
+  <w>Lundin</w>
+  <w>Petroleum</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>Bolaget</w>
+  <w>som</w>
+  <w>Carl</w>
+  <w>Bildt</w>
+  <w>satt</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>i</w>
+  <w>styrelsen</w>
+  <w>för</w>
+  <w>mellan</w>
+  <w>2000</w>
+  <w>och</w>
+  <w>2006</w>
+  <w>har</w>
+  <w>alltså</w>
+  <w>gjort</w>
+  <w>framgångsrika</w>
+  <w>oljeaffärer</w>
+  <w>med</w>
+  <w>Libyen</w>
+  <w>.</w>
+  <absaspan id=59 senti=2>
+    <w>Det</w>
+    <w>är</w>
+    <w>svårt</w>
+    <w>att</w>
+    <w>tro</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=60>
+    <w>affärerna</w>
+    <w>tog</w>
+    <w>några</w>
+    <w>större</w>
+    <w>hänsyn</w>
+    <w>till</w>
+    <w>mänskliga</w>
+    <w>rättigheter</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>I</w>
+  <w>Sudan</w>
+  <w>har</w>
+  <absaspan id=61>
+    <w>Lundin</w>
+    <w>Oil</w>
+    <w>/</w>
+    <w>Lundin</w>
+    <w>Petroleum</w>
+  </absaspan>
+  <absaspan id=62 senti=2>
+    <w>anklagats</w>
+    <w>för</w>
+    <w>brott</w>
+    <w>mot</w>
+    <w>mänskligheten</w>
+  </absaspan>
+  <absaspan id=63>
+    <w>.</w>
+  </absaspan>
+  <w>Människorättsorganisationen</w>
+  <w>Human</w>
+  <w>Rights</w>
+  <w>Watch</w>
+  <w>uppger</w>
+  <w>att</w>
+  <w>militärtrupper</w>
+  <w>anlände</w>
+  <w>direkt</w>
+  <w>till</w>
+  <w>den</w>
+  <w>plats</w>
+  <w>där</w>
+  <w>Lundingruppen</w>
+  <w>skulle</w>
+  <w>borra</w>
+  <w>.</w>
+  <w>Lokala</w>
+  <w>ledare</w>
+  <w>beordrades</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>med</w>
+  <w>sig</w>
+  <w>folket</w>
+  <w>därifrån</w>
+  <w>,</w>
+  <w>annars</w>
+  <w>skulle</w>
+  <w>de</w>
+  <w>dödas</w>
+  <w>.</w>
+  <w>Sedan</w>
+  <w>brändes</w>
+  <w>bostäder</w>
+  <w>och</w>
+  <w>kyrkor</w>
+  <w>ner</w>
+  <w>.</w>
+</absapar>
+<absapar id=19>
+  <w>Lundingruppen</w>
+  <w>verkade</w>
+  <w>samtidigt</w>
+  <w>i</w>
+  <w>Sudan</w>
+  <w>och</w>
+  <w>Libyen</w>
+  <w>.</w>
+  <w>Om</w>
+  <absaspan id=64>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=65 senti=2>
+    <w>struntade</w>
+    <w>i</w>
+    <w>mänskliga</w>
+    <w>rättigheter</w>
+    <w>i</w>
+    <w>Sudan</w>
+  </absaspan>
+  <w>var</w>
+  <w>de</w>
+  <w>knappast</w>
+  <w>några</w>
+  <w>människorättskämpar</w>
+  <w>i</w>
+  <w>Libyen</w>
+  <w>.</w>
+</absapar>
+<absapar id=20 senti=4>
+  <absaspan id=66>
+    <w>Carl</w>
+    <w>Bildt</w>
+  </absaspan>
+  <absaspan id=67 senti=2>
+    <w>verkar</w>
+    <w>kapabel</w>
+    <w>att</w>
+    <w>tolerera</w>
+    <w>brott</w>
+    <w>mot</w>
+    <w>mänskliga</w>
+    <w>rättigheter</w>
+  </absaspan>
+  <w>–</w>
+  <w>både</w>
+  <w>när</w>
+  <w>det</w>
+  <w>gäller</w>
+  <w>privata</w>
+  <w>och</w>
+  <w>statliga</w>
+  <w>affärer</w>
+  <w>med</w>
+  <w>diktaturer</w>
+  <w>.</w>
+  <w>Om</w>
+  <absaspan id=68>
+    <w>Bildt</w>
+  </absaspan>
+  <absaspan id=69 senti=4>
+    <w>sympatiserar</w>
+    <w>med</w>
+  </absaspan>
+  <w>något</w>
+  <w>under</w>
+  <w>den</w>
+  <w>pågående</w>
+  <w>revolutionen</w>
+  <w>i</w>
+  <w>Libyen</w>
+  <w>så</w>
+  <w>är</w>
+  <w>det</w>
+  <w>med</w>
+  <absaspan id=70>
+    <w>Italiens</w>
+    <w>oro</w>
+    <w>för</w>
+    <w>”</w>
+    <w>flyktingströmmar</w>
+  </absaspan>
+  <w>”</w>
+  <w>.</w>
+  <w>I</w>
+  <w>Italien</w>
+  <w>styr</w>
+  <w>Beslusconi</w>
+  <w>,</w>
+  <w>god</w>
+  <w>vän</w>
+  <w>med</w>
+  <w>Libyens</w>
+  <w>Gaddafi</w>
+  <w>.</w>
+</absapar>
+<absapar id=21>
+  <absaspan id=71>
+    <w>Maktens</w>
+    <w>män</w>
+  </absaspan>
+  <w>håller</w>
+  <w>ihop</w>
+  <w>mot</w>
+  <absaspan id=72>
+    <w>människorna</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=73 senti=4>
+    <w>längtar</w>
+    <w>efter</w>
+  </absaspan>
+  <absaspan id=74>
+    <w>frihet</w>
+    <w>och</w>
+    <w>demokrati</w>
+  </absaspan>
+  <absaspan id=75 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Sveriges</w>
+  <w>utrikesminister</w>
+  <absaspan id=76>
+    <w>Carl</w>
+    <w>Bildt</w>
+  </absaspan>
+  <w>är</w>
+  <w>en</w>
+  <w>av</w>
+  <w>dessa</w>
+  <w>män</w>
+  <absaspan id=77 senti=2>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=78 senti=2>
+    <w>Det</w>
+    <w>är</w>
+    <w>så</w>
+    <w>att</w>
+    <w>man</w>
+    <w>skäms</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=22>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+<absapar id=23>
+  <w>Åsa</w>
+  <w>Petersen</w>
+  <w>,</w>
+  <w>34</w>
+  <w>,</w>
+  <w>Luleå</w>
+  <w>.</w>
+  <w>Frilansjournalist</w>
+  <w>.</w>
+</absapar>
+<absapar id=24>
+  <w>Åsa</w>
+  <w>Petersen</w>
+  <w>.</w>
+</absapar>
+</absadoc>

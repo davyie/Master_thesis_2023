@@ -1,0 +1,46 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Lotta</w>
+    <w>Bromé</w>
+  </absaspan>
+  <w>utreds</w>
+  <w>för</w>
+  <absaspan id=2 senti=1 target=1>
+    <w>sextrakasserier</w>
+  </absaspan>
+  <w>2017</w>
+  <w>-</w>
+  <w>11</w>
+  <w>-</w>
+  <w>05</w>
+  <w>(</w>
+  <w>/</w>
+  <w>mod</w>
+  <w>)</w>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>En</w>
+  <w>kvinna</w>
+  <w>den</w>
+  <w>hår</w>
+  <w>gången</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Och</w>
+  <absaspan id=4>
+    <w>SR</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>vägrar</w>
+    <w>kommentera</w>
+    <w>något</w>
+    <w>alls</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

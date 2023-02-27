@@ -1,0 +1,282 @@
+<absadoc annotators=1 senti=5>
+<absatitle>
+  <w>Är</w>
+  <w>verkligen</w>
+  <absaspan id=1>
+    <w>massinvandring</w>
+  </absaspan>
+  <w>så</w>
+  <absaspan id=2 senti=1 target=1 source=3>
+    <w>dåligt</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=4>
+  <absaspan id=4>
+    <w>Jag</w>
+  </absaspan>
+  <w>tror</w>
+  <w>att</w>
+  <absaspan id=5>
+    <w>massinvandring</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=6 senti=1>
+    <w>negativt</w>
+    <w>rent</w>
+    <w>ekonomiskt</w>
+    <w>på</w>
+    <w>kort</w>
+    <w>sikt</w>
+  </absaspan>
+  <w>(</w>
+  <w>finns</w>
+  <w>oändligt</w>
+  <w>med</w>
+  <w>fakta</w>
+  <w>som</w>
+  <w>konstaterar</w>
+  <w>detta</w>
+  <w>)</w>
+  <w>.</w>
+  <absaspan id=7>
+    <w>Jag</w>
+  </absaspan>
+  <w>tror</w>
+  <w>dock</w>
+  <w>samtidigt</w>
+  <w>att</w>
+  <absaspan id=8>
+    <w>det</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=9 senti=5>
+    <w>väldigt</w>
+    <w>positivt</w>
+    <w>på</w>
+    <w>lång</w>
+    <w>sikt</w>
+    <w>rent</w>
+    <w>kulturellt</w>
+    <w>och</w>
+    <w>ekonomiskt</w>
+  </absaspan>
+  <w>och</w>
+  <w>jag</w>
+  <w>ska</w>
+  <w>förklara</w>
+  <w>varför</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=10 senti=1>
+    <w>Det</w>
+    <w>värsta</w>
+    <w>jag</w>
+    <w>vet</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>feminister</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=12>
+    <w>HBTQ-förespråkare</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=13>
+    <w>paranoida</w>
+    <w>krigshetsande</w>
+    <w>russofober</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=14>
+    <w>extremistiska</w>
+    <w>liberaler</w>
+  </absaspan>
+  <w>(</w>
+  <w>de</w>
+  <w>som</w>
+  <w>är</w>
+  <w>anledningen</w>
+  <w>till</w>
+  <w>dagens</w>
+  <w>situation</w>
+  <w>)</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>dessa</w>
+  <w>har</w>
+  <w>gemensamt</w>
+  <w>är</w>
+  <w>att</w>
+  <w>de</w>
+  <w>har</w>
+  <w>extremt</w>
+  <w>låga</w>
+  <w>födelsetal</w>
+  <w>och</w>
+  <w>håller</w>
+  <w>på</w>
+  <w>att</w>
+  <w>dö</w>
+  <w>ut</w>
+  <w>som</w>
+  <w>grupp</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=5>
+  <absaspan id=15>
+    <w>Invandrarna</w>
+  </absaspan>
+  <w>som</w>
+  <w>kommer</w>
+  <w>hit</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>något</w>
+  <w>av</w>
+  <w>detta</w>
+  <w>,</w>
+  <w>dom</w>
+  <w>är</w>
+  <w>konservativa</w>
+  <absaspan id=16 senti=5>
+    <w>med</w>
+    <w>vettiga</w>
+    <w>åsikter</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=17>
+    <w>Dom</w>
+  </absaspan>
+  <absaspan id=18 senti=5>
+    <w>står</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>kärnfamiljen</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=20 senti=1>
+    <w>ogillar</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>feminism</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=22>
+    <w>HBTQ</w>
+  </absaspan>
+  <w>.</w>
+  <w>Dessa</w>
+  <w>föder</w>
+  <w>även</w>
+  <w>mycket</w>
+  <w>barn</w>
+  <w>och</w>
+  <w>växer</w>
+  <w>så</w>
+  <w>det</w>
+  <w>knakar</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=5>
+  <w>Med</w>
+  <w>tiden</w>
+  <w>så</w>
+  <w>kommer</w>
+  <w>invandrarna</w>
+  <w>att</w>
+  <w>ändra</w>
+  <w>opinionen</w>
+  <w>tillbaka</w>
+  <w>till</w>
+  <w>de</w>
+  <w>åsikter</w>
+  <w>och</w>
+  <w>värderingar</w>
+  <w>som</w>
+  <w>Sverige</w>
+  <w>en</w>
+  <w>gång</w>
+  <w>grundades</w>
+  <w>på</w>
+  <w>.</w>
+  <absaspan id=23>
+    <w>De</w>
+    <w>åsikter</w>
+    <w>och</w>
+    <w>värderingar</w>
+  </absaspan>
+  <absaspan id=24 senti=5>
+    <w>som</w>
+    <w>fick</w>
+    <w>Sverige</w>
+    <w>att</w>
+    <w>bli</w>
+    <w>till</w>
+    <w>ett</w>
+    <w>rikt</w>
+    <w>land</w>
+  </absaspan>
+  <w>.</w>
+  <w>De</w>
+  <w>svenskar</w>
+  <w>som</w>
+  <w>lever</w>
+  <w>idag</w>
+  <w>är</w>
+  <w>ljusår</w>
+  <w>ifrån</w>
+  <w>de</w>
+  <w>svenskar</w>
+  <w>som</w>
+  <w>skapade</w>
+  <w>Sverige</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=25>
+    <w>Jag</w>
+  </absaspan>
+  <w>röstar</w>
+  <w>normalt</w>
+  <w>SD</w>
+  <w>men</w>
+  <w>kommer</w>
+  <w>i</w>
+  <w>nästa</w>
+  <w>val</w>
+  <w>att</w>
+  <w>taktiskt</w>
+  <w>rösta</w>
+  <w>på</w>
+  <absaspan id=26 senti=1>
+    <w>idiotpartiet</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>MP</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=28 senti=5>
+    <w>underminera</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>feminister</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=30>
+    <w>liberaler</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=31>
+    <w>HBTQ</w>
+  </absaspan>
+  <w>etc</w>
+  <w>.</w>
+</absapar>
+</absadoc>

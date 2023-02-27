@@ -1,0 +1,963 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Slopa</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>åldersgränser</w>
+    <w>inom</w>
+    <w>sjukvården</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ett</w>
+  <absaspan id=3>
+    <w>förslag</w>
+    <w>till</w>
+    <w>ny</w>
+    <w>lagstiftning</w>
+    <w>mot</w>
+    <w>diskriminering</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>riskerar</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=5>
+    <w>just</w>
+    <w>bidra</w>
+    <w>till</w>
+    <w>ökad</w>
+    <w>diskriminering</w>
+    <w>på</w>
+    <w>grund</w>
+    <w>av</w>
+    <w>ålder</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>förslagen</w>
+  <w>finns</w>
+  <w>en</w>
+  <w>skrivning</w>
+  <w>där</w>
+  <w>klartecken</w>
+  <w>ges</w>
+  <w>för</w>
+  <w>att</w>
+  <w>inte</w>
+  <w>kalla</w>
+  <w>äldre</w>
+  <w>kvinnor</w>
+  <w>till</w>
+  <w>mammografi-screening</w>
+  <w>med</w>
+  <w>hänvisning</w>
+  <w>till</w>
+  <w>ålder</w>
+  <w>.</w>
+  <w>Detta</w>
+  <absaspan id=6 senti=2>
+    <w>riskerar</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=7>
+    <w>bli</w>
+    <w>ett</w>
+    <w>ödesdigert</w>
+    <w>prejudikat</w>
+  </absaspan>
+  <w>,</w>
+  <w>skriver</w>
+  <absaspan id=8>
+    <w>Alexandra</w>
+    <w>Charles</w>
+    <w>och</w>
+    <w>Margó</w>
+    <w>Ingvardsson</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=9 senti=2>
+    <w>Fördomar</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>mot</w>
+    <w>äldre</w>
+  </absaspan>
+  <w>som</w>
+  <w>leder</w>
+  <w>till</w>
+  <absaspan id=11 senti=2>
+    <w>ringaktning</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=12 senti=2>
+    <w>diskriminering</w>
+  </absaspan>
+  <w>skapar</w>
+  <w>inga</w>
+  <w>rubriker.Alexandra</w>
+  <w>Charles</w>
+  <w>och</w>
+  <w>Margó</w>
+  <w>Ingvardsson</w>
+  <absaspan id=13>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Hur</w>
+  <w>är</w>
+  <w>det</w>
+  <w>möjligt</w>
+  <w>att</w>
+  <w>en</w>
+  <w>utredning</w>
+  <w>med</w>
+  <w>uppgift</w>
+  <w>att</w>
+  <w>föreslå</w>
+  <w>ett</w>
+  <w>förstärkt</w>
+  <w>skydd</w>
+  <w>mot</w>
+  <absaspan id=14 senti=2>
+    <w>åldersdiskriminering</w>
+  </absaspan>
+  <w>,</w>
+  <w>kan</w>
+  <absaspan id=15 senti=2>
+    <w>förorda</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=16>
+    <w>åldersdiskriminering</w>
+    <w>skall</w>
+    <w>legitimeras</w>
+    <w>i</w>
+    <w>vissa</w>
+    <w>fall</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Gör</w>
+  <w>ett</w>
+  <w>tankeexpriment</w>
+  <w>att</w>
+  <w>det</w>
+  <w>istället</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>förstärkt</w>
+  <w>skydd</w>
+  <w>mot</w>
+  <absaspan id=17 senti=2>
+    <w>diskriminering</w>
+  </absaspan>
+  <w>av</w>
+  <w>homosexualitet</w>
+  <w>eller</w>
+  <w>annan</w>
+  <w>etnicitet</w>
+  <w>än</w>
+  <w>svensk</w>
+  <w>,</w>
+  <w>och</w>
+  <w>utredningen</w>
+  <w>skulle</w>
+  <w>föreslå</w>
+  <w>att</w>
+  <w>om</w>
+  <w>likabehandling</w>
+  <w>medför</w>
+  <w>ökade</w>
+  <w>kostnader</w>
+  <w>så</w>
+  <w>skall</w>
+  <w>skyddslagen</w>
+  <w>inte</w>
+  <w>gälla</w>
+  <w>?</w>
+  <w>Då</w>
+  <w>skulle</w>
+  <w>med</w>
+  <w>all</w>
+  <w>säkerhet</w>
+  <w>denna</w>
+  <absaspan id=18 senti=1>
+    <w>uppenbara</w>
+    <w>homofobi</w>
+    <w>och</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>skapa</w>
+  <w>rubriker</w>
+  <w>i</w>
+  <w>medierna</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=19 senti=2>
+    <w>ålderism</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=20 senti=2>
+    <w>fördomar</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>mot</w>
+    <w>äldre</w>
+  </absaspan>
+  <w>som</w>
+  <w>leder</w>
+  <w>till</w>
+  <absaspan id=22 senti=2>
+    <w>ringaktning</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=23 senti=2>
+    <w>diskriminering</w>
+  </absaspan>
+  <w>skapar</w>
+  <w>inga</w>
+  <w>rubriker</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>I</w>
+  <w>grunden</w>
+  <w>är</w>
+  <w>det</w>
+  <absaspan id=24>
+    <w>ålderismen</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=25 senti=2>
+    <w>möjliggör</w>
+    <w>dagens</w>
+    <w>äldrevårdsskandaler</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>På</w>
+  <w>regeringens</w>
+  <w>bord</w>
+  <w>ligger</w>
+  <w>nu</w>
+  <w>ett</w>
+  <w>utredningensbetänkande</w>
+  <w>,</w>
+  <w>SOU</w>
+  <w>:</w>
+  <w>2010</w>
+  <w>/</w>
+  <w>60</w>
+  <w>.</w>
+  <w>Utredningens</w>
+  <w>uppdrag</w>
+  <w>har</w>
+  <w>varit</w>
+  <w>att</w>
+  <w>säkerställa</w>
+  <w>samma</w>
+  <w>nivå</w>
+  <w>av</w>
+  <w>skydd</w>
+  <w>mot</w>
+  <absaspan id=26 senti=2>
+    <w>diskriminering</w>
+  </absaspan>
+  <w>oavsett</w>
+  <w>diskrimineringsgrund</w>
+  <w>.</w>
+  <w>I</w>
+  <w>den</w>
+  <w>lagstiftning</w>
+  <w>som</w>
+  <w>finns</w>
+  <w>idag</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>skyddet</w>
+  <w>mot</w>
+  <absaspan id=27 senti=2>
+    <w>diskriminering</w>
+  </absaspan>
+  <w>på</w>
+  <w>grund</w>
+  <w>av</w>
+  <w>ålder</w>
+  <w>lika</w>
+  <w>omfattande</w>
+  <w>som</w>
+  <w>för</w>
+  <w>de</w>
+  <w>andra</w>
+  <w>diskrimineringsgrunderna</w>
+  <w>.</w>
+  <w>Därför</w>
+  <w>har</w>
+  <w>utredningen</w>
+  <w>haft</w>
+  <w>i</w>
+  <w>uppdrag</w>
+  <w>att</w>
+  <w>utöka</w>
+  <w>skyddet</w>
+  <w>till</w>
+  <w>att</w>
+  <w>även</w>
+  <w>gälla</w>
+  <w>varor</w>
+  <w>,</w>
+  <w>tjänster</w>
+  <w>och</w>
+  <w>bostäder</w>
+  <w>,</w>
+  <w>allmän</w>
+  <w>sammankomst</w>
+  <w>och</w>
+  <w>offentlig</w>
+  <w>tillställning</w>
+  <w>,</w>
+  <w>hälso</w>
+  <w>-</w>
+  <w>och</w>
+  <w>sjukvården</w>
+  <w>,</w>
+  <w>socialtjänsten</w>
+  <w>,</w>
+  <w>socialförsäkringen</w>
+  <w>,</w>
+  <w>arbetslöshetsförsäkringen</w>
+  <w>,</w>
+  <w>studiestöd</w>
+  <w>och</w>
+  <w>offentlig</w>
+  <w>anställning</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>En</w>
+  <absaspan id=28>
+    <w>utökad</w>
+    <w>diskrimineringslagstiftning</w>
+  </absaspan>
+  <w>är</w>
+  <w>en</w>
+  <absaspan id=29 senti=4>
+    <w>mycket</w>
+    <w>efterlängtad</w>
+    <w>reform</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=30 senti=2>
+    <w>Diskriminerande</w>
+    <w>attityder</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>äldre</w>
+  </absaspan>
+  <absaspan id=33 senti=2>
+    <w>är</w>
+  </absaspan>
+  <w>ett</w>
+  <absaspan id=34 senti=2>
+    <w>hinder</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=35 senti=4>
+    <w>tillgodose</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>äldres</w>
+    <w>rätt</w>
+    <w>till</w>
+    <w>vård</w>
+    <w>,</w>
+    <w>omsorg</w>
+    <w>,</w>
+    <w>undersökningar</w>
+    <w>och</w>
+    <w>behandlingar</w>
+    <w>i</w>
+    <w>sjukvården</w>
+  </absaspan>
+  <w>på</w>
+  <w>samma</w>
+  <w>villkor</w>
+  <w>som</w>
+  <w>yngres</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Skräddarsydda</w>
+  <w>kurser</w>
+  <w>i</w>
+  <w>ämnen</w>
+  <w>som</w>
+  <w>intresserar</w>
+  <w>och</w>
+  <w>engagerar</w>
+  <w>både</w>
+  <w>kropp</w>
+  <w>och</w>
+  <w>själ</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <absaspan id=37>
+    <w>I</w>
+    <w>utredningen</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>skall</w>
+  <w>ligga</w>
+  <w>till</w>
+  <w>grund</w>
+  <w>för</w>
+  <w>den</w>
+  <w>kommande</w>
+  <w>propositionen</w>
+  <absaspan id=38 senti=2>
+    <w>förs</w>
+  </absaspan>
+  <w>ett</w>
+  <absaspan id=39 senti=2>
+    <w>märkligt</w>
+  </absaspan>
+  <absaspan id=40 senti=2>
+    <w>resonemang</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=41 senti=2>
+    <w>åldersdiskriminering</w>
+  </absaspan>
+  <w>när</w>
+  <w>det</w>
+  <w>gäller</w>
+  <w>vilka</w>
+  <w>som</w>
+  <w>kallas</w>
+  <w>till</w>
+  <w>mammografi-screening</w>
+  <w>.</w>
+  <w>Utredningens</w>
+  <w>slutsats</w>
+  <w>är</w>
+  <w>att</w>
+  <w>mammografiscreeningen</w>
+  <w>bör</w>
+  <w>omfattas</w>
+  <w>av</w>
+  <w>undantag</w>
+  <w>från</w>
+  <w>diskrimineringslagstiftningen</w>
+  <w>.</w>
+  <w>Som</w>
+  <w>skäl</w>
+  <w>anförs</w>
+  <w>att</w>
+  <w>socialstyrelsens</w>
+  <w>riktlinjer</w>
+  <w>inte</w>
+  <w>är</w>
+  <w>bindande</w>
+  <w>för</w>
+  <w>sjukvårdshuvudmännen</w>
+  <w>eftersom</w>
+  <absaspan id=42>
+    <w>kommuner</w>
+    <w>och</w>
+    <w>landsting</w>
+  </absaspan>
+  <absaspan id=43 senti=4>
+    <w>har</w>
+    <w>rätt</w>
+    <w>till</w>
+    <w>självbestämmande</w>
+  </absaspan>
+  <w>.</w>
+  <w>Visserligen</w>
+  <w>,</w>
+  <w>skriver</w>
+  <w>utredningen</w>
+  <w>,</w>
+  <absaspan id=44 senti=2>
+    <w>förbjuder</w>
+  </absaspan>
+  <absaspan id=45>
+    <w>hälso</w>
+    <w>-</w>
+    <w>och</w>
+    <w>sjukvårdslagen</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=46>
+    <w>ålder</w>
+    <w>utgör</w>
+    <w>en</w>
+    <w>prioriteringsgrund</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>då</w>
+  <w>detta</w>
+  <w>bara</w>
+  <w>är</w>
+  <w>en</w>
+  <w>ramlag</w>
+  <w>får</w>
+  <w>landstingen</w>
+  <w>själva</w>
+  <w>besluta</w>
+  <w>om</w>
+  <w>vilka</w>
+  <w>åldersgränser</w>
+  <w>som</w>
+  <w>skall</w>
+  <w>tillämpas</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Med</w>
+  <w>den</w>
+  <w>skrivningen</w>
+  <absaspan id=47 senti=4>
+    <w>legitimerar</w>
+  </absaspan>
+  <absaspan id=48>
+    <w>utredningen</w>
+  </absaspan>
+  <w>den</w>
+  <absaspan id=49>
+    <w>åldersdiskriminering</w>
+  </absaspan>
+  <w>som</w>
+  <w>nu</w>
+  <w>tillämpas</w>
+  <w>i</w>
+  <w>hälso</w>
+  <w>-</w>
+  <w>och</w>
+  <w>sjukvården</w>
+  <w>när</w>
+  <w>det</w>
+  <w>gäller</w>
+  <w>mammografiundersökningar</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>finns</w>
+  <w>skäl</w>
+  <w>att</w>
+  <absaspan id=50 senti=2>
+    <w>misstänka</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=51>
+    <w>undantaget</w>
+    <w>för</w>
+    <w>mammografin</w>
+    <w>kan</w>
+    <w>bli</w>
+    <w>prejudicerande</w>
+  </absaspan>
+  <w>även</w>
+  <w>för</w>
+  <w>andra</w>
+  <w>undersökningar</w>
+  <w>och</w>
+  <w>behandlingar</w>
+  <w>i</w>
+  <w>sjukvården</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Nästan</w>
+  <w>hälften</w>
+  <w>av</w>
+  <w>alla</w>
+  <w>landsting</w>
+  <w>följer</w>
+  <w>inte</w>
+  <w>socialstyrelsens</w>
+  <w>riktlinjer</w>
+  <w>om</w>
+  <w>att</w>
+  <w>alla</w>
+  <w>kvinnor</w>
+  <w>i</w>
+  <w>åldersgruppen</w>
+  <w>40</w>
+  <w>-</w>
+  <w>74</w>
+  <w>år</w>
+  <w>regelbundet</w>
+  <w>skall</w>
+  <w>kallas</w>
+  <w>till</w>
+  <w>allmänna</w>
+  <w>hälsokontroller</w>
+  <w>med</w>
+  <w>mammografi</w>
+  <w>för</w>
+  <w>tidig</w>
+  <w>upptäckt</w>
+  <w>av</w>
+  <w>bröstcancer</w>
+  <w>.</w>
+  <absaspan id=52 senti=2>
+    <w>Alltför</w>
+    <w>många</w>
+  </absaspan>
+  <absaspan id=53>
+    <w>landsting</w>
+  </absaspan>
+  <absaspan id=54 senti=2>
+    <w>underlåter</w>
+  </absaspan>
+  <w>att</w>
+  <w>kalla</w>
+  <w>kvinnor</w>
+  <w>som</w>
+  <w>fyllt</w>
+  <w>70</w>
+  <w>år</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>forskningen</w>
+  <w>visat</w>
+  <w>att</w>
+  <w>risken</w>
+  <w>för</w>
+  <w>bröstcancer</w>
+  <w>ökar</w>
+  <w>med</w>
+  <w>åldern</w>
+  <w>.</w>
+  <w>Medianåldern</w>
+  <w>för</w>
+  <w>insjuknande</w>
+  <w>är</w>
+  <w>64</w>
+  <w>år</w>
+  <w>.</w>
+  <w>Att</w>
+  <w>även</w>
+  <absaspan id=55>
+    <w>gruppen</w>
+    <w>över</w>
+    <w>70</w>
+    <w>år</w>
+    <w>kallas</w>
+    <w>till</w>
+    <w>screening</w>
+    <w>regelbundet</w>
+  </absaspan>
+  <absaspan id=56 senti=5>
+    <w>kan</w>
+    <w>vara</w>
+    <w>livsavgörande</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=57>
+    <w>den</w>
+    <w>enskilda</w>
+    <w>kvinnan</w>
+  </absaspan>
+  <w>.</w>
+  <w>Att</w>
+  <absaspan id=58 senti=2>
+    <w>underlåta</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=59>
+    <w>följa</w>
+    <w>socialstyrelsens</w>
+    <w>riktlinjer</w>
+  </absaspan>
+  <absaspan id=60 senti=2>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=61 senti=2>
+    <w>åldersdiskriminering</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Ytterligare</w>
+  <w>ett</w>
+  <absaspan id=62 senti=2>
+    <w>märkligt</w>
+  </absaspan>
+  <absaspan id=63>
+    <w>undantag</w>
+  </absaspan>
+  <w>försvaras</w>
+  <w>i</w>
+  <w>utredningen</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>gäller</w>
+  <w>den</w>
+  <w>rätt</w>
+  <w>till</w>
+  <w>bilstöd</w>
+  <w>som</w>
+  <w>vissa</w>
+  <w>handikapp</w>
+  <w>medför</w>
+  <w>.</w>
+  <w>Idag</w>
+  <w>är</w>
+  <w>rätten</w>
+  <w>till</w>
+  <w>bilstöd</w>
+  <w>kopplad</w>
+  <w>till</w>
+  <w>åldersgränsen</w>
+  <w>65</w>
+  <w>år</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>då</w>
+  <w>rätten</w>
+  <w>att</w>
+  <w>kvarstå</w>
+  <w>i</w>
+  <w>arbetslivet</w>
+  <w>är</w>
+  <w>fastställd</w>
+  <w>till</w>
+  <w>67</w>
+  <w>år</w>
+  <absaspan id=64 senti=4>
+    <w>borde</w>
+  </absaspan>
+  <w>även</w>
+  <absaspan id=65>
+    <w>åldersgränsen</w>
+    <w>för</w>
+    <w>rätten</w>
+    <w>till</w>
+    <w>bilstöd</w>
+  </absaspan>
+  <absaspan id=66 senti=4>
+    <w>ändras</w>
+  </absaspan>
+  <absaspan id=67 senti=4>
+    <w>.</w>
+  </absaspan>
+  <w>Annars</w>
+  <absaspan id=68 senti=2>
+    <w>blir</w>
+    <w>konsekvensen</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=69>
+    <w>den</w>
+    <w>som</w>
+    <w>på</w>
+    <w>grund</w>
+    <w>av</w>
+    <w>handikapp</w>
+  </absaspan>
+  <absaspan id=70 senti=4>
+    <w>behöver</w>
+  </absaspan>
+  <absaspan id=71>
+    <w>en</w>
+    <w>bil</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>arbeta</w>
+  <w>,</w>
+  <absaspan id=72>
+    <w>inte</w>
+    <w>har</w>
+    <w>samma</w>
+    <w>möjlighet</w>
+    <w>som</w>
+    <w>alla</w>
+    <w>andra</w>
+    <w>att</w>
+    <w>stanna</w>
+    <w>kvar</w>
+    <w>i</w>
+    <w>arbetslivet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Det</w>
+  <w>är</w>
+  <absaspan id=73>
+    <w>vår</w>
+  </absaspan>
+  <absaspan id=74 senti=4>
+    <w>förhoppning</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=75>
+    <w>regeringen</w>
+    <w>i</w>
+    <w>den</w>
+    <w>kommande</w>
+    <w>propositionen</w>
+    <w>visar</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=76>
+    <w>åldersdiskriminering</w>
+  </absaspan>
+  <absaspan id=77>
+    <w>är</w>
+    <w>lika</w>
+  </absaspan>
+  <absaspan id=78 senti=1>
+    <w>förkastligt</w>
+  </absaspan>
+  <absaspan id=79>
+    <w>som</w>
+    <w>all</w>
+    <w>annan</w>
+    <w>diskriminering</w>
+  </absaspan>
+  <w>.</w>
+  <w>Och</w>
+  <w>för</w>
+  <w>att</w>
+  <w>få</w>
+  <w>en</w>
+  <absaspan id=80 senti=4>
+    <w>verklig</w>
+    <w>attitydförändring</w>
+  </absaspan>
+  <w>till</w>
+  <absaspan id=81>
+    <w>äldre</w>
+  </absaspan>
+  <w>måste</w>
+  <absaspan id=82>
+    <w>medicinskt</w>
+    <w>omotiverade</w>
+    <w>åldersgränser</w>
+  </absaspan>
+  <absaspan id=83 senti=4>
+    <w>slopas</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=84>
+    <w>Eventuella</w>
+    <w>ekonomiska</w>
+    <w>skäl</w>
+    <w>att</w>
+    <w>fortsätta</w>
+    <w>diskrimineringen</w>
+    <w>av</w>
+    <w>äldre</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=85 senti=2>
+    <w>lika</w>
+    <w>skamligt</w>
+  </absaspan>
+  <w>som</w>
+  <w>att</w>
+  <absaspan id=86 senti=2>
+    <w>diskriminera</w>
+  </absaspan>
+  <w>någon</w>
+  <w>annan</w>
+  <w>grupp</w>
+  <w>av</w>
+  <w>kostnadsskäl</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>ALEXANDRA</w>
+  <w>CHARLES</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>MARGÓ</w>
+  <w>INGVARDSSON</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1,6</w>
+  <w>miljoner</w>
+  <w>klubben</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

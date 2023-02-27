@@ -1,0 +1,127 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Rädslan</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>bli</w>
+    <w>stämplad</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>som</w>
+    <w>rasist</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Hur</w>
+  <w>stark</w>
+  <w>är</w>
+  <absaspan id=5 senti=2>
+    <w>rädslan</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>att</w>
+    <w>bli</w>
+    <w>klassad</w>
+    <w>som</w>
+    <w>rasist</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Hur</w>
+  <w>starkt</w>
+  <w>påverkar</w>
+  <w>den</w>
+  <w>politiker</w>
+  <w>,</w>
+  <w>rättsväsende</w>
+  <w>,</w>
+  <w>polis</w>
+  <w>och</w>
+  <w>samhället</w>
+  <w>i</w>
+  <w>övrigt</w>
+  <w>?</w>
+  <absaspan id=7 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>I</w>
+  <w>UK</w>
+  <w>har</w>
+  <w>många</w>
+  <w>avstått</w>
+  <w>från</w>
+  <w>att</w>
+  <w>ingripa</w>
+  <w>vid</w>
+  <w>en</w>
+  <absaspan id=8 senti=2>
+    <w>pedofilskandal</w>
+  </absaspan>
+  <w>pga</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=9 senti=2>
+    <w>#</w>
+    <w>P</w>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>innebär</w>
+  <w>att</w>
+  <w>en</w>
+  <w>stor</w>
+  <w>mängd</w>
+  <w>barn</w>
+  <absaspan id=10 senti=2>
+    <w>får</w>
+    <w>utstå</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>sexövergrepp</w>
+  </absaspan>
+  <w>som</w>
+  <w>följd</w>
+  <w>och</w>
+  <absaspan id=12>
+    <w>mångkulturen</w>
+  </absaspan>
+  <absaspan id=13 senti=5 irony>
+    <w>segrar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=2>
+  <w>Hur</w>
+  <w>stark</w>
+  <w>är</w>
+  <w>denna</w>
+  <w>rädsla</w>
+  <w>hos</w>
+  <w>befolkningen</w>
+  <w>generellt</w>
+  <w>och</w>
+  <w>hur</w>
+  <w>stor</w>
+  <w>påverkan</w>
+  <w>har</w>
+  <w>den</w>
+  <w>?</w>
+  <absaspan id=14 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

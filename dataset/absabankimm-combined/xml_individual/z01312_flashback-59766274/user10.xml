@@ -1,0 +1,120 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Trump</w>
+  <w>sparkar</w>
+  <w>Justitieministern</w>
+  <w>med</w>
+  <w>omedelbar</w>
+  <w>effekt</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>"</w>
+  <w>Taking</w>
+  <w>action</w>
+  <w>in</w>
+  <absaspan id=1 senti=1>
+    <w>an</w>
+    <w>escalating</w>
+    <w>crisis</w>
+  </absaspan>
+  <w>for</w>
+  <w>his</w>
+  <w>10</w>
+  <w>-</w>
+  <w>day-old</w>
+  <w>administration</w>
+  <w>,</w>
+  <w>Mr</w>
+  <w>.</w>
+  <w>Trump</w>
+  <w>declared</w>
+  <w>that</w>
+  <w>Sally</w>
+  <w>Q</w>
+  <w>.</w>
+  <w>Yates</w>
+  <w>had</w>
+  <w></w>
+  <absaspan id=2 senti=1>
+    <w>betrayed</w>
+  </absaspan>
+  <w></w>
+  <w>the</w>
+  <w>administration</w>
+  <w>,</w>
+  <w>the</w>
+  <w>White</w>
+  <w>House</w>
+  <w>said</w>
+  <w>in</w>
+  <w>a</w>
+  <w>statement</w>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>"</w>
+  <w>Trump</w>
+  <w>fires</w>
+  <w>top</w>
+  <w>government</w>
+  <w>lawyer</w>
+  <w>who</w>
+  <absaspan id=3 senti=1>
+    <w>defied</w>
+  </absaspan>
+  <w>immigration</w>
+  <w>order</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>"</w>
+  <w>"</w>
+  <w>Ms</w>
+  <w>.</w>
+  <absaspan id=4>
+    <w>Yates</w>
+  </absaspan>
+  <w>is</w>
+  <w>an</w>
+  <w>Obama</w>
+  <w>Administration</w>
+  <w>appointee</w>
+  <w>who</w>
+  <absaspan id=5 senti=1>
+    <w>is</w>
+    <w>weak</w>
+    <w>on</w>
+    <w>borders</w>
+    <w>and</w>
+    <w>very</w>
+    <w>weak</w>
+    <w>on</w>
+    <w>illegal</w>
+    <w>immigration</w>
+  </absaspan>
+  <w>,</w>
+  <w>"</w>
+  <absaspan id=6>
+    <w>the</w>
+    <w>White</w>
+    <w>House</w>
+  </absaspan>
+  <w>said</w>
+  <w>in</w>
+  <w>a</w>
+  <w>statement</w>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Take</w>
+  <w>no</w>
+  <w>prisoners</w>
+  <w>.</w>
+</absapar>
+</absadoc>

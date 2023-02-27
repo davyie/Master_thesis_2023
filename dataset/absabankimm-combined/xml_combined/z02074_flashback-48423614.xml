@@ -1,0 +1,243 @@
+<absadoc annotators=8 senti=>
+<absatitle>
+  <absaspan id=1 senti=4 partof=3 source=5 target=2>
+    <w>Kan</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Sara</w>
+    <w>Skyttedal</w>
+  </absaspan>
+  <absaspan id=3 senti=4 source=5 target=2>
+    <w>rädda</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>Kristdemokraterna</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <absaspan id=6>
+    <w>Kristdemokraterna</w>
+  </absaspan>
+  <w>har</w>
+  <w>länge</w>
+  <w>pendlat</w>
+  <w>vid</w>
+  <w>riksdagsspärren</w>
+  <w>i</w>
+  <w>opinionsundersökningarna</w>
+  <w>och</w>
+  <absaspan id=7>
+    <w>partiet</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>blev</w>
+    <w>nyligen</w>
+    <w>framröstade</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>till</w>
+    <w>det</w>
+    <w>tråkigaste</w>
+    <w>partiet</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>.</w>
+  </absaspan>
+  <w>När</w>
+  <absaspan id=11>
+    <w>deras</w>
+    <w>systerpartier</w>
+    <w>i</w>
+    <w>Europa</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>samlar</w>
+    <w>stort</w>
+    <w>stöd</w>
+  </absaspan>
+  <w>så</w>
+  <absaspan id=13 senti=2>
+    <w>håller</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>de</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>nästan</w>
+  <absaspan id=15 senti=2>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>att</w>
+    <w>tyna</w>
+    <w>bort</w>
+    <w>då</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>inte</w>
+    <w>verkar</w>
+    <w>stå</w>
+    <w>för</w>
+    <w>någon</w>
+    <w>politik</w>
+    <w>alls</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Kan</w>
+  <w>det</w>
+  <w>dock</w>
+  <w>bli</w>
+  <w>så</w>
+  <w>att</w>
+  <absaspan id=20>
+    <w>denna</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>Sara</w>
+    <w>Skyttedal</w>
+  </absaspan>
+  <absaspan id=22 senti=4>
+    <w>seglar</w>
+    <w>upp</w>
+    <w>som</w>
+    <w>KD</w>
+    <w>:</w>
+    <w>s</w>
+    <w>Messias</w>
+    <w>och</w>
+    <w>frälser</w>
+    <w>partiet</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>med</w>
+    <w>ökat</w>
+    <w>väljarstöd</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>?</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>Hon</w>
+  </absaspan>
+  <w>har</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>gjort</w>
+  <w>sig</w>
+  <w>känd</w>
+  <w>för</w>
+  <w>sin</w>
+  <w>liberala</w>
+  <w>syn</w>
+  <w>på</w>
+  <w>lättare</w>
+  <w>droger</w>
+  <w>som</w>
+  <w>cannabis</w>
+  <w>,</w>
+  <absaspan id=26 senti=4>
+    <w>talat</w>
+    <w>klarspråk</w>
+    <w>om</w>
+    <w>tiggarna</w>
+  </absaspan>
+  <w>och</w>
+  <w>sedan</w>
+  <absaspan id=27 senti=4>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>hon</w>
+  </absaspan>
+  <absaspan id=29 senti=4>
+    <w>rätt</w>
+    <w>het</w>
+  </absaspan>
+  <absaspan id=30 senti=4>
+    <w>också</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Idolbilder</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Tänkte</w>
+  <w>vi</w>
+  <w>kunde</w>
+  <w>diskutera</w>
+  <absaspan id=31 senti=5>
+    <w>hennes</w>
+  </absaspan>
+  <absaspan id=32 senti=5>
+    <w>stordåd</w>
+  </absaspan>
+  <w>,</w>
+  <w>politiska</w>
+  <w>framtid</w>
+  <w>och</w>
+  <w>hypotetiska</w>
+  <w>framtida</w>
+  <w>partiledarroll</w>
+  <w>.</w>
+  <absaspan id=33>
+    <w>Även</w>
+  </absaspan>
+  <absaspan id=34 senti=2>
+    <w>ni</w>
+    <w>som</w>
+    <w>inte</w>
+    <w>tycker</w>
+    <w>om</w>
+    <w>KD</w>
+  </absaspan>
+  <absaspan id=35 senti=4>
+    <w>kan</w>
+    <w>hylla</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>henne</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=37 senti=4>
+    <w>Kommer</w>
+    <w>det</w>
+    <w>fram</w>
+    <w>att</w>
+    <w>Flashback</w>
+    <w>vill</w>
+    <w>ha</w>
+    <w>henne</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>som</w>
+    <w>sin</w>
+    <w>förbundskansler</w>
+  </absaspan>
+  <w>så</w>
+  <absaspan id=39 senti=2>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=40 senti=2>
+    <w>hennes</w>
+    <w>framtid</w>
+    <w>rätt</w>
+    <w>körd</w>
+  </absaspan>
+  <w>iaf</w>
+  <w>.</w>
+</absapar>
+</absadoc>

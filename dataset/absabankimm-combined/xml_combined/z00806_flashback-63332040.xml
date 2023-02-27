@@ -1,0 +1,169 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Expressen</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=2 senti=4 target=3 source=1>
+    <w>Äntligen</w>
+    <w>är</w>
+    <w>tiden</w>
+    <w>inne</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=3>
+    <w>en</w>
+    <w>S</w>
+    <w>&</w>
+    <w>M-regering</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Enligt</w>
+  <absaspan id=4>
+    <w>Expressens</w>
+    <w>krönikör</w>
+    <w>,</w>
+    <w>Anna</w>
+    <w>Dahlberg</w>
+  </absaspan>
+  <w>,</w>
+  <w>så</w>
+  <w>är</w>
+  <absaspan id=5 senti=4>
+    <w>tiden</w>
+    <w>äntligen</w>
+    <w>mogen</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=6>
+    <w>en</w>
+    <w>S</w>
+    <w>&</w>
+    <w>M-regering</w>
+    <w>blir</w>
+    <w>verklighet</w>
+    <w>efter</w>
+    <w>höstens</w>
+    <w>val</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>säger</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Är</w>
+  <w>det</w>
+  <w>inte</w>
+  <absaspan id=7 senti=4>
+    <w>äntligen</w>
+    <w>dags</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>för</w>
+    <w>Decemberöverenskommelsen</w>
+    <w>att</w>
+    <w>bortse</w>
+    <w>från</w>
+    <w>alla</w>
+    <w>krussiduller</w>
+    <w>och</w>
+    <w>bara</w>
+    <w>köra</w>
+    <w>på</w>
+    <w>med</w>
+    <w>en</w>
+    <w>100%</w>
+    <w>etablissemangsregering</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Detta</w>
+  <w>så</w>
+  <w>klart</w>
+  <w>för</w>
+  <w>att</w>
+  <w>i</w>
+  <w>slutändan</w>
+  <absaspan id=9 senti=4>
+    <w>säkra</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>att</w>
+    <w>SD</w>
+    <w>aldrig</w>
+    <w>någonsin</w>
+    <w>,</w>
+    <w>aldrig</w>
+    <w>någon</w>
+    <w>gång</w>
+    <w>får</w>
+    <w>inflytande</w>
+    <w>över</w>
+    <w>politiken</w>
+  </absaspan>
+  <w>.</w>
+  <w>Även</w>
+  <w>om</w>
+  <w>SD</w>
+  <w>med</w>
+  <w>råge</w>
+  <w>skulle</w>
+  <w>bli</w>
+  <w>landets</w>
+  <w>största</w>
+  <w>parti</w>
+  <w>.</w>
+  <w>Därför</w>
+  <w>krävs</w>
+  <w>det</w>
+  <w>att</w>
+  <w>man</w>
+  <w>är</w>
+  <w>beredd</w>
+  <w>att</w>
+  <w>smutsa</w>
+  <w>ner</w>
+  <w>fingrarna</w>
+  <w>,</w>
+  <w>så</w>
+  <w>som</w>
+  <w>Annie</w>
+  <w>sa</w>
+  <w>,</w>
+  <w>och</w>
+  <w>göra</w>
+  <w>allt</w>
+  <w>möjligt</w>
+  <w>för</w>
+  <w>att</w>
+  <w>Sveriges</w>
+  <w>kanske</w>
+  <w>största</w>
+  <w>parti</w>
+  <w>aldrig</w>
+  <w>får</w>
+  <w>inflytande</w>
+  <w>över</w>
+  <w>makten</w>
+  <w>i</w>
+  <w>landet</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Vad</w>
+  <w>säger</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

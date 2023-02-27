@@ -1,0 +1,242 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=1 target=2>
+    <w>skandaliserar</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>SD</w>
+    <w>:</w>
+    <w>are</w>
+    <w>som</w>
+    <w>jagar</w>
+    <w>vilt</w>
+    <w>i</w>
+    <w>Afrika</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Hittade</w>
+  <absaspan id=4 senti=3>
+    <w>märkligt</w>
+    <w>nog</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>ingen</w>
+    <w>tråd</w>
+    <w>om</w>
+    <w>detta</w>
+    <w>här</w>
+    <w>på</w>
+    <w>FB</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Angelo</w>
+  <w>Vukasovic</w>
+  <w>är</w>
+  <w>SD-politikern</w>
+  <w>som</w>
+  <w>var</w>
+  <w>nere</w>
+  <w>i</w>
+  <w>Afrika</w>
+  <w>och</w>
+  <w>sköt</w>
+  <w>en</w>
+  <w>massa</w>
+  <w>djur</w>
+  <w>,</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>lejon</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>han</w>
+  <w>lade</w>
+  <w>upp</w>
+  <w>bilder</w>
+  <w>på</w>
+  <w>djuren</w>
+  <w>som</w>
+  <w>han</w>
+  <w>sköt</w>
+  <w>på</w>
+  <w>nätet</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>så</w>
+  <w>la</w>
+  <w>han</w>
+  <w>även</w>
+  <w>upp</w>
+  <w>bilder</w>
+  <w>på</w>
+  <w>när</w>
+  <w>han</w>
+  <w>äter</w>
+  <w>upp</w>
+  <w>djuren</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Ärligt</w>
+  <w>talat</w>
+  <w>,</w>
+  <w>jag</w>
+  <w>förstår</w>
+  <w>inte</w>
+  <w>varför</w>
+  <w>den</w>
+  <w>här</w>
+  <w>artikeln</w>
+  <w>är</w>
+  <w>intressant</w>
+  <w>på</w>
+  <w>något</w>
+  <w>sätt</w>
+  <w>.</w>
+  <w>Varken</w>
+  <w>SD</w>
+  <w>eller</w>
+  <w>Vukasovic</w>
+  <w>har</w>
+  <w>likt</w>
+  <absaspan id=6>
+    <w>vänsteraktivister</w>
+  </absaspan>
+  <w>hävdat</w>
+  <w>sig</w>
+  <w>vara</w>
+  <absaspan id=7 senti=5 irony>
+    <w>världens</w>
+    <w>främst</w>
+    <w>djurrättsaktivister</w>
+  </absaspan>
+  <w>.</w>
+  <w>Tvärt</w>
+  <w>om</w>
+  <w>har</w>
+  <w>SD</w>
+  <w>i</w>
+  <w>flera</w>
+  <w>debatter</w>
+  <w>i</w>
+  <w>Riksdagen</w>
+  <w>värnat</w>
+  <w>om</w>
+  <w>jägarens</w>
+  <w>rätt</w>
+  <w>i</w>
+  <w>den</w>
+  <w>typen</w>
+  <w>av</w>
+  <w>frågor</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=8>
+    <w>Men</w>
+  </absaspan>
+  <w>tar</w>
+  <w>upp</w>
+  <w>det</w>
+  <w>som</w>
+  <w>någon</w>
+  <absaspan id=9 senti=1>
+    <w>stor</w>
+    <w>skandal</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>att</w>
+    <w>Vukasovic</w>
+    <w>sysslar</w>
+    <w>med</w>
+    <w>sport-jakt</w>
+    <w>i</w>
+    <w>Afrika</w>
+  </absaspan>
+  <w>.</w>
+  <w>Motiveringen</w>
+  <w>verkar</w>
+  <w>bara</w>
+  <w>vara</w>
+  <w>att</w>
+  <w>försöka</w>
+  <absaspan id=11 senti=1>
+    <w>skandalisera</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>Vukasovic</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=13>
+    <w>SD</w>
+    <w>överlag</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <absaspan id=15 senti=2>
+    <w>Märkligt</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=16>
+    <w>att</w>
+    <w>de</w>
+    <w>även</w>
+    <w>intervjuar</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>någon</w>
+    <w>djurrätts</w>
+    <w>expert</w>
+  </absaspan>
+  <w>som</w>
+  <w>tydligen</w>
+  <absaspan id=18 senti=1>
+    <w>är</w>
+    <w>väldigt</w>
+    <w>kritisk</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>SD</w>
+    <w>:</w>
+    <w>arens</w>
+    <w>agerande</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Hur</w>
+  <w>ser</w>
+  <w>ni</w>
+  <w>på</w>
+  <absaspan id=20 senti=4>
+    <w>nyhetsvärdet</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=21>
+    <w>s</w>
+  </absaspan>
+  <absaspan id=22 senti=1>
+    <w>skandalisering</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>SD-politikern</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=25>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

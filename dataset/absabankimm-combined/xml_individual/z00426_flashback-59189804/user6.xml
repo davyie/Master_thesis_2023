@@ -1,0 +1,222 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Svenska</w>
+  <w>lögner</w>
+  <w>om</w>
+  <w>Ryssland</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Återigen</w>
+  <w>har</w>
+  <absaspan id=1 senti=2>
+    <w>svensk</w>
+    <w>regim-TV</w>
+  </absaspan>
+  <w>skickat</w>
+  <w>en</w>
+  <w>reporter</w>
+  <w>till</w>
+  <w>Moskva</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=2 senti=2>
+    <w>fabricera</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>färska</w>
+    <w>lögner</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=4 senti=2>
+    <w>Propagandisten</w>
+  </absaspan>
+  <w>inleder</w>
+  <w>sitt</w>
+  <w>reportage</w>
+  <w>med</w>
+  <w>orden</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>(</w>
+  <w>Spola</w>
+  <w>fram</w>
+  <w>tills</w>
+  <w>det</w>
+  <w>återstår</w>
+  <w>ca</w>
+  <w>09.30</w>
+  <w>av</w>
+  <w>sändningen</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Reportern</w>
+  <w>påstår</w>
+  <w>alltså</w>
+  <w>att</w>
+  <w>ryska</w>
+  <w>staten</w>
+  <w>påstår</w>
+  <w>att</w>
+  <w>HIV-smittade</w>
+  <w>"</w>
+  <w>inte</w>
+  <w>finns</w>
+  <w>"</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>om</w>
+  <w>det</w>
+  <w>vore</w>
+  <w>sant</w>
+  <w>att</w>
+  <w>staten</w>
+  <w>påstår</w>
+  <w>att</w>
+  <w>det</w>
+  <w>"</w>
+  <w>inte</w>
+  <w>finns</w>
+  <w>"</w>
+  <w>några</w>
+  <w>HIV-smittade</w>
+  <w>,</w>
+  <w>varför</w>
+  <w>skulle</w>
+  <w>då</w>
+  <w>staten</w>
+  <w>lägga</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>en</w>
+  <w>halv</w>
+  <w>miljard</w>
+  <w>dollar</w>
+  <w>på</w>
+  <w>att</w>
+  <w>lösa</w>
+  <w>problemet</w>
+  <w>med</w>
+  <w>HIV-epidemin</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Om</w>
+  <w>det</w>
+  <w>vore</w>
+  <w>sant</w>
+  <w>att</w>
+  <w>staten</w>
+  <w>påstår</w>
+  <w>att</w>
+  <w>det</w>
+  <w>"</w>
+  <w>inte</w>
+  <w>finns</w>
+  <w>"</w>
+  <w>några</w>
+  <w>HIV-smittade</w>
+  <w>,</w>
+  <w>varför</w>
+  <w>skulle</w>
+  <w>då</w>
+  <absaspan id=5>
+    <w>premiärministern</w>
+  </absaspan>
+  <w>säga</w>
+  <w>att</w>
+  <absaspan id=6>
+    <w>HIV</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=7 senti=1>
+    <w>ett</w>
+    <w>av</w>
+    <w>de</w>
+    <w>svåraste</w>
+    <w>globala</w>
+    <w>problemen</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Om</w>
+  <w>det</w>
+  <w>vore</w>
+  <w>sant</w>
+  <w>att</w>
+  <w>staten</w>
+  <w>påstår</w>
+  <w>att</w>
+  <w>det</w>
+  <w>"</w>
+  <w>inte</w>
+  <w>finns</w>
+  <w>"</w>
+  <w>några</w>
+  <w>HIV-smittade</w>
+  <w>,</w>
+  <w>varför</w>
+  <w>skulle</w>
+  <w>då</w>
+  <w>samma</w>
+  <w>stat</w>
+  <w>utarbeta</w>
+  <w>en</w>
+  <absaspan id=8 senti=4>
+    <w>omfattande</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>handlingsplan</w>
+  </absaspan>
+  <w>för</w>
+  <w>hur</w>
+  <absaspan id=10>
+    <w>HIV-epidemin</w>
+  </absaspan>
+  <w>skall</w>
+  <absaspan id=11 senti=2>
+    <w>bekämpas</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Det</w>
+  <w>som</w>
+  <absaspan id=12 senti=2>
+    <w>sprids</w>
+    <w>mest</w>
+    <w>lavinartat</w>
+  </absaspan>
+  <w>i</w>
+  <w>sammanhanget</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>HIV</w>
+  <w>,</w>
+  <w>utan</w>
+  <absaspan id=13 senti=2>
+    <w>falska</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>påståenden</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>från</w>
+    <w>den</w>
+    <w>svenska</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>lögnfabriken</w>
+    <w>SVT</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

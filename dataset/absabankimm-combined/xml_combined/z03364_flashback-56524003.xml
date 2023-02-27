@@ -1,0 +1,52 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Misstänkt</w>
+  <w>våldtäkt</w>
+  <w>i</w>
+  <w>Nora</w>
+  <w>1</w>
+  <w>/</w>
+  <w>3</w>
+  <w>-</w>
+  <w>16</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Har</w>
+  <w>ingen</w>
+  <w>källa</w>
+  <w>just</w>
+  <w>nu</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>säkra</w>
+  <w>rykten</w>
+  <w>som</w>
+  <absaspan id=1 senti=2>
+    <w>florerar</w>
+  </absaspan>
+  <w>i</w>
+  <w>bygden</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Tydligen</w>
+  <w>4st</w>
+  <w>asylsökande</w>
+  <w>som</w>
+  <w>våldtagit</w>
+  <w>en</w>
+  <w>ensam</w>
+  <w>svensk</w>
+  <w>tjej</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Någon</w>
+  <w>som</w>
+  <w>vet</w>
+  <w>mer</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

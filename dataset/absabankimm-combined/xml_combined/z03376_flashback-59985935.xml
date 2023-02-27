@@ -1,0 +1,107 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Åldrig</w>
+  <w>man</w>
+  <w>tillrättavisade</w>
+  <w>nyanlända</w>
+  <w>.</w>
+  <w>Åtalas</w>
+  <w>.</w>
+  <w>Malmö</w>
+  <w>/</w>
+  <w>Sibbarp</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Vad</w>
+  <w>var</w>
+  <w>det</w>
+  <w>får</w>
+  <w>nåt</w>
+  <w>nu</w>
+  <w>då</w>
+  <w>?</w>
+  <absaspan id=1>
+    <w>Mannen</w>
+  </absaspan>
+  <w>verkar</w>
+  <w>vara</w>
+  <w>en</w>
+  <w>"</w>
+  <w>Ove</w>
+  <w>"</w>
+  <w>typ</w>
+  <w>som</w>
+  <w>vill</w>
+  <w>ha</w>
+  <w>lite</w>
+  <w>ordning</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=2 senti=2>
+    <w>att</w>
+    <w>skrämma</w>
+    <w>barnen</w>
+    <w>med</w>
+    <w>att</w>
+    <w>hota</w>
+    <w>döda</w>
+    <w>en</w>
+    <w>katt</w>
+    <w>är</w>
+    <w>lite</w>
+    <w>i</w>
+    <w>överkant</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vad</w>
+  <w>var</w>
+  <w>det</w>
+  <w>för</w>
+  <w>några</w>
+  <w>som</w>
+  <w>är</w>
+  <w>inblandade</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Den</w>
+  <w>gamle</w>
+  <w>farbrorn</w>
+  <w>var</w>
+  <w>väl</w>
+  <w>irriterad</w>
+  <w>över</w>
+  <w>hur</w>
+  <w>de</w>
+  <w>betedde</w>
+  <w>sig</w>
+  <w>.</w>
+  <w>Att</w>
+  <w>polisen</w>
+  <w>lägger</w>
+  <w>ner</w>
+  <w>tid</w>
+  <w>på</w>
+  <w>sånt</w>
+  <w>här</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Många</w>
+  <w>frågetecken</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Att</w>
+  <w>inte</w>
+  <w>sortera</w>
+  <w>sopor</w>
+  <w>ger</w>
+  <w>vissa</w>
+  <w>aningar</w>
+  <w>.</w>
+</absapar>
+</absadoc>

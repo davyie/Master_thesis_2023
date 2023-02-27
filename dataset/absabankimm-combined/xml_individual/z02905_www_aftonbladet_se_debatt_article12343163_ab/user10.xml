@@ -1,0 +1,362 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Småbarnsföräldrar</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=2 senti=4 target=1>
+    <w>bättre</w>
+    <w>konsulter</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>SCB</w>
+  <w>:</w>
+  <w>s</w>
+  <w>undersökning</w>
+  <w>stämmer</w>
+  <w>väl</w>
+  <w>med</w>
+  <w>den</w>
+  <w>undersökning</w>
+  <w>vi</w>
+  <w>själva</w>
+  <w>lät</w>
+  <w>göra</w>
+  <w>2008</w>
+  <w>,</w>
+  <w>som</w>
+  <w>visade</w>
+  <w>att</w>
+  <w>var</w>
+  <w>tredje</w>
+  <w>svensk</w>
+  <w>upplever</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>arbetsgivare</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>föredrar</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>anställda</w>
+    <w>utan</w>
+    <w>småbarn</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vi</w>
+  <w>tänker</w>
+  <w>tvärtom</w>
+  <w>.</w>
+  <w>Xlent</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>it-konsultbolag</w>
+  <w>med</w>
+  <w>omkring</w>
+  <w>50</w>
+  <w>anställda</w>
+  <w>och</w>
+  <w>hos</w>
+  <w>oss</w>
+  <absaspan id=6 senti=4>
+    <w>ser</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>vi</w>
+    <w>föräldraskap</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>något</w>
+    <w>positivt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Min</w>
+  <w>erfarenhet</w>
+  <w>är</w>
+  <w>att</w>
+  <w>livet</w>
+  <w>som</w>
+  <w>småbarnsförälder</w>
+  <w>utvecklar</w>
+  <absaspan id=10>
+    <w>sidor</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>är</w>
+    <w>till</w>
+    <w>stor</w>
+    <w>nytta</w>
+    <w>i</w>
+    <w>arbetslivet</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=13 senti=4>
+    <w>god</w>
+    <w>förmåga</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>att</w>
+    <w>prioritera</w>
+    <w>och</w>
+    <w>fokusera</w>
+  </absaspan>
+  <w>.</w>
+  <w>Småbarnsföräldrar</w>
+  <w>har</w>
+  <w>ofta</w>
+  <w>hög</w>
+  <w>stresströskel</w>
+  <w>och</w>
+  <w>tvingas</w>
+  <w>släppa</w>
+  <w>jobbet</w>
+  <w>när</w>
+  <w>de</w>
+  <w>kommer</w>
+  <w>hem</w>
+  <w>.</w>
+  <w>Föräldralivet</w>
+  <w>innebär</w>
+  <w>också</w>
+  <w>orubbliga</w>
+  <w>deadlines</w>
+  <w>i</w>
+  <w>form</w>
+  <w>av</w>
+  <w>dagishämtningar</w>
+  <w>,</w>
+  <w>som</w>
+  <w>gör</w>
+  <w>att</w>
+  <w>du</w>
+  <w>måste</w>
+  <w>se</w>
+  <w>till</w>
+  <w>att</w>
+  <w>så</w>
+  <w>saker</w>
+  <w>gjort</w>
+  <w>på</w>
+  <w>en</w>
+  <w>gång</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>kan</w>
+  <w>inte</w>
+  <w>tänka</w>
+  <w>mig</w>
+  <w>bättre</w>
+  <w>egenskaper</w>
+  <w>för</w>
+  <w>en</w>
+  <w>konsult</w>
+  <w>.</w>
+  <absaspan id=15>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=16 senti=5>
+    <w>höjer</w>
+    <w>både</w>
+    <w>kvaliteten</w>
+    <w>och</w>
+    <w>effektiviteten</w>
+    <w>i</w>
+    <w>arbetet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vi</w>
+  <w>anstränger</w>
+  <w>oss</w>
+  <w>för</w>
+  <w>att</w>
+  <w>vara</w>
+  <w>flexibla</w>
+  <w>och</w>
+  <w>anpassningsbara</w>
+  <w>,</w>
+  <w>så</w>
+  <w>att</w>
+  <w>den</w>
+  <w>enskilda</w>
+  <w>kan</w>
+  <w>få</w>
+  <w>yrkeslivet</w>
+  <w>och</w>
+  <w>familjelivet</w>
+  <w>att</w>
+  <w>gå</w>
+  <w>ihop</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>ger</w>
+  <w>oss</w>
+  <w>en</w>
+  <absaspan id=17 senti=4>
+    <w>bra</w>
+    <w>stämning</w>
+  </absaspan>
+  <w>på</w>
+  <w>jobbet</w>
+  <w>,</w>
+  <w>stort</w>
+  <w>engagemang</w>
+  <w>och</w>
+  <w>samtidigt</w>
+  <absaspan id=18 senti=5>
+    <w>mycket</w>
+    <w>lojala</w>
+    <w>och</w>
+    <w>nöjda</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>medarbetare</w>
+  </absaspan>
+  <w>.</w>
+  <w>Många</w>
+  <w>av</w>
+  <w>våra</w>
+  <w>medarbetare</w>
+  <w>arbetar</w>
+  <w>deltid</w>
+  <w>och</w>
+  <w>flexar</w>
+  <w>med</w>
+  <w>tiden</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>strävar</w>
+  <w>efter</w>
+  <w>en</w>
+  <w>kultur</w>
+  <w>och</w>
+  <w>arbetsmiljö</w>
+  <w>som</w>
+  <absaspan id=20 senti=5>
+    <w>uppmuntrar</w>
+  </absaspan>
+  <w>och</w>
+  <w>tillåter</w>
+  <absaspan id=21>
+    <w>att</w>
+    <w>man</w>
+    <w>kombinerar</w>
+    <w>barn</w>
+    <w>och</w>
+    <w>karriär</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>också</w>
+  <w>viktigt</w>
+  <w>att</w>
+  <w>förvalta</w>
+  <w>det</w>
+  <w>humankapital</w>
+  <w>som</w>
+  <w>finns</w>
+  <w>.</w>
+  <w>Man</w>
+  <absaspan id=22 senti=3>
+    <w>blir</w>
+    <w>ju</w>
+    <w>inte</w>
+    <w>en</w>
+    <w>sämre</w>
+    <w>konsult</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>att</w>
+    <w>man</w>
+    <w>skaffar</w>
+    <w>sig</w>
+    <w>barn</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Jag</w>
+  <w>har</w>
+  <w>själv</w>
+  <w>två</w>
+  <w>barn</w>
+  <w>,</w>
+  <w>något</w>
+  <w>som</w>
+  <w>gjort</w>
+  <w>mig</w>
+  <absaspan id=24>
+    <w>bättre</w>
+    <w>på</w>
+    <w>att</w>
+    <w>lyssna</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=25>
+    <w>vara</w>
+    <w>mer</w>
+    <w>närvarande</w>
+  </absaspan>
+  <w>–</w>
+  <absaspan id=26 senti=4>
+    <w>egenskaper</w>
+    <w>jag</w>
+    <w>har</w>
+    <w>glädje</w>
+    <w>av</w>
+    <w>i</w>
+    <w>jobbet</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=27>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=28 senti=4>
+    <w>anställer</w>
+    <w>gärna</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>småbarnsföräldrar</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=30 senti=2>
+    <w>Det</w>
+    <w>är</w>
+    <w>synd</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>att</w>
+    <w>många</w>
+    <w>arbetsgivare</w>
+    <w>missar</w>
+    <w>potentialen</w>
+    <w>i</w>
+    <w>den</w>
+    <w>gruppen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Hans</w>
+  <w>Ehrenborg</w>
+  <w>,</w>
+  <w>Affärsområdeschef</w>
+  <w>XLENT</w>
+  <w>Business</w>
+  <w>Integration</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,107 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Svarta</w>
+  </absaspan>
+  <w>skrämmer</w>
+  <w>fransmän</w>
+  <w>med</w>
+  <w>pistol</w>
+  <absaspan id=2 senti=2 source=1>
+    <w>för</w>
+    <w>att</w>
+    <w>bekämpa</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>vitas</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Här</w>
+  <w>kan</w>
+  <w>alltså</w>
+  <w>skådas</w>
+  <absaspan id=4>
+    <w>några</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>driftiga</w>
+    <w>afrofransmän</w>
+    <w>som</w>
+    <w>kläckt</w>
+    <w>en</w>
+    <w>alldeles</w>
+    <w>förträfflig</w>
+    <w>idé</w>
+    <w>hur</w>
+    <w>man</w>
+    <w>ska</w>
+    <w>bekämpa</w>
+    <w>rasism</w>
+    <w>-</w>
+    <w>gå</w>
+    <w>runt</w>
+    <w>och</w>
+    <w>peka</w>
+    <w>med</w>
+    <w>en</w>
+    <w>pistolreplika</w>
+    <w>mot</w>
+    <w>ont</w>
+    <w>anande</w>
+    <w>ljusa</w>
+    <w>fransmän</w>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Tycker</w>
+  <w>ni</w>
+  <w>att</w>
+  <absaspan id=6>
+    <w>detta</w>
+  </absaspan>
+  <w>är</w>
+  <w>bra</w>
+  <w>beteende</w>
+  <w>att</w>
+  <w>behandla</w>
+  <w>majoritetsbefolkningen</w>
+  <w>?</w>
+  <absaspan id=7 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Kan</w>
+  <w>detta</w>
+  <w>minska</w>
+  <w>rasismen</w>
+  <w>i</w>
+  <w>Frankrike</w>
+  <w>och</w>
+  <w>Europa</w>
+  <w>?</w>
+  <absaspan id=8 senti=4 irony>
+    <w>Kanske</w>
+    <w>kan</w>
+    <w>man</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>fejka</w>
+    <w>lite</w>
+    <w>terrorattacker</w>
+    <w>för</w>
+    <w>att</w>
+    <w>se</w>
+    <w>hur</w>
+    <w>rasistiska</w>
+    <w>ljushudingar</w>
+    <w>reagerar</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

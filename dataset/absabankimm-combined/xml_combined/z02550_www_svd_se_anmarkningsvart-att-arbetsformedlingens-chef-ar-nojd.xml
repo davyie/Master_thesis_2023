@@ -1,0 +1,381 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Anmärkningsvärt</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>Arbetsförmedlingens</w>
+    <w>chef</w>
+  </absaspan>
+  <absaspan id=4 senti=4 source=3>
+    <w>är</w>
+    <w>nöjd</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Arbetsförmedlingens</w>
+  <w>generaldirektör</w>
+  <w>kommenterar</w>
+  <w>(</w>
+  <w>Brännpunkt</w>
+  <w>18</w>
+  <w>/</w>
+  <w>8</w>
+  <w>)</w>
+  <w>min</w>
+  <w>kritik</w>
+  <w>mot</w>
+  <w>regeringens</w>
+  <w>arbetsmarknadspolitik</w>
+  <w>och</w>
+  <w>påstår</w>
+  <w>att</w>
+  <w>de</w>
+  <w>som</w>
+  <w>riskerar</w>
+  <w>att</w>
+  <w>fastna</w>
+  <w>i</w>
+  <w>arbetslöshet</w>
+  <w>får</w>
+  <w>hjälp</w>
+  <w>från</w>
+  <w>första</w>
+  <w>dagen</w>
+  <w>och</w>
+  <w>tillgång</w>
+  <w>till</w>
+  <w>en</w>
+  <w>lång</w>
+  <w>kedja</w>
+  <w>av</w>
+  <w>åtgärder</w>
+  <w>.</w>
+  <absaspan id=5 senti=2>
+    <w>Tyvärr</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>stämmer</w>
+    <w>inte</w>
+    <w>den</w>
+    <w>bilden</w>
+    <w>med</w>
+    <w>Arbetsförmedlingens</w>
+    <w>egen</w>
+    <w>interna</w>
+    <w>kartläggning</w>
+    <w>från</w>
+    <w>i</w>
+    <w>våras</w>
+    <w>som</w>
+    <w>visade</w>
+    <w>att</w>
+    <w>hälften</w>
+    <w>av</w>
+    <w>de</w>
+    <w>långtidsarbetslösa</w>
+    <w>inte</w>
+    <w>får</w>
+    <w>någon</w>
+    <w>hjälp</w>
+    <w>att</w>
+    <w>hitta</w>
+    <w>nytt</w>
+    <w>jobb</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Ingen</w>
+  <w>tror</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>enkelt</w>
+  <w>att</w>
+  <w>bekämpa</w>
+  <w>arbetslöshet</w>
+  <w>och</w>
+  <w>särskilt</w>
+  <w>svårt</w>
+  <w>är</w>
+  <w>det</w>
+  <w>för</w>
+  <w>dem</w>
+  <w>som</w>
+  <w>varit</w>
+  <w>arbetslösa</w>
+  <w>under</w>
+  <w>mycket</w>
+  <w>lång</w>
+  <w>tid</w>
+  <w>.</w>
+  <w>De</w>
+  <w>som</w>
+  <w>har</w>
+  <w>varit</w>
+  <w>arbetslösa</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>två</w>
+  <w>år</w>
+  <w>har</w>
+  <w>under</w>
+  <w>regeringens</w>
+  <w>tid</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>fördubblats</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>ställer</w>
+  <w>mycket</w>
+  <w>stora</w>
+  <w>krav</w>
+  <w>på</w>
+  <w>arbetsmarknadspolitiken</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Det</w>
+  <absaspan id=7 senti=2>
+    <w>är</w>
+  </absaspan>
+  <w>därför</w>
+  <absaspan id=8 senti=2>
+    <w>anmärkningsvärt</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>generaldirektören</w>
+    <w>Angeles</w>
+    <w>Bermudez-Svankvist</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>är</w>
+    <w>nöjd</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>situationen</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>och</w>
+    <w>anser</w>
+    <w>att</w>
+    <w>den</w>
+    <w>arbetsmarknadspolitik</w>
+    <w>som</w>
+    <w>Arbetsförmedlingen</w>
+    <w>skall</w>
+    <w>verkställa</w>
+    <w>redan</w>
+    <w>fungerar</w>
+    <w>perfekt</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=15>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>har</w>
+    <w>en</w>
+    <w>stor</w>
+    <w>och</w>
+    <w>växande</w>
+    <w>arbetslöshet</w>
+    <w>där</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>långtidsarbetslösheten</w>
+    <w>och</w>
+    <w>ungdomsarbetslösheten</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>utgör</w>
+    <w>de</w>
+    <w>allvarligaste</w>
+    <w>utmaningarna</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>samtidigt</w>
+    <w>som</w>
+    <w>Arbetsförmedlingen</w>
+    <w>uppmäter</w>
+    <w>det</w>
+    <w>lägsta</w>
+    <w>förtroendet</w>
+    <w>från</w>
+    <w>allmänheten</w>
+    <w>av</w>
+    <w>alla</w>
+    <w>myndigheter</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=20>
+    <w>Detta</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>borde</w>
+    <w>rimligen</w>
+    <w>oroa</w>
+  </absaspan>
+  <w>generaldirektören</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Läget</w>
+  <w>är</w>
+  <w>sådant</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=22 senti=4>
+    <w>är</w>
+    <w>hög</w>
+    <w>tid</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>mer</w>
+    <w>pragmatism</w>
+    <w>och</w>
+    <w>mindre</w>
+    <w>ideologisk</w>
+    <w>styrning</w>
+  </absaspan>
+  <w>.</w>
+  <w>Inom</w>
+  <w>många</w>
+  <w>branscher</w>
+  <w>finns</w>
+  <w>stora</w>
+  <w>behov</w>
+  <w>av</w>
+  <w>att</w>
+  <w>rekrytera</w>
+  <w>.</w>
+  <w>Att</w>
+  <w>Arbetsförmedlingen</w>
+  <w>skickar</w>
+  <w>tillbaks</w>
+  <w>flera</w>
+  <w>miljarder</w>
+  <w>till</w>
+  <w>regeringen</w>
+  <w>varje</w>
+  <w>år</w>
+  <w>visar</w>
+  <w>att</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>är</w>
+  <w>resurser</w>
+  <w>som</w>
+  <w>är</w>
+  <w>den</w>
+  <w>främsta</w>
+  <w>bristen</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>nytänkande</w>
+  <w>inom</w>
+  <w>arbetsmarknadspolitiken</w>
+  <w>som</w>
+  <w>saknas</w>
+  <absaspan id=24 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=6>
+  <w>YLVA</w>
+  <w>JOHANSSON</w>
+  <w>(</w>
+  <w>S</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>arbetsmarknadspolitisk</w>
+  <w>talesperson</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Skräddarsydda</w>
+  <w>kurser</w>
+  <w>i</w>
+  <w>ämnen</w>
+  <w>som</w>
+  <w>intresserar</w>
+  <w>och</w>
+  <w>engagerar</w>
+  <w>både</w>
+  <w>kropp</w>
+  <w>och</w>
+  <w>själ</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

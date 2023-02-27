@@ -1,0 +1,203 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <absaspan id=1 senti=4 target=3>
+    <w>Så</w>
+  </absaspan>
+  <absaspan id=2 senti=4 target=3>
+    <w>här</w>
+    <w>borde</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>hederskultur</w>
+  </absaspan>
+  <absaspan id=4 senti=4 partof=1>
+    <w>se</w>
+    <w>ut</w>
+  </absaspan>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>I</w>
+  <w>alla</w>
+  <w>kulturer</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>En</w>
+  <w>man</w>
+  <w>använder</w>
+  <w>inte</w>
+  <absaspan id=5>
+    <w>våld</w>
+    <w>mot</w>
+    <w>kvinnor</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Det</w>
+  <absaspan id=7 senti=1>
+    <w>är</w>
+    <w>en</w>
+    <w>stor</w>
+    <w>skam</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>att</w>
+    <w>vara</w>
+  </absaspan>
+  <absaspan id=9 senti=1>
+    <w>kvinnomisshandlare</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=10>
+    <w>Trohet</w>
+    <w>till</w>
+    <w>sin</w>
+    <w>man</w>
+    <w>/</w>
+    <w>hustru</w>
+  </absaspan>
+  <absaspan id=11 senti=5>
+    <w>är</w>
+    <w>en</w>
+    <w>dygd</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=12>
+    <w>Otrohet</w>
+  </absaspan>
+  <absaspan id=13 senti=1>
+    <w>är</w>
+    <w>en</w>
+    <w>skam</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Man</w>
+  <w>har</w>
+  <w>inte</w>
+  <absaspan id=14>
+    <w>sexuellt</w>
+    <w>umgänge</w>
+    <w>med</w>
+    <w>barn</w>
+    <w>,</w>
+    <w>djur</w>
+    <w>eller</w>
+    <w>samma</w>
+    <w>kön</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>Det</w>
+  <absaspan id=16 senti=5>
+    <w>är</w>
+    <w>hedersamt</w>
+    <w>och</w>
+    <w>en</w>
+    <w>dygd</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=17>
+    <w>att</w>
+    <w>ha</w>
+    <w>arbete</w>
+    <w>och</w>
+    <w>försörja</w>
+    <w>sin</w>
+    <w>familj</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=18>
+    <w>En</w>
+    <w>mamma</w>
+    <w>som</w>
+    <w>föder</w>
+    <w>och</w>
+    <w>sköter</w>
+    <w>sina</w>
+    <w>barn</w>
+  </absaspan>
+  <absaspan id=19 senti=5>
+    <w>är</w>
+    <w>värd</w>
+    <w>all</w>
+    <w>heder</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7 senti=1>
+  <w>Det</w>
+  <absaspan id=20 senti=5>
+    <w>är</w>
+    <w>en</w>
+    <w>heder</w>
+    <w>och</w>
+    <w>dygd</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>att</w>
+    <w>vara</w>
+    <w>beredd</w>
+    <w>att</w>
+    <w>försvara</w>
+    <w>sitt</w>
+    <w>folk</w>
+    <w>och</w>
+    <w>land</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=22 senti=1>
+    <w>invällande</w>
+    <w>horder</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Det</w>
+  <absaspan id=23 senti=5>
+    <w>är</w>
+    <w>hedersamt</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>att</w>
+    <w>hjälpa</w>
+    <w>sina</w>
+  </absaspan>
+  <absaspan id=25 senti=4>
+    <w>folkkamrater</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>utan</w>
+    <w>att</w>
+    <w>ens</w>
+    <w>förvänta</w>
+    <w>sig</w>
+    <w>ett</w>
+    <w>tack</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Är</w>
+  <w>det</w>
+  <w>möjligt</w>
+  <w>att</w>
+  <w>det</w>
+  <w>kan</w>
+  <w>bli</w>
+  <w>så</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,73 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Alice</w>
+  <w>Bah</w>
+  <w>Kuhnke</w>
+  <w>ska</w>
+  <w>"</w>
+  <w>skydda</w>
+  <w>"</w>
+  <w>skolbarnen</w>
+  <w>från</w>
+  <w>"</w>
+  <absaspan id=1 senti=1>
+    <w>falska</w>
+    <w>nyheter</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Varför</w>
+  <w>är</w>
+  <w>hon</w>
+  <w>en</w>
+  <w>sån</w>
+  <w>meme</w>
+  <w>?</w>
+  <w>Hur</w>
+  <w>ska</w>
+  <w>dom</w>
+  <w>"</w>
+  <w>skydda</w>
+  <w>"</w>
+  <w>barn</w>
+  <w>från</w>
+  <w>"</w>
+  <w>falska</w>
+  <w>nyheter</w>
+  <w>"</w>
+  <w>?</w>
+  <absaspan id=2 senti=1>
+    <w>Falska</w>
+    <w>nyheter</w>
+  </absaspan>
+  <w>är</w>
+  <w>ju</w>
+  <w>ofta</w>
+  <w>bara</w>
+  <w>vad</w>
+  <w>man</w>
+  <w>inte</w>
+  <w>håller</w>
+  <w>med</w>
+  <w>om</w>
+  <w>.</w>
+  <w>Hur</w>
+  <w>blir</w>
+  <w>det</w>
+  <w>här</w>
+  <w>INTE</w>
+  <w>1984</w>
+  <w>Orwell</w>
+  <w>?</w>
+  <w>Vad</w>
+  <w>är</w>
+  <w>Kuhnkes</w>
+  <w>endgame</w>
+  <w>,</w>
+  <w>Flashback</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

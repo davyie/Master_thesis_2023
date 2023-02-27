@@ -1,0 +1,286 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Kvinnofacken</w>
+  </absaspan>
+  <absaspan id=2 senti=1 target=1>
+    <w>är</w>
+    <w>för</w>
+    <w>fega</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>kom</w>
+  <w>ihåg</w>
+  <w>förra</w>
+  <w>gången</w>
+  <w>det</w>
+  <w>var</w>
+  <w>sköterskestrejk</w>
+  <w>.</w>
+  <w>1995</w>
+  <w>–</w>
+  <w>1996</w>
+  <w>strejkade</w>
+  <w>sjuksköterskorna</w>
+  <w>i</w>
+  <w>sju</w>
+  <w>veckor</w>
+  <w>för</w>
+  <w>5</w>
+  <w>?</w>
+  <w>000</w>
+  <w>mer</w>
+  <w>i</w>
+  <w>månaden</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>var</w>
+  <absaspan id=3 senti=2>
+    <w>ingen</w>
+    <w>populär</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>strejk</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Då</w>
+  <w>reste</w>
+  <w>sig</w>
+  <absaspan id=5 senti=3>
+    <w>en</w>
+    <w>arg</w>
+    <w>och</w>
+    <w>enig</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>opinion</w>
+  </absaspan>
+  <w>och</w>
+  <w>krävde</w>
+  <w>att</w>
+  <w>sjuksköterskorna</w>
+  <w>skulle</w>
+  <w>stå</w>
+  <w>tillbaka</w>
+  <w>för</w>
+  <w>landets</w>
+  <w>ekonomi</w>
+  <w>och</w>
+  <w>för</w>
+  <w>den</w>
+  <w>offentliga</w>
+  <w>sektorn</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Visserligen</w>
+  <w>var</w>
+  <w>det</w>
+  <w>i</w>
+  <absaspan id=7 senti=1>
+    <w>en</w>
+    <w>kärv</w>
+    <w>ekonomisk</w>
+    <w>tid</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>det</w>
+  <w>fanns</w>
+  <w>en</w>
+  <absaspan id=8>
+    <w>allmän</w>
+    <w>uppfattning</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=9>
+    <w>sjuksköterskejobbet</w>
+  </absaspan>
+  <w>också</w>
+  <w>var</w>
+  <absaspan id=10 senti=4>
+    <w>ett</w>
+    <w>kall</w>
+  </absaspan>
+  <w>.</w>
+  <w>Då</w>
+  <absaspan id=11 senti=4>
+    <w>räddade</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>Vårdförbundet</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>ansiktet</w>
+  </absaspan>
+  <w>med</w>
+  <w>att</w>
+  <w>gå</w>
+  <w>med</w>
+  <w>på</w>
+  <w>individuella</w>
+  <w>löneförhandlingar</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>det</w>
+  <w>förändrade</w>
+  <w>ingenting</w>
+  <w>.</w>
+  <absaspan id=14>
+    <w>Sjuksköterskorna</w>
+  </absaspan>
+  <w>är</w>
+  <w>fortfarande</w>
+  <absaspan id=15 senti=2>
+    <w>underbetalda</w>
+  </absaspan>
+  <w>och</w>
+  <w>dessutom</w>
+  <w>lönar</w>
+  <w>det</w>
+  <w>sig</w>
+  <w>inte</w>
+  <w>för</w>
+  <w>dem</w>
+  <w>att</w>
+  <w>vidareutbilda</w>
+  <w>sig</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>De</w>
+  <w>är</w>
+  <absaspan id=16 senti=2>
+    <w>lite</w>
+    <w>märkligt</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>att</w>
+    <w>kvinnodominerande</w>
+    <w>fackförbund</w>
+    <w>är</w>
+    <w>så</w>
+    <w>svaga</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>kommer</w>
+  <w>aldrig</w>
+  <w>något</w>
+  <w>genombrott</w>
+  <w>som</w>
+  <w>förbättrar</w>
+  <w>kvinnornas</w>
+  <w>ställning</w>
+  <w>på</w>
+  <w>arbetsmarknaden</w>
+  <absaspan id=18 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <absaspan id=19>
+    <w>Lönerna</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=20 senti=1>
+    <w>urusla</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=21>
+    <w>arbetsvillkoren</w>
+  </absaspan>
+  <w>ofta</w>
+  <absaspan id=22 senti=1>
+    <w>ovärdiga</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=23>
+    <w>statusen</w>
+  </absaspan>
+  <absaspan id=24 senti=2>
+    <w>ringa</w>
+  </absaspan>
+  <w>och</w>
+  <w>så</w>
+  <w>detta</w>
+  <w>ständiga</w>
+  <absaspan id=25>
+    <w>samhällsansvar</w>
+  </absaspan>
+  <w>som</w>
+  <w>kvinnodominerade</w>
+  <w>yrkesgrupper</w>
+  <w>alltid</w>
+  <absaspan id=26 senti=2>
+    <w>dras</w>
+    <w>med</w>
+  </absaspan>
+  <w>.</w>
+  <w>Varför</w>
+  <w>är</w>
+  <w>det</w>
+  <w>så</w>
+  <w>här</w>
+  <w>?</w>
+  <w>Varför</w>
+  <w>accepterar</w>
+  <w>facket</w>
+  <w>att</w>
+  <absaspan id=27>
+    <w>medlemmarna</w>
+  </absaspan>
+  <w>år</w>
+  <w>efter</w>
+  <w>år</w>
+  <absaspan id=28 senti=1>
+    <w>förringas</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=29 senti=1>
+    <w>undervärderas</w>
+  </absaspan>
+  <w>?</w>
+  <w>Minst</w>
+  <w>halva</w>
+  <w>befolkningen</w>
+  <w>är</w>
+  <w>kvinnor</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>dags</w>
+  <w>för</w>
+  <w>alla</w>
+  <w>kvinnor</w>
+  <w>att</w>
+  <w>sätta</w>
+  <w>ner</w>
+  <w>stilettklacken</w>
+  <w>och</w>
+  <w>göra</w>
+  <w>uppror</w>
+  <w>.</w>
+  <absaspan id=30 senti=1>
+    <w>Så</w>
+    <w>här</w>
+    <w>kan</w>
+    <w>vi</w>
+    <w>inte</w>
+    <w>ha</w>
+    <w>det</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,219 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Blonda</w>
+  </absaspan>
+  <absaspan id=2 senti=4 target=3 target=1>
+    <w>vackra</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>kvinnor</w>
+  </absaspan>
+  <w>,</w>
+  <w>den</w>
+  <w>egentliga</w>
+  <w>anledningen</w>
+  <w>till</w>
+  <w>invandringen</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Vad</w>
+  <absaspan id=4 senti=5>
+    <w>är</w>
+    <w>det</w>
+    <w>värdefullaste</w>
+  </absaspan>
+  <w>vi</w>
+  <w>har</w>
+  <w>som</w>
+  <w>nation</w>
+  <w>?</w>
+  <w>Jag</w>
+  <w>anser</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <absaspan id=5>
+    <w>vårt</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>folks</w>
+    <w>gener</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vid</w>
+  <w>en</w>
+  <w>invasion</w>
+  <w>så</w>
+  <w>skulle</w>
+  <w>man</w>
+  <w>kunna</w>
+  <w>tänkas</w>
+  <w>offra</w>
+  <w>alla</w>
+  <w>tillgångar</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=7 senti=4>
+    <w>skydda</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>just</w>
+    <w>detta</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vi</w>
+  <w>skulle</w>
+  <w>kunna</w>
+  <w>bygga</w>
+  <w>upp</w>
+  <w>allt</w>
+  <w>det</w>
+  <w>materiella</w>
+  <w>igen</w>
+  <w>från</w>
+  <w>grunden</w>
+  <w>men</w>
+  <w>vi</w>
+  <absaspan id=9 senti=2>
+    <w>skulle</w>
+    <w>aldrig</w>
+    <w>kunna</w>
+    <w>få</w>
+    <w>tillbaka</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>ett</w>
+    <w>utplånat</w>
+    <w>stamträd</w>
+  </absaspan>
+  <w>som</w>
+  <w>tagit</w>
+  <w>hela</w>
+  <w>jordens</w>
+  <w>evolution</w>
+  <w>framtill</w>
+  <w>nu</w>
+  <w>att</w>
+  <absaspan id=11 senti=4>
+    <w>förädla</w>
+  </absaspan>
+  <w>till</w>
+  <absaspan id=12>
+    <w>nuvarande</w>
+    <w>tillstånd</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <absaspan id=13 senti=4>
+    <w>Blomman</w>
+    <w>på</w>
+    <w>vårt</w>
+    <w>stamträd</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>våra</w>
+  </absaspan>
+  <absaspan id=15 senti=4>
+    <w>vackra</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>kvinnor</w>
+  </absaspan>
+  <w>.</w>
+  <w>Om</w>
+  <w>du</w>
+  <w>frågar</w>
+  <w>mig</w>
+  <w>så</w>
+  <w>är</w>
+  <absaspan id=17>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=18 senti=5>
+    <w>kröningen</w>
+    <w>av</w>
+    <w>hela</w>
+    <w>skapelsen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Jag</w>
+  <w>tror</w>
+  <absaspan id=19>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>det</w>
+    <w>är</w>
+    <w>just</w>
+    <w>de</w>
+    <w>som</w>
+    <w>är</w>
+    <w>den</w>
+    <w>främsta</w>
+    <w>anledningen</w>
+    <w>till</w>
+    <w>att</w>
+    <w>folk</w>
+    <w>ifrån</w>
+    <w>fjärran</w>
+    <w>länder</w>
+    <w>söker</w>
+    <w>sig</w>
+    <w>hit</w>
+    <w>,</w>
+    <w>för</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=21 senti=4>
+    <w>få</w>
+    <w>en</w>
+    <w>chans</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>att</w>
+    <w>beblanda</w>
+    <w>sig</w>
+    <w>men</w>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=23 senti=5>
+    <w>vackraste</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>varelserna</w>
+    <w>på</w>
+    <w>planeten</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Har</w>
+  <w>någon</w>
+  <w>av</w>
+  <w>er</w>
+  <w>tänkt</w>
+  <w>i</w>
+  <w>samma</w>
+  <w>banor</w>
+  <w>?</w>
+  <w>Varför</w>
+  <absaspan id=25 senti=2>
+    <w>talas</w>
+    <w>det</w>
+    <w>så</w>
+    <w>tyst</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=26>
+    <w>detta</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

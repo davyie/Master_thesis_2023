@@ -1,0 +1,395 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Vi</w>
+  <absaspan id=1 senti=2 target=2>
+    <w>saknar</w>
+  </absaspan>
+  <w>en</w>
+  <absaspan id=2>
+    <w>självklar</w>
+    <w>oppositionsledare</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Partiledardebatter</w>
+  <w>i</w>
+  <w>riksdagen</w>
+  <w>brukar</w>
+  <w>passera</w>
+  <w>relativt</w>
+  <w>obemärkta</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=3>
+    <w>temperaturen</w>
+    <w>i</w>
+    <w>svensk</w>
+    <w>inrikespolitik</w>
+  </absaspan>
+  <absaspan id=4 senti=3>
+    <w>är</w>
+    <w>osedvanligt</w>
+    <w>hög</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=5 senti=2>
+    <w>beror</w>
+    <w>dessvärre</w>
+    <w>inte</w>
+  </absaspan>
+  <w>på</w>
+  <w>de</w>
+  <absaspan id=6>
+    <w>politiska</w>
+    <w>förslagens</w>
+    <w>verkshöjd</w>
+  </absaspan>
+  <w>utan</w>
+  <w>på</w>
+  <w>rolluppsättningen</w>
+  <w>.</w>
+  <w>Håkan</w>
+  <absaspan id=7>
+    <w>Juholts</w>
+    <w>rollgestaltning</w>
+  </absaspan>
+  <w>av</w>
+  <w>potentiell</w>
+  <w>statsministerkandidat</w>
+  <absaspan id=8 senti=2>
+    <w>lämnar</w>
+    <w>mycket</w>
+    <w>övrigt</w>
+    <w>att</w>
+    <w>önska</w>
+  </absaspan>
+  <w>,</w>
+  <w>vilket</w>
+  <w>leder</w>
+  <w>till</w>
+  <w>att</w>
+  <absaspan id=9>
+    <w>den</w>
+    <w>politiska</w>
+    <w>initiativförmågan</w>
+  </absaspan>
+  <w>,</w>
+  <w>överlag</w>
+  <w>,</w>
+  <absaspan id=10 senti=2>
+    <w>stagnerar</w>
+  </absaspan>
+  <w>.</w>
+  <w>En</w>
+  <w>demokratisk</w>
+  <w>modell</w>
+  <w>förutsätter</w>
+  <w>en</w>
+  <w>opposition</w>
+  <w>,</w>
+  <absaspan id=11>
+    <w>när</w>
+    <w>sådan</w>
+    <w>saknas</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>riskeras</w>
+    <w>hela</w>
+    <w>konstruktionens</w>
+    <w>stabilitet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Därför</w>
+  <w>lär</w>
+  <absaspan id=13>
+    <w>den</w>
+    <w>som</w>
+    <w>förväntade</w>
+    <w>sig</w>
+    <w>en</w>
+    <w>antydan</w>
+    <w>om</w>
+    <w>politikens</w>
+    <w>vägval</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>ha</w>
+    <w>blivit</w>
+    <w>besviken</w>
+  </absaspan>
+  <w>.</w>
+  <w>Samtidigt</w>
+  <w>syftar</w>
+  <w>partiledardebatter</w>
+  <w>av</w>
+  <w>detta</w>
+  <w>slag</w>
+  <w>inte</w>
+  <w>till</w>
+  <w>att</w>
+  <w>vara</w>
+  <w>alltför</w>
+  <w>sakpolitiska</w>
+  <w>utan</w>
+  <w>snarare</w>
+  <w>till</w>
+  <w>att</w>
+  <w>illustrera</w>
+  <w>ideologiska</w>
+  <w>skiljelinjer</w>
+  <w>och</w>
+  <w>potentiella</w>
+  <w>konflikter</w>
+  <w>.</w>
+  <w>Några</w>
+  <w>sådana</w>
+  <w>skillnader</w>
+  <w>uppenbarade</w>
+  <w>sig</w>
+  <w>,</w>
+  <w>inte</w>
+  <w>minst</w>
+  <w>i</w>
+  <w>synen</w>
+  <w>på</w>
+  <w>hur</w>
+  <w>man</w>
+  <w>bäst</w>
+  <w>får</w>
+  <w>bukt</w>
+  <w>på</w>
+  <w>arbetslösheten</w>
+  <w>i</w>
+  <w>takt</w>
+  <w>med</w>
+  <w>att</w>
+  <w>Europas</w>
+  <absaspan id=15 senti=2>
+    <w>krishärdar</w>
+  </absaspan>
+  <w>expanderar</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>där</w>
+  <absaspan id=16>
+    <w>Juholt</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>överdriver</w>
+    <w>hejdlöst</w>
+  </absaspan>
+  <w>i</w>
+  <w>sina</w>
+  <w>”</w>
+  <w>allt</w>
+  <w>till</w>
+  <w>alla</w>
+  <w>”</w>
+  <w>-</w>
+  <w>satsningar</w>
+  <absaspan id=18 senti=4>
+    <w>måste</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>regeringen</w>
+  </absaspan>
+  <absaspan id=20 senti=4>
+    <w>våga</w>
+  </absaspan>
+  <absaspan id=21 senti=4>
+    <w>satsa</w>
+    <w>smart</w>
+  </absaspan>
+  <w>,</w>
+  <w>annars</w>
+  <w>kan</w>
+  <w>passiviteten</w>
+  <w>leda</w>
+  <w>till</w>
+  <w>stagnation</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Men</w>
+  <w>de</w>
+  <w>viktigaste</w>
+  <w>slutsatserna</w>
+  <w>efter</w>
+  <w>dagens</w>
+  <w>debatt</w>
+  <w>handlar</w>
+  <w>inte</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=22>
+    <w>Håkan</w>
+    <w>Juholt</w>
+  </absaspan>
+  <absaspan id=23 senti=2>
+    <w>verklighetsfrånvänt</w>
+    <w>dundrar</w>
+    <w>om</w>
+  </absaspan>
+  <w>privatiseringar</w>
+  <w>,</w>
+  <w>utförsäljningar</w>
+  <w>och</w>
+  <absaspan id=24>
+    <w>regeringens</w>
+  </absaspan>
+  <absaspan id=25 senti=2>
+    <w>generella</w>
+    <w>misslyckande</w>
+  </absaspan>
+  <w>som</w>
+  <w>”</w>
+  <w>ristats</w>
+  <w>i</w>
+  <w>sten</w>
+  <w>efter</w>
+  <w>fem</w>
+  <w>år</w>
+  <w>”</w>
+  <w>.</w>
+  <w>Inte</w>
+  <w>heller</w>
+  <w>att</w>
+  <absaspan id=26>
+    <w>Fredrik</w>
+    <w>Reinfeldt</w>
+  </absaspan>
+  <absaspan id=27 senti=4>
+    <w>statsmannamässigt</w>
+    <w>och</w>
+    <w>skickligt</w>
+    <w>definierar</w>
+  </absaspan>
+  <w>Sveriges</w>
+  <w>utmaningar</w>
+  <w>och</w>
+  <w>konkretisera</w>
+  <w>fyra</w>
+  <w>generella</w>
+  <w>ståndpunkter</w>
+  <w>som</w>
+  <w>motgift</w>
+  <w>till</w>
+  <w>den</w>
+  <absaspan id=28>
+    <w>växande</w>
+    <w>problembild</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=29 senti=2>
+    <w>sveper</w>
+    <w>in</w>
+    <w>över</w>
+    <w>Europa</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Nej</w>
+  <w>,</w>
+  <w>den</w>
+  <absaspan id=30 senti=2>
+    <w>i</w>
+    <w>särklass</w>
+    <w>viktigaste</w>
+    <w>reflektionen</w>
+  </absaspan>
+  <w>efter</w>
+  <w>dagens</w>
+  <w>debatt</w>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=31>
+    <w>en</w>
+    <w>ny</w>
+    <w>politisk</w>
+    <w>verklighet</w>
+    <w>cementerats</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>.</w>
+  <w>En</w>
+  <w>verklighet</w>
+  <w>där</w>
+  <absaspan id=32>
+    <w>Håkan</w>
+    <w>Juholts</w>
+    <w>retoriska</w>
+    <w>skicklighet</w>
+  </absaspan>
+  <w>,</w>
+  <w>istället</w>
+  <w>för</w>
+  <w>att</w>
+  <w>lyfta</w>
+  <w>hans</w>
+  <w>budskap</w>
+  <w>,</w>
+  <w>bara</w>
+  <absaspan id=33 senti=2>
+    <w>förtydligar</w>
+    <w>bristen</w>
+    <w>på</w>
+    <w>konkret</w>
+    <w>innehåll</w>
+  </absaspan>
+  <w>.</w>
+  <w>En</w>
+  <w>verklighet</w>
+  <w>där</w>
+  <absaspan id=34>
+    <w>samtliga</w>
+    <w>oppositionsledare</w>
+  </absaspan>
+  <absaspan id=35 senti=2>
+    <w>begär</w>
+    <w>replik</w>
+  </absaspan>
+  <w>på</w>
+  <absaspan id=36>
+    <w>Juholts</w>
+    <w>anförande</w>
+  </absaspan>
+  <w>.</w>
+  <w>En</w>
+  <w>verklighet</w>
+  <w>där</w>
+  <absaspan id=37>
+    <w>Socialdemokraternas</w>
+    <w>partiledare</w>
+  </absaspan>
+  <absaspan id=38 senti=2>
+    <w>inte</w>
+    <w>längre</w>
+    <w>framstår</w>
+    <w>som</w>
+    <w>den</w>
+    <w>självklare</w>
+    <w>oppositionsledaren</w>
+    <w>och</w>
+    <w>statsministerkandidaten</w>
+  </absaspan>
+  <w>.</w>
+  <w>För</w>
+  <w>den</w>
+  <w>verkligheten</w>
+  <w>är</w>
+  <w>få</w>
+  <w>rustade</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Alice</w>
+  <w>Teodorescu</w>
+  <w>.</w>
+</absapar>
+</absadoc>

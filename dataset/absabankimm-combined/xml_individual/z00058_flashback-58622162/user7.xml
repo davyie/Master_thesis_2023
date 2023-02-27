@@ -1,0 +1,117 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Mohamed</w>
+  <w>hotar</w>
+  <w>fly</w>
+  <w>Litauen</w>
+  <w>:</w>
+  <w>"</w>
+  <w>Bidragen</w>
+  <w>är</w>
+  <w>för</w>
+  <w>låga</w>
+  <w>"</w>
+  <w>,</w>
+  <w>nu</w>
+  <w>vill</w>
+  <w>han</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>istället</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>tog</w>
+  <w>citat</w>
+  <w>från</w>
+  <w>facebook</w>
+  <w>,</w>
+  <w>har</w>
+  <w>ingen</w>
+  <w>tillgång</w>
+  <w>till</w>
+  <w>hela</w>
+  <w>texten</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Men</w>
+  <w>fråga</w>
+  <w>är</w>
+  <w>:</w>
+  <w>är</w>
+  <w>det</w>
+  <w>en</w>
+  <w>flyktning</w>
+  <w>om</w>
+  <w>han</w>
+  <w>väljer</w>
+  <w>land</w>
+  <w>pga</w>
+  <w>hög</w>
+  <w>bidrag</w>
+  <w>?</w>
+  <w>Och</w>
+  <w>hur</w>
+  <w>Östländerna</w>
+  <w>ska</w>
+  <w>ta</w>
+  <w>in</w>
+  <w>flyktningar</w>
+  <w>om</w>
+  <w>själv</w>
+  <absaspan id=1>
+    <w>flyktningar</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>vill</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>leva</w>
+    <w>med</w>
+    <w>sån</w>
+    <w>låg</w>
+    <w>bidrag</w>
+  </absaspan>
+  <w>?</w>
+  <w>När</w>
+  <w>börjar</w>
+  <w>människor</w>
+  <w>fatta</w>
+  <w>att</w>
+  <w>det</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>är</w>
+  <w>inte</w>
+  <w>fred</w>
+  <w>som</w>
+  <w>lockar</w>
+  <w>MENA</w>
+  <w>folk</w>
+  <w>här</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Om</w>
+  <w>någon</w>
+  <w>har</w>
+  <w>tillgång</w>
+  <w>till</w>
+  <w>hela</w>
+  <w>artiklen</w>
+  <w>kan</w>
+  <w>skriva</w>
+  <w>vad</w>
+  <w>står</w>
+  <w>det</w>
+  <w>mer</w>
+  <w>om</w>
+  <w>Mohammed</w>
+  <w>.</w>
+</absapar>
+</absadoc>

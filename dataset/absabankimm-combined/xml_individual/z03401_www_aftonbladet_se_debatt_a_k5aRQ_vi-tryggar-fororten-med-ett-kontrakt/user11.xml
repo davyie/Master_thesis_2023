@@ -1,0 +1,1025 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=2 senti=4 source=1 target=3>
+    <w>tryggar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>förorten</w>
+  </absaspan>
+  <w>med</w>
+  <w>ett</w>
+  <w>kontrakt</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Stockholm</w>
+  <w>behöver</w>
+  <w>en</w>
+  <w>långsiktig</w>
+  <w>politik</w>
+  <w>som</w>
+  <w>förmår</w>
+  <w>att</w>
+  <w>motverka</w>
+  <w>segregationen</w>
+  <w>och</w>
+  <absaspan id=4 senti=4>
+    <w>ge</w>
+    <w>människor</w>
+    <w>chansen</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=5>
+    <w>leva</w>
+    <w>självständiga</w>
+    <w>liv</w>
+  </absaspan>
+  <w>.</w>
+  <w>Alliansen</w>
+  <w>i</w>
+  <w>Stockholms</w>
+  <w>stad</w>
+  <w>har</w>
+  <w>inför</w>
+  <w>den</w>
+  <w>pågående</w>
+  <w>politikerveckan</w>
+  <w>i</w>
+  <w>Järva</w>
+  <w>lanserat</w>
+  <w>ett</w>
+  <w>gemensamt</w>
+  <w>Framtidskontrakt</w>
+  <w>för</w>
+  <w>Stockholm</w>
+  <w>,</w>
+  <w>med</w>
+  <absaspan id=6 senti=4>
+    <w>skarpa</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>mål</w>
+  </absaspan>
+  <w>och</w>
+  <w>förslag</w>
+  <w>om</w>
+  <w>jobb</w>
+  <w>,</w>
+  <w>kunskap</w>
+  <w>,</w>
+  <w>trygghet</w>
+  <w>och</w>
+  <w>stadsplanering</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=8>
+    <w>Stockholm</w>
+  </absaspan>
+  <w>är</w>
+  <w>en</w>
+  <absaspan id=9 senti=4>
+    <w>pulserande</w>
+    <w>och</w>
+    <w>mångkulturell</w>
+  </absaspan>
+  <w>storstad</w>
+  <w>.</w>
+  <w>Hit</w>
+  <w>söker</w>
+  <w>sig</w>
+  <absaspan id=10>
+    <w>människor</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>forma</w>
+  <w>sina</w>
+  <w>liv</w>
+  <w>,</w>
+  <absaspan id=11 senti=4>
+    <w>möjliggöra</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>sina</w>
+    <w>livschanser</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=13 senti=4>
+    <w>förverkliga</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>sina</w>
+    <w>drömmar</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=15>
+    <w>I</w>
+    <w>detta</w>
+  </absaspan>
+  <w>finns</w>
+  <w>en</w>
+  <absaspan id=16 senti=5>
+    <w>enorm</w>
+    <w>potential</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>också</w>
+  <absaspan id=17>
+    <w>sådant</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=18 senti=4>
+    <w>måste</w>
+    <w>förbättras</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Trots</w>
+  <w>att</w>
+  <w>Stockholm</w>
+  <w>är</w>
+  <w>Sveriges</w>
+  <w>tillväxtmotor</w>
+  <w>och</w>
+  <w>en</w>
+  <w>av</w>
+  <w>de</w>
+  <w>fem</w>
+  <w>mest</w>
+  <w>växande</w>
+  <w>regionerna</w>
+  <w>i</w>
+  <w>Europa</w>
+  <w>,</w>
+  <w>finns</w>
+  <w>i</w>
+  <w>ytterstaden</w>
+  <w>utanförskap</w>
+  <w>,</w>
+  <w>bidragsberoende</w>
+  <w>,</w>
+  <w>otrygghet</w>
+  <w>och</w>
+  <w>sjunkande</w>
+  <w>skolresultat</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>För</w>
+  <w>att</w>
+  <absaspan id=19>
+    <w>människor</w>
+    <w>i</w>
+    <w>Stockholm</w>
+  </absaspan>
+  <w>ska</w>
+  <w>kunna</w>
+  <absaspan id=20 senti=4>
+    <w>förverkliga</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>sina</w>
+    <w>drömmar</w>
+  </absaspan>
+  <w>och</w>
+  <w>leva</w>
+  <w>självständiga</w>
+  <w>liv</w>
+  <w>behövs</w>
+  <w>både</w>
+  <w>kortsiktiga</w>
+  <w>åtgärder</w>
+  <w>och</w>
+  <w>en</w>
+  <w>långsiktig</w>
+  <w>politik</w>
+  <w>.</w>
+  <absaspan id=22>
+    <w>Politiska</w>
+    <w>mål</w>
+  </absaspan>
+  <absaspan id=23 senti=4>
+    <w>behöver</w>
+    <w>vara</w>
+    <w>skarpa</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>ansvar</w>
+  <w>ska</w>
+  <w>kunna</w>
+  <w>utkrävas</w>
+  <w>och</w>
+  <absaspan id=24>
+    <w>förslag</w>
+  </absaspan>
+  <absaspan id=25 senti=4>
+    <w>måste</w>
+    <w>präglas</w>
+    <w>av</w>
+    <w>långsiktighet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=26 senti=4>
+    <w>Avgörande</w>
+    <w>är</w>
+    <w>också</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=27>
+    <w>mål</w>
+    <w>och</w>
+    <w>resultat</w>
+    <w>utvärderas</w>
+    <w>och</w>
+    <w>granskas</w>
+  </absaspan>
+  <w>.</w>
+  <w>Därför</w>
+  <w>tar</w>
+  <w>vi</w>
+  <w>nu</w>
+  <w>ett</w>
+  <w>gemensamt</w>
+  <w>grepp</w>
+  <w>om</w>
+  <w>Stockholms</w>
+  <w>utveckling</w>
+  <w>genom</w>
+  <w>ett</w>
+  <w>Framtidskontrakt</w>
+  <w>för</w>
+  <w>Stockholm</w>
+  <w>med</w>
+  <w>politiska</w>
+  <w>förslag</w>
+  <w>som</w>
+  <w>är</w>
+  <w>långsiktiga</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>har</w>
+  <w>en</w>
+  <w>tidshorisont</w>
+  <w>med</w>
+  <w>ett</w>
+  <w>generationsperspektiv</w>
+  <w>som</w>
+  <w>spänner</w>
+  <w>över</w>
+  <w>trettio</w>
+  <w>år</w>
+  <w>och</w>
+  <w>kommer</w>
+  <w>kontinuerligt</w>
+  <w>att</w>
+  <w>utvärdera</w>
+  <w>så</w>
+  <w>att</w>
+  <w>målen</w>
+  <w>uppnås</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Framtidskontraktet</w>
+  <w>innebär</w>
+  <w>åtgärder</w>
+  <w>på</w>
+  <w>de</w>
+  <absaspan id=28>
+    <w>områden</w>
+    <w>där</w>
+    <w>medborgarnas</w>
+    <w>frihet</w>
+    <w>,</w>
+    <w>trygghet</w>
+    <w>och</w>
+    <w>framtidschanser</w>
+    <w>idag</w>
+  </absaspan>
+  <absaspan id=29 senti=2>
+    <w>är</w>
+    <w>kringskurna</w>
+  </absaspan>
+  <w>.</w>
+  <w>För</w>
+  <w>att</w>
+  <absaspan id=30 senti=4>
+    <w>nå</w>
+    <w>framgång</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>i</w>
+    <w>detta</w>
+    <w>arbete</w>
+  </absaspan>
+  <w>tar</w>
+  <w>Alliansen</w>
+  <w>genom</w>
+  <w>Framtidskontraktet</w>
+  <w>initiativ</w>
+  <w>för</w>
+  <w>en</w>
+  <w>gemensam</w>
+  <w>överenskommelse</w>
+  <w>om</w>
+  <w>åtgärder</w>
+  <w>i</w>
+  <w>samverkan</w>
+  <w>med</w>
+  <w>samhällets</w>
+  <w>olika</w>
+  <w>aktörer</w>
+  <w>–</w>
+  <w>fastighetsföreningar</w>
+  <w>och</w>
+  <w>boende</w>
+  <w>,</w>
+  <w>företagarorganisationer</w>
+  <w>och</w>
+  <w>det</w>
+  <w>civila</w>
+  <w>samhällets</w>
+  <w>aktörer</w>
+  <w>,</w>
+  <w>regeringen</w>
+  <w>och</w>
+  <w>statliga</w>
+  <w>myndigheter</w>
+  <w>.</w>
+  <w>Stadens</w>
+  <w>del</w>
+  <w>i</w>
+  <w>överenskommelsen</w>
+  <w>ska</w>
+  <w>utgöras</w>
+  <w>av</w>
+  <w>långsiktiga</w>
+  <w>åtgärder</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=32 senti=4>
+    <w>förbättra</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>bostadsområden</w>
+    <w>och</w>
+    <w>lokalsamhällen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>I</w>
+  <w>Framtidskontraktet</w>
+  <w>finns</w>
+  <w>fyra</w>
+  <w>mål</w>
+  <w>om</w>
+  <w>jobb</w>
+  <w>,</w>
+  <w>kunskap</w>
+  <w>,</w>
+  <w>trygghet</w>
+  <w>och</w>
+  <w>stadsbyggnad</w>
+  <w>.</w>
+  <w>Varje</w>
+  <w>mål</w>
+  <w>åtföljs</w>
+  <w>av</w>
+  <w>en</w>
+  <w>rad</w>
+  <w>konkreta</w>
+  <w>förslag</w>
+  <w>och</w>
+  <w>visar</w>
+  <w>det</w>
+  <w>politiska</w>
+  <w>helhetsgrepp</w>
+  <w>vi</w>
+  <w>kopplar</w>
+  <w>om</w>
+  <w>vår</w>
+  <w>stads</w>
+  <w>utveckling</w>
+  <w>och</w>
+  <w>framtid</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Jobbmålet</w>
+  <w>:</w>
+  <w>Halvera</w>
+  <w>andelen</w>
+  <w>som</w>
+  <w>lever</w>
+  <w>på</w>
+  <w>försörjningsstöd</w>
+  <w>i</w>
+  <w>utsatta</w>
+  <w>stadsdelar</w>
+  <w>till</w>
+  <w>år</w>
+  <w>2022</w>
+  <w>.</w>
+  <w>Kvinnors</w>
+  <w>deltagande</w>
+  <w>på</w>
+  <w>arbetsmarknaden</w>
+  <w>behöver</w>
+  <w>öka</w>
+  <w>och</w>
+  <w>förutsättningarna</w>
+  <w>för</w>
+  <w>riktiga</w>
+  <w>jobb</w>
+  <w>skapas</w>
+  <w>.</w>
+  <w>För</w>
+  <w>att</w>
+  <absaspan id=34 senti=4>
+    <w>förverkliga</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>detta</w>
+  </absaspan>
+  <absaspan id=36 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=37>
+    <w>vi</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>ett</w>
+  <w>av</w>
+  <w>flera</w>
+  <w>förslag</w>
+  <w>,</w>
+  <absaspan id=38>
+    <w>ingå</w>
+    <w>en</w>
+    <w>integrationspakt</w>
+    <w>i</w>
+    <w>samverkan</w>
+    <w>med</w>
+    <w>näringslivet</w>
+    <w>,</w>
+    <w>det</w>
+    <w>civila</w>
+    <w>samhället</w>
+    <w>och</w>
+    <w>offentliga</w>
+    <w>verksamheter</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>få</w>
+  <w>till</w>
+  <w>stånd</w>
+  <w>företagsetableringar</w>
+  <w>i</w>
+  <w>ytterstaden</w>
+  <w>.</w>
+  <absaspan id=39>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=40 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <w>även</w>
+  <absaspan id=41>
+    <w>förlägga</w>
+    <w>kommunala</w>
+    <w>förvaltningar</w>
+    <w>och</w>
+    <w>statliga</w>
+    <w>myndigheter</w>
+    <w>till</w>
+    <w>stadsdelar</w>
+    <w>i</w>
+    <w>ytterstaden</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Kunskapsmålet</w>
+  <w>:</w>
+  <w>Halvera</w>
+  <w>andelen</w>
+  <w>elever</w>
+  <w>i</w>
+  <w>skolor</w>
+  <w>i</w>
+  <w>utsatta</w>
+  <w>stadsdelar</w>
+  <w>som</w>
+  <w>går</w>
+  <w>ut</w>
+  <w>skolan</w>
+  <w>utan</w>
+  <w>gymnasiebehörighet</w>
+  <w>till</w>
+  <w>2022</w>
+  <w>.</w>
+  <w>Bland</w>
+  <w>våra</w>
+  <w>förslag</w>
+  <w>finns</w>
+  <w>att</w>
+  <w>det</w>
+  <w>krävs</w>
+  <absaspan id=42 senti=4>
+    <w>högt</w>
+    <w>ställda</w>
+    <w>förväntningar</w>
+  </absaspan>
+  <w>på</w>
+  <absaspan id=43>
+    <w>lärarprofessionen</w>
+  </absaspan>
+  <w>på</w>
+  <w>alla</w>
+  <w>Stockholms</w>
+  <w>skolor</w>
+  <absaspan id=44>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=45>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=46 senti=4>
+    <w>vill</w>
+    <w>attrahera</w>
+  </absaspan>
+  <absaspan id=47>
+    <w>skickliga</w>
+    <w>lärare</w>
+    <w>och</w>
+    <w>skollärare</w>
+  </absaspan>
+  <w>till</w>
+  <w>hela</w>
+  <w>staden</w>
+  <w>genom</w>
+  <w>att</w>
+  <w>exempelvis</w>
+  <w>bygga</w>
+  <w>ut</w>
+  <w>förstelärarreformen</w>
+  <w>.</w>
+  <absaspan id=48>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=49 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=50>
+    <w>filialer</w>
+    <w>till</w>
+    <w>attraktiva</w>
+    <w>skolor</w>
+    <w>ska</w>
+    <w>kunna</w>
+    <w>öppna</w>
+    <w>i</w>
+    <w>ytterstaden</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=51 senti=4>
+    <w>vara</w>
+    <w>tillmötesgående</w>
+  </absaspan>
+  <w>mot</w>
+  <w>de</w>
+  <absaspan id=52>
+    <w>friskolor</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=53 senti=4>
+    <w>ville</w>
+  </absaspan>
+  <absaspan id=54>
+    <w>expandera</w>
+    <w>där</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>behövs</w>
+  <w>ökad</w>
+  <w>undervisningstid</w>
+  <w>,</w>
+  <w>lovskola</w>
+  <w>och</w>
+  <w>lördagsskola</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Trygghetsmålet</w>
+  <w>:</w>
+  <w>Halvera</w>
+  <w>den</w>
+  <absaspan id=55 senti=2>
+    <w>upplevda</w>
+    <w>otryggheten</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=56>
+    <w>de</w>
+    <w>stadsdelar</w>
+    <w>där</w>
+    <w>otryggheten</w>
+    <w>är</w>
+    <w>störst</w>
+  </absaspan>
+  <absaspan id=57>
+    <w>.</w>
+  </absaspan>
+  <w>Det</w>
+  <w>behövs</w>
+  <w>fler</w>
+  <w>kommunala</w>
+  <w>ordningsvakter</w>
+  <w>och</w>
+  <w>deras</w>
+  <w>befogenheter</w>
+  <w>måste</w>
+  <w>utökas</w>
+  <w>så</w>
+  <w>de</w>
+  <w>kan</w>
+  <w>avlasta</w>
+  <w>polisen</w>
+  <w>lokalt</w>
+  <w>.</w>
+  <w>Trygghetskamerorna</w>
+  <w>behöver</w>
+  <w>bli</w>
+  <w>många</w>
+  <w>fler</w>
+  <w>på</w>
+  <absaspan id=58 senti=2>
+    <w>otrygga</w>
+  </absaspan>
+  <absaspan id=59>
+    <w>platser</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=60>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=61 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=62>
+    <w>inrätta</w>
+    <w>en</w>
+    <w>central</w>
+    <w>stadsövergripande</w>
+    <w>trygghetsjour</w>
+  </absaspan>
+  <w>dit</w>
+  <w>näringsidkare</w>
+  <w>kan</w>
+  <w>vända</w>
+  <w>sig</w>
+  <w>för</w>
+  <w>att</w>
+  <w>få</w>
+  <w>hjälp</w>
+  <w>.</w>
+  <absaspan id=63>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=64 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <w>också</w>
+  <absaspan id=65>
+    <w>skapa</w>
+    <w>fler</w>
+    <w>rättscentra</w>
+    <w>i</w>
+    <w>ytterstaden</w>
+    <w>med</w>
+    <w>polis</w>
+    <w>,</w>
+    <w>åklagare</w>
+    <w>,</w>
+    <w>domstolar</w>
+    <w>och</w>
+    <w>socialtjänst</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Stadsmiljömålet</w>
+  <w>:</w>
+  <w>Öka</w>
+  <w>andelen</w>
+  <w>arbetsplatser</w>
+  <w>och</w>
+  <w>servicefunktioner</w>
+  <w>i</w>
+  <w>stadsdelar</w>
+  <w>som</w>
+  <w>domineras</w>
+  <w>av</w>
+  <w>bostäder</w>
+  <w>.</w>
+  <absaspan id=66>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=67 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=68>
+    <w>tillämpa</w>
+    <w>inkluderande</w>
+    <w>stadsplanering</w>
+    <w>som</w>
+    <w>utformar</w>
+    <w>offentliga</w>
+    <w>miljöer</w>
+    <w>med</w>
+    <w>trygghet</w>
+    <w>i</w>
+    <w>fokus</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>Stockholm</w>
+  <w>ska</w>
+  <absaspan id=69>
+    <w>renhållningen</w>
+  </absaspan>
+  <w>vara</w>
+  <absaspan id=70 senti=4>
+    <w>pålitlig</w>
+  </absaspan>
+  <w>,</w>
+  <w>klottersanering</w>
+  <w>ske</w>
+  <w>inom</w>
+  <w>tjugofyra</w>
+  <w>timmar</w>
+  <w>och</w>
+  <w>belysningen</w>
+  <w>utökas</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>ska</w>
+  <w>inte</w>
+  <w>finnas</w>
+  <w>tomställda</w>
+  <w>lokaler</w>
+  <w>i</w>
+  <w>stadens</w>
+  <w>fastighetsbestånd</w>
+  <w>,</w>
+  <w>utan</w>
+  <w>dessa</w>
+  <w>ska</w>
+  <w>upplåtas</w>
+  <w>till</w>
+  <w>nya</w>
+  <w>hyresgäster</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=71 senti=2>
+    <w>motverka</w>
+  </absaspan>
+  <absaspan id=72>
+    <w>ödslighet</w>
+    <w>och</w>
+    <w>otrygghet</w>
+    <w>.</w>
+  </absaspan>
+  <w>Upplåtelseformerna</w>
+  <w>för</w>
+  <w>bostäder</w>
+  <w>ska</w>
+  <w>vara</w>
+  <w>blandade</w>
+  <w>och</w>
+  <w>inga</w>
+  <w>stadsdelar</w>
+  <w>tillåtas</w>
+  <w>bli</w>
+  <w>enklaver</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Vi</w>
+  <w>förtroendevalda</w>
+  <w>arbetar</w>
+  <w>på</w>
+  <w>medborgarnas</w>
+  <w>mandat</w>
+  <w>.</w>
+  <w>I</w>
+  <w>valet</w>
+  <w>2018</w>
+  <absaspan id=73 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=74>
+    <w>få</w>
+    <w>stockholmarnas</w>
+    <w>förtroende</w>
+  </absaspan>
+  <w>att</w>
+  <w>göra</w>
+  <w>verklighet</w>
+  <w>av</w>
+  <w>alla</w>
+  <w>förslag</w>
+  <w>i</w>
+  <w>detta</w>
+  <w>Framtidskontrakt</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Till</w>
+  <w>skillnad</w>
+  <w>från</w>
+  <w>den</w>
+  <w>socialdemokratiskt</w>
+  <w>ledda</w>
+  <w>majoritet</w>
+  <w>som</w>
+  <w>nu</w>
+  <w>styr</w>
+  <w>staden</w>
+  <w>,</w>
+  <w>ger</w>
+  <w>vi</w>
+  <w>löften</w>
+  <w>om</w>
+  <w>en</w>
+  <w>långsiktig</w>
+  <w>politik</w>
+  <w>med</w>
+  <w>skarpa</w>
+  <w>mål</w>
+  <w>,</w>
+  <w>en</w>
+  <w>politik</w>
+  <w>som</w>
+  <w>utvecklar</w>
+  <w>såväl</w>
+  <w>enskilda</w>
+  <w>människors</w>
+  <w>livssituationer</w>
+  <w>som</w>
+  <w>hela</w>
+  <w>Stockholm</w>
+  <w>,</w>
+  <w>och</w>
+  <w>alla</w>
+  <w>stadsdelar</w>
+  <w>.</w>
+  <w>Stockholmarnas</w>
+  <w>möjligheter</w>
+  <w>ska</w>
+  <w>inte</w>
+  <w>begränsas</w>
+  <w>av</w>
+  <w>bostadsadressen</w>
+  <w>,</w>
+  <w>utan</w>
+  <w>av</w>
+  <w>den</w>
+  <w>egna</w>
+  <w>förmågan</w>
+  <w>,</w>
+  <w>fliten</w>
+  <w>och</w>
+  <w>viljan</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Hela</w>
+  <absaspan id=75>
+    <w>Stockholm</w>
+  </absaspan>
+  <w>ska</w>
+  <w>jobba</w>
+  <w>,</w>
+  <w>ha</w>
+  <absaspan id=76 senti=4>
+    <w>bra</w>
+  </absaspan>
+  <absaspan id=77>
+    <w>skolor</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=78 senti=4>
+    <w>vara</w>
+    <w>tryggt</w>
+  </absaspan>
+  <w>och</w>
+  <w>präglas</w>
+  <w>av</w>
+  <absaspan id=79 senti=4>
+    <w>attraktiva</w>
+  </absaspan>
+  <absaspan id=80>
+    <w>stadsmiljöer</w>
+  </absaspan>
+  <w>.</w>
+  <w>Framtidskontraktet</w>
+  <w>är</w>
+  <w>Alliansens</w>
+  <w>långsiktiga</w>
+  <w>politik</w>
+  <w>för</w>
+  <w>att</w>
+  <w>skapa</w>
+  <w>ett</w>
+  <absaspan id=81 senti=4>
+    <w>inkluderande</w>
+  </absaspan>
+  <absaspan id=82>
+    <w>Stockholm</w>
+  </absaspan>
+  <w>med</w>
+  <w>livschanser</w>
+  <w>för</w>
+  <w>alla</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Anna</w>
+  <w>König</w>
+  <w>Jerlmyr</w>
+  <w>,</w>
+  <w>oppositionsborgarråd</w>
+  <w>och</w>
+  <w>gruppledare</w>
+  <w>i</w>
+  <w>Stockholms</w>
+  <w>stad</w>
+  <w>(</w>
+  <w>M</w>
+  <w>)</w>
+  <w>Lotta</w>
+  <w>Edholm</w>
+  <w>,</w>
+  <w>oppositionsborgarråd</w>
+  <w>och</w>
+  <w>gruppledare</w>
+  <w>i</w>
+  <w>Stockholms</w>
+  <w>stad</w>
+  <w>(</w>
+  <w>L</w>
+  <w>)</w>
+  <w>Karin</w>
+  <w>Ernlund</w>
+  <w>,</w>
+  <w>gruppledare</w>
+  <w>i</w>
+  <w>Stockholms</w>
+  <w>stad</w>
+  <w>(</w>
+  <w>C</w>
+  <w>)</w>
+  <w>Erik</w>
+  <w>Slottner</w>
+  <w>,</w>
+  <w>gruppledare</w>
+  <w>i</w>
+  <w>Stockholms</w>
+  <w>stad</w>
+  <w>(</w>
+  <w>KD</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>Häng</w>
+  <w>med</w>
+  <w>i</w>
+  <w>debatten</w>
+  <w>och</w>
+  <w>kommentera</w>
+  <w>artikeln</w>
+  <w>–</w>
+  <w>följ</w>
+  <w>Debatt</w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>.</w>
+</absapar>
+</absadoc>

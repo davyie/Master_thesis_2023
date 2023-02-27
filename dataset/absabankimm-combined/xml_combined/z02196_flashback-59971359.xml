@@ -1,0 +1,232 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Karin</w>
+    <w>Rågsjö</w>
+  </absaspan>
+  <w>(</w>
+  <w>V</w>
+  <w>)</w>
+  <absaspan id=2 senti=2 source=1>
+    <w>vill</w>
+    <w>inte</w>
+    <w>ha</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>orolig</w>
+    <w>väljares</w>
+    <w>röst</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=4 senti=2>
+    <w>kallar</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>honom</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>rasist</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=7>
+    <w>Väljaren</w>
+    <w>"</w>
+    <w>Love</w>
+  </absaspan>
+  <w>"</w>
+  <w>skrev</w>
+  <w>ett</w>
+  <w>mail</w>
+  <w>häromdagen</w>
+  <w>till</w>
+  <w>Rågsjö</w>
+  <w>,</w>
+  <w>riksdagsledamot</w>
+  <w>för</w>
+  <w>Vänsterpartiet</w>
+  <w>,</w>
+  <w>där</w>
+  <w>han</w>
+  <absaspan id=8 senti=2>
+    <w>uttrycker</w>
+    <w>en</w>
+    <w>oro</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>att</w>
+    <w>kriminaliteten</w>
+    <w>verkar</w>
+    <w>öka</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>,</w>
+  <w>att</w>
+  <w>han</w>
+  <w>även</w>
+  <w>i</w>
+  <w>en</w>
+  <w>liten</w>
+  <w>ort</w>
+  <w>känner</w>
+  <w>av</w>
+  <w>förändringar</w>
+  <w>och</w>
+  <w>folk</w>
+  <w>är</w>
+  <w>rädda</w>
+  <w>för</w>
+  <w>att</w>
+  <w>gå</w>
+  <w>ute</w>
+  <w>på</w>
+  <w>kvällarna</w>
+  <w>.</w>
+  <absaspan id=10>
+    <w>Han</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>ifrågasätter</w>
+    <w>varför</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>man</w>
+    <w>kan</w>
+    <w>lägga</w>
+    <w>så</w>
+    <w>mycket</w>
+    <w>pengar</w>
+    <w>på</w>
+    <w>invandring</w>
+    <w>medan</w>
+    <w>sjukdomen</w>
+    <w>är</w>
+    <w>så</w>
+    <w>pass</w>
+    <w>underfinansierad</w>
+    <w>i</w>
+    <w>Västernorrland</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Hela</w>
+  <w>"</w>
+  <w>Loves</w>
+  <w>"</w>
+  <w>mail</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Svaret</w>
+  <w>han</w>
+  <w>får</w>
+  <w>tillbaks</w>
+  <w>lyder</w>
+  <w>:</w>
+  <w></w>
+  <w>Hej</w>
+  <w>!</w>
+  <w>Ta</w>
+  <w>reda</w>
+  <w>på</w>
+  <w>fakta</w>
+  <w>innan</w>
+  <w>du</w>
+  <w>skriver</w>
+  <w>den</w>
+  <w>här</w>
+  <w>typen</w>
+  <w>av</w>
+  <w>rasistiska</w>
+  <w>mejl</w>
+  <w>till</w>
+  <w>mig</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>I</w>
+  <w>mitt</w>
+  <w>kära</w>
+  <w>Sverige</w>
+  <w>tågar</w>
+  <w>inte</w>
+  <w>nazister</w>
+  <w>på</w>
+  <w>gatan</w>
+  <w>och</w>
+  <w>bränner</w>
+  <w>ned</w>
+  <w>flyktingförläggningar</w>
+  <w>.</w>
+  <w>I</w>
+  <w>mitt</w>
+  <w>kära</w>
+  <w>Sverige</w>
+  <w>är</w>
+  <w>folk</w>
+  <w>så</w>
+  <w>pass</w>
+  <w>pålästa</w>
+  <w>att</w>
+  <w>de</w>
+  <w>kan</w>
+  <w>skilja</w>
+  <w>lögn</w>
+  <w>från</w>
+  <w>sanning</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Mvh</w>
+  <w>Karin</w>
+  <w>Rågsjö</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>PS</w>
+  <w>:</w>
+  <w>Tror</w>
+  <w>inte</w>
+  <w>jag</w>
+  <w>vill</w>
+  <w>ha</w>
+  <w>din</w>
+  <w>röst</w>
+  <w></w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Tror</w>
+  <w>ni</w>
+  <w>det</w>
+  <w>blir</w>
+  <w>några</w>
+  <w>konsekvenser</w>
+  <w>för</w>
+  <w>politikern</w>
+  <w>?</w>
+  <absaspan id=13 senti=2>
+    <w>Kan</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>man</w>
+    <w>verkligen</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>avvisa</w>
+    <w>en</w>
+    <w>väljare</w>
+    <w>på</w>
+    <w>detta</w>
+    <w>sätt</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

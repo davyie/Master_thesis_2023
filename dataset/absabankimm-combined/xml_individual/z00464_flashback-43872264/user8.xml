@@ -1,0 +1,72 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>119</w>
+  <w>fönsterrutor</w>
+  <w>pangade</w>
+  <w>på</w>
+  <w>Migrationsverket</w>
+  <w>i</w>
+  <w>Malmö</w>
+  <w>(</w>
+  <w>givetvis</w>
+  <w>)</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Det</w>
+  <w>verkar</w>
+  <w>som</w>
+  <w>om</w>
+  <absaspan id=1>
+    <w>några</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>är</w>
+    <w>missnöjda</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>migrationsverket</w>
+    <w>i</w>
+    <w>Malmö</w>
+  </absaspan>
+  <w>.</w>
+  <w>Flera</w>
+  <w>bilar</w>
+  <w>vandaliserade</w>
+  <w>också</w>
+  <w>.</w>
+  <w>Nån</w>
+  <w>som</w>
+  <w>fått</w>
+  <w>avslag</w>
+  <w>eller</w>
+  <w>sedvanliga</w>
+  <w>"</w>
+  <w>pojkstreck</w>
+  <w>"</w>
+  <w>av</w>
+  <absaspan id=4 senti=4 irony>
+    <w>berikare</w>
+  </absaspan>
+  <w>?</w>
+  <w>Tidningen</w>
+  <w>skriver</w>
+  <w>inte</w>
+  <w>så</w>
+  <w>mycket</w>
+  <w>,</w>
+  <w>så</w>
+  <w>FB</w>
+  <w>kanske</w>
+  <w>har</w>
+  <w>mer</w>
+  <w>info</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

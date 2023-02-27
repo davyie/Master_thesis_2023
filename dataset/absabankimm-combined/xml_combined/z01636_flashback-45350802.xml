@@ -1,0 +1,85 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Miljöpartiet</w>
+  <w>satsar</w>
+  <w>350</w>
+  <w>miljoner</w>
+  <w>för</w>
+  <w>att</w>
+  <w>mota</w>
+  <w>rasism</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>LYSTRING</w>
+  <w>MEDBORGARE</w>
+  <w>!</w>
+  <w>MILJÖPARTIET</w>
+  <w>HAR</w>
+  <w>TALAT</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Länk</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Hur</w>
+  <w>ska</w>
+  <w>invånarna</w>
+  <absaspan id=1 senti=1>
+    <w>indoktrineras</w>
+  </absaspan>
+  <w>och</w>
+  <w>vad</w>
+  <w>menar</w>
+  <w>man</w>
+  <w>egentligen</w>
+  <w>med</w>
+  <w>"</w>
+  <w>de</w>
+  <w>så</w>
+  <w>kallade</w>
+  <w>vit-maktmiljöerna</w>
+  <w>är</w>
+  <w>också</w>
+  <w>kostsamma</w>
+  <w>i</w>
+  <w>form</w>
+  <w>av</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>och</w>
+  <w>ekonomiskt</w>
+  <w>bistånd</w>
+  <w>"</w>
+  <w>när</w>
+  <w>det</w>
+  <w>i</w>
+  <w>själva</w>
+  <w>verket</w>
+  <w>är</w>
+  <absaspan id=2 senti=1>
+    <w>vänsterextremister</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=3 senti=1>
+    <w>ser</w>
+    <w>till</w>
+    <w>att</w>
+    <w>demonstrationer</w>
+    <w>och</w>
+    <w>torgmöten</w>
+    <w>urartar</w>
+    <w>i</w>
+    <w>våld</w>
+    <w>och</w>
+    <w>stenkastning</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

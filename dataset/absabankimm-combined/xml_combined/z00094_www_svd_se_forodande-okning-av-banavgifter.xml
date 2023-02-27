@@ -1,0 +1,900 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=1 target=2>
+    <w>Förödande</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>ökning</w>
+  </absaspan>
+  <w>av</w>
+  <w>banavgifter</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>BANAVGIFTER</w>
+  <w>Vd</w>
+  <w>för</w>
+  <w>Tågoperatörerna</w>
+  <w>,</w>
+  <absaspan id=3>
+    <w>Peder</w>
+    <w>Wadman</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=4 senti=1>
+    <w>riktar</w>
+    <w>hård</w>
+    <w>kritik</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>beslutet</w>
+    <w>att</w>
+    <w>höja</w>
+    <w>banavgifterna</w>
+    <w>för</w>
+    <w>tågtrafiken</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=6>
+    <w>ett</w>
+    <w>beslut</w>
+    <w>som</w>
+  </absaspan>
+  <w>enligt</w>
+  <absaspan id=7>
+    <w>Wadman</w>
+  </absaspan>
+  <absaspan id=8 senti=1>
+    <w>kan</w>
+    <w>få</w>
+    <w>förödande</w>
+    <w>konsekvenser</w>
+  </absaspan>
+  <w>både</w>
+  <w>för</w>
+  <w>tågbranschen</w>
+  <w>och</w>
+  <w>miljön</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Under</w>
+  <w>de</w>
+  <w>senaste</w>
+  <w>fyra</w>
+  <w>åren</w>
+  <absaspan id=9 senti=4>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>regeringen</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>vidtagit</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>flera</w>
+    <w>åtgärder</w>
+    <w>för</w>
+    <w>att</w>
+    <w>stärka</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>järnvägen</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=14 senti=4>
+    <w>bidra</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>en</w>
+    <w>fortsatt</w>
+  </absaspan>
+  <absaspan id=16 senti=4>
+    <w>positiv</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>utveckling</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>i</w>
+    <w>sektorn</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>har</w>
+  <w>handlat</w>
+  <w>om</w>
+  <w>närtidssatsningar</w>
+  <w>för</w>
+  <w>att</w>
+  <w>komma</w>
+  <w>till</w>
+  <w>rätta</w>
+  <w>med</w>
+  <absaspan id=19 senti=2>
+    <w>eftersatt</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>underhåll</w>
+  </absaspan>
+  <w>och</w>
+  <w>kraftsamlingar</w>
+  <w>i</w>
+  <w>storstadsregionerna</w>
+  <w>.</w>
+  <w>Man</w>
+  <w>har</w>
+  <w>också</w>
+  <w>medvetet</w>
+  <w>arbetat</w>
+  <w>för</w>
+  <w>en</w>
+  <w>fortsatt</w>
+  <w>avreglering</w>
+  <w>och</w>
+  <w>marknadsöppning</w>
+  <w>.</w>
+  <w>I</w>
+  <w>flera</w>
+  <w>sammanhang</w>
+  <absaspan id=21 senti=4>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>regeringsföreträdare</w>
+  </absaspan>
+  <absaspan id=23 senti=4>
+    <w>uttalat</w>
+  </absaspan>
+  <absaspan id=24 senti=4>
+    <w>sig</w>
+    <w>positivt</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>järnvägens</w>
+    <w>framtid</w>
+    <w>och</w>
+    <w>dess</w>
+    <w>betydelse</w>
+    <w>både</w>
+    <w>för</w>
+    <w>tillväxten</w>
+    <w>och</w>
+    <w>klimatmålen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Med</w>
+  <w>detta</w>
+  <w>i</w>
+  <w>åtanke</w>
+  <absaspan id=26 senti=2>
+    <w>blir</w>
+  </absaspan>
+  <w>det</w>
+  <absaspan id=27 senti=2>
+    <w>svårt</w>
+  </absaspan>
+  <absaspan id=28 senti=2>
+    <w>att</w>
+    <w>förstå</w>
+    <w>varför</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>man</w>
+  </absaspan>
+  <w>nu</w>
+  <absaspan id=30>
+    <w>vill</w>
+    <w>genomföra</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>en</w>
+    <w>höjning</w>
+    <w>av</w>
+    <w>ban-avgifterna</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=32 senti=2>
+    <w>lägger</w>
+    <w>krokben</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>järnvägstransporter</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Under</w>
+  <w>en</w>
+  <w>fyraårsperiod</w>
+  <w>vill</w>
+  <w>regeringen</w>
+  <w>fördubbla</w>
+  <w>banavgifterna</w>
+  <w>från</w>
+  <w>dagens</w>
+  <w>500</w>
+  <w>miljoner</w>
+  <w>kr</w>
+  <w>/</w>
+  <w>år</w>
+  <w>till</w>
+  <w>1000</w>
+  <w>miljoner</w>
+  <w>kr</w>
+  <w>/</w>
+  <w>år</w>
+  <w>.</w>
+  <w>Tillsammans</w>
+  <w>med</w>
+  <w>andra</w>
+  <w>föreslagna</w>
+  <w>avgifter</w>
+  <w>motsvarar</w>
+  <w>höjningen</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>det</w>
+  <w>samlade</w>
+  <w>rörelseresultatet</w>
+  <w>hos</w>
+  <w>järnvägsföretagen</w>
+  <w>.</w>
+  <w>Samman</w>
+  <w>-</w>
+  <w>taget</w>
+  <w>kommer</w>
+  <w>–</w>
+  <w>enligt</w>
+  <w>Trafi</w>
+  <w>-</w>
+  <w>kverkets</w>
+  <w>beräkningar</w>
+  <w>och</w>
+  <w>regeringens</w>
+  <w>fastställda</w>
+  <w>nationella</w>
+  <w>plan</w>
+  <w>–</w>
+  <w>avgiftsuttaget</w>
+  <w>från</w>
+  <w>sektorn</w>
+  <w>att</w>
+  <w>öka</w>
+  <w>med</w>
+  <w>8,8</w>
+  <w>miljarder</w>
+  <w>den</w>
+  <w>närmaste</w>
+  <w>planperioden</w>
+  <w>.</w>
+  <absaspan id=34>
+    <w>Järnvägsföretagen</w>
+  </absaspan>
+  <absaspan id=35 senti=4>
+    <w>har</w>
+    <w>bejakat</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>en</w>
+    <w>förändring</w>
+    <w>av</w>
+    <w>banavgifterna</w>
+    <w>så</w>
+    <w>att</w>
+    <w>till</w>
+    <w>exempel</w>
+    <w>de</w>
+    <w>tåg</w>
+    <w>som</w>
+    <w>får</w>
+    <w>högst</w>
+    <w>prioritet</w>
+    <w>och</w>
+    <w>snabbast</w>
+    <w>restid</w>
+    <w>betalar</w>
+    <w>mer</w>
+  </absaspan>
+  <w>,</w>
+  <w>för</w>
+  <w>att</w>
+  <w>effektivisera</w>
+  <w>användningen</w>
+  <w>av</w>
+  <w>infrastrukturen</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>har</w>
+  <w>också</w>
+  <w>sagt</w>
+  <w>att</w>
+  <w>vissa</w>
+  <w>delar</w>
+  <w>av</w>
+  <w>marknaden</w>
+  <w>kan</w>
+  <w>tåla</w>
+  <w>höjda</w>
+  <w>avgifter</w>
+  <w>om</w>
+  <w>infrastrukturen</w>
+  <w>byggs</w>
+  <w>ut</w>
+  <w>och</w>
+  <w>leveranskvaliteten</w>
+  <w>förbättras</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=37>
+    <w>att</w>
+    <w>ensidigt</w>
+    <w>höja</w>
+    <w>järnvägens</w>
+    <w>avgifter</w>
+    <w>på</w>
+    <w>det</w>
+    <w>sätt</w>
+    <w>som</w>
+    <w>nu</w>
+    <w>planeras</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=38 senti=4>
+    <w>försämrar</w>
+  </absaspan>
+  <w>järnvägens</w>
+  <w>konkurrenskraft</w>
+  <w>och</w>
+  <w>driver</w>
+  <w>godset</w>
+  <w>och</w>
+  <w>resandet</w>
+  <w>ut</w>
+  <w>på</w>
+  <w>vägarna</w>
+  <w>.</w>
+  <w>Branschens</w>
+  <w>bedömning</w>
+  <w>är</w>
+  <w>att</w>
+  <w>den</w>
+  <w>avgiftsnivå</w>
+  <w>som</w>
+  <w>gällt</w>
+  <w>hittills</w>
+  <w>under</w>
+  <w>2000</w>
+  <w>-</w>
+  <w>talet</w>
+  <w>skapat</w>
+  <w>en</w>
+  <w>balans</w>
+  <w>mellan</w>
+  <w>transportslagen</w>
+  <w>–</w>
+  <w>en</w>
+  <absaspan id=39>
+    <w>balans</w>
+  </absaspan>
+  <w>som</w>
+  <w>nu</w>
+  <absaspan id=40 senti=2>
+    <w>rubbas</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Finansministern</w>
+  <w>har</w>
+  <w>reagerat</w>
+  <w>kraftigt</w>
+  <w>på</w>
+  <w>alla</w>
+  <w>förslag</w>
+  <w>till</w>
+  <w>kilometerskatt</w>
+  <w>på</w>
+  <w>väg</w>
+  <w>och</w>
+  <w>höjda</w>
+  <w>bensinskatter</w>
+  <w>,</w>
+  <w>med</w>
+  <w>hänvisning</w>
+  <w>till</w>
+  <w>att</w>
+  <w>det</w>
+  <w>ökar</w>
+  <w>inflationen</w>
+  <w>och</w>
+  <w>höjer</w>
+  <w>räntorna</w>
+  <w>.</w>
+  <absaspan id=41>
+    <w>Han</w>
+  </absaspan>
+  <w>har</w>
+  <w>också</w>
+  <w>hänvisat</w>
+  <w>till</w>
+  <w>det</w>
+  <absaspan id=42 senti=2>
+    <w>mycket</w>
+    <w>känsliga</w>
+  </absaspan>
+  <absaspan id=43>
+    <w>läge</w>
+  </absaspan>
+  <w>som</w>
+  <w>svensk</w>
+  <w>ekonomi</w>
+  <w>nu</w>
+  <w>befinner</w>
+  <w>sig</w>
+  <w>i</w>
+  <w>,</w>
+  <w>med</w>
+  <w>början</w>
+  <w>på</w>
+  <w>en</w>
+  <w>återhämtning</w>
+  <w>efter</w>
+  <w>en</w>
+  <w>mycket</w>
+  <w>kraftig</w>
+  <w>nedgång</w>
+  <w>.</w>
+  <w>Effekterna</w>
+  <w>av</w>
+  <w>banavgiftshöjningarna</w>
+  <w>har</w>
+  <w>givetvis</w>
+  <w>samma</w>
+  <w>effekt</w>
+  <w>för</w>
+  <w>ekonomin</w>
+  <w>som</w>
+  <w>avgiftshöjningar</w>
+  <w>för</w>
+  <w>vägtrafiken</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Trafikverket</w>
+  <w>har</w>
+  <w>konstaterat</w>
+  <w>att</w>
+  <w>höjda</w>
+  <w>banavgifter</w>
+  <w>leder</w>
+  <w>till</w>
+  <w>ökade</w>
+  <w>kostnader</w>
+  <w>och</w>
+  <w>minskad</w>
+  <w>trafik</w>
+  <w>.</w>
+  <w>Enligt</w>
+  <w>branschens</w>
+  <w>egen</w>
+  <w>bedömning</w>
+  <w>kan</w>
+  <w>vi</w>
+  <w>för</w>
+  <w>den</w>
+  <w>kommersiella</w>
+  <w>persontrafiken</w>
+  <w>räkna</w>
+  <w>med</w>
+  <w>att</w>
+  <w>en</w>
+  <w>resandetillväxt</w>
+  <w>på</w>
+  <w>2</w>
+  <w>–</w>
+  <w>3</w>
+  <w>procent</w>
+  <w>per</w>
+  <w>år</w>
+  <w>kan</w>
+  <w>brytas</w>
+  <w>i</w>
+  <w>en</w>
+  <w>nedgång</w>
+  <w>när</w>
+  <w>biljettpriserna</w>
+  <w>höjs</w>
+  <w>.</w>
+  <w>Resenärerna</w>
+  <w>går</w>
+  <w>över</w>
+  <w>till</w>
+  <w>bil</w>
+  <w>och</w>
+  <w>flyg</w>
+  <w>.</w>
+  <w>För</w>
+  <w>godstrafiken</w>
+  <w>,</w>
+  <w>som</w>
+  <w>drabbats</w>
+  <w>mycket</w>
+  <w>hårt</w>
+  <w>av</w>
+  <w>finanskrisen</w>
+  <w>,</w>
+  <w>med</w>
+  <w>en</w>
+  <w>nedgång</w>
+  <w>på</w>
+  <w>ca</w>
+  <w>30</w>
+  <w>procent</w>
+  <w>2008</w>
+  <w>–</w>
+  <w>2009</w>
+  <w>,</w>
+  <w>ser</w>
+  <w>det</w>
+  <w>ännu</w>
+  <w>värre</w>
+  <w>ut</w>
+  <w>.</w>
+  <w>Med</w>
+  <w>avgiftshöjningarna</w>
+  <w>kommer</w>
+  <w>den</w>
+  <w>tunga</w>
+  <w>basindustrins</w>
+  <w>transporter</w>
+  <w>att</w>
+  <w>flytta</w>
+  <w>över</w>
+  <w>till</w>
+  <w>lastbil</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Enligt</w>
+  <w>regeringen</w>
+  <w>skall</w>
+  <w>de</w>
+  <w>höjda</w>
+  <w>banavgifterna</w>
+  <w>gå</w>
+  <w>till</w>
+  <w>ett</w>
+  <w>förbättrat</w>
+  <w>underhåll</w>
+  <w>av</w>
+  <w>infrastrukturen</w>
+  <w>.</w>
+  <absaspan id=44 senti=2>
+    <w>Tyvärr</w>
+  </absaspan>
+  <absaspan id=45 senti=2>
+    <w>ser</w>
+  </absaspan>
+  <absaspan id=46>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=47 senti=2>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=48>
+    <w>att</w>
+    <w>så</w>
+    <w>blir</w>
+    <w>fallet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Redan</w>
+  <w>för</w>
+  <w>2010</w>
+  <w>har</w>
+  <w>avgiftsuttaget</w>
+  <w>ökat</w>
+  <w>med</w>
+  <w>cirka</w>
+  <w>10</w>
+  <w>procent</w>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=49 senti=2>
+    <w>kvaliteten</w>
+  </absaspan>
+  <absaspan id=50>
+    <w>i</w>
+    <w>systemet</w>
+  </absaspan>
+  <w>(</w>
+  <w>mätt</w>
+  <w>som</w>
+  <w>punktlighet</w>
+  <w>)</w>
+  <absaspan id=51 senti=2>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=52 senti=2>
+    <w>minskat</w>
+  </absaspan>
+  <w>jämfört</w>
+  <w>med</w>
+  <w>2009</w>
+  <w>.</w>
+  <absaspan id=53>
+    <w>Branschen</w>
+  </absaspan>
+  <absaspan id=54 senti=2>
+    <w>kan</w>
+    <w>inte</w>
+    <w>acceptera</w>
+  </absaspan>
+  <absaspan id=55>
+    <w>att</w>
+    <w>betala</w>
+    <w>mer</w>
+    <w>för</w>
+    <w>sämre</w>
+    <w>kvalitet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Skräddarsydda</w>
+  <w>kurser</w>
+  <w>i</w>
+  <w>ämnen</w>
+  <w>som</w>
+  <w>intresserar</w>
+  <w>och</w>
+  <w>engagerar</w>
+  <w>både</w>
+  <w>kropp</w>
+  <w>och</w>
+  <w>själ</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Vi</w>
+  <w>kan</w>
+  <w>se</w>
+  <w>tillbaka</w>
+  <w>på</w>
+  <w>två</w>
+  <w>årtionden</w>
+  <w>av</w>
+  <w>mycket</w>
+  <w>stark</w>
+  <w>tillväxt</w>
+  <absaspan id=56>
+    <w>i</w>
+    <w>den</w>
+    <w>svenska</w>
+    <w>järnvägstrafiken</w>
+  </absaspan>
+  <w>,</w>
+  <w>parat</w>
+  <w>med</w>
+  <absaspan id=57 senti=4>
+    <w>en</w>
+    <w>markant</w>
+    <w>produktivitetsförbättring</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=58>
+    <w>Transportpolitiken</w>
+    <w>och</w>
+    <w>järnvägens</w>
+    <w>aktörer</w>
+  </absaspan>
+  <absaspan id=59 senti=4>
+    <w>har</w>
+    <w>gjort</w>
+    <w>det</w>
+    <w>möjligt</w>
+  </absaspan>
+  <w>för</w>
+  <w>människor</w>
+  <w>och</w>
+  <w>industrier</w>
+  <w>att</w>
+  <w>få</w>
+  <w>kostnadseffek-tiva</w>
+  <w>lösningar</w>
+  <w>på</w>
+  <w>sina</w>
+  <w>transportbehov</w>
+  <w>.</w>
+  <w>För</w>
+  <w>en</w>
+  <w>fortsatt</w>
+  <w>tillväxt</w>
+  <w>och</w>
+  <w>befolkningsökning</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <absaspan id=60 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=61>
+    <w>järnvägsföretagen</w>
+  </absaspan>
+  <absaspan id=62 senti=4>
+    <w>fortsätta</w>
+    <w>att</w>
+    <w>spela</w>
+    <w>en</w>
+    <w>viktig</w>
+    <w>roll</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>med</w>
+  <w>de</w>
+  <w>pålagor</w>
+  <w>som</w>
+  <w>nu</w>
+  <w>drabbar</w>
+  <w>tågoperatörerna</w>
+  <absaspan id=63 senti=2>
+    <w>är</w>
+    <w>risken</w>
+    <w>överhängande</w>
+  </absaspan>
+  <absaspan id=64>
+    <w>att</w>
+    <w>järnvägstrafiken</w>
+    <w>minskar</w>
+    <w>och</w>
+    <w>vägtrafiken</w>
+    <w>ökar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Med</w>
+  <w>hänsyn</w>
+  <w>till</w>
+  <absaspan id=65 senti=4>
+    <w>den</w>
+    <w>breda</w>
+  </absaspan>
+  <w>politiska</w>
+  <absaspan id=66 senti=4>
+    <w>enighet</w>
+  </absaspan>
+  <w>som</w>
+  <w>råder</w>
+  <w>om</w>
+  <w>att</w>
+  <w>sträva</w>
+  <w>mot</w>
+  <w>ett</w>
+  <w>mer</w>
+  <w>hållbart</w>
+  <w>samhälle</w>
+  <w>,</w>
+  <w>måste</w>
+  <w>vi</w>
+  <w>ställa</w>
+  <w>oss</w>
+  <w>frågan</w>
+  <w>:</w>
+  <w>Är</w>
+  <w>detta</w>
+  <w>verkligen</w>
+  <w>regeringens</w>
+  <w>avsikt</w>
+  <absaspan id=67>
+    <w>?</w>
+  </absaspan>
+  <absaspan id=68>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=69 senti=4>
+    <w>hoppas</w>
+  </absaspan>
+  <absaspan id=70>
+    <w>att</w>
+    <w>så</w>
+    <w>inte</w>
+    <w>är</w>
+    <w>fallet</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=71 senti=2>
+    <w>uppmanar</w>
+  </absaspan>
+  <w>därför</w>
+  <absaspan id=72>
+    <w>regeringen</w>
+  </absaspan>
+  <absaspan id=73 senti=2>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=74 senti=2>
+    <w>tänka</w>
+    <w>om</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>PEDER</w>
+  <w>WADMAN</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>vd</w>
+  <w>Branschföreningen</w>
+  <w>Tågoperatörerna</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

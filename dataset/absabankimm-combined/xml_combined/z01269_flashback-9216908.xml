@@ -1,0 +1,159 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Vilka</w>
+  <w>grupper</w>
+  <w>förlorar</w>
+  <w>på</w>
+  <w>invandringen</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>God</w>
+  <w>morgon</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <absaspan id=1>
+    <w>Babianens</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>uppfattning</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>att</w>
+    <w>det</w>
+    <w>främst</w>
+    <w>verkar</w>
+    <w>vara</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>lågutbildade</w>
+    <w>svenska</w>
+    <w>män</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>drabbas</w>
+    <w>ekonomiskt</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>invandringen</w>
+  </absaspan>
+  <w>.</w>
+  <w>Och</w>
+  <absaspan id=8>
+    <w>att</w>
+    <w>det</w>
+    <w>är</w>
+    <w>svenskar</w>
+    <w>i</w>
+    <w>den</w>
+    <w>lägre</w>
+    <w>medelklassen</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>drabbas</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>en</w>
+    <w>stor</w>
+    <w>del</w>
+    <w>av</w>
+    <w>den</w>
+    <w>invandrarrelaterade</w>
+    <w>vardagsbrottsligheten</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>verkar</w>
+  <w>också</w>
+  <w>vara</w>
+  <w>dessa</w>
+  <w>grupper</w>
+  <w>(</w>
+  <w>med</w>
+  <w>undantag</w>
+  <w>för</w>
+  <w>olika</w>
+  <w>slags</w>
+  <w>pack</w>
+  <w>)</w>
+  <w>som</w>
+  <w>utgör</w>
+  <w>kärnan</w>
+  <w>av</w>
+  <w>de</w>
+  <w>sk</w>
+  <w>.</w>
+  <w>"</w>
+  <w>realisterna</w>
+  <w>"</w>
+  <w>.</w>
+  <absaspan id=11>
+    <w>Jag</w>
+  </absaspan>
+  <w>tror</w>
+  <w>att</w>
+  <absaspan id=12>
+    <w>detta</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>allvarligt</w>
+    <w>begränsar</w>
+    <w>invandringskritikens</w>
+    <w>framgång</w>
+    <w>inom</w>
+    <w>politiken</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vad</w>
+  <w>anser</w>
+  <w>ni</w>
+  <w>andra</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1</w>
+  <w>.</w>
+  <w>Vilka</w>
+  <w>grupper</w>
+  <w>anser</w>
+  <w>du</w>
+  <w>förlorar</w>
+  <w>mest</w>
+  <w>på</w>
+  <w>invandringen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>2</w>
+  <w>.</w>
+  <w>Hur</w>
+  <w>påverkar</w>
+  <w>detta</w>
+  <w>invandringsdebatten</w>
+  <w>och</w>
+  <w>den</w>
+  <w>förda</w>
+  <w>politiken</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

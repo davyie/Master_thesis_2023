@@ -1,0 +1,45 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=1>
+    <w>Gigantisk</w>
+    <w>PK-skandal</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=2>
+    <w>Toppnamn</w>
+    <w>inom</w>
+    <w>FI</w>
+  </absaspan>
+  <absaspan id=3 senti=1 target=2>
+    <w>torterade</w>
+    <w>sin</w>
+    <w>dotter</w>
+  </absaspan>
+  <w>-</w>
+  <w>Medias</w>
+  <w>hantering</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4 senti=5>
+    <w>Formidabla</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>Fria</w>
+    <w>Tider</w>
+  </absaspan>
+  <w>droppar</w>
+  <w>en</w>
+  <w>megaskandal</w>
+  <w>inför</w>
+  <w>valet</w>
+  <w>!</w>
+  <w>Hur</w>
+  <w>kommer</w>
+  <w>media</w>
+  <w>hantera</w>
+  <w>detta</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

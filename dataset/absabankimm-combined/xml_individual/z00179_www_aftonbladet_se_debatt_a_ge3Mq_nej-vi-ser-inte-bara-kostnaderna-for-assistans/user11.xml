@@ -1,0 +1,344 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Nej</w>
+  <w>,</w>
+  <w>vi</w>
+  <w>ser</w>
+  <w>inte</w>
+  <w>bara</w>
+  <w>kostnaderna</w>
+  <w>för</w>
+  <w>assistans</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>REPLIK</w>
+  <w>.</w>
+  <w>Christian</w>
+  <w>Wass</w>
+  <w>skrev</w>
+  <w>den</w>
+  <w>23</w>
+  <w>oktober</w>
+  <w>en</w>
+  <w>debattartikel</w>
+  <w>om</w>
+  <w>det</w>
+  <w>han</w>
+  <w>och</w>
+  <w>många</w>
+  <w>med</w>
+  <w>honom</w>
+  <w>känner</w>
+  <w>kring</w>
+  <w>assistansersättningen</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>får</w>
+  <w>mängder</w>
+  <w>med</w>
+  <w>brev</w>
+  <w>och</w>
+  <w>samtal</w>
+  <w>från</w>
+  <absaspan id=1>
+    <w>personer</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>är</w>
+    <w>oroliga</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=3>
+    <w>sin</w>
+    <w>assistans</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vi</w>
+  <absaspan id=4 senti=4>
+    <w>behöver</w>
+  </absaspan>
+  <w>en</w>
+  <absaspan id=5>
+    <w>lagstiftning</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>som</w>
+    <w>bättre</w>
+    <w>kan</w>
+    <w>se</w>
+    <w>till</w>
+    <w>att</w>
+    <w>rätt</w>
+    <w>person</w>
+    <w>får</w>
+    <w>rätt</w>
+    <w>insats</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=7>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>ser</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>att</w>
+    <w>vi</w>
+    <w>kan</w>
+    <w>leva</w>
+    <w>upp</w>
+    <w>till</w>
+    <w>lagstiftningens</w>
+    <w>ambitioner</w>
+    <w>om</w>
+    <w>delaktighet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Kostnaderna</w>
+  <w>för</w>
+  <w>den</w>
+  <w>statliga</w>
+  <w>assistansersättningen</w>
+  <w>har</w>
+  <w>fördubblats</w>
+  <w>på</w>
+  <w>ungefär</w>
+  <w>tio</w>
+  <w>år</w>
+  <w>,</w>
+  <w>samtidigt</w>
+  <w>som</w>
+  <w>antalet</w>
+  <w>brukare</w>
+  <w>inte</w>
+  <w>ökat</w>
+  <w>på</w>
+  <w>samma</w>
+  <w>sätt</w>
+  <w>.</w>
+  <absaspan id=10>
+    <w>Christian</w>
+    <w>Wass</w>
+  </absaspan>
+  <w>skriver</w>
+  <w>att</w>
+  <absaspan id=11>
+    <w>regeringen</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>bara</w>
+    <w>har</w>
+    <w>kostnader</w>
+    <w>framför</w>
+    <w>ögonen</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=13>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>stämmer</w>
+    <w>inte</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vi</w>
+  <absaspan id=15 senti=4>
+    <w>behöver</w>
+  </absaspan>
+  <w>både</w>
+  <absaspan id=16 senti=4>
+    <w>stärka</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>kvaliteten</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=18 senti=4>
+    <w>bromsa</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>kostnadsökningarna</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vi</w>
+  <w>genomför</w>
+  <w>en</w>
+  <w>utredning</w>
+  <w>i</w>
+  <w>dessa</w>
+  <w>syften</w>
+  <w>.</w>
+  <w>Vi</w>
+  <absaspan id=20 senti=4>
+    <w>behöver</w>
+    <w>stärka</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>barnperspektivet</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=22 senti=4>
+    <w>säkerställa</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>rättssäkerhet</w>
+    <w>och</w>
+    <w>likvärdigheten</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Flera</w>
+  <w>rapporter</w>
+  <w>har</w>
+  <w>pekat</w>
+  <w>på</w>
+  <w>det</w>
+  <w>faktum</w>
+  <w>att</w>
+  <w>allt</w>
+  <w>mer</w>
+  <w>pengar</w>
+  <w>går</w>
+  <w>till</w>
+  <w>annat</w>
+  <w>än</w>
+  <w>själva</w>
+  <w>assistansen</w>
+  <w>.</w>
+  <w>Inspektionen</w>
+  <w>för</w>
+  <w>Socialförsäkringen</w>
+  <w>skrev</w>
+  <w>exempelvis</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>rapport</w>
+  <w>2015</w>
+  <w>:</w>
+  <w>9</w>
+  <w>att</w>
+  <w>”</w>
+  <w>Utformningen</w>
+  <w>av</w>
+  <w>assistansersättningen</w>
+  <w>innehåller</w>
+  <w>drivkrafter</w>
+  <w>,</w>
+  <w>både</w>
+  <w>för</w>
+  <w>den</w>
+  <w>assistansberättigade</w>
+  <w>och</w>
+  <w>för</w>
+  <w>anordnarna</w>
+  <w>,</w>
+  <w>att</w>
+  <w>öka</w>
+  <w>antalet</w>
+  <w>beviljade</w>
+  <w>timmar</w>
+  <w>.</w>
+  <w>Många</w>
+  <w>företag</w>
+  <w>gör</w>
+  <w>vinster</w>
+  <w>på</w>
+  <w>varje</w>
+  <w>utförd</w>
+  <w>assistanstimme</w>
+  <w>”</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Vi</w>
+  <w>behöver</w>
+  <w>göra</w>
+  <w>flera</w>
+  <w>saker</w>
+  <w>samtidigt</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Vi</w>
+  <absaspan id=24 senti=4>
+    <w>eftersträvar</w>
+  </absaspan>
+  <w>en</w>
+  <absaspan id=25>
+    <w>lag</w>
+    <w>som</w>
+    <w>bättre</w>
+    <w>ser</w>
+    <w>till</w>
+    <w>att</w>
+    <w>var</w>
+    <w>och</w>
+    <w>en</w>
+    <w>får</w>
+    <w>det</w>
+    <w>stöd</w>
+    <w>hon</w>
+    <w>eller</w>
+    <w>han</w>
+    <w>behöver</w>
+  </absaspan>
+  <w>och</w>
+  <w>få</w>
+  <w>en</w>
+  <absaspan id=26 senti=4>
+    <w>lagstiftning</w>
+  </absaspan>
+  <w>där</w>
+  <absaspan id=27>
+    <w>vi</w>
+    <w>vet</w>
+    <w>att</w>
+    <w>pengarna</w>
+    <w>används</w>
+    <w>till</w>
+    <w>det</w>
+    <w>ändamål</w>
+    <w>de</w>
+    <w>var</w>
+    <w>avsedda</w>
+    <w>för</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Åsa</w>
+  <w>Regnér</w>
+  <w>,</w>
+  <w>barn</w>
+  <w>-</w>
+  <w>,</w>
+  <w>äldre</w>
+  <w>och</w>
+  <w>jämställdhetsminister</w>
+  <w>(</w>
+  <w>S</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Häng</w>
+  <w>med</w>
+  <w>i</w>
+  <w>debatten</w>
+  <w>–</w>
+  <w>följ</w>
+  <w>Debatt</w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>.</w>
+</absapar>
+</absadoc>

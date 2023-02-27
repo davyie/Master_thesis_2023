@@ -1,0 +1,942 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Gårdsförsäljning</w>
+  <w>går</w>
+  <w>inte</w>
+  <w>ihop</w>
+  <w>med</w>
+  <w>Systemet</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Den</w>
+  <w>svenska</w>
+  <w>alkoholpolitiken</w>
+  <w>bygger</w>
+  <w>på</w>
+  <w>ett</w>
+  <w>undantag</w>
+  <w>från</w>
+  <w>EU-lagen</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>gör</w>
+  <absaspan id=1>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>gårdsförsäljning</w>
+    <w>och</w>
+    <w>detaljhandelsmonopol</w>
+    <w>inte</w>
+    <w>går</w>
+    <w>ihop</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=3>
+    <w>detta</w>
+  </absaspan>
+  <w>är</w>
+  <w>något</w>
+  <w>som</w>
+  <w>de</w>
+  <w>ivrigaste</w>
+  <w>förespråkarna</w>
+  <w>för</w>
+  <w>gårdsförsäljning</w>
+  <absaspan id=4 senti=2>
+    <w>sällan</w>
+    <w>vill</w>
+    <w>kännas</w>
+    <w>vid</w>
+  </absaspan>
+  <w>,</w>
+  <w>skriver</w>
+  <w>Rasmus</w>
+  <w>Jonlund</w>
+  <w>(</w>
+  <w>L</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Alkoholens</w>
+  <w>plats</w>
+  <w>i</w>
+  <w>vårt</w>
+  <w>samhälle</w>
+  <w>och</w>
+  <w>våra</w>
+  <w>liv</w>
+  <w>handlar</w>
+  <w>mycket</w>
+  <w>om</w>
+  <w>känslor</w>
+  <w>och</w>
+  <w>kultur</w>
+  <w>.</w>
+  <w>Varje</w>
+  <w>gång</w>
+  <w>jag</w>
+  <w>handlar</w>
+  <absaspan id=5>
+    <w>en</w>
+    <w>flaska</w>
+    <w>torr</w>
+    <w>cider</w>
+    <w>eller</w>
+    <w>mousserande</w>
+    <w>vin</w>
+  </absaspan>
+  <w>på</w>
+  <w>Systembolaget</w>
+  <w>känner</w>
+  <w>jag</w>
+  <w>själv</w>
+  <w>en</w>
+  <absaspan id=6 senti=4>
+    <w>glädje</w>
+  </absaspan>
+  <w>,</w>
+  <w>över</w>
+  <absaspan id=7>
+    <w>den</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>goda</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>drycken</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>,</w>
+    <w>det</w>
+    <w>sällskap</w>
+    <w>och</w>
+    <w>den</w>
+    <w>förtäring</w>
+    <w>den</w>
+    <w>kommer</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>avnjutas</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>med</w>
+  </absaspan>
+  <w>–</w>
+  <w>och</w>
+  <w>en</w>
+  <absaspan id=13 senti=4>
+    <w>glädje</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>över</w>
+    <w>att</w>
+    <w>jag</w>
+    <w>behöver</w>
+    <w>gå</w>
+    <w>de</w>
+    <w>extra</w>
+    <w>stegen</w>
+    <w>till</w>
+    <w>just</w>
+    <w>den</w>
+    <w>butiken</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=15>
+    <w>Över</w>
+    <w>att</w>
+    <w>barnet</w>
+    <w>i</w>
+    <w>en</w>
+    <w>familj</w>
+    <w>med</w>
+    <w>missbruksproblem</w>
+    <w>inte</w>
+    <w>behöver</w>
+    <w>vara</w>
+    <w>rädd</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>att</w>
+    <w>alkoholen</w>
+    <w>följer</w>
+    <w>med</w>
+    <w>hem</w>
+    <w>från</w>
+    <w>matbutiken</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>fast</w>
+    <w>man</w>
+    <w>inte</w>
+    <w>skulle</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Känslor</w>
+  <w>och</w>
+  <w>kultur</w>
+  <w>präglar</w>
+  <w>även</w>
+  <w>den</w>
+  <w>alkoholpolitiska</w>
+  <w>debatten</w>
+  <w>,</w>
+  <w>och</w>
+  <w>det</w>
+  <w>gäller</w>
+  <w>inte</w>
+  <w>minst</w>
+  <w>den</w>
+  <w>nu</w>
+  <w>aktuella</w>
+  <w>diskussionen</w>
+  <w>om</w>
+  <w>gårdsförsäljning</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=18>
+    <w>Argumenten</w>
+    <w>för</w>
+    <w>att</w>
+    <w>tillåta</w>
+    <w>en</w>
+    <w>lokal</w>
+    <w>svensk</w>
+    <w>vinodlare</w>
+    <w>att</w>
+    <w>sälja</w>
+    <w>några</w>
+    <w>flaskor</w>
+    <w>av</w>
+    <w>sin</w>
+    <w>egen</w>
+    <w>produkt</w>
+    <w>till</w>
+    <w>turister</w>
+    <w>eller</w>
+    <w>andra</w>
+    <w>besökare</w>
+    <w>på</w>
+    <w>hens</w>
+    <w>gård</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=19 senti=4>
+    <w>är</w>
+    <w>starka</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=20 senti=4>
+    <w>Vem</w>
+    <w>vill</w>
+    <w>motarbeta</w>
+  </absaspan>
+  <absaspan id=21 senti=4>
+    <w>levande</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>landsbygd</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>och</w>
+    <w>småföretag</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=24 senti=3>
+    <w>Problemet</w>
+    <w>är</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>den</w>
+    <w>svenska</w>
+    <w>alkoholpolitiken</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>skulle</w>
+    <w>vara</w>
+  </absaspan>
+  <absaspan id=28 senti=2>
+    <w>ogin</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>mot</w>
+    <w>svenska</w>
+    <w>vinodlare</w>
+    <w>,</w>
+    <w>utan</w>
+    <w>att</w>
+    <w>den</w>
+    <w>bygger</w>
+    <w>på</w>
+    <w>ett</w>
+    <w>undantag</w>
+    <w>från</w>
+    <w>EU-lagen</w>
+  </absaspan>
+  <w>.</w>
+  <w>Ett</w>
+  <w>undantag</w>
+  <w>som</w>
+  <w>kräver</w>
+  <w>att</w>
+  <w>alla</w>
+  <w>producenter</w>
+  <w>behandlas</w>
+  <w>lika</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=30>
+    <w>Argumenten</w>
+    <w>för</w>
+    <w>gårdsförsäljning</w>
+  </absaspan>
+  <absaspan id=31 senti=2>
+    <w>vinner</w>
+  </absaspan>
+  <w>samtidigt</w>
+  <absaspan id=32 senti=2>
+    <w>politiskt</w>
+  </absaspan>
+  <absaspan id=33 senti=2>
+    <w>stöd</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>mitt</w>
+  <w>parti</w>
+  <w>,</w>
+  <w>Liberalerna</w>
+  <w>,</w>
+  <w>fattade</w>
+  <w>förra</w>
+  <w>landsmötet</w>
+  <w>beslut</w>
+  <w>om</w>
+  <w>ett</w>
+  <w>ja</w>
+  <w>till</w>
+  <w>gårdsförsäljning</w>
+  <w>–</w>
+  <w>förutsatt</w>
+  <w>att</w>
+  <w>det</w>
+  <w>går</w>
+  <w>att</w>
+  <w>förena</w>
+  <w>med</w>
+  <w>Systembolagets</w>
+  <w>monopol</w>
+  <w>.</w>
+  <w>Centerpartiet</w>
+  <w>har</w>
+  <w>precis</w>
+  <w>tagit</w>
+  <w>stämmobeslut</w>
+  <w>både</w>
+  <w>om</w>
+  <w>ett</w>
+  <w>ja</w>
+  <w>till</w>
+  <w>gårdsförsäljning</w>
+  <w>–</w>
+  <w>och</w>
+  <w>ett</w>
+  <w>nej</w>
+  <w>till</w>
+  <w>att</w>
+  <w>avskaffa</w>
+  <w>detaljhandelsmonopolet</w>
+  <w>.</w>
+  <w>Moderaterna</w>
+  <w>har</w>
+  <w>samma</w>
+  <w>inställning</w>
+  <w>och</w>
+  <w>tänker</w>
+  <w>driva</w>
+  <w>frågan</w>
+  <w>i</w>
+  <w>riksdagen</w>
+  <w>där</w>
+  <w>den</w>
+  <w>kan</w>
+  <w>få</w>
+  <w>stöd</w>
+  <w>av</w>
+  <w>Sverigedemokraterna</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Problemet</w>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=34>
+    <w>dessa</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>två</w>
+    <w>idéer</w>
+    <w>–</w>
+    <w>gårdsförsäljning</w>
+    <w>och</w>
+    <w>detaljhandelsmonopol</w>
+  </absaspan>
+  <w>–</w>
+  <absaspan id=36 senti=2>
+    <w>är</w>
+    <w>svårförenliga</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=37>
+    <w>Allt</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>mer</w>
+    <w>tyder</w>
+    <w>på</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=40 senti=2>
+    <w>är</w>
+    <w>helt</w>
+    <w>oförenliga</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=41>
+    <w>Det</w>
+  </absaspan>
+  <w>är</w>
+  <w>något</w>
+  <w>som</w>
+  <absaspan id=42>
+    <w>de</w>
+    <w>ivrigaste</w>
+    <w>förespråkarna</w>
+    <w>för</w>
+    <w>gårdsförsäljning</w>
+  </absaspan>
+  <absaspan id=43 senti=2>
+    <w>sällan</w>
+    <w>vill</w>
+    <w>kännas</w>
+    <w>vid</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>stället</w>
+  <w>leds</w>
+  <w>debatten</w>
+  <w>ofta</w>
+  <w>tillbaka</w>
+  <w>till</w>
+  <w>de</w>
+  <w>svenska</w>
+  <absaspan id=44 senti=4>
+    <w>småskaliga</w>
+  </absaspan>
+  <absaspan id=45>
+    <w>vinodlarna</w>
+  </absaspan>
+  <w>och</w>
+  <w>en</w>
+  <absaspan id=46 senti=4>
+    <w>levande</w>
+  </absaspan>
+  <absaspan id=47>
+    <w>landsbygd</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>hur</w>
+  <w>kan</w>
+  <w>ni</w>
+  <w>vara</w>
+  <w>emot</w>
+  <w>det</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Skräddarsydda</w>
+  <w>kurser</w>
+  <w>i</w>
+  <w>ämnen</w>
+  <w>som</w>
+  <w>intresserar</w>
+  <w>och</w>
+  <w>engagerar</w>
+  <w>både</w>
+  <w>kropp</w>
+  <w>och</w>
+  <w>själ</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Frågan</w>
+  <w>om</w>
+  <w>gårdsförsäljning</w>
+  <w>har</w>
+  <w>utretts</w>
+  <w>ett</w>
+  <w>par</w>
+  <w>gånger</w>
+  <w>.</w>
+  <w>Båda</w>
+  <w>gångerna</w>
+  <w>konstateras</w>
+  <w>att</w>
+  <w>Sverige</w>
+  <w>inte</w>
+  <w>kan</w>
+  <w>diskriminera</w>
+  <w>utländska</w>
+  <w>producenter</w>
+  <w>,</w>
+  <w>och</w>
+  <w>enbart</w>
+  <absaspan id=48 senti=4>
+    <w>gynna</w>
+  </absaspan>
+  <absaspan id=49>
+    <w>inhemska</w>
+    <w>tillverkare</w>
+  </absaspan>
+  <w>genom</w>
+  <w>rätten</w>
+  <w>att</w>
+  <w>sälja</w>
+  <w>sina</w>
+  <w>varor</w>
+  <w>på</w>
+  <w>ett</w>
+  <w>annat</w>
+  <w>sätt</w>
+  <w>än</w>
+  <w>via</w>
+  <w>Systembolaget</w>
+  <w>.</w>
+  <w>Således</w>
+  <w>konstaterar</w>
+  <w>2010</w>
+  <w>års</w>
+  <w>utredning</w>
+  <w>att</w>
+  <w>enda</w>
+  <w>sättet</w>
+  <w>att</w>
+  <w>införa</w>
+  <w>gårdsförsäljning</w>
+  <w>med</w>
+  <w>ett</w>
+  <w>bevarat</w>
+  <w>undantag</w>
+  <w>för</w>
+  <w>detaljhandelsmonopolet</w>
+  <w>,</w>
+  <w>är</w>
+  <w>att</w>
+  <w>ge</w>
+  <w>alla</w>
+  <w>alkoholproducenter</w>
+  <w>i</w>
+  <w>EU</w>
+  <w>samma</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>sälja</w>
+  <w>sina</w>
+  <w>varor</w>
+  <w>,</w>
+  <w>och</w>
+  <w>det</w>
+  <w>heller</w>
+  <w>inte</w>
+  <w>bara</w>
+  <w>i</w>
+  <w>egna</w>
+  <w>butiker</w>
+  <w>,</w>
+  <w>och</w>
+  <w>naturligtvis</w>
+  <w>inte</w>
+  <w>bara</w>
+  <w>på</w>
+  <w>landsbygden</w>
+  <w>.</w>
+  <w>För</w>
+  <w>att</w>
+  <w>ha</w>
+  <w>kvar</w>
+  <w>Systembolaget</w>
+  <w>skulle</w>
+  <w>vi</w>
+  <w>alltså</w>
+  <w>i</w>
+  <w>praktiken</w>
+  <w>själva</w>
+  <w>behöva</w>
+  <w>avskaffa</w>
+  <w>det</w>
+  <w>,</w>
+  <w>genom</w>
+  <w>att</w>
+  <w>tillåta</w>
+  <w>utländska</w>
+  <w>alkoholbutiker</w>
+  <w>i</w>
+  <w>våra</w>
+  <w>köpcentrum</w>
+  <w>och</w>
+  <w>stadskärnor</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Ett</w>
+  <absaspan id=50 senti=4>
+    <w>argument</w>
+    <w>för</w>
+  </absaspan>
+  <w>gårdsförsäljning</w>
+  <w>är</w>
+  <absaspan id=51>
+    <w>att</w>
+    <w>Finland</w>
+    <w>har</w>
+    <w>sådan</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>dock</w>
+  <w>ett</w>
+  <w>undantag</w>
+  <w>som</w>
+  <w>enbart</w>
+  <w>gäller</w>
+  <w>frukt</w>
+  <w>-</w>
+  <w>och</w>
+  <w>bärviner</w>
+  <w>,</w>
+  <w>odlade</w>
+  <w>norr</w>
+  <w>om</w>
+  <w>60</w>
+  <w>:</w>
+  <w>e</w>
+  <w>breddgraden</w>
+  <w>.</w>
+  <w>Någon</w>
+  <absaspan id=52>
+    <w>utvidgning</w>
+    <w>till</w>
+    <w>att</w>
+    <w>gälla</w>
+    <w>även</w>
+    <w>"</w>
+    <w>vanliga</w>
+    <w>"</w>
+    <w>druvviner</w>
+  </absaspan>
+  <absaspan id=53 senti=2>
+    <w>tycks</w>
+    <w>inte</w>
+    <w>finnas</w>
+    <w>på</w>
+    <w>kartan</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Det</w>
+  <w>finns</w>
+  <w>förstås</w>
+  <w>de</w>
+  <w>politiker</w>
+  <w>som</w>
+  <absaspan id=54>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=55>
+    <w>ser</w>
+    <w>något</w>
+    <w>problem</w>
+    <w>med</w>
+    <w>om</w>
+    <w>Systembolagets</w>
+    <w>monopol</w>
+    <w>faller</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=56>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=57 senti=4>
+    <w>är</w>
+    <w>en</w>
+    <w>rimlig</w>
+    <w>och</w>
+    <w>konsekvent</w>
+    <w>inställning</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=58>
+    <w>Att</w>
+    <w>förena</w>
+    <w>gårdsförsäljning</w>
+    <w>och</w>
+    <w>Systembolaget</w>
+  </absaspan>
+  <w>tycks</w>
+  <w>däremot</w>
+  <w>förbli</w>
+  <w>en</w>
+  <absaspan id=59 senti=2>
+    <w>tulipanaros</w>
+  </absaspan>
+  <w>,</w>
+  <w>en</w>
+  <w>företeelse</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>finns</w>
+  <w>i</w>
+  <w>verkligheten</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Varför</w>
+  <w>ska</w>
+  <w>vi</w>
+  <w>då</w>
+  <absaspan id=60 senti=4>
+    <w>slå</w>
+    <w>vakt</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=61>
+    <w>Systembolaget</w>
+    <w>och</w>
+    <w>dess</w>
+    <w>monopol</w>
+  </absaspan>
+  <w>?</w>
+  <w>Sverige</w>
+  <w>har</w>
+  <absaspan id=62 senti=4>
+    <w>framgångsrikt</w>
+  </absaspan>
+  <absaspan id=63>
+    <w>hållit</w>
+    <w>nere</w>
+    <w>alkoholskador</w>
+    <w>och</w>
+    <w>dödsfall</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=64>
+    <w>Systembolaget</w>
+  </absaspan>
+  <absaspan id=65 senti=4>
+    <w>ger</w>
+  </absaspan>
+  <w>en</w>
+  <absaspan id=66 senti=4>
+    <w>tillgänglighet</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=67 senti=4>
+    <w>ett</w>
+    <w>utbud</w>
+  </absaspan>
+  <w>av</w>
+  <w>alkoholhaltiga</w>
+  <w>drycker</w>
+  <absaspan id=68 senti=4>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=69 senti=4>
+    <w>hela</w>
+    <w>landet</w>
+  </absaspan>
+  <w>–</w>
+  <w>en</w>
+  <w>del</w>
+  <w>av</w>
+  <absaspan id=70>
+    <w>en</w>
+    <w>dryckeskultur</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=71>
+    <w>många</w>
+    <w>av</w>
+    <w>oss</w>
+  </absaspan>
+  <absaspan id=72 senti=4>
+    <w>inte</w>
+    <w>vill</w>
+    <w>vara</w>
+    <w>utan</w>
+  </absaspan>
+  <w>.</w>
+  <w>Samtidigt</w>
+  <absaspan id=73>
+    <w>bedrivs</w>
+  </absaspan>
+  <absaspan id=74>
+    <w>handeln</w>
+  </absaspan>
+  <absaspan id=75 senti=4>
+    <w>utan</w>
+    <w>vinstintresse</w>
+  </absaspan>
+  <absaspan id=76>
+    <w>,</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=77 senti=4>
+    <w>mindre</w>
+    <w>möjligheter</w>
+  </absaspan>
+  <absaspan id=78>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=79>
+    <w>spontanköp</w>
+  </absaspan>
+  <absaspan id=80>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=81 senti=4>
+    <w>utan</w>
+  </absaspan>
+  <absaspan id=82>
+    <w>"</w>
+    <w>köp</w>
+    <w>fler</w>
+    <w>betala</w>
+    <w>mindre</w>
+    <w>"</w>
+    <w>-</w>
+    <w>erbjudanden</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>vi</w>
+  <absaspan id=83>
+    <w>många</w>
+    <w>,</w>
+    <w>med</w>
+    <w>erfarenheter</w>
+    <w>av</w>
+    <w>att</w>
+    <w>se</w>
+    <w>och</w>
+    <w>leva</w>
+    <w>nära</w>
+    <w>ett</w>
+    <w>missbruk</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=84 senti=4>
+    <w>är</w>
+    <w>glada</w>
+    <w>för</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Rasmus</w>
+  <w>Jonlund</w>
+  <w>(</w>
+  <w>L</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>liberal</w>
+  <w>kommunpolitiker</w>
+  <w>och</w>
+  <w>riksdagskandidat</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

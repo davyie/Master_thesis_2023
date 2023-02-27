@@ -1,0 +1,159 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Centern</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>har</w>
+    <w>sina</w>
+    <w>rötter</w>
+    <w>inom</w>
+    <w>nazismen</w>
+  </absaspan>
+  <w>-</w>
+  <w>ingen</w>
+  <w>som</w>
+  <w>har</w>
+  <w>tänkt</w>
+  <w>på</w>
+  <w>det</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Dagligdags</w>
+  <w>matas</w>
+  <w>vi</w>
+  <w>med</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>har</w>
+    <w>bruna</w>
+    <w>rötter</w>
+  </absaspan>
+  <w>och</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>aldrig</w>
+  <w>ska</w>
+  <w>glömma</w>
+  <w>det</w>
+  <absaspan id=5>
+    <w>.</w>
+  </absaspan>
+  <w>Därför</w>
+  <w>kan</w>
+  <w>inget</w>
+  <w>annat</w>
+  <w>parti</w>
+  <w>tänka</w>
+  <w>sig</w>
+  <w>att</w>
+  <w>sammarbeta</w>
+  <w>med</w>
+  <w>eller</w>
+  <w>regera</w>
+  <w>tillsammans</w>
+  <w>med</w>
+  <w>dem</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Granska</w>
+  <w>C</w>
+  <w>,</w>
+  <w>som</w>
+  <w>är</w>
+  <w>det</w>
+  <w>gamla</w>
+  <w>Bondeförbundet</w>
+  <w>,</w>
+  <w>men</w>
+  <w>som</w>
+  <w>bara</w>
+  <w>har</w>
+  <w>bytt</w>
+  <w>namn</w>
+  <w>.</w>
+  <w>Har</w>
+  <w>ingen</w>
+  <w>märkt</w>
+  <w>att</w>
+  <absaspan id=6>
+    <w>deras</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>rötter</w>
+    <w>också</w>
+    <w>är</w>
+    <w>bruna</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Vad</w>
+  <w>gör</w>
+  <w>att</w>
+  <w>C</w>
+  <w>anses</w>
+  <w>som</w>
+  <w>rumsrent</w>
+  <w>,</w>
+  <w>trots</w>
+  <w>detta</w>
+  <w>och</w>
+  <w>drar</w>
+  <w>till</w>
+  <w>sig</w>
+  <w>anhängare</w>
+  <w>från</w>
+  <w>andra</w>
+  <w>partier</w>
+  <w>?</w>
+  <w>Anhängare</w>
+  <w>som</w>
+  <w>tidigare</w>
+  <w>var</w>
+  <w>bl.a</w>
+  <w>.</w>
+  <w>MP</w>
+  <w>eller</w>
+  <w>M</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Varför</w>
+  <w>är</w>
+  <w>C</w>
+  <w>nazihistoria</w>
+  <w>mera</w>
+  <w>rumsren</w>
+  <w>till</w>
+  <w>skillnad</w>
+  <w>mot</w>
+  <w>SD</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Diskussion</w>
+  <w>och</w>
+  <w>fördjupning</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>(</w>
+  <w>om</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>avhandlas</w>
+  <w>i</w>
+  <w>annan</w>
+  <w>tråd</w>
+  <w>förstås</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+</absadoc>

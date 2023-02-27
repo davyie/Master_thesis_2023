@@ -1,0 +1,190 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <absaspan id=1>
+    <w>Gammelmedia</w>
+    <w>tar</w>
+  </absaspan>
+  <absaspan id=2 senti=4 target=1>
+    <w>äntligen</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>upp</w>
+  </absaspan>
+  <absaspan id=4 senti=1 target=4>
+    <w>våldtäktskulturen</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>hos</w>
+    <w>utrikesfödda</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>"</w>
+  <absaspan id=6>
+    <w>Den</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>könsmässiga</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>obalansen</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>i</w>
+    <w>den</w>
+    <w>grupp</w>
+    <w>som</w>
+    <w>invandrat</w>
+    <w>under</w>
+    <w>senare</w>
+    <w>år</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>innebär</w>
+    <w>särskilda</w>
+    <w>problem</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>,</w>
+    <w>i</w>
+    <w>all</w>
+    <w>synnerhet</w>
+    <w>för</w>
+    <w>polisen</w>
+  </absaspan>
+  <w>,</w>
+  <w>skriver</w>
+  <absaspan id=12>
+    <w>Ann</w>
+    <w>Heberlein</w>
+  </absaspan>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <w>Jag</w>
+  <w>har</w>
+  <w>länge</w>
+  <w>pratat</w>
+  <w>med</w>
+  <w>folk</w>
+  <w>om</w>
+  <absaspan id=13>
+    <w>denna</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>problematik</w>
+  </absaspan>
+  <w>.</w>
+  <w>Att</w>
+  <absaspan id=15>
+    <w>vuxna</w>
+    <w>män</w>
+    <w>från</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>kulturer</w>
+    <w>som</w>
+    <w>ser</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>kvinnor</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=19 senti=1>
+    <w>en</w>
+    <w>andra</w>
+    <w>klassens</w>
+    <w>medborgare</w>
+  </absaspan>
+  <w>,</w>
+  <w>kommer</w>
+  <w>hit</w>
+  <w>och</w>
+  <absaspan id=20 senti=1>
+    <w>utger</w>
+    <w>sig</w>
+    <w>för</w>
+    <w>att</w>
+    <w>vara</w>
+    <w>barn</w>
+    <w>med</w>
+    <w>falsk</w>
+    <w>identitet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Varje</w>
+  <w>gång</w>
+  <w>har</w>
+  <absaspan id=21>
+    <w>jag</w>
+  </absaspan>
+  <w>blivit</w>
+  <w>kallad</w>
+  <absaspan id=22 senti=1>
+    <w>nazist</w>
+  </absaspan>
+  <w>och</w>
+  <w>bla</w>
+  <w>bla</w>
+  <absaspan id=23>
+    <w>.</w>
+  </absaspan>
+  <w>Varför</w>
+  <absaspan id=24 senti=2>
+    <w>blundar</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>så</w>
+    <w>många</w>
+    <w>svenskar</w>
+  </absaspan>
+  <absaspan id=26 senti=2>
+    <w>för</w>
+    <w>sanningen</w>
+  </absaspan>
+  <w>?</w>
+  <w>Är</w>
+  <absaspan id=27>
+    <w>dom</w>
+  </absaspan>
+  <absaspan id=28 senti=2>
+    <w>för</w>
+    <w>stolta</w>
+    <w>för</w>
+    <w>att</w>
+    <w>inse</w>
+    <w>sitt</w>
+    <w>misstag</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>.</w>
+  </absaspan>
+  <w>Jag</w>
+  <w>antar</w>
+  <w>att</w>
+  <w>deras</w>
+  <w>döttrar</w>
+  <w>ännu</w>
+  <w>inte</w>
+  <w>blivit</w>
+  <absaspan id=30 senti=1>
+    <w>gruppvåldtagna</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=31 senti=1>
+    <w>ett</w>
+    <w>gäng</w>
+    <w>"</w>
+    <w>barn</w>
+    <w>"</w>
+    <w>med</w>
+    <w>skägg</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

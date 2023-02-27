@@ -1,0 +1,204 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Varför</w>
+  <w>är</w>
+  <w>rasism</w>
+  <w>nödvändigtvis</w>
+  <w>så</w>
+  <w>fel</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Hej</w>
+  <w>FB</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Varför</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>(</w>
+  <w>ni</w>
+  <w>som</w>
+  <w>gör</w>
+  <w>det</w>
+  <w>)</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>rasism</w>
+  </absaspan>
+  <w>nödvändigtvis</w>
+  <w>måste</w>
+  <w>vara</w>
+  <w>så</w>
+  <absaspan id=2 senti=1>
+    <w>fruktansvärt</w>
+    <w>och</w>
+    <w>fel</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>finns</w>
+  <w>ju</w>
+  <absaspan id=4>
+    <w>mängder</w>
+    <w>med</w>
+    <w>människor</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=5 senti=2>
+    <w>ogillar</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>andra</w>
+    <w>grupper</w>
+    <w>av</w>
+    <w>människor</w>
+  </absaspan>
+  <w>,</w>
+  <w>maträtter</w>
+  <w>och</w>
+  <w>lite</w>
+  <w>allt</w>
+  <w>möjligt</w>
+  <w>.</w>
+  <w>Detta</w>
+  <w>kan</w>
+  <w>vi</w>
+  <w>ju</w>
+  <w>konstatera</w>
+  <w>.</w>
+  <w>Går</w>
+  <w>det</w>
+  <w>att</w>
+  <w>göra</w>
+  <w>någonting</w>
+  <w>åt</w>
+  <w>det</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Varför</w>
+  <w>reagerar</w>
+  <w>ni</w>
+  <w>(</w>
+  <w>antirasister</w>
+  <w>)</w>
+  <w>så</w>
+  <w>starkt</w>
+  <w>när</w>
+  <w>det</w>
+  <w>just</w>
+  <w>handlar</w>
+  <w>om</w>
+  <absaspan id=7>
+    <w>vita</w>
+    <w>män</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=8 senti=2>
+    <w>ogillar</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>folkslag</w>
+    <w>med</w>
+    <w>en</w>
+    <w>aningen</w>
+    <w>mörkare</w>
+    <w>hudtoning</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Varför</w>
+  <w>är</w>
+  <w>det</w>
+  <w>mer</w>
+  <absaspan id=10 senti=2>
+    <w>hemskt</w>
+  </absaspan>
+  <w>än</w>
+  <w>tex</w>
+  <absaspan id=11>
+    <w>en</w>
+    <w>Japan</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=12 senti=1>
+    <w>avskyr</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>katter</w>
+  </absaspan>
+  <w>eller</w>
+  <absaspan id=14>
+    <w>en</w>
+    <w>kurd</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=15 senti=1>
+    <w>avskyr</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>Syrier</w>
+  </absaspan>
+  <w>mm</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Varför</w>
+  <w>tycker</w>
+  <absaspan id=17>
+    <w>ni</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>är</w>
+  <w>så</w>
+  <absaspan id=18 senti=1>
+    <w>fruktansvärt</w>
+  </absaspan>
+  <w>i</w>
+  <w>jämförelse</w>
+  <w>med</w>
+  <w>andra</w>
+  <w>former</w>
+  <w>av</w>
+  <absaspan id=19 senti=2>
+    <w>ogillande</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>är</w>
+  <w>rasism</w>
+  <w>fel</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Är</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>någonting</w>
+  <w>fullt</w>
+  <w>naturligt</w>
+  <w>som</w>
+  <w>funnits</w>
+  <w>med</w>
+  <w>oss</w>
+  <w>sedan</w>
+  <w>tidernas</w>
+  <w>begynnelse</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

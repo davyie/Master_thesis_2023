@@ -1,0 +1,88 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Svenska</w>
+  <w>kvinnor</w>
+  <w>våldtas</w>
+  <w>av</w>
+  <w>Muslimer</w>
+  <w>-</w>
+  <w>Hur</w>
+  <w>många</w>
+  <w>muslimska</w>
+  <w>kvinnor</w>
+  <w>våldtas</w>
+  <w>av</w>
+  <w>svenskar</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Någon</w>
+  <w>som</w>
+  <w>vet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Finns</w>
+  <w>det</w>
+  <w>några</w>
+  <w>fall</w>
+  <w>där</w>
+  <absaspan id=1>
+    <w>muslimska</w>
+    <w>kvinnor</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>ofrivilligt</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>fått</w>
+    <w>dela</w>
+    <w>sina</w>
+    <w>lakan</w>
+    <w>med</w>
+    <w>svenska</w>
+    <w>män</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Så</w>
+  <w>som</w>
+  <w>jag</w>
+  <w>ser</w>
+  <w>det</w>
+  <w>från</w>
+  <w>rapporteringen</w>
+  <w>är</w>
+  <w>det</w>
+  <w>endast</w>
+  <w>muslimer</w>
+  <w>som</w>
+  <w>våldtar</w>
+  <w>svenskar</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Och</w>
+  <w>inte</w>
+  <w>svenskar</w>
+  <w>som</w>
+  <w>våldtar</w>
+  <w>muslimer</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Ändra</w>
+  <w>gärna</w>
+  <w>min</w>
+  <w>uppfattning</w>
+  <w>med</w>
+  <w>relevanta</w>
+  <w>länkar</w>
+  <w>och</w>
+  <w>exempel</w>
+  <w>.</w>
+</absapar>
+</absadoc>

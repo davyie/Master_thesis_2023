@@ -1,0 +1,153 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Åsa</w>
+  <w>Romson</w>
+  <w>började</w>
+  <w>gråta</w>
+  <w>som</w>
+  <w>en</w>
+  <w>del</w>
+  <w>av</w>
+  <w>könsmaktsordningen</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Har</w>
+  <w>Åsa</w>
+  <w>rätt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Är</w>
+  <w>inte</w>
+  <w>tårarna</w>
+  <w>snarare</w>
+  <w>ett</w>
+  <w>resultat</w>
+  <w>av</w>
+  <w>en</w>
+  <w>uppgörelse</w>
+  <w>med</w>
+  <w>ohållbara</w>
+  <w>uppfattningar</w>
+  <w>i</w>
+  <w>migrationsfrågor</w>
+  <w>än</w>
+  <w>uppdelningen</w>
+  <w>män</w>
+  <w>/</w>
+  <w>kvinnor</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Hade</w>
+  <w>vi</w>
+  <w>verkligen</w>
+  <w>accepterat</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>Stefan</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Löfvén</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>börjat</w>
+    <w>grina</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>som</w>
+    <w>statsminister</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Bonusfråga</w>
+  <w>,</w>
+  <w>när</w>
+  <absaspan id=5 senti=2>
+    <w>grinade</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>Angela</w>
+    <w>Merkel</w>
+    <w>,</w>
+    <w>Barack</w>
+    <w>Obama</w>
+    <w>eller</w>
+    <w>Malala</w>
+    <w>Yousafzai</w>
+  </absaspan>
+  <w>på</w>
+  <w>en</w>
+  <w>presskonferens</w>
+  <w>senast</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Är</w>
+  <w>kritiken</w>
+  <w>verkligen</w>
+  <w>en</w>
+  <w>fråga</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=7>
+    <w>Romson</w>
+  </absaspan>
+  <w>är</w>
+  <w>en</w>
+  <absaspan id=8 senti=2>
+    <w>gråtande</w>
+    <w>kvinna</w>
+  </absaspan>
+  <w>eller</w>
+  <w>är</w>
+  <w>det</w>
+  <w>så</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>är</w>
+  <w>olämplig</w>
+  <w>för</w>
+  <w>sitt</w>
+  <w>uppdrag</w>
+  <w>?</w>
+  <w>Hade</w>
+  <absaspan id=9>
+    <w>hon</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>kommit</w>
+    <w>undan</w>
+    <w>kritik</w>
+  </absaspan>
+  <w>om</w>
+  <w>hon</w>
+  <w>var</w>
+  <w>en</w>
+  <w>man</w>
+  <w>?</w>
+  <w>Eller</w>
+  <w>var</w>
+  <w>det</w>
+  <absaspan id=11 senti=2>
+    <w>könsmaktsordningen</w>
+  </absaspan>
+  <w>som</w>
+  <w>gjorde</w>
+  <w>att</w>
+  <w>Romson</w>
+  <w>började</w>
+  <w>gråta</w>
+  <w>och</w>
+  <w>inte</w>
+  <w>Löfvén</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

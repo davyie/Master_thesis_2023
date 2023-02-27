@@ -1,0 +1,106 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Ungdomsgäng</w>
+  <w>i</w>
+  <w>rosengård</w>
+  <w>tvingar</w>
+  <w>förskola</w>
+  <w>att</w>
+  <w>stänga</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>efter</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>kriminella</w>
+    <w>"</w>
+    <w>ungdomar</w>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=2 senti=1>
+    <w>hotat</w>
+  </absaspan>
+  <w>barnen</w>
+  <w>och</w>
+  <w>slagit</w>
+  <w>sönder</w>
+  <w>deras</w>
+  <w>lekplats</w>
+  <w>.</w>
+  <w>Även</w>
+  <w>skotthål</w>
+  <w>har</w>
+  <w>upptäckts</w>
+  <w>i</w>
+  <w>huset</w>
+  <w>och</w>
+  <w>anställda</w>
+  <w>får</w>
+  <w>flaskor</w>
+  <w>kastade</w>
+  <w>mot</w>
+  <w>sig</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>är</w>
+  <w>det</w>
+  <w>som</w>
+  <w>händer</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Fast</w>
+  <w>det</w>
+  <w>är</w>
+  <w>väl</w>
+  <w>bara</w>
+  <w>en</w>
+  <w>slump</w>
+  <w>att</w>
+  <w>detta</w>
+  <w>händer</w>
+  <w>i</w>
+  <absaspan id=3>
+    <w>rosengård</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=4>
+    <w>Denna</w>
+    <w>statsdels</w>
+  </absaspan>
+  <absaspan id=5 senti=2 irony>
+    <w>urusla</w>
+    <w>rykte</w>
+    <w>är</w>
+    <w>väl</w>
+    <w>bara</w>
+    <w>en</w>
+    <w>myt</w>
+    <w>skapad</w>
+    <w>av</w>
+    <w>media</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vad</w>
+  <w>är</w>
+  <w>det</w>
+  <w>för</w>
+  <absaspan id=6 senti=1>
+    <w>vidriga</w>
+    <w>svin</w>
+    <w>som</w>
+    <w>hotar</w>
+    <w>småbarn</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=7>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

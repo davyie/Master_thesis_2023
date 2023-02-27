@@ -1,0 +1,54 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>svänger</w>
+  <w>om</w>
+  <w>etnicitet</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Läs</w>
+  <w>den</w>
+  <w>här</w>
+  <w>artikeln</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Räkna</w>
+  <w>hur</w>
+  <w>många</w>
+  <w>gånger</w>
+  <absaspan id=1 senti=5 irony>
+    <w>den</w>
+    <w>fenomenale</w>
+    <w>journalisten</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Richard</w>
+    <w>aschberg</w>
+  </absaspan>
+  <w>påpekar</w>
+  <w>att</w>
+  <w>jugoslaven</w>
+  <w>är</w>
+  <w>svensk</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Undrar</w>
+  <w>om</w>
+  <w>de</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>använda</w>
+  <w>samma</w>
+  <w>metod</w>
+  <w>vid</w>
+  <w>utpekanden</w>
+  <w>av</w>
+  <w>våldtäkter</w>
+  <w>i</w>
+  <w>fortsättningen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

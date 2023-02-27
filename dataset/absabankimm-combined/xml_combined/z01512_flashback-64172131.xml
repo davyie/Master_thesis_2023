@@ -1,0 +1,136 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Norge</w>
+  </absaspan>
+  <absaspan id=2 senti=2 source=1 target=3>
+    <w>inför</w>
+    <w>förbud</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>burka</w>
+  </absaspan>
+  <w>på</w>
+  <w>tisdag</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4>
+    <w>Norge</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>inför</w>
+  </absaspan>
+  <w>imorgon</w>
+  <w>som</w>
+  <w>första</w>
+  <w>nordiska</w>
+  <w>land</w>
+  <absaspan id=6 senti=2>
+    <w>förbud</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>burka</w>
+  </absaspan>
+  <w>och</w>
+  <w>niqab</w>
+  <w>i</w>
+  <w>skolan</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Hur</w>
+  <w>påverkar</w>
+  <w>det</w>
+  <w>Sverige</w>
+  <w>?</w>
+  <w>Dels</w>
+  <w>vet</w>
+  <w>vi</w>
+  <w>att</w>
+  <w>Norge</w>
+  <w>och</w>
+  <w>Sverige</w>
+  <w>oftast</w>
+  <w>apar</w>
+  <w>efter</w>
+  <w>varann</w>
+  <w>med</w>
+  <w>olika</w>
+  <w>förbud</w>
+  <w>,</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>hade</w>
+  <w>Norge</w>
+  <w>förbud</w>
+  <w>mot</w>
+  <w>telefon</w>
+  <w>i</w>
+  <w>bil</w>
+  <w>långt</w>
+  <w>innan</w>
+  <w>Sverige</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>gäller</w>
+  <w>skolan</w>
+  <w>till</w>
+  <w>att</w>
+  <w>börja</w>
+  <w>med</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Å</w>
+  <w>andra</w>
+  <w>sidan</w>
+  <w>kan</w>
+  <w>vi</w>
+  <w>tänka</w>
+  <w>oss</w>
+  <w>att</w>
+  <w>många</w>
+  <w>med</w>
+  <w>burka</w>
+  <w>nu</w>
+  <w>istället</w>
+  <w>vill</w>
+  <w>flytta</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>där</w>
+  <w>de</w>
+  <w>säkert</w>
+  <w>har</w>
+  <w>vänner</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>När</w>
+  <w>får</w>
+  <w>vi</w>
+  <w>detta</w>
+  <w>förbud</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>?</w>
+  <w>Kommer</w>
+  <w>vi</w>
+  <w>få</w>
+  <w>en</w>
+  <w>kommentar</w>
+  <w>från</w>
+  <w>svenska</w>
+  <w>politiker</w>
+  <w>och</w>
+  <w>media</w>
+  <w>imorgon</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

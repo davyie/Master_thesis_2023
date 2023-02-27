@@ -1,0 +1,309 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Regimkritisk</w>
+  <w>konstnär</w>
+  <w>fängslad</w>
+  <w>-</w>
+  <absaspan id=1 senti=1>
+    <w>Går</w>
+    <w>Sverige</w>
+    <w>mot</w>
+    <w>ett</w>
+    <w>nytt</w>
+    <w>Sovjet</w>
+  </absaspan>
+  <w>?</w>
+  <w>(</w>
+  <w>Dan</w>
+  <w>Park</w>
+  <w>)</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Den</w>
+  <w>kontroversielle</w>
+  <w>satirikern</w>
+  <w>och</w>
+  <w>provokative</w>
+  <w>gatukonstnären</w>
+  <w>Dan</w>
+  <w>Park</w>
+  <w>häktades</w>
+  <w>idag</w>
+  <w>för</w>
+  <w>hets</w>
+  <w>mot</w>
+  <w>folkgrupp</w>
+  <w>.</w>
+  <w>Hans</w>
+  <absaspan id=2 senti=2 irony>
+    <w>"</w>
+    <w>Brott</w>
+    <w>"</w>
+  </absaspan>
+  <w>ska</w>
+  <w>enligt</w>
+  <w>åklagaren</w>
+  <w>vara</w>
+  <absaspan id=3>
+    <w>ett</w>
+    <w>foto</w>
+    <w>som</w>
+    <w>han</w>
+    <w>lagt</w>
+    <w>ut</w>
+    <w>på</w>
+    <w>sin</w>
+    <w>blogg</w>
+  </absaspan>
+  <w>,</w>
+  <w>oklart</w>
+  <w>exakt</w>
+  <w>vilket</w>
+  <w>foto</w>
+  <w>det</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=4 senti=2>
+    <w>tydligen</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>denna</w>
+    <w>bild</w>
+    <w>eller</w>
+    <w>affisch</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>så</w>
+  </absaspan>
+  <absaspan id=7 senti=1 irony>
+    <w>hemsk</w>
+    <w>och</w>
+    <w>fasansfull</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>att</w>
+    <w>Park</w>
+    <w>inte</w>
+    <w>kan</w>
+    <w>försättas</w>
+    <w>på</w>
+    <w>fri</w>
+    <w>fot</w>
+    <w>i</w>
+    <w>i</w>
+    <w>väntan</w>
+    <w>på</w>
+    <w>att</w>
+    <w>dom</w>
+    <w>faller</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Återigen</w>
+  <w>visar</w>
+  <w>det</w>
+  <w>sig</w>
+  <absaspan id=9 senti=2>
+    <w>med</w>
+    <w>all</w>
+    <w>önskvärd</w>
+    <w>tydlighet</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=10>
+    <w>HMF-lagstiftningen</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>primärt</w>
+    <w>är</w>
+    <w>till</w>
+    <w>för</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>sätta</w>
+    <w>munkavle</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>för</w>
+    <w>makten</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>obekväma</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>individer</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>och</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=17 senti=1>
+    <w>tysta</w>
+    <w>kritiska</w>
+    <w>röster</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>och</w>
+    <w>dissidenter</w>
+  </absaspan>
+  <w>.</w>
+  <w>Att</w>
+  <w>Park</w>
+  <w>åtalades</w>
+  <w>för</w>
+  <w>att</w>
+  <w>ha</w>
+  <w>burit</w>
+  <w>en</w>
+  <w>skylt</w>
+  <w>med</w>
+  <w>texten</w>
+  <w>"</w>
+  <absaspan id=19 senti=2>
+    <w>Zigenarbrott</w>
+  </absaspan>
+  <w>är</w>
+  <w>något</w>
+  <w>något</w>
+  <w>gott</w>
+  <w>"</w>
+  <w>i</w>
+  <w>samband</w>
+  <w>med</w>
+  <w>en</w>
+  <w>manifestation</w>
+  <w>mot</w>
+  <w>polisens</w>
+  <w>så</w>
+  <w>kallade</w>
+  <w>REVA-register</w>
+  <w>är</w>
+  <w>också</w>
+  <w>ett</w>
+  <w>mycket</w>
+  <w>tydligt</w>
+  <w>bevis</w>
+  <w>på</w>
+  <w>detta</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Så</w>
+  <w>vad</w>
+  <w>anser</w>
+  <w>ni</w>
+  <w>själva</w>
+  <w>?</w>
+  <w>Är</w>
+  <absaspan id=20>
+    <w>Parks</w>
+    <w>provokativa</w>
+    <w>konst</w>
+  </absaspan>
+  <w>så</w>
+  <absaspan id=21 senti=1 irony>
+    <w>fruktansvärd</w>
+    <w>,</w>
+    <w>hemsk</w>
+    <w>och</w>
+    <w>fasansfull</w>
+  </absaspan>
+  <w>att</w>
+  <w>han</w>
+  <w>bör</w>
+  <w>skaka</w>
+  <w>galler</w>
+  <w>för</w>
+  <w>de</w>
+  <w>affischer</w>
+  <w>och</w>
+  <w>planscher</w>
+  <w>som</w>
+  <w>han</w>
+  <w>skapar</w>
+  <w>och</w>
+  <w>sätter</w>
+  <w>upp</w>
+  <w>?</w>
+  <w>Är</w>
+  <w>det</w>
+  <w>en</w>
+  <w>rimlig</w>
+  <w>väg</w>
+  <w>att</w>
+  <w>gå</w>
+  <w>att</w>
+  <w>kriminalisera</w>
+  <w>litteratur</w>
+  <w>,</w>
+  <w>bilder</w>
+  <w>och</w>
+  <w>budskap</w>
+  <w>som</w>
+  <w>strider</w>
+  <w>mot</w>
+  <w>den</w>
+  <w>nuvarande</w>
+  <w>ordningen</w>
+  <w>och</w>
+  <w>de</w>
+  <w>makter</w>
+  <w>som</w>
+  <w>styr</w>
+  <w>,</w>
+  <w>eller</w>
+  <w>vittnar</w>
+  <w>dylikt</w>
+  <w>om</w>
+  <w>ett</w>
+  <absaspan id=22 senti=1>
+    <w>ganska</w>
+    <w>osunt</w>
+    <w>och</w>
+    <w>sjukt</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>samhälle</w>
+  </absaspan>
+  <w>?</w>
+  <w>Övriga</w>
+  <w>tankar</w>
+  <w>kring</w>
+  <w>Dan</w>
+  <w>Park</w>
+  <w>och</w>
+  <w>hur</w>
+  <w>han</w>
+  <w>behandlas</w>
+  <w>av</w>
+  <w>det</w>
+  <w>svenska</w>
+  <w>rättsväsendet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Källor</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Dan</w>
+  <w>Parks</w>
+  <w>blogg</w>
+  <w>och</w>
+  <w>urval</w>
+  <w>av</w>
+  <w>hans</w>
+  <w>konst</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+</absadoc>

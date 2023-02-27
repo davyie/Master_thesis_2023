@@ -1,0 +1,75 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Om</w>
+  <w>SD</w>
+  <w>blir</w>
+  <w>största</w>
+  <w>parti</w>
+  <w>i</w>
+  <w>valet</w>
+  <w>2018</w>
+  <w>vad</w>
+  <w>blir</w>
+  <w>MSMs</w>
+  <w>förklaring</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Tänkte</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>vi</w>
+  </absaspan>
+  <w>redan</w>
+  <w>nu</w>
+  <absaspan id=2 senti=2>
+    <w>kan</w>
+    <w>ta</w>
+    <w>udden</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>MSMs</w>
+    <w>förklaringar</w>
+    <w>till</w>
+    <w>varför</w>
+    <w>SD</w>
+    <w>blev</w>
+    <w>Sveriges</w>
+    <w>största</w>
+    <w>parti</w>
+    <w>vid</w>
+    <w>valet</w>
+    <w>2018</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=4>
+    <w>Jag</w>
+  </absaspan>
+  <w>tror</w>
+  <w>att</w>
+  <absaspan id=5>
+    <w>MSM</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>kommer</w>
+    <w>att</w>
+    <w>dumförklara</w>
+  </absaspan>
+  <w>väljarna</w>
+  <w>och</w>
+  <absaspan id=7 senti=2>
+    <w>skylla</w>
+    <w>på</w>
+    <w>att</w>
+    <w>Ryska</w>
+    <w>nättroll</w>
+    <w>har</w>
+    <w>manipulerat</w>
+    <w>valet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

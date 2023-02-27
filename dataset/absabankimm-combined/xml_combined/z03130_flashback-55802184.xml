@@ -1,0 +1,124 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Vad</w>
+  <w>har</w>
+  <w>vänstern</w>
+  <w>gjort</w>
+  <w>för</w>
+  <w>fel</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1 senti=2>
+    <w>Något</w>
+    <w>fel</w>
+    <w>måste</w>
+    <w>det</w>
+    <w>vara</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>dagens</w>
+    <w>vänster</w>
+  </absaspan>
+  <w>,</w>
+  <w>då</w>
+  <absaspan id=3>
+    <w>allt</w>
+    <w>fler</w>
+    <w>vanliga</w>
+    <w>knegare</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>väljer</w>
+    <w>bort</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>vänstern</w>
+  <w>och</w>
+  <w>i</w>
+  <w>stället</w>
+  <w>röstar</w>
+  <w>på</w>
+  <w>ett</w>
+  <absaspan id=5 senti=1>
+    <w>reaktionärt</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>parti</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vad</w>
+  <w>anser</w>
+  <w>ni</w>
+  <w>som</w>
+  <w>är</w>
+  <w>socialister</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>behöver</w>
+  <w>göras</w>
+  <w>?</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>anser</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <absaspan id=7 senti=2>
+    <w>oroande</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>det</w>
+    <w>som</w>
+    <w>håller</w>
+    <w>på</w>
+    <w>att</w>
+    <w>ske</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>behövs</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>något</w>
+  <w>slag</w>
+  <absaspan id=9 senti=4>
+    <w>nytänkande</w>
+  </absaspan>
+  <w>bland</w>
+  <w>vänstern</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>vet</w>
+  <w>inte</w>
+  <w>vad</w>
+  <w>,</w>
+  <w>kasta</w>
+  <w>ut</w>
+  <w>Marx</w>
+  <w>och</w>
+  <w>in</w>
+  <w>med</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>något</w>
+  <w>annat</w>
+  <w>socialistiskt</w>
+  <w>tänkande</w>
+  <w>.</w>
+  <w>Behöver</w>
+  <w>vänstern</w>
+  <w>reformeras</w>
+  <w>och</w>
+  <w>hur</w>
+  <w>är</w>
+  <w>frågan</w>
+  <w>.</w>
+</absapar>
+</absadoc>

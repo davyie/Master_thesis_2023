@@ -1,0 +1,920 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>WHO</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>går</w>
+    <w>kriminellas</w>
+    <w>ärenden</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>I</w>
+  <w>dag</w>
+  <w>uppmärksammar</w>
+  <w>världshälsoorganisationen</w>
+  <w>-</w>
+  <absaspan id=3>
+    <w>WHO</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=4>
+    <w>"</w>
+    <w>World</w>
+    <w>No</w>
+    <w>Tobacco</w>
+    <w>Day</w>
+    <w>"</w>
+  </absaspan>
+  <w>,</w>
+  <w>ett</w>
+  <absaspan id=5 senti=2>
+    <w>folkhälsojippo</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>med</w>
+  <absaspan id=6 senti=4>
+    <w>förslag</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>fler</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>förbud</w>
+    <w>kring</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>rökning</w>
+    <w>och</w>
+    <w>snus</w>
+  </absaspan>
+  <w>istället</w>
+  <absaspan id=10 senti=2>
+    <w>kommer</w>
+    <w>öka</w>
+    <w>kriminaliteten</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>.</w>
+  </absaspan>
+  <w>Ju</w>
+  <w>hårdare</w>
+  <w>man</w>
+  <w>reglerar</w>
+  <w>tobak</w>
+  <w>desto</w>
+  <w>lönsammare</w>
+  <w>blir</w>
+  <w>det</w>
+  <w>att</w>
+  <w>smuggla</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>skriver</w>
+  <w>riksdagsledamoten</w>
+  <w>Hanif</w>
+  <w>Bali</w>
+  <w>(</w>
+  <w>M</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=12 senti=1>
+    <w>Folkhälsofascism</w>
+  </absaspan>
+  <w>ökar</w>
+  <w>tillgängligheten</w>
+  <w>på</w>
+  <w>cigaretter</w>
+  <w>för</w>
+  <w>barn</w>
+  <w>och</w>
+  <w>finansierar</w>
+  <w>kriminella</w>
+  <w>grupper.Hanif</w>
+  <w>Bali</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=13>
+    <w>Sverige</w>
+  </absaspan>
+  <w>har</w>
+  <w>redan</w>
+  <w>skyhöga</w>
+  <w>skatter</w>
+  <w>,</w>
+  <w>ett</w>
+  <w>totalt</w>
+  <w>marknadsföringsförbud</w>
+  <w>samt</w>
+  <absaspan id=14 senti=2>
+    <w>förbud</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>rökning</w>
+    <w>på</w>
+    <w>offentliga</w>
+    <w>platser</w>
+  </absaspan>
+  <w>.</w>
+  <w>Trots</w>
+  <w>detta</w>
+  <w>tycker</w>
+  <absaspan id=16 senti=2>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>WHO</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=18>
+    <w>dagens</w>
+    <w>regelverk</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=20 senti=2>
+    <w>strikt</w>
+    <w>nog</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=21 senti=4>
+    <w>föreslår</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>en</w>
+    <w>rad</w>
+    <w>nya</w>
+    <w>regleringar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>finns</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>ett</w>
+  <w>strikt</w>
+  <w>regelverk</w>
+  <w>då</w>
+  <absaspan id=23>
+    <w>tobaken</w>
+  </absaspan>
+  <w>är</w>
+  <w>en</w>
+  <w>unik</w>
+  <w>produkt</w>
+  <w>som</w>
+  <absaspan id=24 senti=2>
+    <w>medför</w>
+    <w>en</w>
+    <w>rad</w>
+    <w>risker</w>
+  </absaspan>
+  <w>för</w>
+  <w>människor</w>
+  <absaspan id=25>
+    <w>.</w>
+  </absaspan>
+  <w>Det</w>
+  <w>centrala</w>
+  <w>är</w>
+  <w>därför</w>
+  <w>att</w>
+  <w>konsumenter</w>
+  <w>uppfyller</w>
+  <w>ålderskrav</w>
+  <w>,</w>
+  <w>och</w>
+  <w>är</w>
+  <w>informerade</w>
+  <w>om</w>
+  <absaspan id=26 senti=2>
+    <w>riskerna</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>All</w>
+  <w>den</w>
+  <w>tobak</w>
+  <w>som</w>
+  <w>säljs</w>
+  <w>utanför</w>
+  <w>regelverket</w>
+  <w>blir</w>
+  <w>tillgänglig</w>
+  <w>för</w>
+  <w>minderåriga</w>
+  <w>.</w>
+  <w>Man</w>
+  <w>kan</w>
+  <w>inte</w>
+  <absaspan id=28 senti=4>
+    <w>föreslå</w>
+  </absaspan>
+  <absaspan id=29 senti=2>
+    <w>förbud</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>och</w>
+    <w>regleringar</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=31>
+    <w>WHO</w>
+  </absaspan>
+  <w>utan</w>
+  <w>att</w>
+  <w>vara</w>
+  <w>redo</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>de</w>
+  <w>konsekvenser</w>
+  <w>som</w>
+  <w>kommer</w>
+  <w>med</w>
+  <w>det</w>
+  <absaspan id=32>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>Var</w>
+    <w>åttonde</w>
+    <w>cigarett</w>
+    <w>som</w>
+    <w>röks</w>
+    <w>i</w>
+    <w>Sverige</w>
+    <w>i</w>
+    <w>dag</w>
+  </absaspan>
+  <absaspan id=34 senti=2>
+    <w>är</w>
+    <w>illegal</w>
+  </absaspan>
+  <w>och</w>
+  <w>säljs</w>
+  <w>öppet</w>
+  <w>i</w>
+  <w>butiker</w>
+  <w>runt</w>
+  <w>om</w>
+  <w>i</w>
+  <w>hela</w>
+  <w>Sverige</w>
+  <absaspan id=35>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=6>
+  <w>Jag</w>
+  <w>provade</w>
+  <w>själv</w>
+  <w>i</w>
+  <w>veckan</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>ett</w>
+  <w>varv</w>
+  <w>runt</w>
+  <w>ett</w>
+  <w>par</w>
+  <w>butiker</w>
+  <w>i</w>
+  <w>närheten</w>
+  <w>av</w>
+  <w>Riksdagen</w>
+  <w>och</w>
+  <w>Rosenbad</w>
+  <w>,</w>
+  <w>ironiskt</w>
+  <w>nog</w>
+  <w>källan</w>
+  <w>till</w>
+  <w>alla</w>
+  <w>dessa</w>
+  <w>regleringar</w>
+  <w>,</w>
+  <w>och</w>
+  <w>kunde</w>
+  <w>mycket</w>
+  <w>enkelt</w>
+  <w>köpa</w>
+  <w>billig</w>
+  <absaspan id=36 senti=2>
+    <w>olaglig</w>
+  </absaspan>
+  <absaspan id=37>
+    <w>tobak</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=7>
+  <absaspan id=39>
+    <w>Att</w>
+    <w>inrätta</w>
+    <w>strikta</w>
+    <w>regelverk</w>
+    <w>som</w>
+    <w>inte</w>
+    <w>efterlevs</w>
+    <w>öppnar</w>
+    <w>upp</w>
+    <w>för</w>
+    <w>en</w>
+    <w>parallell</w>
+    <w>okontrollerad</w>
+    <w>marknad</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=40 senti=2>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=41>
+    <w>både</w>
+  </absaspan>
+  <absaspan id=42 senti=2>
+    <w>skadligt</w>
+  </absaspan>
+  <absaspan id=43 senti=2>
+    <w>för</w>
+    <w>människors</w>
+    <w>hälsa</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=44>
+    <w>Smugglade</w>
+    <w>piratcigaretter</w>
+  </absaspan>
+  <w>innehåller</w>
+  <w>160</w>
+  <w>procent</w>
+  <w>mer</w>
+  <w>tjära</w>
+  <w>,</w>
+  <w>80</w>
+  <w>procent</w>
+  <w>mer</w>
+  <w>nikotin</w>
+  <w>,</w>
+  <w>133</w>
+  <w>procent</w>
+  <w>mer</w>
+  <w>kolmonoxid</w>
+  <w>och</w>
+  <w>fem</w>
+  <w>gånger</w>
+  <w>mer</w>
+  <w>kadmium</w>
+  <w>än</w>
+  <w>vanliga</w>
+  <w>cigaretter</w>
+  <absaspan id=45 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=8>
+  <w>När</w>
+  <w>tobaken</w>
+  <w>nu</w>
+  <w>uppmärksammas</w>
+  <w>på</w>
+  <w>en</w>
+  <w>egen</w>
+  <w>dag</w>
+  <w>är</w>
+  <w>det</w>
+  <w>förvånande</w>
+  <w>att</w>
+  <absaspan id=46 senti=2>
+    <w>problematiken</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=47 senti=2>
+    <w>illegala</w>
+  </absaspan>
+  <absaspan id=48>
+    <w>cigaretter</w>
+  </absaspan>
+  <w>inte</w>
+  <w>uppmärksammas</w>
+  <w>.</w>
+  <w>Istället</w>
+  <absaspan id=49 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=50>
+    <w>WHO</w>
+  </absaspan>
+  <absaspan id=51>
+    <w>att</w>
+    <w>ännu</w>
+    <w>hårdare</w>
+    <w>regleringar</w>
+    <w>mot</w>
+    <w>tobaken</w>
+    <w>införs</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=52 senti=4>
+    <w>förespråkar</w>
+  </absaspan>
+  <w>bland</w>
+  <w>annat</w>
+  <absaspan id=53 senti=2>
+    <w>förbud</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=54>
+    <w>snus</w>
+  </absaspan>
+  <absaspan id=55>
+    <w>,</w>
+    <w>höga</w>
+    <w>skatteökningar</w>
+    <w>,</w>
+  </absaspan>
+  <absaspan id=56 senti=2>
+    <w>förbud</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=57>
+    <w>att</w>
+    <w>visa</w>
+    <w>tobak</w>
+    <w>i</w>
+    <w>butiker</w>
+  </absaspan>
+  <absaspan id=58>
+    <w>och</w>
+    <w>till</w>
+    <w>och</w>
+    <w>med</w>
+    <w>att</w>
+    <w>frånta</w>
+    <w>tobaksföretagen</w>
+    <w>deras</w>
+    <w>varumärken</w>
+  </absaspan>
+  <absaspan id=59>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=9>
+  <w>Skräddarsydda</w>
+  <w>kurser</w>
+  <w>i</w>
+  <w>ämnen</w>
+  <w>som</w>
+  <w>intresserar</w>
+  <w>och</w>
+  <w>engagerar</w>
+  <w>både</w>
+  <w>kropp</w>
+  <w>och</w>
+  <w>själ</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Det</w>
+  <w>är</w>
+  <absaspan id=60 senti=2>
+    <w>svårt</w>
+    <w>att</w>
+    <w>förstå</w>
+    <w>vad</w>
+  </absaspan>
+  <w>WHO</w>
+  <w>tror</w>
+  <absaspan id=61 senti=2>
+    <w>kommer</w>
+  </absaspan>
+  <absaspan id=62 senti=2>
+    <w>förbättras</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=63>
+    <w>att</w>
+    <w>inrätta</w>
+    <w>ännu</w>
+    <w>fler</w>
+  </absaspan>
+  <absaspan id=64 senti=2>
+    <w>förbud</w>
+  </absaspan>
+  <absaspan id=65>
+    <w>när</w>
+    <w>inte</w>
+    <w>ens</w>
+    <w>dagens</w>
+    <w>kan</w>
+    <w>upprätthållas</w>
+  </absaspan>
+  <absaspan id=66>
+    <w>.</w>
+  </absaspan>
+  <w>Det</w>
+  <w>är</w>
+  <w>också</w>
+  <w>svårt</w>
+  <w>att</w>
+  <w>se</w>
+  <w>hur</w>
+  <absaspan id=67>
+    <w>den</w>
+    <w>svenska</w>
+    <w>folkhälsan</w>
+  </absaspan>
+  <absaspan id=68 senti=4>
+    <w>kommer</w>
+    <w>att</w>
+    <w>bli</w>
+    <w>bättre</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=69>
+    <w>att</w>
+    <w>snuset</w>
+    <w>förbjuds</w>
+  </absaspan>
+  <w>då</w>
+  <w>Sverige</w>
+  <w>har</w>
+  <w>bland</w>
+  <w>världens</w>
+  <w>lägst</w>
+  <w>tobaksrelaterade</w>
+  <w>sjukdomar</w>
+  <w>tack</w>
+  <w>vare</w>
+  <w>snuset</w>
+  <absaspan id=70>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=11>
+  <w>Det</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>bara</w>
+  <w>enskildas</w>
+  <w>hälsa</w>
+  <w>som</w>
+  <absaspan id=71 senti=2>
+    <w>blir</w>
+    <w>lidande</w>
+    <w>till</w>
+    <w>följd</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=72 senti=2>
+    <w>WHO</w>
+    <w>:</w>
+    <w>s</w>
+    <w>förbudsmani</w>
+  </absaspan>
+  <w>utan</w>
+  <w>samhället</w>
+  <w>i</w>
+  <w>stort</w>
+  <w>.</w>
+  <w>Enligt</w>
+  <absaspan id=73>
+    <w>Tullverket</w>
+  </absaspan>
+  <w>så</w>
+  <w>är</w>
+  <absaspan id=74>
+    <w>smuggelcigaretter</w>
+  </absaspan>
+  <absaspan id=75 senti=2>
+    <w>är</w>
+    <w>en</w>
+    <w>stor</w>
+    <w>finansieringskälla</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=76 senti=2>
+    <w>den</w>
+    <w>organiserade</w>
+    <w>brottsligheten</w>
+  </absaspan>
+  <absaspan id=77 senti=2>
+    <w>och</w>
+    <w>finansierar</w>
+    <w>både</w>
+  </absaspan>
+  <absaspan id=78 senti=2>
+    <w>trafficking</w>
+    <w>och</w>
+    <w>vapenhandel</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=79>
+    <w>Branschorganisationen</w>
+    <w>Svensk</w>
+    <w>servicehandel</w>
+    <w>och</w>
+    <w>Fast</w>
+    <w>Food</w>
+  </absaspan>
+  <w>som</w>
+  <w>samlar</w>
+  <w>butiksägare</w>
+  <w>över</w>
+  <w>hela</w>
+  <w>Sverige</w>
+  <w>,</w>
+  <w>rapporterar</w>
+  <w>att</w>
+  <w>deras</w>
+  <w>medlemmar</w>
+  <w>både</w>
+  <absaspan id=80 senti=2>
+    <w>förlorar</w>
+    <w>intäkter</w>
+    <w>och</w>
+    <w>utsätts</w>
+    <w>för</w>
+    <w>hot</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=81>
+    <w>ligor</w>
+    <w>som</w>
+    <w>säljer</w>
+    <w>illegala</w>
+    <w>cigaretter</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=82>
+    <w>De</w>
+  </absaspan>
+  <absaspan id=83 senti=2>
+    <w>har</w>
+    <w>fått</w>
+    <w>nog</w>
+  </absaspan>
+  <w>och</w>
+  <w>har</w>
+  <w>tagit</w>
+  <w>initiativ</w>
+  <w>till</w>
+  <w>att</w>
+  <w>uppmärksamma</w>
+  <w>den</w>
+  <w>illegala</w>
+  <w>tobaken</w>
+  <w>under</w>
+  <w>kampanjen</w>
+  <w>"</w>
+  <w>World</w>
+  <w>No</w>
+  <w>Illegal</w>
+  <w>Tobacco</w>
+  <w>Day</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Precis</w>
+  <w>som</w>
+  <w>i</w>
+  <w>USA</w>
+  <w>under</w>
+  <w>1920</w>
+  <w>-</w>
+  <w>talet</w>
+  <w>visade</w>
+  <absaspan id=84>
+    <w>förbudsivern</w>
+  </absaspan>
+  <w>att</w>
+  <w>man</w>
+  <absaspan id=85 senti=2>
+    <w>får</w>
+    <w>motsatta</w>
+    <w>och</w>
+    <w>oönskvärda</w>
+    <w>effekter</w>
+    <w>med</w>
+    <w>allt</w>
+    <w>från</w>
+    <w>maffia</w>
+    <w>till</w>
+    <w>ökad</w>
+    <w>dödlighet</w>
+    <w>för</w>
+    <w>brukare</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>mycket</w>
+  <w>begärt</w>
+  <w>att</w>
+  <w>WHO</w>
+  <w>för</w>
+  <w>en</w>
+  <w>gång</w>
+  <w>skull</w>
+  <w>skulle</w>
+  <w>dra</w>
+  <w>lärdomar</w>
+  <w>från</w>
+  <w>historien</w>
+  <w>och</w>
+  <w>verkligheten</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Med</w>
+  <w>tanke</w>
+  <w>på</w>
+  <w>de</w>
+  <w>konsekvenser</w>
+  <w>som</w>
+  <absaspan id=86>
+    <w>WHO</w>
+  </absaspan>
+  <w>:</w>
+  <w>s</w>
+  <absaspan id=87 senti=4>
+    <w>förslag</w>
+  </absaspan>
+  <w>medför</w>
+  <w>är</w>
+  <w>det</w>
+  <absaspan id=88 senti=2>
+    <w>svårt</w>
+  </absaspan>
+  <absaspan id=89>
+    <w>som</w>
+    <w>riksdagsledamot</w>
+  </absaspan>
+  <absaspan id=90 senti=2>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=91 senti=2>
+    <w>stödja</w>
+  </absaspan>
+  <absaspan id=92 senti=2>
+    <w>det</w>
+    <w>folkhälsojippo</w>
+  </absaspan>
+  <absaspan id=93>
+    <w>som</w>
+    <w>anordnas</w>
+  </absaspan>
+  <w>.</w>
+  <w>Istället</w>
+  <absaspan id=94 senti=4>
+    <w>kommer</w>
+  </absaspan>
+  <absaspan id=95>
+    <w>jag</w>
+  </absaspan>
+  <w>i</w>
+  <w>år</w>
+  <absaspan id=96 senti=4>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=97 senti=4>
+    <w>stödja</w>
+  </absaspan>
+  <absaspan id=98>
+    <w>handelns</w>
+    <w>initiativ</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=99 senti=4>
+    <w>hoppas</w>
+  </absaspan>
+  <absaspan id=100>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=101>
+    <w>de</w>
+    <w>folkhälsogrupper</w>
+    <w>som</w>
+    <w>står</w>
+    <w>bakom</w>
+    <w>WHO</w>
+    <w>:</w>
+    <w>s</w>
+    <w>kampanj</w>
+  </absaspan>
+  <absaspan id=102>
+    <w>tar</w>
+    <w>sig</w>
+    <w>en</w>
+    <w>funderare</w>
+    <w>över</w>
+    <w>hur</w>
+  </absaspan>
+  <absaspan id=103>
+    <w>deras</w>
+  </absaspan>
+  <absaspan id=104 senti=1>
+    <w>folkhälsofascism</w>
+  </absaspan>
+  <absaspan id=105>
+    <w>ökar</w>
+    <w>tillgängligheten</w>
+    <w>på</w>
+    <w>cigaretter</w>
+    <w>för</w>
+    <w>barn</w>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=106 senti=2>
+    <w>finansierar</w>
+    <w>kriminella</w>
+    <w>grupper</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>HANIF</w>
+  <w>BALI</w>
+  <w>(</w>
+  <w>M</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>riksdagsledamot</w>
+  <w>Stockholms</w>
+  <w>län</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

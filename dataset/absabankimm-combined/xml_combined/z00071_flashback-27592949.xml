@@ -1,0 +1,91 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Kostnaden</w>
+  <w>för</w>
+  <w>3000</w>
+  <w>flyktingbarn</w>
+  <w>per</w>
+  <w>år</w>
+  <w>-</w>
+  <w>över</w>
+  <w>3,3</w>
+  <w>miljarder</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Är</w>
+  <w>detta</w>
+  <w>rimligt</w>
+  <w>?</w>
+  <w>Vilka</w>
+  <absaspan id=1 senti=2>
+    <w>fantasisummor</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=2>
+    <w>man</w>
+    <w>slänger</w>
+    <w>på</w>
+    <w>dessa</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>"</w>
+    <w>barn</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>"</w>
+  </absaspan>
+  <w>(</w>
+  <w>i</w>
+  <w>många</w>
+  <w>fall</w>
+  <w>vuxna</w>
+  <w>)</w>
+  <w>?</w>
+  <w>Minst</w>
+  <w>1,1</w>
+  <w>miljoner</w>
+  <w>kronor</w>
+  <w>PER</w>
+  <absaspan id=5 senti=2>
+    <w>"</w>
+    <w>BARN</w>
+    <w>"</w>
+  </absaspan>
+  <w>OCH</w>
+  <w>ÅR</w>
+  <w>!</w>
+  <w>Bor</w>
+  <absaspan id=6 senti=2>
+    <w>"</w>
+    <w>barnen</w>
+    <w>"</w>
+  </absaspan>
+  <w>på</w>
+  <w>lyxhotell</w>
+  <w>eller</w>
+  <w>?</w>
+  <w>Vad</w>
+  <w>exakt</w>
+  <w>är</w>
+  <w>det</w>
+  <w>som</w>
+  <w>kostar</w>
+  <w>så</w>
+  <w>mycket</w>
+  <w>pengar</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Dessa</w>
+  <w>pengar</w>
+  <w>skulle</w>
+  <w>kunna</w>
+  <w>försörja</w>
+  <w>ett</w>
+  <w>helt</w>
+  <w>u-land</w>
+  <w>.</w>
+</absapar>
+</absadoc>

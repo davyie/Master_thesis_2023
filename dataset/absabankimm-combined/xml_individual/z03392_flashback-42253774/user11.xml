@@ -1,0 +1,121 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>9</w>
+  <w>:</w>
+  <w>e</w>
+  <w>mars</w>
+  <w>släpper</w>
+  <w>SDU</w>
+  <w>en</w>
+  <w>film</w>
+  <w>om</w>
+  <w>flyktingpolitik</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>En</w>
+  <w>ljummen</w>
+  <w>trailer</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>se</w>
+  <w>här</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Vad</w>
+  <w>kan</w>
+  <w>effekten</w>
+  <w>bli</w>
+  <w>av</w>
+  <w>den</w>
+  <w>mån</w>
+  <w>tro</w>
+  <w>?</w>
+  <w>Jag</w>
+  <w>tror</w>
+  <absaspan id=1>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>kommer</w>
+    <w>bjuda</w>
+    <w>på</w>
+    <w>sanningar</w>
+  </absaspan>
+  <w>som</w>
+  <w>givetvis</w>
+  <absaspan id=3>
+    <w>media</w>
+  </absaspan>
+  <w>inte</w>
+  <w>kommer</w>
+  <w>skriva</w>
+  <w>om</w>
+  <absaspan id=4 senti=2>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>Förhoppningsvis</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>filmen</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>såpass</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>bra</w>
+  </absaspan>
+  <w>att</w>
+  <w>den</w>
+  <w>kan</w>
+  <w>spridas</w>
+  <w>på</w>
+  <w>facebook</w>
+  <w>bland</w>
+  <w>folk</w>
+  <w>som</w>
+  <w>ännu</w>
+  <w>inte</w>
+  <w>fått</w>
+  <w>upp</w>
+  <w>ögonen</w>
+  <w>för</w>
+  <w>det</w>
+  <absaspan id=9 senti=2>
+    <w>kaos</w>
+  </absaspan>
+  <w>som</w>
+  <w>nu</w>
+  <w>råder</w>
+  <absaspan id=10>
+    <w>i</w>
+    <w>Sverige</w>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <absaspan id=11 senti=5>
+    <w>Ser</w>
+    <w>med</w>
+    <w>spänning</w>
+    <w>fram</w>
+    <w>emot</w>
+  </absaspan>
+  <w>den</w>
+  <absaspan id=12>
+    <w>9</w>
+    <w>:</w>
+    <w>e</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,53 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Polisen</w>
+    <w>tog</w>
+    <w>papperslösa</w>
+    <w>på</w>
+    <w>kyrkans</w>
+    <w>familjeläger</w>
+  </absaspan>
+  <w>-</w>
+  <absaspan id=2>
+    <w>kyrkan</w>
+  </absaspan>
+  <absaspan id=3 senti=1>
+    <w>rasar</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Tycker</w>
+  <w>ni</w>
+  <w>som</w>
+  <absaspan id=4>
+    <w>kyrkan</w>
+  </absaspan>
+  <w>,</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=5 senti=1>
+    <w>är</w>
+    <w>"</w>
+    <w>samhällsmoraliskt</w>
+    <w>"</w>
+    <w>förkastligt</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=6>
+    <w>poliserna</w>
+  </absaspan>
+  <w>att</w>
+  <w>upprätthålla</w>
+  <w>lagen</w>
+  <w>och</w>
+  <w>omhänderta</w>
+  <w>illegala</w>
+  <w>flyktingar</w>
+  <w>med</w>
+  <w>utvisningsbeslut</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,717 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Folkpartiets</w>
+    <w>tilltag</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>gynnar</w>
+    <w>främlingsfientliga</w>
+    <w>krafter</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>I</w>
+  <w>riksdagshuset</w>
+  <w>i</w>
+  <w>lördags</w>
+  <w>anordnade</w>
+  <w>Folkpartiet</w>
+  <w>seminariet</w>
+  <w>”</w>
+  <w>Bosnien</w>
+  <w>och</w>
+  <w>framtiden</w>
+  <w>”</w>
+  <w>som</w>
+  <w>skulle</w>
+  <w>handla</w>
+  <w>om</w>
+  <w>”</w>
+  <w>försoning</w>
+  <w>”</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>När</w>
+  <w>försoning</w>
+  <w>i</w>
+  <w>det</w>
+  <w>här</w>
+  <w>sammanhanget</w>
+  <w>kommer</w>
+  <w>på</w>
+  <w>tal</w>
+  <w>tänker</w>
+  <w>jag</w>
+  <w>direkt</w>
+  <w>på</w>
+  <w>kamratskapen</w>
+  <w>mellan</w>
+  <absaspan id=3>
+    <w>Zlatan</w>
+    <w>Ibrahimovic</w>
+    <w>och</w>
+    <w>Novak</w>
+    <w>Djokovic</w>
+  </absaspan>
+  <w>,</w>
+  <w>två</w>
+  <absaspan id=4 senti=4>
+    <w>framgångsrika</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>idrottare</w>
+  </absaspan>
+  <w>som</w>
+  <w>med</w>
+  <w>sina</w>
+  <w>små</w>
+  <w>vänskapsgester</w>
+  <absaspan id=6 senti=4>
+    <w>gjort</w>
+    <w>mer</w>
+    <w>för</w>
+    <w>försoningen</w>
+    <w>på</w>
+    <w>Balkan</w>
+  </absaspan>
+  <w>än</w>
+  <absaspan id=7>
+    <w>dussintals</w>
+    <w>politiker</w>
+  </absaspan>
+  <w>med</w>
+  <w>sina</w>
+  <absaspan id=8 senti=2>
+    <w>floskler</w>
+    <w>och</w>
+    <w>”</w>
+    <w>ursäkter</w>
+  </absaspan>
+  <w>”</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>När</w>
+  <w>försoning</w>
+  <w>kommer</w>
+  <w>på</w>
+  <w>tal</w>
+  <w>minns</w>
+  <w>jag</w>
+  <w>också</w>
+  <w>musikföreningen</w>
+  <w>mYusic</w>
+  <w>i</w>
+  <w>Stockholm</w>
+  <w>och</w>
+  <w>dess</w>
+  <w>band</w>
+  <w>Daytonavtalet</w>
+  <w>som</w>
+  <w>för</w>
+  <w>cirka</w>
+  <w>tio</w>
+  <w>år</w>
+  <w>sedan</w>
+  <w>spelade</w>
+  <w>jugoslavisk</w>
+  <w>rockmusik</w>
+  <w>på</w>
+  <w>en</w>
+  <w>pub</w>
+  <w>på</w>
+  <w>Söder</w>
+  <w>.</w>
+  <w>Bandets</w>
+  <w>symboliska</w>
+  <w>namn</w>
+  <w>–</w>
+  <w>efter</w>
+  <w>fredsfördraget</w>
+  <w>från</w>
+  <w>1995</w>
+  <w>–</w>
+  <w>indikerade</w>
+  <w>dess</w>
+  <w>multietniska</w>
+  <w>sammansättning</w>
+  <w>:</w>
+  <w>två</w>
+  <w>serbiska</w>
+  <w>flyktingar</w>
+  <w>,</w>
+  <w>en</w>
+  <w>från</w>
+  <w>Bosnien</w>
+  <w>och</w>
+  <w>en</w>
+  <w>från</w>
+  <w>Kroatien</w>
+  <w>och</w>
+  <w>tre</w>
+  <w>bosnienmuslimska</w>
+  <w>,</w>
+  <w>eller</w>
+  <w>som</w>
+  <w>man</w>
+  <w>nuförtiden</w>
+  <w>också</w>
+  <w>säger</w>
+  <w>bosnjakiska</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vi</w>
+  <w>ex-jugoslaver</w>
+  <w>som</w>
+  <w>för</w>
+  <w>tio</w>
+  <w>år</w>
+  <w>sedan</w>
+  <w>hängde</w>
+  <w>på</w>
+  <w>mYUsic</w>
+  <w>,</w>
+  <w>och</w>
+  <w>som</w>
+  <w>för</w>
+  <w>det</w>
+  <w>mesta</w>
+  <w>hade</w>
+  <w>kommit</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>på</w>
+  <w>grund</w>
+  <w>av</w>
+  <w>kriget</w>
+  <w>,</w>
+  <absaspan id=9 senti=2>
+    <w>var</w>
+    <w>ett</w>
+    <w>livs</w>
+    <w>levande</w>
+    <w>argument</w>
+    <w>mot</w>
+  </absaspan>
+  <w>de</w>
+  <absaspan id=10>
+    <w>främlingsfientliga</w>
+    <w>krafter</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=11 senti=2>
+    <w>hävdar</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=12>
+    <w>krigsflyktingar</w>
+    <w>per</w>
+    <w>automatik</w>
+    <w>importerar</w>
+    <w>konflikter</w>
+    <w>och</w>
+    <w>krig</w>
+    <w>till</w>
+    <w>Sverige</w>
+    <w>.</w>
+  </absaspan>
+  <w>De</w>
+  <w>flesta</w>
+  <w>inom</w>
+  <w>föreningen</w>
+  <w>var</w>
+  <w>medvetna</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=13>
+    <w>vi</w>
+  </absaspan>
+  <w>hade</w>
+  <absaspan id=14 senti=2>
+    <w>motstridiga</w>
+    <w>åsikter</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=15>
+    <w>politiken</w>
+    <w>och</w>
+    <w>konflikten</w>
+  </absaspan>
+  <w>i</w>
+  <w>f.d</w>
+  <w>.</w>
+  <w>Jugoslavien</w>
+  <w>,</w>
+  <w>men</w>
+  <w>samtidigt</w>
+  <absaspan id=16 senti=4>
+    <w>insåg</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>vi</w>
+  </absaspan>
+  <w>att</w>
+  <w>vi</w>
+  <w>trots</w>
+  <w>allt</w>
+  <absaspan id=18>
+    <w>hade</w>
+    <w>mycket</w>
+    <w>gemensamt</w>
+  </absaspan>
+  <w>,</w>
+  <w>bl.a</w>
+  <w>.</w>
+  <w>språklig</w>
+  <w>och</w>
+  <w>kulturell</w>
+  <w>bakgrund</w>
+  <w>,</w>
+  <absaspan id=19>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=20 senti=4>
+    <w>gillade</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>samma</w>
+    <w>musik</w>
+  </absaspan>
+  <w>osv</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>fanns</w>
+  <w>med</w>
+  <w>andra</w>
+  <w>ord</w>
+  <w>en</w>
+  <absaspan id=22 senti=4>
+    <w>gemensam</w>
+    <w>vilja</w>
+  </absaspan>
+  <w>i</w>
+  <w>den</w>
+  <w>miljön</w>
+  <w>som</w>
+  <w>inkluderade</w>
+  <w>ett</w>
+  <w>hundratal</w>
+  <w>personer</w>
+  <w>att</w>
+  <absaspan id=23>
+    <w>fokusera</w>
+  </absaspan>
+  <w>på</w>
+  <absaspan id=24>
+    <w>det</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=25 senti=4>
+    <w>förenar</w>
+  </absaspan>
+  <w>i</w>
+  <w>stället</w>
+  <w>för</w>
+  <absaspan id=26>
+    <w>det</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=27 senti=2>
+    <w>splittrar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Inga</w>
+  <w>försök</w>
+  <w>gjordes</w>
+  <w>att</w>
+  <absaspan id=28 senti=2>
+    <w>påtvinga</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>sin</w>
+    <w>åsikt</w>
+    <w>på</w>
+    <w>någon</w>
+    <w>annan</w>
+  </absaspan>
+  <w>!</w>
+  <w>Ordet</w>
+  <w>”</w>
+  <w>försoning</w>
+  <w>”</w>
+  <w>nämndes</w>
+  <w>aldrig</w>
+  <w>men</w>
+  <w>det</w>
+  <w>var</w>
+  <w>egentligen</w>
+  <w>vad</w>
+  <w>som</w>
+  <w>utspelades</w>
+  <w>medan</w>
+  <w>vi</w>
+  <w>drack</w>
+  <w>öl</w>
+  <w>och</w>
+  <w>lyssnade</w>
+  <w>på</w>
+  <w>Daytonavtalet</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Seminariet</w>
+  <w>om</w>
+  <w>Bosnien</w>
+  <w>,</w>
+  <w>till</w>
+  <w>vilket</w>
+  <w>statssekreteraren</w>
+  <w>Jasenko</w>
+  <w>Selimovic</w>
+  <w>och</w>
+  <w>partikollegan</w>
+  <w>Fredrik</w>
+  <w>Malm</w>
+  <w>bjöd</w>
+  <w>in</w>
+  <w>en</w>
+  <absaspan id=30 senti=2>
+    <w>kontroversiell</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>krigsgeneral</w>
+  </absaspan>
+  <w>,</w>
+  <w>marknadsfördes</w>
+  <w>som</w>
+  <w>”</w>
+  <w>försoning</w>
+  <w>”</w>
+  <w>men</w>
+  <w>handlade</w>
+  <w>om</w>
+  <w>dess</w>
+  <w>motsats</w>
+  <w>.</w>
+  <w>Folkpartisternas</w>
+  <w>gäst</w>
+  <w>Jovan</w>
+  <w>Divjak</w>
+  <w>,</w>
+  <w>ursprungligen</w>
+  <w>en</w>
+  <w>serb</w>
+  <w>från</w>
+  <w>Belgrad</w>
+  <w>,</w>
+  <w>var</w>
+  <w>nämligen</w>
+  <w>under</w>
+  <w>Bosnienkriget</w>
+  <w>general</w>
+  <w>för</w>
+  <w>den</w>
+  <w>så</w>
+  <w>kallade</w>
+  <w>”</w>
+  <w>Bosnien-Hercegovinas</w>
+  <w>armé</w>
+  <w>”</w>
+  <w>under</w>
+  <w>ledning</w>
+  <w>av</w>
+  <w>bosnienmuslimen</w>
+  <w>Alija</w>
+  <w>Izetbegovic</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Den</w>
+  <w>medialt</w>
+  <w>exponerade</w>
+  <w>krigsgeneralen</w>
+  <w>är</w>
+  <w>också</w>
+  <w>känd</w>
+  <w>för</w>
+  <w>sin</w>
+  <w>inblandning</w>
+  <w>i</w>
+  <w>en</w>
+  <absaspan id=32 senti=1>
+    <w>lömsk</w>
+    <w>massaker</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>på</w>
+    <w>jugoslaviska</w>
+    <w>värnpliktiga</w>
+    <w>i</w>
+    <w>Sarajevo</w>
+  </absaspan>
+  <w>i</w>
+  <w>början</w>
+  <w>av</w>
+  <w>kriget</w>
+  <w>,</w>
+  <w>som</w>
+  <w>ännu</w>
+  <w>ingen</w>
+  <w>dömts</w>
+  <w>för</w>
+  <w>.</w>
+  <w>I</w>
+  <w>det</w>
+  <w>numera</w>
+  <w>bosnienmuslimska</w>
+  <absaspan id=34>
+    <w>Sarajevo</w>
+  </absaspan>
+  <absaspan id=35 senti=5>
+    <w>hyllas</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>Divjak</w>
+  </absaspan>
+  <absaspan id=37 senti=5>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=38 senti=5>
+    <w>hjälte</w>
+  </absaspan>
+  <w>medan</w>
+  <absaspan id=39>
+    <w>serberna</w>
+  </absaspan>
+  <w>betraktar</w>
+  <absaspan id=40>
+    <w>honom</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=41 senti=1>
+    <w>förrädare</w>
+    <w>och</w>
+    <w>krigsförbrytare</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=42>
+    <w>Divjak</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>sade</w>
+  <w>sig</w>
+  <absaspan id=43 senti=2>
+    <w>ta</w>
+    <w>illa</w>
+    <w>upp</w>
+  </absaspan>
+  <absaspan id=44>
+    <w>om</w>
+    <w>han</w>
+    <w>blir</w>
+    <w>kallad</w>
+    <w>serb</w>
+  </absaspan>
+  <w>,</w>
+  <w>skulle</w>
+  <w>alltså</w>
+  <w>försona</w>
+  <w>sig</w>
+  <w>med</w>
+  <w>bosnienmuslimen</w>
+  <w>Jasenko</w>
+  <w>Selimovic</w>
+  <w>,</w>
+  <w>som</w>
+  <w>mer</w>
+  <w>eller</w>
+  <w>mindre</w>
+  <w>är</w>
+  <w>i</w>
+  <w>ständig</w>
+  <w>konflikt</w>
+  <w>med</w>
+  <w>svenskserbiska</w>
+  <w>förbund</w>
+  <w>sedan</w>
+  <w>han</w>
+  <w>blev</w>
+  <w>statssekreterare</w>
+  <w>för</w>
+  <w>integration</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Man</w>
+  <absaspan id=45 senti=2>
+    <w>behöver</w>
+    <w>inte</w>
+    <w>vara</w>
+    <w>särskilt</w>
+    <w>klok</w>
+  </absaspan>
+  <absaspan id=46>
+    <w>för</w>
+    <w>att</w>
+    <w>inse</w>
+  </absaspan>
+  <w>att</w>
+  <w>det</w>
+  <w>här</w>
+  <absaspan id=47 senti=1>
+    <w>grovt</w>
+    <w>ensidiga</w>
+    <w>och</w>
+    <w>propagandistiska</w>
+  </absaspan>
+  <absaspan id=48>
+    <w>upplägget</w>
+  </absaspan>
+  <w>med</w>
+  <w>en</w>
+  <absaspan id=49 senti=2>
+    <w>mycket</w>
+    <w>kontroversiell</w>
+  </absaspan>
+  <absaspan id=50>
+    <w>person</w>
+  </absaspan>
+  <w>bara</w>
+  <w>fördjupar</w>
+  <w>klyftan</w>
+  <w>mellan</w>
+  <w>berörda</w>
+  <w>grupper</w>
+  <w>både</w>
+  <w>på</w>
+  <w>Balkan</w>
+  <w>och</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+  <w>Medierna</w>
+  <w>på</w>
+  <w>Balkan</w>
+  <w>har</w>
+  <w>redan</w>
+  <w>tidigare</w>
+  <w>uppmärksammat</w>
+  <w>det</w>
+  <w>svenskserbiska</w>
+  <w>förbundets</w>
+  <w>protestbrev</w>
+  <w>till</w>
+  <w>Sveriges</w>
+  <w>regering</w>
+  <w>på</w>
+  <w>grund</w>
+  <w>av</w>
+  <absaspan id=51>
+    <w>Selimovics</w>
+  </absaspan>
+  <w>upprepade</w>
+  <absaspan id=52 senti=2>
+    <w>antiserbiska</w>
+    <w>utspel</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Lördagens</w>
+  <absaspan id=53 senti=2 irony>
+    <w>”</w>
+    <w>försoningsaktiviteter</w>
+    <w>”</w>
+  </absaspan>
+  <w>inspirerade</w>
+  <w>dessutom</w>
+  <w>ett</w>
+  <w>tiotal</w>
+  <absaspan id=54 senti=2>
+    <w>krigskåta</w>
+  </absaspan>
+  <absaspan id=55>
+    <w>anhängare</w>
+  </absaspan>
+  <w>till</w>
+  <w>Divjak</w>
+  <w>att</w>
+  <w>ställa</w>
+  <w>sig</w>
+  <w>utanför</w>
+  <w>Sveriges</w>
+  <w>riksdag</w>
+  <w>med</w>
+  <w>banderollen</w>
+  <w>”</w>
+  <w>General</w>
+  <w>,</w>
+  <w>vi</w>
+  <w>väntar</w>
+  <w>på</w>
+  <w>dina</w>
+  <w>order</w>
+  <w>”</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Vad</w>
+  <w>behöver</w>
+  <w>hända</w>
+  <w>för</w>
+  <w>att</w>
+  <w>Folkpartiet</w>
+  <w>och</w>
+  <w>integrationsminister</w>
+  <w>Ullenhag</w>
+  <w>ska</w>
+  <w>inse</w>
+  <w>att</w>
+  <absaspan id=56>
+    <w>den</w>
+    <w>här</w>
+  </absaspan>
+  <absaspan id=57 senti=1>
+    <w>cyniska</w>
+  </absaspan>
+  <absaspan id=58>
+    <w>leken</w>
+    <w>med</w>
+    <w>elden</w>
+  </absaspan>
+  <absaspan id=59 senti=2>
+    <w>betydligt</w>
+    <w>mer</w>
+    <w>gynnar</w>
+    <w>främlingsfientliga</w>
+    <w>krafter</w>
+  </absaspan>
+  <w>än</w>
+  <w>statssekreteraren</w>
+  <w>Selimovics</w>
+  <w>kandidatur</w>
+  <w>till</w>
+  <w>Europaparlamentet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Spasoje</w>
+  <w>Marjanović</w>
+  <w>,</w>
+  <w>Justitia</w>
+  <w>Pax</w>
+  <w>Veritas</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+</absadoc>

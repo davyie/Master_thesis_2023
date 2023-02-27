@@ -1,0 +1,116 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Tidningen</w>
+  <w>StockholmDirekt</w>
+  <w>:</w>
+  <w>Anonym</w>
+  <w>aktivist</w>
+  <w>lär</w>
+  <w>ut</w>
+  <w>anti-rasism</w>
+  <w>i</w>
+  <w>tunnelbanan</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>"</w>
+  <w>Om</w>
+  <w>du</w>
+  <w>ser</w>
+  <w>rasism</w>
+  <w>:</w>
+  <w>då</w>
+  <w>ska</w>
+  <w>du</w>
+  <w>göra</w>
+  <w>så</w>
+  <w>här</w>
+  <w>!</w>
+  <w>Har</w>
+  <w>du</w>
+  <w>också</w>
+  <w>sett</w>
+  <w>de</w>
+  <w>"</w>
+  <w>officiella</w>
+  <w>"</w>
+  <w>instruktionerna</w>
+  <w>i</w>
+  <w>tunnelbanan</w>
+  <w>?</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Så</w>
+  <w>skriver</w>
+  <w>StockholmDirekt</w>
+  <w>angående</w>
+  <w>att</w>
+  <w>aktivister</w>
+  <w>sätter</w>
+  <w>upp</w>
+  <w>klistermärken</w>
+  <w>på</w>
+  <w>tunnelbanan</w>
+  <w>med</w>
+  <w>antirasistiska</w>
+  <w>budskap</w>
+  <absaspan id=1>
+    <w>.</w>
+  </absaspan>
+  <w>Intressant</w>
+  <w>att</w>
+  <absaspan id=2>
+    <w>StockholmDirekt</w>
+  </absaspan>
+  <w>väljer</w>
+  <w>att</w>
+  <w>lyfta</w>
+  <w>fram</w>
+  <w>det</w>
+  <w>som</w>
+  <absaspan id=3 senti=4>
+    <w>något</w>
+    <w>positivt</w>
+  </absaspan>
+  <w>,</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>SL</w>
+  <w>säger</w>
+  <w>att</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>är</w>
+  <w>tillåtet</w>
+  <w>.</w>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>artikeln</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=4>
+    <w>Tidningen</w>
+  </absaspan>
+  <w>har</w>
+  <w>redan</w>
+  <absaspan id=5 senti=2>
+    <w>fått</w>
+    <w>kritik</w>
+  </absaspan>
+  <w>för</w>
+  <w>artikeln</w>
+  <w>på</w>
+  <w>deras</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <absaspan id=6>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

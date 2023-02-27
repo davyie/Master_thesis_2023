@@ -1,0 +1,194 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Invandringen</w>
+  <w>-</w>
+  <w>Sverige</w>
+  <w>vs</w>
+  <w>.</w>
+  <w>Finland</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Sverige</w>
+  <w>:</w>
+  <w>1</w>
+  <w>384</w>
+  <w>100</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Norge</w>
+  <w>:</w>
+  <w>568</w>
+  <w>300</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Danmark</w>
+  <w>:</w>
+  <w>517</w>
+  <w>200</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Finland</w>
+  <w>:</w>
+  <w>243</w>
+  <w>200</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Sverige</w>
+  <w>:</w>
+  <w>901</w>
+  <w>100</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Danmark</w>
+  <w>:</w>
+  <w>356</w>
+  <w>400</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Norge</w>
+  <w>:</w>
+  <w>332</w>
+  <w>100</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Finland</w>
+  <w>:</w>
+  <w>156</w>
+  <w>900</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Schweiz</w>
+  <w>:</w>
+  <w>24,7</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Sverige</w>
+  <w>:</w>
+  <w>14,7</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Tyskland</w>
+  <w>:</w>
+  <w>12,0</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Irland</w>
+  <w>:</w>
+  <w>12,4</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Norge</w>
+  <w>:</w>
+  <w>11,6</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Nederländerna</w>
+  <w>:</w>
+  <w>11,2</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Danmark</w>
+  <w>:</w>
+  <w>9,3</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>Finland</w>
+  <w>:</w>
+  <w>4,5</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>Källa</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>Sverige</w>
+  <w>:</w>
+  <w>73</w>
+  <w>941</w>
+  <w>.</w>
+</absapar>
+<absapar id=19>
+  <w>Danmark</w>
+  <w>:</w>
+  <w>28</w>
+  <w>576</w>
+  <w>.</w>
+</absapar>
+<absapar id=20>
+  <w>Norge</w>
+  <w>:</w>
+  <w>26</w>
+  <w>670</w>
+  <w>.</w>
+</absapar>
+<absapar id=21>
+  <w>Finland</w>
+  <w>:</w>
+  <w>19</w>
+  <w>210</w>
+  <w>.</w>
+</absapar>
+<absapar id=22>
+  <w>Källa</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=23 senti=2>
+  <absaspan id=1>
+    <w>Finland</w>
+  </absaspan>
+  <w>är</w>
+  <w>som</w>
+  <w>Sverige</w>
+  <w>i</w>
+  <w>början</w>
+  <w>av</w>
+  <w>90</w>
+  <w>-</w>
+  <w>talet</w>
+  <w>.</w>
+  <absaspan id=2 senti=4>
+    <w>Allt</w>
+    <w>funkar</w>
+    <w>lite</w>
+    <w>bättre</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>Sveriges</w>
+  <w>och</w>
+  <w>Norges</w>
+  <w>ödestimmar</w>
+  <w>?</w>
+  <w>Ska</w>
+  <absaspan id=3>
+    <w>islam</w>
+  </absaspan>
+  <w>vinna</w>
+  <w>?</w>
+  <absaspan id=4 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

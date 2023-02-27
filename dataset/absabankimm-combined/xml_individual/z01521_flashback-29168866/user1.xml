@@ -1,0 +1,109 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>I</w>
+  <w>&</w>
+  <w>I-logik</w>
+  <w>:</w>
+  <absaspan id=1 senti=2 target=2>
+    <w>Dags</w>
+    <w>att</w>
+    <w>förbjuda</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>lantisar</w>
+    <w>att</w>
+    <w>invandra</w>
+    <w>till</w>
+    <w>storstäder</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Vi</w>
+  <w>vet</w>
+  <w>alla</w>
+  <w>att</w>
+  <w>det</w>
+  <w>sociala</w>
+  <w>kapitalet</w>
+  <w>är</w>
+  <w>lägre</w>
+  <w>i</w>
+  <w>storstäder</w>
+  <w>,</w>
+  <w>vilket</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>tur</w>
+  <w>leder</w>
+  <w>till</w>
+  <w>ökad</w>
+  <w>brottslighet</w>
+  <w>.</w>
+  <absaspan id=3>
+    <w>När</w>
+    <w>då</w>
+    <w>lantisar</w>
+    <w>flyttar</w>
+    <w>till</w>
+    <w>storstan</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>förvärras</w>
+    <w>naturligtvis</w>
+    <w>brottsligheten</w>
+    <w>totalt</w>
+    <w>sett</w>
+    <w>i</w>
+    <w>landet</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=5 senti=4>
+    <w>Det</w>
+    <w>vore</w>
+  </absaspan>
+  <w>alltså</w>
+  <absaspan id=6 senti=4>
+    <w>bättre</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>om</w>
+    <w>fler</w>
+    <w>höll</w>
+    <w>sig</w>
+    <w>kvar</w>
+    <w>på</w>
+    <w>landsbygden</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Kan</w>
+  <w>man</w>
+  <w>med</w>
+  <w>I</w>
+  <w>&</w>
+  <w>I-logik</w>
+  <w>förbjuda</w>
+  <w>lantisar</w>
+  <w>att</w>
+  <w>flytta</w>
+  <w>till</w>
+  <w>storstäder</w>
+  <w>eftersom</w>
+  <w>det</w>
+  <w>ökar</w>
+  <w>brottsligheten</w>
+  <w>precis</w>
+  <w>som</w>
+  <w>invandringen</w>
+  <w>från</w>
+  <w>"</w>
+  <w>kulturellt</w>
+  <w>avlägsna</w>
+  <w>"</w>
+  <w>länder</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

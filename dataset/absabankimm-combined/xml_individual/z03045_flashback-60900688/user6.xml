@@ -1,0 +1,541 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Britterna</w>
+  <w>:</w>
+  <w>terrorismen</w>
+  <w>beror</w>
+  <w>på</w>
+  <w>våra</w>
+  <w>krig</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Den</w>
+  <w>globala</w>
+  <w>terrorismens</w>
+  <w>orsaker</w>
+  <w>har</w>
+  <w>ju</w>
+  <w>länge</w>
+  <w>varit</w>
+  <w>omstridda</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Å</w>
+  <w>ena</w>
+  <w>sidan</w>
+  <w>har</w>
+  <w>fredsaktivister</w>
+  <w>som</w>
+  <w>brittiska</w>
+  <w>Stop</w>
+  <w>the</w>
+  <w>War</w>
+  <w>Coalition</w>
+  <w>-</w>
+  <w>som</w>
+  <w>grundades</w>
+  <w>av</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>Jeremy</w>
+  <w>Corbyn</w>
+  <w>-</w>
+  <w>länge</w>
+  <w>hävdat</w>
+  <absaspan id=1>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>motorn</w>
+    <w>bakom</w>
+    <w>både</w>
+    <w>flyktingkatastroferna</w>
+    <w>och</w>
+    <w>terrorismen</w>
+    <w>är</w>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>aggressionskrig</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>som</w>
+    <w>USA</w>
+    <w>och</w>
+    <w>dess</w>
+    <w>allierade</w>
+    <w>bedriver</w>
+    <w>i</w>
+    <w>de</w>
+    <w>muslimska</w>
+    <w>länderna</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Detta</w>
+  <w>till</w>
+  <w>synes</w>
+  <w>uppenbara</w>
+  <w>samband</w>
+  <w>har</w>
+  <w>dock</w>
+  <absaspan id=5 senti=4 irony>
+    <w>ihärdigt</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>förnekats</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=7>
+    <w>krigsanhängare</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>i</w>
+  <w>stället</w>
+  <absaspan id=8 senti=2>
+    <w>skyller</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>andra</w>
+    <w>motiv</w>
+  </absaspan>
+  <w>.</w>
+  <w>George</w>
+  <w>W</w>
+  <w>.</w>
+  <w>Bushs</w>
+  <absaspan id=10 senti=2>
+    <w>hycklande</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>ord</w>
+  </absaspan>
+  <w>om</w>
+  <w>att</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>är</w>
+  <w>ett</w>
+  <w>klassiskt</w>
+  <w>exempel</w>
+  <w>på</w>
+  <w>denna</w>
+  <w>typ</w>
+  <w>av</w>
+  <w>retorik</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>YouGov</w>
+  <w>har</w>
+  <w>nu</w>
+  <w>gjort</w>
+  <w>en</w>
+  <w>undersökning</w>
+  <w>bland</w>
+  <w>britterna</w>
+  <w>om</w>
+  <w>vad</w>
+  <w>de</w>
+  <w>tycker</w>
+  <w>,</w>
+  <w>dels</w>
+  <w>om</w>
+  <w>de</w>
+  <w>krig</w>
+  <w>landet</w>
+  <w>varit</w>
+  <w>inblandat</w>
+  <w>i</w>
+  <w>,</w>
+  <w>och</w>
+  <w>dels</w>
+  <w>vad</w>
+  <w>de</w>
+  <w>tror</w>
+  <w>om</w>
+  <w>sambandet</w>
+  <w>mellan</w>
+  <w>krig</w>
+  <w>och</w>
+  <w>terrorism</w>
+  <w>.</w>
+  <w>Resultaten</w>
+  <w>visar</w>
+  <w>att</w>
+  <w>fredsaktivisterna</w>
+  <absaspan id=12 senti=4>
+    <w>har</w>
+    <w>stöd</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>sin</w>
+    <w>uppfattning</w>
+  </absaspan>
+  <w>bland</w>
+  <absaspan id=14>
+    <w>det</w>
+    <w>brittiska</w>
+    <w>folket</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=15>
+    <w>En</w>
+    <w>majoritet</w>
+    <w>av</w>
+    <w>britterna</w>
+  </absaspan>
+  <absaspan id=16 senti=4>
+    <w>håller</w>
+    <w>med</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>det</w>
+  </absaspan>
+  <w>,</w>
+  <w>medan</w>
+  <absaspan id=18>
+    <w>mindre</w>
+    <w>än</w>
+    <w>en</w>
+    <w>fjärdedel</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>förnekar</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>orsakssambandet</w>
+    <w>mellan</w>
+    <w>krig</w>
+    <w>och</w>
+    <w>terrorism</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>När</w>
+  <w>det</w>
+  <w>gäller</w>
+  <w>frågan</w>
+  <w>om</w>
+  <w>de</w>
+  <w>krig</w>
+  <w>Storbritannien</w>
+  <w>varit</w>
+  <w>inblandade</w>
+  <w>i</w>
+  <w>varit</w>
+  <w>rättfärdiga</w>
+  <w>eller</w>
+  <w>orättfärdiga</w>
+  <w>skiljer</w>
+  <w>det</w>
+  <w>kraftigt</w>
+  <w>mellan</w>
+  <w>olika</w>
+  <w>krig</w>
+  <w>.</w>
+  <absaspan id=21>
+    <w>Hela</w>
+    <w>83%</w>
+    <w>av</w>
+    <w>britterna</w>
+  </absaspan>
+  <w>tycker</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=22 senti=5>
+    <w>var</w>
+    <w>rätt</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>att</w>
+    <w>gå</w>
+    <w>i</w>
+    <w>krig</w>
+    <w>mot</w>
+    <w>Hitlertyskland</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=24>
+    <w>51%</w>
+    <w>av</w>
+    <w>britterna</w>
+  </absaspan>
+  <w>tycker</w>
+  <w>att</w>
+  <absaspan id=25>
+    <w>Falklandskriget</w>
+  </absaspan>
+  <absaspan id=26 senti=5>
+    <w>var</w>
+    <w>rättfärdigt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <absaspan id=27>
+    <w>Krigen</w>
+    <w>i</w>
+    <w>de</w>
+    <w>muslimska</w>
+    <w>länderna</w>
+  </absaspan>
+  <absaspan id=28 senti=2>
+    <w>får</w>
+  </absaspan>
+  <w>dock</w>
+  <w>alla</w>
+  <w>i</w>
+  <w>efterhand</w>
+  <absaspan id=29 senti=2>
+    <w>tummen</w>
+  </absaspan>
+  <absaspan id=30 senti=2>
+    <w>ner</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=31>
+    <w>britterna</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=32>
+    <w>Bara</w>
+    <w>30%</w>
+  </absaspan>
+  <w>tycker</w>
+  <w>att</w>
+  <absaspan id=33>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>första</w>
+    <w>Irakkriget</w>
+  </absaspan>
+  <absaspan id=35 senti=5>
+    <w>var</w>
+    <w>rättfärdigt</w>
+  </absaspan>
+  <w>(</w>
+  <w>och</w>
+  <absaspan id=36>
+    <w>35%</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=37>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=38 senti=2>
+    <w>var</w>
+    <w>orättfärdigt</w>
+  </absaspan>
+  <w>)</w>
+  <w>,</w>
+  <w>medan</w>
+  <absaspan id=39>
+    <w>25%</w>
+  </absaspan>
+  <w>tycker</w>
+  <w>att</w>
+  <absaspan id=40>
+    <w>kriget</w>
+    <w>mot</w>
+    <w>Afghanistan</w>
+  </absaspan>
+  <absaspan id=41 senti=5>
+    <w>var</w>
+    <w>rättfärdigt</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=42>
+    <w>endast</w>
+    <w>18%</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=43>
+    <w>det</w>
+    <w>andra</w>
+    <w>Irakkriget</w>
+  </absaspan>
+  <absaspan id=44 senti=5>
+    <w>var</w>
+    <w>rättfärdigt</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=45>
+    <w>19%</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=46>
+    <w>kriget</w>
+    <w>mot</w>
+    <w>Libyen</w>
+  </absaspan>
+  <absaspan id=47 senti=5>
+    <w>var</w>
+    <w>rättfärdigt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <absaspan id=48 senti=4 irony>
+    <w>Poletten</w>
+    <w>tycks</w>
+    <w>alltså</w>
+    <w>ha</w>
+    <w>trillat</w>
+    <w>ner</w>
+  </absaspan>
+  <w>hos</w>
+  <absaspan id=49>
+    <w>britterna</w>
+  </absaspan>
+  <w>vad</w>
+  <w>gäller</w>
+  <w>orsakssambandet</w>
+  <w>mellan</w>
+  <w>aggressionskrig</w>
+  <w>och</w>
+  <w>terrorism</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1</w>
+  <w>.</w>
+  <w>Kommer</w>
+  <w>opinionen</w>
+  <w>att</w>
+  <w>svänga</w>
+  <w>även</w>
+  <w>i</w>
+  <w>andra</w>
+  <w>västländer</w>
+  <w>?</w>
+  <w>Har</w>
+  <w>den</w>
+  <w>redan</w>
+  <w>svängt</w>
+  <w>i</w>
+  <w>vissa</w>
+  <w>länder</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>2</w>
+  <w>.</w>
+  <w>Om</w>
+  <w>vi</w>
+  <w>antar</w>
+  <w>att</w>
+  <absaspan id=50>
+    <w>britterna</w>
+  </absaspan>
+  <absaspan id=51 senti=4>
+    <w>har</w>
+    <w>rätt</w>
+  </absaspan>
+  <w>,</w>
+  <w>vad</w>
+  <w>kan</w>
+  <w>vi</w>
+  <w>då</w>
+  <w>göra</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=52 senti=2>
+    <w>få</w>
+    <w>stopp</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=53 senti=2>
+    <w>aggressionkrigen</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>därmed</w>
+  <w>också</w>
+  <w>på</w>
+  <w>terrorismen</w>
+  <w>?</w>
+  <w>Skulle</w>
+  <w>politiska</w>
+  <w>påtryckningar</w>
+  <w>eller</w>
+  <w>ekonomiska</w>
+  <w>sanktioner</w>
+  <w>mot</w>
+  <w>de</w>
+  <w>länder</w>
+  <w>som</w>
+  <w>står</w>
+  <w>bakom</w>
+  <w>krigen</w>
+  <w>fungera</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>3</w>
+  <w>.</w>
+  <w>Bör</w>
+  <w>Sverige</w>
+  <w>ompröva</w>
+  <w>sitt</w>
+  <w>deltagande</w>
+  <w>i</w>
+  <w>denna</w>
+  <w>typ</w>
+  <w>av</w>
+  <w>krig</w>
+  <w>?</w>
+  <w>Vi</w>
+  <w>deltog</w>
+  <w>ju</w>
+  <w>både</w>
+  <w>i</w>
+  <w>kriget</w>
+  <w>mot</w>
+  <w>Afghanistan</w>
+  <w>och</w>
+  <w>kriget</w>
+  <w>mot</w>
+  <w>Libyen</w>
+  <w>.</w>
+  <w>Är</w>
+  <w>vi</w>
+  <w>därigenom</w>
+  <w>medskyldiga</w>
+  <w>till</w>
+  <w>terrorismen</w>
+  <w>?</w>
+  <absaspan id=54 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

@@ -1,0 +1,130 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Här</w>
+  <w>flyr</w>
+  <w>Migrationsministern</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>Okej</w>
+  <w>,</w>
+  <w>ett</w>
+  <w>mindre</w>
+  <w>antal</w>
+  <absaspan id=1 senti=2>
+    <w>vänsterflummare</w>
+  </absaspan>
+  <w>kommer</w>
+  <w>och</w>
+  <w>skriker</w>
+  <w>någonting</w>
+  <w>obegripligt</w>
+  <w>och</w>
+  <w>vill</w>
+  <w>ha</w>
+  <w>en</w>
+  <w>förklaring</w>
+  <w>av</w>
+  <w>migrationsministern</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Han</w>
+  <w>lämnar</w>
+  <w>platsen</w>
+  <w>,</w>
+  <w>går</w>
+  <w>in</w>
+  <w>.</w>
+  <absaspan id=2 senti=2>
+    <w>Man</w>
+    <w>vet</w>
+    <w>ju</w>
+    <w>inte</w>
+  </absaspan>
+  <w>-</w>
+  <w>kan</w>
+  <w>alltid</w>
+  <w>vara</w>
+  <absaspan id=3 senti=2>
+    <w>stenkastare</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Gjorde</w>
+  <w>han</w>
+  <w>rätt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Jag</w>
+  <w>tänker</w>
+  <w>-</w>
+  <w>hypotetiskt</w>
+  <w>-</w>
+  <w>att</w>
+  <w>om</w>
+  <w>migrationsministern</w>
+  <w>blivit</w>
+  <w>konfronterad</w>
+  <w>av</w>
+  <w>ett</w>
+  <w>gäng</w>
+  <absaspan id=4 senti=2 irony>
+    <w>"</w>
+    <w>högerextrema</w>
+    <w>"</w>
+  </absaspan>
+  <w>och</w>
+  <w>avvikit</w>
+  <w>.</w>
+  <w>Då</w>
+  <w>hade</w>
+  <w>väl</w>
+  <w>mediabilden</w>
+  <w>i</w>
+  <w>princip</w>
+  <w>blivit</w>
+  <w>att</w>
+  <w>han</w>
+  <w>attackerades</w>
+  <w>och</w>
+  <w>tvingades</w>
+  <w>fly</w>
+  <w>snarare</w>
+  <w>än</w>
+  <w>att</w>
+  <w>han</w>
+  <w>blev</w>
+  <w>konfronterad</w>
+  <w>och</w>
+  <w>sprang</w>
+  <w>och</w>
+  <w>gömde</w>
+  <w>sig</w>
+  <absaspan id=5 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>Eller</w>
+  <w>är</w>
+  <w>jag</w>
+  <w>snett</w>
+  <w>ute</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Någon</w>
+  <w>som</w>
+  <w>hör</w>
+  <w>vad</w>
+  <w>dom</w>
+  <w>skriker</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

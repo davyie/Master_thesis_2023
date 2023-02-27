@@ -1,0 +1,223 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Migrationsverket</w>
+  <absaspan id=1 senti=5 target=2>
+    <w>välkomnar</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=2>
+    <w>jihadister</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=4 senti=1 target=4>
+    <w>terrorister</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>från</w>
+    <w>Syrien</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>På</w>
+  <w>grund</w>
+  <w>av</w>
+  <w>oroligheterna</w>
+  <w>i</w>
+  <w>Syrien</w>
+  <w>planerar</w>
+  <w>Sverige</w>
+  <w>(</w>
+  <w>svenska</w>
+  <w>regeringen</w>
+  <w>)</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>tusentals</w>
+  <w>flyktingar</w>
+  <w>från</w>
+  <w>Syrien</w>
+  <w>.</w>
+  <absaspan id=6>
+    <w>De</w>
+    <w>som</w>
+    <w>tar</w>
+    <w>sig</w>
+    <w>från</w>
+    <w>Syrien</w>
+    <w>till</w>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=7 senti=5>
+    <w>är</w>
+    <w>välkomna</w>
+  </absaspan>
+  <w>.</w>
+  <w>Dock</w>
+  <w>är</w>
+  <w>Sverige</w>
+  <w>inte</w>
+  <w>förberedda</w>
+  <w>på</w>
+  <w>att</w>
+  <w>kontrollera</w>
+  <w>inresande</w>
+  <w>syrianer</w>
+  <w>ifall</w>
+  <w>de</w>
+  <w>är</w>
+  <absaspan id=8 senti=4>
+    <w>riktiga</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>syrianer</w>
+  </absaspan>
+  <w>eller</w>
+  <w>om</w>
+  <w>de</w>
+  <w>är</w>
+  <absaspan id=10 senti=2>
+    <w>sk</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>jihadister</w>
+  </absaspan>
+  <w>(</w>
+  <w>muslimer</w>
+  <w>från</w>
+  <w>andra</w>
+  <w>länder</w>
+  <w>än</w>
+  <w>Syrien</w>
+  <w>)</w>
+  <w>som</w>
+  <w>varit</w>
+  <w>i</w>
+  <w>Syrien</w>
+  <w>och</w>
+  <w>stridit</w>
+  <w>mot</w>
+  <w>Syrien</w>
+  <w>och</w>
+  <w>dess</w>
+  <w>regim</w>
+  <w>.</w>
+  <w>Flesta</w>
+  <w>ankommande</w>
+  <w>kommer</w>
+  <w>sakna</w>
+  <w>identitetshandlingar</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <absaspan id=12>
+    <w>Sverige</w>
+    <w>och</w>
+    <w>Migrationsverket</w>
+  </absaspan>
+  <w>kommer</w>
+  <absaspan id=13 senti=5>
+    <w>välkomna</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>många</w>
+    <w>av</w>
+    <w>de</w>
+    <w>stridande</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>jihadisterna</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>i</w>
+    <w>Syrien</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=17 senti=2>
+    <w>Jihadisterna</w>
+  </absaspan>
+  <w>kommer</w>
+  <absaspan id=18 senti=5>
+    <w>älska</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>svenska</w>
+    <w>Migrationsverket</w>
+  </absaspan>
+  <w>.</w>
+  <w>Fri</w>
+  <w>logi</w>
+  <w>,</w>
+  <w>mat</w>
+  <w>och</w>
+  <w>uppassare</w>
+  <absaspan id=20 senti=5 irony>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=2>
+  <absaspan id=21>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=22 senti=5>
+    <w>ställer</w>
+    <w>välvilligt</w>
+    <w>upp</w>
+  </absaspan>
+  <w>och</w>
+  <w>tar</w>
+  <w>emot</w>
+  <w>alla</w>
+  <w>som</w>
+  <w>vill</w>
+  <w>hit</w>
+  <w>från</w>
+  <w>Syrien</w>
+  <w>.</w>
+  <w>Utan</w>
+  <w>kontroll</w>
+  <w>mot</w>
+  <w>vilka</w>
+  <w>man</w>
+  <w>tar</w>
+  <w>emot</w>
+  <w>.</w>
+  <absaspan id=23>
+    <w>Att</w>
+    <w>kontrollera</w>
+  </absaspan>
+  <absaspan id=24 senti=1>
+    <w>är</w>
+    <w>diskriminerande</w>
+    <w>och</w>
+    <w>rasistiskt</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=25>
+    <w>Ta</w>
+    <w>fingeravtryck</w>
+  </absaspan>
+  <absaspan id=26 senti=1>
+    <w>är</w>
+    <w>nazistiskt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Hur</w>
+  <w>löser</w>
+  <w>andra</w>
+  <w>EU-länder</w>
+  <w>detta</w>
+  <w>?</w>
+  <w>Samma</w>
+  <absaspan id=27 senti=2>
+    <w>flathet</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=28>
+    <w>Sverige</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

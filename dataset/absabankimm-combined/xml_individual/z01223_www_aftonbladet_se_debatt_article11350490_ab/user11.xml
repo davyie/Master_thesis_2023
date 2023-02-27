@@ -1,0 +1,272 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Var</w>
+    <w>lite</w>
+    <w>ödmjuk</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=2>
+    <w>Malmborg</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Som</w>
+  <w>svar</w>
+  <w>på</w>
+  <w>Curt</w>
+  <w>Malmborgs</w>
+  <absaspan id=3 senti=2>
+    <w>indignerade</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>replik</w>
+  </absaspan>
+  <w>i</w>
+  <w>debatten</w>
+  <w>om</w>
+  <w>Försäkringskassan</w>
+  <w>som</w>
+  <w>”</w>
+  <w>fjärde</w>
+  <w>riket</w>
+  <w>”</w>
+  <w>,</w>
+  <absaspan id=5 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>gratulera</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=8>
+    <w>han</w>
+    <w>erkänner</w>
+    <w>att</w>
+    <w>fel</w>
+    <w>har</w>
+    <w>begåtts</w>
+  </absaspan>
+  <w>.</w>
+  <w>En</w>
+  <absaspan id=9>
+    <w>uppgift</w>
+    <w>om</w>
+    <w>en</w>
+    <w>försäkringstagares</w>
+    <w>politiska</w>
+    <w>verksamhet</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>hör</w>
+    <w>inte</w>
+    <w>hemma</w>
+    <w>i</w>
+    <w>kassans</w>
+    <w>journalanteckningar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Men</w>
+  <w>som</w>
+  <w>chef</w>
+  <w>för</w>
+  <w>en</w>
+  <w>statlig</w>
+  <w>myndighet</w>
+  <absaspan id=11 senti=2>
+    <w>borde</w>
+  </absaspan>
+  <w>kanske</w>
+  <absaspan id=12>
+    <w>Malmborg</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>fundera</w>
+  </absaspan>
+  <w>på</w>
+  <w>varför</w>
+  <absaspan id=14>
+    <w>82</w>
+    <w>procent</w>
+    <w>av</w>
+    <w>s</w>
+    <w>läsare</w>
+  </absaspan>
+  <absaspan id=15 senti=4>
+    <w>höll</w>
+    <w>med</w>
+    <w>mig</w>
+  </absaspan>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=16>
+    <w>Försäkringskassan</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>höll</w>
+    <w>på</w>
+    <w>att</w>
+    <w>bli</w>
+    <w>”</w>
+    <w>en</w>
+    <w>stat</w>
+    <w>i</w>
+    <w>staten</w>
+    <w>och</w>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=18 senti=1>
+    <w>hot</w>
+    <w>mot</w>
+    <w>demokratin</w>
+  </absaspan>
+  <w>”</w>
+  <w>.</w>
+  <w>Om</w>
+  <w>inte</w>
+  <w>detta</w>
+  <w>är</w>
+  <w>ett</w>
+  <absaspan id=19 senti=2>
+    <w>underbetyg</w>
+  </absaspan>
+  <w>när</w>
+  <w>man</w>
+  <w>”</w>
+  <absaspan id=20>
+    <w>bara</w>
+    <w>följer</w>
+    <w>lagen</w>
+  </absaspan>
+  <w>”</w>
+  <w>,</w>
+  <w>så</w>
+  <w>vet</w>
+  <w>jag</w>
+  <w>inte</w>
+  <w>vad</w>
+  <w>som</w>
+  <w>skulle</w>
+  <w>vara</w>
+  <w>det</w>
+  <w>.</w>
+  <w>Lite</w>
+  <absaspan id=21>
+    <w>ödmjukhet</w>
+  </absaspan>
+  <w>kanske</w>
+  <absaspan id=22 senti=4>
+    <w>vore</w>
+    <w>på</w>
+    <w>sin</w>
+    <w>plats</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>är</w>
+  <w>naturligtvis</w>
+  <w>så</w>
+  <w>att</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>utrymme</w>
+  <w>för</w>
+  <w>olika</w>
+  <w>tolkningar</w>
+  <w>av</w>
+  <w>lagen</w>
+  <w>,</w>
+  <w>tolkningar</w>
+  <w>som</w>
+  <w>Malmborg</w>
+  <w>själv</w>
+  <w>ansvarar</w>
+  <w>för</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=23>
+    <w>Poliser</w>
+  </absaspan>
+  <w>som</w>
+  <w>utreder</w>
+  <absaspan id=24>
+    <w>Försäkringskassans</w>
+    <w>anmälningar</w>
+  </absaspan>
+  <w>har</w>
+  <w>själva</w>
+  <w>vittnat</w>
+  <w>i</w>
+  <w>SVT</w>
+  <w>:</w>
+  <w>s</w>
+  <w>Rapport</w>
+  <w>om</w>
+  <w>vad</w>
+  <w>de</w>
+  <w>beskriver</w>
+  <w>som</w>
+  <w>”</w>
+  <absaspan id=25 senti=2>
+    <w>slarv</w>
+    <w>och</w>
+    <w>oförstånd</w>
+    <w>utan</w>
+    <w>brottslig</w>
+    <w>avsikt</w>
+    <w>”</w>
+    <w>.</w>
+  </absaspan>
+  <w>Och</w>
+  <w>att</w>
+  <w>de</w>
+  <w>blir</w>
+  <w>översvämmade</w>
+  <w>av</w>
+  <w>kassans</w>
+  <w>anmälningar</w>
+  <w>,</w>
+  <w>som</w>
+  <w>tar</w>
+  <absaspan id=26 senti=4>
+    <w>värdefulla</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>resurser</w>
+  </absaspan>
+  <w>i</w>
+  <w>anspråk</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Mikael</w>
+  <w>“</w>
+  <w>Prinsen</w>
+  <w>”</w>
+  <w>Trolin</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Landstingspolitiker</w>
+  <w>i</w>
+  <w>Stockholm</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Läs</w>
+  <w>fler</w>
+  <w>inlägg</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,87 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Sverige</w>
+  <w>begär</w>
+  <w>flyktinghjälp</w>
+  <w>av</w>
+  <w>EU</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>men</w>
+  <w>alltså</w>
+  <w>seriöst</w>
+  <absaspan id=1 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2 senti=2>
+  <absaspan id=2 senti=1>
+    <w>är</w>
+    <w>det</w>
+    <w>inte</w>
+    <w>fel</w>
+    <w>fel</w>
+    <w>fel</w>
+  </absaspan>
+  <w>av</w>
+  <w>Sverige</w>
+  <absaspan id=3>
+    <w>att</w>
+    <w>ha</w>
+    <w>öppna</w>
+    <w>hjärtan</w>
+    <w>och</w>
+    <w>öppna</w>
+    <w>gränser</w>
+    <w>när</w>
+    <w>till</w>
+    <w>och</w>
+    <w>med</w>
+    <w>statsministern</w>
+    <w>ber</w>
+    <w>om</w>
+    <w>hjälp</w>
+    <w>för</w>
+    <w>att</w>
+    <w>klara</w>
+    <w>av</w>
+    <w>flyktingsituationen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>men</w>
+  <w>tanke</w>
+  <w>på</w>
+  <w>hur</w>
+  <absaspan id=4 senti=2>
+    <w>svalt</w>
+    <w>intresset</w>
+    <w>tidigare</w>
+    <w>har</w>
+    <w>varit</w>
+  </absaspan>
+  <w>från</w>
+  <absaspan id=5>
+    <w>andra</w>
+    <w>länder</w>
+  </absaspan>
+  <w>-</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>att</w>
+  <w>EU</w>
+  <w>nu</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>skynda</w>
+  <w>till</w>
+  <w>Sveriges</w>
+  <w>undsättning</w>
+  <w>?</w>
+  <absaspan id=6 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

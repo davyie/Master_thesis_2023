@@ -1,0 +1,172 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1 senti=2 target=2 source=4>
+    <w>Hur</w>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=2 senti=2 source=4 target=2>
+    <w>främlingsfientlig</w>
+  </absaspan>
+  <absaspan id=3 senti=2 target=2 source=4>
+    <w>"</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>svensken</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>egentligen</w>
+  <w>jfrt</w>
+  <w>med</w>
+  <w>andra</w>
+  <w>länder</w>
+  <w>?</w>
+  <w>Både</w>
+  <w>inom</w>
+  <w>och</w>
+  <w>utom</w>
+  <w>EU</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <absaspan id=5>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>svenskar</w>
+  </absaspan>
+  <w>som</w>
+  <w>får</w>
+  <w>höra</w>
+  <w>att</w>
+  <absaspan id=7>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>är</w>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>främlingsfientliga</w>
+  </absaspan>
+  <w>"</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>släpper</w>
+  <w>in</w>
+  <w>närmare</w>
+  <w>hundratalet</w>
+  <w>tusen</w>
+  <absaspan id=10 senti=2>
+    <w>asylsnyltare</w>
+  </absaspan>
+  <w>per</w>
+  <w>år</w>
+  <w>,</w>
+  <w>håller</w>
+  <w>dem</w>
+  <w>med</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=2>
+  <absaspan id=11 senti=4>
+    <w>anständiga</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>bostäder</w>
+  </absaspan>
+  <w>,</w>
+  <w>mat</w>
+  <w>,</w>
+  <w>möbler</w>
+  <w>och</w>
+  <w>russelpengar</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Inte</w>
+  <w>nog</w>
+  <w>med</w>
+  <w>det</w>
+  <w>.</w>
+  <w>De</w>
+  <w>får</w>
+  <w>gå</w>
+  <w>i</w>
+  <w>skola</w>
+  <w>,</w>
+  <w>utnyttja</w>
+  <w>sjukvården</w>
+  <w>osv</w>
+  <w>alldeles</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>gratis</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Vad</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>för</w>
+  <w>fog</w>
+  <w>att</w>
+  <w>kalla</w>
+  <w>svenska</w>
+  <w>folket</w>
+  <w>då</w>
+  <w>för</w>
+  <w>"</w>
+  <w>främlingsfientliga</w>
+  <w>"</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=8 senti=2>
+  <w>Fokusera</w>
+  <w>nu</w>
+  <w>på</w>
+  <w>den</w>
+  <w>första</w>
+  <w>frågan</w>
+  <w>.</w>
+  <w>Hur</w>
+  <w>behandlas</w>
+  <w>så</w>
+  <w>kallade</w>
+  <absaspan id=13 senti=2>
+    <w>asylsnyltare</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>i</w>
+  <w>de</w>
+  <w>flesta</w>
+  <w>andra</w>
+  <w>länder</w>
+  <w>på</w>
+  <w>vårt</w>
+  <w>jordklot</w>
+  <w>jfrt</w>
+  <w>med</w>
+  <w>Sverige</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

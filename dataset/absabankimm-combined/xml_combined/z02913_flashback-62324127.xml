@@ -1,0 +1,88 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Moderaternas</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=3 source=1>
+    <w>nya</w>
+    <w>åtgärder</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>sexualbrott</w>
+  </absaspan>
+  <w>(</w>
+  <w>vill</w>
+  <w>kartlägga</w>
+  <w>förövarna</w>
+  <w>)</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Moderaterna</w>
+  <w>meddelade</w>
+  <w>idag</w>
+  <w>att</w>
+  <w>de</w>
+  <w>har</w>
+  <w>tagit</w>
+  <w>fram</w>
+  <w>ett</w>
+  <w>åtgärdsprogram</w>
+  <w>mot</w>
+  <w>sexualbrott</w>
+  <w>.</w>
+  <w>Detta</w>
+  <w>program</w>
+  <w>innefattar</w>
+  <w>skärpta</w>
+  <w>straff</w>
+  <w>för</w>
+  <w>våldtäkt</w>
+  <w>och</w>
+  <w>sexuellt</w>
+  <w>ofredande</w>
+  <w>,</w>
+  <w>förbättring</w>
+  <w>av</w>
+  <w>brottsutredningarna</w>
+  <w>,</w>
+  <w>bättre</w>
+  <w>stöd</w>
+  <w>till</w>
+  <w>brottsoffren</w>
+  <w>och</w>
+  <w>även</w>
+  <w>genomförandet</w>
+  <w>av</w>
+  <w>en</w>
+  <w>omfattande</w>
+  <w>studie</w>
+  <w>för</w>
+  <w>att</w>
+  <w>kartlägga</w>
+  <w>förövarna</w>
+  <w>av</w>
+  <w>dessa</w>
+  <w>brott</w>
+  <w>.</w>
+  <w>Påminner</w>
+  <w>om</w>
+  <w>förslag</w>
+  <w>som</w>
+  <w>man</w>
+  <w>länge</w>
+  <w>hört</w>
+  <w>från</w>
+  <w>ett</w>
+  <w>visst</w>
+  <w>annat</w>
+  <w>parti</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Tankar</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

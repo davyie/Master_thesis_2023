@@ -1,0 +1,120 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>Varför</w>
+  <absaspan id=1 senti=4 target=3 source=2>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>alliansen</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=3>
+    <w>lönerna</w>
+    <w>ska</w>
+    <w>bli</w>
+    <w>30%</w>
+    <w>lägre</w>
+    <w>för</w>
+    <w>lågutbildade</w>
+  </absaspan>
+  <w>[</w>
+  <w>Rubr</w>
+  <w>/</w>
+  <w>Mod</w>
+  <w>]</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Varför</w>
+  <absaspan id=4 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>alliansen</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=6>
+    <w>lönerna</w>
+    <w>ska</w>
+    <w>bli</w>
+    <w>30%</w>
+    <w>lägre</w>
+    <w>än</w>
+    <w>en</w>
+    <w>person</w>
+    <w>som</w>
+    <w>har</w>
+    <w>gått</w>
+    <w>gymnasiet</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Varför</w>
+  <w>räcker</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>med</w>
+  <w>80</w>
+  <w>-</w>
+  <w>90%</w>
+  <w>av</w>
+  <w>lönen</w>
+  <w>?</w>
+  <absaspan id=7 senti=2>
+    <w>Känns</w>
+    <w>som</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=8>
+    <w>de</w>
+    <w>mer</w>
+    <w>vill</w>
+    <w>ha</w>
+    <w>ett</w>
+    <w>större</w>
+    <w>klass-samhälle</w>
+    <w>,</w>
+    <w>likt</w>
+    <w>USA</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <absaspan id=9>
+    <w>Alla</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>ha</w>
+    <w>jobb</w>
+  </absaspan>
+  <w>idag</w>
+  <w>,</w>
+  <w>får</w>
+  <w>jobb</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>Bara</w>
+  <absaspan id=12 senti=2>
+    <w>lata</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>invandrare</w>
+    <w>/</w>
+    <w>svenskar</w>
+    <w>som</w>
+    <w>inte</w>
+    <w>får</w>
+    <w>jobb</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

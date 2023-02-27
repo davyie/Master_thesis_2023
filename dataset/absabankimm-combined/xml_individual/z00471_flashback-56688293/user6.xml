@@ -1,0 +1,199 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <absaspan id=1 senti=2 target=1>
+    <w>Stormedia</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>diskriminerar</w>
+  </absaspan>
+  <w>p.g.a</w>
+  <w>.</w>
+  <w>avvikande</w>
+  <w>åsikt</w>
+  <w>,</w>
+  <w>är</w>
+  <w>det</w>
+  <w>ok</w>
+  <w>och</w>
+  <w>vad</w>
+  <w>betyder</w>
+  <w>mångfald</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Lennart</w>
+  <w>Matikainen</w>
+  <w>har</w>
+  <w>arbetat</w>
+  <w>för</w>
+  <w>TV4</w>
+  <w>.</w>
+  <w>Ett</w>
+  <absaspan id=3 senti=4>
+    <w>bra</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>jobb</w>
+  </absaspan>
+  <w>verkar</w>
+  <w>han</w>
+  <w>gjort</w>
+  <w>dessutom</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Enligt</w>
+  <absaspan id=5>
+    <w>TV4</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=6>
+    <w>Matikainen</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>ej</w>
+    <w>längre</w>
+    <w>välkommen</w>
+  </absaspan>
+  <w>på</w>
+  <w>TV4</w>
+  <w>sedan</w>
+  <w>han</w>
+  <w>visar</w>
+  <w>tydliga</w>
+  <w>åsikter</w>
+  <w>kring</w>
+  <absaspan id=8>
+    <w>migranter</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=9 senti=2>
+    <w>ljuger</w>
+    <w>om</w>
+    <w>sin</w>
+    <w>ålder</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>ge</w>
+  <w>sig</w>
+  <w>fördelar</w>
+  <w>framför</w>
+  <absaspan id=10 senti=4>
+    <w>riktiga</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>barn</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Matikainen</w>
+  <w>har</w>
+  <w>även</w>
+  <w>visat</w>
+  <w>en</w>
+  <absaspan id=12 senti=4>
+    <w>sund</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>inställning</w>
+  </absaspan>
+  <w>till</w>
+  <w>samhällets</w>
+  <absaspan id=14 senti=2>
+    <w>mer</w>
+    <w>än</w>
+    <w>patologiska</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>sexister</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Bakom</w>
+  <w>diskrimineringen</w>
+  <w>råder</w>
+  <w>ingen</w>
+  <w>större</w>
+  <w>tvekan</w>
+  <w>om</w>
+  <w>att</w>
+  <w>det</w>
+  <w>står</w>
+  <absaspan id=16 senti=2>
+    <w>sociala</w>
+    <w>rättvisekrigare</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>gillar</w>
+  <w>vare</w>
+  <w>sig</w>
+  <w>yttrandefrihet</w>
+  <w>eller</w>
+  <w>mångfald</w>
+  <w>i</w>
+  <w>åsikter</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Hur</w>
+  <w>fungerar</w>
+  <w>den</w>
+  <absaspan id=17 senti=2>
+    <w>feminiserade</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>medialogiken</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Förstår</w>
+  <w>de</w>
+  <w>begrepp</w>
+  <w>som</w>
+  <w>mångfald</w>
+  <w>,</w>
+  <w>jämlikhet</w>
+  <w>och</w>
+  <w>yttrandefrihet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Kan</w>
+  <w>det</w>
+  <w>vara</w>
+  <w>så</w>
+  <w>att</w>
+  <w>mångfald</w>
+  <w>och</w>
+  <w>yttrandefrihet</w>
+  <w>kanske</w>
+  <w>betyder</w>
+  <w>att</w>
+  <w>man</w>
+  <absaspan id=19 senti=2>
+    <w>enbart</w>
+    <w>får</w>
+    <w>tycka</w>
+    <w>och</w>
+    <w>yttra</w>
+    <w>sig</w>
+  </absaspan>
+  <w>precis</w>
+  <absaspan id=20>
+    <w>som</w>
+    <w>enbart</w>
+    <w>feminister</w>
+    <w>tycker</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,128 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Professor</w>
+  <w>ger</w>
+  <w>SD</w>
+  <w>rätt</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>En</w>
+  <absaspan id=1 senti=1>
+    <w>efterbliven</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Professor</w>
+  </absaspan>
+  <w>ger</w>
+  <w>SD</w>
+  <w>rätt</w>
+  <w>,</w>
+  <w>dock</w>
+  <w>så</w>
+  <absaspan id=3 senti=1>
+    <w>svamlar</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>idioten</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>runt</w>
+  </absaspan>
+  <w>i</w>
+  <w>artikeln</w>
+  <w>om</w>
+  <absaspan id=6 senti=1>
+    <w>en</w>
+    <w>massa</w>
+    <w>oväsentligt</w>
+    <w>skit</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>summa</w>
+  <w>summarum</w>
+  <w>så</w>
+  <w>ger</w>
+  <w>han</w>
+  <w>SD</w>
+  <w>rätt</w>
+  <w>.</w>
+  <w>Invandringen</w>
+  <w>kostar</w>
+  <w>Sverige</w>
+  <w>2</w>
+  <w>%</w>
+  <w>av</w>
+  <w>BNP</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Man</w>
+  <w>kan</w>
+  <w>tycka</w>
+  <w>att</w>
+  <w>åtminstone</w>
+  <absaspan id=7>
+    <w>moderatväljarna</w>
+  </absaspan>
+  <w>borde</w>
+  <w>använda</w>
+  <absaspan id=8 senti=1>
+    <w>sina</w>
+    <w>feta</w>
+    <w>korvfingrar</w>
+  </absaspan>
+  <w>och</w>
+  <w>stoppa</w>
+  <w>en</w>
+  <w>SD</w>
+  <w>röst</w>
+  <w>i</w>
+  <w>urnan</w>
+  <w>nästa</w>
+  <w>gång</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Vad</w>
+  <w>säger</w>
+  <w>alla</w>
+  <absaspan id=9 senti=1>
+    <w>dumjävlar</w>
+  </absaspan>
+  <w>till</w>
+  <absaspan id=10>
+    <w>moderater</w>
+    <w>och</w>
+    <w>sossar</w>
+  </absaspan>
+  <w>nu</w>
+  <w>som</w>
+  <absaspan id=11 senti=1>
+    <w>svammel</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=12 senti=5 irony>
+    <w>det</w>
+    <w>oerhörda</w>
+    <w>bidrag</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=13>
+    <w>invandringen</w>
+  </absaspan>
+  <w>ger</w>
+  <w>Sveriges</w>
+  <w>ekonomi</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=14 senti=1>
+    <w>Dumstruten</w>
+    <w>på</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

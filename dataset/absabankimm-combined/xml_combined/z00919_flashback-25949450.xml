@@ -1,0 +1,60 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Somalisk</w>
+  <w>anhöriginvandring</w>
+  <w>stoppas</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>På</w>
+  <w>tv4</w>
+  <w>:</w>
+  <w>s</w>
+  <w>morgonshow</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>läsa</w>
+  <w>detta</w>
+  <w>vid</w>
+  <w>de</w>
+  <w>rullande</w>
+  <w>nyheterna</w>
+  <w>som</w>
+  <w>sveper</w>
+  <w>längst</w>
+  <w>tv-skärmen</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Har</w>
+  <w>alliansen</w>
+  <w>upptäckt</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>alla</w>
+    <w>dessa</w>
+    <w>invandrare</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>innebär</w>
+    <w>ett</w>
+    <w>större</w>
+    <w>problem</w>
+    <w>än</w>
+    <w>vad</w>
+    <w>de</w>
+    <w>tillför</w>
+  </absaspan>
+  <w>eller</w>
+  <w>är</w>
+  <w>det</w>
+  <w>en</w>
+  <w>eventuell</w>
+  <w>kompromiss</w>
+  <w>med</w>
+  <w>SD</w>
+  <w>?</w>
+  <w>Diskutera</w>
+  <w>.</w>
+</absapar>
+</absadoc>

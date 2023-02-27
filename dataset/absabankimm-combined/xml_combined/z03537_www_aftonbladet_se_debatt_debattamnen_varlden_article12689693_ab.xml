@@ -1,0 +1,367 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Norge</w>
+  <w>avvisar</w>
+  <w>förhandslöften</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Den</w>
+  <w>norska</w>
+  <w>regeringens</w>
+  <w>beslut</w>
+  <w>om</w>
+  <w>val</w>
+  <w>av</w>
+  <w>stridsflygplan</w>
+  <w>blev</w>
+  <w>offentliggjort</w>
+  <w>väldigt</w>
+  <w>kort</w>
+  <w>efter</w>
+  <w>att</w>
+  <w>det</w>
+  <w>fattades</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>gavs</w>
+  <w>inga</w>
+  <w>löften</w>
+  <w>på</w>
+  <w>förhand</w>
+  <w>till</w>
+  <w>någon</w>
+  <w>av</w>
+  <w>kandidaterna</w>
+  <w>innan</w>
+  <w>beslutet</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>norska</w>
+  <w>försvarsdepartementet</w>
+  <w>genomförde</w>
+  <w>en</w>
+  <w>omfattande</w>
+  <w>utvärdering</w>
+  <w>av</w>
+  <w>anbuden</w>
+  <w>från</w>
+  <w>de</w>
+  <w>två</w>
+  <w>kandidaterna</w>
+  <w>svenska</w>
+  <w>JAS</w>
+  <w>gripen</w>
+  <w>NS</w>
+  <w>och</w>
+  <w>det</w>
+  <w>amerikanska</w>
+  <w>F</w>
+  <w>-</w>
+  <w>35</w>
+  <w>under</w>
+  <w>våren</w>
+  <w>,</w>
+  <w>sommaren</w>
+  <w>och</w>
+  <w>hösten</w>
+  <w>2008</w>
+  <w>.</w>
+  <absaspan id=1>
+    <w>F</w>
+    <w>-</w>
+    <w>35</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>visade</w>
+    <w>sig</w>
+    <w>till</w>
+    <w>slut</w>
+    <w>vara</w>
+    <w>det</w>
+    <w>bästa</w>
+    <w>alternativet</w>
+    <w>för</w>
+    <w>Norge</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=3>
+    <w>Den</w>
+    <w>norska</w>
+    <w>regeringens</w>
+    <w>och</w>
+    <w>Stortingets</w>
+    <w>val</w>
+    <w>av</w>
+    <w>F</w>
+    <w>-</w>
+    <w>35</w>
+  </absaspan>
+  <absaspan id=4 senti=5>
+    <w>bygger</w>
+    <w>på</w>
+    <w>entydiga</w>
+    <w>professionella</w>
+    <w>slutsatser</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Det</w>
+  <w>är</w>
+  <w>särkilt</w>
+  <absaspan id=5 senti=5>
+    <w>inom</w>
+    <w>områdena</w>
+    <w>sensorkapacitet</w>
+    <w>,</w>
+    <w>möjligheterna</w>
+    <w>att</w>
+    <w>förbli</w>
+    <w>oupptäckt</w>
+    <w>och</w>
+    <w>elektronisk</w>
+    <w>krigföring</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=6>
+    <w>F</w>
+    <w>-</w>
+    <w>35</w>
+  </absaspan>
+  <absaspan id=7 senti=5>
+    <w>anses</w>
+  </absaspan>
+  <absaspan id=8 senti=5>
+    <w>vara</w>
+    <w>bättre</w>
+    <w>än</w>
+    <w>Gripen</w>
+    <w>NG</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=9>
+    <w>Gripen</w>
+    <w>NG</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>tillfredställer</w>
+    <w>inte</w>
+    <w>Norges</w>
+    <w>framtida</w>
+    <w>behov</w>
+    <w>av</w>
+    <w>stridsflygkapacitet</w>
+    <w>och</w>
+    <w>kunde</w>
+    <w>därför</w>
+    <w>inte</w>
+    <w>väljas</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=11>
+    <w>Processen</w>
+    <w>runt</w>
+    <w>valet</w>
+    <w>av</w>
+    <w>framtidens</w>
+    <w>stridsflygsleverantör</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>var</w>
+    <w>grundlig</w>
+  </absaspan>
+  <w>.</w>
+  <w>Alla</w>
+  <w>formella</w>
+  <w>aspekter</w>
+  <w>kring</w>
+  <w>denna</w>
+  <w>process</w>
+  <w>togs</w>
+  <w>i</w>
+  <w>beaktning</w>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=13>
+    <w>valet</w>
+  </absaspan>
+  <absaspan id=14 senti=4>
+    <w>baserades</w>
+    <w>på</w>
+    <w>klara</w>
+    <w>kriterier</w>
+    <w>som</w>
+    <w>kommunicerades</w>
+    <w>till</w>
+    <w>leverantörerna</w>
+    <w>på</w>
+    <w>förhand</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=15>
+    <w>Extern</w>
+    <w>kvalitetssäkrare</w>
+  </absaspan>
+  <absaspan id=16 senti=4>
+    <w>ställde</w>
+    <w>sig</w>
+    <w>bakom</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>expertisens</w>
+    <w>rekommendationer</w>
+  </absaspan>
+  <w>och</w>
+  <w>drog</w>
+  <w>slutsatsen</w>
+  <w>att</w>
+  <absaspan id=18>
+    <w>processen</w>
+  </absaspan>
+  <absaspan id=19 senti=4>
+    <w>blev</w>
+    <w>genomförd</w>
+    <w>på</w>
+    <w>ett</w>
+    <w>professionellt</w>
+    <w>och</w>
+    <w>etiskt</w>
+    <w>försvarbart</w>
+    <w>sätt</w>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=6>
+  <w>I</w>
+  <w>dialogen</w>
+  <w>med</w>
+  <w>leverantörerna</w>
+  <w>var</w>
+  <absaspan id=20>
+    <w>bägge</w>
+  </absaspan>
+  <absaspan id=21 senti=4>
+    <w>tydliga</w>
+    <w>med</w>
+    <w>att</w>
+    <w>de</w>
+    <w>uppfattade</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>processen</w>
+  </absaspan>
+  <absaspan id=23 senti=4>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=24 senti=4>
+    <w>öppen</w>
+    <w>och</w>
+    <w>ordentlig</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Jag</w>
+  <absaspan id=25 senti=2>
+    <w>tycker</w>
+    <w>det</w>
+    <w>är</w>
+    <w>trist</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>att</w>
+    <w>det</w>
+    <w>nu</w>
+    <w>spekuleras</w>
+    <w>i</w>
+    <w>att</w>
+    <w>norska</w>
+    <w>myndigheter</w>
+    <w>fört</w>
+    <w>Sverige</w>
+    <w>bakom</w>
+    <w>ljuset</w>
+    <w>i</w>
+    <w>denna</w>
+    <w>process</w>
+  </absaspan>
+  <w>.</w>
+  <w>Våra</w>
+  <w>två</w>
+  <w>länder</w>
+  <absaspan id=27 senti=5>
+    <w>har</w>
+    <w>ett</w>
+    <w>nära</w>
+    <w>och</w>
+    <w>gott</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>samarbete</w>
+  </absaspan>
+  <w>,</w>
+  <w>inte</w>
+  <w>minst</w>
+  <w>inom</w>
+  <w>försvarssektorn</w>
+  <w>,</w>
+  <w>både</w>
+  <w>bilateralt</w>
+  <w>,</w>
+  <w>genom</w>
+  <w>det</w>
+  <w>nordiska</w>
+  <w>försvarssamarbetet</w>
+  <w>och</w>
+  <w>vårt</w>
+  <w>samarbete</w>
+  <w>i</w>
+  <w>Afghanistan</w>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=29 senti=2>
+    <w>får</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>råda</w>
+    <w>några</w>
+    <w>tvivel</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=31 senti=5>
+    <w>de</w>
+    <w>väldigt</w>
+    <w>goda</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>relationerna</w>
+    <w>mellan</w>
+    <w>våra</w>
+    <w>två</w>
+    <w>länder</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Grete</w>
+  <w>Faremo</w>
+  <w>Norges</w>
+  <w>försvarsminister</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Översättning</w>
+  <w>:</w>
+  <w>Martin</w>
+  <w>Aagård</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,90 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>#</w>
+  <absaspan id=1 senti=1>
+    <w>T</w>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>3</w>
+  <w>-</w>
+  <w>åring</w>
+  <w>sprängde</w>
+  <w>ihjäl</w>
+  <w>sig</w>
+  <w>med</w>
+  <w>handgranat</w>
+  <w>-</w>
+  <absaspan id=2 senti=1>
+    <w>ISIS-familjen</w>
+  </absaspan>
+  <w>tillbaka</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ett</w>
+  <w>treårigt</w>
+  <w>barn</w>
+  <w>ska</w>
+  <w>ha</w>
+  <w>råkat</w>
+  <w>spränga</w>
+  <w>sig</w>
+  <w>själv</w>
+  <w>när</w>
+  <w>han</w>
+  <w>lekte</w>
+  <w>med</w>
+  <w>en</w>
+  <w>handgranat</w>
+  <w>i</w>
+  <w>Syrien</w>
+  <w>.</w>
+  <w>Som</w>
+  <absaspan id=3 senti=4 irony>
+    <w>rättrogna</w>
+  </absaspan>
+  <w>hade</w>
+  <absaspan id=4>
+    <w>familjen</w>
+  </absaspan>
+  <w>självklart</w>
+  <w>vapen</w>
+  <w>,</w>
+  <w>kalasjnikovs</w>
+  <w>och</w>
+  <w>handgranater</w>
+  <w>,</w>
+  <w>i</w>
+  <w>sitt</w>
+  <w>hem</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <w>Nu</w>
+  <w>har</w>
+  <absaspan id=5 senti=1>
+    <w>jihadist-familjen</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>tröttnat</w>
+  </absaspan>
+  <w>på</w>
+  <absaspan id=7>
+    <w>Syrien</w>
+  </absaspan>
+  <w>och</w>
+  <w>åkt</w>
+  <w>hem</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>,</w>
+  <w>enligt</w>
+  <w>SVT</w>
+  <w>Nyheter</w>
+  <w>Väst</w>
+  <w>.</w>
+</absapar>
+</absadoc>

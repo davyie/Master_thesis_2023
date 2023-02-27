@@ -1,0 +1,209 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Främlingsfientlighet</w>
+  <w>eller</w>
+  <w>Sanningsfientlighet</w>
+  <w>-</w>
+  <w>Vad</w>
+  <w>är</w>
+  <w>bäst</w>
+  <w>/</w>
+  <w>sämst</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>samhälle</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1 senti=1>
+    <w>Hatjournalister</w>
+  </absaspan>
+  <w>inom</w>
+  <absaspan id=2 senti=2>
+    <w>sanningsfientlig</w>
+    <w>media</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>utmålar</w>
+    <w>främlingsfientlighet</w>
+  </absaspan>
+  <w>som</w>
+  <w>ursprunget</w>
+  <w>för</w>
+  <w>den</w>
+  <w>värsta</w>
+  <w>sortens</w>
+  <w>samhälle</w>
+  <w>.</w>
+  <absaspan id=4>
+    <w>Det</w>
+  </absaspan>
+  <w>brukar</w>
+  <absaspan id=5 senti=2>
+    <w>beskrivas</w>
+    <w>som</w>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>ogräs</w>
+  </absaspan>
+  <w>man</w>
+  <w>med</w>
+  <w>alla</w>
+  <w>medel</w>
+  <absaspan id=7 senti=2>
+    <w>måste</w>
+    <w>bekämpa</w>
+  </absaspan>
+  <w>så</w>
+  <w>att</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>sprider</w>
+  <w>sig</w>
+  <w>och</w>
+  <absaspan id=8 senti=2>
+    <w>förintar</w>
+  </absaspan>
+  <w>den</w>
+  <w>vackra</w>
+  <w>mångkulturella</w>
+  <w>floran</w>
+  <absaspan id=9>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Men</w>
+  <w>vem</w>
+  <w>har</w>
+  <w>egentligen</w>
+  <w>bestämt</w>
+  <w>att</w>
+  <w>främlingsfientlighet</w>
+  <w>ska</w>
+  <w>ses</w>
+  <w>som</w>
+  <w>värre</w>
+  <w>än</w>
+  <w>sanningsfientlighet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Med</w>
+  <w>handen</w>
+  <w>på</w>
+  <w>hjärtat</w>
+  <w>-</w>
+  <w>har</w>
+  <w>inte</w>
+  <w>receptet</w>
+  <w>för</w>
+  <w>undergång</w>
+  <w>i</w>
+  <w>samhällen</w>
+  <w>snarare</w>
+  <w>grundats</w>
+  <w>i</w>
+  <w>sanningsfientlighet</w>
+  <w>och</w>
+  <w>begränsningar</w>
+  <w>av</w>
+  <w>möjligheter</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>sitt</w>
+  <w>liv</w>
+  <w>och</w>
+  <w>yttra</w>
+  <w>fria</w>
+  <w>tankar</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Om</w>
+  <w>vi</w>
+  <w>ser</w>
+  <w>oss</w>
+  <w>runt</w>
+  <w>i</w>
+  <w>världen</w>
+  <w>idag</w>
+  <w>och</w>
+  <w>blickar</w>
+  <w>bakåt</w>
+  <w>i</w>
+  <w>historien</w>
+  <w>-</w>
+  <w>vilka</w>
+  <w>samhällen</w>
+  <w>har</w>
+  <w>egentligen</w>
+  <w>varit</w>
+  <w>mest</w>
+  <w>lyckade</w>
+  <w>VS</w>
+  <w>skapat</w>
+  <w>mest</w>
+  <w>lidande</w>
+  <w>?</w>
+  <w>De</w>
+  <w>som</w>
+  <w>är</w>
+  <w>sanningsfientliga</w>
+  <w>eller</w>
+  <w>främlingsfientliga</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Tanken</w>
+  <w>med</w>
+  <w>tråden</w>
+  <w>är</w>
+  <w>att</w>
+  <w>komma</w>
+  <w>fram</w>
+  <w>till</w>
+  <w>om</w>
+  <w>svenska</w>
+  <absaspan id=10 senti=1>
+    <w>hatjournalister</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>är</w>
+    <w>samhällets</w>
+    <w>största</w>
+    <w>fiender</w>
+  </absaspan>
+  <w>eller</w>
+  <w>ifall</w>
+  <w>de</w>
+  <w>rätt</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>sak</w>
+  <w>-</w>
+  <w>att</w>
+  <w>sanningen</w>
+  <w>inte</w>
+  <w>betyder</w>
+  <w>något</w>
+  <w>så</w>
+  <w>länge</w>
+  <w>man</w>
+  <w>bekämpar</w>
+  <w>de</w>
+  <w>som</w>
+  <w>motsätter</w>
+  <w>sig</w>
+  <w>den</w>
+  <w>svenska</w>
+  <w>regimens</w>
+  <w>mångkulturella</w>
+  <w>agenda</w>
+  <w>.</w>
+</absapar>
+</absadoc>

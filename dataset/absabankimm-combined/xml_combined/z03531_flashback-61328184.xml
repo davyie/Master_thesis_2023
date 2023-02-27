@@ -1,0 +1,69 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Fula</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>svenskar</w>
+  </absaspan>
+  <absaspan id=3 senti=4 target=1>
+    <w>får</w>
+    <w>fler</w>
+    <w>tjejer</w>
+  </absaspan>
+  <w>än</w>
+  <absaspan id=4 senti=4 target=5>
+    <w>snygga</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>invandrare</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Har</w>
+  <absaspan id=6>
+    <w>invandrar</w>
+    <w>killars</w>
+    <w>rykte</w>
+    <w>och</w>
+    <w>status</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>gått</w>
+    <w>ner</w>
+    <w>så</w>
+    <w>mycket</w>
+  </absaspan>
+  <w>så</w>
+  <w>att</w>
+  <w>dom</w>
+  <absaspan id=8 senti=4>
+    <w>snygga</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>invandrarna</w>
+  </absaspan>
+  <w>fått</w>
+  <w>det</w>
+  <w>svårt</w>
+  <w>att</w>
+  <w>landa</w>
+  <w>svenska</w>
+  <w>tjejer</w>
+  <w>?</w>
+  <w>Varför</w>
+  <w>har</w>
+  <w>det</w>
+  <w>blivit</w>
+  <w>just</w>
+  <w>så</w>
+  <w>och</w>
+  <w>vad</w>
+  <w>är</w>
+  <w>er</w>
+  <w>åsikt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

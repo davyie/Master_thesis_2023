@@ -1,0 +1,98 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Nyspråket</w>
+  <w>-</w>
+  <w>vad</w>
+  <w>gör</w>
+  <w>det</w>
+  <w>med</w>
+  <w>oss</w>
+  <w>och</w>
+  <w>mot</w>
+  <w>oss</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Vad</w>
+  <w>gör</w>
+  <w>"</w>
+  <w>nyspråket</w>
+  <w>"</w>
+  <w>med</w>
+  <w>vår</w>
+  <w>verklighetsuppfattning</w>
+  <w>?</w>
+  <w>Och</w>
+  <w>med</w>
+  <w>hur</w>
+  <w>vi</w>
+  <w>uppfattar</w>
+  <w>oss</w>
+  <w>själva</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Bör</w>
+  <w>men</w>
+  <w>rentav</w>
+  <w>ta</w>
+  <w>för</w>
+  <w>vana</w>
+  <w>att</w>
+  <w>översätta</w>
+  <w>vissa</w>
+  <w>omskrivnings</w>
+  <w>ord</w>
+  <w>för</w>
+  <w>sig</w>
+  <w>själv</w>
+  <w>för</w>
+  <w>att</w>
+  <w>inte</w>
+  <w>tappa</w>
+  <w>omdömet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Finns</w>
+  <w>troligen</w>
+  <w>en</w>
+  <w>hel</w>
+  <w>del</w>
+  <w>skrivet</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>,</w>
+  <w>idag</w>
+  <w>fanns</w>
+  <w>följande</w>
+  <w>krönika</w>
+  <w>som</w>
+  <w>kan</w>
+  <w>användas</w>
+  <w>som</w>
+  <w>diskussionsunderlag</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>"</w>
+  <absaspan id=1>
+    <w>GÄSTSKRIBENT</w>
+    <w>RASMUS</w>
+    <w>DAHLSTEDT</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=2>
+    <w>NYSPRÅKET</w>
+  </absaspan>
+  <absaspan id=3 senti=1>
+    <w>VANSKAPAR</w>
+  </absaspan>
+  <w>VÄRLDEN</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+</absadoc>

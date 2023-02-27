@@ -1,0 +1,475 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Guillou</w>
+  <w>:</w>
+  <w>Säpo</w>
+  <w>tar</w>
+  <w>inga</w>
+  <w>USA-spioner</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>Säpochefen</w>
+    <w>Anders</w>
+    <w>Danielsson</w>
+  </absaspan>
+  <w>anvisar</w>
+  <w>två</w>
+  <w>möjligheter</w>
+  <w>att</w>
+  <w>tolka</w>
+  <w>det</w>
+  <w>jag</w>
+  <w>skrev</w>
+  <w>,</w>
+  <w>att</w>
+  <absaspan id=2>
+    <w>jag</w>
+  </absaspan>
+  <w>antingen</w>
+  <absaspan id=3 senti=2>
+    <w>är</w>
+    <w>korkad</w>
+    <w>eller</w>
+    <w>lögnaktig</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=4>
+    <w>Så</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>diskuterar</w>
+    <w>man</w>
+    <w>när</w>
+    <w>man</w>
+    <w>är</w>
+    <w>arg</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=6>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>är</w>
+    <w>sällan</w>
+    <w>klokt</w>
+  </absaspan>
+  <w>.</w>
+  <w>För</w>
+  <w>i</w>
+  <w>sak</w>
+  <w>är</w>
+  <w>vi</w>
+  <w>överens</w>
+  <w>.</w>
+  <absaspan id=8>
+    <w>Säpo</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>har</w>
+    <w>mycket</w>
+    <w>riktigt</w>
+    <w>en</w>
+    <w>särskild</w>
+    <w>avdelning</w>
+    <w>som</w>
+    <w>ansvarar</w>
+    <w>för</w>
+    <w>kontakterna</w>
+    <w>med</w>
+    <w>främmande</w>
+    <w>makter</w>
+    <w>,</w>
+    <w>ett</w>
+    <w>eget</w>
+    <w>utrikes</w>
+    <w>förbindelsekontor</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=10>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>är</w>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>god</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>ordning</w>
+  </absaspan>
+  <w>,</w>
+  <w>det</w>
+  <w>är</w>
+  <w>lagligt</w>
+  <w>reglerat</w>
+  <w>,</w>
+  <w>där</w>
+  <w>finns</w>
+  <w>en</w>
+  <w>inbyggd</w>
+  <w>kontrollmekanism</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>mot</w>
+  <w>denna</w>
+  <w>påstått</w>
+  <w>hemliga</w>
+  <w>ordning</w>
+  <w>har</w>
+  <w>jag</w>
+  <w>inga</w>
+  <w>invändningar</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>Säpos</w>
+  <w>egna</w>
+  <absaspan id=14 senti=4 irony>
+    <w>”</w>
+    <w>diplomater</w>
+    <w>”</w>
+  </absaspan>
+  <w>som</w>
+  <w>snackar</w>
+  <w>med</w>
+  <w>främmande</w>
+  <w>makt</w>
+  <w>.</w>
+  <w>Därför</w>
+  <absaspan id=15 senti=2>
+    <w>är</w>
+  </absaspan>
+  <w>det</w>
+  <absaspan id=16 senti=2>
+    <w>uppseendeväckande</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>konstigt</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>USA</w>
+    <w>:</w>
+    <w>s</w>
+    <w>ambassad</w>
+    <w>klassificerar</w>
+    <w>en</w>
+    <w>tjänsteman</w>
+    <w>på</w>
+    <w>en</w>
+    <w>helt</w>
+    <w>annan</w>
+    <w>avdelning</w>
+    <w>,</w>
+    <w>Malena</w>
+    <w>Rembe</w>
+    <w>,</w>
+    <w>som</w>
+    <w>”</w>
+    <w>skyddad</w>
+    <w>källa</w>
+    <w>”</w>
+    <w>,</w>
+    <w>det</w>
+    <w>vill</w>
+    <w>säga</w>
+    <w>amerikansk</w>
+    <w>agent</w>
+  </absaspan>
+  <w>.</w>
+  <w>Jag</w>
+  <w>skrev</w>
+  <w>att</w>
+  <absaspan id=20>
+    <w>detta</w>
+  </absaspan>
+  <absaspan id=21 senti=1>
+    <w>var</w>
+    <w>”</w>
+    <w>närmast</w>
+    <w>fantastiskt</w>
+    <w>”</w>
+  </absaspan>
+  <w>,</w>
+  <w>jag</w>
+  <w>tillät</w>
+  <w>mig</w>
+  <w>till</w>
+  <w>och</w>
+  <w>med</w>
+  <w>att</w>
+  <w>skämta</w>
+  <w>om</w>
+  <w>saken</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Jag</w>
+  <absaspan id=22 senti=2>
+    <w>kritiserade</w>
+  </absaspan>
+  <w>inte</w>
+  <w>Säpo</w>
+  <w>för</w>
+  <w>denna</w>
+  <w>skandal</w>
+  <w>,</w>
+  <w>utan</w>
+  <absaspan id=23 senti=2>
+    <w>självsvåldiga</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>tjänstemän</w>
+    <w>på</w>
+    <w>UD</w>
+    <w>och</w>
+    <w>justitiedepartementet</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>,</w>
+    <w>som</w>
+    <w>genom</w>
+    <w>att</w>
+    <w>uppsåtligen</w>
+    <w>gå</w>
+    <w>bakom</w>
+    <w>ryggen</w>
+    <w>på</w>
+    <w>riksdagen</w>
+  </absaspan>
+  <absaspan id=26 senti=2>
+    <w>skapat</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>en</w>
+    <w>juridisk</w>
+    <w>gråzon</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>och</w>
+    <w>därmed</w>
+    <w>också</w>
+  </absaspan>
+  <absaspan id=29 senti=2>
+    <w>hönshus</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>i</w>
+    <w>stället</w>
+    <w>för</w>
+    <w>reglerad</w>
+    <w>ordning</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>På</w>
+  <w>en</w>
+  <w>punkt</w>
+  <w>hade</w>
+  <w>jag</w>
+  <w>visserligen</w>
+  <w>lite</w>
+  <absaspan id=31 senti=2>
+    <w>kritik</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=32 senti=2>
+    <w>systemet</w>
+    <w>som</w>
+    <w>kan</w>
+    <w>innefatta</w>
+    <w>Säpo</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=33>
+    <w>Nämligen</w>
+    <w>att</w>
+    <w>Säpo</w>
+    <w>synbarligen</w>
+    <w>inte</w>
+    <w>,</w>
+    <w>till</w>
+    <w>skillnad</w>
+    <w>från</w>
+    <w>Anders</w>
+    <w>Danielssons</w>
+    <w>försäkran</w>
+    <w>i</w>
+    <w>sitt</w>
+    <w>inlägg</w>
+    <w>,</w>
+    <w>”</w>
+    <w>tar</w>
+    <w>uppdraget</w>
+    <w>att</w>
+    <w>bekämpa</w>
+    <w>olovlig</w>
+    <w>underrättelseverksamhet</w>
+    <w>på</w>
+    <w>största</w>
+    <w>allvar</w>
+    <w>”</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=34>
+    <w>Ty</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>aldrig</w>
+    <w>någonsin</w>
+    <w>har</w>
+    <w>Säpo</w>
+    <w>satt</w>
+    <w>fast</w>
+    <w>amerikanska</w>
+    <w>spioner</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=36>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=37 senti=2>
+    <w>är</w>
+    <w>gåtfullt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Såvida</w>
+  <w>inte</w>
+  <w>riksdag</w>
+  <w>och</w>
+  <w>regering</w>
+  <w>i</w>
+  <w>hemlighet</w>
+  <w>lämnat</w>
+  <w>amerikanerna</w>
+  <w>fri</w>
+  <w>lejd</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Faktum</w>
+  <w>är</w>
+  <w>ändå</w>
+  <w>att</w>
+  <w>de</w>
+  <w>enda</w>
+  <w>amerikanska</w>
+  <w>spiondiplomater</w>
+  <w>som</w>
+  <w>utvisats</w>
+  <w>ur</w>
+  <w>Sverige</w>
+  <w>sattes</w>
+  <w>fast</w>
+  <w>av</w>
+  <w>Folket</w>
+  <w>i</w>
+  <w>Bild</w>
+  <w>/</w>
+  <w>Kulturfront</w>
+  <w>och</w>
+  <w>inte</w>
+  <w>av</w>
+  <w>våra</w>
+  <absaspan id=38 senti=4>
+    <w>resursstarka</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>säkerhetstjänster</w>
+  </absaspan>
+  <absaspan id=40 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Att</w>
+  <w>jag</w>
+  <w>skojat</w>
+  <w>om</w>
+  <w>tjänstemannen</w>
+  <w>på</w>
+  <w>Säpo</w>
+  <w>,</w>
+  <w>Malena</w>
+  <w>Rembe</w>
+  <w>,</w>
+  <w>som</w>
+  <w>amerikansk</w>
+  <w>agent</w>
+  <w>skall</w>
+  <w>Anders</w>
+  <w>Danielsson</w>
+  <w>inte</w>
+  <w>ta</w>
+  <w>så</w>
+  <w>hårt</w>
+  <absaspan id=41 senti=3>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=42>
+    <w>Pressens</w>
+    <w>opinionsnämnd</w>
+    <w>har</w>
+    <w>,</w>
+    <w>under</w>
+    <w>ledning</w>
+    <w>av</w>
+    <w>självaste</w>
+    <w>presidenten</w>
+    <w>i</w>
+    <w>Svea</w>
+    <w>hovrätt</w>
+    <w>,</w>
+    <w>Fredrik</w>
+    <w>Wersäll</w>
+  </absaspan>
+  <w>,</w>
+  <w>slagit</w>
+  <w>fast</w>
+  <w>att</w>
+  <absaspan id=43 senti=3>
+    <w>inte</w>
+  </absaspan>
+  <w>ens</w>
+  <absaspan id=44>
+    <w>anklagelsen</w>
+    <w>för</w>
+    <w>att</w>
+    <w>vara</w>
+    <w>KGB-agent</w>
+  </absaspan>
+  <absaspan id=45 senti=3>
+    <w>kan</w>
+  </absaspan>
+  <absaspan id=46 senti=3>
+    <w>tolkas</w>
+    <w>som</w>
+    <w>särskilt</w>
+    <w>allvarlig</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=47>
+    <w>Att</w>
+    <w>utpekas</w>
+    <w>som</w>
+    <w>CIA-agent</w>
+  </absaspan>
+  <absaspan id=48 senti=4>
+    <w>är</w>
+    <w>jämförelsevis</w>
+    <w>smickrande</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Jan</w>
+  <w>Guillou</w>
+  <w>.</w>
+</absapar>
+</absadoc>

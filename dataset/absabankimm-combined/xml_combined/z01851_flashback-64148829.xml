@@ -1,0 +1,287 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Svenskor</w>
+  <w>går</w>
+  <w>bärsärk</w>
+  <w>.</w>
+  <w>/</w>
+  <w>inte</w>
+  <w>rasistiskt</w>
+  <w>?</w>
+  <w>?</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Skriver</w>
+  <w>om</w>
+  <absaspan id=1>
+    <w>Svenskor</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>beter</w>
+    <w>sig</w>
+    <w>illa</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Om</w>
+  <w>man</w>
+  <w>nu</w>
+  <w>skulle</w>
+  <w>byta</w>
+  <w>ut</w>
+  <w>ett</w>
+  <w>fåtal</w>
+  <w>referenser</w>
+  <w>,</w>
+  <w>skulle</w>
+  <w>denna</w>
+  <w>text</w>
+  <w>vara</w>
+  <w>ok</w>
+  <w>att</w>
+  <w>publicera</w>
+  <w>?</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Somalier</w>
+  <w>går</w>
+  <w>bärsärk</w>
+  <w>i</w>
+  <w>Förorten</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>På</w>
+  <w>en</w>
+  <w>film</w>
+  <w>som</w>
+  <w>sprids</w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>misshandlar</w>
+  <w>tre</w>
+  <w>unga</w>
+  <w>män</w>
+  <w>en</w>
+  <w>ung</w>
+  <w>kvinna</w>
+  <w>på</w>
+  <w>en</w>
+  <w>gata</w>
+  <w>i</w>
+  <w>södra</w>
+  <w>Förorten</w>
+  <w>,</w>
+  <w>medan</w>
+  <w>de</w>
+  <w>skriker</w>
+  <w>på</w>
+  <w>Somaliska</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=2>
+  <w>Filmen</w>
+  <w>har</w>
+  <w>lagts</w>
+  <w>upp</w>
+  <w>av</w>
+  <absaspan id=4>
+    <w>boende</w>
+    <w>i</w>
+    <w>området</w>
+  </absaspan>
+  <w>som</w>
+  <w>exempel</w>
+  <w>på</w>
+  <absaspan id=5 senti=2>
+    <w>ett</w>
+    <w>problem</w>
+    <w>som</w>
+    <w>de</w>
+    <w>menar</w>
+    <w>är</w>
+    <w>utbrett</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=6>
+    <w>Asylsökande</w>
+    <w>som</w>
+    <w>vägrar</w>
+    <w>visa</w>
+    <w>respekt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Skriker</w>
+  <w>på</w>
+  <w>somaliska</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>De</w>
+  <w>tre</w>
+  <w>unga</w>
+  <w>männen</w>
+  <w>börjar</w>
+  <w>med</w>
+  <w>att</w>
+  <w>rikta</w>
+  <w>en</w>
+  <w>rad</w>
+  <w>svordomar</w>
+  <w>på</w>
+  <w>engelska</w>
+  <w>mot</w>
+  <w>mannen</w>
+  <w>,</w>
+  <w>men</w>
+  <w>snart</w>
+  <w>övergår</w>
+  <w>två</w>
+  <w>av</w>
+  <w>dem</w>
+  <w>till</w>
+  <w>somaliska</w>
+  <w>.</w>
+</absapar>
+<absapar id=8 senti=2>
+  <w>I</w>
+  <w>kommentarerna</w>
+  <absaspan id=7 senti=2>
+    <w>beskrivs</w>
+    <w>också</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>beteendet</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>en</w>
+    <w>del</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>ett</w>
+    <w>större</w>
+    <w>problem</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=12>
+    <w>Asylsökande</w>
+    <w>som</w>
+    <w>kommer</w>
+    <w>i</w>
+    <w>mängder</w>
+    <w>,</w>
+    <w>och</w>
+    <w>som</w>
+    <w>inte</w>
+    <w>visar</w>
+    <w>respekt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9 senti=2>
+  <w>.</w>
+  <w>:</w>
+  <absaspan id=13 senti=2>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>problem</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>har</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>asylsökande</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>som</w>
+    <w>bor</w>
+    <w>i</w>
+    <w>flyktningsförläggningar</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>att</w>
+    <w>de</w>
+    <w>kommer</w>
+    <w>hit</w>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=22 senti=2>
+    <w>beter</w>
+    <w>sig</w>
+    <w>som</w>
+    <w>galningar</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=23>
+    <w>De</w>
+  </absaspan>
+  <w>dricker</w>
+  <w>hela</w>
+  <w>dagen</w>
+  <w>,</w>
+  <absaspan id=24 senti=2>
+    <w>är</w>
+    <w>oförskämda</w>
+  </absaspan>
+  <w>och</w>
+  <w>verkar</w>
+  <w>tro</w>
+  <w>att</w>
+  <w>Sverige</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>lagslöst</w>
+  <w>land</w>
+  <w>.</w>
+  <w>Man</w>
+  <w>skulle</w>
+  <w>vilja</w>
+  <w>se</w>
+  <w>om</w>
+  <w>dessa</w>
+  <w>människor</w>
+  <w>beter</w>
+  <w>sig</w>
+  <w>likadant</w>
+  <w>i</w>
+  <w>sina</w>
+  <w>egna</w>
+  <w>hemländer</w>
+  <w>,</w>
+  <w>säger</w>
+  <w>Sven</w>
+  <w>Svensson</w>
+  <w>,</w>
+  <w>administratör</w>
+  <w>för</w>
+  <w>Facebookgruppen</w>
+  <w>,</w>
+  <w>till</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,216 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Är</w>
+  <absaspan id=1>
+    <w>SD</w>
+  </absaspan>
+  <w>det</w>
+  <w>enda</w>
+  <w>parti</w>
+  <w>som</w>
+  <absaspan id=2 senti=2 source=1>
+    <w>tar</w>
+    <w>ställning</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>psuedovetenskap</w>
+  </absaspan>
+  <w>?</w>
+  <w>[</w>
+  <w>Rubr</w>
+  <w>/</w>
+  <w>Mod</w>
+  <w>]</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <absaspan id=4 senti=2>
+    <w>har</w>
+    <w>länge</w>
+    <w>varit</w>
+    <w>osäker</w>
+    <w>kring</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>SD</w>
+  </absaspan>
+  <w>,</w>
+  <w>då</w>
+  <w>det</w>
+  <w>finns</w>
+  <absaspan id=6>
+    <w>delar</w>
+    <w>av</w>
+    <w>deras</w>
+    <w>politik</w>
+  </absaspan>
+  <w>jag</w>
+  <absaspan id=7 senti=2>
+    <w>inte</w>
+    <w>håller</w>
+    <w>med</w>
+    <w>om</w>
+  </absaspan>
+  <w>.</w>
+  <w>Nu</w>
+  <absaspan id=8 senti=4>
+    <w>lyckades</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>dom</w>
+  </absaspan>
+  <w>dock</w>
+  <absaspan id=10 senti=4>
+    <w>säkra</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>min</w>
+    <w>röst</w>
+  </absaspan>
+  <w>iom</w>
+  <w>detta</w>
+  <w>utspel</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=12>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>är</w>
+    <w>alltså</w>
+    <w>det</w>
+    <w>ENDA</w>
+    <w>parti</w>
+    <w>i</w>
+    <w>riksdagen</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>är</w>
+    <w>emot</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>ökad</w>
+    <w>krigshets</w>
+    <w>i</w>
+    <w>europa</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=18 senti=4>
+    <w>dessutom</w>
+    <w>fattat</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>att</w>
+    <w>miljöavtalet</w>
+    <w>i</w>
+    <w>paris</w>
+    <w>(</w>
+    <w>skatt</w>
+    <w>på</w>
+    <w>co2</w>
+    <w>)</w>
+    <w>är</w>
+    <w>ytterligare</w>
+    <w>ett</w>
+    <w>bedrägeri</w>
+    <w>designat</w>
+    <w>att</w>
+    <w>skyffla</w>
+    <w>skattepengar</w>
+    <w>ner</w>
+    <w>i</w>
+    <w>fickorna</w>
+    <w>på</w>
+    <w>privata</w>
+    <w>aktörer</w>
+    <w>kopplade</w>
+    <w>till</w>
+    <w>beslutsfattarna</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Jag</w>
+  <w>tror</w>
+  <w>att</w>
+  <absaspan id=20>
+    <w>detta</w>
+  </absaspan>
+  <w>kommer</w>
+  <absaspan id=21 senti=4>
+    <w>visa</w>
+    <w>sig</w>
+    <w>mycket</w>
+    <w>gynnsamt</w>
+  </absaspan>
+  <w>för</w>
+  <w>SD</w>
+  <w>,</w>
+  <w>men</w>
+  <w>jag</w>
+  <w>har</w>
+  <w>haft</w>
+  <w>fel</w>
+  <w>förr</w>
+  <w>.</w>
+  <w>Många</w>
+  <w>av</w>
+  <w>mina</w>
+  <w>vänner</w>
+  <w>och</w>
+  <w>bekanta</w>
+  <w>tror</w>
+  <w>fortfarande</w>
+  <w>på</w>
+  <absaspan id=22 senti=2>
+    <w>myten</w>
+  </absaspan>
+  <w>kring</w>
+  <absaspan id=23>
+    <w>global</w>
+    <w>uppvärmning</w>
+  </absaspan>
+  <w>trots</w>
+  <w>mängderna</w>
+  <w>av</w>
+  <w>(</w>
+  <absaspan id=24 senti=4>
+    <w>riktiga</w>
+  </absaspan>
+  <w>)</w>
+  <absaspan id=25>
+    <w>forskare</w>
+    <w>som</w>
+    <w>påtalat</w>
+    <w>att</w>
+    <w>bevisen</w>
+    <w>(</w>
+    <w>och</w>
+    <w>faktiskt</w>
+    <w>uppvärmningen</w>
+    <w>i</w>
+    <w>sig</w>
+    <w>)</w>
+    <w>uteblivit</w>
+    <w>helt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vad</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>andra</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

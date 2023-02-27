@@ -1,0 +1,100 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Medias</w>
+  <w>hantering</w>
+  <w>av</w>
+  <w>knivmorden</w>
+  <w>på</w>
+  <w>IKEA</w>
+  <w>i</w>
+  <w>Västerås</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Själva</w>
+  <w>händelsen</w>
+  <w>diskuteras</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>I</w>
+  <w>denna</w>
+  <w>tråd</w>
+  <w>diskuteras</w>
+  <w>mediebevakningen</w>
+  <w>av</w>
+  <w>samma</w>
+  <w>händelse</w>
+  <w>.</w>
+  <w>Hur</w>
+  <w>framställs</w>
+  <w>GM</w>
+  <w>och</w>
+  <w>mordoffren</w>
+  <w>i</w>
+  <w>den</w>
+  <w>mediala</w>
+  <w>diskursen</w>
+  <w>?</w>
+  <w>Vilken</w>
+  <w>uppmärksamhet</w>
+  <w>ges</w>
+  <w>händelsen</w>
+  <w>relativt</w>
+  <w>andra</w>
+  <w>nyheter</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>GM</w>
+  <w>är</w>
+  <w>i</w>
+  <w>skrivande</w>
+  <w>stund</w>
+  <w>okänd</w>
+  <w>för</w>
+  <w>allmänheten</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>något</w>
+  <w>säger</w>
+  <w>mig</w>
+  <w>att</w>
+  <w>det</w>
+  <w>här</w>
+  <w>kan</w>
+  <w>bli</w>
+  <absaspan id=1 senti=4>
+    <w>en</w>
+    <w>mycket</w>
+    <w>intressant</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>tråd</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Glöm</w>
+  <w>inte</w>
+  <w>att</w>
+  <w>länkning</w>
+  <w>till</w>
+  <absaspan id=3 senti=2>
+    <w>gammelmedia</w>
+  </absaspan>
+  <w>sker</w>
+  <w>via</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>.</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+</absadoc>

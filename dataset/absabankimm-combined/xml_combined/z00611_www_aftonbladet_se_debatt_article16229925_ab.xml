@@ -1,0 +1,293 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>M</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=2>
+    <w>Alliansens</w>
+    <w>jobbpolitik</w>
+  </absaspan>
+  <absaspan id=3 senti=4 source=1 target=2>
+    <w>fungerar</w>
+    <w>i</w>
+    <w>praktiken</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Trots</w>
+  <w>en</w>
+  <absaspan id=4 senti=2>
+    <w>mycket</w>
+    <w>svag</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>konjunktur</w>
+  </absaspan>
+  <w>är</w>
+  <w>240</w>
+  <w>000</w>
+  <w>fler</w>
+  <w>personer</w>
+  <w>sysselsatta</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>än</w>
+  <w>år</w>
+  <w>2006</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>Alliansens</w>
+  <w>politik</w>
+  <w>i</w>
+  <w>praktiken</w>
+  <w>.</w>
+  <w>Därför</w>
+  <w>är</w>
+  <w>det</w>
+  <absaspan id=6 senti=2>
+    <w>förvånande</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=7>
+    <w>TCO</w>
+    <w>:</w>
+    <w>s</w>
+    <w>Göran</w>
+    <w>Zettergren</w>
+    <w>antyder</w>
+    <w>att</w>
+    <w>regeringens</w>
+    <w>politik</w>
+    <w>bara</w>
+    <w>fungerar</w>
+    <w>i</w>
+    <w>teorin</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Regeringens</w>
+  <w>samlade</w>
+  <w>jobbpolitik</w>
+  <w>måste</w>
+  <w>ses</w>
+  <w>i</w>
+  <w>en</w>
+  <w>helhet</w>
+  <w>där</w>
+  <absaspan id=8>
+    <w>förändringarna</w>
+    <w>i</w>
+    <w>a-kassan</w>
+    <w>och</w>
+    <w>jobbskatteavdraget</w>
+  </absaspan>
+  <w>har</w>
+  <w>varit</w>
+  <w>några</w>
+  <w>av</w>
+  <w>de</w>
+  <absaspan id=9 senti=4>
+    <w>viktigaste</w>
+    <w>pusselbitarna</w>
+  </absaspan>
+  <w>i</w>
+  <w>arbetslinjen</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=10>
+    <w>Stärkta</w>
+    <w>drivkrafter</w>
+    <w>för</w>
+    <w>arbete</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=11 senti=4>
+    <w>betydelsefullt</w>
+  </absaspan>
+  <w>för</w>
+  <w>den</w>
+  <absaspan id=12>
+    <w>enskilde</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>har</w>
+  <w>också</w>
+  <w>betydande</w>
+  <w>effekter</w>
+  <w>på</w>
+  <w>arbetsmarknaden</w>
+  <w>och</w>
+  <w>för</w>
+  <w>ekonomin</w>
+  <w>i</w>
+  <w>stort</w>
+  <w>.</w>
+  <w>När</w>
+  <w>det</w>
+  <w>blir</w>
+  <w>mer</w>
+  <absaspan id=13 senti=4>
+    <w>lönsamt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=14>
+    <w>arbeta</w>
+  </absaspan>
+  <w>väljer</w>
+  <w>fler</w>
+  <w>att</w>
+  <w>delta</w>
+  <w>i</w>
+  <w>arbetskraften</w>
+  <w>och</w>
+  <absaspan id=15>
+    <w>arbetsmarknadens</w>
+    <w>funktionssätt</w>
+  </absaspan>
+  <absaspan id=16 senti=4>
+    <w>förbättras</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Tvärtemot</w>
+  <w>vad</w>
+  <w>Zettergren</w>
+  <w>påstår</w>
+  <absaspan id=17 senti=4>
+    <w>råder</w>
+  </absaspan>
+  <w>det</w>
+  <w>en</w>
+  <absaspan id=18 senti=4>
+    <w>bred</w>
+  </absaspan>
+  <absaspan id=19 senti=4>
+    <w>enighet</w>
+  </absaspan>
+  <w>kring</w>
+  <w>de</w>
+  <absaspan id=20 senti=4>
+    <w>positiva</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>effekterna</w>
+  </absaspan>
+  <w>.</w>
+  <w>Både</w>
+  <absaspan id=22>
+    <w>Finanspolitiska</w>
+    <w>rådet</w>
+    <w>,</w>
+    <w>Konjunkturinstitutet</w>
+    <w>och</w>
+    <w>Riksbanken</w>
+  </absaspan>
+  <w>bedömer</w>
+  <w>att</w>
+  <absaspan id=23>
+    <w>regeringens</w>
+    <w>politik</w>
+  </absaspan>
+  <absaspan id=24 senti=4>
+    <w>höjer</w>
+    <w>sysselsättningen</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=25 senti=4>
+    <w>sänker</w>
+    <w>arbetslösheten</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=26>
+    <w>Alliansen</w>
+  </absaspan>
+  <w>fortsätter</w>
+  <absaspan id=27 senti=4>
+    <w>prioritera</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>åtgärder</w>
+    <w>som</w>
+    <w>ger</w>
+    <w>fler</w>
+    <w>jobb</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=29>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=30 senti=4>
+    <w>vill</w>
+    <w>fortsätta</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>sänka</w>
+    <w>trösklar</w>
+  </absaspan>
+  <w>för</w>
+  <w>den</w>
+  <w>som</w>
+  <w>behöver</w>
+  <w>komma</w>
+  <w>i</w>
+  <w>jobb</w>
+  <w>samtidigt</w>
+  <w>som</w>
+  <w>vi</w>
+  <w>satsar</w>
+  <w>på</w>
+  <absaspan id=32>
+    <w>utbildning</w>
+    <w>,</w>
+    <w>forskning</w>
+    <w>och</w>
+    <w>infrastruktur</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=33 senti=4>
+    <w>skapar</w>
+    <w>långsiktig</w>
+    <w>tillväxt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>en</w>
+  <absaspan id=34>
+    <w>politik</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=35 senti=4>
+    <w>fungerar</w>
+  </absaspan>
+  <w>–</w>
+  <w>i</w>
+  <w>verkligheten</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Elisabeth</w>
+  <w>Svantesson</w>
+  <w>(</w>
+  <w>M</w>
+  <w>)</w>
+  <w>,</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Ordförande</w>
+  <w>i</w>
+  <w>riksdagens</w>
+  <w>arbetsmarknadsutskott</w>
+  <w>.</w>
+</absapar>
+</absadoc>

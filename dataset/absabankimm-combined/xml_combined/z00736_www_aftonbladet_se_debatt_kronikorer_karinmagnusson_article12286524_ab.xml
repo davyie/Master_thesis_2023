@@ -1,0 +1,549 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Ett</w>
+  <w>kungahus</w>
+  <w>ur</w>
+  <w>tiden</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Den</w>
+  <w>ena</w>
+  <w>bruden</w>
+  <w>kanske</w>
+  <w>aldrig</w>
+  <w>kommer</w>
+  <w>till</w>
+  <w>altaret</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Den</w>
+  <w>andra</w>
+  <w>vill</w>
+  <w>skrida</w>
+  <w>fram</w>
+  <w>med</w>
+  <w>pappa</w>
+  <w>kungen</w>
+  <w>vid</w>
+  <w>sin</w>
+  <w>sida</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=1>
+    <w>Madeleine</w>
+    <w>och</w>
+    <w>Victoria</w>
+  </absaspan>
+  <absaspan id=2 senti=1>
+    <w>är</w>
+    <w>hopplöst</w>
+    <w>fast</w>
+  </absaspan>
+  <w>i</w>
+  <w>en</w>
+  <w>gyllene</w>
+  <w>bur</w>
+  <w>som</w>
+  <w>känns</w>
+  <w>allt</w>
+  <w>mer</w>
+  <w>rostig</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=3>
+    <w>Av</w>
+    <w>alla</w>
+    <w>besked</w>
+    <w>som</w>
+    <w>kommer</w>
+    <w>från</w>
+    <w>kungahuset</w>
+    <w>dessa</w>
+    <w>dagar</w>
+    <w>är</w>
+    <w>det</w>
+    <w>om</w>
+    <w>att</w>
+    <w>Victoria</w>
+    <w>vill</w>
+    <w>överlämnas</w>
+    <w>av</w>
+    <w>sin</w>
+    <w>pappa</w>
+    <w>kungen</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>det</w>
+    <w>märkligaste</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>För</w>
+  <w>en</w>
+  <w>gångs</w>
+  <w>skull</w>
+  <w>hade</w>
+  <w>det</w>
+  <w>varit</w>
+  <absaspan id=5 senti=4>
+    <w>önskvärt</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>att</w>
+    <w>kungafamiljen</w>
+    <w>framhärdat</w>
+    <w>i</w>
+    <w>sin</w>
+    <w>konservativa</w>
+    <w>hållning</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=7>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=8 senti=5>
+    <w>har</w>
+    <w>en</w>
+    <w>lång</w>
+    <w>och</w>
+    <w>alldeles</w>
+    <w>utmärkt</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>kyrklig</w>
+    <w>tradition</w>
+  </absaspan>
+  <w>som</w>
+  <w>bjuder</w>
+  <w>alla</w>
+  <w>myndiga</w>
+  <w>kvinnor</w>
+  <w>att</w>
+  <w>vandra</w>
+  <w>bredvid</w>
+  <w>sin</w>
+  <w>tillkommande</w>
+  <w>,</w>
+  <w>hela</w>
+  <w>vägen</w>
+  <w>från</w>
+  <w>förmaket</w>
+  <w>till</w>
+  <w>altarringen</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=10>
+    <w>Brudöverlämning</w>
+  </absaspan>
+  <w>är</w>
+  <w>,</w>
+  <w>precis</w>
+  <w>som</w>
+  <w>Valentines</w>
+  <w>day</w>
+  <w>och</w>
+  <w>Halloween</w>
+  <w>,</w>
+  <w>en</w>
+  <w>anglosaxisk</w>
+  <absaspan id=11 senti=1>
+    <w>dumimport</w>
+  </absaspan>
+  <w>som</w>
+  <w>saknar</w>
+  <w>förankring</w>
+  <w>i</w>
+  <w>svensk</w>
+  <w>tradition</w>
+  <w>och</w>
+  <w>vardagsliv</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Att</w>
+  <w>som</w>
+  <w>par</w>
+  <w>göra</w>
+  <w>den</w>
+  <w>symboliska</w>
+  <w>vandringen</w>
+  <w>längs</w>
+  <w>altargången</w>
+  <w>tillsammans</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>löfte</w>
+  <w>om</w>
+  <w>vad</w>
+  <w>som</w>
+  <w>komma</w>
+  <w>skall</w>
+  <w>.</w>
+  <w>Att</w>
+  <w>man</w>
+  <w>är</w>
+  <w>två</w>
+  <w>individer</w>
+  <w>på</w>
+  <w>väg</w>
+  <w>mot</w>
+  <w>ett</w>
+  <w>jämbördigt</w>
+  <w>liv</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <absaspan id=12>
+    <w>Att</w>
+    <w>en</w>
+    <w>kvinna</w>
+    <w>leds</w>
+    <w>in</w>
+    <w>av</w>
+    <w>sin</w>
+    <w>far</w>
+    <w>och</w>
+    <w>överlämnas</w>
+    <w>till</w>
+    <w>sin</w>
+    <w>blivande</w>
+    <w>make</w>
+  </absaspan>
+  <absaspan id=13 senti=1>
+    <w>är</w>
+  </absaspan>
+  <w>faktiskt</w>
+  <absaspan id=14 senti=1>
+    <w>fjantigt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>signalerar</w>
+  <w>en</w>
+  <w>blivande</w>
+  <w>brud</w>
+  <w>som</w>
+  <w>överdoserat</w>
+  <w>på</w>
+  <w>bröllopsmagasin</w>
+  <w>och</w>
+  <w>Hollywoodfilmer</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>det</w>
+  <w>må</w>
+  <w>så</w>
+  <w>vara</w>
+  <w>,</w>
+  <w>drömmar</w>
+  <w>bär</w>
+  <w>oss</w>
+  <w>framåt</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Men</w>
+  <absaspan id=15 senti=1>
+    <w>det</w>
+    <w>finns</w>
+    <w>en</w>
+    <w>allvarlig</w>
+    <w>dimension</w>
+    <w>i</w>
+    <w>detta</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Att</w>
+  <w>lämnas</w>
+  <w>över</w>
+  <w>markerar</w>
+  <w>att</w>
+  <w>man</w>
+  <w>är</w>
+  <w>en</w>
+  <w>ägodel</w>
+  <w>och</w>
+  <w>inte</w>
+  <w>en</w>
+  <w>egen</w>
+  <w>person</w>
+  <w>.</w>
+  <w>En</w>
+  <w>sak</w>
+  <w>som</w>
+  <w>skickas</w>
+  <w>från</w>
+  <w>en</w>
+  <w>person</w>
+  <w>till</w>
+  <w>en</w>
+  <w>annan</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Kronprinsessan</w>
+  <w>Victoria</w>
+  <w>är</w>
+  <w>Sveriges</w>
+  <w>tronarvinge</w>
+  <w>,</w>
+  <w>en</w>
+  <w>utbildad</w>
+  <w>och</w>
+  <w>modern</w>
+  <w>kvinna</w>
+  <w>med</w>
+  <absaspan id=16 senti=2>
+    <w>tung</w>
+    <w>arbetsbörda</w>
+  </absaspan>
+  <w>och</w>
+  <w>stort</w>
+  <w>ansvar</w>
+  <w>.</w>
+  <absaspan id=17>
+    <w>Hon</w>
+  </absaspan>
+  <absaspan id=18 senti=3>
+    <w>är</w>
+  </absaspan>
+  <w>alltså</w>
+  <absaspan id=19 senti=3>
+    <w>fullt</w>
+  </absaspan>
+  <absaspan id=20 senti=3>
+    <w>kapabel</w>
+  </absaspan>
+  <w>att</w>
+  <w>vandra</w>
+  <w>hela</w>
+  <w>vägen</w>
+  <w>vid</w>
+  <w>Daniel</w>
+  <w>Westlings</w>
+  <w>sida</w>
+  <w>själv</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Enligt</w>
+  <w>uppgifter</w>
+  <w>är</w>
+  <w>beslutet</w>
+  <w>om</w>
+  <w>brudöverlämning</w>
+  <w>ett</w>
+  <w>sätt</w>
+  <w>för</w>
+  <w>Victoria</w>
+  <w>att</w>
+  <w>visa</w>
+  <w>på</w>
+  <absaspan id=21>
+    <w>kungens</w>
+  </absaspan>
+  <absaspan id=22 senti=3>
+    <w>fulla</w>
+    <w>acceptans</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>sin</w>
+    <w>svärson</w>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>Att</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>Daniel</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>,</w>
+    <w>utan</w>
+    <w>blått</w>
+    <w>blod</w>
+    <w>,</w>
+  </absaspan>
+  <absaspan id=27 senti=4>
+    <w>är</w>
+    <w>en</w>
+    <w>fullvärdig</w>
+    <w>medlem</w>
+    <w>av</w>
+    <w>familjen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <absaspan id=28 senti=5>
+    <w>Det</w>
+    <w>är</w>
+    <w>mycket</w>
+    <w>empatiskt</w>
+    <w>tänkt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Men</w>
+  <w>inte</w>
+  <w>desto</w>
+  <w>mindre</w>
+  <w>.</w>
+  <absaspan id=29>
+    <w>Brudöverlämning</w>
+  </absaspan>
+  <w>,</w>
+  <w>liksom</w>
+  <w>turerna</w>
+  <w>kring</w>
+  <w>prinsessan</w>
+  <w>Madeleine</w>
+  <w>och</w>
+  <w>Jonas</w>
+  <w>Bergström</w>
+  <w>,</w>
+  <absaspan id=30 senti=1>
+    <w>signalerar</w>
+    <w>en</w>
+    <w>ålderstigen</w>
+    <w>kvinnosyn</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Trots</w>
+  <w>veckans</w>
+  <w>uppgifter</w>
+  <w>om</w>
+  <w>Jonas</w>
+  <w>Bergströms</w>
+  <w>förehavanden</w>
+  <w>intygar</w>
+  <w>hovet</w>
+  <w>att</w>
+  <w>Madeleine</w>
+  <w>och</w>
+  <w>Jonas</w>
+  <w>Bergström</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>stabilt</w>
+  <w>par</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <absaspan id=31 senti=5>
+    <w>Det</w>
+    <w>vore</w>
+    <w>roligt</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>om</w>
+    <w>det</w>
+    <w>stämde</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>rapporterna</w>
+  <w>säger</w>
+  <w>något</w>
+  <w>helt</w>
+  <w>annat</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>skulle</w>
+  <w>överraska</w>
+  <w>om</w>
+  <w>paret</w>
+  <w>hänger</w>
+  <w>ihop</w>
+  <w>efter</w>
+  <w>det</w>
+  <w>heliga</w>
+  <w>datumet</w>
+  <w>,</w>
+  <w>den</w>
+  <w>19</w>
+  <w>juni</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>Fram</w>
+  <w>till</w>
+  <w>den</w>
+  <w>dagen</w>
+  <w>,</w>
+  <w>då</w>
+  <w>kronprinsessan</w>
+  <w>överlämnas</w>
+  <w>av</w>
+  <w>sin</w>
+  <w>far</w>
+  <w>till</w>
+  <w>sin</w>
+  <w>blivande</w>
+  <w>make</w>
+  <w>,</w>
+  <w>lär</w>
+  <w>Madeleine</w>
+  <w>vara</w>
+  <w>fast</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>förlovning</w>
+  <w>.</w>
+  <w>För</w>
+  <w>att</w>
+  <w>inte</w>
+  <absaspan id=33 senti=1>
+    <w>störa</w>
+    <w>den</w>
+    <w>glada</w>
+    <w>feststämningen</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=34 senti=1>
+    <w>sätter</w>
+    <w>etikett</w>
+    <w>före</w>
+    <w>vett</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>För</w>
+  <w>Sverige</w>
+  <w>i</w>
+  <w>tiden</w>
+  <w>,</w>
+  <w>lyder</w>
+  <w>kungens</w>
+  <w>valspråk</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=35>
+    <w>kungahuset</w>
+  </absaspan>
+  <absaspan id=36 senti=1>
+    <w>går</w>
+    <w>i</w>
+    <w>dag</w>
+    <w>ohjälpligt</w>
+    <w>i</w>
+    <w>otakt</w>
+    <w>med</w>
+    <w>samtiden</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

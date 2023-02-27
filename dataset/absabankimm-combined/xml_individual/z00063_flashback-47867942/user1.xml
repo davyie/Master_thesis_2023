@@ -1,0 +1,123 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>Jonas</w>
+    <w>Sjöstedt</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=2 senti=5 source=1 target=3>
+    <w>Obligatoriskt</w>
+  </absaspan>
+  <absaspan id=3 senti=5 target=3 source=1>
+    <w>flyktingmottagande</w>
+  </absaspan>
+  <w>-</w>
+  <w>och</w>
+  <absaspan id=4 senti=5 source=1>
+    <w>ökad</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>mångkulturell</w>
+    <w>skola</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=6>
+    <w>Jonas</w>
+    <w>Sjöstedt</w>
+  </absaspan>
+  <w>menar</w>
+  <w>att</w>
+  <absaspan id=7>
+    <w>arbetslösheten</w>
+  </absaspan>
+  <absaspan id=8 senti=1>
+    <w>är</w>
+    <w>utökad</w>
+    <w>anledning</w>
+    <w>till</w>
+    <w>att</w>
+    <w>rasismen</w>
+    <w>ökas</w>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>#</w>
+  <w>P</w>
+  <absaspan id=9 senti=3>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>1</w>
+  <w>.</w>
+  <w>Tror</w>
+  <w>ni</w>
+  <w>att</w>
+  <w>integrationsproblematiken</w>
+  <w>att</w>
+  <w>försvinna</w>
+  <w>med</w>
+  <w>Sjöstedts</w>
+  <w>satsningar</w>
+  <w>?</w>
+  <w>(</w>
+  <w>Dvs</w>
+  <w>att</w>
+  <w>du</w>
+  <w>inte</w>
+  <w>får</w>
+  <w>välja</w>
+  <w>skola</w>
+  <w>till</w>
+  <w>dina</w>
+  <w>barn</w>
+  <w>,</w>
+  <w>öka</w>
+  <w>pengarna</w>
+  <w>till</w>
+  <w>DO</w>
+  <w>&</w>
+  <w>att</w>
+  <w>varje</w>
+  <w>kommun</w>
+  <w>får</w>
+  <w>ett</w>
+  <w>obligatoriskt</w>
+  <w>flyktingmottagande</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>#</w>
+  <w>P</w>
+  <absaspan id=10 senti=3>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>2</w>
+  <w>.</w>
+  <w>Hoppas</w>
+  <w>ni</w>
+  <w>att</w>
+  <w>V</w>
+  <w>minner</w>
+  <w>valet</w>
+  <w>?</w>
+  <w>Tror</w>
+  <w>ni</w>
+  <w>Sjöstedt</w>
+  <w>hade</w>
+  <w>gjort</w>
+  <w>ett</w>
+  <w>bättre</w>
+  <w>jobb</w>
+  <w>än</w>
+  <w>Ullenhag</w>
+  <w>som</w>
+  <w>integrationsminsiter</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

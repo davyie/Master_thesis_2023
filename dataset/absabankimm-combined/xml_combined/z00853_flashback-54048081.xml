@@ -1,0 +1,83 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Handläggare</w>
+    <w>på</w>
+    <w>Migrationsverket</w>
+  </absaspan>
+  <absaspan id=2 senti=5 source=1 target=3>
+    <w>hyllar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>IS</w>
+  </absaspan>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Man</w>
+  <w>tar</w>
+  <w>sig</w>
+  <w>för</w>
+  <w>för</w>
+  <w>pannan</w>
+  <w>!</w>
+  <absaspan id=4 senti=1>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <absaspan id=5>
+    <w>Samiyah</w>
+    <w>Warsame</w>
+    <w>,</w>
+    <w>handläggare</w>
+    <w>på</w>
+    <w>Migrationsverket</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=6 senti=4>
+    <w>gillar</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>IS</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=8>
+    <w>andra</w>
+    <w>islamistiska</w>
+    <w>jihadister</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>Facebook</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Är</w>
+  <w>detta</w>
+  <w>förenligt</w>
+  <w>med</w>
+  <w>hennes</w>
+  <w>yrkesroll</w>
+  <w>?</w>
+  <w>Bör</w>
+  <w>Migrationsverket</w>
+  <w>vidta</w>
+  <w>åtgärder</w>
+  <w>eller</w>
+  <w>är</w>
+  <w>detta</w>
+  <w>i</w>
+  <w>linje</w>
+  <w>med</w>
+  <w>deras</w>
+  <w>värdegrund</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

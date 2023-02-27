@@ -1,0 +1,473 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Rasist</w>
+  <w>,</w>
+  <w>främlingsfientlig</w>
+  <w>hatiskt</w>
+  <w>och</w>
+  <w>islamofob</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <w>finns</w>
+  <absaspan id=1>
+    <w>4</w>
+    <w>argument</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=2 senti=2>
+    <w>missbrukas</w>
+  </absaspan>
+  <w>oftast</w>
+  <w>i</w>
+  <w>"</w>
+  <w>öppna</w>
+  <w>debatter</w>
+  <w>"</w>
+  <w>Är</w>
+  <w>det</w>
+  <w>så</w>
+  <w>här</w>
+  <w>man</w>
+  <w>ska</w>
+  <w>tolka</w>
+  <w>dom</w>
+  <w>hos</w>
+  <absaspan id=3 senti=2>
+    <w>PK</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=4 senti=1>
+    <w>#</w>
+    <w>P</w>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>1</w>
+  <w>.</w>
+  <w>Rasist</w>
+  <w>=</w>
+  <w>Din</w>
+  <w>motdebattör</w>
+  <absaspan id=5 senti=2>
+    <w>vill</w>
+    <w>inte</w>
+    <w>höra</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>negativa</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>kommentarer</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>om</w>
+    <w>den</w>
+  </absaspan>
+  <absaspan id=9 senti=1>
+    <w>påtvingade</w>
+    <w>misslyckade</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>mångkulturen</w>
+    <w>byggd</w>
+    <w>på</w>
+    <w>lögner</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>oavsett</w>
+    <w>hur</w>
+    <w>tydlig</w>
+    <w>du</w>
+    <w>än</w>
+    <w>är</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>2</w>
+  <w>.</w>
+  <w>Främlingsfientlig</w>
+  <w>=</w>
+  <absaspan id=12>
+    <w>Din</w>
+    <w>motdebattör</w>
+  </absaspan>
+  <w>vill</w>
+  <w>inte</w>
+  <w>ta</w>
+  <w>debatten</w>
+  <w>där</w>
+  <w>man</w>
+  <absaspan id=13 senti=2>
+    <w>saknar</w>
+    <w>argument</w>
+  </absaspan>
+  <w>och</w>
+  <w>måste</w>
+  <w>ljuga</w>
+  <w>mot</w>
+  <w>dig</w>
+  <w>och</w>
+  <absaspan id=14 senti=2>
+    <w>inte</w>
+    <w>erkänner</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>dina</w>
+    <w>käller</w>
+    <w>och</w>
+    <w>fakta</w>
+    <w>som</w>
+    <w>motbevisar</w>
+    <w>din</w>
+    <w>debattör</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=16 senti=1>
+    <w>#</w>
+    <w>P</w>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>3</w>
+  <w>.</w>
+  <w>Hatisk</w>
+  <w>=</w>
+  <w>Din</w>
+  <w>motdebattör</w>
+  <absaspan id=17 senti=2>
+    <w>vill</w>
+    <w>inte</w>
+    <w>höra</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>hur</w>
+  </absaspan>
+  <absaspan id=19 senti=1>
+    <w>fruktansvärt</w>
+    <w>illa</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>svenskar</w>
+    <w>diskrimineras</w>
+    <w>och</w>
+    <w>bestraffas</w>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>betalar</w>
+    <w>högsta</w>
+    <w>priset</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>mångkulturen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=24 senti=1>
+    <w>#</w>
+    <w>P</w>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>4</w>
+  <w>.</w>
+  <absaspan id=25 senti=2>
+    <w>Islamofob</w>
+  </absaspan>
+  <w>=</w>
+  <w>Fobi</w>
+  <w>betyder</w>
+  <w>rädsla</w>
+  <w>,</w>
+  <w>något</w>
+  <w>eller</w>
+  <w>någon</w>
+  <w>skapar</w>
+  <w>din</w>
+  <absaspan id=26 senti=2>
+    <w>rädsla</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>islam</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=28>
+    <w>Din</w>
+    <w>motdebattör</w>
+  </absaspan>
+  <absaspan id=29 senti=2>
+    <w>saknar</w>
+    <w>argument</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=30 senti=2>
+    <w>försvara</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>islamiseringen</w>
+  </absaspan>
+  <w>och</w>
+  <w>upprepar</w>
+  <absaspan id=32 senti=2>
+    <w>islamfobi</w>
+  </absaspan>
+  <w>,</w>
+  <w>du</w>
+  <w>är</w>
+  <absaspan id=33 senti=2>
+    <w>rädd</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>muslimer</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=35 senti=2>
+    <w>han</w>
+    <w>själv</w>
+    <w>kan</w>
+    <w>inte</w>
+    <w>säga</w>
+    <w>något</w>
+    <w>positivt</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>om</w>
+    <w>islam</w>
+  </absaspan>
+  <w>trots</w>
+  <absaspan id=37>
+    <w>islam</w>
+  </absaspan>
+  <absaspan id=38 senti=2>
+    <w>kränker</w>
+  </absaspan>
+  <w>hans</w>
+  <absaspan id=39 senti=2>
+    <w>mänskliga</w>
+  </absaspan>
+  <absaspan id=40 senti=2>
+    <w>rättigheter</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>EX</w>
+  <w>.</w>
+</absapar>
+<absapar id=7 senti=1>
+  <w>Måna</w>
+  <w>Muslim</w>
+  <w>.</w>
+</absapar>
+<absapar id=8 senti=1>
+  <w>När</w>
+  <absaspan id=41>
+    <w>Måna</w>
+    <w>Muslim</w>
+    <w>och</w>
+    <w>andra</w>
+    <w>politiker</w>
+  </absaspan>
+  <w>säger</w>
+  <absaspan id=42>
+    <w>hatad</w>
+    <w>mot</w>
+    <w>sig</w>
+    <w>själv</w>
+    <w>eller</w>
+    <w>att</w>
+    <w>andra</w>
+  </absaspan>
+  <absaspan id=43 senti=5>
+    <w>är</w>
+    <w>hatiskt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9 senti=1>
+  <w>Då</w>
+  <absaspan id=44 senti=2>
+    <w>vill</w>
+  </absaspan>
+  <w>dessa</w>
+  <w>politiker</w>
+  <absaspan id=45 senti=2>
+    <w>ALDRIG</w>
+    <w>höra</w>
+  </absaspan>
+  <absaspan id=46>
+    <w>hur</w>
+  </absaspan>
+  <absaspan id=47 senti=2>
+    <w>ILLA</w>
+  </absaspan>
+  <absaspan id=48>
+    <w>svenskar</w>
+    <w>blir</w>
+    <w>diskriminerade</w>
+    <w>och</w>
+    <w>bestraffade</w>
+  </absaspan>
+  <w>.</w>
+  <w>Se</w>
+  <w>detta</w>
+  <w>ex</w>
+  <w>om</w>
+  <w>tandvård</w>
+  <w>.</w>
+</absapar>
+<absapar id=10 senti=1>
+  <w>Politiker</w>
+  <w>som</w>
+  <absaspan id=49>
+    <w>Måna</w>
+    <w>Muslim</w>
+  </absaspan>
+  <w>kommer</w>
+  <absaspan id=50 senti=1>
+    <w>ALDRIG</w>
+    <w>att</w>
+  </absaspan>
+  <w>med</w>
+  <w>sitt</w>
+  <absaspan id=51 senti=1>
+    <w>förakt</w>
+  </absaspan>
+  <absaspan id=52>
+    <w>mot</w>
+    <w>svenskarna</w>
+  </absaspan>
+  <absaspan id=53 senti=1>
+    <w>NÅGONSIN</w>
+    <w>vilja</w>
+    <w>höra</w>
+    <w>eller</w>
+    <w>erkänna</w>
+  </absaspan>
+  <absaspan id=54>
+    <w>hur</w>
+    <w>illa</w>
+    <w>svenskarna</w>
+    <w>blir</w>
+    <w>diskriminerade</w>
+    <w>i</w>
+    <w>förmån</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=55>
+    <w>hennes</w>
+  </absaspan>
+  <absaspan id=56 senti=5>
+    <w>älskade</w>
+  </absaspan>
+  <absaspan id=57>
+    <w>invandrare</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Då</w>
+  <absaspan id=58 senti=2>
+    <w>är</w>
+  </absaspan>
+  <w>det</w>
+  <absaspan id=59 senti=2>
+    <w>enklare</w>
+  </absaspan>
+  <absaspan id=60>
+    <w>säga</w>
+    <w>hatiskt</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <absaspan id=61 senti=1>
+    <w>Hattiskt</w>
+  </absaspan>
+  <w>=</w>
+  <absaspan id=62>
+    <w>inte</w>
+    <w>höra</w>
+    <w>hur</w>
+    <w>diskriminerade</w>
+    <w>svenskar</w>
+    <w>blir</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Hur</w>
+  <absaspan id=63 senti=4>
+    <w>nära</w>
+    <w>sanningen</w>
+  </absaspan>
+  <w>är</w>
+  <w>jag</w>
+  <w>med</w>
+  <absaspan id=64>
+    <w>"</w>
+    <w>kodorden</w>
+    <w>"</w>
+  </absaspan>
+  <w>?</w>
+  <w>Fler</w>
+  <w>ex</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Har</w>
+  <w>själv</w>
+  <w>kontaktat</w>
+  <absaspan id=65>
+    <w>journalister</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=66 senti=5>
+    <w>älskar</w>
+  </absaspan>
+  <absaspan id=67>
+    <w>att</w>
+    <w>skriva</w>
+    <w>"</w>
+    <w>hatiskt</w>
+    <w>"</w>
+    <w>med</w>
+    <w>=</w>
+    <w>diskriminerade</w>
+    <w>svenskar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Fått</w>
+  <absaspan id=68 senti=3>
+    <w>blandade</w>
+  </absaspan>
+  <absaspan id=69>
+    <w>svar</w>
+  </absaspan>
+  <w>tillbaks</w>
+  <w>.</w>
+</absapar>
+</absadoc>

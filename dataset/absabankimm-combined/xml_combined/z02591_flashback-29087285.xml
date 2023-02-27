@@ -1,0 +1,72 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Samisk</w>
+  </absaspan>
+  <absaspan id=2 senti=1 target=1>
+    <w>rasist</w>
+  </absaspan>
+  <w>i</w>
+  <w>tidningen</w>
+  <w>Fokus</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>När</w>
+  <absaspan id=3 senti=2>
+    <w>haglar</w>
+    <w>angreppen</w>
+  </absaspan>
+  <w>från</w>
+  <absaspan id=4>
+    <w>Expo</w>
+    <w>,</w>
+    <w>Nätverket</w>
+    <w>mot</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>och</w>
+  <w>dylika</w>
+  <w>organisationer</w>
+  <w>?</w>
+  <w>Är</w>
+  <w>inte</w>
+  <absaspan id=5>
+    <w>sånt</w>
+    <w>här</w>
+  </absaspan>
+  <absaspan id=6 senti=1>
+    <w>blodsbandstänkande</w>
+    <w>genomrasistiskt</w>
+  </absaspan>
+  <w>?</w>
+  <w>Eller</w>
+  <w>är</w>
+  <w>det</w>
+  <w>bara</w>
+  <absaspan id=7>
+    <w>samer</w>
+    <w>,</w>
+    <w>judar</w>
+    <w>och</w>
+    <w>andra</w>
+    <w>icke-europeiska</w>
+    <w>etniska</w>
+    <w>grupper</w>
+  </absaspan>
+  <w>som</w>
+  <w>får</w>
+  <w>definiera</w>
+  <w>sig</w>
+  <w>själva</w>
+  <w>på</w>
+  <w>det</w>
+  <w>här</w>
+  <w>sättet</w>
+  <w>öppet</w>
+  <w>?</w>
+  <absaspan id=8 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

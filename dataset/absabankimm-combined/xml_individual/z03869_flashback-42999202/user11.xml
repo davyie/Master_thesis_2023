@@ -1,0 +1,86 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Nytt</w>
+  <w>asylboende</w>
+  <w>i</w>
+  <w>Gyttorp</w>
+  <w>(</w>
+  <w>Nora</w>
+  <w>)</w>
+  <w>byggs</w>
+  <w>av</w>
+  <absaspan id=1>
+    <w>företag</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=2 senti=2>
+    <w>påstås</w>
+    <w>bryta</w>
+    <w>mot</w>
+    <w>avtal</w>
+    <w>och</w>
+    <w>etik</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Asylindustrin</w>
+  <w>blir</w>
+  <w>allt</w>
+  <w>tydligare</w>
+  <w>ett</w>
+  <w>tillhåll</w>
+  <w>för</w>
+  <absaspan id=4 senti=2>
+    <w>fifflare</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=5 senti=2>
+    <w>lycksökare</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vem</w>
+  <w>är</w>
+  <w>kvinnan</w>
+  <w>som</w>
+  <w>bygger</w>
+  <w>det</w>
+  <w>här</w>
+  <w>asylboendet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Hur</w>
+  <w>kan</w>
+  <absaspan id=6>
+    <w>Migrationsverket</w>
+  </absaspan>
+  <w>ens</w>
+  <w>överväga</w>
+  <w>att</w>
+  <w>samarbeta</w>
+  <w>med</w>
+  <w>ett</w>
+  <absaspan id=7>
+    <w>företag</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=8 senti=2>
+    <w>är</w>
+    <w>känt</w>
+    <w>för</w>
+    <w>att</w>
+    <w>vara</w>
+    <w>oseriöst</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=9 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

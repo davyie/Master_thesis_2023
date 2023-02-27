@@ -1,0 +1,144 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>SD-ledamot</w>
+  <w>blir</w>
+  <w>politisk</w>
+  <w>vilde</w>
+  <w>:</w>
+  <absaspan id=1>
+    <w>invandrare</w>
+  </absaspan>
+  <absaspan id=2 senti=3 target=1>
+    <w>är</w>
+    <w>inte</w>
+    <w>roten</w>
+    <w>till</w>
+    <w>allt</w>
+    <w>ont</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>"</w>
+  <w>Detta</w>
+  <w>sedan</w>
+  <w>SD-ledamoten</w>
+  <absaspan id=3>
+    <w>Peter</w>
+    <w>Lindkvist</w>
+  </absaspan>
+  <w>hoppat</w>
+  <w>av</w>
+  <w>,</w>
+  <w>med</w>
+  <w>motiveringen</w>
+  <w>att</w>
+  <absaspan id=4>
+    <w>kritiken</w>
+    <w>mot</w>
+    <w>invandrare</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>är</w>
+    <w>för</w>
+    <w>aggressiv</w>
+  </absaspan>
+  <w>och</w>
+  <w>att</w>
+  <w>partiet</w>
+  <w>är</w>
+  <w>toppstyrt</w>
+  <w>från</w>
+  <w>Umeå</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Till</w>
+  <w>tidningen</w>
+  <w>Norran</w>
+  <w>,</w>
+  <w>som</w>
+  <w>först</w>
+  <w>rapporterade</w>
+  <w>om</w>
+  <w>nyheten</w>
+  <w>,</w>
+  <w>säger</w>
+  <w>Lindkvist</w>
+  <w>att</w>
+  <w>han</w>
+  <w>ideologiskt</w>
+  <w>står</w>
+  <w>närmare</w>
+  <w>Moderaterna</w>
+  <w>och</w>
+  <w>Kristdemokraterna</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>.</w>
+  <w>:</w>
+  <absaspan id=6>
+    <w>En</w>
+    <w>del</w>
+    <w>i</w>
+    <w>SD</w>
+  </absaspan>
+  <w>tycker</w>
+  <w>att</w>
+  <absaspan id=7>
+    <w>invandrare</w>
+  </absaspan>
+  <absaspan id=8 senti=1>
+    <w>är</w>
+    <w>roten</w>
+    <w>till</w>
+    <w>allt</w>
+    <w>ont</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>det</w>
+  <w>tycker</w>
+  <w>inte</w>
+  <w>jag</w>
+  <w>,</w>
+  <w>säger</w>
+  <w>han</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Lindkvist</w>
+  <w>har</w>
+  <w>inga</w>
+  <w>planer</w>
+  <w>på</w>
+  <w>att</w>
+  <w>lämna</w>
+  <w>sina</w>
+  <w>uppdrag</w>
+  <w>i</w>
+  <w>kommunfullmäktige</w>
+  <w>och</w>
+  <w>landstinget</w>
+  <w>,</w>
+  <w>utan</w>
+  <w>sitter</w>
+  <w>kvar</w>
+  <w>mandatperioden</w>
+  <w>ut</w>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Vad</w>
+  <w>anser</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>hans</w>
+  <w>tankegångar</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

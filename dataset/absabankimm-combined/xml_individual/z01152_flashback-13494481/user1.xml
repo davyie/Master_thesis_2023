@@ -1,0 +1,269 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>M-riksdagsmän</w>
+  </absaspan>
+  <w>:</w>
+  <w>ny</w>
+  <w>"</w>
+  <w>flykting</w>
+  <w>"</w>
+  <w>-</w>
+  <w>amnesti</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Detta</w>
+  <w>innebär</w>
+  <w>de</w>
+  <w>facto</w>
+  <w>att</w>
+  <absaspan id=2>
+    <w>man</w>
+  </absaspan>
+  <w>precis</w>
+  <w>som</w>
+  <w>regeringen</w>
+  <w>Persson</w>
+  <w>gjorde</w>
+  <w>2005</w>
+  <absaspan id=3 senti=2>
+    <w>belönar</w>
+    <w>dom</w>
+    <w>som</w>
+    <w>gömt</w>
+    <w>sig</w>
+    <w>och</w>
+    <w>låter</w>
+    <w>dom</w>
+    <w>stanna</w>
+  </absaspan>
+  <w>:</w>
+  <w>en</w>
+  <w>sorts</w>
+  <w>"</w>
+  <w>flykting</w>
+  <w>"</w>
+  <w>-</w>
+  <w>amnesti</w>
+  <w>(</w>
+  <w>även</w>
+  <w>om</w>
+  <w>denna</w>
+  <w>inte</w>
+  <w>gäller</w>
+  <w>alla</w>
+  <absaspan id=4>
+    <w>illlegala</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>invandrare</w>
+  </absaspan>
+  <w>,</w>
+  <w>utan</w>
+  <w>bara</w>
+  <w>dom</w>
+  <w>som</w>
+  <w>har</w>
+  <w>jobb</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>"</w>
+  <w>Jag</w>
+  <w>har</w>
+  <w>svårt</w>
+  <w>att</w>
+  <w>förstå</w>
+  <w>varför</w>
+  <w>det</w>
+  <w>ska</w>
+  <w>vara</w>
+  <w>så</w>
+  <w>byråkratiskt</w>
+  <w>.</w>
+  <w>"</w>
+  <w>Ja</w>
+  <w>,</w>
+  <w>det</w>
+  <absaspan id=6 senti=2 irony>
+    <w>är</w>
+    <w>hemskt</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>hur</w>
+    <w>byråkratiskt</w>
+    <w>det</w>
+    <w>är</w>
+    <w>att</w>
+    <w>man</w>
+    <w>inte</w>
+    <w>ska</w>
+    <w>belönas</w>
+    <w>för</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>man</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>bryter</w>
+    <w>mot</w>
+    <w>lagar</w>
+    <w>och</w>
+    <w>regler</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=10 senti=2>
+    <w>Korkade</w>
+    <w>sossekärring</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=11>
+    <w>Billström</w>
+  </absaspan>
+  <absaspan id=12 senti=3>
+    <w>är</w>
+    <w>förvisso</w>
+    <w>bättre</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>detta</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>exempel</w>
+  <w>bland</w>
+  <w>många</w>
+  <w>på</w>
+  <w>att</w>
+  <absaspan id=13>
+    <w>Alliansen</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>inte</w>
+    <w>är</w>
+    <w>att</w>
+    <w>lita</w>
+    <w>på</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=15>
+    <w>Partiledningarna</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>verkar</w>
+  </absaspan>
+  <w>ju</w>
+  <absaspan id=17 senti=2>
+    <w>ha</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>noll</w>
+    <w>koll</w>
+    <w>på</w>
+    <w>sina</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>ledamöter</w>
+  </absaspan>
+  <w>också</w>
+  <w>.</w>
+  <w>Först</w>
+  <absaspan id=20>
+    <w>FRA</w>
+  </absaspan>
+  <w>,</w>
+  <w>sen</w>
+  <absaspan id=21>
+    <w>homoäktenskap</w>
+  </absaspan>
+  <w>och</w>
+  <w>så</w>
+  <w>nu</w>
+  <absaspan id=22>
+    <w>detta</w>
+  </absaspan>
+  <absaspan id=23 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Till</w>
+  <w>nästa</w>
+  <w>gång</w>
+  <w>borde</w>
+  <w>man</w>
+  <w>ha</w>
+  <w>lydiga</w>
+  <w>ja-sägare</w>
+  <w>.</w>
+  <w>Man</w>
+  <w>sitter</w>
+  <w>inte</w>
+  <w>i</w>
+  <w>riksdan</w>
+  <w>för</w>
+  <w>att</w>
+  <w>tycka</w>
+  <w>lite</w>
+  <w>i</w>
+  <w>största</w>
+  <w>allmänhet</w>
+  <w>,</w>
+  <w>man</w>
+  <w>sitter</w>
+  <w>där</w>
+  <w>för</w>
+  <w>att</w>
+  <w>representera</w>
+  <w>sitt</w>
+  <w>parti</w>
+  <w>och</w>
+  <w>sina</w>
+  <w>väljare</w>
+  <w>och</w>
+  <w>då</w>
+  <w>gäller</w>
+  <w>det</w>
+  <w>att</w>
+  <w>underkasta</w>
+  <w>sig</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>det</w>
+  <w>är</w>
+  <w>förstås</w>
+  <w>ett</w>
+  <w>begrepp</w>
+  <w>som</w>
+  <w>är</w>
+  <w>helt</w>
+  <w>främmande</w>
+  <w>för</w>
+  <w>dessa</w>
+  <absaspan id=24 senti=2>
+    <w>självgoda</w>
+    <w>gutmenschen</w>
+  </absaspan>
+  <w>som</w>
+  <w>varje</w>
+  <w>dag</w>
+  <w>måste</w>
+  <w>uttrycka</w>
+  <w>vilka</w>
+  <w>fina</w>
+  <w>och</w>
+  <w>goda</w>
+  <w>och</w>
+  <w>pissliberala</w>
+  <w>mänskor</w>
+  <w>dom</w>
+  <w>är</w>
+  <w>.</w>
+</absapar>
+</absadoc>

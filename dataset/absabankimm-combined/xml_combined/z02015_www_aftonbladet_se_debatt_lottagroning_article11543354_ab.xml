@@ -1,0 +1,254 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Starta</w>
+  <w>myndigheter</w>
+  <w>utanför</w>
+  <w>Stockholm</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>såg</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>Kriminalvårdens</w>
+    <w>transportjänst</w>
+  </absaspan>
+  <w>sedan</w>
+  <w>myndighetens</w>
+  <w>kontor</w>
+  <w>flyttade</w>
+  <w>från</w>
+  <w>Göteborg</w>
+  <w>till</w>
+  <w>Arvidsjaur</w>
+  <absaspan id=2 senti=2>
+    <w>har</w>
+    <w>haft</w>
+    <w>problem</w>
+    <w>med</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=3>
+    <w>avvisa</w>
+    <w>asylsökande</w>
+  </absaspan>
+  <w>.</w>
+  <w>De</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>får</w>
+  <w>stanna</w>
+  <w>har</w>
+  <w>suttit</w>
+  <w>för</w>
+  <w>länge</w>
+  <w>i</w>
+  <w>förvar</w>
+  <w>eftersom</w>
+  <w>den</w>
+  <w>nyanställda</w>
+  <w>personalen</w>
+  <w>inte</w>
+  <w>klarat</w>
+  <w>av</w>
+  <w>sina</w>
+  <w>uppgifter</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>inget</w>
+  <w>unikt</w>
+  <w>problem</w>
+  <w>.</w>
+  <absaspan id=4>
+    <w>Myndigheter</w>
+    <w>som</w>
+    <w>utlokaliseras</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>får</w>
+    <w>ofta</w>
+    <w>problem</w>
+    <w>med</w>
+  </absaspan>
+  <w>sin</w>
+  <absaspan id=6>
+    <w>kompetens</w>
+  </absaspan>
+  <w>eftersom</w>
+  <w>de</w>
+  <absaspan id=7 senti=2>
+    <w>har</w>
+    <w>svårt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=8>
+    <w>få</w>
+    <w>personal</w>
+  </absaspan>
+  <w>att</w>
+  <w>flytta</w>
+  <w>med</w>
+  <w>och</w>
+  <w>dessutom</w>
+  <w>tar</w>
+  <w>det</w>
+  <w>tid</w>
+  <w>att</w>
+  <w>bygga</w>
+  <w>upp</w>
+  <w>verksamheten</w>
+  <w>med</w>
+  <w>ny</w>
+  <w>personal</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>är</w>
+  <absaspan id=9 senti=1>
+    <w>idiotiskt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=10>
+    <w>utlokalisera</w>
+    <w>redan</w>
+    <w>etablerade</w>
+    <w>myndigheter</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <absaspan id=11 senti=4>
+    <w>mycket</w>
+    <w>bättre</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=12>
+    <w>se</w>
+    <w>till</w>
+    <w>att</w>
+    <w>alla</w>
+    <w>nya</w>
+    <w>myndigheter</w>
+    <w>som</w>
+    <w>bildas</w>
+    <w>,</w>
+    <w>och</w>
+    <w>det</w>
+    <w>är</w>
+    <w>ganska</w>
+    <w>många</w>
+    <w>,</w>
+    <w>placeras</w>
+    <w>utanför</w>
+    <w>Stockholm</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>bara</w>
+  <absaspan id=13 senti=2>
+    <w>onödigt</w>
+    <w>lidande</w>
+  </absaspan>
+  <w>och</w>
+  <w>oerhört</w>
+  <w>kostsamt</w>
+  <w>att</w>
+  <absaspan id=14>
+    <w>slå</w>
+    <w>sönder</w>
+    <w>redan</w>
+    <w>fungerande</w>
+    <w>arbetsplatser</w>
+    <w>och</w>
+    <w>verksamheter</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>är</w>
+  <absaspan id=15 senti=2>
+    <w>kanske</w>
+    <w>svårt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=16>
+    <w>ha</w>
+    <w>någon</w>
+    <w>framförhållning</w>
+    <w>och</w>
+    <w>långsiktighet</w>
+    <w>i</w>
+    <w>politiken</w>
+  </absaspan>
+  <w>när</w>
+  <w>partikamrater</w>
+  <w>i</w>
+  <absaspan id=17 senti=2>
+    <w>drabbade</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>kommuner</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>skriker</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>hjälp</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=21>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=22 senti=2>
+    <w>drabbas</w>
+    <w>ständigt</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=23>
+    <w>nedläggningar</w>
+    <w>och</w>
+    <w>kriser</w>
+  </absaspan>
+  <w>och</w>
+  <w>det</w>
+  <absaspan id=24 senti=4>
+    <w>vore</w>
+    <w>bättre</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=25>
+    <w>satsa</w>
+    <w>på</w>
+    <w>en</w>
+    <w>politik</w>
+    <w>som</w>
+    <w>inte</w>
+    <w>bara</w>
+    <w>är</w>
+    <w>ett</w>
+    <w>lapptäcke</w>
+  </absaspan>
+  <w>utan</w>
+  <w>inbegriper</w>
+  <w>en</w>
+  <w>utvecklingsstrategi</w>
+  <w>för</w>
+  <w>landet</w>
+  <w>som</w>
+  <w>helhet</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

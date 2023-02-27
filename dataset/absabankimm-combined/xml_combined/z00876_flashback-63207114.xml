@@ -1,0 +1,171 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1 senti=1 target=1>
+    <w>Lyxflyktingar</w>
+  </absaspan>
+  <w>får</w>
+  <w>inte</w>
+  <w>hyresrätter</w>
+  <w>,</w>
+  <w>tycker</w>
+  <w>att</w>
+  <absaspan id=2>
+    <w>Täby</w>
+    <w>kommun</w>
+  </absaspan>
+  <absaspan id=3 senti=1>
+    <w>är</w>
+    <w>rasister</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <absaspan id=4 senti=1>
+    <w>Lyxflyktingarna</w>
+  </absaspan>
+  <w>demonstratera</w>
+  <w>på</w>
+  <w>Täby</w>
+  <w>torg</w>
+  <w>.</w>
+  <w>Täby</w>
+  <w>har</w>
+  <w>inga</w>
+  <w>hyresrätter</w>
+  <w>att</w>
+  <w>ge</w>
+  <w>dem</w>
+  <w>,</w>
+  <w>därav</w>
+  <w>anser</w>
+  <absaspan id=5>
+    <w>lyxflyktingarna</w>
+  </absaspan>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=6>
+    <w>Täby</w>
+    <w>kommun</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>är</w>
+    <w>rasister</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Är</w>
+  <w>Täby</w>
+  <w>Rasister</w>
+  <w>?</w>
+  <absaspan id=8 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Skall</w>
+  <w>verkligen</w>
+  <w>Svenska</w>
+  <w>ungdomar</w>
+  <w>få</w>
+  <w>lägenheter</w>
+  <w>,</w>
+  <w>när</w>
+  <absaspan id=9 senti=1>
+    <w>lyxflyktingar</w>
+  </absaspan>
+  <w>behöver</w>
+  <w>dem</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=2>
+  <w>Kan</w>
+  <w>man</w>
+  <w>inte</w>
+  <absaspan id=10 senti=4 irony>
+    <w>skära</w>
+    <w>ner</w>
+    <w>mer</w>
+    <w>i</w>
+    <w>välfärden</w>
+    <w>och</w>
+    <w>höja</w>
+    <w>skatterna</w>
+  </absaspan>
+  <w>så</w>
+  <w>man</w>
+  <absaspan id=11>
+    <w>kan</w>
+    <w>köpa</w>
+    <w>bostadsrätter</w>
+    <w>åt</w>
+  </absaspan>
+  <absaspan id=12 senti=1>
+    <w>lyxflyktingar</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=2>
+  <w>Skall</w>
+  <w>vi</w>
+  <absaspan id=13 senti=4 irony>
+    <w>återföra</w>
+    <w>ättestupan</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=14>
+    <w>så</w>
+    <w>man</w>
+    <w>kan</w>
+    <w>frigör</w>
+    <w>pengar</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>dessa</w>
+  </absaspan>
+  <absaspan id=16 senti=1>
+    <w>lyxflyktingar</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>får</w>
+    <w>allt</w>
+    <w>dom</w>
+    <w>pekar</w>
+    <w>på</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=2>
+  <w>Skall</w>
+  <w>man</w>
+  <absaspan id=18 senti=1 irony>
+    <w>gasa</w>
+    <w>ihjäl</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>alla</w>
+    <w>Svenskar</w>
+  </absaspan>
+  <w>,</w>
+  <w>så</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>bostäder</w>
+  <w>åt</w>
+  <absaspan id=20 senti=1>
+    <w>lyxflyktingarna</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=21 senti=1>
+    <w>ockupera</w>
+    <w>vårt</w>
+    <w>land</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

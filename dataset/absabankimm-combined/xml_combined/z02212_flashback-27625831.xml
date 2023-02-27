@@ -1,0 +1,200 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Två</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>muslimer</w>
+    <w>i</w>
+    <w>Sydsvenskan</w>
+  </absaspan>
+  <w>-</w>
+  <w>"</w>
+  <absaspan id=3>
+    <w>Stening</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=4 senti=4>
+    <w>bra</w>
+    <w>"</w>
+  </absaspan>
+  <w>,</w>
+  <w>säger</w>
+  <absaspan id=5>
+    <w>en</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>En</w>
+  <w>intervju</w>
+  <w>,</w>
+  <w>där</w>
+  <w>två</w>
+  <w>svenska</w>
+  <w>muslimer</w>
+  <w>intervjuar</w>
+  <w>varandra</w>
+  <w>.</w>
+  <absaspan id=6>
+    <w>En</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=7 senti=1>
+    <w>fundamentalist</w>
+  </absaspan>
+  <w>och</w>
+  <w>den</w>
+  <w>andre</w>
+  <absaspan id=8>
+    <w>mindre</w>
+    <w>religös</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=9 senti=4>
+    <w>en</w>
+    <w>sundare</w>
+    <w>syn</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=10 senti=1>
+    <w>Fundamentalisten</w>
+  </absaspan>
+  <w>uttrycker</w>
+  <w>sig</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>"</w>
+  <absaspan id=11>
+    <w>Jag</w>
+  </absaspan>
+  <w>kan</w>
+  <absaspan id=12 senti=3>
+    <w>ha</w>
+    <w>förståelse</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>självmordsbobmare</w>
+  </absaspan>
+  <w>i</w>
+  <w>Palestina</w>
+  <w>,</w>
+  <w>Afghanistan</w>
+  <w>,</w>
+  <w>Irak</w>
+  <w>och</w>
+  <w>Somalia</w>
+  <w>,</w>
+  <w>länder</w>
+  <w>där</w>
+  <absaspan id=14>
+    <w>folk</w>
+  </absaspan>
+  <absaspan id=15 senti=1>
+    <w>lider</w>
+  </absaspan>
+  <w>och</w>
+  <w>har</w>
+  <w>sett</w>
+  <w>sina</w>
+  <w>barn</w>
+  <w>dö</w>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=16 senti=1>
+    <w>Bisarrt</w>
+  </absaspan>
+  <w>,</w>
+  <w>så</w>
+  <w>alla</w>
+  <w>ska</w>
+  <w>få</w>
+  <w>spränga</w>
+  <w>sig</w>
+  <w>själva</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=17>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>har</w>
+    <w>det</w>
+    <w>jobbigt</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>och</w>
+  <w>därför</w>
+  <w>sa</w>
+  <w>jag</w>
+  <w>att</w>
+  <absaspan id=19>
+    <w>stening</w>
+  </absaspan>
+  <absaspan id=20 senti=4>
+    <w>är</w>
+    <w>ett</w>
+    <w>bra</w>
+    <w>straff</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>"</w>
+  <absaspan id=21>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=6>
+  <absaspan id=22>
+    <w>Han</w>
+  </absaspan>
+  <w>påpekar</w>
+  <w>även</w>
+  <absaspan id=23 senti=3>
+    <w>inget</w>
+    <w>större</w>
+    <w>"</w>
+    <w>hat</w>
+    <w>"</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>självmordsbombare</w>
+    <w>i</w>
+    <w>Stockholm</w>
+  </absaspan>
+  <w>,</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>att</w>
+  <w>han</w>
+  <w>gjorde</w>
+  <w>det</w>
+  <absaspan id=25 senti=2>
+    <w>på</w>
+    <w>lösa</w>
+    <w>grunder</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+</absadoc>

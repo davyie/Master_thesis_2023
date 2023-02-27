@@ -1,0 +1,113 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <absaspan id=1>
+    <w>Meryem</w>
+    <w>Yebio</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=2 senti=2 source=1>
+    <w>Går</w>
+    <w></w>
+    <w>rasister</w>
+    <w></w>
+    <w>igång</w>
+  </absaspan>
+  <w>på</w>
+  <absaspan id=3>
+    <w>våldtäkt</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Meryem</w>
+  <w>Yebio</w>
+  <w>,</w>
+  <w></w>
+  <w>journalist</w>
+  <w></w>
+  <w>och</w>
+  <w>sjuksköterska</w>
+  <w>,</w>
+  <w>har</w>
+  <w>skrivit</w>
+  <w>ett</w>
+  <w></w>
+  <w>debattinlägg</w>
+  <w></w>
+  <w>i</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Eftersom</w>
+  <absaspan id=4>
+    <w>hon</w>
+  </absaspan>
+  <w>skriver</w>
+  <w>att</w>
+  <absaspan id=5 senti=2>
+    <w>invandrarfientliga</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>åsikter</w>
+  </absaspan>
+  <w>florerar</w>
+  <w>och</w>
+  <w>sprids</w>
+  <w></w>
+  <w>exakt</w>
+  <w>överallt</w>
+  <w></w>
+  <w>,</w>
+  <w>så</w>
+  <absaspan id=7 senti=4>
+    <w>bör</w>
+  </absaspan>
+  <w>ju</w>
+  <w>både</w>
+  <absaspan id=8>
+    <w>anslagstavlan</w>
+    <w>på</w>
+    <w>Coop</w>
+    <w>och</w>
+    <w>Flashback</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>inkluderas</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=10>
+    <w>hennes</w>
+  </absaspan>
+  <absaspan id=11 senti=4 irony>
+    <w>spännande</w>
+    <w>nedslag</w>
+  </absaspan>
+  <w>.</w>
+  <w>Eftersom</w>
+  <w>ingen</w>
+  <w>som</w>
+  <w>skriver</w>
+  <w>på</w>
+  <w>Flashback</w>
+  <w>,</w>
+  <w>men</w>
+  <w>kanske</w>
+  <w>på</w>
+  <w>Coop</w>
+  <w>,</w>
+  <w>får</w>
+  <w>bemöta</w>
+  <w>i</w>
+  <w>,</w>
+  <w>så</w>
+  <w>kan</w>
+  <w>vi</w>
+  <w>väl</w>
+  <w>göra</w>
+  <w>det</w>
+  <w>här</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

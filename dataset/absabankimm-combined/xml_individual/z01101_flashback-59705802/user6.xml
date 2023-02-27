@@ -1,0 +1,253 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Bilden</w>
+    <w>av</w>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>svartnar</w>
+  </absaspan>
+  <w>utomlands</w>
+  <w>-</w>
+  <absaspan id=3>
+    <w>Sverige</w>
+  </absaspan>
+  <w>används</w>
+  <w>som</w>
+  <absaspan id=4 senti=2>
+    <w>varnande</w>
+    <w>exempel</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <absaspan id=5>
+    <w>I</w>
+    <w>utlandet</w>
+  </absaspan>
+  <w>framställs</w>
+  <absaspan id=6>
+    <w>Sverige</w>
+  </absaspan>
+  <w>numera</w>
+  <w>som</w>
+  <w>världskänt</w>
+  <w>för</w>
+  <w>sin</w>
+  <absaspan id=7 senti=5>
+    <w>oerhört</w>
+    <w>generösa</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>flyktingpolitik</w>
+  </absaspan>
+  <absaspan id=9 senti=5 irony>
+    <w>(</w>
+    <w>paradiset</w>
+    <w>nr</w>
+    <w>1</w>
+    <w>)</w>
+  </absaspan>
+  <w>,</w>
+  <w>sina</w>
+  <w>allt</w>
+  <w>fler</w>
+  <absaspan id=10 senti=1>
+    <w>no-go-zoner</w>
+  </absaspan>
+  <w>,</w>
+  <w>de</w>
+  <w>ökade</w>
+  <w>våldtäkterna</w>
+  <w>samt</w>
+  <w>de</w>
+  <absaspan id=11 senti=2>
+    <w>okontrollerbara</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>följderna</w>
+    <w>från</w>
+    <w>invandringen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=13>
+    <w>Sverige</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>en</w>
+  <w>gång</w>
+  <w>i</w>
+  <w>tiden</w>
+  <w>har</w>
+  <w>setts</w>
+  <w>som</w>
+  <w>ett</w>
+  <absaspan id=14 senti=4>
+    <w>bra</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>exempel</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=16 senti=4>
+    <w>ett</w>
+    <w>vällyckat</w>
+    <w>land</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=17 senti=4>
+    <w>god</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>ekonomi</w>
+  </absaspan>
+  <w>och</w>
+  <w>kraftig</w>
+  <w>tillväxt</w>
+  <absaspan id=19 senti=2>
+    <w>mörknar</w>
+    <w>allt</w>
+    <w>mer</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=20>
+    <w>utländska</w>
+    <w>betraktares</w>
+    <w>ögon</w>
+  </absaspan>
+  <w>och</w>
+  <w>ses</w>
+  <w>närmast</w>
+  <w>som</w>
+  <w>ett</w>
+  <absaspan id=21>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=2>
+  <w>på</w>
+  <w>hur</w>
+  <w>det</w>
+  <w>går</w>
+  <w>om</w>
+  <w>"</w>
+  <w>socialismen</w>
+  <w>låter</w>
+  <absaspan id=22>
+    <w>invandringen</w>
+  </absaspan>
+  <absaspan id=23 senti=2>
+    <w>gå</w>
+    <w>för</w>
+    <w>långt</w>
+  </absaspan>
+  <w>"</w>
+  <w>(</w>
+  <w>fritt</w>
+  <w>citerat</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=2>
+  <absaspan id=24>
+    <w>Bilden</w>
+    <w>av</w>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=25 senti=2>
+    <w>är</w>
+  </absaspan>
+  <w>alltså</w>
+  <absaspan id=26 senti=2>
+    <w>tämligen</w>
+  </absaspan>
+  <absaspan id=27 senti=2>
+    <w>negativ</w>
+  </absaspan>
+  <w>i</w>
+  <w>utlandet</w>
+  <absaspan id=28>
+    <w>.</w>
+  </absaspan>
+  <w>Förutom</w>
+  <absaspan id=29 senti=2>
+    <w>uppenbara</w>
+    <w>problem</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=30>
+    <w>brottslighet</w>
+    <w>,</w>
+  </absaspan>
+  <absaspan id=31 senti=2>
+    <w>pensionärsfattigdom</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=33 senti=2>
+    <w>eskalerad</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>bidragspolitik</w>
+  </absaspan>
+  <w>lyfter</w>
+  <absaspan id=35>
+    <w>utländska</w>
+    <w>medier</w>
+  </absaspan>
+  <w>(</w>
+  <w>vilket</w>
+  <w>innebär</w>
+  <w>en</w>
+  <w>stor</w>
+  <w>skillnad</w>
+  <w>gentemot</w>
+  <w>svenska</w>
+  <w>sådana</w>
+  <w>)</w>
+  <w>fram</w>
+  <w>den</w>
+  <absaspan id=36 senti=2>
+    <w>ökade</w>
+    <w>misstron</w>
+  </absaspan>
+  <w>mot</w>
+  <absaspan id=37>
+    <w>den</w>
+    <w>rådande</w>
+    <w>politiken</w>
+  </absaspan>
+  <w>samt</w>
+  <w>att</w>
+  <w>allt</w>
+  <w>fler</w>
+  <absaspan id=38 senti=2>
+    <w>protesterar</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>besluten</w>
+    <w>som</w>
+    <w>leder</w>
+    <w>till</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=40>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=41 senti=2>
+    <w>blir</w>
+    <w>allt</w>
+    <w>mer</w>
+    <w>otryggt</w>
+    <w>och</w>
+    <w>förfallet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

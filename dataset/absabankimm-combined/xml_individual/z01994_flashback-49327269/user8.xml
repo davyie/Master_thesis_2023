@@ -1,0 +1,86 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>SOM-institutet</w>
+  <w>2014</w>
+  <w>:</w>
+  <absaspan id=1>
+    <w>61</w>
+    <w>%</w>
+  </absaspan>
+  <absaspan id=2 senti=2 source=1 target=3>
+    <w>oroade</w>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>flyktinginvandringen</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Tänker</w>
+  <absaspan id=4>
+    <w>SOM-institutet</w>
+  </absaspan>
+  <w>släppa</w>
+  <w>den</w>
+  <absaspan id=5 senti=2>
+    <w>f-cking</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>undersökningen</w>
+  </absaspan>
+  <w>i</w>
+  <w>sin</w>
+  <w>helhet</w>
+  <w>idag</w>
+  <w>eller</w>
+  <w>är</w>
+  <absaspan id=7>
+    <w>spinndoktor</w>
+    <w>Demkers</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>rökridåer</w>
+  </absaspan>
+  <w>det</w>
+  <w>enda</w>
+  <w>som</w>
+  <absaspan id=9>
+    <w>den</w>
+  </absaspan>
+  <absaspan id=10 senti=1 irony>
+    <w>otäcka</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>allmänheten</w>
+  </absaspan>
+  <w>kan</w>
+  <w>anförtros</w>
+  <w>med</w>
+  <absaspan id=12>
+    <w>?</w>
+  </absaspan>
+  <w>Hur</w>
+  <w>har</w>
+  <absaspan id=13 senti=2>
+    <w>flyktingmotståndet</w>
+  </absaspan>
+  <w>utvecklats</w>
+  <w>,</w>
+  <w>eller</w>
+  <w>blev</w>
+  <w>resultatet</w>
+  <w>så</w>
+  <w>obekvämt</w>
+  <w>att</w>
+  <w>man</w>
+  <w>bytte</w>
+  <w>till</w>
+  <w>en</w>
+  <w>helt</w>
+  <w>annan</w>
+  <w>fråga</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

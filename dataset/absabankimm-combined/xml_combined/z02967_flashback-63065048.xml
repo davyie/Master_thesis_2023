@@ -1,0 +1,111 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Ungdomsgäng</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>bråkar</w>
+    <w>i</w>
+    <w>matbutiken</w>
+  </absaspan>
+  <w>-</w>
+  <w>privatpersoner</w>
+  <w>börjar</w>
+  <w>vakta</w>
+  <w>.</w>
+  <w>Borlänge</w>
+  <w>och</w>
+  <w>Sandviken</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Vad</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>-</w>
+  <w>är</w>
+  <w>det</w>
+  <w>Karl</w>
+  <w>och</w>
+  <w>Adam</w>
+  <w>som</w>
+  <w>är</w>
+  <w>ute</w>
+  <w>i</w>
+  <w>farten</w>
+  <w>igen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Och</w>
+  <w>kommer</w>
+  <w>Borlänge</w>
+  <absaspan id=3 senti=2>
+    <w>få</w>
+    <w>bukt</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>detta</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=5>
+    <w>Borlänge</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>är</w>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>stad</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>i</w>
+    <w>fritt</w>
+    <w>fall</w>
+  </absaspan>
+  <w>.</w>
+  <w>Multikultur</w>
+  <w>deluxe</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Har</w>
+  <w>"</w>
+  <w>en</w>
+  <w>dialog</w>
+  <w>"</w>
+  <w>med</w>
+  <w>ungdomarna</w>
+  <w>hjälpt</w>
+  <w>nere</w>
+  <w>i</w>
+  <w>Malmö</w>
+  <w>?</w>
+  <w>Har</w>
+  <w>"</w>
+  <w>fritidsgårdar</w>
+  <w>"</w>
+  <w>hjälpt</w>
+  <w>nere</w>
+  <w>i</w>
+  <w>Malmö</w>
+  <w>?</w>
+  <w>Har</w>
+  <w>"</w>
+  <w>två</w>
+  <w>vakter</w>
+  <w>"</w>
+  <w>hjälpt</w>
+  <w>nere</w>
+  <w>i</w>
+  <w>Malmö</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

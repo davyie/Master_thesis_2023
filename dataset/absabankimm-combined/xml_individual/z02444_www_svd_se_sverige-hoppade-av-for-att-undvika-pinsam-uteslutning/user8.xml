@@ -1,0 +1,760 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Sverige</w>
+  </absaspan>
+  <w>hoppade</w>
+  <w>av</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=2 senti=2 source=1 target=3>
+    <w>undvika</w>
+  </absaspan>
+  <absaspan id=3 senti=2 source=1 target=3>
+    <w>pinsam</w>
+    <w>uteslutning</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>I</w>
+  <w>ett</w>
+  <w>brev</w>
+  <w>till</w>
+  <w>Miljöpartiet</w>
+  <w>nyligen</w>
+  <w>skriver</w>
+  <w>ENQA</w>
+  <w>rakt</w>
+  <w>ut</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>första</w>
+  <w>gången</w>
+  <w>i</w>
+  <w>ENQA</w>
+  <w>:</w>
+  <w>s</w>
+  <w>historia</w>
+  <w>som</w>
+  <w>ett</w>
+  <w>medlemsland</w>
+  <w>går</w>
+  <w>detta</w>
+  <w>öde</w>
+  <w>tillmötes.Jabar</w>
+  <w>Amin</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=4>
+    <w>Utbildningsminister</w>
+    <w>Jan</w>
+    <w>Björklund</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>har</w>
+    <w>lyckats</w>
+    <w>med</w>
+  </absaspan>
+  <w>konststycket</w>
+  <w>ingen</w>
+  <w>annan</w>
+  <w>utbildningsminister</w>
+  <w>i</w>
+  <w>Europa</w>
+  <w>lyckats</w>
+  <w>med</w>
+  <w>,</w>
+  <w>må</w>
+  <w>vara</w>
+  <absaspan id=6 senti=2>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>negativ</w>
+    <w>mening</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=8>
+    <w>Att</w>
+    <w>få</w>
+    <w>sitt</w>
+    <w>land</w>
+    <w>fråntaget</w>
+    <w>medlemskapet</w>
+    <w>i</w>
+    <w>den</w>
+    <w>europeiska</w>
+    <w>organisationen</w>
+    <w>för</w>
+    <w>kvalitetssäkring</w>
+    <w>,</w>
+    <w>ENQA</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Sveriges</w>
+  <w>högskolor</w>
+  <w>och</w>
+  <w>universitet</w>
+  <w>ska</w>
+  <w>präglas</w>
+  <w>av</w>
+  <w>kvalitet</w>
+  <w>,</w>
+  <w>mångfald</w>
+  <w>och</w>
+  <w>tillgänglighet</w>
+  <w>.</w>
+  <absaspan id=9>
+    <w>Ett</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>bra</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>utbildningssystem</w>
+  </absaspan>
+  <w>är</w>
+  <w>avgörande</w>
+  <w>för</w>
+  <w>samhällets</w>
+  <w>förmåga</w>
+  <w>att</w>
+  <w>hantera</w>
+  <w>framtidens</w>
+  <w>utmaningar</w>
+  <w>och</w>
+  <w>möjligheter</w>
+  <absaspan id=12>
+    <w>.</w>
+  </absaspan>
+  <w>Varje</w>
+  <w>högskolepoäng</w>
+  <w>är</w>
+  <w>en</w>
+  <w>investering</w>
+  <w>som</w>
+  <w>studenten</w>
+  <w>gör</w>
+  <w>i</w>
+  <w>sig</w>
+  <w>själv</w>
+  <w>och</w>
+  <w>som</w>
+  <w>vi</w>
+  <w>gemensamt</w>
+  <w>gör</w>
+  <w>i</w>
+  <w>vår</w>
+  <w>framtid</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>måste</w>
+  <w>därför</w>
+  <w>kunna</w>
+  <w>säkerställa</w>
+  <w>att</w>
+  <absaspan id=13>
+    <w>vår</w>
+    <w>högre</w>
+    <w>utbildning</w>
+  </absaspan>
+  <w>står</w>
+  <w>sig</w>
+  <w>i</w>
+  <w>internationell</w>
+  <w>konkurrens</w>
+  <w>och</w>
+  <absaspan id=14 senti=4>
+    <w>håller</w>
+    <w>en</w>
+    <w>hög</w>
+    <w>kvalitet</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>För</w>
+  <w>att</w>
+  <w>säkerställa</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>når</w>
+  <w>de</w>
+  <w>uppställda</w>
+  <w>målen</w>
+  <w>så</w>
+  <w>ska</w>
+  <w>det</w>
+  <w>finnas</w>
+  <absaspan id=16>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>ändamålsenligt</w>
+    <w>kvalitetssäkringssystem</w>
+  </absaspan>
+  <w>.</w>
+  <w>År</w>
+  <w>2009</w>
+  <absaspan id=18 senti=4>
+    <w>togs</w>
+  </absaspan>
+  <absaspan id=19 senti=4>
+    <w>förslag</w>
+  </absaspan>
+  <absaspan id=20 senti=4>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>ett</w>
+    <w>sådant</w>
+    <w>system</w>
+  </absaspan>
+  <absaspan id=22 senti=4>
+    <w>fram</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=23>
+    <w>dåvarande</w>
+    <w>Högskoleverket</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=24>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>var</w>
+  </absaspan>
+  <absaspan id=26 senti=4>
+    <w>gediget</w>
+    <w>och</w>
+    <w>välförankrat</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>bland</w>
+    <w>professionen</w>
+    <w>och</w>
+    <w>studenter</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Den</w>
+  <w>folkpartistiska</w>
+  <w>ledningen</w>
+  <w>på</w>
+  <w>utbildningsdepartementet</w>
+  <w>valde</w>
+  <w>dock</w>
+  <w>att</w>
+  <w>åsidosätta</w>
+  <w>det</w>
+  <w>förslaget</w>
+  <w>.</w>
+  <w>I</w>
+  <w>stället</w>
+  <w>infördes</w>
+  <w>2011</w>
+  <absaspan id=28>
+    <w>ett</w>
+    <w>av</w>
+    <w>utbildningsdepartementet</w>
+    <w>hemmasnickrat</w>
+    <w>kvalitetsutvärderingssystem</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=29 senti=1>
+    <w>var</w>
+    <w>full</w>
+    <w>av</w>
+    <w>brister</w>
+    <w>från</w>
+    <w>början</w>
+    <w>till</w>
+    <w>slut</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>*</w>
+  <w>*</w>
+  <w>Knappt</w>
+  <w>två</w>
+  <w>år</w>
+  <w>senare</w>
+  <w>*</w>
+  <w>*</w>
+  <absaspan id=30 senti=2>
+    <w>fick</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>regeringens</w>
+    <w>system</w>
+    <w>för</w>
+    <w>kvalitetssäkring</w>
+  </absaspan>
+  <absaspan id=32 senti=2>
+    <w>kritik</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=33>
+    <w>det</w>
+    <w>europeiska</w>
+    <w>nätverket</w>
+    <w>för</w>
+    <w>kvalitetssäkring</w>
+    <w>,</w>
+    <w>ENQA</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=34 senti=2>
+    <w>Kritiken</w>
+  </absaspan>
+  <w>består</w>
+  <w>av</w>
+  <w>framför</w>
+  <w>allt</w>
+  <w>tre</w>
+  <w>punkter</w>
+  <w>:</w>
+  <w>att</w>
+  <absaspan id=35>
+    <w>kvalitetsutvärderingssystemet</w>
+    <w>lägger</w>
+  </absaspan>
+  <absaspan id=36 senti=2>
+    <w>för</w>
+    <w>lite</w>
+  </absaspan>
+  <absaspan id=37>
+    <w>vikt</w>
+    <w>vid</w>
+    <w>lärosätenas</w>
+    <w>interna</w>
+    <w>kvalitetsarbete</w>
+  </absaspan>
+  <w>,</w>
+  <w>att</w>
+  <w>kvaliteten</w>
+  <w>inte</w>
+  <w>kan</w>
+  <w>mätas</w>
+  <w>bara</w>
+  <w>med</w>
+  <w>utgångspunkt</w>
+  <w>i</w>
+  <w>examensuppgifterna</w>
+  <w>och</w>
+  <w>att</w>
+  <absaspan id=38>
+    <w>kvalitetsutvärderingssystemet</w>
+  </absaspan>
+  <absaspan id=39 senti=2>
+    <w>inte</w>
+    <w>är</w>
+    <w>tillräckligt</w>
+  </absaspan>
+  <absaspan id=40>
+    <w>självständigt</w>
+    <w>från</w>
+    <w>den</w>
+    <w>politiska</w>
+    <w>nivån</w>
+  </absaspan>
+  <absaspan id=41>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=8>
+  <w>Skräddarsydda</w>
+  <w>kurser</w>
+  <w>i</w>
+  <w>ämnen</w>
+  <w>som</w>
+  <w>intresserar</w>
+  <w>och</w>
+  <w>engagerar</w>
+  <w>både</w>
+  <w>kropp</w>
+  <w>och</w>
+  <w>själ</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>På</w>
+  <w>det</w>
+  <w>senare</w>
+  <w>är</w>
+  <w>ENQA</w>
+  <w>mycket</w>
+  <w>tydlig</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>*</w>
+  <w>*</w>
+  <absaspan id=42>
+    <w>ENQA</w>
+  </absaspan>
+  <w>:</w>
+  <w>s</w>
+  <absaspan id=43 senti=2>
+    <w>kritik</w>
+  </absaspan>
+  <w>*</w>
+  <w>*</w>
+  <w>ledde</w>
+  <w>till</w>
+  <w>att</w>
+  <absaspan id=44>
+    <w>Sverige</w>
+  </absaspan>
+  <w>september</w>
+  <w>2012</w>
+  <absaspan id=45 senti=2>
+    <w>degraderas</w>
+  </absaspan>
+  <w>från</w>
+  <w>"</w>
+  <absaspan id=46 senti=4>
+    <w>fullvärdig</w>
+  </absaspan>
+  <absaspan id=47>
+    <w>medlem</w>
+  </absaspan>
+  <w>"</w>
+  <w>till</w>
+  <w>"</w>
+  <w>medlem</w>
+  <w>under</w>
+  <w>observation</w>
+  <w>"</w>
+  <absaspan id=48>
+    <w>.</w>
+  </absaspan>
+  <w>Universitetskanslersämbetet</w>
+  <w>fick</w>
+  <w>två</w>
+  <w>år</w>
+  <w>på</w>
+  <w>sig</w>
+  <w>att</w>
+  <w>åtgärda</w>
+  <absaspan id=49 senti=2>
+    <w>bristerna</w>
+  </absaspan>
+  <w>,</w>
+  <w>i</w>
+  <w>annat</w>
+  <w>fall</w>
+  <w>väntade</w>
+  <absaspan id=50 senti=2>
+    <w>ytterligare</w>
+    <w>degradering</w>
+  </absaspan>
+  <absaspan id=51>
+    <w>.</w>
+  </absaspan>
+  <w>Eftersom</w>
+  <absaspan id=52>
+    <w>Universitetskanslersämbetet</w>
+  </absaspan>
+  <absaspan id=53 senti=2>
+    <w>inte</w>
+    <w>kunde</w>
+    <w>leva</w>
+    <w>upp</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=54>
+    <w>ENQA</w>
+    <w>:</w>
+    <w>s</w>
+    <w>krav</w>
+  </absaspan>
+  <w>valde</w>
+  <w>myndigheten</w>
+  <w>förra</w>
+  <w>månaden</w>
+  <w>av</w>
+  <w>taktiska</w>
+  <w>skäl</w>
+  <w>att</w>
+  <w>inte</w>
+  <w>ansöka</w>
+  <w>om</w>
+  <w>nytt</w>
+  <w>medlemskap</w>
+  <w>.</w>
+  <absaspan id=55>
+    <w>Myndigheten</w>
+  </absaspan>
+  <w>steg</w>
+  <w>av</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=56 senti=2>
+    <w>undvika</w>
+  </absaspan>
+  <absaspan id=57 senti=2>
+    <w>en</w>
+    <w>pinsam</w>
+    <w>och</w>
+    <w>formell</w>
+    <w>uteslutning</w>
+  </absaspan>
+  <w>.</w>
+  <w>Detta</w>
+  <w>var</w>
+  <w>dock</w>
+  <w>bara</w>
+  <w>formaliteter</w>
+  <w>.</w>
+  <w>Faktum</w>
+  <w>återstår</w>
+  <w>:</w>
+  <w>Sverige</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>längre</w>
+  <w>medlem</w>
+  <w>i</w>
+  <w>europeiska</w>
+  <w>nätverket</w>
+  <w>för</w>
+  <w>kvalitetssäkring</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>I</w>
+  <w>stället</w>
+  <w>för</w>
+  <w>att</w>
+  <w>redogöra</w>
+  <w>för</w>
+  <w>alla</w>
+  <w>dessa</w>
+  <w>fakta</w>
+  <w>skickar</w>
+  <w>regeringen</w>
+  <w>sin</w>
+  <w>universitetskansler</w>
+  <w>att</w>
+  <w>försvara</w>
+  <w>regeringen</w>
+  <w>genom</w>
+  <w>att</w>
+  <w>frisera</w>
+  <w>fakta</w>
+  <w>(</w>
+  <w>Brännpunkt</w>
+  <w>11</w>
+  <w>/</w>
+  <w>3</w>
+  <w>)</w>
+  <absaspan id=58>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=59>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=60 senti=2>
+    <w>är</w>
+    <w>inte</w>
+    <w>seriöst</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>*</w>
+  <w>*</w>
+  <w>I</w>
+  <w>ett</w>
+  <w>brev</w>
+  <w>till</w>
+  <w>*</w>
+  <w>*</w>
+  <w>Miljöpartiet</w>
+  <w>nyligen</w>
+  <w>skriver</w>
+  <w>ENQA</w>
+  <w>rakt</w>
+  <w>ut</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>första</w>
+  <w>gången</w>
+  <w>i</w>
+  <w>ENQA</w>
+  <w>:</w>
+  <w>s</w>
+  <w>historia</w>
+  <w>som</w>
+  <w>ett</w>
+  <w>medlemsland</w>
+  <w>går</w>
+  <w>detta</w>
+  <w>öde</w>
+  <w>tillmötes</w>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=61 senti=1>
+    <w>är</w>
+    <w>klart</w>
+    <w>underkännande</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=62>
+    <w>Björklunds</w>
+    <w>hemmagjorda</w>
+    <w>kvalitetssäkringssystem</w>
+  </absaspan>
+  <absaspan id=63>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=13>
+  <w>I</w>
+  <w>och</w>
+  <w>med</w>
+  <w>förlusten</w>
+  <w>av</w>
+  <w>medlemskapet</w>
+  <w>i</w>
+  <w>ENQA</w>
+  <absaspan id=64 senti=2>
+    <w>fogas</w>
+    <w>ännu</w>
+    <w>ett</w>
+    <w>misslyckande</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=65>
+    <w>regeringens</w>
+  </absaspan>
+  <absaspan id=66 senti=2>
+    <w>andra</w>
+  </absaspan>
+  <absaspan id=67 senti=2>
+    <w>tillkortakommanden</w>
+  </absaspan>
+  <absaspan id=68>
+    <w>på</w>
+    <w>utbildningsområdet</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=69 senti=4>
+    <w>Det</w>
+    <w>är</w>
+    <w>på</w>
+    <w>tiden</w>
+  </absaspan>
+  <absaspan id=70>
+    <w>för</w>
+    <w>Jan</w>
+    <w>Björklund</w>
+    <w>att</w>
+    <w>lyssna</w>
+    <w>på</w>
+    <w>universiteten</w>
+    <w>och</w>
+    <w>högskolorna</w>
+    <w>,</w>
+    <w>att</w>
+    <w>lyssna</w>
+    <w>på</w>
+    <w>lärare</w>
+    <w>och</w>
+    <w>studenter</w>
+    <w>och</w>
+    <w>sluta</w>
+    <w>styra</w>
+    <w>utbildningsväsendet</w>
+    <w>bara</w>
+    <w>baserat</w>
+    <w>på</w>
+    <w>sin</w>
+    <w>egen</w>
+    <w>ideologi</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>JABAR</w>
+  <w>AMIN</w>
+  <w>(</w>
+  <w>MP</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>riksdagsledamot</w>
+  <w>,</w>
+  <w>utbildningspolitisk</w>
+  <w>talesperson</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

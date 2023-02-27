@@ -1,0 +1,128 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Sveriges</w>
+  <w>Nationaldag</w>
+  <w>.</w>
+  <absaspan id=1>
+    <w>Etablissemanget</w>
+  </absaspan>
+  <w>tävlar</w>
+  <w>i</w>
+  <w>att</w>
+  <w>hata</w>
+  <w>Sverige</w>
+  <w>mest</w>
+  <w>,</w>
+  <w>vem</w>
+  <w>vinner</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>tog</w>
+  <w>nu</w>
+  <w>några</w>
+  <w>exempel</w>
+  <w>där</w>
+  <absaspan id=2>
+    <w>man</w>
+  </absaspan>
+  <absaspan id=3 senti=1>
+    <w>hetsar</w>
+    <w>mot</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>och</w>
+  <w>där</w>
+  <w>man</w>
+  <w>endast</w>
+  <w>förespråkar</w>
+  <w>mångkultur</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>på</w>
+  <w>Sveriges</w>
+  <w>nationaldag</w>
+  <w>.</w>
+  <w>Finns</w>
+  <w>garanterat</w>
+  <w>många</w>
+  <w>fler</w>
+  <w>exempel</w>
+  <w>och</w>
+  <w>twitteruttaladen</w>
+  <w>från</w>
+  <absaspan id=4>
+    <w>kultureliten</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>där</w>
+    <w>man</w>
+    <w>tävlar</w>
+    <w>om</w>
+    <w>att</w>
+    <w>hata</w>
+    <w>mot</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>vilken</w>
+  <w>är</w>
+  <w>den</w>
+  <w>värsta</w>
+  <w>hittills</w>
+  <w>?</w>
+  <w>Metro</w>
+  <w>och</w>
+  <w>tycker</w>
+  <w>jag</w>
+  <w>leder</w>
+  <w>hittills</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Metro</w>
+  <w>:</w>
+  <w>Fem</w>
+  <w>skäl</w>
+  <w>att</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>fira</w>
+  <w>Sveriges</w>
+  <w>nationaldag</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Nyheter24</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>.</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Expressen</w>
+  <w>:</w>
+  <w>Montelius</w>
+  <w>:</w>
+  <w>Vart</w>
+  <w>är</w>
+  <w>vi</w>
+  <w>på</w>
+  <w>väg</w>
+  <w>,</w>
+  <w>Sverige</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>DN</w>
+  <w>.</w>
+</absapar>
+</absadoc>

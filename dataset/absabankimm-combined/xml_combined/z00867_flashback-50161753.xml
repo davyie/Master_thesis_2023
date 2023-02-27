@@ -1,0 +1,65 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Hemvändande</w>
+  <w>flykting</w>
+  <w>har</w>
+  <w>tagit</w>
+  <w>Ebola</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>En</w>
+  <w>hemvändande</w>
+  <w>flykting</w>
+  <w>har</w>
+  <absaspan id=1 senti=2>
+    <w>dragit</w>
+    <w>hit</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Ebola</w>
+    <w>till</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=3>
+    <w>Säkerheten</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>har</w>
+    <w>långt</w>
+    <w>ifrån</w>
+    <w>varit</w>
+    <w>den</w>
+    <w>som</w>
+    <w>var</w>
+    <w>i</w>
+    <w>USA</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=5>
+    <w>Risken</w>
+  </absaspan>
+  <w>är</w>
+  <w>nu</w>
+  <absaspan id=6 senti=2>
+    <w>överhängande</w>
+  </absaspan>
+  <w>för</w>
+  <w>de</w>
+  <w>som</w>
+  <w>varit</w>
+  <w>i</w>
+  <w>närheten</w>
+  <w>av</w>
+  <w>denne</w>
+  <w>person</w>
+  <w>.</w>
+</absapar>
+</absadoc>

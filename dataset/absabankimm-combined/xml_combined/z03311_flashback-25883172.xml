@@ -1,0 +1,59 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>Svensk</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=2>
+    <w>dasshumor</w>
+  </absaspan>
+  <absaspan id=3 senti=2 target=1>
+    <w>kränkande</w>
+  </absaspan>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>flyktingbarn</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Fagerstaposten</w>
+  <w>rapporterar</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Någon</w>
+  <w>som</w>
+  <w>vet</w>
+  <w>vem</w>
+  <w>denna</w>
+  <absaspan id=4 senti=1>
+    <w>batikhäxa</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=5 senti=2>
+    <w>reagerat</w>
+  </absaspan>
+  <w>är</w>
+  <w>och</w>
+  <w>som</w>
+  <w>har</w>
+  <w>själva</w>
+  <w>tidningen</w>
+  <w>och</w>
+  <w>kan</w>
+  <w>posta</w>
+  <absaspan id=6>
+    <w>resterande</w>
+    <w>bilder</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=7 senti=2>
+    <w>kränker</w>
+  </absaspan>
+  <w>ensamkommande</w>
+  <w>?</w>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

@@ -1,0 +1,746 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <absaspan id=1>
+    <w>Hökmark</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=2>
+    <w>C</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=3>
+    <w>L</w>
+  </absaspan>
+  <absaspan id=4 senti=2 source=1 target=2>
+    <w>sviker</w>
+    <w>sitt</w>
+    <w>demokratiska</w>
+    <w>uppdrag</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Regeringen</w>
+  <w>har</w>
+  <w>under</w>
+  <absaspan id=5>
+    <w>Transportstyrelsens</w>
+  </absaspan>
+  <absaspan id=6 senti=1>
+    <w>fatala</w>
+    <w>it-skandal</w>
+  </absaspan>
+  <w>visat</w>
+  <w>på</w>
+  <w>en</w>
+  <absaspan id=7 senti=2>
+    <w>oförmåga</w>
+  </absaspan>
+  <w>att</w>
+  <w>hantera</w>
+  <w>en</w>
+  <w>för</w>
+  <w>Sverige</w>
+  <absaspan id=8 senti=1>
+    <w>svår</w>
+    <w>säkerhetskris</w>
+  </absaspan>
+  <w>.</w>
+  <w>Nu</w>
+  <w>behöver</w>
+  <w>Centerpartiet</w>
+  <w>och</w>
+  <w>Liberalerna</w>
+  <w>bära</w>
+  <w>sitt</w>
+  <w>ansvar</w>
+  <w>och</w>
+  <w>rösta</w>
+  <w>bort</w>
+  <absaspan id=9 senti=1>
+    <w>denna</w>
+    <w>skadliga</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>regeringspolitik</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>skriver</w>
+  <w>Gunnar</w>
+  <w>Hökmark</w>
+  <w>(</w>
+  <w>M</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=11>
+    <w>Regeringens</w>
+    <w>oförmåga</w>
+    <w>att</w>
+    <w>hantera</w>
+    <w>situationen</w>
+    <w>efter</w>
+    <w>it-skandalen</w>
+  </absaspan>
+  <absaspan id=12 senti=1>
+    <w>är</w>
+    <w>lika</w>
+    <w>allvarlig</w>
+    <w>som</w>
+    <w>haveriet</w>
+    <w>i</w>
+    <w>sig</w>
+  </absaspan>
+  <w>.</w>
+  <w>Trots</w>
+  <w>att</w>
+  <w>Säpo</w>
+  <w>redan</w>
+  <w>hösten</w>
+  <w>2015</w>
+  <w>varnade</w>
+  <w>myndigheten</w>
+  <w>för</w>
+  <w>att</w>
+  <w>den</w>
+  <w>begick</w>
+  <w>brott</w>
+  <w>mot</w>
+  <w>svensk</w>
+  <w>säkerhet</w>
+  <w>hände</w>
+  <w>inget</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>kan</w>
+  <w>inte</w>
+  <absaspan id=13 senti=2>
+    <w>bortförklaras</w>
+  </absaspan>
+  <w>med</w>
+  <w>en</w>
+  <w>persons</w>
+  <w>bristande</w>
+  <w>ansvarstagande</w>
+  <w>utan</w>
+  <w>är</w>
+  <w>en</w>
+  <w>del</w>
+  <w>av</w>
+  <w>ett</w>
+  <w>mönster</w>
+  <w>av</w>
+  <absaspan id=14 senti=2>
+    <w>senfärdighet</w>
+  </absaspan>
+  <w>,</w>
+  <w>passivitet</w>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=15 senti=2>
+    <w>handfallenhet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Under</w>
+  <w>den</w>
+  <w>stora</w>
+  <w>flykting</w>
+  <w>-</w>
+  <w>och</w>
+  <w>invandrarvågen</w>
+  <w>2015</w>
+  <w>agerade</w>
+  <w>regeringen</w>
+  <w>utifrån</w>
+  <w>helt</w>
+  <w>andra</w>
+  <w>prognoser</w>
+  <w>för</w>
+  <w>flyktinginvandringen</w>
+  <w>än</w>
+  <w>vad</w>
+  <w>ansvariga</w>
+  <w>myndigheter</w>
+  <w>hade</w>
+  <w>gett</w>
+  <w>.</w>
+  <w>In</w>
+  <w>i</w>
+  <w>det</w>
+  <w>sista</w>
+  <w>talade</w>
+  <w>statsministern</w>
+  <w>–</w>
+  <w>mot</w>
+  <w>befintlig</w>
+  <w>information</w>
+  <w>i</w>
+  <w>regeringskansliet</w>
+  <w>–</w>
+  <w>om</w>
+  <w>att</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>fanns</w>
+  <w>några</w>
+  <w>begränsningar</w>
+  <w>för</w>
+  <w>svenskt</w>
+  <w>flyktingmottagande</w>
+  <w>.</w>
+  <w>Först</w>
+  <w>när</w>
+  <absaspan id=16 senti=1>
+    <w>situationen</w>
+    <w>blev</w>
+    <w>ohållbar</w>
+  </absaspan>
+  <w>(</w>
+  <w>med</w>
+  <absaspan id=17 senti=1>
+    <w>allvarliga</w>
+    <w>konsekvenser</w>
+  </absaspan>
+  <w>för</w>
+  <w>svenskt</w>
+  <w>flyktingmottagande</w>
+  <w>och</w>
+  <w>integration</w>
+  <w>)</w>
+  <absaspan id=18 senti=2>
+    <w>panikbromsade</w>
+  </absaspan>
+  <w>regeringen</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=19>
+    <w>Framväxten</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>av</w>
+    <w>kriminalitet</w>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>utanförskapsområden</w>
+  </absaspan>
+  <w>dit</w>
+  <w>den</w>
+  <w>svenska</w>
+  <w>rättsstaten</w>
+  <w>inte</w>
+  <w>når</w>
+  <w>är</w>
+  <w>också</w>
+  <w>en</w>
+  <w>del</w>
+  <w>i</w>
+  <w>detta</w>
+  <w>.</w>
+  <absaspan id=22>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=23 senti=2>
+    <w>drabbat</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>människor</w>
+    <w>som</w>
+    <w>flytt</w>
+    <w>från</w>
+    <w>våld</w>
+    <w>och</w>
+    <w>förtryck</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=25 senti=1>
+    <w>utgör</w>
+    <w>ett</w>
+    <w>hot</w>
+    <w>mot</w>
+    <w>hela</w>
+    <w>vårt</w>
+    <w>samhälles</w>
+    <w>trygghet</w>
+    <w>och</w>
+    <w>stabilitet</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=26>
+    <w>Regeringen</w>
+  </absaspan>
+  <absaspan id=27 senti=3>
+    <w>accepterar</w>
+  </absaspan>
+  <w>likväl</w>
+  <absaspan id=28>
+    <w>att</w>
+    <w>polisen</w>
+    <w>runt</w>
+    <w>om</w>
+    <w>i</w>
+    <w>det</w>
+    <w>svenska</w>
+    <w>samhället</w>
+    <w>saknar</w>
+    <w>ledning</w>
+    <w>,</w>
+    <w>resurser</w>
+    <w>,</w>
+    <w>organisation</w>
+    <w>och</w>
+    <w>stöd</w>
+    <w>för</w>
+    <w>att</w>
+    <w>med</w>
+    <w>kraft</w>
+    <w>bekämpa</w>
+    <w>denna</w>
+    <w>kriminalitet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Samma</w>
+  <absaspan id=29 senti=2>
+    <w>oförmåga</w>
+  </absaspan>
+  <w>präglar</w>
+  <absaspan id=30>
+    <w>arbetet</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=32 senti=1>
+    <w>våldsbejakande</w>
+    <w>extremism</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=33>
+    <w>Verksamheten</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=34 senti=2>
+    <w>icke-fungerande</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=35 senti=2>
+    <w>ingen</w>
+    <w>trovärdig</w>
+    <w>väg</w>
+    <w>framåt</w>
+  </absaspan>
+  <w>har</w>
+  <w>stakats</w>
+  <w>ut</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>saknas</w>
+  <w>kompetens</w>
+  <w>och</w>
+  <w>relevanta</w>
+  <w>insatser</w>
+  <w>för</w>
+  <w>att</w>
+  <w>bekämpa</w>
+  <w>extremismen</w>
+  <w>.</w>
+  <absaspan id=36 senti=2>
+    <w>Oförmågan</w>
+  </absaspan>
+  <w>leder</w>
+  <w>till</w>
+  <w>en</w>
+  <absaspan id=37 senti=2>
+    <w>valhänthet</w>
+  </absaspan>
+  <w>i</w>
+  <w>att</w>
+  <w>hantera</w>
+  <w>utresande</w>
+  <w>och</w>
+  <w>hemvändande</w>
+  <w>jihadister</w>
+  <w>.</w>
+  <w>De</w>
+  <w>som</w>
+  <w>har</w>
+  <w>deltagit</w>
+  <w>i</w>
+  <w>IS</w>
+  <w>/</w>
+  <w>Daesh</w>
+  <w>krigföring</w>
+  <w>deltar</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>krig</w>
+  <w>också</w>
+  <w>mot</w>
+  <w>det</w>
+  <w>svenska</w>
+  <w>samhället</w>
+  <w>och</w>
+  <w>bör</w>
+  <w>behandlas</w>
+  <w>därefter</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>gäller</w>
+  <w>straff</w>
+  <w>,</w>
+  <w>rätten</w>
+  <w>till</w>
+  <w>pass</w>
+  <w>och</w>
+  <w>återvändande</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=38 senti=2>
+    <w>Oförmågan</w>
+    <w>att</w>
+    <w>hantera</w>
+    <w>kriser</w>
+  </absaspan>
+  <w>och</w>
+  <w>ta</w>
+  <w>ansvar</w>
+  <w>för</w>
+  <w>säkerheten</w>
+  <w>i</w>
+  <w>det</w>
+  <w>svenska</w>
+  <w>samhället</w>
+  <w>har</w>
+  <w>sina</w>
+  <w>mest</w>
+  <w>uppenbara</w>
+  <w>konsekvenser</w>
+  <w>i</w>
+  <w>försvars</w>
+  <w>-</w>
+  <w>och</w>
+  <w>säkerhetspolitiken</w>
+  <w>.</w>
+  <w>Verkligheten</w>
+  <w>når</w>
+  <w>inte</w>
+  <w>fram</w>
+  <w>till</w>
+  <w>regeringen</w>
+  <w>.</w>
+  <w>Sedan</w>
+  <w>2004</w>
+  <w>har</w>
+  <w>Sverige</w>
+  <w>på</w>
+  <w>felaktiga</w>
+  <w>grunder</w>
+  <w>nedrustat</w>
+  <w>medan</w>
+  <absaspan id=39>
+    <w>Ryssland</w>
+  </absaspan>
+  <w>har</w>
+  <w>upprustat</w>
+  <w>och</w>
+  <w>utvecklat</w>
+  <absaspan id=40 senti=1>
+    <w>en</w>
+    <w>allt</w>
+    <w>mer</w>
+    <w>aggressiv</w>
+    <w>säkerhets</w>
+    <w>-</w>
+    <w>och</w>
+    <w>utrikespolitik</w>
+  </absaspan>
+  <w>.</w>
+  <w>Invasionen</w>
+  <w>av</w>
+  <w>Georgien</w>
+  <w>och</w>
+  <w>av</w>
+  <w>Ukraina</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>uttryck</w>
+  <w>för</w>
+  <w>detta</w>
+  <w>liksom</w>
+  <w>pågående</w>
+  <w>desinformations</w>
+  <w>-</w>
+  <w>och</w>
+  <w>cyberkrigföring</w>
+  <w>mot</w>
+  <w>den</w>
+  <w>Europeiska</w>
+  <w>unionen</w>
+  <w>,</w>
+  <w>europeiska</w>
+  <w>länder</w>
+  <w>inklusive</w>
+  <w>Sverige</w>
+  <w>liksom</w>
+  <w>USA</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Likväl</w>
+  <w>fortsätter</w>
+  <w>regeringen</w>
+  <w>minska</w>
+  <w>försvarets</w>
+  <w>förmåga</w>
+  <w>.</w>
+  <absaspan id=41>
+    <w>Innevarande</w>
+    <w>försvarsbeslut</w>
+  </absaspan>
+  <w>innebär</w>
+  <w>i</w>
+  <w>sig</w>
+  <absaspan id=42 senti=1>
+    <w>en</w>
+    <w>dramatisk</w>
+    <w>försvagning</w>
+  </absaspan>
+  <w>och</w>
+  <w>är</w>
+  <w>dessutom</w>
+  <w>underfinansierat</w>
+  <w>.</w>
+  <w>Regeringens</w>
+  <w>linje</w>
+  <w>inför</w>
+  <w>detta</w>
+  <w>är</w>
+  <w>att</w>
+  <w>invänta</w>
+  <w>Försvarsberedningen</w>
+  <w>till</w>
+  <w>2020</w>
+  <w>för</w>
+  <w>att</w>
+  <w>därefter</w>
+  <w>ta</w>
+  <w>ett</w>
+  <w>eventuellt</w>
+  <w>beslut</w>
+  <w>,</w>
+  <w>som</w>
+  <w>om</w>
+  <w>ingen</w>
+  <w>verklighet</w>
+  <w>fanns</w>
+  <w>utanför</w>
+  <w>regeringskansliets</w>
+  <w>beredningsprocesser</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>SvD</w>
+  <w>:</w>
+  <w>s</w>
+  <w>NYHETSBREV</w>
+  <w>VALET</w>
+  <w>2018</w>
+  <w>–</w>
+  <w>veckans</w>
+  <w>viktigaste</w>
+  <w>fördjupningar</w>
+  <w>och</w>
+  <w>granskningar</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Möjligheten</w>
+  <w>att</w>
+  <w>få</w>
+  <w>en</w>
+  <w>bättre</w>
+  <w>politik</w>
+  <w>genom</w>
+  <w>en</w>
+  <w>alliansbudget</w>
+  <w>borde</w>
+  <w>vara</w>
+  <w>viktigare</w>
+  <w>än</w>
+  <w>att</w>
+  <absaspan id=43 senti=4 irony>
+    <w>hålla</w>
+  </absaspan>
+  <absaspan id=44>
+    <w>regeringen</w>
+    <w>Löfven</w>
+  </absaspan>
+  <absaspan id=45 senti=4>
+    <w>under</w>
+  </absaspan>
+  <absaspan id=46 senti=4>
+    <w>armarna</w>
+    <w>.</w>
+  </absaspan>
+  <w>Men</w>
+  <w>framförallt</w>
+  <w>:</w>
+  <absaspan id=47>
+    <w>Centerpartiets</w>
+  </absaspan>
+  <absaspan id=48>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=49>
+    <w>Liberalernas</w>
+  </absaspan>
+  <absaspan id=50 senti=2>
+    <w>rädsla</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=51>
+    <w>att</w>
+    <w>Sverigedemokraterna</w>
+    <w>med</w>
+    <w>sina</w>
+    <w>röster</w>
+    <w>skulle</w>
+    <w>ge</w>
+    <w>stöd</w>
+    <w>för</w>
+    <w>en</w>
+    <w>alliansbudget</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=52 senti=2>
+    <w>inte</w>
+    <w>ett</w>
+    <w>acceptabelt</w>
+    <w>motiv</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>låta</w>
+  <absaspan id=53 senti=1>
+    <w>en</w>
+    <w>dysfunktionell</w>
+  </absaspan>
+  <absaspan id=54>
+    <w>regering</w>
+  </absaspan>
+  <w>ha</w>
+  <w>ansvaret</w>
+  <w>för</w>
+  <w>svensk</w>
+  <w>säkerhet</w>
+  <w>.</w>
+  <absaspan id=55>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=56 senti=4>
+    <w>gynnar</w>
+  </absaspan>
+  <w>inte</w>
+  <w>bara</w>
+  <absaspan id=57>
+    <w>Sverigedemokraterna</w>
+  </absaspan>
+  <w>utan</w>
+  <w>innebär</w>
+  <w>att</w>
+  <w>man</w>
+  <w>gör</w>
+  <w>Sveriges</w>
+  <w>säkerhet</w>
+  <w>underordnad</w>
+  <w>partitaktiska</w>
+  <w>överväganden</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>att</w>
+  <w>svika</w>
+  <w>ett</w>
+  <w>grundläggande</w>
+  <w>demokratiskt</w>
+  <w>ansvar</w>
+  <absaspan id=58 senti=1>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=11>
+  <w>Gunnar</w>
+  <w>Hökmark</w>
+  <w>(</w>
+  <w>M</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Europaparlamentariker</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

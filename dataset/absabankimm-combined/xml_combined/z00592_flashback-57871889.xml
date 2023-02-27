@@ -1,0 +1,42 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=1 target=1>
+    <w>Våldsamt</w>
+    <w>gäng</w>
+  </absaspan>
+  <w>drar</w>
+  <w>runt</w>
+  <w>i</w>
+  <w>Ronneby</w>
+  <w>och</w>
+  <absaspan id=2 senti=1 target=2>
+    <w>misshandlar</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ytterst</w>
+  <w>kortfattat</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vilka</w>
+  <w>kan</w>
+  <w>det</w>
+  <w>här</w>
+  <w>vara</w>
+  <w>?</w>
+  <w>Kommer</w>
+  <absaspan id=3>
+    <w>de</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=4 senti=1>
+    <w>får</w>
+    <w>härja</w>
+    <w>fritt</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

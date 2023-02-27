@@ -1,0 +1,68 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Kvällens</w>
+  <w>Aktuellt</w>
+  <w>28</w>
+  <w>/</w>
+  <w>6</w>
+  <w>:</w>
+  <w>Rashid</w>
+  <w>Musas</w>
+  <w>aggressiva</w>
+  <w>svar</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ordförande</w>
+  <w>Rashid</w>
+  <w>Musa</w>
+  <w>från</w>
+  <w>Unga</w>
+  <w>Muslimer</w>
+  <w>fick</w>
+  <w>under</w>
+  <w>debatten</w>
+  <w>i</w>
+  <w>kvällens</w>
+  <w>Aktuellt</w>
+  <w>frågan</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Svarade</w>
+  <w>han</w>
+  <w>på</w>
+  <w>frågan</w>
+  <w>?</w>
+  <w>Varför</w>
+  <w>blev</w>
+  <w>han</w>
+  <w>passivt</w>
+  <w>aggressiv</w>
+  <w>?</w>
+  <w>Har</w>
+  <w>hans</w>
+  <w>förbund</w>
+  <w>något</w>
+  <w>att</w>
+  <w>dölja</w>
+  <w>?</w>
+  <w>Tror</w>
+  <w>ni</w>
+  <absaspan id=1>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>sympatiserar</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=3 senti=4>
+    <w>våldsbejakande</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>extremism</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

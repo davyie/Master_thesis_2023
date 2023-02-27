@@ -1,0 +1,648 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Kräv</w>
+  <w>billigare</w>
+  <w>och</w>
+  <absaspan id=1 senti=4 target=1>
+    <w>bättre</w>
+  </absaspan>
+  <w>krogbesök</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=2>
+    <w>Sänkt</w>
+    <w>moms</w>
+    <w>på</w>
+    <w>dagens</w>
+    <w>rätt</w>
+    <w>vid</w>
+    <w>restaurangbesök</w>
+  </absaspan>
+  <w>är</w>
+  <w>ett</w>
+  <w>av</w>
+  <w>flera</w>
+  <w>förslag</w>
+  <w>från</w>
+  <w>alliansregeringen</w>
+  <w>som</w>
+  <absaspan id=3 senti=4>
+    <w>ger</w>
+    <w>bättre</w>
+    <w>förutsättningar</w>
+    <w>för</w>
+    <w>unga</w>
+    <w>att</w>
+    <w>snabbare</w>
+    <w>komma</w>
+    <w>in</w>
+    <w>på</w>
+    <w>arbetsmarknaden</w>
+  </absaspan>
+  <w>.</w>
+  <w>Till</w>
+  <w>syftet</w>
+  <w>hör</w>
+  <w>att</w>
+  <w>skapa</w>
+  <w>fler</w>
+  <w>jobb</w>
+  <w>i</w>
+  <w>den</w>
+  <w>ungdomstäta</w>
+  <w>restaurangbranschen</w>
+  <w>,</w>
+  <w>främja</w>
+  <w>företagande</w>
+  <w>och</w>
+  <w>stärka</w>
+  <w>konkurrensen</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+  <w>Samtidigt</w>
+  <w>ger</w>
+  <w>det</w>
+  <w>också</w>
+  <w>tillfälle</w>
+  <w>för</w>
+  <w>oss</w>
+  <w>konsumenter</w>
+  <w>att</w>
+  <w>stå</w>
+  <w>på</w>
+  <w>oss</w>
+  <w>och</w>
+  <w>ställa</w>
+  <w>krav</w>
+  <w>på</w>
+  <w>att</w>
+  <w>restaurangerna</w>
+  <w>sänker</w>
+  <w>priserna</w>
+  <w>på</w>
+  <w>dagens</w>
+  <w>lunch</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Men</w>
+  <w>räkna</w>
+  <w>inte</w>
+  <w>med</w>
+  <w>att</w>
+  <w>det</w>
+  <w>går</w>
+  <w>utan</w>
+  <w>motstånd</w>
+  <absaspan id=4 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Vi</w>
+  <w>måste</w>
+  <w>alla</w>
+  <w>utöva</w>
+  <w>vår</w>
+  <w>makt</w>
+  <w>som</w>
+  <w>konsumenter</w>
+  <w>och</w>
+  <w>kräva</w>
+  <w>både</w>
+  <w>billigare</w>
+  <w>och</w>
+  <w>bättre</w>
+  <w>måltider</w>
+  <w>.</w>
+  <absaspan id=5>
+    <w>”</w>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>skulle</w>
+    <w>prioritera</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>anställningar</w>
+  </absaspan>
+  <w>snarare</w>
+  <w>än</w>
+  <w>prissänkningar</w>
+  <w>”</w>
+  <w>,</w>
+  <w>säger</w>
+  <w>till</w>
+  <w>exempel</w>
+  <absaspan id=8>
+    <w>stockholmskrögaren</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>Anna</w>
+    <w>Lallerstedt</w>
+  </absaspan>
+  <w>i</w>
+  <w>Svenska</w>
+  <w>Dagbladet</w>
+  <w>(</w>
+  <w>13</w>
+  <w>/</w>
+  <w>4</w>
+  <w>)</w>
+  <w>.</w>
+  <w>Varför</w>
+  <w>utesluter</w>
+  <w>det</w>
+  <w>ena</w>
+  <w>det</w>
+  <w>andra</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Jag</w>
+  <w>–</w>
+  <w>och</w>
+  <w>många</w>
+  <w>restaurangägare</w>
+  <w>jag</w>
+  <w>talat</w>
+  <w>med</w>
+  <w>–</w>
+  <w>tror</w>
+  <w>just</w>
+  <w>tvärtom</w>
+  <w>.</w>
+  <absaspan id=10>
+    <w>Lägre</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>priser</w>
+    <w>på</w>
+    <w>måltiderna</w>
+  </absaspan>
+  <w>ger</w>
+  <w>ju</w>
+  <w>fler</w>
+  <absaspan id=12 senti=4>
+    <w>möjlighet</w>
+  </absaspan>
+  <w>till</w>
+  <w>mer</w>
+  <w>luncher</w>
+  <w>på</w>
+  <w>restauranger</w>
+  <w>.</w>
+  <absaspan id=13>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=14 senti=4>
+    <w>skapar</w>
+    <w>bättre</w>
+    <w>drag</w>
+    <w>i</w>
+    <w>den</w>
+    <w>arbetsintensiva</w>
+    <w>restaurangbranschen</w>
+  </absaspan>
+  <w>och</w>
+  <w>ett</w>
+  <w>växande</w>
+  <w>behov</w>
+  <w>av</w>
+  <w>fler</w>
+  <w>anställningar</w>
+  <w>,</w>
+  <w>ofta</w>
+  <w>för</w>
+  <w>unga</w>
+  <w>människor</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>finns</w>
+  <w>inget</w>
+  <w>automatiskt</w>
+  <w>motsatsförhållande</w>
+  <w>mellan</w>
+  <w>lägre</w>
+  <w>priser</w>
+  <w>och</w>
+  <w>fler</w>
+  <w>anställda</w>
+  <w>–</w>
+  <w>tvärtom</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Just</w>
+  <absaspan id=15>
+    <w>att</w>
+    <w>momslättnader</w>
+    <w>för</w>
+    <w>restaurang</w>
+    <w>och</w>
+    <w>cateringtjänster</w>
+    <w>ger</w>
+    <w>nya</w>
+    <w>jobb</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=16 senti=3>
+    <w>ett</w>
+    <w>avgörande</w>
+    <w>motiv</w>
+  </absaspan>
+  <w>för</w>
+  <w>skattereformen</w>
+  <w>.</w>
+  <w>När</w>
+  <absaspan id=17 senti=5>
+    <w>det</w>
+    <w>går</w>
+    <w>bra</w>
+    <w>för</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>och</w>
+  <w>vår</w>
+  <w>ekonomi</w>
+  <w>växer</w>
+  <w>starkt</w>
+  <absaspan id=18 senti=5>
+    <w>är</w>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>många</w>
+    <w>branscher</w>
+    <w>och</w>
+    <w>intressen</w>
+  </absaspan>
+  <absaspan id=20 senti=5>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=21 senti=5>
+    <w>önskar</w>
+    <w>sig</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>skattesänkningar</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>riksdagens</w>
+  <w>skatteutskott</w>
+  <absaspan id=23 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=25 senti=4>
+    <w>prioritera</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>skattereformer</w>
+    <w>som</w>
+    <w>ger</w>
+    <w>jobb</w>
+    <w>och</w>
+    <w>som</w>
+    <w>ökar</w>
+    <w>människors</w>
+    <w>egenmakt</w>
+  </absaspan>
+  <w>.</w>
+  <w>När</w>
+  <w>allt</w>
+  <w>fler</w>
+  <w>söker</w>
+  <w>sig</w>
+  <w>till</w>
+  <w>arbetsmarknaden</w>
+  <w>till</w>
+  <w>följd</w>
+  <w>av</w>
+  <w>att</w>
+  <absaspan id=27 senti=4>
+    <w>det</w>
+    <w>lönar</w>
+    <w>sig</w>
+    <w>bättre</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>arbeta</w>
+  </absaspan>
+  <w>är</w>
+  <w>det</w>
+  <absaspan id=29 senti=3>
+    <w>viktigt</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>att</w>
+    <w>det</w>
+    <w>finns</w>
+    <w>företag</w>
+    <w>som</w>
+    <w>startar</w>
+    <w>och</w>
+    <w>växer</w>
+  </absaspan>
+  <w>runt</w>
+  <w>om</w>
+  <w>i</w>
+  <w>vårt</w>
+  <w>land</w>
+  <w>så</w>
+  <w>att</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>fler</w>
+  <w>jobb</w>
+  <w>att</w>
+  <w>söka</w>
+  <w>och</w>
+  <w>att</w>
+  <w>arbetsmarknaden</w>
+  <absaspan id=31 senti=4>
+    <w>fungerar</w>
+    <w>bättre</w>
+  </absaspan>
+  <w>.</w>
+  <w>Här</w>
+  <w>har</w>
+  <absaspan id=32>
+    <w>företagen</w>
+    <w>inom</w>
+    <w>tjänstesektorn</w>
+  </absaspan>
+  <absaspan id=33 senti=5>
+    <w>stor</w>
+    <w>potential</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Sänkt</w>
+  <w>moms</w>
+  <w>för</w>
+  <w>det</w>
+  <w>som</w>
+  <w>är</w>
+  <w>särskilt</w>
+  <w>arbetsintensiva</w>
+  <w>tjänster</w>
+  <w>bidrar</w>
+  <w>till</w>
+  <w>fler</w>
+  <w>jobb</w>
+  <w>,</w>
+  <w>minskar</w>
+  <w>arbetslösheten</w>
+  <w>och</w>
+  <w>ökar</w>
+  <w>sysselsättningen</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>gäller</w>
+  <w>särskilt</w>
+  <w>för</w>
+  <w>restauranger</w>
+  <w>,</w>
+  <w>där</w>
+  <w>en</w>
+  <w>momssänkning</w>
+  <w>kan</w>
+  <w>väntas</w>
+  <w>skapa</w>
+  <w>många</w>
+  <w>nya</w>
+  <w>jobb</w>
+  <w>.</w>
+  <w>För</w>
+  <w>det</w>
+  <w>är</w>
+  <w>när</w>
+  <w>priserna</w>
+  <w>sänks</w>
+  <w>som</w>
+  <absaspan id=34>
+    <w>fler</w>
+  </absaspan>
+  <absaspan id=35 senti=4>
+    <w>får</w>
+    <w>möjlighet</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>att</w>
+    <w>oftare</w>
+    <w>besöka</w>
+    <w>vanliga</w>
+    <w>restauranger</w>
+  </absaspan>
+  <w>och</w>
+  <w>det</w>
+  <w>är</w>
+  <w>då</w>
+  <w>som</w>
+  <absaspan id=37 senti=5>
+    <w>det</w>
+    <w>verkliga</w>
+    <w>lyftet</w>
+  </absaspan>
+  <w>för</w>
+  <w>jobb</w>
+  <w>och</w>
+  <w>sysselsättning</w>
+  <w>i</w>
+  <w>restaurangnäringen</w>
+  <w>kommer</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Samtidigt</w>
+  <absaspan id=38 senti=4>
+    <w>ger</w>
+  </absaspan>
+  <w>också</w>
+  <absaspan id=39>
+    <w>reformen</w>
+  </absaspan>
+  <w>inte</w>
+  <w>minst</w>
+  <w>mindre</w>
+  <w>restauranger</w>
+  <absaspan id=40 senti=4>
+    <w>möjligheten</w>
+  </absaspan>
+  <absaspan id=41 senti=4>
+    <w>till</w>
+    <w>fler</w>
+    <w>gäster</w>
+  </absaspan>
+  <w>och</w>
+  <w>att</w>
+  <w>det</w>
+  <w>ges</w>
+  <absaspan id=42 senti=4>
+    <w>bättre</w>
+    <w>förutsättningar</w>
+  </absaspan>
+  <w>att</w>
+  <w>starta</w>
+  <w>nya</w>
+  <w>restauranger</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <absaspan id=43 senti=3>
+    <w>viktigt</w>
+  </absaspan>
+  <w>också</w>
+  <w>för</w>
+  <w>konkurrensen</w>
+  <w>och</w>
+  <w>för</w>
+  <w>utbudet</w>
+  <w>av</w>
+  <w>olika</w>
+  <w>restauranger</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Vi</w>
+  <w>får</w>
+  <w>nu</w>
+  <w>alla</w>
+  <w>större</w>
+  <w>möjlighet</w>
+  <w>att</w>
+  <w>använda</w>
+  <w>oss</w>
+  <w>av</w>
+  <w>restauranger</w>
+  <w>som</w>
+  <w>väljer</w>
+  <w>att</w>
+  <w>utnyttja</w>
+  <w>momssänkningen</w>
+  <w>till</w>
+  <w>att</w>
+  <w>sänka</w>
+  <w>priset</w>
+  <w>på</w>
+  <w>restaurangnotan</w>
+  <w>.</w>
+  <w>Med</w>
+  <w>ökad</w>
+  <w>konsumentmakt</w>
+  <w>blir</w>
+  <w>det</w>
+  <w>också</w>
+  <w>möjligt</w>
+  <w>att</w>
+  <w>förena</w>
+  <w>kostnadsmedvetenhet</w>
+  <w>med</w>
+  <w>ökad</w>
+  <w>kostmedvetenhet</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Mindre</w>
+  <w>restauranger</w>
+  <w>–</w>
+  <w>till</w>
+  <w>exempel</w>
+  <w>med</w>
+  <w>fokus</w>
+  <w>på</w>
+  <w>sunda</w>
+  <w>,</w>
+  <w>goda</w>
+  <w>,</w>
+  <w>ekologiska</w>
+  <w>och</w>
+  <w>närproducerade</w>
+  <w>råvaror</w>
+  <w>–</w>
+  <w>får</w>
+  <w>nu</w>
+  <w>möjligheten</w>
+  <w>att</w>
+  <w>bygga</w>
+  <w>en</w>
+  <w>bredare</w>
+  <w>kundbas</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <absaspan id=44 senti=5>
+    <w>Det</w>
+    <w>är</w>
+    <w>utmärkt</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=45>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=46>
+    <w>alla</w>
+    <w>–</w>
+    <w>var</w>
+    <w>och</w>
+    <w>en</w>
+    <w>–</w>
+    <w>använder</w>
+    <w>regeringens</w>
+    <w>reformer</w>
+    <w>till</w>
+    <w>att</w>
+    <w>hävda</w>
+    <w>vår</w>
+    <w>konsumentmakt</w>
+  </absaspan>
+  <w>på</w>
+  <w>ett</w>
+  <w>både</w>
+  <w>kostnadsmedvetet</w>
+  <w>och</w>
+  <w>kostmedvetet</w>
+  <w>sätt</w>
+  <w>.</w>
+  <absaspan id=47>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=48 senti=5>
+    <w>mår</w>
+  </absaspan>
+  <absaspan id=49>
+    <w>vi</w>
+    <w>alla</w>
+  </absaspan>
+  <absaspan id=50 senti=5>
+    <w>mycket</w>
+  </absaspan>
+  <absaspan id=51 senti=5>
+    <w>bättre</w>
+    <w>av</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>vore</w>
+  <w>dagens</w>
+  <w>rätt</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Henrik</w>
+  <w>von</w>
+  <w>Sydow</w>
+  <w>.</w>
+</absapar>
+</absadoc>

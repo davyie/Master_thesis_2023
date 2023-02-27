@@ -1,0 +1,304 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1 senti=1 target=2>
+    <w>Stor</w>
+    <w>skandal</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=2>
+    <w>hur</w>
+    <w>färdtjänsten</w>
+    <w>fungerar</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=3>
+    <w>Nyanlända</w>
+    <w>är</w>
+    <w>chaufförer</w>
+  </absaspan>
+  <w>!</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <absaspan id=4 senti=2>
+    <w>fungerar</w>
+    <w>sällan</w>
+    <w>bra</w>
+  </absaspan>
+  <w>.</w>
+  <w>Åker</w>
+  <w>ofta</w>
+  <w>med</w>
+  <w>en</w>
+  <absaspan id=5>
+    <w>kompis</w>
+  </absaspan>
+  <w>som</w>
+  <w>har</w>
+  <w>färdtjänst</w>
+  <w>pga</w>
+  <absaspan id=6 senti=1>
+    <w>fobier</w>
+  </absaspan>
+  <w>.</w>
+  <w>Oftast</w>
+  <w>är</w>
+  <w>det</w>
+  <w>Sverigetaxi</w>
+  <w>som</w>
+  <w>sköter</w>
+  <w>färdtjänsten</w>
+  <w>här</w>
+  <w>i</w>
+  <w>stan</w>
+  <w>.</w>
+  <w>Huh</w>
+  <w>,</w>
+  <absaspan id=7 senti=1>
+    <w>fruktansvärt</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=8>
+    <w>alla</w>
+    <w>grava</w>
+    <w>förseningar</w>
+    <w>och</w>
+    <w>felkörningar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>En</w>
+  <w>gång</w>
+  <w>rattade</w>
+  <w>en</w>
+  <absaspan id=9>
+    <w>Nordafrikan</w>
+  </absaspan>
+  <w>fordonet</w>
+  <w>helt</w>
+  <w>fel</w>
+  <w>och</w>
+  <w>han</w>
+  <w>kunde</w>
+  <w>inte</w>
+  <w>kommunisera</w>
+  <w>med</w>
+  <w>oss</w>
+  <w>och</w>
+  <w>han</w>
+  <w>ringde</w>
+  <w>inte</w>
+  <w>centralen</w>
+  <absaspan id=10 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Istället</w>
+  <absaspan id=11 senti=2>
+    <w>tjabbade</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>telefonen</w>
+  </absaspan>
+  <w>hela</w>
+  <w>tiden</w>
+  <w>tills</w>
+  <w>vi</w>
+  <w>vände</w>
+  <w>mot</w>
+  <w>en</w>
+  <w>förort</w>
+  <w>.</w>
+  <w>Väl</w>
+  <w>framme</w>
+  <w>fick</w>
+  <w>hans</w>
+  <w>polare</w>
+  <w>hoppa</w>
+  <w>in</w>
+  <w>och</w>
+  <w>köra</w>
+  <w>oss</w>
+  <w>hem</w>
+  <w>!</w>
+  <w>!</w>
+  <absaspan id=15 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Förseningar</w>
+  <w>på</w>
+  <w>en</w>
+  <w>halvtimma</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>ovanligt</w>
+  <w>.</w>
+  <w>Detta</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>att</w>
+  <w>nyanlända</w>
+  <w>;</w>
+  <w>ofta</w>
+  <absaspan id=16>
+    <w>Nordafrikaner</w>
+  </absaspan>
+  <w>får</w>
+  <w>jobb</w>
+  <w>genom</w>
+  <w>att</w>
+  <w>visa</w>
+  <w>upp</w>
+  <w>en</w>
+  <w>matsedel</w>
+  <w>från</w>
+  <w>Västsahara</w>
+  <w>ungefär</w>
+  <absaspan id=17 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>På</w>
+  <absaspan id=18 senti=2>
+    <w>knackigt</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>språk</w>
+  </absaspan>
+  <w>har</w>
+  <w>vissa</w>
+  <w>meddelat</w>
+  <w>att</w>
+  <w>de</w>
+  <w>inte</w>
+  <w>ens</w>
+  <w>har</w>
+  <w>uppehållstillståndet</w>
+  <w>klart</w>
+  <w>(</w>
+  <w>!</w>
+  <w>)</w>
+  <w>En</w>
+  <w>annan</w>
+  <w>gång</w>
+  <w>fick</w>
+  <w>vi</w>
+  <w>tillkalla</w>
+  <w>bärgare</w>
+  <w>för</w>
+  <w>att</w>
+  <w>chauffören</w>
+  <w>hade</w>
+  <w>kört</w>
+  <w>fast</w>
+  <w>.</w>
+  <w>.</w>
+  <w>-</w>
+  <w>problem</w>
+  <w>:</w>
+  <w>dragen</w>
+  <w>handbroms</w>
+  <w>.</w>
+  <w>Därav</w>
+  <w>"</w>
+  <absaspan id=20 senti=2>
+    <w>fastkörningen</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+  <w>Variationen</w>
+  <w>är</w>
+  <w>alltså</w>
+  <w>stor</w>
+  <w>men</w>
+  <w>om</w>
+  <w>man</w>
+  <w>inte</w>
+  <w>hinner</w>
+  <w>pga</w>
+  <w>förseningar</w>
+  <w>och</w>
+  <absaspan id=21>
+    <w>måste</w>
+    <w>bomma</w>
+    <w>en</w>
+    <w>körning</w>
+  </absaspan>
+  <w>så</w>
+  <absaspan id=22 senti=2>
+    <w>riskerar</w>
+    <w>de</w>
+    <w>ingenting</w>
+  </absaspan>
+  <w>.</w>
+  <w>Man</w>
+  <absaspan id=23 senti=4>
+    <w>ställer</w>
+    <w>upp</w>
+    <w>för</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=24>
+    <w>få</w>
+    <w>in</w>
+    <w>dessa</w>
+    <w>gemytliga</w>
+    <w>människor</w>
+    <w>i</w>
+    <w>arbetslivet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <absaspan id=25>
+    <w>Jag</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=26 senti=4>
+    <w>inte</w>
+    <w>rasist</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=27>
+    <w>nyanlända</w>
+    <w>chaufförer</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=28 senti=4>
+    <w>ofta</w>
+    <w>gemytliga</w>
+    <w>och</w>
+    <w>härliga</w>
+    <w>,</w>
+    <w>glada</w>
+    <w>och</w>
+    <w>pratsamma</w>
+  </absaspan>
+  <w>trots</w>
+  <w>att</w>
+  <w>ingen</w>
+  <w>förstår</w>
+  <w>vad</w>
+  <w>de</w>
+  <w>säger</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>ser</w>
+  <w>ni</w>
+  <w>vad</w>
+  <w>som</w>
+  <w>är</w>
+  <w>diskussionsunderlaget</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

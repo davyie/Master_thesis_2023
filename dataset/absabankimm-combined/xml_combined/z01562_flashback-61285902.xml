@@ -1,0 +1,220 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Rickard</w>
+    <w>Olsson</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>insinuerar</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=3>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=4 senti=1 target=3 source=1>
+    <w>är</w>
+    <w>ett</w>
+    <w>rasistiskt</w>
+    <w>parti</w>
+  </absaspan>
+  <w>(</w>
+  <w>Sommarkväll</w>
+  <w>,</w>
+  <w>SVT</w>
+  <w>,</w>
+  <w>22</w>
+  <w>/</w>
+  <w>7</w>
+  <w>-</w>
+  <w>17</w>
+  <w>)</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Återigen</w>
+  <w>har</w>
+  <w>en</w>
+  <w>journalist</w>
+  <w>,</w>
+  <w>den</w>
+  <w>här</w>
+  <w>gången</w>
+  <w>inom</w>
+  <w>public</w>
+  <w>service</w>
+  <w>,</w>
+  <w>godtyckligt</w>
+  <w>använt</w>
+  <w>ordet</w>
+  <w>"</w>
+  <w>rasist</w>
+  <w>"</w>
+  <w>utan</w>
+  <w>att</w>
+  <w>närmare</w>
+  <w>förklara</w>
+  <w>vad</w>
+  <w>man</w>
+  <w>menar</w>
+  <w>med</w>
+  <w>det</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>var</w>
+  <w>i</w>
+  <w>gårdagens</w>
+  <w>avsnitt</w>
+  <w>av</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>som</w>
+  <w>programledaren</w>
+  <w>Rickard</w>
+  <w>Olsson</w>
+  <w>frågade</w>
+  <w>Stefan</w>
+  <w>Löfven</w>
+  <w>om</w>
+  <w>skälet</w>
+  <w>till</w>
+  <w>att</w>
+  <w>Sverigedemokraterna</w>
+  <w>växt</w>
+  <w>så</w>
+  <w>mycket</w>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=5>
+    <w>svenska</w>
+    <w>folket</w>
+  </absaspan>
+  <absaspan id=6 senti=1>
+    <w>blivit</w>
+    <w>mer</w>
+    <w>rasistiska</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Frågan</w>
+  <w>kan</w>
+  <w>ju</w>
+  <w>ha</w>
+  <w>ställts</w>
+  <w>med</w>
+  <w>anledning</w>
+  <w>av</w>
+  <w>att</w>
+  <absaspan id=8>
+    <w>Stefan</w>
+    <w>Löfven</w>
+  </absaspan>
+  <w>tidigare</w>
+  <w>kallat</w>
+  <absaspan id=9>
+    <w>Sverigedemokraterna</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=10 senti=1>
+    <w>ett</w>
+    <w>rasistiskt</w>
+    <w>parti</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=11>
+    <w>att</w>
+    <w>som</w>
+    <w>programledare</w>
+    <w>inom</w>
+    <w>public</w>
+    <w>service</w>
+    <w>använda</w>
+    <w>det</w>
+    <w>ordet</w>
+    <w>utan</w>
+    <w>att</w>
+    <w>nämna</w>
+    <w>varför</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>kan</w>
+    <w>nog</w>
+    <w>vara</w>
+    <w>vilseledande</w>
+  </absaspan>
+  <w>för</w>
+  <w>TV-tittarna</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Klippet</w>
+  <w>finns</w>
+  <w>på</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>och</w>
+  <w>startar</w>
+  <w>ungefär</w>
+  <w>08</w>
+  <w>:</w>
+  <w>24</w>
+  <w>in</w>
+  <w>i</w>
+  <w>programmet</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Tror</w>
+  <w>ni</w>
+  <w>journalister</w>
+  <w>kommer</w>
+  <w>använda</w>
+  <w>ordet</w>
+  <w>"</w>
+  <absaspan id=13 senti=1>
+    <w>rasistiskt</w>
+  </absaspan>
+  <w>"</w>
+  <w>när</w>
+  <w>man</w>
+  <w>talar</w>
+  <w>om</w>
+  <w>Sverigedemokraterna</w>
+  <w>inför</w>
+  <w>valet</w>
+  <w>2018</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Själv</w>
+  <w>har</w>
+  <w>jag</w>
+  <w>haft</w>
+  <w>en</w>
+  <w>bild</w>
+  <w>av</w>
+  <w>att</w>
+  <w>ordet</w>
+  <w>inte</w>
+  <w>används</w>
+  <w>lika</w>
+  <w>ofta</w>
+  <w>längre</w>
+  <w>eftersom</w>
+  <w>fler</w>
+  <w>nu</w>
+  <w>verkar</w>
+  <w>känna</w>
+  <w>till</w>
+  <w>dess</w>
+  <w>faktiska</w>
+  <w>innebörd</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,140 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Hundra</w>
+    <w>musiker</w>
+  </absaspan>
+  <w>spelar</w>
+  <absaspan id=2 senti=2 target=3 source=1>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>rasism</w>
+  </absaspan>
+  <w>i</w>
+  <w>Göteborg</w>
+  <w>ikväll</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>"</w>
+  <w>Ikväll</w>
+  <w>samlas</w>
+  <w>23</w>
+  <w>olika</w>
+  <w>band</w>
+  <w>i</w>
+  <w>Göteborg</w>
+  <w>för</w>
+  <w>att</w>
+  <w>tillsammans</w>
+  <absaspan id=4 senti=4>
+    <w>manifestera</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>ett</w>
+    <w>mångkulturellt</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=7 senti=2>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>främlingsfientlighet</w>
+    <w>och</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>"</w>
+  <w>I</w>
+  <w>samband</w>
+  <w>med</w>
+  <w>galan</w>
+  <w>släpps</w>
+  <w>Andra</w>
+  <w>Generationen</w>
+  <w>nya</w>
+  <w>singel</w>
+  <w>"</w>
+  <w>Europa</w>
+  <w>"</w>
+  <w>och</w>
+  <w>intäkterna</w>
+  <w>går</w>
+  <w>till</w>
+  <w>Stiftelsens</w>
+  <w>Expos</w>
+  <w>arbete</w>
+  <w>mot</w>
+  <w>intolerans</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>.</w>
+  <w>:</w>
+  <absaspan id=9>
+    <w>Folk</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>upplever</w>
+  </absaspan>
+  <w>en</w>
+  <absaspan id=11>
+    <w>maktlöshet</w>
+    <w>inför</w>
+    <w>den</w>
+    <w>rasism</w>
+    <w>som</w>
+    <w>breder</w>
+    <w>ut</w>
+    <w>sig</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>det</w>
+  <absaspan id=12 senti=4>
+    <w>finns</w>
+    <w>oerhört</w>
+    <w>många</w>
+    <w>sätt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=13>
+    <w>engagera</w>
+    <w>sig</w>
+    <w>på</w>
+  </absaspan>
+  <w>,</w>
+  <w>menar</w>
+  <absaspan id=14>
+    <w>Alexander</w>
+    <w>Goldman</w>
+  </absaspan>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Är</w>
+  <absaspan id=15>
+    <w>detta</w>
+  </absaspan>
+  <w>en</w>
+  <absaspan id=16 senti=3>
+    <w>bra</w>
+    <w>idé</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

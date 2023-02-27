@@ -1,0 +1,56 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Hets</w>
+  <w>mot</w>
+  <w>folkgrupp</w>
+  <w>&</w>
+  <w>skolområde</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Hello</w>
+  <w>,</w>
+  <w>så</w>
+  <w>jag</w>
+  <w>undrar</w>
+  <w>bara</w>
+  <w>lite</w>
+  <w>snabbt</w>
+  <w>om</w>
+  <w>det</w>
+  <w>kan</w>
+  <w>ses</w>
+  <w>som</w>
+  <w>hets</w>
+  <w>mot</w>
+  <w>folkgrupp</w>
+  <w>att</w>
+  <w>ha</w>
+  <w>på</w>
+  <w>sig</w>
+  <w>en</w>
+  <w>Landser</w>
+  <w>t-shirt</w>
+  <w>och</w>
+  <w>bära</w>
+  <w>ett</w>
+  <w>järnkors</w>
+  <w>på</w>
+  <w>skolområde</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Ursäkta</w>
+  <w>om</w>
+  <absaspan id=1>
+    <w>frågan</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=2 senti=2>
+    <w>lite</w>
+    <w>dum</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

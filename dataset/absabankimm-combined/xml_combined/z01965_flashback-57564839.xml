@@ -1,0 +1,132 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Londons</w>
+    <w>nya</w>
+    <w>muslimska</w>
+    <w>borgmästare</w>
+  </absaspan>
+  <absaspan id=2 senti=1 target=3 source=1>
+    <w>förbjuder</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>reklam</w>
+    <w>som</w>
+    <w>visar</w>
+    <w>"</w>
+    <w>osunda</w>
+    <w>kroppsideal</w>
+    <w>"</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4>
+    <w>Londons</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>muslimska</w>
+    <w>borgmästare</w>
+  </absaspan>
+  <w>har</w>
+  <w>redan</w>
+  <w>börjat</w>
+  <w>implementera</w>
+  <w>sin</w>
+  <absaspan id=6 senti=2>
+    <w>kulturimperialistiska</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>agenda</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=8>
+    <w>Han</w>
+  </absaspan>
+  <absaspan id=9 senti=1>
+    <w>har</w>
+    <w>förbjudit</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>offentlig</w>
+    <w>reklam</w>
+    <w>i</w>
+    <w>London</w>
+    <w>där</w>
+    <w>lättklädda</w>
+    <w>kvinnor</w>
+    <w>visar</w>
+    <w>hud</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Detta</w>
+  <w>förbud</w>
+  <absaspan id=11 senti=2>
+    <w>lindar</w>
+    <w>han</w>
+    <w>in</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=12>
+    <w>en</w>
+    <w>feministisk</w>
+    <w>slöja</w>
+  </absaspan>
+  <w>med</w>
+  <w>att</w>
+  <w>mindre</w>
+  <w>attraktiva</w>
+  <w>kvinnor</w>
+  <w>kan</w>
+  <w>känna</w>
+  <w>sig</w>
+  <w>mindre</w>
+  <w>attraktiva</w>
+  <w>om</w>
+  <w>de</w>
+  <w>konstant</w>
+  <w>ser</w>
+  <w>attraktiva</w>
+  <w>kvinnor</w>
+  <w>på</w>
+  <w>reklampelare</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Den</w>
+  <absaspan id=13 senti=2>
+    <w>islamistiska</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>agendan</w>
+  </absaspan>
+  <w>sprider</w>
+  <w>sig</w>
+  <w>nu</w>
+  <w>med</w>
+  <absaspan id=15 senti=1>
+    <w>alarmerande</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>fart</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Vad</w>
+  <w>anser</w>
+  <w>vi</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>?</w>
+  <w>Ordet</w>
+  <w>är</w>
+  <w>fritt</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

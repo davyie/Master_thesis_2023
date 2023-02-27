@@ -1,0 +1,730 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Även</w>
+  <absaspan id=1>
+    <w>kvinnor</w>
+    <w>som</w>
+    <w>tar</w>
+    <w>av</w>
+    <w>slöjan</w>
+  </absaspan>
+  <absaspan id=2 senti=5 target=1>
+    <w>får</w>
+    <w>vårt</w>
+    <w>stöd</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Feministiskt</w>
+    <w>initiativ</w>
+  </absaspan>
+  <absaspan id=4 senti=5>
+    <w>står</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>en</w>
+    <w>konsekvent</w>
+    <w>feminism</w>
+  </absaspan>
+  <w>.</w>
+  <w>Kvinnor</w>
+  <w>har</w>
+  <w>en</w>
+  <w>universell</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>leva</w>
+  <w>fritt</w>
+  <w>från</w>
+  <w>mäns</w>
+  <w>våld</w>
+  <w>,</w>
+  <w>oavsett</w>
+  <w>val</w>
+  <w>av</w>
+  <w>klädsel</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Därför</w>
+  <absaspan id=6 senti=5>
+    <w>stödjer</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>vi</w>
+  </absaspan>
+  <w>både</w>
+  <absaspan id=8>
+    <w>hijabuppropet</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=9>
+    <w>slöjprotesten</w>
+    <w>som</w>
+    <w>nu</w>
+    <w>pågår</w>
+    <w>i</w>
+    <w>Iran</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=10 senti=1>
+    <w>Förtrycket</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>kvinnor</w>
+  </absaspan>
+  <w>grundar</w>
+  <w>sig</w>
+  <w>på</w>
+  <w>en</w>
+  <w>global</w>
+  <w>föreställning</w>
+  <w>om</w>
+  <w>att</w>
+  <w>män</w>
+  <w>har</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>kontrollera</w>
+  <w>kvinnors</w>
+  <w>sexualitet</w>
+  <absaspan id=12>
+    <w>.</w>
+  </absaspan>
+  <w>I</w>
+  <w>Sverige</w>
+  <absaspan id=13 senti=1>
+    <w>utsätts</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>kvinnor</w>
+    <w>som</w>
+    <w>tar</w>
+    <w>på</w>
+    <w>sig</w>
+    <w>slöjan</w>
+  </absaspan>
+  <absaspan id=15 senti=1>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=16 senti=1>
+    <w>våld</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>i</w>
+  <w>Islamiska</w>
+  <w>Republiken</w>
+  <w>Iran</w>
+  <absaspan id=17 senti=1>
+    <w>utsätts</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>kvinnor</w>
+    <w>som</w>
+    <w>tar</w>
+    <w>av</w>
+    <w>sig</w>
+    <w>slöjan</w>
+  </absaspan>
+  <absaspan id=19 senti=1>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=20 senti=1>
+    <w>våld</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>båda</w>
+  <w>fallen</w>
+  <absaspan id=21 senti=1>
+    <w>kränks</w>
+  </absaspan>
+  <w>kvinnors</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>bestämma</w>
+  <w>över</w>
+  <w>sin</w>
+  <w>egen</w>
+  <w>sexualitet</w>
+  <w>genom</w>
+  <w>att</w>
+  <w>kläs</w>
+  <w>av</w>
+  <w>eller</w>
+  <w>kläs</w>
+  <w>på</w>
+  <w>,</w>
+  <w>antingen</w>
+  <w>av</w>
+  <w>staten</w>
+  <w>eller</w>
+  <w>av</w>
+  <w>medborgare</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>I</w>
+  <w>augusti</w>
+  <w>förra</w>
+  <w>året</w>
+  <w>utlyste</w>
+  <w>till</w>
+  <w>exempel</w>
+  <w>Foujan</w>
+  <w>Rouzbeh</w>
+  <w>,</w>
+  <w>Fatima</w>
+  <w>Doubakil</w>
+  <w>och</w>
+  <w>Nabila</w>
+  <w>Abdul</w>
+  <w>Fattah</w>
+  <w>ett</w>
+  <w>så</w>
+  <w>kallat</w>
+  <w>”</w>
+  <w>hijabupprop</w>
+  <w>”</w>
+  <w>.</w>
+  <w>Uppropet</w>
+  <w>var</w>
+  <absaspan id=22 senti=5>
+    <w>en</w>
+    <w>manifestation</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>kvinnors</w>
+    <w>rätt</w>
+    <w>att</w>
+    <w>bära</w>
+    <w>slöja</w>
+  </absaspan>
+  <w>,</w>
+  <w>utan</w>
+  <w>att</w>
+  <w>utsättas</w>
+  <w>för</w>
+  <w>mäns</w>
+  <w>våld</w>
+  <absaspan id=24>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>Manifestationen</w>
+  <w>väckte</w>
+  <w>stora</w>
+  <w>rubriker</w>
+  <w>och</w>
+  <absaspan id=25 senti=1>
+    <w>hätska</w>
+    <w>debatter</w>
+  </absaspan>
+  <w>såväl</w>
+  <w>i</w>
+  <w>offentliga</w>
+  <w>rum</w>
+  <w>som</w>
+  <w>i</w>
+  <w>sociala</w>
+  <w>medier</w>
+  <w>,</w>
+  <w>precis</w>
+  <w>som</w>
+  <w>den</w>
+  <w>aktuella</w>
+  <w>”</w>
+  <w>slöjprotesten</w>
+  <w>”</w>
+  <w>nu</w>
+  <w>gör</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Slöjprotesten</w>
+  <w>är</w>
+  <w>en</w>
+  <w>kampanj</w>
+  <w>där</w>
+  <absaspan id=26>
+    <w>iranska</w>
+    <w>kvinnor</w>
+  </absaspan>
+  <w>tar</w>
+  <w>av</w>
+  <w>sig</w>
+  <w>slöjan</w>
+  <w>i</w>
+  <absaspan id=27 senti=1>
+    <w>protest</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>den</w>
+    <w>islamiska</w>
+    <w>regimens</w>
+    <w>slöjtvång</w>
+  </absaspan>
+  <w>och</w>
+  <w>laddar</w>
+  <w>upp</w>
+  <w>dem</w>
+  <w>på</w>
+  <w>Facebook-sidan</w>
+  <w>Stealthy</w>
+  <w>Freedom</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Bland</w>
+  <absaspan id=29>
+    <w>kritikerna</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=30>
+    <w>hijabuppropet</w>
+  </absaspan>
+  <w>förra</w>
+  <w>året</w>
+  <w>fanns</w>
+  <w>de</w>
+  <w>som</w>
+  <w>menade</w>
+  <w>att</w>
+  <w>uppropet</w>
+  <absaspan id=31 senti=2>
+    <w>var</w>
+    <w>kontraproduktivt</w>
+  </absaspan>
+  <w>,</w>
+  <w>då</w>
+  <absaspan id=32>
+    <w>slöjan</w>
+  </absaspan>
+  <w>enligt</w>
+  <w>dem</w>
+  <w>är</w>
+  <absaspan id=33 senti=1>
+    <w>kvinnoförtryckande</w>
+    <w>i</w>
+    <w>sig</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=34>
+    <w>Fi</w>
+  </absaspan>
+  <absaspan id=35 senti=1>
+    <w>anklagades</w>
+    <w>för</w>
+    <w>att</w>
+    <w>svika</w>
+    <w>de</w>
+    <w>kvinnor</w>
+    <w>som</w>
+    <w>tvingas</w>
+    <w>beslöja</w>
+    <w>sig</w>
+    <w>runt</w>
+    <w>om</w>
+    <w>i</w>
+    <w>världen</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>.</w>
+  </absaspan>
+  <w>Kritikerna</w>
+  <w>menade</w>
+  <w>att</w>
+  <absaspan id=37 senti=1>
+    <w>hatbrott</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>beslöjade</w>
+    <w>kvinnor</w>
+  </absaspan>
+  <w>snarare</w>
+  <w>var</w>
+  <absaspan id=39 senti=3>
+    <w>en</w>
+    <w>reaktion</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=40>
+    <w>muslimskt</w>
+    <w>kvinnoförtryck</w>
+  </absaspan>
+  <w>-</w>
+  <w>tar</w>
+  <w>man</w>
+  <w>på</w>
+  <w>sig</w>
+  <absaspan id=41 senti=1>
+    <w>en</w>
+    <w>patriarkal</w>
+    <w>förtryckarsymbol</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=42>
+    <w>slöjan</w>
+  </absaspan>
+  <w>får</w>
+  <w>man</w>
+  <w>räkna</w>
+  <w>med</w>
+  <w>reaktioner</w>
+  <w>från</w>
+  <w>omgivningen</w>
+  <w>,</w>
+  <w>lydde</w>
+  <w>resonemanget</w>
+  <absaspan id=43>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=8>
+  <w>På</w>
+  <w>så</w>
+  <w>vis</w>
+  <w>flyttar</w>
+  <w>dessa</w>
+  <absaspan id=44 senti=1>
+    <w>kritiker</w>
+  </absaspan>
+  <w>fokus</w>
+  <w>från</w>
+  <w>själva</w>
+  <w>våldsbrottet</w>
+  <w>till</w>
+  <w>brottsoffrets</w>
+  <w>klädsel</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <absaspan id=45 senti=1>
+    <w>en</w>
+    <w>klassisk</w>
+    <w>härskarteknik</w>
+  </absaspan>
+  <w>,</w>
+  <w>nämligen</w>
+  <absaspan id=46 senti=1>
+    <w>skam</w>
+    <w>-</w>
+    <w>och</w>
+    <w>skuldbeläggning</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=47>
+    <w>offren</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=48 senti=1>
+    <w>får</w>
+    <w>”</w>
+    <w>skylla</w>
+    <w>sig</w>
+    <w>själva</w>
+  </absaspan>
+  <w>"</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=49>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=50 senti=1>
+    <w>provocerar</w>
+  </absaspan>
+  <absaspan id=51>
+    <w>män</w>
+  </absaspan>
+  <w>genom</w>
+  <w>sin</w>
+  <w>klädstil</w>
+  <absaspan id=52>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=9>
+  <w>Retoriken</w>
+  <w>känner</w>
+  <w>vi</w>
+  <w>igen</w>
+  <w>från</w>
+  <absaspan id=53 senti=1>
+    <w>den</w>
+    <w>förlegade</w>
+    <w>syn</w>
+  </absaspan>
+  <w>som</w>
+  <w>fortfarande</w>
+  <w>finns</w>
+  <w>på</w>
+  <w>våldtäktsoffer</w>
+  <w>med</w>
+  <w>”</w>
+  <w>för</w>
+  <w>korta</w>
+  <w>kjolar</w>
+  <w>”</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Till</w>
+  <w>skillnad</w>
+  <w>från</w>
+  <w>kritikerna</w>
+  <w>av</w>
+  <w>hijabuppropet</w>
+  <w>anser</w>
+  <w>Fi</w>
+  <w>att</w>
+  <w>det</w>
+  <w>ena</w>
+  <w>inte</w>
+  <w>utesluter</w>
+  <w>det</w>
+  <w>andra</w>
+  <w>:</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>kvinnor</w>
+  <w>som</w>
+  <w>tvingas</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>på</w>
+  <w>sig</w>
+  <w>slöjan</w>
+  <w>och</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>kvinnor</w>
+  <w>som</w>
+  <w>tvingas</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>av</w>
+  <w>sig</w>
+  <w>slöjan</w>
+  <w>,</w>
+  <w>och</w>
+  <w>i</w>
+  <w>båda</w>
+  <w>fallen</w>
+  <absaspan id=54 senti=1>
+    <w>kränks</w>
+    <w>kvinnors</w>
+    <w>mänskliga</w>
+    <w>rättigheter</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Det</w>
+  <w>är</w>
+  <w>två</w>
+  <w>sidor</w>
+  <w>av</w>
+  <w>samma</w>
+  <w>mynt</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <absaspan id=55>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=56 senti=1>
+    <w>tar</w>
+    <w>ställning</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=57>
+    <w>alla</w>
+    <w>former</w>
+    <w>och</w>
+    <w>grader</w>
+    <w>av</w>
+    <w>patriarkalt</w>
+    <w>våld</w>
+  </absaspan>
+  <w>,</w>
+  <w>oavsett</w>
+  <w>om</w>
+  <w>det</w>
+  <w>sker</w>
+  <w>i</w>
+  <w>religionens</w>
+  <w>,</w>
+  <w>kulturens</w>
+  <w>eller</w>
+  <w>politikens</w>
+  <w>namn</w>
+  <w>.</w>
+  <w>Kvinnors</w>
+  <w>rättigheter</w>
+  <w>är</w>
+  <w>mänskliga</w>
+  <w>rättigheter</w>
+  <w>,</w>
+  <w>och</w>
+  <w>mänskliga</w>
+  <w>rättigheter</w>
+  <w>är</w>
+  <w>universella</w>
+  <w>.</w>
+  <absaspan id=58>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=59 senti=5>
+    <w>visar</w>
+    <w>solidaritet</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=60>
+    <w>alla</w>
+    <w>medsystrar</w>
+    <w>som</w>
+    <w>utsätts</w>
+    <w>kvinnoförtryck</w>
+  </absaspan>
+  <w>,</w>
+  <w>oavsett</w>
+  <w>förövarnas</w>
+  <w>motiv</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <absaspan id=61>
+    <w>Utrikesminister</w>
+    <w>Carl</w>
+    <w>Bildt</w>
+  </absaspan>
+  <absaspan id=62 senti=1>
+    <w>kritiseras</w>
+    <w>återkommande</w>
+    <w>av</w>
+  </absaspan>
+  <w>bland</w>
+  <w>annat</w>
+  <absaspan id=63>
+    <w>Kvinna</w>
+    <w>till</w>
+    <w>Kvinna</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=64 senti=2>
+    <w>sitt</w>
+    <w>låga</w>
+    <w>engagemang</w>
+    <w>i</w>
+    <w>frågor</w>
+    <w>som</w>
+    <w>rör</w>
+  </absaspan>
+  <absaspan id=65>
+    <w>kvinnors</w>
+    <w>rättigheter</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=66>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=67 senti=1>
+    <w>instämmer</w>
+    <w>i</w>
+    <w>den</w>
+    <w>kritiken</w>
+  </absaspan>
+  <w>och</w>
+  <w>menar</w>
+  <w>att</w>
+  <absaspan id=68 senti=5>
+    <w>det</w>
+    <w>är</w>
+    <w>hög</w>
+    <w>tid</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=69>
+    <w>Sverige</w>
+    <w>får</w>
+    <w>en</w>
+    <w>tydligare</w>
+    <w>feministiskt</w>
+    <w>utrikespolitik</w>
+  </absaspan>
+  <w>,</w>
+  <w>för</w>
+  <w>sexuella</w>
+  <w>och</w>
+  <w>reproduktiva</w>
+  <w>rättigheter</w>
+  <w>,</w>
+  <w>mot</w>
+  <w>barnäktenskap</w>
+  <w>och</w>
+  <w>våld</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Fi</w>
+  <w>står</w>
+  <w>för</w>
+  <w>en</w>
+  <w>konsekvent</w>
+  <w>feminism</w>
+  <w>och</w>
+  <w>stödjer</w>
+  <w>därför</w>
+  <w>både</w>
+  <w>hijabuppropet</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>och</w>
+  <w>slöjprotesten</w>
+  <w>i</w>
+  <w>Iran</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Mehrtab</w>
+  <w>Motavvas</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>Linnéa</w>
+  <w>Bruno</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>Gudrun</w>
+  <w>Schyman</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+<absapar id=19>
+  <w>RERNA</w>
+  <w>.</w>
+</absapar>
+<absapar id=20>
+  <w>N</w>
+  <w>.</w>
+</absapar>
+</absadoc>

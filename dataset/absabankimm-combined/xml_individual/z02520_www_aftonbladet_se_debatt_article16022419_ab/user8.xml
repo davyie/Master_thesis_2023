@@ -1,0 +1,892 @@
+<absadoc annotators=1 senti=4>
+<absatitle>
+  <w>Cecilia</w>
+  <w>Bäcklander</w>
+  <w>:</w>
+  <w>Barnen</w>
+  <w>får</w>
+  <w>inte</w>
+  <w>förenas</w>
+  <w>med</w>
+  <w>sin</w>
+  <w>pappa</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Fem</w>
+  <w>dna-test</w>
+  <w>bevisar</w>
+  <w>att</w>
+  <w>två</w>
+  <w>människor</w>
+  <w>är</w>
+  <w>föräldrar</w>
+  <w>till</w>
+  <w>tre</w>
+  <w>barn</w>
+  <w>som</w>
+  <w>fötts</w>
+  <w>med</w>
+  <w>sju</w>
+  <w>års</w>
+  <w>mellanrum</w>
+  <w>–</w>
+  <w>11</w>
+  <w>,</w>
+  <w>7</w>
+  <w>och</w>
+  <w>4</w>
+  <w>år</w>
+  <w>gamla</w>
+  <w>.</w>
+  <w>Ett</w>
+  <w>vigselbevis</w>
+  <w>visar</w>
+  <w>att</w>
+  <w>de</w>
+  <w>två</w>
+  <w>en</w>
+  <w>gång</w>
+  <w>gifte</w>
+  <w>sig</w>
+  <w>med</w>
+  <w>varandra</w>
+  <w>.</w>
+  <w>Finns</w>
+  <w>det</w>
+  <w>då</w>
+  <w>anledning</w>
+  <w>att</w>
+  <w>betvivla</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>Mikael</w>
+    <w>Gebrehiwet</w>
+    <w>och</w>
+    <w>Fikadu</w>
+    <w>Asgele</w>
+    <w>Tekiae</w>
+  </absaspan>
+  <w>från</w>
+  <w>Eritrea</w>
+  <w>är</w>
+  <w>en</w>
+  <w>familj</w>
+  <w>?</w>
+  <w>Det</w>
+  <w>tycker</w>
+  <absaspan id=2>
+    <w>Migrationsverket</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=3 senti=2>
+    <w>avslog</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>deras</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>ansökan</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>familjeåterförening</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=4>
+  <absaspan id=7>
+    <w>Mikael</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>flydde</w>
+    <w>från</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>soldatlivet</w>
+    <w>i</w>
+    <w>Eritreas</w>
+    <w>armé</w>
+  </absaspan>
+  <w>och</w>
+  <w>kom</w>
+  <w>via</w>
+  <w>Etiopien</w>
+  <w>och</w>
+  <w>Sudan</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>2010</w>
+  <w>.</w>
+  <w>Han</w>
+  <w>fick</w>
+  <w>uppehållstillstånd</w>
+  <w>.</w>
+  <w>En</w>
+  <w>deserterad</w>
+  <w>soldat</w>
+  <w>kan</w>
+  <w>omöjligen</w>
+  <w>återvända</w>
+  <w>till</w>
+  <w>ett</w>
+  <w>hemland</w>
+  <w>med</w>
+  <absaspan id=10 senti=1>
+    <w>en</w>
+    <w>av</w>
+    <w>världens</w>
+    <w>värsta</w>
+    <w>förtryckarregimer</w>
+  </absaspan>
+  <w>.</w>
+  <w>Sverige</w>
+  <w>är</w>
+  <w>förbundet</w>
+  <w>att</w>
+  <w>ha</w>
+  <w>en</w>
+  <w>generös</w>
+  <w>familjeåterföreningspolitik</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Fikadu</w>
+  <w>och</w>
+  <w>de</w>
+  <w>tre</w>
+  <w>barnen</w>
+  <w>kom</w>
+  <w>till</w>
+  <w>ett</w>
+  <w>flyktingläger</w>
+  <w>på</w>
+  <w>gränsen</w>
+  <w>mellan</w>
+  <w>Eritrea</w>
+  <w>och</w>
+  <w>Etiopien</w>
+  <w>,</w>
+  <w>och</w>
+  <w>så</w>
+  <w>småningom</w>
+  <w>till</w>
+  <w>Addis</w>
+  <w>Abeba</w>
+  <w>,</w>
+  <w>Etiopiens</w>
+  <w>huvudstad</w>
+  <w>,</w>
+  <w>varifrån</w>
+  <w>de</w>
+  <w>ansökte</w>
+  <w>om</w>
+  <w>asyl</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Den</w>
+  <w>5</w>
+  <w>november</w>
+  <w>2012</w>
+  <w>kom</w>
+  <absaspan id=11 senti=2>
+    <w>avslaget</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>Migrationsverket</w>
+  </absaspan>
+  <w>anser</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>bevisat</w>
+  <w>att</w>
+  <w>de</w>
+  <w>är</w>
+  <w>en</w>
+  <w>familj</w>
+  <w>.</w>
+  <absaspan id=14>
+    <w>Fikadus</w>
+    <w>lilla</w>
+    <w>eritreanska</w>
+    <w>plast-id-kort</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>är</w>
+    <w>inte</w>
+    <w>tillräckligt</w>
+    <w>officiellt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Inte</w>
+  <w>heller</w>
+  <absaspan id=16>
+    <w>hennes</w>
+    <w>av</w>
+    <w>UNHCR</w>
+    <w>utfärdade</w>
+    <w>legitimation</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <w>Dna-analysen</w>
+  <w>,</w>
+  <w>vigselbeviset</w>
+  <w>och</w>
+  <w>två</w>
+  <w>id-handlingar</w>
+  <w>väger</w>
+  <w>lättare</w>
+  <w>än</w>
+  <w>det</w>
+  <w>faktum</w>
+  <w>att</w>
+  <absaspan id=17>
+    <w>Mikael</w>
+    <w>och</w>
+    <w>Fikadu</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>har</w>
+    <w>lämnat</w>
+    <w>motstridiga</w>
+    <w>uppgifter</w>
+  </absaspan>
+  <w>om</w>
+  <w>sitt</w>
+  <w>gemensamma</w>
+  <w>liv</w>
+  <w>.</w>
+  <w>Inte</w>
+  <w>om</w>
+  <w>det</w>
+  <w>grundläggande</w>
+  <w>,</w>
+  <w>att</w>
+  <w>de</w>
+  <w>är</w>
+  <w>gifta</w>
+  <w>och</w>
+  <w>har</w>
+  <w>sammanlevt</w>
+  <w>och</w>
+  <w>fått</w>
+  <w>barn</w>
+  <w>tre</w>
+  <w>gånger</w>
+  <w>.</w>
+  <w>De</w>
+  <w>uppgifter</w>
+  <w>som</w>
+  <w>Migrationsverket</w>
+  <w>hänvisar</w>
+  <w>till</w>
+  <w>är</w>
+  <w>två</w>
+  <w>–</w>
+  <w>antalet</w>
+  <w>gäster</w>
+  <w>vid</w>
+  <w>bröllopet</w>
+  <w>för</w>
+  <w>14</w>
+  <w>år</w>
+  <w>sedan</w>
+  <w>och</w>
+  <w>hur</w>
+  <w>många</w>
+  <w>släktingar</w>
+  <w>som</w>
+  <w>bott</w>
+  <w>under</w>
+  <w>samma</w>
+  <w>tak</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=4>
+  <w>Att</w>
+  <w>läsa</w>
+  <w>beslutet</w>
+  <w>är</w>
+  <w>surrealistiskt</w>
+  <w>.</w>
+  <w>Först</w>
+  <w>redogörs</w>
+  <w>för</w>
+  <w>hur</w>
+  <w>Sverige</w>
+  <w>ska</w>
+  <w>bereda</w>
+  <w>familjemedlemmar</w>
+  <w>möjlighet</w>
+  <w>att</w>
+  <w>återförenas</w>
+  <w>med</w>
+  <w>en</w>
+  <w>person</w>
+  <w>som</w>
+  <w>har</w>
+  <w>uppehållstillstånd</w>
+  <w>här</w>
+  <w>.</w>
+  <w>Sedan</w>
+  <w>bekräftas</w>
+  <w>att</w>
+  <w>dna-analysen</w>
+  <w>bevisar</w>
+  <w>att</w>
+  <w>barnen</w>
+  <w>är</w>
+  <w>Mikaels</w>
+  <w>och</w>
+  <w>Fikadus</w>
+  <w>gemensamma</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>så</w>
+  <w>kommer</w>
+  <absaspan id=19 senti=2>
+    <w>avslaget</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>Motiveringen</w>
+  </absaspan>
+  <absaspan id=22 senti=2>
+    <w>är</w>
+    <w>skakig</w>
+    <w>och</w>
+    <w>irrelevant</w>
+  </absaspan>
+  <w>i</w>
+  <w>förhållande</w>
+  <w>till</w>
+  <w>hårda</w>
+  <w>vetenskapliga</w>
+  <w>dna-fakta</w>
+  <w>.</w>
+  <w>Tre</w>
+  <w>barn</w>
+  <w>födda</w>
+  <w>under</w>
+  <w>sju</w>
+  <w>år</w>
+  <w>borde</w>
+  <w>bevisa</w>
+  <w>ett</w>
+  <w>varaktigt</w>
+  <w>samliv</w>
+  <w>,</w>
+  <w>punkt</w>
+  <w>slut</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Vad</w>
+  <w>kan</w>
+  <w>familjen</w>
+  <w>då</w>
+  <w>göra</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=8 senti=4>
+  <absaspan id=23>
+    <w>Migrationsverket</w>
+  </absaspan>
+  <w>hävdar</w>
+  <w>att</w>
+  <absaspan id=24>
+    <w>Fikadu</w>
+  </absaspan>
+  <absaspan id=25 senti=2>
+    <w>inte</w>
+    <w>gjort</w>
+    <w>tillräckligt</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>för</w>
+    <w>att</w>
+    <w>bevisa</w>
+    <w>vem</w>
+    <w>hon</w>
+    <w>är</w>
+  </absaspan>
+  <w>.</w>
+  <w>Gunnar</w>
+  <w>Ström</w>
+  <w>vid</w>
+  <w>Röda</w>
+  <w>Korset</w>
+  <w>i</w>
+  <w>Forshaga</w>
+  <w>där</w>
+  <w>Mikael</w>
+  <w>bor</w>
+  <w>har</w>
+  <w>sett</w>
+  <w>till</w>
+  <w>att</w>
+  <absaspan id=27>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=28 senti=4>
+    <w>generös</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>etiopisk</w>
+    <w>affärsman</w>
+  </absaspan>
+  <w>betalar</w>
+  <w>hyra</w>
+  <w>och</w>
+  <w>mat</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>hittade</w>
+  <w>Fikadu</w>
+  <w>och</w>
+  <w>barnen</w>
+  <w>i</w>
+  <w>det</w>
+  <w>lilla</w>
+  <w>rum</w>
+  <w>i</w>
+  <w>Addis</w>
+  <w>utkanter</w>
+  <w>där</w>
+  <w>de</w>
+  <w>bor</w>
+  <w>.</w>
+  <w>Dass</w>
+  <w>och</w>
+  <w>vatten</w>
+  <w>på</w>
+  <w>gården</w>
+  <w>,</w>
+  <absaspan id=30 senti=2>
+    <w>torftigt</w>
+  </absaspan>
+  <w>men</w>
+  <w>fullt</w>
+  <w>i</w>
+  <w>linje</w>
+  <w>med</w>
+  <w>hur</w>
+  <w>de</w>
+  <w>flesta</w>
+  <w>Addis-bor</w>
+  <w>har</w>
+  <w>det</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <absaspan id=31>
+    <w>Etiopien</w>
+    <w>och</w>
+    <w>Eritrea</w>
+  </absaspan>
+  <absaspan id=32 senti=1>
+    <w>är</w>
+    <w>fiender</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>.</w>
+  </absaspan>
+  <w>De</w>
+  <w>har</w>
+  <w>inga</w>
+  <w>bilaterala</w>
+  <w>förbindelser</w>
+  <w>.</w>
+  <w>Eritrea</w>
+  <w>har</w>
+  <w>en</w>
+  <w>legation</w>
+  <w>i</w>
+  <w>Etiopien</w>
+  <w>,</w>
+  <w>men</w>
+  <w>bara</w>
+  <w>för</w>
+  <w>representation</w>
+  <w>vid</w>
+  <w>Afrikanska</w>
+  <w>Unionen</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>talade</w>
+  <w>med</w>
+  <w>den</w>
+  <w>politiske</w>
+  <w>sekreteraren</w>
+  <w>som</w>
+  <w>gång</w>
+  <w>på</w>
+  <w>gång</w>
+  <w>upprepade</w>
+  <w>att</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>var</w>
+  <w>någon</w>
+  <w>idé</w>
+  <w>för</w>
+  <w>Fikadu</w>
+  <w>att</w>
+  <w>gå</w>
+  <w>dit</w>
+  <w>.</w>
+  <w>De</w>
+  <w>har</w>
+  <w>ingen</w>
+  <w>konsulär</w>
+  <w>verksamhet</w>
+  <w>.</w>
+  <w>Man</w>
+  <w>kan</w>
+  <w>också</w>
+  <w>fråga</w>
+  <w>sig</w>
+  <w>:</w>
+  <w>OM</w>
+  <absaspan id=34>
+    <w>Eritrea</w>
+  </absaspan>
+  <w>haft</w>
+  <w>konsulat</w>
+  <w>i</w>
+  <w>Addis</w>
+  <w>,</w>
+  <w>varför</w>
+  <w>skulle</w>
+  <w>de</w>
+  <w>anstränga</w>
+  <w>sig</w>
+  <w>för</w>
+  <absaspan id=35>
+    <w>en</w>
+    <w>familj</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=36 senti=2>
+    <w>flytt</w>
+  </absaspan>
+  <absaspan id=37>
+    <w>deras</w>
+    <w>land</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=38 senti=2>
+    <w>deserterat</w>
+  </absaspan>
+  <w>från</w>
+  <w>deras</w>
+  <w>armé</w>
+  <w>?</w>
+  <w>Vi</w>
+  <w>talar</w>
+  <w>om</w>
+  <w>en</w>
+  <w>regering</w>
+  <w>som</w>
+  <w>under</w>
+  <w>elva</w>
+  <w>år</w>
+  <w>vägrat</w>
+  <w>att</w>
+  <w>lämna</w>
+  <w>Sverige</w>
+  <w>någon</w>
+  <w>som</w>
+  <w>helst</w>
+  <w>information</w>
+  <w>om</w>
+  <w>den</w>
+  <w>svenske</w>
+  <w>medborgaren</w>
+  <w>Dawit</w>
+  <w>Isaac</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Vi</w>
+  <w>for</w>
+  <w>ändå</w>
+  <w>till</w>
+  <w>legationen</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>en</w>
+  <w>villa</w>
+  <w>utan</w>
+  <w>skyltning</w>
+  <w>.</w>
+  <w>Vaktpersonal</w>
+  <w>förklarade</w>
+  <w>att</w>
+  <w>man</w>
+  <w>inte</w>
+  <w>släppte</w>
+  <w>in</w>
+  <w>någon</w>
+  <w>.</w>
+</absapar>
+<absapar id=11 senti=4>
+  <w>Och</w>
+  <w>där</w>
+  <w>är</w>
+  <w>nu</w>
+  <w>familjen</w>
+  <w>.</w>
+  <absaspan id=39>
+    <w>En</w>
+    <w>pappa</w>
+  </absaspan>
+  <w>är</w>
+  <w>i</w>
+  <w>Värmland</w>
+  <w>och</w>
+  <absaspan id=40 senti=4>
+    <w>längtar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Hans</w>
+  <w>fru</w>
+  <w>och</w>
+  <w>barn</w>
+  <absaspan id=41 senti=2>
+    <w>lever</w>
+    <w>i</w>
+    <w>limbo</w>
+  </absaspan>
+  <w>i</w>
+  <w>Etiopien</w>
+  <w>,</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>land</w>
+  <w>där</w>
+  <absaspan id=42>
+    <w>eritreaner</w>
+  </absaspan>
+  <absaspan id=43 senti=2>
+    <w>är</w>
+    <w>illa</w>
+    <w>sedda</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=44>
+    <w>myndigheterna</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=12 senti=4>
+  <absaspan id=45>
+    <w>Beslutet</w>
+    <w>från</w>
+    <w>Migrationsverket</w>
+  </absaspan>
+  <absaspan id=46 senti=2>
+    <w>är</w>
+  </absaspan>
+  <w>nu</w>
+  <absaspan id=47 senti=2>
+    <w>överklagat</w>
+  </absaspan>
+  <w>med</w>
+  <w>hjälp</w>
+  <w>av</w>
+  <w>Röda</w>
+  <w>Korset</w>
+  <absaspan id=48>
+    <w>.</w>
+  </absaspan>
+  <w>Ett</w>
+  <w>nytt</w>
+  <w>beslut</w>
+  <w>kan</w>
+  <w>ta</w>
+  <w>flera</w>
+  <w>månader</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>finns</w>
+  <w>ingen</w>
+  <w>tvekan</w>
+  <w>om</w>
+  <w>att</w>
+  <w>detta</w>
+  <w>är</w>
+  <w>en</w>
+  <w>familj</w>
+  <w>,</w>
+  <w>det</w>
+  <w>har</w>
+  <w>dna-testerna</w>
+  <w>bevisat</w>
+  <w>.</w>
+  <w>Varför</w>
+  <w>då</w>
+  <absaspan id=49 senti=2>
+    <w>förhala</w>
+    <w>och</w>
+    <w>försvåra</w>
+  </absaspan>
+  <w>deras</w>
+  <w>liv</w>
+  <w>?</w>
+  <w>Det</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>tre</w>
+  <w>barns</w>
+  <w>uppväxt</w>
+  <w>.</w>
+  <w>De</w>
+  <w>har</w>
+  <w>redan</w>
+  <w>väntat</w>
+  <w>i</w>
+  <w>två</w>
+  <w>och</w>
+  <w>ett</w>
+  <w>halvt</w>
+  <w>år</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Cecilia</w>
+  <w>Bäcklander</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>N</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>En</w>
+  <w>dom</w>
+  <w>i</w>
+  <w>Migrationsöverdomstolen</w>
+  <w>2012</w>
+  <w>gör</w>
+  <w>det</w>
+  <w>möjligt</w>
+  <w>för</w>
+  <w>anhöriga</w>
+  <w>att</w>
+  <w>bevisa</w>
+  <w>släktskap</w>
+  <w>genom</w>
+  <w>dna-prov</w>
+  <w>och</w>
+  <w>på</w>
+  <w>så</w>
+  <w>sätt</w>
+  <w>kunna</w>
+  <w>förenas</w>
+  <w>med</w>
+  <w>familjer</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+  <w>I</w>
+  <w>fallet</w>
+  <w>som</w>
+  <w>dagens</w>
+  <w>debattör</w>
+  <w>belyser</w>
+  <w>har</w>
+  <w>ett</w>
+  <w>positivt</w>
+  <w>dna-test</w>
+  <w>gjorts</w>
+  <w>.</w>
+  <absaspan id=50>
+    <w>Fikadu</w>
+    <w>Asgele</w>
+    <w>Tekiae</w>
+    <w>med</w>
+    <w>barn</w>
+  </absaspan>
+  <absaspan id=51 senti=2>
+    <w>har</w>
+  </absaspan>
+  <w>ändå</w>
+  <absaspan id=52 senti=2>
+    <w>fått</w>
+  </absaspan>
+  <absaspan id=53 senti=2>
+    <w>avslag</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=54>
+    <w>Migrationsverket</w>
+  </absaspan>
+  <w>och</w>
+  <w>befinner</w>
+  <w>sig</w>
+  <w>i</w>
+  <w>Etiopien</w>
+  <w>,</w>
+  <w>pappan</w>
+  <w>har</w>
+  <w>uppehållstillsstånd</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+  <absaspan id=55>
+    <w>Fallet</w>
+  </absaspan>
+  <absaspan id=56 senti=2>
+    <w>är</w>
+    <w>överklagat</w>
+  </absaspan>
+  <absaspan id=57>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=16>
+  <w>REN</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>Cecilia</w>
+  <w>Bäcklander</w>
+  <w>,</w>
+  <w>66</w>
+  <w>,</w>
+  <w>Solna</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>Tv-producent</w>
+  <w>och</w>
+  <w>frilansjournalist</w>
+  <w>med</w>
+  <w>fokus</w>
+  <w>på</w>
+  <w>Östafrika</w>
+  <w>.</w>
+  <w>Har</w>
+  <w>bott</w>
+  <w>sju</w>
+  <w>år</w>
+  <w>i</w>
+  <w>Etiopien</w>
+  <w>och</w>
+  <w>Kenya</w>
+  <w>.</w>
+</absapar>
+</absadoc>

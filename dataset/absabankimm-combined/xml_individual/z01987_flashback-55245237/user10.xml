@@ -1,0 +1,180 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>Hundratusentals</w>
+    <w>barn</w>
+    <w>(</w>
+    <w>utanför</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>)</w>
+  <absaspan id=2 senti=1 source=1>
+    <w>drabbas</w>
+    <w>hårt</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>regeringens</w>
+    <w>invandringspolitik</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>För</w>
+  <w>att</w>
+  <w>kunna</w>
+  <w>finansiera</w>
+  <w>massinvandringen</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>och</w>
+  <w>erbjuda</w>
+  <w>flyktingarna</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <absaspan id=4 senti=4>
+    <w>en</w>
+    <w>hög</w>
+    <w>levnadsstandard</w>
+  </absaspan>
+  <w>så</w>
+  <w>måste</w>
+  <w>regeringen</w>
+  <w>ta</w>
+  <w>pengar</w>
+  <w>från</w>
+  <w>bl.a</w>
+  <w>biståndsbudgeten</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>ger</w>
+  <w>förstås</w>
+  <w>konsekvenser</w>
+  <w>där</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>pratas</w>
+  <w>nu</w>
+  <w>om</w>
+  <w>att</w>
+  <w>biståndsbudgeten</w>
+  <w>kanske</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>halveras</w>
+  <w>och</w>
+  <w>SIDA</w>
+  <w>ger</w>
+  <w>exempel</w>
+  <w>på</w>
+  <w>hur</w>
+  <absaspan id=5>
+    <w>barn</w>
+    <w>och</w>
+    <w>vuxna</w>
+    <w>i</w>
+    <w>fattiga</w>
+    <w>länder</w>
+    <w>utanför</w>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>drabbas</w>
+  </absaspan>
+  <w>om</w>
+  <w>det</w>
+  <w>blir</w>
+  <w>så</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Många</w>
+  <w>flyktingar</w>
+  <w>från</w>
+  <w>Afghanistan</w>
+  <w>kommer</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>.</w>
+  <w>För</w>
+  <w>att</w>
+  <w>ha</w>
+  <w>råd</w>
+  <w>med</w>
+  <w>den</w>
+  <w>afghanska</w>
+  <w>flyktinginvandringen</w>
+  <w>så</w>
+  <w>måste</w>
+  <w>anslagen</w>
+  <w>till</w>
+  <w>skolor</w>
+  <w>i</w>
+  <w>Afghanistan</w>
+  <w>minskas</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Även</w>
+  <absaspan id=7>
+    <w>vuxna</w>
+    <w>i</w>
+    <w>Afghanistan</w>
+  </absaspan>
+  <absaspan id=8 senti=1>
+    <w>drabbas</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>också</w>
+  <absaspan id=9 senti=1>
+    <w>otäckt</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <w>Är</w>
+  <w>det</w>
+  <w>verkligen</w>
+  <absaspan id=10 senti=3>
+    <w>moraliskt</w>
+    <w>försvarbart</w>
+  </absaspan>
+  <w>av</w>
+  <w>Stefan</w>
+  <w>Löfven</w>
+  <w>och</w>
+  <w>hans</w>
+  <w>regering</w>
+  <absaspan id=11>
+    <w>att</w>
+    <w>göra</w>
+    <w>så</w>
+    <w>här</w>
+  </absaspan>
+  <w>?</w>
+  <w>Skulle</w>
+  <w>inte</w>
+  <w>pengarna</w>
+  <w>göra</w>
+  <w>mer</w>
+  <w>nytta</w>
+  <w>i</w>
+  <w>världens</w>
+  <w>fattiga</w>
+  <w>länder</w>
+  <w>istället</w>
+  <w>?</w>
+  <absaspan id=12 senti=4>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

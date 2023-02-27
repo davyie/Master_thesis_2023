@@ -1,0 +1,192 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>30</w>
+  <w>-</w>
+  <w>50%</w>
+  <w>av</w>
+  <w>de</w>
+  <w>asylsökande</w>
+  <w>registrerar</w>
+  <w>olika</w>
+  <w>identiteter</w>
+  <w>hos</w>
+  <w>olika</w>
+  <w>myndigheter</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Nyheterna</w>
+  <w>på</w>
+  <w>TV4</w>
+  <w>citerar</w>
+  <w>en</w>
+  <w>utredning</w>
+  <w>från</w>
+  <w>Skatteverket</w>
+  <w>där</w>
+  <w>de</w>
+  <w>kommit</w>
+  <w>fram</w>
+  <w>till</w>
+  <w>att</w>
+  <w>30</w>
+  <w>-</w>
+  <w>50%</w>
+  <w>av</w>
+  <w>de</w>
+  <w>asylsökande</w>
+  <w>registrerar</w>
+  <w>olika</w>
+  <w>identiteter</w>
+  <w>hos</w>
+  <w>olika</w>
+  <w>myndigheter</w>
+  <w>.</w>
+  <w>I</w>
+  <w>många</w>
+  <w>fall</w>
+  <w>beror</w>
+  <w>det</w>
+  <w>på</w>
+  <w>felstavningar</w>
+  <w>av</w>
+  <w>namn</w>
+  <w>,</w>
+  <w>men</w>
+  <w>det</w>
+  <w>verkar</w>
+  <w>inte</w>
+  <w>ovanligt</w>
+  <absaspan id=1>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>personer</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>gör</w>
+    <w>det</w>
+    <w>här</w>
+    <w>för</w>
+    <w>att</w>
+    <w>kunna</w>
+    <w>utnyttja</w>
+    <w>systemet</w>
+    <w>så</w>
+    <w>att</w>
+    <w>de</w>
+    <w>kan</w>
+    <w>få</w>
+    <w>starta</w>
+    <w>eget-bidrag</w>
+    <w>,</w>
+    <w>socialbidrag</w>
+    <w>och</w>
+    <w>ta</w>
+    <w>lån</w>
+    <w>i</w>
+    <w>olika</w>
+    <w>identiteter</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Tydligen</w>
+  <w>är</w>
+  <w>det</w>
+  <w>sekretess</w>
+  <w>mellan</w>
+  <w>olika</w>
+  <w>myndigheter</w>
+  <w>vilket</w>
+  <w>gör</w>
+  <w>att</w>
+  <w>inga</w>
+  <w>register</w>
+  <w>samkörs</w>
+  <w>.</w>
+  <w>Skatteverket</w>
+  <absaspan id=5 senti=5>
+    <w>kräver</w>
+  </absaspan>
+  <w>nu</w>
+  <w>därför</w>
+  <absaspan id=6>
+    <w>att</w>
+    <w>få</w>
+    <w>ta</w>
+    <w>del</w>
+    <w>av</w>
+    <w>andra</w>
+    <w>myndigheters</w>
+    <w>uppgifter</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Nu</w>
+  <w>är</w>
+  <w>det</w>
+  <w>ju</w>
+  <w>just</w>
+  <w>inga</w>
+  <w>nyheter</w>
+  <w>eftersom</w>
+  <w>myndighetspersoner</w>
+  <absaspan id=7 senti=2>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>varnat</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>det</w>
+    <w>här</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>i</w>
+    <w>åratal</w>
+  </absaspan>
+  <w>,</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>på</w>
+  <w>Merit</w>
+  <w>Wagers</w>
+  <w>blogg</w>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=11>
+    <w>politikerna</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>har</w>
+    <w>valt</w>
+    <w>att</w>
+    <w>ignorera</w>
+    <w>problemet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Har</w>
+  <w>någon</w>
+  <w>här</w>
+  <w>erfarenheter</w>
+  <w>där</w>
+  <w>personer</w>
+  <w>som</w>
+  <w>sökt</w>
+  <w>asyl</w>
+  <w>har</w>
+  <w>flera</w>
+  <w>identiteter</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

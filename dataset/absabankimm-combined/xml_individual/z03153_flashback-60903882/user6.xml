@@ -1,0 +1,36 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Svensk</w>
+  <w>medias</w>
+  <w>agerande</w>
+  <w>kring</w>
+  <w>misstänkta</w>
+  <w>terrordådet</w>
+  <w>i</w>
+  <w>London</w>
+  <w>2017</w>
+  <w>-</w>
+  <w>06</w>
+  <w>-</w>
+  <w>04</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Här</w>
+  <w>kan</w>
+  <w>vi</w>
+  <w>diskutera</w>
+  <w>svensk</w>
+  <w>MSM</w>
+  <w>agerande</w>
+  <w>kring</w>
+  <w>det</w>
+  <w>misstänkta</w>
+  <w>terrordådet</w>
+  <w>i</w>
+  <w>London</w>
+  <absaspan id=1>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

@@ -1,0 +1,50 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Stockholm</w>
+  <w>-</w>
+  <w>föräldrar</w>
+  <w>stoppar</w>
+  <w>nyanlända</w>
+  <w>från</w>
+  <w>förskola</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <absaspan id=1 senti=2>
+    <w>gick</w>
+    <w>inte</w>
+    <w>så</w>
+    <w>bra</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=2>
+    <w>man</w>
+  </absaspan>
+  <w>trodde</w>
+  <w>med</w>
+  <absaspan id=3>
+    <w>nyanlända</w>
+    <w>på</w>
+    <w>praktikplatser</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Men</w>
+  <w>skam</w>
+  <w>den</w>
+  <w>som</w>
+  <w>ger</w>
+  <w>sej</w>
+  <w>,</w>
+  <w>oroade</w>
+  <w>föräldrar</w>
+  <w>tar</w>
+  <w>man</w>
+  <w>ingen</w>
+  <w>hänsyn</w>
+  <w>till</w>
+  <w>.</w>
+</absapar>
+</absadoc>

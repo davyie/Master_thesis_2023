@@ -1,0 +1,676 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Eliasson</w>
+  </absaspan>
+  <absaspan id=2 senti=3 target=1>
+    <w>bör</w>
+    <w>lägga</w>
+    <w>korten</w>
+    <w>på</w>
+    <w>bordet</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Jan</w>
+    <w>Eliasson</w>
+  </absaspan>
+  <w>är</w>
+  <w>en</w>
+  <w>av</w>
+  <w>mycket</w>
+  <w>få</w>
+  <w>höga</w>
+  <w>FN-chefer</w>
+  <w>som</w>
+  <w>länge</w>
+  <absaspan id=4 senti=1>
+    <w>vägrat</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>offentliggöra</w>
+    <w>sin</w>
+    <w>privatekonomi</w>
+  </absaspan>
+  <w>.</w>
+  <w>Nu</w>
+  <w>när</w>
+  <w>arbetargrabben</w>
+  <w>från</w>
+  <w>Göteborg</w>
+  <w>ska</w>
+  <w>bli</w>
+  <w>biträdande</w>
+  <w>generalsekreterare</w>
+  <w>är</w>
+  <w>det</w>
+  <w>dags</w>
+  <w>även</w>
+  <w>för</w>
+  <w>honom</w>
+  <w>att</w>
+  <w>lägga</w>
+  <w>korten</w>
+  <w>på</w>
+  <w>bordet</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>skriver</w>
+  <w>debattören</w>
+  <w>Fredrik</w>
+  <w>Segerfeldt</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=6>
+    <w>Vi</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>brukar</w>
+    <w>med</w>
+    <w>rätta</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>slå</w>
+    <w>oss</w>
+    <w>för</w>
+    <w>bröstet</w>
+    <w>när</w>
+    <w>det</w>
+    <w>gäller</w>
+    <w>öppenhet</w>
+    <w>och</w>
+    <w>transparens</w>
+  </absaspan>
+  <w>i</w>
+  <w>vår</w>
+  <w>förvaltning.Fredrik</w>
+  <w>Segerfeldt</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=9>
+    <w>FN-sekretariatet</w>
+  </absaspan>
+  <absaspan id=10 senti=1>
+    <w>har</w>
+  </absaspan>
+  <w>under</w>
+  <w>lång</w>
+  <w>tid</w>
+  <absaspan id=11 senti=1>
+    <w>lidit</w>
+  </absaspan>
+  <absaspan id=12 senti=1>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>korruption</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=14>
+    <w>bristande</w>
+    <w>transparens</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=15 senti=4>
+    <w>En</w>
+    <w>av</w>
+    <w>de</w>
+    <w>åtgärder</w>
+    <w>som</w>
+    <w>vidtagits</w>
+    <w>för</w>
+    <w>att</w>
+    <w>minska</w>
+    <w>problemets</w>
+    <w>omfattning</w>
+  </absaspan>
+  <w>är</w>
+  <w>att</w>
+  <w>organisationens</w>
+  <w>högste</w>
+  <w>chef</w>
+  <w>,</w>
+  <w>generalsekreteraren</w>
+  <w>Ban</w>
+  <w>Ki-moon</w>
+  <w>,</w>
+  <w>år</w>
+  <w>2007</w>
+  <w>upprättade</w>
+  <absaspan id=16>
+    <w>ett</w>
+    <w>system</w>
+    <w>där</w>
+    <w>personer</w>
+    <w>på</w>
+    <w>ledande</w>
+    <w>positioner</w>
+    <w>uppmanades</w>
+    <w>att</w>
+    <w>årligen</w>
+    <w>redovisa</w>
+    <w>sina</w>
+    <w>privatekonomiska</w>
+    <w>intressen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Denna</w>
+  <w>öppenhet</w>
+  <absaspan id=17 senti=1>
+    <w>gör</w>
+    <w>det</w>
+    <w>svårare</w>
+  </absaspan>
+  <w>för</w>
+  <w>FN-tjänstemän</w>
+  <w>att</w>
+  <w>komma</w>
+  <w>undan</w>
+  <w>med</w>
+  <w>beslut</w>
+  <w>och</w>
+  <w>verksamheter</w>
+  <w>de</w>
+  <w>kan</w>
+  <w>ha</w>
+  <w>personliga</w>
+  <w>ekonomiska</w>
+  <w>intressen</w>
+  <w>i</w>
+  <w>,</w>
+  <w>något</w>
+  <w>som</w>
+  <w>blev</w>
+  <w>tydligt</w>
+  <w>i</w>
+  <w>exempelvis</w>
+  <w>2000</w>
+  <w>-</w>
+  <w>talets</w>
+  <absaspan id=18 senti=1>
+    <w>skandal</w>
+  </absaspan>
+  <w>inom</w>
+  <w>ramen</w>
+  <w>för</w>
+  <w>olja-mot-matprogrammet</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=19>
+    <w>Jan</w>
+    <w>Eliasson</w>
+  </absaspan>
+  <w>har</w>
+  <w>dock</w>
+  <w>under</w>
+  <w>alla</w>
+  <w>sina</w>
+  <w>år</w>
+  <w>i</w>
+  <w>FN</w>
+  <absaspan id=20 senti=1>
+    <w>vägrat</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>att</w>
+    <w>offentliggöra</w>
+    <w>sin</w>
+    <w>privatekonomi</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>i</w>
+  <w>stället</w>
+  <w>valt</w>
+  <w>att</w>
+  <w>hålla</w>
+  <w>sina</w>
+  <w>intressen</w>
+  <w>hemliga</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Det</w>
+  <w>är</w>
+  <w>visserligen</w>
+  <w>frivilligt</w>
+  <w>att</w>
+  <w>vara</w>
+  <w>med</w>
+  <w>i</w>
+  <w>den</w>
+  <w>öppna</w>
+  <w>redovisningen</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=22>
+    <w>Ban</w>
+    <w>Ki-moon</w>
+  </absaspan>
+  <w>skriver</w>
+  <w>så</w>
+  <w>här</w>
+  <w>:</w>
+  <w>"</w>
+  <absaspan id=23>
+    <w>Offentliggörande</w>
+  </absaspan>
+  <w>får</w>
+  <w>dock</w>
+  <absaspan id=24 senti=5>
+    <w>anses</w>
+    <w>vara</w>
+    <w>ett</w>
+    <w>viktigt</w>
+    <w>frivilligt</w>
+    <w>initiativ</w>
+  </absaspan>
+  <w>,</w>
+  <w>eftersom</w>
+  <w>det</w>
+  <w>visat</w>
+  <w>att</w>
+  <absaspan id=25>
+    <w>FN-personal</w>
+  </absaspan>
+  <absaspan id=26 senti=3>
+    <w>förstår</w>
+    <w>vikten</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>att</w>
+    <w>allmänheten</w>
+    <w>och</w>
+    <w>FN</w>
+    <w>:</w>
+    <w>s</w>
+    <w>medlemsstater</w>
+    <w>kan</w>
+    <w>vara</w>
+    <w>försäkrade</w>
+    <w>om</w>
+    <w>att</w>
+    <w>personalen</w>
+    <w>,</w>
+    <w>i</w>
+    <w>utförandet</w>
+    <w>av</w>
+    <w>sina</w>
+    <w>officiella</w>
+    <w>uppgifter</w>
+    <w>och</w>
+    <w>skyldigheter</w>
+    <w>,</w>
+    <w>inte</w>
+    <w>kommer</w>
+    <w>att</w>
+    <w>vara</w>
+    <w>påverkade</w>
+    <w>av</w>
+    <w>några</w>
+    <w>överväganden</w>
+    <w>förknippade</w>
+    <w>med</w>
+    <w>hans</w>
+    <w>eller</w>
+    <w>hennes</w>
+    <w>privata</w>
+    <w>intressen</w>
+  </absaspan>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Allt</w>
+  <w>sedan</w>
+  <w>han</w>
+  <w>blev</w>
+  <w>öppet</w>
+  <w>partipolitiskt</w>
+  <w>aktiv</w>
+  <w>i</w>
+  <w>Socialdemokraterna</w>
+  <w>har</w>
+  <absaspan id=28>
+    <w>Jan</w>
+    <w>Eliasson</w>
+  </absaspan>
+  <absaspan id=29 senti=4>
+    <w>gjort</w>
+    <w>ett</w>
+    <w>stort</w>
+    <w>nummer</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>att</w>
+    <w>han</w>
+    <w>är</w>
+    <w>en</w>
+    <w>enkel</w>
+    <w>arbetargrabb</w>
+    <w>från</w>
+    <w>Göteborg</w>
+  </absaspan>
+  <w>.</w>
+  <w>Trots</w>
+  <w>att</w>
+  <w>han</w>
+  <w>utstrålar</w>
+  <w>aristokrati</w>
+  <w>har</w>
+  <absaspan id=31>
+    <w>Eliasson</w>
+  </absaspan>
+  <absaspan id=32 senti=4>
+    <w>betonat</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>sin</w>
+  </absaspan>
+  <absaspan id=34 senti=4 irony>
+    <w>modesta</w>
+    <w>klassbakgrund</w>
+  </absaspan>
+  <w>.</w>
+  <w>Av</w>
+  <w>den</w>
+  <w>anledningen</w>
+  <absaspan id=35 senti=2>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>han</w>
+  </absaspan>
+  <w>sannolikt</w>
+  <absaspan id=37 senti=2>
+    <w>svaga</w>
+  </absaspan>
+  <absaspan id=38 senti=2>
+    <w>incitament</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>att</w>
+    <w>avslöja</w>
+    <w>sina</w>
+    <w>inkomster</w>
+    <w>och</w>
+    <w>sin</w>
+    <w>förmögenhet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <absaspan id=40>
+    <w>Vi</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=41 senti=4>
+    <w>brukar</w>
+    <w>med</w>
+    <w>rätta</w>
+  </absaspan>
+  <absaspan id=42>
+    <w>slå</w>
+    <w>oss</w>
+    <w>för</w>
+    <w>bröstet</w>
+    <w>när</w>
+    <w>det</w>
+    <w>gäller</w>
+    <w>öppenhet</w>
+    <w>och</w>
+    <w>transparens</w>
+  </absaspan>
+  <w>i</w>
+  <w>vår</w>
+  <w>förvaltning</w>
+  <w>.</w>
+  <w>Är</w>
+  <w>det</w>
+  <w>då</w>
+  <w>inte</w>
+  <absaspan id=43 senti=4>
+    <w>rimligt</w>
+  </absaspan>
+  <absaspan id=44>
+    <w>att</w>
+    <w>kräva</w>
+    <w>att</w>
+    <w>en</w>
+    <w>svensk</w>
+    <w>som</w>
+    <w>intar</w>
+    <w>den</w>
+    <w>näst</w>
+    <w>högsta</w>
+    <w>tjänstemannaposten</w>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=45>
+    <w>ett</w>
+    <w>FN-system</w>
+  </absaspan>
+  <absaspan id=46>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=47 senti=1>
+    <w>lider</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=48>
+    <w>slutenhet</w>
+  </absaspan>
+  <absaspan id=49>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=50>
+    <w>korruption</w>
+  </absaspan>
+  <absaspan id=51>
+    <w>ställer</w>
+    <w>upp</w>
+    <w>på</w>
+    <w>generalsekreterarens</w>
+    <w>önskemål</w>
+    <w>och</w>
+    <w>redovisar</w>
+    <w>sina</w>
+    <w>ekonomiska</w>
+    <w>intressen</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Såväl</w>
+  <w>Ban</w>
+  <w>Ki-moon</w>
+  <w>själv</w>
+  <w>som</w>
+  <w>Eliassons</w>
+  <w>företrädare</w>
+  <w>på</w>
+  <w>posten</w>
+  <w>som</w>
+  <w>biträdande</w>
+  <w>generalsekreterare</w>
+  <w>,</w>
+  <w>Asha-Rose</w>
+  <w>Migiro</w>
+  <w>,</w>
+  <w>har</w>
+  <w>redovisat</w>
+  <w>sina</w>
+  <w>ekonomiska</w>
+  <w>intressen</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>gäller</w>
+  <w>också</w>
+  <w>Inga-Britt</w>
+  <w>Ahlenius</w>
+  <w>,</w>
+  <w>när</w>
+  <w>hon</w>
+  <w>var</w>
+  <w>chef</w>
+  <w>för</w>
+  <w>FN</w>
+  <w>:</w>
+  <w>s</w>
+  <w>internrevision</w>
+  <w>.</w>
+  <w>Faktum</w>
+  <w>är</w>
+  <w>att</w>
+  <w>Eliasson</w>
+  <w>är</w>
+  <w>en</w>
+  <w>av</w>
+  <w>få</w>
+  <w>bland</w>
+  <w>de</w>
+  <w>149</w>
+  <w>toppcheferna</w>
+  <w>på</w>
+  <w>listan</w>
+  <w>som</w>
+  <w>valt</w>
+  <w>att</w>
+  <w>hålla</w>
+  <w>sin</w>
+  <w>privatekonomi</w>
+  <w>hemlig</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Nu</w>
+  <w>när</w>
+  <w>han</w>
+  <w>ska</w>
+  <w>tillträda</w>
+  <w>posten</w>
+  <w>som</w>
+  <w>nästa</w>
+  <w>högste</w>
+  <w>tjänsteman</w>
+  <w>i</w>
+  <w>organisationen</w>
+  <w>är</w>
+  <w>det</w>
+  <w>dags</w>
+  <w>för</w>
+  <w>den</w>
+  <w>före</w>
+  <w>detta</w>
+  <w>socialdemokratiska</w>
+  <w>utrikesministern</w>
+  <w>att</w>
+  <w>lägga</w>
+  <w>korten</w>
+  <w>på</w>
+  <w>bordet</w>
+  <w>.</w>
+  <w>För</w>
+  <w>du</w>
+  <w>har</w>
+  <w>väl</w>
+  <w>ingenting</w>
+  <w>att</w>
+  <w>dölja</w>
+  <w>,</w>
+  <w>Eliasson</w>
+  <w>?</w>
+  <absaspan id=52 senti=3>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=12>
+  <w>FREDRIK</w>
+  <w>SEGERFELDT</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>författare</w>
+  <w>till</w>
+  <w>bokenFN</w>
+  <w>–</w>
+  <w>spruckna</w>
+  <w>drömmar</w>
+  <w>(</w>
+  <w>Hydra</w>
+  <w>förlag</w>
+  <w>,</w>
+  <w>2011</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,39 @@
+<!DOCTYPE absadoc [
+
+<!ELEMENT absadoc (absatitle,absapar*)>
+<!ATTLIST absadoc
+annotators CDATA #REQUIRED
+<-- Number of annotators. -->
+senti CDATA #IMPLIED
+<-- Sentiment on a scale from 1 (very negative) to 5 (very positive). Calculated as the median of the votes, not counting those who did not mark this. If the median is not an integer, rounds away from the middle; that is, |3|4|5|5| becomes 5. -->
+>
+
+<!ELEMENT absatitle (w*)>
+<!ATTLIST absatitle
+senti CDATA #IMPLIED
+>
+
+<!ELEMENT absapar (w*,absaspan*)>
+<!ATTLIST absapar
+senti CDATA #IMPLIED
+>
+
+<!ELEMENT absaspan (w*)>
+<!ATTLIST absaspan
+id ID #REQUIRED
+senti CDATA #IMPLIED
+irony (irony) #IMPLIED
+<!-- Marked if at least half of sentiment voters thought this was irony. -->
+target IDREF #IMPLIED
+<!-- ID of the span describing the thing someone has an opinion of. --!
+source IDREF #IMPLIED
+<!-- ID of the span describing the person who has an opinion. -->
+partof IDREF #IMPLIED
+<!-- ID of the span describing something which the current span's referent is a part of. A person might for example be part of an organisation. -->
+refersto IDREF #IMPLIED
+<!-- ID of the anaphor referent of the current span. For example, a pronoun might refer to a name or other noun phrase. -->
+>
+
+<!ELEMENT w (#PCDATA)>
+
+]>

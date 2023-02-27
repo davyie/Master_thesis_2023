@@ -1,0 +1,609 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Fem</w>
+  <w>partier</w>
+  <w>måste</w>
+  <w>nu</w>
+  <w>börja</w>
+  <w>samarbeta</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Väljarna</w>
+  <w>har</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>kräva</w>
+  <w>mer</w>
+  <w>från</w>
+  <w>partier</w>
+  <w>som</w>
+  <w>gör</w>
+  <w>anspråk</w>
+  <w>på</w>
+  <w>regeringsduglighet.Anders</w>
+  <w>Cnattingius</w>
+  <w>och</w>
+  <w>Henrik</w>
+  <w>Thorsell</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>För</w>
+  <w>tjugo</w>
+  <w>år</w>
+  <w>sedan</w>
+  <w>gick</w>
+  <absaspan id=1>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>fyra</w>
+    <w>borgerliga</w>
+    <w>partierna</w>
+    <w>och</w>
+    <w>Socialdemokraterna</w>
+  </absaspan>
+  <w>samman</w>
+  <w>och</w>
+  <w>arbetade</w>
+  <w>fram</w>
+  <w>en</w>
+  <w>överenskommelse</w>
+  <w>om</w>
+  <w>det</w>
+  <w>framtida</w>
+  <w>pensionssystemet</w>
+  <w>.</w>
+  <w>Som</w>
+  <w>ett</w>
+  <w>resultat</w>
+  <absaspan id=3>
+    <w>har</w>
+    <w>Sverige</w>
+    <w>i</w>
+    <w>dag</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>ett</w>
+    <w>av</w>
+    <w>världens</w>
+    <w>mest</w>
+    <w>stabila</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>pensionssystem</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Det</w>
+  <w>måste</w>
+  <w>framstå</w>
+  <w>som</w>
+  <w>en</w>
+  <w>gåta</w>
+  <w>för</w>
+  <w>flertalet</w>
+  <w>hur</w>
+  <absaspan id=6>
+    <w>samma</w>
+    <w>partier</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>har</w>
+    <w>kunnat</w>
+    <w>uppvisa</w>
+    <w>ett</w>
+    <w>så</w>
+    <w>pass</w>
+    <w>bristande</w>
+    <w>självförtroende</w>
+  </absaspan>
+  <w>gentemot</w>
+  <w>två</w>
+  <w>av</w>
+  <w>de</w>
+  <w>viktigaste</w>
+  <w>samhällsutmaningarna</w>
+  <w>som</w>
+  <w>vårt</w>
+  <w>samhälle</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>står</w>
+  <w>inför</w>
+  <w>,</w>
+  <w>migrationen</w>
+  <w>och</w>
+  <w>integrationen</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>I</w>
+  <w>stället</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=8 senti=4>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>kraft</w>
+    <w>och</w>
+    <w>beslutsamhet</w>
+    <w>gå</w>
+    <w>samman</w>
+  </absaspan>
+  <w>över</w>
+  <w>blockgränserna</w>
+  <absaspan id=10 senti=4>
+    <w>på</w>
+    <w>allvar</w>
+    <w>och</w>
+    <w>hitta</w>
+    <w>robusta</w>
+    <w>lösningar</w>
+  </absaspan>
+  <w>har</w>
+  <w>man</w>
+  <w>låtit</w>
+  <w>debatten</w>
+  <w>helt</w>
+  <w>styras</w>
+  <w>av</w>
+  <w>V</w>
+  <w>,</w>
+  <w>MP</w>
+  <w>och</w>
+  <w>SD</w>
+  <w>.</w>
+  <absaspan id=11 senti=2>
+    <w>Alltför</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>länge</w>
+    <w>har</w>
+  </absaspan>
+  <w>dessa</w>
+  <w>tre</w>
+  <w>partier</w>
+  <absaspan id=13 senti=2>
+    <w>tillåtits</w>
+    <w>polarisera</w>
+  </absaspan>
+  <w>den</w>
+  <w>politiska</w>
+  <w>debatten</w>
+  <w>mellan</w>
+  <absaspan id=14>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>ståndpunkt</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=16 senti=2>
+    <w>ofta</w>
+    <w>kan</w>
+    <w>betecknas</w>
+    <w>som</w>
+    <w>huvudlös</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=17>
+    <w>en</w>
+    <w>annan</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=18 senti=1>
+    <w>är</w>
+    <w>direkt</w>
+    <w>hjärtlös</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=3>
+  <w>*</w>
+  <w>*</w>
+  <absaspan id=19 senti=4>
+    <w>Det</w>
+    <w>är</w>
+    <w>nu</w>
+    <w>hög</w>
+    <w>tid</w>
+  </absaspan>
+  <w>*</w>
+  <w>*</w>
+  <absaspan id=20>
+    <w>att</w>
+    <w>de</w>
+    <w>fem</w>
+    <w>partierna</w>
+    <w>bakom</w>
+    <w>pensionsöverenskommelsen</w>
+    <w>visar</w>
+    <w>samma</w>
+  </absaspan>
+  <absaspan id=21 senti=4>
+    <w>framsynthet</w>
+    <w>och</w>
+    <w>ansvarstagande</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>vad</w>
+    <w>gäller</w>
+    <w>Sveriges</w>
+    <w>framtida</w>
+    <w>invandring</w>
+    <w>,</w>
+    <w>flyktingmottagande</w>
+    <w>och</w>
+    <w>integration</w>
+    <w>av</w>
+    <w>nyanlända</w>
+  </absaspan>
+  <w>.</w>
+  <w>Tillsammans</w>
+  <w>måste</w>
+  <w>vi</w>
+  <w>uppnå</w>
+  <w>en</w>
+  <w>bred</w>
+  <w>,</w>
+  <w>blocköverskridande</w>
+  <w>överenskommelse</w>
+  <w>som</w>
+  <w>tar</w>
+  <w>sikte</w>
+  <w>på</w>
+  <absaspan id=23>
+    <w>lösningar</w>
+  </absaspan>
+  <absaspan id=24 senti=4>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>vilka</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>Sveriges</w>
+    <w>medborgare</w>
+  </absaspan>
+  <absaspan id=27 senti=4>
+    <w>kan</w>
+  </absaspan>
+  <absaspan id=28 senti=4>
+    <w>känna</w>
+    <w>förtroende</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Det</w>
+  <w>må</w>
+  <w>hända</w>
+  <absaspan id=29>
+    <w>att</w>
+    <w>ideligen</w>
+    <w>positionera</w>
+    <w>sig</w>
+    <w>mot</w>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=30 senti=4>
+    <w>ger</w>
+    <w>pluspoäng</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>på</w>
+    <w>kultursidorna</w>
+  </absaspan>
+  <w>och</w>
+  <w>gör</w>
+  <w>det</w>
+  <w>enkelt</w>
+  <w>för</w>
+  <w>journalistiken</w>
+  <w>men</w>
+  <w>det</w>
+  <absaspan id=32 senti=2>
+    <w>löser</w>
+    <w>inte</w>
+    <w>grundproblemet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Väljarna</w>
+  <w>har</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>kräva</w>
+  <w>mer</w>
+  <w>från</w>
+  <w>partier</w>
+  <w>som</w>
+  <w>gör</w>
+  <w>anspråk</w>
+  <w>på</w>
+  <w>regeringsduglighet</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Skräddarsydda</w>
+  <w>kurser</w>
+  <w>i</w>
+  <w>ämnen</w>
+  <w>som</w>
+  <w>intresserar</w>
+  <w>och</w>
+  <w>engagerar</w>
+  <w>både</w>
+  <w>kropp</w>
+  <w>och</w>
+  <w>själ</w>
+  <w>.</w>
+</absapar>
+<absapar id=9 senti=3>
+  <w>*</w>
+  <w>*</w>
+  <w>Det</w>
+  <w>handlar</w>
+  <w>*</w>
+  <w>*</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>om</w>
+  <w>att</w>
+  <w>ha</w>
+  <w>en</w>
+  <absaspan id=33 senti=4>
+    <w>generös</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>flyktingmottagning</w>
+  </absaspan>
+  <w>men</w>
+  <w>samtidigt</w>
+  <w>sätta</w>
+  <w>en</w>
+  <w>tydlig</w>
+  <w>gräns</w>
+  <w>för</w>
+  <w>när</w>
+  <w>Sveriges</w>
+  <w>ansvar</w>
+  <w>slutar</w>
+  <w>och</w>
+  <w>andra</w>
+  <w>länders</w>
+  <w>börjar</w>
+  <absaspan id=35>
+    <w>.</w>
+  </absaspan>
+  <w>Det</w>
+  <w>handlar</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>om</w>
+  <w>integration</w>
+  <w>av</w>
+  <w>nyanlända</w>
+  <w>med</w>
+  <w>arbetslinjen</w>
+  <w>i</w>
+  <w>förgrunden</w>
+  <w>,</w>
+  <w>som</w>
+  <w>bygger</w>
+  <w>på</w>
+  <absaspan id=36 senti=4>
+    <w>tolerans</w>
+  </absaspan>
+  <w>för</w>
+  <w>olikheter</w>
+  <w>men</w>
+  <w>som</w>
+  <w>samtidigt</w>
+  <w>är</w>
+  <w>fast</w>
+  <w>förankrad</w>
+  <w>i</w>
+  <w>värderingar</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>är</w>
+  <w>förhandlingsbara</w>
+  <w>.</w>
+  <absaspan id=37 senti=4>
+    <w>Framför</w>
+    <w>allt</w>
+    <w>handlar</w>
+    <w>det</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=38 senti=4>
+    <w>att</w>
+    <w>vägledas</w>
+    <w>av</w>
+    <w>principer</w>
+    <w>som</w>
+    <w>bygger</w>
+    <w>på</w>
+    <w>både</w>
+    <w>hjärta</w>
+    <w>och</w>
+    <w>hjärna</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=39 senti=4>
+    <w>Ett</w>
+    <w>öppet</w>
+    <w>hjärta</w>
+    <w>måste</w>
+    <w>paras</w>
+    <w>med</w>
+    <w>sunt</w>
+    <w>förnuft</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <absaspan id=40 senti=4>
+    <w>Förhoppningsvis</w>
+  </absaspan>
+  <absaspan id=41 senti=4>
+    <w>kan</w>
+  </absaspan>
+  <absaspan id=42>
+    <w>Sverige</w>
+    <w>då</w>
+    <w>på</w>
+    <w>sikt</w>
+  </absaspan>
+  <absaspan id=43 senti=4>
+    <w>uppnå</w>
+    <w>ett</w>
+    <w>av</w>
+    <w>världens</w>
+    <w>mest</w>
+    <w>stabila</w>
+    <w>system</w>
+  </absaspan>
+  <absaspan id=44>
+    <w>för</w>
+    <w>migration</w>
+    <w>och</w>
+    <w>integration</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=45>
+    <w>Vi</w>
+  </absaspan>
+  <w>anser</w>
+  <w>att</w>
+  <absaspan id=46>
+    <w>Folkpartiet</w>
+  </absaspan>
+  <absaspan id=47 senti=4>
+    <w>bör</w>
+  </absaspan>
+  <absaspan id=48>
+    <w>vara</w>
+    <w>det</w>
+    <w>första</w>
+    <w>borgerliga</w>
+    <w>partiet</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=49 senti=4>
+    <w>sträcka</w>
+    <w>ut</w>
+    <w>handen</w>
+  </absaspan>
+  <absaspan id=50>
+    <w>till</w>
+    <w>Socialdemokraterna</w>
+    <w>med</w>
+    <w>detta</w>
+    <w>som</w>
+    <w>ärende</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>ANDERS</w>
+  <w>CNATTINGIUS</w>
+  <w>(</w>
+  <w>FP</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>gruppledare</w>
+  <w>för</w>
+  <w>Fp</w>
+  <w>i</w>
+  <w>Vellinge</w>
+  <w>kommunfullmäktige</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>HENRIK</w>
+  <w>THORSELL</w>
+  <w>(</w>
+  <w>FP</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>ordförande</w>
+  <w>Folkpartiet</w>
+  <w>i</w>
+  <w>Vellinge</w>
+  <w>kommun</w>
+  <w>samt</w>
+  <w>andre</w>
+  <w>vice</w>
+  <w>ordförande</w>
+  <w>i</w>
+  <w>Vellinge</w>
+  <w>kommunstyrelse</w>
+  <w>och</w>
+  <w>kommunfullmäktige</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

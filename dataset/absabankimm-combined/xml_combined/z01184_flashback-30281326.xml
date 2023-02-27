@@ -1,0 +1,65 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Hur</w>
+  <w>märker</w>
+  <w>ni</w>
+  <w>av</w>
+  <absaspan id=1 senti=2 target=1>
+    <w>Islamiseringen</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Hejsan</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=2>
+    <w>Många</w>
+    <w>här</w>
+    <w>på</w>
+    <w>I</w>
+    <w>&</w>
+    <w>I</w>
+  </absaspan>
+  <w>syftar</w>
+  <w>på</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>landet</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>håller</w>
+    <w>på</w>
+    <w>att</w>
+    <w>islamiseras</w>
+  </absaspan>
+  <w>,</w>
+  <w>då</w>
+  <w>tänkte</w>
+  <w>jag</w>
+  <w>ställa</w>
+  <w>den</w>
+  <w>självklara</w>
+  <w>frågan</w>
+  <w>om</w>
+  <w>ni</w>
+  <w>själva</w>
+  <w>har</w>
+  <w>märkt</w>
+  <w>någoting</w>
+  <w>speciellt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=5 senti=4>
+    <w>Tack</w>
+  </absaspan>
+  <w>på</w>
+  <w>förhand</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

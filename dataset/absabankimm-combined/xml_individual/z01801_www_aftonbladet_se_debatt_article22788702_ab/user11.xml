@@ -1,0 +1,348 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Kul</w>
+  <w>–</w>
+  <w>men</w>
+  <absaspan id=1 senti=4 target=2>
+    <w>klarar</w>
+  </absaspan>
+  <w>ni</w>
+  <w>att</w>
+  <absaspan id=2>
+    <w>få</w>
+    <w>ner</w>
+    <w>köttätandet</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>REPLIK</w>
+  <w>.</w>
+  <absaspan id=3>
+    <w>Maria</w>
+    <w>Weimer</w>
+    <w>och</w>
+    <w>Birgitta</w>
+    <w>Ohlsson</w>
+  </absaspan>
+  <w>från</w>
+  <w>Liberalerna</w>
+  <w>skriver</w>
+  <w>att</w>
+  <w>grön</w>
+  <w>liberalism</w>
+  <w>är</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>kärnkraft</w>
+  <w>och</w>
+  <w>att</w>
+  <w>man</w>
+  <absaspan id=4 senti=4>
+    <w>tror</w>
+    <w>på</w>
+  </absaspan>
+  <w>både</w>
+  <absaspan id=5>
+    <w>lagar</w>
+    <w>och</w>
+    <w>marknadens</w>
+    <w>påverkan</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>är</w>
+  <w>ett</w>
+  <absaspan id=6 senti=4>
+    <w>jätteroligt</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>budskap</w>
+  </absaspan>
+  <w>från</w>
+  <w>Folkpartiet</w>
+  <w>för</w>
+  <w>runt</w>
+  <w>om</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>bubblar</w>
+  <w>det</w>
+  <w>upp</w>
+  <absaspan id=8 senti=4>
+    <w>nya</w>
+    <w>spännande</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>företag</w>
+  </absaspan>
+  <w>som</w>
+  <w>surfar</w>
+  <w>på</w>
+  <w>den</w>
+  <absaspan id=10 senti=4>
+    <w>kraftiga</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>vegovågen</w>
+  </absaspan>
+  <w>.</w>
+  <w>Dessa</w>
+  <absaspan id=12>
+    <w>företag</w>
+    <w>som</w>
+    <w>producerar</w>
+    <w>alternativ</w>
+    <w>till</w>
+    <w>kött</w>
+    <w>-</w>
+    <w>och</w>
+    <w>mejeriprodukter</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>behöver</w>
+    <w>verkligen</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>stöd</w>
+  </absaspan>
+  <w>i</w>
+  <w>form</w>
+  <w>av</w>
+  <w>konkreta</w>
+  <w>politiska</w>
+  <w>beslut</w>
+  <w>av</w>
+  <w>riksdag</w>
+  <w>och</w>
+  <w>regering</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Men</w>
+  <w>hittills</w>
+  <w>har</w>
+  <absaspan id=15 senti=2>
+    <w>inte</w>
+    <w>en</w>
+    <w>enda</w>
+    <w>statlig</w>
+    <w>krona</w>
+    <w>använts</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=16>
+    <w>gynna</w>
+    <w>dessa</w>
+    <w>företag</w>
+  </absaspan>
+  <w>eller</w>
+  <w>till</w>
+  <w>att</w>
+  <absaspan id=17 senti=4>
+    <w>uppmuntra</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>svenska</w>
+    <w>folket</w>
+    <w>att</w>
+    <w>minska</w>
+    <w>konsumtionen</w>
+    <w>av</w>
+    <w>kött</w>
+    <w>-</w>
+    <w>och</w>
+    <w>mejeriprodukter</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=19>
+    <w>Det</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=20 senti=2>
+    <w>verkligen</w>
+    <w>jättemärkligt</w>
+  </absaspan>
+  <w>för</w>
+  <w>redan</w>
+  <w>2010</w>
+  <w>rapporterade</w>
+  <w>FN</w>
+  <w>:</w>
+  <w>s</w>
+  <w>miljöpanel</w>
+  <w>UNEP</w>
+  <w>att</w>
+  <w>vi</w>
+  <absaspan id=21 senti=2>
+    <w>omgående</w>
+    <w>och</w>
+    <w>drastiskt</w>
+    <w>måste</w>
+    <w>minska</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>konsumtionen</w>
+    <w>av</w>
+    <w>kött</w>
+    <w>-</w>
+    <w>och</w>
+    <w>mejeriprodukter</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>undvika</w>
+  <w>de</w>
+  <absaspan id=23 senti=2>
+    <w>värsta</w>
+    <w>konsekvenserna</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=24>
+    <w>klimatförändringarna</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>I</w>
+  <w>Naturvårdsverkets</w>
+  <w>rapport</w>
+  <w>Köttkonsumtionens</w>
+  <w>klimatpåverkan</w>
+  <w>–</w>
+  <w>drivkrafter</w>
+  <w>och</w>
+  <w>styrmedel</w>
+  <w>framgår</w>
+  <w>det</w>
+  <w>att</w>
+  <absaspan id=25>
+    <w>forskare</w>
+  </absaspan>
+  <absaspan id=26 senti=2>
+    <w>ifrågasätter</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>hur</w>
+    <w>stort</w>
+    <w>ansvar</w>
+    <w>som</w>
+    <w>kan</w>
+    <w>läggas</w>
+    <w>på</w>
+    <w>konsumenten</w>
+  </absaspan>
+  <w>när</w>
+  <w>det</w>
+  <w>gäller</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>miljöhänsyn</w>
+  <w>i</w>
+  <w>matvalen</w>
+  <w>.</w>
+  <w>I</w>
+  <w>en</w>
+  <w>rapport</w>
+  <w>från</w>
+  <w>Jordbruksverket</w>
+  <w>poängteras</w>
+  <w>dessutom</w>
+  <absaspan id=28>
+    <w>konsumenters</w>
+  </absaspan>
+  <absaspan id=29 senti=2>
+    <w>oförmåga</w>
+    <w>att</w>
+    <w>i</w>
+    <w>tillräcklig</w>
+    <w>utsträckning</w>
+    <w>väga</w>
+    <w>in</w>
+    <w>gemensamma</w>
+    <w>nyttigheter</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>lägre</w>
+  <w>klimatpåverkan</w>
+  <w>,</w>
+  <w>i</w>
+  <w>sina</w>
+  <w>köpbeslut</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>FN</w>
+  <w>:</w>
+  <w>s</w>
+  <w>generalförsamling</w>
+  <w>har</w>
+  <w>deklarerat</w>
+  <w>att</w>
+  <w>2016</w>
+  <w>är</w>
+  <w>det</w>
+  <w>internationella</w>
+  <w>året</w>
+  <w>för</w>
+  <w>baljväxter</w>
+  <w>,</w>
+  <w>såsom</w>
+  <w>linser</w>
+  <w>,</w>
+  <w>bönor</w>
+  <w>,</w>
+  <w>ärter</w>
+  <w>och</w>
+  <w>kikärter</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>skulle</w>
+  <w>verkligen</w>
+  <absaspan id=30 senti=5>
+    <w>vara</w>
+    <w>extremt</w>
+    <w>roligt</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=31>
+    <w>Liberalerna</w>
+    <w>lägger</w>
+    <w>konkreta</w>
+    <w>politiska</w>
+    <w>förslag</w>
+    <w>för</w>
+    <w>att</w>
+    <w>öka</w>
+    <w>svenskarnas</w>
+    <w>konsumtion</w>
+    <w>av</w>
+    <w>baljväxter</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Jonas</w>
+  <w>Paulsson</w>
+  <w>,</w>
+  <w>Köttfri</w>
+  <w>måndag</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Häng</w>
+  <w>med</w>
+  <w>i</w>
+  <w>debatten</w>
+  <w>–</w>
+  <w>följ</w>
+  <w>Debatt</w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>.</w>
+</absapar>
+</absadoc>

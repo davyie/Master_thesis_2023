@@ -1,0 +1,100 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Björn</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Lindahl</w>
+  </absaspan>
+  <absaspan id=3 senti=2 target=4 source=1>
+    <w>har</w>
+    <w>rört</w>
+    <w>upp</w>
+    <w>känslor</w>
+  </absaspan>
+  <w>genom</w>
+  <absaspan id=4>
+    <w>att</w>
+    <w>kritisera</w>
+    <w>uttrycket</w>
+    <w>av</w>
+    <w>etnisk</w>
+    <w>norsk</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Bara</w>
+  <w>ett</w>
+  <w>litet</w>
+  <w>citat</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Finns</w>
+  <w>det</w>
+  <w>någon</w>
+  <w>gräns</w>
+  <w>för</w>
+  <w>dumheten</w>
+  <absaspan id=6 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>Man</w>
+  <w>undrar</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>Har</w>
+  <w>vi</w>
+  <w>(</w>
+  <w>eller</w>
+  <w>andra</w>
+  <w>länder</w>
+  <w>)</w>
+  <w>ett</w>
+  <w>annat</w>
+  <w>"</w>
+  <w>system</w>
+  <w>"</w>
+  <w>,</w>
+  <w>där</w>
+  <w>egendom</w>
+  <w>ärvs</w>
+  <absaspan id=7 senti=2>
+    <w>slumpmässigt</w>
+    <w>hit</w>
+    <w>&</w>
+    <w>dit</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>finns</w>
+  <w>fler</w>
+  <w>intressanta</w>
+  <w>"</w>
+  <w>reflektioner</w>
+  <w>"</w>
+  <w>i</w>
+  <w>artikeln</w>
+  <absaspan id=8 senti=2>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>Karln</w>
+  </absaspan>
+  <absaspan id=10 senti=1>
+    <w>verkar</w>
+    <w>ju</w>
+    <w>vara</w>
+    <w>stockdum</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

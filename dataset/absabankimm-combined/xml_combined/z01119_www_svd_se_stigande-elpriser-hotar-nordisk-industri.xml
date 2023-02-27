@@ -1,0 +1,613 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Stigande</w>
+    <w>elpriser</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>hotar</w>
+  </absaspan>
+  <w>nordisk</w>
+  <w>industri</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Klimathotet</w>
+  </absaspan>
+  <w>är</w>
+  <w>en</w>
+  <w>av</w>
+  <w>de</w>
+  <absaspan id=4 senti=1>
+    <w>största</w>
+    <w>utmaningarna</w>
+    <w>världen</w>
+    <w>står</w>
+    <w>inför</w>
+  </absaspan>
+  <w>.</w>
+  <w>Samtidigt</w>
+  <w>står</w>
+  <w>vi</w>
+  <w>mitt</w>
+  <w>i</w>
+  <w>en</w>
+  <w>djup</w>
+  <w>ekonomisk</w>
+  <w>kris</w>
+  <w>.</w>
+  <w>Industrier</w>
+  <absaspan id=5 senti=2>
+    <w>tvingas</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>slå</w>
+    <w>igen</w>
+  </absaspan>
+  <w>,</w>
+  <w>människor</w>
+  <w>blir</w>
+  <w>arbetslösa</w>
+  <w>och</w>
+  <w>välfärden</w>
+  <w>blir</w>
+  <w>lidande</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>den</w>
+  <w>nordiska</w>
+  <w>konkurrenskraften</w>
+  <w>kommer</w>
+  <w>snart</w>
+  <w>att</w>
+  <absaspan id=7 senti=2>
+    <w>påverkas</w>
+  </absaspan>
+  <w>ytterligare</w>
+  <absaspan id=8 senti=2>
+    <w>negativt</w>
+  </absaspan>
+  <w>eftersom</w>
+  <absaspan id=9>
+    <w>elpriset</w>
+    <w>väntas</w>
+    <w>öka</w>
+    <w>kraftigt</w>
+    <w>i</w>
+    <w>framtiden</w>
+  </absaspan>
+  <w>.</w>
+  <w>Som</w>
+  <w>ett</w>
+  <w>resultat</w>
+  <w>av</w>
+  <absaspan id=10 senti=2>
+    <w>dyr</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>el</w>
+  </absaspan>
+  <w>kommer</w>
+  <w>industrin</w>
+  <w>inte</w>
+  <w>kunna</w>
+  <w>nyinvestera</w>
+  <w>på</w>
+  <w>den</w>
+  <w>nordiska</w>
+  <w>marknaden</w>
+  <w>vilket</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>tur</w>
+  <w>leder</w>
+  <w>till</w>
+  <w>att</w>
+  <w>fler</w>
+  <w>jobb</w>
+  <w>försvinner</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>El</w>
+  <w>är</w>
+  <w>en</w>
+  <w>viktig</w>
+  <w>råvara</w>
+  <w>för</w>
+  <w>nordisk</w>
+  <w>industri</w>
+  <w>och</w>
+  <w>utgör</w>
+  <w>en</w>
+  <w>betydande</w>
+  <w>del</w>
+  <w>av</w>
+  <w>produktionskostnaderna</w>
+  <w>.</w>
+  <w>Till</w>
+  <w>exempel</w>
+  <w>i</w>
+  <w>metallraffinering</w>
+  <w>kan</w>
+  <w>elen</w>
+  <w>uppgå</w>
+  <w>till</w>
+  <w>så</w>
+  <w>mycket</w>
+  <w>som</w>
+  <w>hälften</w>
+  <w>av</w>
+  <w>alla</w>
+  <w>produktionskostnader</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Handeln</w>
+  <w>med</w>
+  <w>utsläppsrätter</w>
+  <w>inleddes</w>
+  <w>2005</w>
+  <w>.</w>
+  <w>På</w>
+  <w>kort</w>
+  <w>tid</w>
+  <absaspan id=12 senti=2>
+    <w>ökade</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>elpriset</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>dramatiskt</w>
+  </absaspan>
+  <w>på</w>
+  <w>den</w>
+  <w>nordiska</w>
+  <w>elmarknaden</w>
+  <w>.</w>
+  <w>Sedan</w>
+  <w>införandet</w>
+  <w>av</w>
+  <w>utsläppsrättshandeln</w>
+  <w>har</w>
+  <w>elkonsumenter</w>
+  <w>betalt</w>
+  <w>för</w>
+  <w>utsläppsrätter</w>
+  <w>för</w>
+  <w>all</w>
+  <w>kraftproduktion</w>
+  <w>,</w>
+  <w>även</w>
+  <w>för</w>
+  <w>den</w>
+  <w>el</w>
+  <w>som</w>
+  <w>produceras</w>
+  <w>utan</w>
+  <w>att</w>
+  <w>skapa</w>
+  <w>några</w>
+  <w>koldioxidutsläpp</w>
+  <w>.</w>
+  <w>Elkonsumenterna</w>
+  <w>i</w>
+  <w>de</w>
+  <w>nordiska</w>
+  <w>länderna</w>
+  <w>–</w>
+  <w>såväl</w>
+  <w>industrin</w>
+  <w>som</w>
+  <w>hushållen–betalade</w>
+  <w>över</w>
+  <w>5,9</w>
+  <w>miljarder</w>
+  <w>euro</w>
+  <w>extra</w>
+  <w>till</w>
+  <w>kraftbolagen</w>
+  <w>under</w>
+  <w>förra</w>
+  <w>året</w>
+  <w>på</w>
+  <w>grund</w>
+  <w>av</w>
+  <w>handeln</w>
+  <w>med</w>
+  <w>utsläppsrätter</w>
+  <w>.</w>
+  <w>Detta</w>
+  <w>är</w>
+  <w>ungefär</w>
+  <w>fem</w>
+  <w>gånger</w>
+  <w>så</w>
+  <w>mycket</w>
+  <w>som</w>
+  <w>det</w>
+  <w>faktiska</w>
+  <w>priset</w>
+  <w>på</w>
+  <w>utsläppsrätter</w>
+  <w>för</w>
+  <w>elproduktion</w>
+  <w>i</w>
+  <w>Norden</w>
+  <absaspan id=15 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>Industrin</w>
+  <absaspan id=16 senti=4>
+    <w>står</w>
+    <w>helt</w>
+    <w>bakom</w>
+  </absaspan>
+  <absaspan id=17 senti=4>
+    <w>målet</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>att</w>
+    <w>förebygga</w>
+    <w>klimatförändringar</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=19>
+    <w>Koldioxidutsläppen</w>
+  </absaspan>
+  <absaspan id=20 senti=2>
+    <w>måste</w>
+    <w>minska</w>
+  </absaspan>
+  <w>och</w>
+  <w>det</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>leda</w>
+  <w>till</w>
+  <w>en</w>
+  <w>brist</w>
+  <w>på</w>
+  <w>utsläppsrätter</w>
+  <w>.</w>
+  <w>Pristrycket</w>
+  <w>på</w>
+  <w>el</w>
+  <w>kommer</w>
+  <w>att</w>
+  <absaspan id=21 senti=2>
+    <w>bli</w>
+    <w>än</w>
+    <w>mer</w>
+    <w>smärtsamt</w>
+  </absaspan>
+  <w>för</w>
+  <w>industrin</w>
+  <absaspan id=22>
+    <w>från</w>
+    <w>2013</w>
+    <w>då</w>
+    <w>nästa</w>
+    <w>utsläppshandelsperiod</w>
+    <w>börjar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Mängden</w>
+  <w>utsläppsrätter</w>
+  <w>kommer</w>
+  <w>då</w>
+  <w>att</w>
+  <w>minska</w>
+  <w>successivt</w>
+  <w>.</w>
+  <w>Nordiska</w>
+  <w>elkonsumenter</w>
+  <absaspan id=23 senti=4>
+    <w>bör</w>
+  </absaspan>
+  <w>vara</w>
+  <w>med</w>
+  <w>och</w>
+  <absaspan id=24 senti=4>
+    <w>bidra</w>
+  </absaspan>
+  <absaspan id=25 senti=4>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=27 senti=4>
+    <w>skydda</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>klimatet</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>genom</w>
+    <w>att</w>
+    <w>betala</w>
+    <w>för</w>
+    <w>utsläppen</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=30 senti=4>
+    <w>enbart</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>de</w>
+    <w>fak</w>
+    <w>-</w>
+    <w>tiska</w>
+    <w>utsläppen</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=32 senti=2>
+    <w>inte</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>kraftbolagens</w>
+    <w>extravinster</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Ansvariga</w>
+  <w>ministrar</w>
+  <w>för</w>
+  <w>eko</w>
+  <w>-</w>
+  <w>nomi</w>
+  <w>,</w>
+  <w>handel</w>
+  <w>och</w>
+  <w>industri</w>
+  <w>i</w>
+  <w>de</w>
+  <w>nordiska</w>
+  <w>länderna</w>
+  <absaspan id=34 senti=1>
+    <w>bör</w>
+    <w>vara</w>
+    <w>allvarligt</w>
+    <w>oroade</w>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>industrins</w>
+    <w>konkurrenskraft</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=36 senti=4>
+    <w>ta</w>
+    <w>initiativ</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=37>
+    <w>att</w>
+    <w>hitta</w>
+    <w>en</w>
+    <w>lösning</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=38>
+    <w>Åtgärder</w>
+  </absaspan>
+  <absaspan id=39 senti=4>
+    <w>är</w>
+  </absaspan>
+  <w>nu</w>
+  <absaspan id=40 senti=4>
+    <w>akuta</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>utveckla</w>
+  <w>elmarknaden</w>
+  <w>på</w>
+  <w>ett</w>
+  <w>sätt</w>
+  <w>som</w>
+  <absaspan id=41 senti=4>
+    <w>tar</w>
+    <w>hänsyn</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=42>
+    <w>basindustrins</w>
+    <w>konkurrenskraft</w>
+    <w>i</w>
+    <w>Norden</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=43>
+    <w>En</w>
+    <w>gemensam</w>
+    <w>och</w>
+    <w>oberoende</w>
+    <w>undersökning</w>
+  </absaspan>
+  <absaspan id=44 senti=4>
+    <w>bör</w>
+    <w>omedelbart</w>
+    <w>inledas</w>
+  </absaspan>
+  <w>där</w>
+  <w>hänsyn</w>
+  <w>till</w>
+  <w>effekterna</w>
+  <w>på</w>
+  <w>samhällsekonomin</w>
+  <w>tas</w>
+  <w>utifrån</w>
+  <w>regionala</w>
+  <w>aspekter</w>
+  <w>,</w>
+  <w>skattebelastning</w>
+  <w>,</w>
+  <w>sysselsättning</w>
+  <w>samt</w>
+  <w>globala</w>
+  <w>miljökonsekvenser</w>
+  <w>.</w>
+  <w>Den</w>
+  <w>elintensiva</w>
+  <w>industrin</w>
+  <w>i</w>
+  <w>Norden</w>
+  <w>står</w>
+  <w>inför</w>
+  <w>en</w>
+  <w>stor</w>
+  <w>utmaning</w>
+  <w>och</w>
+  <w>det</w>
+  <w>krävs</w>
+  <w>handling</w>
+  <w>på</w>
+  <w>politisk</w>
+  <w>nivå</w>
+  <w>i</w>
+  <w>hela</w>
+  <w>Norden</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=45 senti=4>
+    <w>värna</w>
+  </absaspan>
+  <absaspan id=46>
+    <w>industrin</w>
+    <w>,</w>
+    <w>klimatet</w>
+    <w>och</w>
+    <w>välfärden</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>KENNETH</w>
+  <w>ERIKSSON</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Skräddarsydda</w>
+  <w>kurser</w>
+  <w>i</w>
+  <w>ämnen</w>
+  <w>som</w>
+  <w>intresserar</w>
+  <w>och</w>
+  <w>engagerar</w>
+  <w>både</w>
+  <w>kropp</w>
+  <w>och</w>
+  <w>själ</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>ordförande</w>
+  <w>i</w>
+  <w>SKGS</w>
+  <w>(</w>
+  <w>Skogen</w>
+  <w>,</w>
+  <w>Kemin</w>
+  <w>,</w>
+  <w>Gruvorna</w>
+  <w>och</w>
+  <w>Stålet</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>STEIN</w>
+  <w>LIER</w>
+  <w>HANSEN</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>vd</w>
+  <w>i</w>
+  <w>Norsk</w>
+  <w>Industri</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>MARTTI</w>
+  <w>MÄENPÄÄ</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>vd</w>
+  <w>i</w>
+  <w>The</w>
+  <w>Federation</w>
+  <w>of</w>
+  <w>Finnish</w>
+  <w>Technology</w>
+  <w>Industries</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

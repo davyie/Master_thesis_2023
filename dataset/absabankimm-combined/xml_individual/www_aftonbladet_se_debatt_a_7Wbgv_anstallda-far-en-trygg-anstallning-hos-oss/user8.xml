@@ -1,0 +1,349 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Anställda</w>
+  <w>får</w>
+  <w>en</w>
+  <absaspan id=1 senti=5 target=2>
+    <w>trygg</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>anställning</w>
+  </absaspan>
+  <w>hos</w>
+  <w>oss</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Susanna</w>
+    <w>Gideonsson</w>
+  </absaspan>
+  <w>,</w>
+  <w>skildrar</w>
+  <w>en</w>
+  <absaspan id=4 senti=1>
+    <w>mardrömslik</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>arbetsmarknad</w>
+  </absaspan>
+  <w>där</w>
+  <absaspan id=6>
+    <w>bemanningsanställda</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=7 senti=1>
+    <w>särskilt</w>
+    <w>utsatta</w>
+  </absaspan>
+  <w>i</w>
+  <w>”</w>
+  <w>Måste</w>
+  <w>vakta</w>
+  <w>telefonen</w>
+  <w>,</w>
+  <w>för</w>
+  <w>att</w>
+  <w>få</w>
+  <w>ihop</w>
+  <w>en</w>
+  <w>lön</w>
+  <w>”</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Majoriteten</w>
+  <w>av</w>
+  <w>bemanningsföretagen</w>
+  <w>är</w>
+  <w>dock</w>
+  <w>auktoriserade</w>
+  <w>och</w>
+  <w>verkar</w>
+  <w>i</w>
+  <w>den</w>
+  <absaspan id=8 senti=5>
+    <w>bäst</w>
+  </absaspan>
+  <absaspan id=9 senti=5>
+    <w>reglerade</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>branschen</w>
+  </absaspan>
+  <absaspan id=11 senti=5>
+    <w>av</w>
+    <w>alla</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Så</w>
+  <w>här</w>
+  <w>beskriver</w>
+  <w>LO</w>
+  <w>oss</w>
+  <w>i</w>
+  <w>rapporten</w>
+  <w> </w>
+  <w>Anställningsformer</w>
+  <w>år</w>
+  <w>2014</w>
+  <w>:</w>
+  <w>”</w>
+  <w>Det</w>
+  <w>kan</w>
+  <w>dock</w>
+  <w>antas</w>
+  <w>att</w>
+  <w>bemanningsbranschen</w>
+  <w>bidrar</w>
+  <w>till</w>
+  <w>att</w>
+  <w>minska</w>
+  <w>andelen</w>
+  <w>tidsbegränsade</w>
+  <w>anställningar</w>
+  <w>något</w>
+  <w>med</w>
+  <w>tanke</w>
+  <w>på</w>
+  <w>att</w>
+  <w>inhyrning</w>
+  <w>av</w>
+  <w>personal</w>
+  <w>ofta</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>alternativ</w>
+  <w>för</w>
+  <w>en</w>
+  <w>arbetsgivare</w>
+  <w>till</w>
+  <w>att</w>
+  <w>göra</w>
+  <w>en</w>
+  <w>tidsbegränsad</w>
+  <w>anställning</w>
+  <w>i</w>
+  <w>egen</w>
+  <w>regi</w>
+  <w>.</w>
+  <w>”</w>
+</absapar>
+<absapar id=4>
+  <w>Svensk</w>
+  <w>bemanning</w>
+  <w>är</w>
+  <w>olik</w>
+  <w>andra</w>
+  <w>länders</w>
+  <w>,</w>
+  <w>97</w>
+  <w>procent</w>
+  <w>av</w>
+  <w>de</w>
+  <w>anställda</w>
+  <w>har</w>
+  <w>kollektivavtal</w>
+  <w>,</w>
+  <w>på</w>
+  <w>övriga</w>
+  <w>arbetsmarknaden</w>
+  <w>är</w>
+  <w>siffran</w>
+  <w>88</w>
+  <w>procent</w>
+  <w>.</w>
+  <absaspan id=12>
+    <w>Den</w>
+    <w>svenska</w>
+    <w>bemanningsmodellen</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>står</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=14 senti=4>
+    <w>trygga</w>
+  </absaspan>
+  <absaspan id=15 senti=4>
+    <w>jobb</w>
+  </absaspan>
+  <absaspan id=16 senti=4>
+    <w>med</w>
+    <w>längre</w>
+    <w>uppdrag</w>
+    <w>och</w>
+    <w>fler</w>
+    <w>tillsvidareanställningar</w>
+    <w>i</w>
+    <w>jämförelse</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <absaspan id=18 senti=4>
+    <w>De</w>
+    <w>anställda</w>
+    <w>har</w>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=19 senti=4>
+    <w>trygg</w>
+  </absaspan>
+  <absaspan id=20 senti=4>
+    <w>anställning</w>
+  </absaspan>
+  <w>hos</w>
+  <absaspan id=21>
+    <w>bemanningsföretaget</w>
+  </absaspan>
+  <w>.</w>
+  <w>Mellan</w>
+  <w>uppdrag</w>
+  <w>får</w>
+  <w>konsulterna</w>
+  <w>ersättning</w>
+  <w>utan</w>
+  <w>att</w>
+  <w>jobba</w>
+  <w>,</w>
+  <w>men</w>
+  <w>ska</w>
+  <w>vara</w>
+  <w>tillgängliga</w>
+  <w>för</w>
+  <w>uppdrag</w>
+  <w>.</w>
+  <w>Alternativet</w>
+  <w>är</w>
+  <w>att</w>
+  <w>de</w>
+  <w>varslas</w>
+  <w>,</w>
+  <w>sägs</w>
+  <w>upp</w>
+  <w>och</w>
+  <w>sätts</w>
+  <w>i</w>
+  <w>åtgärder</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=22>
+    <w>Bemanningsbranschen</w>
+  </absaspan>
+  <absaspan id=23 senti=4>
+    <w>är</w>
+    <w>bra</w>
+    <w>på</w>
+    <w>att</w>
+    <w>etablera</w>
+    <w>unga</w>
+    <w>och</w>
+    <w>invandrare</w>
+    <w>på</w>
+    <w>arbetsmarknaden</w>
+  </absaspan>
+  <w>.</w>
+  <w>Personer</w>
+  <w>med</w>
+  <w>utländsk</w>
+  <w>bakgrund</w>
+  <w>är</w>
+  <w>dubbelt</w>
+  <w>så</w>
+  <w>många</w>
+  <w>som</w>
+  <w>på</w>
+  <w>den</w>
+  <w>övriga</w>
+  <w>arbetsmarknaden</w>
+  <w>.</w>
+  <w>Många</w>
+  <w>får</w>
+  <w>sitt</w>
+  <w>första</w>
+  <w>jobb</w>
+  <w>hos</w>
+  <w>oss</w>
+  <w>,</w>
+  <w>provar</w>
+  <w>olika</w>
+  <w>yrken</w>
+  <w>och</w>
+  <w>breddar</w>
+  <w>sin</w>
+  <w>erfarenhet</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=24>
+    <w>Gideonsson</w>
+  </absaspan>
+  <absaspan id=25 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>att</w>
+    <w>arbetsgivarna</w>
+    <w>i</w>
+    <w>handeln</w>
+    <w>ska</w>
+    <w>svara</w>
+    <w>på</w>
+    <w>:</w>
+    <w>Vilken</w>
+    <w>framtid</w>
+    <w>ser</w>
+    <w>de</w>
+    <w>för</w>
+    <w>branschen</w>
+    <w>?</w>
+  </absaspan>
+  <w>Den</w>
+  <w>frågan</w>
+  <absaspan id=27 senti=4>
+    <w>kan</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>vi</w>
+    <w>i</w>
+    <w>bemanningsbranschen</w>
+  </absaspan>
+  <absaspan id=29 senti=4>
+    <w>hjälpa</w>
+  </absaspan>
+  <absaspan id=30 senti=4>
+    <w>dem</w>
+  </absaspan>
+  <w>att</w>
+  <w>besvara</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+</absapar>
+<absapar id=9>
+  <w>.</w>
+  <w>►</w>
+  <w>Häng</w>
+  <w>med</w>
+  <w>i</w>
+  <w>debatten</w>
+  <w>och</w>
+  <w>kommentera</w>
+  <w>artikeln</w>
+  <w>–</w>
+  <w>följ</w>
+  <w> </w>
+  <w>Aftonbladet</w>
+  <w>Debatt</w>
+  <w> </w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>.</w>
+</absapar>
+</absadoc>

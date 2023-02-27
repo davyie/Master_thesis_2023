@@ -1,0 +1,489 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Tror</w>
+  <w>du</w>
+  <w>på</w>
+  <w>änglar</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>När</w>
+  <w>den</w>
+  <w>norska</w>
+  <w>prinsessan</w>
+  <w>Märtha</w>
+  <w>Louise</w>
+  <w>i</w>
+  <w>en</w>
+  <absaspan id=1 senti=5>
+    <w>öppenhjärtig</w>
+  </absaspan>
+  <w>intervju</w>
+  <w>i</w>
+  <w>somras</w>
+  <w>berättade</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>trodde</w>
+  <w>på</w>
+  <w>änglar</w>
+  <w>och</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>kunde</w>
+  <w>kommunicera</w>
+  <w>med</w>
+  <w>dem</w>
+  <w>,</w>
+  <w>väckte</w>
+  <w>det</w>
+  <w>stor</w>
+  <w>uppmärksamhet</w>
+  <w>och</w>
+  <w>ganska</w>
+  <w>stort</w>
+  <w>intresse</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>har</w>
+  <w>av</w>
+  <absaspan id=2>
+    <w>många</w>
+  </absaspan>
+  <w>uppfattats</w>
+  <w>som</w>
+  <absaspan id=3 senti=2>
+    <w>något</w>
+    <w>väl</w>
+    <w>entusiastiskt</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=4 senti=1>
+    <w>suspekt</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>att</w>
+    <w>ha</w>
+    <w>en</w>
+    <w>sådan</w>
+    <w>tro</w>
+  </absaspan>
+  <w>,</w>
+  <w>särskilt</w>
+  <w>när</w>
+  <w>man</w>
+  <w>som</w>
+  <w>del</w>
+  <w>av</w>
+  <w>näringsverksamhet</w>
+  <w>inviterar</w>
+  <w>till</w>
+  <w>kurs</w>
+  <w>i</w>
+  <w>kommunikation</w>
+  <w>med</w>
+  <w>änglar</w>
+  <w>.</w>
+  <w>Den</w>
+  <w>delen</w>
+  <w>av</w>
+  <w>temat</w>
+  <w>ska</w>
+  <w>vi</w>
+  <w>låta</w>
+  <w>ligga</w>
+  <w>här</w>
+  <w>,</w>
+  <w>men</w>
+  <w>heller</w>
+  <w>ställa</w>
+  <w>frågan</w>
+  <w>om</w>
+  <w>änglar</w>
+  <w>faktiskt</w>
+  <w>finns</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=6>
+    <w>Alla</w>
+    <w>som</w>
+    <w>har</w>
+    <w>hört</w>
+    <w>julevangeliet</w>
+    <w>från</w>
+    <w>Bibeln</w>
+  </absaspan>
+  <w>,</w>
+  <w>har</w>
+  <w>fått</w>
+  <w>med</w>
+  <w>sig</w>
+  <w>att</w>
+  <absaspan id=7>
+    <w>änglarna</w>
+  </absaspan>
+  <absaspan id=8 senti=5>
+    <w>spelade</w>
+    <w>en</w>
+    <w>viktig</w>
+    <w>roll</w>
+  </absaspan>
+  <w>som</w>
+  <w>budbärare</w>
+  <w>till</w>
+  <w>herdarna</w>
+  <w>på</w>
+  <w>marken</w>
+  <w>.</w>
+  <w>Likadant</w>
+  <w>var</w>
+  <w>det</w>
+  <w>en</w>
+  <w>ängel</w>
+  <w>som</w>
+  <w>delgav</w>
+  <w>Elisabet</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>skulle</w>
+  <w>bli</w>
+  <w>mor</w>
+  <w>till</w>
+  <w>döparen</w>
+  <w>Johannes</w>
+  <w>,</w>
+  <w>och</w>
+  <w>det</w>
+  <w>var</w>
+  <w>en</w>
+  <w>ängel</w>
+  <w>som</w>
+  <w>talade</w>
+  <w>om</w>
+  <w>för</w>
+  <w>Maria</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>skulle</w>
+  <w>bli</w>
+  <w>mor</w>
+  <w>till</w>
+  <w>Jesus</w>
+  <w>Kristus</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=9>
+    <w>Bibeln</w>
+  </absaspan>
+  <w>berättar</w>
+  <w>alltså</w>
+  <w>om</w>
+  <absaspan id=10>
+    <w>änglar</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>den</w>
+  <w>säger</w>
+  <w>också</w>
+  <w>något</w>
+  <w>om</w>
+  <w>vilken</w>
+  <w>funktion</w>
+  <w>de</w>
+  <w>har</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>De</w>
+  <w>är</w>
+  <w>Guds</w>
+  <w>tjänande</w>
+  <w>andar</w>
+  <w>som</w>
+  <w>är</w>
+  <absaspan id=11 senti=5>
+    <w>utsända</w>
+    <w>till</w>
+    <w>hjälp</w>
+  </absaspan>
+  <w>för</w>
+  <w>dom</w>
+  <w>som</w>
+  <w>ska</w>
+  <w>ärva</w>
+  <w>frälsa</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=12>
+    <w>Änglarna</w>
+  </absaspan>
+  <w>är</w>
+  <w>tjänare</w>
+  <w>och</w>
+  <w>budbärare</w>
+  <w>från</w>
+  <w>Gud</w>
+  <w>,</w>
+  <w>och</w>
+  <w>som</w>
+  <w>budbärare</w>
+  <w>skall</w>
+  <w>de</w>
+  <w>inte</w>
+  <absaspan id=13 senti=2>
+    <w>komma</w>
+    <w>i</w>
+    <w>vägen</w>
+  </absaspan>
+  <w>för</w>
+  <w>budskapet</w>
+  <w>.</w>
+  <w>Som</w>
+  <w>andliga</w>
+  <w>väsen</w>
+  <w>utsända</w>
+  <w>från</w>
+  <w>Gud</w>
+  <w>,</w>
+  <absaspan id=14 senti=5>
+    <w>ger</w>
+  </absaspan>
+  <w>de</w>
+  <absaspan id=15 senti=5>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=16 senti=5>
+    <w>mäktigt</w>
+    <w>intryck</w>
+  </absaspan>
+  <w>när</w>
+  <w>de</w>
+  <w>uppenbarar</w>
+  <w>sig</w>
+  <w>.</w>
+  <w>För</w>
+  <w>att</w>
+  <w>beskriva</w>
+  <w>några</w>
+  <w>av</w>
+  <w>intrycken</w>
+  <w>,</w>
+  <w>har</w>
+  <w>ord</w>
+  <w>som</w>
+  <absaspan id=17 senti=5>
+    <w>vördnad</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=18 senti=5>
+    <w>dyrkan</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=19 senti=5>
+    <w>glädje</w>
+  </absaspan>
+  <w>använts</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>när</w>
+  <w>dessa</w>
+  <w>starka</w>
+  <w>intryck</w>
+  <w>har</w>
+  <w>medfört</w>
+  <w>att</w>
+  <w>folk</w>
+  <w>ville</w>
+  <absaspan id=20>
+    <w>tillbe</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>änglar</w>
+  </absaspan>
+  <w>eller</w>
+  <w>söka</w>
+  <w>kontakt</w>
+  <w>med</w>
+  <w>dom</w>
+  <w>,</w>
+  <w>är</w>
+  <w>det</w>
+  <w>i</w>
+  <absaspan id=22>
+    <w>Bibeln</w>
+  </absaspan>
+  <w>i</w>
+  <w>klara</w>
+  <w>ord</w>
+  <absaspan id=23 senti=2>
+    <w>varnat</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>detta</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Vi</w>
+  <w>får</w>
+  <w>dessutom</w>
+  <w>också</w>
+  <w>påminna</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=25>
+    <w>Guds</w>
+    <w>motståndare</w>
+  </absaspan>
+  <w>faktiskt</w>
+  <w>är</w>
+  <w>en</w>
+  <w>ängel</w>
+  <w>som</w>
+  <w>gjorde</w>
+  <absaspan id=26 senti=1>
+    <w>uppror</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>Gud</w>
+  </absaspan>
+  <w>och</w>
+  <w>själv</w>
+  <w>ville</w>
+  <w>ha</w>
+  <w>makt</w>
+  <w>och</w>
+  <w>tillbedjan</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=28>
+    <w>Många</w>
+  </absaspan>
+  <absaspan id=29 senti=4>
+    <w>längtar</w>
+    <w>och</w>
+    <w>söker</w>
+    <w>en</w>
+    <w>andlig</w>
+    <w>dimension</w>
+    <w>i</w>
+    <w>livet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Att</w>
+  <w>detta</w>
+  <w>medför</w>
+  <w>fokus</w>
+  <w>på</w>
+  <w>änglar</w>
+  <w>,</w>
+  <w>och</w>
+  <w>på</w>
+  <w>kommunikation</w>
+  <w>med</w>
+  <w>dem</w>
+  <w>,</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>tecken</w>
+  <w>vi</w>
+  <w>skall</w>
+  <w>ta</w>
+  <w>på</w>
+  <w>allvar</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Men</w>
+  <absaspan id=30>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=31 senti=4>
+    <w>måste</w>
+    <w>i</w>
+    <w>respekt</w>
+    <w>för</w>
+    <w>våra</w>
+    <w>medmänniskor</w>
+    <w>hålla</w>
+    <w>fast</w>
+    <w>vid</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>den</w>
+    <w>sanning</w>
+    <w>som</w>
+    <w>Bibeln</w>
+    <w>vittnar</w>
+    <w>om</w>
+  </absaspan>
+  <w>:</w>
+  <w>Frälsa</w>
+  <w>,</w>
+  <w>och</w>
+  <w>kontakt</w>
+  <w>med</w>
+  <w>Gud</w>
+  <w>får</w>
+  <w>man</w>
+  <w>inte</w>
+  <w>genom</w>
+  <w>kommunikation</w>
+  <w>med</w>
+  <w>änglar</w>
+  <w>.</w>
+  <w>Därför</w>
+  <w>att</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>endast</w>
+  <w>en</w>
+  <w>mellan</w>
+  <w>Gud</w>
+  <w>och</w>
+  <w>människan</w>
+  <w>:</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>Jesus</w>
+  <w>Kristus</w>
+  <absaspan id=33 senti=4>
+    <w>.</w>
+  </absaspan>
+  <w>Det</w>
+  <w>är</w>
+  <w>honom</w>
+  <w>vi</w>
+  <w>skall</w>
+  <w>söka</w>
+  <w>,</w>
+  <w>och</w>
+  <w>det</w>
+  <w>är</w>
+  <w>honom</w>
+  <w>vi</w>
+  <w>skall</w>
+  <w>tillbe</w>
+  <w>!</w>
+  <w>?</w>
+  <absaspan id=34 senti=4>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=10>
+  <w>Bjørnar</w>
+  <w>Otterstein</w>
+  <w>.</w>
+</absapar>
+</absadoc>

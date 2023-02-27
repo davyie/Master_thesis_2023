@@ -1,0 +1,47 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>75</w>
+  <w>-</w>
+  <w>åring</w>
+  <w>dömd</w>
+  <w>för</w>
+  <absaspan id=1 senti=1>
+    <w>rashets</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Tycker</w>
+  <w>han</w>
+  <w>borde</w>
+  <w>lagt</w>
+  <w>band</w>
+  <w>på</w>
+  <w>sig</w>
+  <w>.</w>
+  <w>Tjejen</w>
+  <w>var</w>
+  <w>en</w>
+  <w>sommarjobbare</w>
+  <w>och</w>
+  <w>det</w>
+  <w>var</w>
+  <w>hennes</w>
+  <w>tionde</w>
+  <w>dag</w>
+  <w>.</w>
+  <w>Kan</w>
+  <w>inte</w>
+  <w>ha</w>
+  <w>känts</w>
+  <w>så</w>
+  <w>bra</w>
+  <absaspan id=2 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

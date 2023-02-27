@@ -1,0 +1,227 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Svenska</w>
+  <w>män</w>
+  <w>:</w>
+  <absaspan id=1 senti=2 target=2>
+    <w>Sluta</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>rasmixa</w>
+    <w>med</w>
+    <w>asiater</w>
+  </absaspan>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>Hej</w>
+  <w>Flashback</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Varje</w>
+  <w>dag</w>
+  <w>ser</w>
+  <w>jag</w>
+  <w>svenska</w>
+  <w>män</w>
+  <w>med</w>
+  <absaspan id=3 senti=2>
+    <w>importfruar</w>
+  </absaspan>
+  <w>från</w>
+  <w>asien</w>
+  <w>.</w>
+  <w>Även</w>
+  <w>flera</w>
+  <w>invandringskritiska</w>
+  <w>flashbackanvändare</w>
+  <w>skriver</w>
+  <w>att</w>
+  <w>de</w>
+  <w>har</w>
+  <w>en</w>
+  <w>asiatisk</w>
+  <w>fru</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Jag</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>lägga</w>
+  <w>fram</w>
+  <w>bevis</w>
+  <w>och</w>
+  <w>argument</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=4>
+    <w>rasmixning</w>
+    <w>med</w>
+    <w>asiatiskor</w>
+    <w>eller</w>
+    <w>andra</w>
+    <w>ickevita</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>medför</w>
+    <w>olyckliga</w>
+    <w>barn</w>
+    <w>och</w>
+    <w>bidrar</w>
+    <w>till</w>
+    <w>ett</w>
+    <w>sämre</w>
+    <w>samhälle</w>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>Källa</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Källa</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Källa</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>.</w>
+  <w>-</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Källa</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Källa</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Källa</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Källa</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Källa</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <absaspan id=6 senti=2>
+    <w>Mer</w>
+    <w>eller</w>
+    <w>mindre</w>
+    <w>allting</w>
+    <w>kommer</w>
+    <w>att</w>
+    <w>bli</w>
+    <w>sämre</w>
+    <w>för</w>
+    <w>mixrasbarnet</w>
+  </absaspan>
+  <w>jämfört</w>
+  <w>med</w>
+  <w>om</w>
+  <w>svenska</w>
+  <w>pappan</w>
+  <w>valt</w>
+  <w>att</w>
+  <w>ha</w>
+  <w>barn</w>
+  <w>med</w>
+  <w>en</w>
+  <w>svensk</w>
+  <w>eller</w>
+  <w>iallafall</w>
+  <w>en</w>
+  <w>vit</w>
+  <w>tjej</w>
+  <w>.</w>
+  <absaspan id=7 senti=2>
+    <w>Svenskar</w>
+    <w>kommer</w>
+    <w>att</w>
+    <w>undvika</w>
+    <w>svenske</w>
+    <w>mannens</w>
+    <w>mixrasfamilj</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=8 senti=2>
+    <w>blir</w>
+  </absaspan>
+  <w>större</w>
+  <w>etnisk</w>
+  <w>mångfald</w>
+  <w>och</w>
+  <absaspan id=9 senti=2>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>sämre</w>
+    <w>samhälle</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Min</w>
+  <w>fråga</w>
+  <w>till</w>
+  <w>er</w>
+  <w>som</w>
+  <w>rasmixar</w>
+  <w>:</w>
+  <w>Varför</w>
+  <w>gör</w>
+  <w>ni</w>
+  <w>det</w>
+  <w>?</w>
+  <w>Bryr</w>
+  <w>ni</w>
+  <w>er</w>
+  <w>inte</w>
+  <w>om</w>
+  <w>era</w>
+  <w>barns</w>
+  <w>lycka</w>
+  <w>?</w>
+  <w>Bryr</w>
+  <w>ni</w>
+  <w>er</w>
+  <w>inte</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=11>
+    <w>ni</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>bidrar</w>
+    <w>till</w>
+    <w>att</w>
+    <w>skapa</w>
+    <w>ett</w>
+    <w>sämre</w>
+    <w>samhälle</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

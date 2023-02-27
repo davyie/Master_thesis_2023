@@ -1,0 +1,177 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Feminister</w>
+  <w>dör</w>
+  <w>ensamma</w>
+  <w>utan</w>
+  <w>partner</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Sveriges</w>
+  <w>feminism</w>
+  <w>skapar</w>
+  <w>ensamhet</w>
+  <w>och</w>
+  <w>psykisk</w>
+  <w>ensamhet</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Hur</w>
+  <w>många</w>
+  <w>ensamma</w>
+  <w>och</w>
+  <absaspan id=1 senti=2>
+    <w>bittra</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>feminister</w>
+  </absaspan>
+  <w>finns</w>
+  <w>det</w>
+  <w>numera</w>
+  <w>är</w>
+  <w>dom</w>
+  <w>lyckligare</w>
+  <w>än</w>
+  <w>dom</w>
+  <w>som</w>
+  <w>lever</w>
+  <w>i</w>
+  <w>relationer</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Nej</w>
+  <w>.</w>
+  <w>.</w>
+  <absaspan id=3>
+    <w>Feminism</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>leder</w>
+    <w>till</w>
+    <w>ensamhet</w>
+    <w>och</w>
+    <w>utanförskap</w>
+  </absaspan>
+  <w>i</w>
+  <w>alla</w>
+  <w>åldar</w>
+  <w>och</w>
+  <w>samhällsklasser</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Svensk</w>
+  <w>feminism</w>
+  <w>bygger</w>
+  <w>på</w>
+  <absaspan id=5 senti=1>
+    <w>manshat</w>
+  </absaspan>
+  <w>inte</w>
+  <w>riktig</w>
+  <w>feminism</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Utländska</w>
+  <w>kvinnor</w>
+  <w>är</w>
+  <w>lyckligare</w>
+  <w>i</w>
+  <w>sina</w>
+  <w>äktenskap</w>
+  <w>än</w>
+  <w>vad</w>
+  <w>ensamma</w>
+  <w>feminister</w>
+  <w>är</w>
+  <w>.</w>
+  <w>.</w>
+  <w>Varför</w>
+  <w>då</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Helt</w>
+  <w>enkelt</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=6 senti=4>
+    <w>är</w>
+    <w>bättre</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>att</w>
+    <w>ha</w>
+    <w>någon</w>
+    <w>att</w>
+    <w>älska</w>
+    <w>/</w>
+    <w>hata</w>
+  </absaspan>
+  <w>än</w>
+  <w>ingen</w>
+  <w>alls</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Vi</w>
+  <w>står</w>
+  <w>inför</w>
+  <w>en</w>
+  <w>stor</w>
+  <w>förändring</w>
+  <w>där</w>
+  <absaspan id=8>
+    <w>många</w>
+    <w>kvinnor</w>
+  </absaspan>
+  <w>kommer</w>
+  <w>prova</w>
+  <w>på</w>
+  <w>utländska</w>
+  <w>män</w>
+  <w>och</w>
+  <absaspan id=9 senti=2>
+    <w>bli</w>
+    <w>bittert</w>
+    <w>besvikna</w>
+  </absaspan>
+  <w>och</w>
+  <w>som</w>
+  <w>sedan</w>
+  <w>blir</w>
+  <w>avvisade</w>
+  <w>av</w>
+  <w>svenska</w>
+  <w>män</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>vill</w>
+  <w>ha</w>
+  <w>en</w>
+  <w>begagnad</w>
+  <absaspan id=10 senti=2>
+    <w>blatte</w>
+  </absaspan>
+  <w>fitta</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Så</w>
+  <w>ilsknare</w>
+  <w>feminister</w>
+  <w>är</w>
+  <w>att</w>
+  <w>förvänta</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+</absadoc>

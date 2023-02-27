@@ -1,0 +1,132 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Hur</w>
+  <w>upplever</w>
+  <w>ni</w>
+  <w>Göteborg</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>såg</w>
+  <w>en</w>
+  <w>tråd</w>
+  <w>om</w>
+  <absaspan id=1>
+    <w>malmö</w>
+  </absaspan>
+  <w>och</w>
+  <w>hur</w>
+  <absaspan id=2 senti=2>
+    <w>dekadent</w>
+  </absaspan>
+  <w>det</w>
+  <w>var</w>
+  <w>,</w>
+  <w>vilket</w>
+  <w>promptade</w>
+  <w>mig</w>
+  <w>till</w>
+  <w>att</w>
+  <w>skapa</w>
+  <w>denna</w>
+  <w>tråd</w>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Jag</w>
+  <w>residerar</w>
+  <w>i</w>
+  <absaspan id=4>
+    <w>Göteborg</w>
+  </absaspan>
+  <w>,</w>
+  <w>har</w>
+  <w>bott</w>
+  <w>i</w>
+  <w>staden</w>
+  <w>i</w>
+  <w>hela</w>
+  <w>mitt</w>
+  <w>liv</w>
+  <w>,</w>
+  <absaspan id=5>
+    <w>en</w>
+    <w>stad</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>jag</w>
+  </absaspan>
+  <w>anser</w>
+  <absaspan id=7 senti=1>
+    <w>är</w>
+    <w>riktigt</w>
+    <w>degenererad</w>
+  </absaspan>
+  <w>.</w>
+  <w>Inte</w>
+  <w>london</w>
+  <w>/</w>
+  <w>paris</w>
+  <w>/</w>
+  <w>malmö-förfallen</w>
+  <w>men</w>
+  <w>den</w>
+  <w>har</w>
+  <w>riktningen</w>
+  <w>inställd</w>
+  <w>på</w>
+  <w>det</w>
+  <w>.</w>
+  <w>Finns</w>
+  <w>dock</w>
+  <w>en</w>
+  <w>del</w>
+  <w>områden</w>
+  <w>i</w>
+  <w>metropola</w>
+  <w>Göteborg</w>
+  <w>som</w>
+  <w>är</w>
+  <w>relativt</w>
+  <w>homogena</w>
+  <w>(</w>
+  <w>Linné</w>
+  <w>,</w>
+  <w>Haga</w>
+  <w>,</w>
+  <w>Johanneberg</w>
+  <w>,</w>
+  <w>örgryte</w>
+  <w>)</w>
+  <w>,</w>
+  <w>i</w>
+  <w>kontrast</w>
+  <w>med</w>
+  <w>"</w>
+  <w>centrala</w>
+  <w>"</w>
+  <w>Göteborg</w>
+  <w>,</w>
+  <w>t.ex</w>
+  <w>.</w>
+  <w>nordstan</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Hur</w>
+  <w>illa</w>
+  <w>uppfattar</w>
+  <w>ni</w>
+  <w>att</w>
+  <w>läget</w>
+  <w>i</w>
+  <w>Göteborg</w>
+  <w>är</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

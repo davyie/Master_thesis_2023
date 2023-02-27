@@ -1,0 +1,54 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Tre</w>
+  <w>människor</w>
+  <w>ihjälskjutna</w>
+  <w>på</w>
+  <w>en</w>
+  <w>restaurang</w>
+  <w>i</w>
+  <w>Imatra</w>
+  <w>-</w>
+  <w>Finland</w>
+  <w>2016</w>
+  <w>-</w>
+  <w>12</w>
+  <w>-</w>
+  <w>03</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>3</w>
+  <w>stycken</w>
+  <w>ska</w>
+  <w>ha</w>
+  <w>blivit</w>
+  <w>ihjälskjutna</w>
+  <w>i</w>
+  <w>Finland</w>
+  <w>nyligen</w>
+  <w>.</w>
+  <w>Har</w>
+  <absaspan id=1>
+    <w>Finland</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>börjat</w>
+    <w>hämtat</w>
+    <w>inspiration</w>
+    <w>från</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>?</w>
+  <w>Polisen</w>
+  <w>är</w>
+  <w>förtegen</w>
+  <w>om</w>
+  <w>händelsen</w>
+  <w>.</w>
+</absapar>
+</absadoc>

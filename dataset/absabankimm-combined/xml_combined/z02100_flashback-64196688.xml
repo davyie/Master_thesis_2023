@@ -1,0 +1,357 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Bluffen</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=2>
+    <w>en</w>
+    <w>"</w>
+    <w>åldrande</w>
+    <w>befolkning</w>
+    <w>"</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Vi</w>
+  <w>får</w>
+  <w>ju</w>
+  <w>höra</w>
+  <w>täta</w>
+  <w>rapporter</w>
+  <w>om</w>
+  <w>hur</w>
+  <w>mycket</w>
+  <w>medellivslängden</w>
+  <w>ökat</w>
+  <w>och</w>
+  <w>fortfarande</w>
+  <w>ökar</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Pensionsbolagen</w>
+  <w>är</w>
+  <w>förmodligen</w>
+  <w>drivande</w>
+  <w>i</w>
+  <w>detta</w>
+  <w>då</w>
+  <w>det</w>
+  <w>är</w>
+  <w>gynnsamt</w>
+  <w>att</w>
+  <w>räkna</w>
+  <w>på</w>
+  <w>en</w>
+  <w>längre</w>
+  <w>livslängd</w>
+  <w>och</w>
+  <w>därmed</w>
+  <w>få</w>
+  <w>betala</w>
+  <w>ut</w>
+  <w>mindre</w>
+  <w>månatliga</w>
+  <w>summor</w>
+  <absaspan id=3 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Läste</w>
+  <w>en</w>
+  <w>artikel</w>
+  <w>idag</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Där</w>
+  <w>sägs</w>
+  <w>att</w>
+  <w>medellivslängden</w>
+  <w>numera</w>
+  <w>är</w>
+  <w>ca</w>
+  <w>80</w>
+  <w>år</w>
+  <w>för</w>
+  <w>män</w>
+  <w>och</w>
+  <w>84</w>
+  <w>år</w>
+  <w>för</w>
+  <w>kvinnor</w>
+  <w>.</w>
+  <w>Visst</w>
+  <w>ok</w>
+  <w>,</w>
+  <absaspan id=4 senti=2>
+    <w>det</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=5 senti=2>
+    <w>bekymrar</w>
+  </absaspan>
+  <w>mig</w>
+  <w>dock</w>
+  <w>är</w>
+  <absaspan id=6>
+    <w>följande</w>
+    <w>text</w>
+    <w>ifrån</w>
+    <w>ovan</w>
+    <w>nämnda</w>
+    <w>sida</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>"</w>
+  <absaspan id=7>
+    <w>Ökningen</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>i</w>
+    <w>medellivslängd</w>
+    <w>förklaras</w>
+    <w>sedan</w>
+    <w>flera</w>
+    <w>decennier</w>
+    <w>av</w>
+    <w>minskad</w>
+    <w>dödlighet</w>
+    <w>i</w>
+    <w>medel</w>
+    <w>-</w>
+    <w>och</w>
+    <w>pensionsåldern</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Vad</w>
+  <w>de</w>
+  <w>säger</w>
+  <w>här</w>
+  <w>tolkar</w>
+  <w>jag</w>
+  <w>som</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>eventuellt</w>
+  <w>inte</w>
+  <w>alls</w>
+  <w>lever</w>
+  <w>många</w>
+  <w>år</w>
+  <w>ytterliggare</w>
+  <w>som</w>
+  <w>70</w>
+  <w>och</w>
+  <w>80</w>
+  <w>plussare</w>
+  <w>.</w>
+  <w>Däremot</w>
+  <w>är</w>
+  <w>det</w>
+  <w>färre</w>
+  <w>som</w>
+  <w>går</w>
+  <w>bort</w>
+  <w>i</w>
+  <w>medelåldern</w>
+  <w>och</w>
+  <w>fler</w>
+  <w>som</w>
+  <w>uppnår</w>
+  <w>pensionsåldern</w>
+  <w>och</w>
+  <w>kanske</w>
+  <w>ytterligare</w>
+  <w>några</w>
+  <w>år</w>
+  <w>.</w>
+  <w>Inte</w>
+  <w>så</w>
+  <w>mycket</w>
+  <w>att</w>
+  <w>jag</w>
+  <w>kommer</w>
+  <w>leva</w>
+  <w>ett</w>
+  <w>antal</w>
+  <w>år</w>
+  <w>längre</w>
+  <w>än</w>
+  <w>min</w>
+  <w>pappa</w>
+  <w>eller</w>
+  <w>hans</w>
+  <w>pappa</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Självklart</w>
+  <w>trycks</w>
+  <w>medellivslängden</w>
+  <w>upp</w>
+  <w>om</w>
+  <w>de</w>
+  <w>som</w>
+  <w>tidigare</w>
+  <w>dog</w>
+  <w>i</w>
+  <w>förtid</w>
+  <w>kan</w>
+  <w>leva</w>
+  <w>lite</w>
+  <w>längre</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=9>
+    <w>att</w>
+    <w>jag</w>
+    <w>ska</w>
+    <w>få</w>
+    <w>betala</w>
+    <w>detta</w>
+    <w>med</w>
+    <w>en</w>
+    <w>lägre</w>
+    <w>pension</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>känns</w>
+    <w>sådär</w>
+  </absaspan>
+  <w>tycker</w>
+  <w>jag</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Antingen</w>
+  <w>så</w>
+  <absaspan id=11 senti=2>
+    <w>tror</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>vi</w>
+    <w>inte</w>
+    <w>begriper</w>
+    <w>bättre</w>
+  </absaspan>
+  <w>,</w>
+  <w>eller</w>
+  <w>så</w>
+  <absaspan id=15 senti=2>
+    <w>räknar</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>att</w>
+    <w>vi</w>
+    <w>svenskar</w>
+    <w>är</w>
+    <w>anpassningsbara</w>
+    <w>får</w>
+  </absaspan>
+  <w>som</w>
+  <w>bara</w>
+  <w>sväljer</w>
+  <w>den</w>
+  <w>skit</w>
+  <w>de</w>
+  <w>kastar</w>
+  <w>på</w>
+  <w>oss</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <absaspan id=19>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=20 senti=4>
+    <w>vore</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>eventuellt</w>
+  </absaspan>
+  <absaspan id=22 senti=4>
+    <w>intressantare</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>medianlivslängd</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>,</w>
+    <w>men</w>
+    <w>ett</w>
+    <w>värde</w>
+    <w>för</w>
+    <w>detta</w>
+    <w>är</w>
+    <w>bra</w>
+    <w>mycket</w>
+    <w>svårare</w>
+    <w>att</w>
+    <w>googla</w>
+    <w>fram</w>
+  </absaspan>
+  <w>.</w>
+  <w>Jag</w>
+  <w>förstår</w>
+  <w>varför</w>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=26 senti=2>
+    <w>gillar</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=28 senti=2>
+    <w>inte</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Vad</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>?</w>
+  <w>Är</w>
+  <w>det</w>
+  <w>bara</w>
+  <w>jag</w>
+  <w>som</w>
+  <w>är</w>
+  <w>konspiratorisk</w>
+  <w>eller</w>
+  <w>har</w>
+  <w>jag</w>
+  <w>en</w>
+  <w>poäng</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

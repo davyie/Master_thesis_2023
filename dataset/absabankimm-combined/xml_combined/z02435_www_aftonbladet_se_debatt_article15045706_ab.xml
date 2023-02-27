@@ -1,0 +1,735 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <absaspan id=1>
+    <w>SD</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=2 senti=4 target=3 source=1>
+    <w>Vi</w>
+    <w>behöver</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>ett</w>
+    <w>femte</w>
+    <w>jobbskatteavdrag</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4>
+    <w>Vi</w>
+    <w>sverigedemokrater</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>är</w>
+    <w>i</w>
+    <w>grunden</w>
+    <w>positivt</w>
+    <w>inställda</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>jobbskatteavdragen</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>gett</w>
+  <w>störst</w>
+  <w>effekt</w>
+  <w>för</w>
+  <w>vanliga</w>
+  <w>löntagare</w>
+  <w>och</w>
+  <w>för</w>
+  <w>sysselsättningen</w>
+  <w>av</w>
+  <w>alla</w>
+  <w>regeringens</w>
+  <w>reformer</w>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=7 senti=4>
+    <w>ska</w>
+    <w>löna</w>
+    <w>sig</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>för</w>
+    <w>vanligt</w>
+    <w>folk</w>
+    <w>att</w>
+    <w>jobba</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=9>
+    <w>polisen</w>
+    <w>,</w>
+    <w>busschauffören</w>
+    <w>och</w>
+    <w>sjuksköterskan</w>
+    <w>ska</w>
+    <w>alltid</w>
+    <w>känna</w>
+    <w>att</w>
+    <w>deras</w>
+    <w>jobb</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>är</w>
+    <w>viktigt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>På</w>
+  <w>grund</w>
+  <w>av</w>
+  <w>det</w>
+  <w>ekonomiska</w>
+  <w>läget</w>
+  <w>menar</w>
+  <w>en</w>
+  <w>samlad</w>
+  <w>expertis</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>att</w>
+  <w>svensk</w>
+  <w>ekonomi</w>
+  <w>behöver</w>
+  <w>stimulanser</w>
+  <w>för</w>
+  <w>sysselsättning</w>
+  <w>.</w>
+  <absaspan id=11>
+    <w>Den</w>
+    <w>reform</w>
+    <w>som</w>
+    <w>anses</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>ge</w>
+    <w>störst</w>
+    <w>effekt</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>är</w>
+    <w>just</w>
+    <w>ytterligare</w>
+    <w>jobbskatteavdrag</w>
+  </absaspan>
+  <w>.</w>
+  <w>Tidigare</w>
+  <w>antaganden</w>
+  <w>om</w>
+  <w>en</w>
+  <w>avtagande</w>
+  <w>effekt</w>
+  <w>vid</w>
+  <w>ytterligare</w>
+  <w>avdrag</w>
+  <w>har</w>
+  <w>tagits</w>
+  <w>tillbaka</w>
+  <w>.</w>
+  <w>Därför</w>
+  <absaspan id=14 senti=4>
+    <w>kommer</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=16 senti=4>
+    <w>försöka</w>
+  </absaspan>
+  <absaspan id=17 senti=4>
+    <w>driva</w>
+    <w>igenom</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>ett</w>
+    <w>femte</w>
+    <w>jobbskatteavdrag</w>
+  </absaspan>
+  <w>i</w>
+  <w>höstens</w>
+  <w>statsbudget</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Även</w>
+  <w>när</w>
+  <w>frågan</w>
+  <w>ställdes</w>
+  <w>på</w>
+  <w>sin</w>
+  <w>spets</w>
+  <w>under</w>
+  <w>förra</w>
+  <w>året</w>
+  <absaspan id=19 senti=4>
+    <w>sa</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=21 senti=4>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=22 senti=4>
+    <w>ja</w>
+    <w>"</w>
+  </absaspan>
+  <w>–</w>
+  <absaspan id=23>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=24 senti=3>
+    <w>är</w>
+    <w>öppna</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>ett</w>
+    <w>femte</w>
+    <w>avdrag</w>
+  </absaspan>
+  <w>under</w>
+  <w>förutsättning</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>också</w>
+  <w>får</w>
+  <w>utrymme</w>
+  <w>att</w>
+  <w>stärka</w>
+  <w>välfärden</w>
+  <w>och</w>
+  <w>sänka</w>
+  <w>skatten</w>
+  <w>på</w>
+  <w>pension</w>
+  <w>.</w>
+  <w>Detta</w>
+  <w>omöjliggjordes</w>
+  <w>när</w>
+  <absaspan id=26>
+    <w>regeringen</w>
+    <w>gjorde</w>
+    <w>upp</w>
+    <w>med</w>
+    <w>Miljöpartiet</w>
+    <w>om</w>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=27 senti=2>
+    <w>än</w>
+    <w>svagare</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>regelverk</w>
+    <w>för</w>
+    <w>invandring</w>
+  </absaspan>
+  <w>,</w>
+  <w>vilket</w>
+  <w>effektivt</w>
+  <w>kommit</w>
+  <w>att</w>
+  <w>sluka</w>
+  <w>budgetutrymmet</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>även</w>
+  <w>om</w>
+  <w>det</w>
+  <w>är</w>
+  <w>uppenbart</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>prioriterar</w>
+  <w>annorlunda</w>
+  <w>än</w>
+  <w>regeringen</w>
+  <w>,</w>
+  <w>så</w>
+  <w>vill</w>
+  <w>vi</w>
+  <w>vara</w>
+  <w>tydliga</w>
+  <w>med</w>
+  <w>att</w>
+  <absaspan id=29>
+    <w>jobbskatteavdraget</w>
+  </absaspan>
+  <absaspan id=30 senti=3>
+    <w>inte</w>
+    <w>är</w>
+    <w>en</w>
+    <w>av</w>
+    <w>de</w>
+    <w>reformer</w>
+    <w>som</w>
+    <w>vi</w>
+    <w>gärna</w>
+    <w>bidrar</w>
+    <w>till</w>
+    <w>att</w>
+    <w>riva</w>
+    <w>upp</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=31>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=32 senti=4>
+    <w>kommer</w>
+    <w>att</w>
+    <w>prioritera</w>
+  </absaspan>
+  <absaspan id=33 senti=4>
+    <w>välfärden</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>,</w>
+    <w>inte</w>
+    <w>minst</w>
+    <w>äldrevården</w>
+    <w>och</w>
+    <w>pensionerna</w>
+  </absaspan>
+  <w>.</w>
+  <w>Trots</w>
+  <w>det</w>
+  <w>kommer</w>
+  <w>vi</w>
+  <w>ha</w>
+  <w>råd</w>
+  <w>med</w>
+  <w>såväl</w>
+  <w>jobbskatteavderag</w>
+  <w>som</w>
+  <w>sänkta</w>
+  <w>arbetsgivaravgifter</w>
+  <w>och</w>
+  <w>minskat</w>
+  <w>sjuklöneansvar</w>
+  <w>för</w>
+  <w>mindre</w>
+  <w>företag</w>
+  <w>.</w>
+  <absaspan id=35>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=36 senti=4>
+    <w>kan</w>
+    <w>presentera</w>
+    <w>ett</w>
+    <w>kraftfullt</w>
+    <w>åtgärdspaket</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>möta</w>
+  <w>den</w>
+  <absaspan id=37 senti=2>
+    <w>negativa</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>utvecklingen</w>
+    <w>på</w>
+    <w>arbetsmarknaden</w>
+  </absaspan>
+  <w>och</w>
+  <w>samtidigt</w>
+  <absaspan id=39 senti=4>
+    <w>stärka</w>
+  </absaspan>
+  <absaspan id=40 senti=4>
+    <w>välfärden</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <w>Vi</w>
+  <w>skapar</w>
+  <w>under</w>
+  <w>kommande</w>
+  <w>budgetperiod</w>
+  <w>ett</w>
+  <w>reformutrymme</w>
+  <w>på</w>
+  <w>långt</w>
+  <w>över</w>
+  <w>hundra</w>
+  <w>miljarder</w>
+  <w>kronor</w>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=41>
+    <w>de</w>
+    <w>andra</w>
+    <w>partierna</w>
+  </absaspan>
+  <w>inte</w>
+  <w>kan</w>
+  <w>matcha</w>
+  <w>med</w>
+  <w>sin</w>
+  <absaspan id=42 senti=2>
+    <w>segregationspolitik</w>
+  </absaspan>
+  <w>.</w>
+  <w>Den</w>
+  <w>största</w>
+  <w>besparingen</w>
+  <w>sker</w>
+  <w>naturligtvis</w>
+  <w>genom</w>
+  <absaspan id=43>
+    <w>vår</w>
+  </absaspan>
+  <absaspan id=44 senti=4>
+    <w>ansvarsfulla</w>
+  </absaspan>
+  <absaspan id=45>
+    <w>invandringspolitik</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Vi</w>
+  <w>vill</w>
+  <w>också</w>
+  <w>hämta</w>
+  <w>hem</w>
+  <w>de</w>
+  <w>statliga</w>
+  <w>medel</w>
+  <w>som</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>ligger</w>
+  <w>i</w>
+  <w>de</w>
+  <w>privata</w>
+  <w>affärsbankernas</w>
+  <w>så</w>
+  <w>kallade</w>
+  <w>"</w>
+  <w>stabilitetsfond</w>
+  <w>”</w>
+  <w>.</w>
+  <w>Denna</w>
+  <w>trygghetsfond</w>
+  <w>för</w>
+  <w>bankerna</w>
+  <w>har</w>
+  <w>,</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>den</w>
+  <w>skulle</w>
+  <w>finansieras</w>
+  <w>av</w>
+  <w>bankerna</w>
+  <w>själva</w>
+  <w>,</w>
+  <w>hittills</w>
+  <w>fått</w>
+  <w>cirka</w>
+  <w>35</w>
+  <w>miljarder</w>
+  <w>av</w>
+  <w>skattebetalarnas</w>
+  <w>medel</w>
+  <w>efter</w>
+  <w>beslut</w>
+  <w>från</w>
+  <w>övriga</w>
+  <w>sju</w>
+  <w>riksdagspartier</w>
+  <w>,</w>
+  <absaspan id=46>
+    <w>finansminister</w>
+    <w>Borgs</w>
+  </absaspan>
+  <absaspan id=47 senti=2>
+    <w>teatraliska</w>
+    <w>utfall</w>
+  </absaspan>
+  <absaspan id=48>
+    <w>mot</w>
+    <w>bankerna</w>
+  </absaspan>
+  <w>till</w>
+  <w>trots</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>anser</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>fullt</w>
+  <w>rimligt</w>
+  <w>att</w>
+  <w>affärsbankerna</w>
+  <w>i</w>
+  <w>högre</w>
+  <w>grad</w>
+  <w>börjar</w>
+  <w>bära</w>
+  <w>sina</w>
+  <w>egna</w>
+  <w>risker</w>
+  <w>i</w>
+  <w>stället</w>
+  <w>för</w>
+  <w>att</w>
+  <w>de</w>
+  <w>ska</w>
+  <w>finansieras</w>
+  <w>med</w>
+  <w>inkomstskatt</w>
+  <w>från</w>
+  <w>kassörskor</w>
+  <w>och</w>
+  <w>vårdbiträden</w>
+  <w>.</w>
+  <w>Återtagen</w>
+  <w>ur</w>
+  <w>fonden</w>
+  <w>kan</w>
+  <w>kompenseras</w>
+  <w>med</w>
+  <w>marginellt</w>
+  <w>höjd</w>
+  <w>fondavgift</w>
+  <w>för</w>
+  <w>bankerna</w>
+  <w>.</w>
+</absapar>
+<absapar id=7 senti=2>
+  <w>Sverigedemokraterna</w>
+  <w>är</w>
+  <w>varken</w>
+  <w>ett</w>
+  <absaspan id=49>
+    <w>högerparti</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=50 senti=2>
+    <w>nedprioriterar</w>
+  </absaspan>
+  <absaspan id=51>
+    <w>välfärden</w>
+  </absaspan>
+  <w>eller</w>
+  <w>ett</w>
+  <absaspan id=52>
+    <w>vänsterparti</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=53 senti=2>
+    <w>nedprioriterar</w>
+  </absaspan>
+  <absaspan id=54>
+    <w>jobben</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=55>
+    <w>Genom</w>
+    <w>att</w>
+    <w>omfördela</w>
+    <w>medel</w>
+    <w>från</w>
+  </absaspan>
+  <absaspan id=56 senti=2>
+    <w>ineffektiva</w>
+  </absaspan>
+  <absaspan id=57>
+    <w>satsningar</w>
+    <w>på</w>
+    <w>framförallt</w>
+    <w>massinvandring</w>
+    <w>och</w>
+    <w>banker</w>
+    <w>med</w>
+    <w>stora</w>
+    <w>vinstmarginaler</w>
+  </absaspan>
+  <absaspan id=58>
+    <w>,</w>
+  </absaspan>
+  <absaspan id=59 senti=4>
+    <w>möjliggör</w>
+  </absaspan>
+  <absaspan id=60>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=61 senti=4>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=62 senti=4>
+    <w>effektivt</w>
+    <w>åtgärdspaket</w>
+    <w>för</w>
+    <w>full</w>
+    <w>sysselsättning</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Vi</w>
+  <w>avser</w>
+  <w>inte</w>
+  <w>att</w>
+  <w>likt</w>
+  <w>allianspartierna</w>
+  <w>komplettera</w>
+  <w>ett</w>
+  <w>femte</w>
+  <w>jobbskatteavdrag</w>
+  <w>med</w>
+  <w>sänkt</w>
+  <w>statlig</w>
+  <w>skatt</w>
+  <w>för</w>
+  <w>de</w>
+  <w>allra</w>
+  <w>rikaste</w>
+  <w>,</w>
+  <w>utan</w>
+  <w>vi</w>
+  <w>vill</w>
+  <w>redan</w>
+  <w>nu</w>
+  <w>vara</w>
+  <w>tydliga</w>
+  <w>med</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>riktar</w>
+  <w>skattesänkningarna</w>
+  <w>mot</w>
+  <w>låg</w>
+  <w>-</w>
+  <w>och</w>
+  <w>medelinkomsttagare</w>
+  <w>.</w>
+</absapar>
+<absapar id=9 senti=2>
+  <w>Vi</w>
+  <absaspan id=63 senti=4>
+    <w>kan</w>
+    <w>stärka</w>
+    <w>välfärden</w>
+  </absaspan>
+  <w>och</w>
+  <w>satsa</w>
+  <w>på</w>
+  <w>tillväxt</w>
+  <w>och</w>
+  <w>sysselsättning</w>
+  <w>samtidigt</w>
+  <w>som</w>
+  <w>vi</w>
+  <w>sänker</w>
+  <w>det</w>
+  <w>totala</w>
+  <w>skattetrycket</w>
+  <w>.</w>
+  <w>Tveklöst</w>
+  <absaspan id=64 senti=4>
+    <w>föredrar</w>
+  </absaspan>
+  <absaspan id=65>
+    <w>flertalet</w>
+    <w>väljare</w>
+  </absaspan>
+  <absaspan id=66>
+    <w>en</w>
+    <w>starkare</w>
+    <w>välfärd</w>
+    <w>och</w>
+    <w>lägre</w>
+    <w>skatter</w>
+    <w>finansierade</w>
+    <w>genom</w>
+  </absaspan>
+  <absaspan id=67>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=68 senti=4>
+    <w>ansvarsfull</w>
+  </absaspan>
+  <absaspan id=69>
+    <w>invandring</w>
+  </absaspan>
+  <w>framför</w>
+  <w>motsatsen</w>
+  <w>-</w>
+  <w>en</w>
+  <w>mer</w>
+  <w>omfattande</w>
+  <w>invandring</w>
+  <w>finansierad</w>
+  <w>med</w>
+  <w>högre</w>
+  <w>skatter</w>
+  <w>och</w>
+  <absaspan id=70 senti=2>
+    <w>sämre</w>
+  </absaspan>
+  <absaspan id=71>
+    <w>välfärd</w>
+    <w>.</w>
+  </absaspan>
+  <w>Alliansen</w>
+  <w>fick</w>
+  <w>mandat</w>
+  <w>för</w>
+  <w>en</w>
+  <w>arbetslinje</w>
+  <w>,</w>
+  <w>inte</w>
+  <w>en</w>
+  <w>utökad</w>
+  <w>invandringslinje</w>
+  <w>.</w>
+  <w>Således</w>
+  <absaspan id=72 senti=4>
+    <w>torde</w>
+  </absaspan>
+  <absaspan id=73>
+    <w>vårt</w>
+    <w>förhandlingsläge</w>
+  </absaspan>
+  <absaspan id=74 senti=4>
+    <w>vara</w>
+  </absaspan>
+  <absaspan id=75 senti=4>
+    <w>gott</w>
+  </absaspan>
+  <w>inför</w>
+  <w>höstens</w>
+  <w>statsbudget</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Jimmie</w>
+  <w>Åkesson</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Erik</w>
+  <w>Almqvist</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+</absadoc>

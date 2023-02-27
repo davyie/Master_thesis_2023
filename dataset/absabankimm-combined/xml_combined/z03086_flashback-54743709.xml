@@ -1,0 +1,165 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Alliansen</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>förintade</w>
+    <w>sig</w>
+    <w>själva</w>
+  </absaspan>
+  <w>med</w>
+  <w>"</w>
+  <w>Öppna</w>
+  <w>era</w>
+  <w>hjärtan</w>
+  <w>"</w>
+  <w>och</w>
+  <w>fri</w>
+  <w>invandring</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Det</w>
+  <w>var</w>
+  <w>Alliansen</w>
+  <w>som</w>
+  <w>gjorde</w>
+  <w>en</w>
+  <w>deal</w>
+  <w>med</w>
+  <w>Miljöpartiet</w>
+  <w>för</w>
+  <w>att</w>
+  <w>få</w>
+  <w>fri</w>
+  <w>invandring</w>
+  <w>från</w>
+  <w>muslimska</w>
+  <w>länder</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Nu</w>
+  <w>har</w>
+  <w>det</w>
+  <w>kommit</w>
+  <w>fram</w>
+  <w>undersökningar</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>muslimer</w>
+  </absaspan>
+  <w>röstar</w>
+  <w>nästan</w>
+  <w>uteslutande</w>
+  <w>på</w>
+  <w>socialdemokraterna</w>
+  <w>för</w>
+  <w>att</w>
+  <w>de</w>
+  <w>vill</w>
+  <w>ha</w>
+  <w>mer</w>
+  <w>bidrag</w>
+  <absaspan id=4 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Den</w>
+  <w>vita</w>
+  <w>delen</w>
+  <w>av</w>
+  <w>befolkningen</w>
+  <w>krymper</w>
+  <w>ständigt</w>
+  <w>medans</w>
+  <w>den</w>
+  <absaspan id=5>
+    <w>muslimska</w>
+  </absaspan>
+  <w>ökar</w>
+  <absaspan id=6 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Den</w>
+  <w>vita</w>
+  <w>delen</w>
+  <w>har</w>
+  <w>gått</w>
+  <w>från</w>
+  <w>att</w>
+  <w>rösta</w>
+  <w>på</w>
+  <w>Alliansen</w>
+  <w>till</w>
+  <w>SD</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>I</w>
+  <w>framtiden</w>
+  <w>kommer</w>
+  <w>vi</w>
+  <w>få</w>
+  <w>2</w>
+  <w>block</w>
+  <w>,</w>
+  <w>vänstern</w>
+  <w>och</w>
+  <w>SD</w>
+  <w>.</w>
+  <w>Alliansen</w>
+  <w>kommer</w>
+  <w>utgöra</w>
+  <w>en</w>
+  <w>minoritet</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Därmed</w>
+  <w>har</w>
+  <absaspan id=7>
+    <w>Alliansen</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>gjort</w>
+    <w>en</w>
+    <w>self-terminate</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=9>
+    <w>De</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>kommer</w>
+    <w>aldrig</w>
+    <w>någonsin</w>
+    <w>mer</w>
+    <w>kunna</w>
+    <w>få</w>
+    <w>regeringsmakten</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Hur</w>
+  <w>tänkte</w>
+  <absaspan id=11>
+    <w>Moderaterna</w>
+  </absaspan>
+  <w>med</w>
+  <w>detta</w>
+  <w>?</w>
+  <w>Eller</w>
+  <absaspan id=12 senti=2>
+    <w>tänkte</w>
+    <w>de</w>
+    <w>inte</w>
+    <w>alls</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,125 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Ingen</w>
+    <w>värme</w>
+    <w>och</w>
+    <w>sviniga</w>
+    <w>toaletter</w>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>tältläger</w>
+    <w>utanför</w>
+    <w>Migrationsverket</w>
+    <w>i</w>
+    <w>Malmö</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Bilder</w>
+  <w>på</w>
+  <w>misären</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=3 senti=2>
+    <w>Är</w>
+    <w>det</w>
+    <w>då</w>
+    <w>inte</w>
+    <w>bättre</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=4>
+    <w>de</w>
+    <w>asylsökande</w>
+    <w>att</w>
+    <w>få</w>
+    <w>bo</w>
+    <w>på</w>
+    <w>gatan</w>
+    <w>och</w>
+    <w>lösa</w>
+    <w>sin</w>
+    <w>egen</w>
+    <w>boendesituation</w>
+  </absaspan>
+  <w>?</w>
+  <w>Nätterna</w>
+  <w>i</w>
+  <w>Malmö</w>
+  <w>är</w>
+  <w>runt</w>
+  <w>8</w>
+  <w>grader</w>
+  <w>och</w>
+  <w>det</w>
+  <w>måste</w>
+  <w>alltså</w>
+  <w>bli</w>
+  <w>beckmörkt</w>
+  <w>och</w>
+  <w>iskallt</w>
+  <w>i</w>
+  <w>dessa</w>
+  <w>tält</w>
+  <w>för</w>
+  <w>våra</w>
+  <w>nya</w>
+  <w>kommande</w>
+  <w>medborgare</w>
+  <w>.</w>
+  <w>Tar</w>
+  <w>vi</w>
+  <w>verkligen</w>
+  <w>emot</w>
+  <w>dem</w>
+  <w>på</w>
+  <w>bästa</w>
+  <w>sättet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Arbetslösheten</w>
+  <w>är</w>
+  <w>ju</w>
+  <w>skyhög</w>
+  <w>i</w>
+  <w>Malmö</w>
+  <w>.</w>
+  <absaspan id=5 senti=4>
+    <w>Kan</w>
+    <w>man</w>
+    <w>då</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>anställa</w>
+    <w>några</w>
+    <w>med</w>
+    <w>instegsjobb</w>
+    <w>för</w>
+    <w>att</w>
+    <w>städa</w>
+    <w>dessa</w>
+    <w>toaletter</w>
+    <w>och</w>
+    <w>möjligen</w>
+    <w>utbilda</w>
+    <w>de</w>
+    <w>nödiga</w>
+    <w>i</w>
+    <w>hur</w>
+    <w>man</w>
+    <w>inte</w>
+    <w>använder</w>
+    <w>en</w>
+    <w>pissoar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,167 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Vänsterpartiets</w>
+  <w>6</w>
+  <w>timmars</w>
+  <w>arbetsdag</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Tycker</w>
+  <w>att</w>
+  <w>vänsterpartiets</w>
+  <absaspan id=1>
+    <w>6</w>
+    <w>timmars</w>
+    <w>arbetsdag</w>
+    <w>med</w>
+    <w>bibehållen</w>
+    <w>lön</w>
+  </absaspan>
+  <w>hade</w>
+  <w>varit</w>
+  <absaspan id=2 senti=5>
+    <w>en</w>
+    <w>skitbra</w>
+    <w>lösning</w>
+  </absaspan>
+  <w>på</w>
+  <absaspan id=3 senti=2>
+    <w>problemen</w>
+  </absaspan>
+  <w>.</w>
+  <w>Inte</w>
+  <w>nog</w>
+  <w>med</w>
+  <w>att</w>
+  <absaspan id=4>
+    <w>jag</w>
+  </absaspan>
+  <w>får</w>
+  <w>mer</w>
+  <w>tid</w>
+  <w>för</w>
+  <w>barnen</w>
+  <w>och</w>
+  <absaspan id=5 senti=5>
+    <w>göra</w>
+    <w>viktiga</w>
+    <w>saker</w>
+  </absaspan>
+  <w>istället</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=6 senti=1>
+    <w>slösa</w>
+    <w>bort</w>
+    <w>mitt</w>
+    <w>liv</w>
+  </absaspan>
+  <w>på</w>
+  <w>en</w>
+  <w>arbetsplats</w>
+  <w>,</w>
+  <w>det</w>
+  <w>skapar</w>
+  <w>ju</w>
+  <w>också</w>
+  <w>fler</w>
+  <w>jobb</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Partiet</w>
+  <w>har</w>
+  <w>flera</w>
+  <w>förslag</w>
+  <w>hur</w>
+  <w>detta</w>
+  <w>kan</w>
+  <w>gå</w>
+  <w>till</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1</w>
+  <w>.</w>
+  <w>Arbeta</w>
+  <w>6</w>
+  <w>timmar</w>
+  <w>per</w>
+  <w>dag</w>
+  <w>i</w>
+  <w>5</w>
+  <w>dagar</w>
+  <w>i</w>
+  <w>veckan</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>2</w>
+  <w>.</w>
+  <w>Arbeta</w>
+  <w>8</w>
+  <w>timmar</w>
+  <w>per</w>
+  <w>dag</w>
+  <w>i</w>
+  <w>4</w>
+  <w>dagar</w>
+  <w>i</w>
+  <w>veckan</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>3</w>
+  <w>.</w>
+  <w>Arbeta</w>
+  <w>8</w>
+  <w>timmar</w>
+  <w>per</w>
+  <w>dag</w>
+  <w>i</w>
+  <w>5</w>
+  <w>dagar</w>
+  <w>i</w>
+  <w>veckan</w>
+  <w>i</w>
+  <w>3</w>
+  <w>veckor</w>
+  <w>per</w>
+  <w>månad</w>
+  <w>och</w>
+  <w>vara</w>
+  <w>ledig</w>
+  <w>1</w>
+  <w>vecka</w>
+  <w>per</w>
+  <w>månad</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Undrar</w>
+  <w>varför</w>
+  <w>inte</w>
+  <w>detta</w>
+  <w>diskuteras</w>
+  <w>mer</w>
+  <w>?</w>
+  <w>?</w>
+  <w>!</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

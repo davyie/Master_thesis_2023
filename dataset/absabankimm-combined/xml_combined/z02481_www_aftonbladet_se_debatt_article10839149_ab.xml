@@ -1,0 +1,557 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Replik</w>
+  <w>:</w>
+  <absaspan id=1>
+    <w>Berts</w>
+    <w>anklagelser</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>är</w>
+    <w>skrämmande</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>I</w>
+  <w>fildelningsdebattens</w>
+  <w>kölvatten</w>
+  <w>dyker</w>
+  <w>de</w>
+  <w>upp</w>
+  <w>som</w>
+  <w>svampar</w>
+  <w>ur</w>
+  <w>marken</w>
+  <w>–</w>
+  <w>de</w>
+  <absaspan id=3 senti=2>
+    <w>misslyckade</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>skivbolagsdirektörerna</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=5 senti=2>
+    <w>Likt</w>
+    <w>zombies</w>
+    <w>vandrar</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>de</w>
+  </absaspan>
+  <w>omkring</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>medielandskap</w>
+  <w>som</w>
+  <w>för</w>
+  <w>länge</w>
+  <w>sedan</w>
+  <w>sprungit</w>
+  <w>förbi</w>
+  <w>dem</w>
+  <w>.</w>
+  <w>Senast</w>
+  <w>i</w>
+  <w>raden</w>
+  <w>är</w>
+  <w>Bert</w>
+  <w>Karlsson</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=7>
+    <w>Ny</w>
+    <w>teknik</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>ska</w>
+    <w>smutskastas</w>
+    <w>till</w>
+    <w>varje</w>
+    <w>pris</w>
+  </absaspan>
+  <w>och</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>kalendern</w>
+  <w>visar</w>
+  <w>2006</w>
+  <w>skyr</w>
+  <w>de</w>
+  <w>inga</w>
+  <w>medel</w>
+  <w>att</w>
+  <w>få</w>
+  <w>oss</w>
+  <w>att</w>
+  <w>tro</w>
+  <w>att</w>
+  <w>musikkonsumenter</w>
+  <w>fortfarande</w>
+  <w>är</w>
+  <w>passiva</w>
+  <w>mottagare</w>
+  <w>av</w>
+  <w>envägskommunikation</w>
+  <absaspan id=9>
+    <w>.</w>
+  </absaspan>
+  <w>När</w>
+  <w>argumenten</w>
+  <w>tryter</w>
+  <w>hittar</w>
+  <w>de</w>
+  <w>helt</w>
+  <w>enkelt</w>
+  <w>på</w>
+  <w>nya</w>
+  <w>,</w>
+  <w>allt</w>
+  <w>för</w>
+  <w>sina</w>
+  <w>fem</w>
+  <w>minuter</w>
+  <w>i</w>
+  <w>rampljuset</w>
+  <w>.</w>
+  <w>På</w>
+  <w>gårdagens</w>
+  <w>debatt</w>
+  <absaspan id=10 senti=2>
+    <w>nästlar</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>Bert</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>in</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>sig</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>nät</w>
+    <w>av</w>
+    <w>lögner</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>skulle</w>
+    <w>få</w>
+    <w>till</w>
+    <w>och</w>
+    <w>med</w>
+    <w>hans</w>
+    <w>irakiske</w>
+    <w>förebild</w>
+    <w>att</w>
+    <w>rodna</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Något</w>
+  <w>av</w>
+  <w>vad</w>
+  <w>Bert</w>
+  <w>påstår</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>”</w>
+  <w>Upphovsrättsbrott</w>
+  <w>går</w>
+  <w>att</w>
+  <w>jämföra</w>
+  <w>med</w>
+  <w>tillgreppsbrottet</w>
+  <w>stöld</w>
+  <w>.</w>
+  <w>”</w>
+  <w>–</w>
+  <w>Nej</w>
+  <w>Bert</w>
+  <w>,</w>
+  <absaspan id=18>
+    <w>de</w>
+    <w>som</w>
+    <w>bryter</w>
+    <w>mot</w>
+    <w>ett</w>
+    <w>monopol</w>
+  </absaspan>
+  <absaspan id=19 senti=3>
+    <w>är</w>
+    <w>inte</w>
+    <w>tjuvar</w>
+  </absaspan>
+  <w>,</w>
+  <w>vare</w>
+  <w>sig</w>
+  <w>det</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>att</w>
+  <w>sälja</w>
+  <w>Ipren</w>
+  <w>på</w>
+  <w>Ica</w>
+  <w>,</w>
+  <w>ta</w>
+  <w>med</w>
+  <w>sig</w>
+  <w>en</w>
+  <w>extra</w>
+  <w>flaska</w>
+  <w>sprit</w>
+  <w>från</w>
+  <w>semestern</w>
+  <w>eller</w>
+  <w>att</w>
+  <w>ignorera</w>
+  <w>skivbolags</w>
+  <w>ensamrätt</w>
+  <w>att</w>
+  <w>kopiera</w>
+  <w>låtar</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>”</w>
+  <absaspan id=20>
+    <w>The</w>
+    <w>Pirate</w>
+    <w>Bays</w>
+    <w>indexering</w>
+    <w>av</w>
+    <w>torrentfiler</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>är</w>
+    <w>kriminell</w>
+  </absaspan>
+  <w>.</w>
+  <w>”</w>
+  <w>–</w>
+  <w>Nej</w>
+  <w>Bert</w>
+  <w>,</w>
+  <w>det</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>olagligt</w>
+  <w>att</w>
+  <w>länka</w>
+  <w>till</w>
+  <w>upphovsrättsskyddat</w>
+  <w>material</w>
+  <w>,</w>
+  <w>i</w>
+  <w>så</w>
+  <w>fall</w>
+  <w>skulle</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>gå</w>
+  <w>att</w>
+  <w>driva</w>
+  <w>en</w>
+  <w>sökmotor</w>
+  <w>som</w>
+  <w>Google</w>
+  <absaspan id=22>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=6>
+  <absaspan id=23>
+    <w>Bert</w>
+  </absaspan>
+  <w>fortsätter</w>
+  <w>sen</w>
+  <w>med</w>
+  <w>att</w>
+  <absaspan id=24 senti=2>
+    <w>anklaga</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>oss</w>
+    <w>bakom</w>
+    <w>Piratbyrån</w>
+    <w>och</w>
+    <w>The</w>
+    <w>Pirate</w>
+    <w>Bay</w>
+    <w>och</w>
+    <w>dessutom</w>
+    <w>en</w>
+    <w>hel</w>
+    <w>ungdomsgeneration</w>
+  </absaspan>
+  <absaspan id=26 senti=2>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=27 senti=2>
+    <w>högerextremism</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>komik</w>
+  <w>på</w>
+  <w>hög</w>
+  <w>nivå</w>
+  <w>,</w>
+  <w>som</w>
+  <w>baseras</w>
+  <w>på</w>
+  <w>två</w>
+  <w>felaktiga</w>
+  <w>påståenden</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>”</w>
+  <w>Sverigedemokraterna</w>
+  <w>hamnar</w>
+  <w>på</w>
+  <w>tredje</w>
+  <w>plats</w>
+  <w>när</w>
+  <w>ungdomar</w>
+  <w>får</w>
+  <w>rösta</w>
+  <w>.</w>
+  <w>”</w>
+  <w>–</w>
+  <w>Nej</w>
+  <w>Bert</w>
+  <w>,</w>
+  <w>siffran</w>
+  <w>bygger</w>
+  <w>på</w>
+  <w>en</w>
+  <absaspan id=28 senti=2>
+    <w>oseriös</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>undersökning</w>
+    <w>på</w>
+    <w>ungdomssajten</w>
+    <w>Lunarstorm</w>
+  </absaspan>
+  <w>och</w>
+  <w>har</w>
+  <w>vederlagts</w>
+  <w>av</w>
+  <w>vetenskapliga</w>
+  <w>opinionsmätningar</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>”</w>
+  <absaspan id=30>
+    <w>Aktörerna</w>
+    <w>bakom</w>
+    <w>The</w>
+    <w>Pirate</w>
+    <w>Bay</w>
+  </absaspan>
+  <absaspan id=31 senti=2>
+    <w>är</w>
+    <w>högerextremister</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>.</w>
+  </absaspan>
+  <w>”</w>
+  <absaspan id=33 senti=2>
+    <w>Har</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>du</w>
+  </absaspan>
+  <absaspan id=35 senti=2>
+    <w>blivit</w>
+  </absaspan>
+  <absaspan id=36 senti=2>
+    <w>spritt</w>
+    <w>språngande</w>
+    <w>galen</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=37>
+    <w>Bert</w>
+  </absaspan>
+  <w>?</w>
+  <w>Vad</w>
+  <w>den</w>
+  <absaspan id=38 senti=2>
+    <w>misslyckade</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>skivbolagsdirektören</w>
+  </absaspan>
+  <w>antagligen</w>
+  <w>syftar</w>
+  <w>på</w>
+  <w>är</w>
+  <w>hans</w>
+  <w>kollega</w>
+  <w>Brumarks</w>
+  <w>”</w>
+  <w>avslöjande</w>
+  <w>”</w>
+  <w>att</w>
+  <w>The</w>
+  <w>Pirate</w>
+  <w>Bay</w>
+  <w>tidigare</w>
+  <w>anlitat</w>
+  <w>internetleverantören</w>
+  <w>Rix</w>
+  <w>Telecom</w>
+  <w>,</w>
+  <w>som</w>
+  <w>drivs</w>
+  <w>av</w>
+  <w>en</w>
+  <w>sverigedemokrat</w>
+  <w>.</w>
+  <w>Enligt</w>
+  <w>samma</w>
+  <w>logik</w>
+  <w>skulle</w>
+  <w>folkpartiet</w>
+  <w>,</w>
+  <w>Sverok</w>
+  <w>liksom</w>
+  <w>alla</w>
+  <w>andra</w>
+  <w>nuvarande</w>
+  <w>och</w>
+  <w>tidigare</w>
+  <w>Rix-kunder</w>
+  <w>vara</w>
+  <w>rasister</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Piratbyrån</w>
+  <w>och</w>
+  <w>The</w>
+  <w>Pirate</w>
+  <w>Bays</w>
+  <w>ideologi</w>
+  <w>stavas</w>
+  <w>”</w>
+  <w>Copy</w>
+  <w>me</w>
+  <w>”</w>
+  <w>och</w>
+  <absaspan id=40>
+    <w>vår</w>
+    <w>politik</w>
+  </absaspan>
+  <absaspan id=41 senti=4>
+    <w>är</w>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=42 senti=4>
+    <w>skön</w>
+  </absaspan>
+  <absaspan id=43 senti=4>
+    <w>mix</w>
+    <w>av</w>
+    <w>allt</w>
+    <w>mellan</w>
+    <w>nyliberaler</w>
+    <w>och</w>
+    <w>radikal</w>
+    <w>vänster</w>
+  </absaspan>
+  <w>.</w>
+  <w>Några</w>
+  <w>högerextremister</w>
+  <w>har</w>
+  <w>vi</w>
+  <w>aldrig</w>
+  <w>sett</w>
+  <w>till</w>
+  <w>och</w>
+  <w>vi</w>
+  <w>har</w>
+  <w>ingen</w>
+  <w>aning</w>
+  <w>om</w>
+  <w>deras</w>
+  <w>inställning</w>
+  <w>i</w>
+  <w>kopieringsfrågor</w>
+  <w>.</w>
+  <w>Vad</w>
+  <w>vi</w>
+  <w>däremot</w>
+  <w>vet</w>
+  <w>är</w>
+  <w>att</w>
+  <w>sist</w>
+  <w>det</w>
+  <w>satt</w>
+  <w>ett</w>
+  <absaspan id=44 senti=2>
+    <w>högerpopulistiskt</w>
+  </absaspan>
+  <absaspan id=45>
+    <w>parti</w>
+  </absaspan>
+  <w>i</w>
+  <w>riksdagen</w>
+  <w>,</w>
+  <w>så</w>
+  <w>drevs</w>
+  <w>det</w>
+  <w>av</w>
+  <w>en</w>
+  <absaspan id=46 senti=2>
+    <w>misslyckad</w>
+  </absaspan>
+  <absaspan id=47>
+    <w>skivbolagsdirektör</w>
+  </absaspan>
+  <w>.</w>
+  <w>Kasta</w>
+  <w>inte</w>
+  <w>sten</w>
+  <w>i</w>
+  <w>glashus</w>
+  <w>,</w>
+  <w>Bert</w>
+  <w>.</w>
+</absapar>
+</absadoc>

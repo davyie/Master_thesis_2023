@@ -1,0 +1,181 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1 senti=5 irony target=2>
+    <w>GLÄDJEBESKED</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=2>
+    <w>Delar</w>
+    <w>av</w>
+    <w>S</w>
+    <w>-</w>
+    <w>riv</w>
+    <w>upp</w>
+    <w>åtstramningarna</w>
+    <w>i</w>
+    <w>migrationspolitiken</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Isak</w>
+    <w>From</w>
+  </absaspan>
+  <w>,</w>
+  <w>mannen</w>
+  <w>som</w>
+  <absaspan id=4 senti=1>
+    <w>hatar</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>vita</w>
+    <w>medelålders</w>
+    <w>män</w>
+  </absaspan>
+  <absaspan id=6 senti=1>
+    <w>så</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>mycket</w>
+    <w>att</w>
+    <w>de</w>
+    <w>ska</w>
+    <w>beskattas</w>
+    <w>extra</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=8 senti=1>
+    <w>rasistiska</w>
+  </absaspan>
+  <absaspan id=9 senti=1>
+    <w>grunder</w>
+  </absaspan>
+  <w>ska</w>
+  <w>nu</w>
+  <w>tillsammans</w>
+  <w>med</w>
+  <absaspan id=10 senti=2>
+    <w>alldeles</w>
+    <w>för</w>
+    <w>många</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>S-ledamöter</w>
+    <w>från</w>
+    <w>Västerbotten</w>
+  </absaspan>
+  <w>driva</w>
+  <w>på</w>
+  <w>för</w>
+  <w>att</w>
+  <w>Socialdemokraterna</w>
+  <w>ska</w>
+  <w>bli</w>
+  <w>som</w>
+  <w>samarbetspartiet</w>
+  <w>Miljöpartiet</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Sverige</w>
+  <w>kan</w>
+  <w>nu</w>
+  <w>,</w>
+  <absaspan id=12 senti=4 irony>
+    <w>tack</w>
+    <w>vare</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>S</w>
+    <w>i</w>
+    <w>Västerbotten</w>
+  </absaspan>
+  <w>,</w>
+  <w>vända</w>
+  <w>den</w>
+  <absaspan id=14 senti=2 irony>
+    <w>negativa</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>utvecklingen</w>
+  </absaspan>
+  <w>och</w>
+  <w>åter</w>
+  <w>igen</w>
+  <w>sträva</w>
+  <w>efter</w>
+  <w>att</w>
+  <w>bli</w>
+  <w>en</w>
+  <w>humanitär</w>
+  <w>stormakt</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Finns</w>
+  <w>det</w>
+  <w>någon</w>
+  <w>människa</w>
+  <w>med</w>
+  <w>hjärta</w>
+  <w>i</w>
+  <w>kroppen</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>älskar</w>
+  <w>detta</w>
+  <w>?</w>
+  <absaspan id=16 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4 senti=2>
+  <w>Min</w>
+  <w>uppfattning</w>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=17>
+    <w>den</w>
+    <w>som</w>
+    <w>motsätter</w>
+    <w>sig</w>
+    <w>detta</w>
+  </absaspan>
+  <w>sannolikt</w>
+  <absaspan id=18 senti=1>
+    <w>är</w>
+    <w>rasist</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Även</w>
+  <absaspan id=20>
+    <w>migranter</w>
+  </absaspan>
+  <w>behöver</w>
+  <w>trygghet</w>
+  <w>och</w>
+  <w>med</w>
+  <w>trygghet</w>
+  <w>kan</w>
+  <absaspan id=21>
+    <w>de</w>
+  </absaspan>
+  <w>också</w>
+  <w>få</w>
+  <w>ut</w>
+  <w>sin</w>
+  <w>fulla</w>
+  <w>potential</w>
+  <w>och</w>
+  <w>fortsätta</w>
+  <absaspan id=22 senti=4 irony>
+    <w>berika</w>
+  </absaspan>
+  <w>Sveriges</w>
+  <w>ekonomi</w>
+  <w>.</w>
+</absapar>
+</absadoc>

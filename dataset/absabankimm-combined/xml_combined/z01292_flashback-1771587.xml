@@ -1,0 +1,140 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>DNA</w>
+    <w>test</w>
+    <w>av</w>
+    <w>flyktingar</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1 source=3>
+    <w>oetiskt</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Läser</w>
+  <w>i</w>
+  <w>Metro</w>
+  <w>att</w>
+  <w>Dansk</w>
+  <w>folkeparti</w>
+  <w>kräver</w>
+  <w>obligatoriskt</w>
+  <w>DNA</w>
+  <w>test</w>
+  <w>av</w>
+  <w>asylsökandenÄven</w>
+  <w>dom</w>
+  <w>danska</w>
+  <w>socialdemokratena</w>
+  <w>är</w>
+  <w>inne</w>
+  <w>på</w>
+  <w>samma</w>
+  <w>linje.Asylsökanden</w>
+  <w>som</w>
+  <w>har</w>
+  <w>barn</w>
+  <w>med</w>
+  <w>sig</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>är</w>
+  <w>deras</w>
+  <w>egna</w>
+  <absaspan id=4 senti=1>
+    <w>ska</w>
+    <w>stämmas</w>
+    <w>för</w>
+    <w>människosmuggling</w>
+  </absaspan>
+  <w>och</w>
+  <w>förlora</w>
+  <w>sina</w>
+  <w>uppehållstillstånd.Danmarks</w>
+  <w>radio</w>
+  <w>uppgav</w>
+  <w>i</w>
+  <w>söndags</w>
+  <w>att</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>flera</w>
+  <w>hundra</w>
+  <w>flyktingbarn</w>
+  <w>som</w>
+  <w>bor</w>
+  <w>hos</w>
+  <w>personer</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>är</w>
+  <w>deras</w>
+  <w>föräldrar</w>
+  <w>.</w>
+  <w>"</w>
+  <w>Falska</w>
+  <w>"</w>
+  <w>föräldrar</w>
+  <w>sluter</w>
+  <w>avtal</w>
+  <w>med</w>
+  <w>dom</w>
+  <w>riktiga</w>
+  <w>föräldrarna</w>
+  <w>om</w>
+  <w>en</w>
+  <w>del</w>
+  <w>av</w>
+  <w>bidragen.Det</w>
+  <absaspan id=5 senti=1>
+    <w>är</w>
+    <w>människohandel</w>
+    <w>av</w>
+    <w>värsta</w>
+    <w>slag</w>
+  </absaspan>
+  <w>när</w>
+  <w>sänds</w>
+  <w>bort</w>
+  <w>från</w>
+  <w>sina</w>
+  <w>föräldrar</w>
+  <w>för</w>
+  <w>att</w>
+  <w>mjölka</w>
+  <w>socialvården</w>
+  <w>på</w>
+  <w>pengar.Barnombudsmannen</w>
+  <absaspan id=6>
+    <w>Lena</w>
+    <w>Nyberg</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>motsätter</w>
+    <w>sig</w>
+  </absaspan>
+  <w>naturligtvis</w>
+  <absaspan id=8>
+    <w>något</w>
+    <w>sådant</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>och</w>
+  <w>anser</w>
+  <w>det</w>
+  <w>vara</w>
+  <w>oetiskt.Något</w>
+  <w>sådant</w>
+  <w>förekommer</w>
+  <w>självklart</w>
+  <w>inte</w>
+  <w>i</w>
+  <w>vårat</w>
+  <w>land</w>
+  <w>.</w>
+</absapar>
+</absadoc>

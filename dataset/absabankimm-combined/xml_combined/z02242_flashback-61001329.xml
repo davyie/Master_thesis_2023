@@ -1,0 +1,95 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Rekordmånga</w>
+  <w>flyr</w>
+  <w>från</w>
+  <w>Ryssland</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Bloomberg</w>
+  <w>skriver</w>
+  <w>att</w>
+  <w>350</w>
+  <w>tusen</w>
+  <w>pers</w>
+  <w>lämnade</w>
+  <w>Ryssland</w>
+  <w>i</w>
+  <w>2015</w>
+  <w>,</w>
+  <w>det</w>
+  <w>är</w>
+  <w>en</w>
+  <w>rekord</w>
+  <w>på</w>
+  <w>utvandring</w>
+  <w>från</w>
+  <w>moderslandet</w>
+  <w>.</w>
+  <w>Dock</w>
+  <w>skriver</w>
+  <w>Bloomberg</w>
+  <w>att</w>
+  <w>det</w>
+  <w>gäller</w>
+  <w>asiatiska</w>
+  <w>arbetare</w>
+  <w>som</w>
+  <w>åker</w>
+  <w>hem</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <absaspan id=1>
+    <w>Andelen</w>
+    <w>av</w>
+    <w>de</w>
+    <w>som</w>
+    <w>flyttade</w>
+    <w>till</w>
+    <w>väst</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>är</w>
+    <w>bara</w>
+    <w>ca</w>
+    <w>70</w>
+    <w>tusen</w>
+    <w>pers</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Vad</w>
+  <w>ska</w>
+  <w>man</w>
+  <w>tro</w>
+  <w>på</w>
+  <w>?</w>
+  <w>Är</w>
+  <w>det</w>
+  <w>så</w>
+  <w>att</w>
+  <w>Ryssland</w>
+  <w>upplever</w>
+  <w>den</w>
+  <w>värsta</w>
+  <w>utvandringen</w>
+  <w>sen</w>
+  <w>Sovjetens</w>
+  <w>kollaps</w>
+  <w>eller</w>
+  <w>det</w>
+  <w>är</w>
+  <w>bara</w>
+  <w>"</w>
+  <w>asiater</w>
+  <w>som</w>
+  <w>åker</w>
+  <w>hem</w>
+  <w>"</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

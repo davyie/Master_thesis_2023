@@ -1,0 +1,101 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Angåede</w>
+  <w>EU</w>
+  <w>:</w>
+  <w>s</w>
+  <w>gemensamma</w>
+  <w>invandringspolitik</w>
+  <w>,</w>
+  <w>några</w>
+  <w>frågor</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1</w>
+  <w>.</w>
+  <w>Hur</w>
+  <w>långt</w>
+  <w>har</w>
+  <w>man</w>
+  <w>kommit</w>
+  <w>i</w>
+  <w>planerna</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>2</w>
+  <w>.</w>
+  <w>Hur</w>
+  <w>ser</w>
+  <w>åsikterna</w>
+  <w>ut</w>
+  <w>inom</w>
+  <w>EU</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>3</w>
+  <w>.</w>
+  <w>Tror</w>
+  <w>ni</w>
+  <w>att</w>
+  <w>exempelvis</w>
+  <w>Sverige</w>
+  <w>kommer</w>
+  <w>gå</w>
+  <w>så</w>
+  <w>långt</w>
+  <w>som</w>
+  <w>att</w>
+  <w>fälla</w>
+  <w>hela</w>
+  <absaspan id=1>
+    <w>förslaget</w>
+  </absaspan>
+  <w>om</w>
+  <w>det</w>
+  <w>blir</w>
+  <absaspan id=2 senti=2>
+    <w>för</w>
+    <w>restriktivt</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>4</w>
+  <w>.</w>
+  <w>Hur</w>
+  <w>långt</w>
+  <w>fram</w>
+  <w>i</w>
+  <w>tiden</w>
+  <w>ligger</w>
+  <w>detta</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

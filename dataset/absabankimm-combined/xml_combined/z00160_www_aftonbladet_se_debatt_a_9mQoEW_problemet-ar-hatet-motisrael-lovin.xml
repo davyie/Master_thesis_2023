@@ -1,0 +1,473 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=1 target=2>
+    <w>Problemet</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>hatet</w>
+    <w>mot</w>
+    <w>Israel</w>
+  </absaspan>
+  <w>,</w>
+  <w>Lövin</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>SLUTREPLIK</w>
+  <w>.</w>
+  <w>I</w>
+  <w>tisdags</w>
+  <w>påpekade</w>
+  <absaspan id=3>
+    <w>jag</w>
+  </absaspan>
+  <w>på</w>
+  <w>s</w>
+  <w>debattsida</w>
+  <w>att</w>
+  <w>stora</w>
+  <w>delar</w>
+  <w>av</w>
+  <absaspan id=4>
+    <w>de</w>
+    <w>svenska</w>
+    <w>biståndsmedlen</w>
+    <w>till</w>
+    <w>palestinska</w>
+    <w>områden</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>vidgar</w>
+    <w>klyftan</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=6 senti=1>
+    <w>den</w>
+    <w>djupa</w>
+    <w>arabisk-israeliska</w>
+    <w>konflikten</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>alls</w>
+  <absaspan id=7 senti=1>
+    <w>inte</w>
+    <w>bidrar</w>
+    <w>till</w>
+    <w>fred</w>
+    <w>och</w>
+    <w>försoning</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>har</w>
+  <w>nu</w>
+  <w>publicerat</w>
+  <w>en</w>
+  <w>replik</w>
+  <w>från</w>
+  <w>Sveriges</w>
+  <w>biståndsminister</w>
+  <w>Isabella</w>
+  <w>Lövin</w>
+  <w>(</w>
+  <w>MP</w>
+  <w>)</w>
+  <w>.</w>
+  <absaspan id=8>
+    <w>Att</w>
+    <w>hon</w>
+    <w>alls</w>
+    <w>replikerar</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=9 senti=5>
+    <w>ska</w>
+    <w>hon</w>
+    <w>ha</w>
+    <w>beröm</w>
+    <w>för</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Såväl</w>
+  <absaspan id=10>
+    <w>utrikesministern</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=11>
+    <w>biståndsministern</w>
+  </absaspan>
+  <w>har</w>
+  <w>nämligen</w>
+  <w>fram</w>
+  <w>tills</w>
+  <w>nu</w>
+  <absaspan id=12 senti=1>
+    <w>ignorerat</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>den</w>
+    <w>omfattande</w>
+    <w>nationella</w>
+    <w>och</w>
+    <w>internationella</w>
+    <w>kritiken</w>
+    <w>mot</w>
+    <w>svenskt</w>
+    <w>och</w>
+    <w>europeiskt</w>
+    <w>bistånd</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=14 senti=1>
+    <w>Tyvärr</w>
+  </absaspan>
+  <w>förblir</w>
+  <w>frågorna</w>
+  <w>obesvarade</w>
+  <w>.</w>
+  <w>Hur</w>
+  <w>kommer</w>
+  <w>det</w>
+  <w>sig</w>
+  <w>att</w>
+  <w>Sverige</w>
+  <w>som</w>
+  <w>enda</w>
+  <w>land</w>
+  <w>valde</w>
+  <w>att</w>
+  <w>inte</w>
+  <w>frysa</w>
+  <w>eller</w>
+  <w>upphöra</w>
+  <w>att</w>
+  <w>förmedla</w>
+  <w>bistånd</w>
+  <w>via</w>
+  <w>IHL</w>
+  <w>(</w>
+  <w>Human</w>
+  <w>Rights</w>
+  <w>and</w>
+  <w>International</w>
+  <w>Humanitarian</w>
+  <w>Law</w>
+  <w>Secretariat</w>
+  <w>)</w>
+  <w>i</w>
+  <w>takt</w>
+  <w>med</w>
+  <w>avslöjanden</w>
+  <w>om</w>
+  <w>mottagarna</w>
+  <w>?</w>
+  <w>Norge</w>
+  <w>,</w>
+  <w>Danmark</w>
+  <w>,</w>
+  <w>Nederländerna</w>
+  <w>och</w>
+  <w>Schweiz</w>
+  <w>valde</w>
+  <w>alla</w>
+  <w>att</w>
+  <w>reagera</w>
+  <w>efter</w>
+  <w>avslöjanden</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=15>
+    <w>IHL</w>
+  </absaspan>
+  <absaspan id=16 senti=4>
+    <w>förmedlat</w>
+    <w>stöd</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=17 senti=1>
+    <w>judehat</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=18 senti=1>
+    <w>terrorglorifiering</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>avbröt</w>
+  <w>eller</w>
+  <w>ställde</w>
+  <w>in</w>
+  <w>stöd</w>
+  <w>i</w>
+  <w>förtid</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Vilken</w>
+  <w>insikt</w>
+  <w>anser</w>
+  <w>sig</w>
+  <w>biståndsministern</w>
+  <w>besitta</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>som</w>
+  <w>grannländerna</w>
+  <w>saknar</w>
+  <w>?</w>
+  <w>Om</w>
+  <w>detta</w>
+  <w>väljer</w>
+  <w>Lövin</w>
+  <w>att</w>
+  <w>tiga</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Inte</w>
+  <w>heller</w>
+  <w>vill</w>
+  <w>Lövin</w>
+  <w>adressera</w>
+  <w>det</w>
+  <w>faktum</w>
+  <w>att</w>
+  <w>den</w>
+  <w>Palestinska</w>
+  <w>myndigheten</w>
+  <w>med</w>
+  <w>EU-stöd</w>
+  <w>ger</w>
+  <w>pengar</w>
+  <w>till</w>
+  <w>terrordömda</w>
+  <w>och</w>
+  <w>deras</w>
+  <w>familjer</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Ej</w>
+  <w>heller</w>
+  <w>att</w>
+  <w>det</w>
+  <w>nyligen</w>
+  <w>framkommit</w>
+  <w>att</w>
+  <w>ett</w>
+  <w>nytt</w>
+  <w>skolmaterial</w>
+  <w>för</w>
+  <w>palestinska</w>
+  <w>barn</w>
+  <w>,</w>
+  <w>helt</w>
+  <w>finansierat</w>
+  <w>av</w>
+  <w>EU</w>
+  <w>,</w>
+  <w>inte</w>
+  <w>bara</w>
+  <w>innehåller</w>
+  <absaspan id=19 senti=1>
+    <w>antisemitism</w>
+  </absaspan>
+  <w>,</w>
+  <w>utan</w>
+  <w>rena</w>
+  <w>uppmaningar</w>
+  <w>till</w>
+  <absaspan id=20 senti=1>
+    <w>militant</w>
+    <w>jihad</w>
+  </absaspan>
+  <w>och</w>
+  <w>att</w>
+  <w>”</w>
+  <absaspan id=21 senti=1>
+    <w>avlägsna</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>Israel</w>
+  </absaspan>
+  <w>”</w>
+  <absaspan id=23 senti=1>
+    <w>från</w>
+  </absaspan>
+  <absaspan id=24 senti=1>
+    <w>kartan</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Att</w>
+  <w>det</w>
+  <w>är</w>
+  <absaspan id=25 senti=1>
+    <w>en</w>
+    <w>svår</w>
+    <w>situation</w>
+  </absaspan>
+  <w>såväl</w>
+  <w>på</w>
+  <w>Västbanken</w>
+  <w>som</w>
+  <w>i</w>
+  <w>Gazaremsan</w>
+  <w>,</w>
+  <w>som</w>
+  <w>Lövin</w>
+  <w>ägnar</w>
+  <w>större</w>
+  <w>delen</w>
+  <w>av</w>
+  <w>sin</w>
+  <w>korta</w>
+  <w>replik</w>
+  <w>åt</w>
+  <w>att</w>
+  <w>understryka</w>
+  <w>,</w>
+  <w>är</w>
+  <w>jag</w>
+  <w>den</w>
+  <w>första</w>
+  <w>att</w>
+  <w>skriva</w>
+  <w>under</w>
+  <w>på</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>hur</w>
+  <w>situationen</w>
+  <w>skulle</w>
+  <absaspan id=26 senti=5>
+    <w>förbättras</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=27 senti=1>
+    <w>hatindoktrinering</w>
+  </absaspan>
+  <w>av</w>
+  <w>skolbarn</w>
+  <w>eller</w>
+  <w>finansiering</w>
+  <w>av</w>
+  <w>organisationer</w>
+  <w>med</w>
+  <w>anknytning</w>
+  <w>till</w>
+  <w>internationellt</w>
+  <w>terrorstämplade</w>
+  <w>PFLP</w>
+  <w>har</w>
+  <w>Lövin</w>
+  <w>inga</w>
+  <w>svar</w>
+  <w>på</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Det</w>
+  <w>största</w>
+  <absaspan id=28 senti=2>
+    <w>hindret</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>fred</w>
+    <w>och</w>
+    <w>frihet</w>
+  </absaspan>
+  <w>i</w>
+  <w>regionen</w>
+  <w>är</w>
+  <absaspan id=30 senti=1>
+    <w>uppviglingen</w>
+  </absaspan>
+  <w>till</w>
+  <w>våld</w>
+  <w>,</w>
+  <absaspan id=31 senti=1>
+    <w>stödet</w>
+    <w>till</w>
+    <w>terrorismen</w>
+  </absaspan>
+  <w>,</w>
+  <w>den</w>
+  <absaspan id=32 senti=1>
+    <w>djupa</w>
+    <w>antisemitismen</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=33 senti=1>
+    <w>hatet</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>Israel</w>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=36 senti=5>
+    <w>måste</w>
+    <w>ha</w>
+  </absaspan>
+  <absaspan id=37>
+    <w>en</w>
+    <w>biståndspolitik</w>
+    <w>som</w>
+    <w>präglas</w>
+    <w>av</w>
+    <w>den</w>
+    <w>insikten</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Lars</w>
+  <w>Adaktusson</w>
+  <w>,</w>
+  <w>Europaparlamentariker</w>
+  <w>(</w>
+  <w>KD</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Häng</w>
+  <w>med</w>
+  <w>i</w>
+  <w>debatten</w>
+  <w>och</w>
+  <w>kommentera</w>
+  <w>artikeln</w>
+  <w>–</w>
+  <w>gilla</w>
+  <w>Debatt</w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Artikeln</w>
+  <w>är</w>
+  <w>en</w>
+  <w>slutreplik</w>
+  <w>.</w>
+  <w>Läs</w>
+  <w>hela</w>
+  <w>debatten</w>
+  <w>här</w>
+  <w>.</w>
+</absapar>
+</absadoc>

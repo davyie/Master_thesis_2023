@@ -1,0 +1,67 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Bön</w>
+  <w>på</w>
+  <w>arbetstid</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Hejsan</w>
+  <w>det</w>
+  <w>är</w>
+  <w>så</w>
+  <w>att</w>
+  <w>jag</w>
+  <w>undrar</w>
+  <w>vf</w>
+  <w>många</w>
+  <w>är</w>
+  <w>emot</w>
+  <w>att</w>
+  <w>man</w>
+  <w>utför</w>
+  <w>bön</w>
+  <w>på</w>
+  <w>arbetstid</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=1>
+    <w>Vi</w>
+    <w>som</w>
+    <w>muslimer</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>vill</w>
+    <w>inte</w>
+    <w>få</w>
+    <w>lön</w>
+    <w>för</w>
+    <w>oarbetad</w>
+    <w>tid</w>
+  </absaspan>
+  <w>vi</w>
+  <w>är</w>
+  <w>villiga</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>igen</w>
+  <w>den</w>
+  <w>tiden</w>
+  <w>på</w>
+  <w>övertid</w>
+  <w>eller</w>
+  <w>annan</w>
+  <w>form</w>
+  <w>men</w>
+  <w>ändå</w>
+  <w>så</w>
+  <w>är</w>
+  <w>måna</w>
+  <w>emot</w>
+  <w>det</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

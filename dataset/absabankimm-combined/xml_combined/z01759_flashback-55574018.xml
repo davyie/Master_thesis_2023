@@ -1,0 +1,281 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>Invandring</w>
+  </absaspan>
+  <absaspan id=2 senti=4 source=3 target=1>
+    <w>bra</w>
+  </absaspan>
+  <w>för</w>
+  <w>landsbygden</w>
+  <w>,</w>
+  <w>enligt</w>
+  <absaspan id=3>
+    <w>TV4</w>
+    <w>Nyheterna</w>
+  </absaspan>
+  <w>.</w>
+  <w>Rekord</w>
+  <w>i</w>
+  <w>PK</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Såg</w>
+  <w>på</w>
+  <w>kvällsnyheterna</w>
+  <w>på</w>
+  <w>Tv4</w>
+  <w>precis</w>
+  <w>,</w>
+  <w>då</w>
+  <w>det</w>
+  <w>var</w>
+  <w>ett</w>
+  <w>inslag</w>
+  <w>om</w>
+  <w>att</w>
+  <w>byhålan</w>
+  <w>Hällnäs</w>
+  <w>(</w>
+  <w>nåt</w>
+  <w>i</w>
+  <w>den</w>
+  <w>stilen</w>
+  <w>)</w>
+  <w>i</w>
+  <w>Norrland</w>
+  <w>såg</w>
+  <w>mycket</w>
+  <w>bra</w>
+  <w>på</w>
+  <w>de</w>
+  <w>ökande</w>
+  <w>antalet</w>
+  <w>asylsökande</w>
+  <w>som</w>
+  <w>slagit</w>
+  <w>sig</w>
+  <w>ner</w>
+  <w>i</w>
+  <w>byn</w>
+  <w>.</w>
+  <w>Eftersom</w>
+  <w>byn</w>
+  <w>minskat</w>
+  <w>mycket</w>
+  <w>de</w>
+  <w>sista</w>
+  <w>decennierna</w>
+  <w>var</w>
+  <w>det</w>
+  <absaspan id=4 senti=4>
+    <w>bra</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>att</w>
+    <w>det</w>
+    <w>tillkom</w>
+    <w>invandrare</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>.</w>
+  </absaspan>
+  <w>Slog</w>
+  <w>nog</w>
+  <w>rekord</w>
+  <w>i</w>
+  <w>PK-poäng</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Intervjuade</w>
+  <w>de</w>
+  <w>majoriteten</w>
+  <w>av</w>
+  <w>invånarna</w>
+  <w>?</w>
+  <w>-</w>
+  <w>Nej</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1</w>
+  <w>.</w>
+  <w>De</w>
+  <w>intervjuade</w>
+  <absaspan id=7>
+    <w>föreståndaren</w>
+  </absaspan>
+  <w>-</w>
+  <absaspan id=8>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>var</w>
+    <w>positiv</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>2</w>
+  <w>.</w>
+  <w>De</w>
+  <w>intervjuade</w>
+  <absaspan id=10>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>tjock</w>
+    <w>ung</w>
+    <w>vuxen</w>
+    <w>som</w>
+    <w>stod</w>
+    <w>i</w>
+    <w>snabbköp</w>
+  </absaspan>
+  <w>-</w>
+  <absaspan id=12>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>var</w>
+    <w>positiv</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>#</w>
+  <w>P</w>
+  <absaspan id=14 senti=3>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>Sen</w>
+  <w>var</w>
+  <w>saken</w>
+  <w>klar</w>
+  <w>:</w>
+  <w>Det</w>
+  <w>var</w>
+  <w>positiv</w>
+  <w>med</w>
+  <w>invandrare</w>
+  <w>i</w>
+  <w>den</w>
+  <w>lilla</w>
+  <w>byn</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=3>
+  <w>Dem</w>
+  <w>intervjuade</w>
+  <absaspan id=15>
+    <w>en</w>
+    <w>iransk</w>
+    <w>man</w>
+    <w>i</w>
+    <w>50</w>
+    <w>-</w>
+    <w>årsåldern</w>
+    <w>som</w>
+  </absaspan>
+  <w>i</w>
+  <w>slutet</w>
+  <w>sa</w>
+  <w>att</w>
+  <w>han</w>
+  <w>senare</w>
+  <absaspan id=16 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>flytta</w>
+    <w>till</w>
+    <w>en</w>
+    <w>större</w>
+    <w>stad</w>
+    <w>,</w>
+    <w>Stockholm</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <absaspan id=18 senti=1>
+    <w>Är</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>vissa</w>
+    <w>svenskar</w>
+  </absaspan>
+  <absaspan id=20 senti=1>
+    <w>så</w>
+    <w>enormt</w>
+    <w>jävla</w>
+    <w>naiva</w>
+  </absaspan>
+  <w>att</w>
+  <w>tro</w>
+  <w>att</w>
+  <w>invandrarna</w>
+  <w>blir</w>
+  <w>kvar</w>
+  <w>i</w>
+  <w>den</w>
+  <w>lilla</w>
+  <w>hålan</w>
+  <w>?</w>
+  <w>Klart</w>
+  <w>som</w>
+  <w>fan</w>
+  <w>att</w>
+  <w>dem</w>
+  <w>ska</w>
+  <w>till</w>
+  <w>Stockholm</w>
+  <w>,</w>
+  <w>Göteborg</w>
+  <w>eller</w>
+  <w>Malmö</w>
+  <w>förr</w>
+  <w>eller</w>
+  <w>senare</w>
+  <w>.</w>
+</absapar>
+<absapar id=7 senti=3>
+  <w>Folkminskningen</w>
+  <w>på</w>
+  <w>landsbygden</w>
+  <w>kan</w>
+  <w>fan</w>
+  <w>heller</w>
+  <w>motverkas</w>
+  <w>med</w>
+  <w>invandrare</w>
+  <w>,</w>
+  <w>de</w>
+  <w>vill</w>
+  <w>ju</w>
+  <w>bo</w>
+  <w>i</w>
+  <w>Stockholm</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+</absadoc>

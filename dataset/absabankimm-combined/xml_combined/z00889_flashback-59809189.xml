@@ -1,0 +1,243 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <absaspan id=1>
+    <w>Henrik</w>
+    <w>Schyffert</w>
+  </absaspan>
+  <absaspan id=2 senti=1 target=1>
+    <w>gör</w>
+    <w>nytt</w>
+    <w>psyksjukt</w>
+    <w>uttalande</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Jaså</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vi</w>
+  <w>har</w>
+  <w>aldrig</w>
+  <w>varit</w>
+  <w>så</w>
+  <w>fattiga</w>
+  <w>som</w>
+  <w>vi</w>
+  <w>är</w>
+  <w>idag</w>
+  <w>.</w>
+  <w>Sveriges</w>
+  <w>BNP</w>
+  <w>per</w>
+  <w>capita</w>
+  <w>har</w>
+  <w>inte</w>
+  <w>ökat</w>
+  <w>på</w>
+  <w>10</w>
+  <w>år</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Sverige</w>
+  <w>har</w>
+  <w>nu</w>
+  <absaspan id=3 senti=1>
+    <w>sämst</w>
+    <w>välfärdssystem</w>
+    <w>i</w>
+    <w>västvärlden</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vi</w>
+  <w>har</w>
+  <w>aldrig</w>
+  <w>svultit</w>
+  <w>så</w>
+  <w>mycket</w>
+  <w>som</w>
+  <w>vi</w>
+  <w>gör</w>
+  <w>idag</w>
+  <w>.</w>
+  <w>75</w>
+  <w>000</w>
+  <w>pensionärer</w>
+  <w>svälter</w>
+  <w>ihjäl</w>
+  <w>i</w>
+  <w>sina</w>
+  <w>sängar</w>
+  <w>eftersom</w>
+  <w>kommunerna</w>
+  <w>har</w>
+  <w>inte</w>
+  <w>råd</w>
+  <w>med</w>
+  <w>personal</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=4>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>har</w>
+    <w>aldrig</w>
+    <w>varit</w>
+    <w>otryggare</w>
+    <w>än</w>
+    <w>vad</w>
+    <w>vi</w>
+    <w>är</w>
+    <w>idag</w>
+  </absaspan>
+  <w>.</w>
+  <w>Sverige</w>
+  <w>har</w>
+  <w>nu</w>
+  <w>55</w>
+  <w>no-go</w>
+  <w>zoner</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>där</w>
+  <w>det</w>
+  <w>kastas</w>
+  <w>sten</w>
+  <w>på</w>
+  <w>poliser</w>
+  <w>och</w>
+  <w>annan</w>
+  <w>blåljuspersonal</w>
+  <w>.</w>
+  <absaspan id=6>
+    <w>Polisen</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>vågar</w>
+    <w>inte</w>
+    <w>ens</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>åka</w>
+    <w>in</w>
+    <w>där</w>
+    <w>längre</w>
+  </absaspan>
+  <w>,</w>
+  <w>helt</w>
+  <w>laglösa</w>
+  <w>zoner</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Sverige</w>
+  <w>har</w>
+  <w>flest</w>
+  <w>IS-terrorister</w>
+  <w>i</w>
+  <w>Europa</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Sverige</w>
+  <w>har</w>
+  <w>näst</w>
+  <w>flest</w>
+  <w>våldtäkter</w>
+  <w>i</w>
+  <w>världen</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Män</w>
+  <w>från</w>
+  <w>muslimska</w>
+  <w>länder</w>
+  <w>våldtar</w>
+  <w>20</w>
+  <w>gånger</w>
+  <w>så</w>
+  <w>ofta</w>
+  <w>än</w>
+  <w>svenska</w>
+  <w>män</w>
+  <w>.</w>
+</absapar>
+<absapar id=9 senti=1>
+  <absaspan id=9 senti=1>
+    <w>Alla</w>
+    <w>dessa</w>
+    <w>problem</w>
+    <w>beror</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>att</w>
+    <w>vi</w>
+    <w>tagit</w>
+    <w>in</w>
+    <w>ointegrerbara</w>
+    <w>män</w>
+    <w>från</w>
+    <w>mellanöstern</w>
+    <w>och</w>
+    <w>afrika</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=10 senti=1>
+  <w>Invandringen</w>
+  <w>kostar</w>
+  <w>600</w>
+  <w>miljarder</w>
+  <w>och</w>
+  <w>är</w>
+  <w>orsaken</w>
+  <w>till</w>
+  <w>alla</w>
+  <w>nedskärningar</w>
+  <w>i</w>
+  <w>offentlig</w>
+  <w>sektor</w>
+  <w>.</w>
+  <w>Sveriges</w>
+  <w>skatter</w>
+  <w>räcker</w>
+  <w>inte</w>
+  <w>till</w>
+  <w>både</w>
+  <w>välfärd</w>
+  <w>och</w>
+  <w>invandring</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Är</w>
+  <w>karln</w>
+  <w>psyksjuk</w>
+  <absaspan id=11 senti=1>
+    <w>?</w>
+  </absaspan>
+  <w>Vad</w>
+  <w>lever</w>
+  <w>han</w>
+  <w>i</w>
+  <w>för</w>
+  <w>Sverige</w>
+  <w>?</w>
+  <w>Bor</w>
+  <w>han</w>
+  <w>på</w>
+  <w>Södermalm</w>
+  <w>månne</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,218 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Hur</w>
+  <w>ska</w>
+  <w>vi</w>
+  <w>omprogrammera</w>
+  <w>de</w>
+  <w>svenska</w>
+  <w>småföretagarna</w>
+  <w>att</w>
+  <w>anställa</w>
+  <w>gratis</w>
+  <w>arbetskraft</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>har</w>
+  <w>varit</w>
+  <w>och</w>
+  <w>jobbat</w>
+  <w>nere</w>
+  <w>i</w>
+  <w>småland</w>
+  <w>nu</w>
+  <w>det</w>
+  <w>senaste</w>
+  <w>halvåret</w>
+  <w>med</w>
+  <w>typ</w>
+  <w>it-relaterat</w>
+  <w>stuff</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Vad</w>
+  <w>jag</w>
+  <w>har</w>
+  <w>märkt</w>
+  <w>är</w>
+  <w>att</w>
+  <w>även</w>
+  <absaspan id=1>
+    <w>småindustrier</w>
+  </absaspan>
+  <w>med</w>
+  <w>typ</w>
+  <w>arbetsuppgifter</w>
+  <w>som</w>
+  <w>du</w>
+  <w>kan</w>
+  <w>lära</w>
+  <w>ut</w>
+  <w>på</w>
+  <w>en</w>
+  <w>kafferast</w>
+  <w>,</w>
+  <absaspan id=2 senti=1>
+    <w>skyr</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>de</w>
+    <w>nyanlända</w>
+  </absaspan>
+  <w>som</w>
+  <w>de</w>
+  <w>får</w>
+  <w>betalt</w>
+  <w>för</w>
+  <w>att</w>
+  <w>anställa</w>
+  <w>,</w>
+  <w>alltså</w>
+  <w>ett</w>
+  <w>dubbel</w>
+  <absaspan id=4 senti=5>
+    <w>win</w>
+    <w>win</w>
+  </absaspan>
+  <w>läge</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>De</w>
+  <w>betalar</w>
+  <w>hellre</w>
+  <w>den</w>
+  <w>lägsta</w>
+  <w>lönen</w>
+  <w>till</w>
+  <w>en</w>
+  <w>etablerad</w>
+  <w>invandrare</w>
+  <w>än</w>
+  <w>att</w>
+  <w>maximera</w>
+  <w>vinsten</w>
+  <w>genom</w>
+  <w>att</w>
+  <w>anställa</w>
+  <w>en</w>
+  <w>nyanländ</w>
+  <w>med</w>
+  <w>lönebidrag</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Samma</w>
+  <w>sak</w>
+  <w>när</w>
+  <w>jag</w>
+  <w>var</w>
+  <w>i</w>
+  <w>Gränna</w>
+  <w>,</w>
+  <w>alla</w>
+  <w>polkagrisbagarna</w>
+  <w>har</w>
+  <w>ett</w>
+  <w>stort</w>
+  <w>behov</w>
+  <w>av</w>
+  <w>säsongsarbetare</w>
+  <w>,</w>
+  <w>rulla</w>
+  <w>grisar</w>
+  <w>lär</w>
+  <w>du</w>
+  <w>dig</w>
+  <w>på</w>
+  <w>en</w>
+  <w>helg</w>
+  <w>,</w>
+  <w>men</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>de</w>
+  <w>kan</w>
+  <w>få</w>
+  <w>150%</w>
+  <w>ersättning</w>
+  <w>för</w>
+  <w>att</w>
+  <w>anställa</w>
+  <w>en</w>
+  <w>utomjording</w>
+  <w>,</w>
+  <w>så</w>
+  <w>väljer</w>
+  <w>de</w>
+  <w>att</w>
+  <w>anställa</w>
+  <w>skolungdomar</w>
+  <w>,</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>de</w>
+  <w>kan</w>
+  <w>maximera</w>
+  <w>vinsten</w>
+  <w>om</w>
+  <w>de</w>
+  <w>plockar</w>
+  <w>in</w>
+  <w>en</w>
+  <w>invandrare</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=2>
+  <w>Frågeställning</w>
+  <w>är</w>
+  <w>,</w>
+  <w>när</w>
+  <w>till</w>
+  <w>och</w>
+  <w>med</w>
+  <absaspan id=5>
+    <w>de</w>
+    <w>etablerade</w>
+    <w>företagarna</w>
+  </absaspan>
+  <w>väljer</w>
+  <w>att</w>
+  <w>betala</w>
+  <w>en</w>
+  <w>helvetes</w>
+  <w>massa</w>
+  <w>mer</w>
+  <w>,</w>
+  <w>och</w>
+  <w>till</w>
+  <w>och</w>
+  <w>med</w>
+  <w>avstå</w>
+  <w>vinstutrymme</w>
+  <absaspan id=6 senti=2>
+    <w>för</w>
+    <w>att</w>
+    <w>slippa</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>araberna</w>
+  </absaspan>
+  <w>,</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>någon</w>
+  <w>framtid</w>
+  <w>för</w>
+  <w>liberalernas</w>
+  <absaspan id=8 senti=4 irony>
+    <w>kulturberikning</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

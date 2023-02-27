@@ -1,0 +1,82 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Bli</w>
+  <w>kallad</w>
+  <w>för</w>
+  <w>rasist</w>
+  <w>och</w>
+  <w>polisanmäla</w>
+  <w>för</w>
+  <w>förolämpning</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Tänkte</w>
+  <w>kolla</w>
+  <w>om</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>något</w>
+  <w>känt</w>
+  <w>rättsfall</w>
+  <w>där</w>
+  <w>en</w>
+  <w>person</w>
+  <absaspan id=1 senti=2>
+    <w>utan</w>
+    <w>saklig</w>
+    <w>grund</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>blivit</w>
+    <w>beskylld</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>vara</w>
+  <w>rasist</w>
+  <w>och</w>
+  <w>polisanmält</w>
+  <w>den</w>
+  <w>som</w>
+  <w>sade</w>
+  <w>det</w>
+  <w>för</w>
+  <w>förolämpning</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Jag</w>
+  <w>har</w>
+  <w>inga</w>
+  <w>planer</w>
+  <w>på</w>
+  <w>att</w>
+  <w>polisanmäla</w>
+  <w>något</w>
+  <w>för</w>
+  <w>nåt</w>
+  <w>sånt</w>
+  <w>utan</w>
+  <w>är</w>
+  <w>mest</w>
+  <w>nyfiken</w>
+  <w>på</w>
+  <w>om</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>någon</w>
+  <w>som</w>
+  <w>gjort</w>
+  <w>det</w>
+  <w>och</w>
+  <w>vad</w>
+  <w>det</w>
+  <w>blev</w>
+  <w>för</w>
+  <w>utfall</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

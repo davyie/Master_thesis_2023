@@ -1,0 +1,232 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <absaspan id=1>
+    <w>Fredrik</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Strage</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=3 senti=4 irony source=1 target=4>
+    <w>Kära</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>SD-väljare</w>
+  </absaspan>
+  <w>,</w>
+  <w>vad</w>
+  <w>sägs</w>
+  <w>om</w>
+  <w>att</w>
+  <w>flytta</w>
+  <w>till</w>
+  <w>Jimmieland</w>
+  <w>i</w>
+  <w>Thailand</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>"</w>
+  <w>Om</w>
+  <w>Sverigedemokraterna</w>
+  <w>tar</w>
+  <w>makten</w>
+  <w>blir</w>
+  <w>det</w>
+  <w>i</w>
+  <w>bästa</w>
+  <w>fall</w>
+  <w>omskolningsläger</w>
+  <w>för</w>
+  <w>min</w>
+  <w>del</w>
+  <w>.</w>
+  <w>Därför</w>
+  <w>har</w>
+  <w>jag</w>
+  <w>lekt</w>
+  <w>med</w>
+  <w>tanken</w>
+  <w>på</w>
+  <w>att</w>
+  <w>emigrera</w>
+  <w>till</w>
+  <w>Berlin</w>
+  <w>.</w>
+  <w>Som</w>
+  <w>medlem</w>
+  <w>i</w>
+  <absaspan id=5 senti=2 irony>
+    <w>den</w>
+    <w>kommunistiska</w>
+    <w>pk-eliten</w>
+  </absaspan>
+  <absaspan id=6 senti=5>
+    <w>älskar</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>stadens</w>
+    <w>dekadenta</w>
+    <w>,</w>
+    <w>kosmopolitiska</w>
+    <w>vibbar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Men</w>
+  <w>innan</w>
+  <w>jag</w>
+  <w>börjar</w>
+  <w>leta</w>
+  <w>lägenhet</w>
+  <w>vill</w>
+  <w>jag</w>
+  <w>komma</w>
+  <w>med</w>
+  <w>ett</w>
+  <w>anspråkslöst</w>
+  <w>förslag</w>
+  <w>.</w>
+  <absaspan id=9 senti=4 irony>
+    <w>Kära</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>SD-väljare</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=11 senti=4>
+    <w>vore</w>
+    <w>det</w>
+    <w>inte</w>
+    <w>trevligare</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>ni</w>
+    <w>i</w>
+    <w>stället</w>
+    <w>flyttade</w>
+    <w>till</w>
+    <w>Thailand</w>
+  </absaspan>
+  <w>?</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>är</w>
+  <w>tydligen</w>
+  <w>dags</w>
+  <w>för</w>
+  <w>lönesättande</w>
+  <w>samtal</w>
+  <w>på</w>
+  <w>DN</w>
+  <w>,</w>
+  <w>Mr</w>
+  <w>Strange</w>
+  <w>gör</w>
+  <w>vad</w>
+  <w>han</w>
+  <w>kan</w>
+  <w>i</w>
+  <absaspan id=13 senti=2>
+    <w>PK-konkurrensen</w>
+  </absaspan>
+  <w>för</w>
+  <w>bättra</w>
+  <w>på</w>
+  <w>sin</w>
+  <w>socialliberala</w>
+  <w>image</w>
+  <w>och</w>
+  <w>gör</w>
+  <absaspan id=14 senti=4 irony>
+    <w>ett</w>
+    <w>modigt</w>
+    <w>utfall</w>
+  </absaspan>
+  <w>mot</w>
+  <absaspan id=15 senti=2 irony>
+    <w>de</w>
+    <w>farliga</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>SDarna</w>
+  </absaspan>
+  <w>i</w>
+  <w>vårt</w>
+  <w>avlånga</w>
+  <w>land</w>
+  <w>.</w>
+  <w>Förståeligt</w>
+  <w>med</w>
+  <w>tanke</w>
+  <w>på</w>
+  <w>att</w>
+  <w>han</w>
+  <w>konkurrerar</w>
+  <w>med</w>
+  <absaspan id=17 senti=1>
+    <w>fullblodsPKister</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=18>
+    <w>Björn</w>
+    <w>Wiman</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=19>
+    <w>Niklas</w>
+    <w>Orrenius</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=20>
+    <w>Hanna</w>
+    <w>Fahl</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=1>
+  <w>Chansen</w>
+  <w>att</w>
+  <w>han</w>
+  <w>eller</w>
+  <w>hans</w>
+  <w>familj</w>
+  <w>skulle</w>
+  <w>stöta</w>
+  <w>på</w>
+  <w>sura</w>
+  <w>SD</w>
+  <w>väljare</w>
+  <w>eller</w>
+  <w>för</w>
+  <w>den</w>
+  <w>delen</w>
+  <w>sina</w>
+  <w>skyddslingar</w>
+  <w>som</w>
+  <w>somaliska</w>
+  <w>rånargäng</w>
+  <w>eller</w>
+  <w>marockanska</w>
+  <w>ensamkommande</w>
+  <w>får</w>
+  <w>väl</w>
+  <w>betraktas</w>
+  <w>som</w>
+  <w>minimal</w>
+  <w>i</w>
+  <w>hooden</w>
+  <w>på</w>
+  <w>Kungsholmsgatan</w>
+  <w>,</w>
+  <w>.</w>
+</absapar>
+</absadoc>

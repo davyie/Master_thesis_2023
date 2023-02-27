@@ -1,0 +1,404 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Skolan</w>
+  </absaspan>
+  <absaspan id=2 senti=1 source=1 target=3>
+    <w>blundar</w>
+    <w>för</w>
+  </absaspan>
+  <w>”</w>
+  <absaspan id=3>
+    <w>bokstavsbarnen</w>
+  </absaspan>
+  <w>”</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4>
+    <w>Malene</w>
+    <w>Larssen</w>
+  </absaspan>
+  <w>skrev</w>
+  <w>den</w>
+  <w>10</w>
+  <w>/</w>
+  <w>6</w>
+  <w>på</w>
+  <w>Debatt</w>
+  <w>att</w>
+  <w>alla</w>
+  <absaspan id=5>
+    <w>barn</w>
+    <w>med</w>
+    <w>neuropsykiatriska</w>
+    <w>funktionsnedsättningar</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>inte</w>
+    <w>klarar</w>
+    <w>att</w>
+    <w>gå</w>
+    <w>i</w>
+    <w>”</w>
+    <w>vanliga</w>
+    <w>”</w>
+    <w>klasser</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=7>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=8 senti=5>
+    <w>instämmer</w>
+  </absaspan>
+  <w>i</w>
+  <w>allt</w>
+  <w>hon</w>
+  <w>säger</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>är</w>
+  <absaspan id=9 senti=2>
+    <w>svårt</w>
+    <w>att</w>
+    <w>få</w>
+  </absaspan>
+  <absaspan id=10 senti=5>
+    <w>respekt</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=11 senti=5>
+    <w>förståelse</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=12 senti=5>
+    <w>medkänsla</w>
+  </absaspan>
+  <w>för</w>
+  <w>barn</w>
+  <w>med</w>
+  <w>till</w>
+  <w>exempel</w>
+  <w>adhd</w>
+  <w>,</w>
+  <w>add</w>
+  <w>,</w>
+  <w>Aspergers</w>
+  <w>syndrom</w>
+  <w>och</w>
+  <w>Tourettes</w>
+  <w>syndrom</w>
+  <w>.</w>
+  <w>Utan</w>
+  <absaspan id=13 senti=5>
+    <w>rätt</w>
+    <w>bemötande</w>
+  </absaspan>
+  <absaspan id=14 senti=1>
+    <w>blir</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>dessa</w>
+    <w>barns</w>
+    <w>självkänsla</w>
+  </absaspan>
+  <absaspan id=16 senti=1>
+    <w>förstörd</w>
+  </absaspan>
+  <w>.</w>
+  <w>Ärren</w>
+  <w>i</w>
+  <w>själen</w>
+  <w>kan</w>
+  <w>tiden</w>
+  <w>aldrig</w>
+  <w>läka</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Skolhälsovården</w>
+  <w>står</w>
+  <w>som</w>
+  <w>en</w>
+  <w>garant</w>
+  <w>för</w>
+  <w>tidig</w>
+  <w>upptäckt</w>
+  <w>,</w>
+  <w>liksom</w>
+  <w>ett</w>
+  <w>aktivt</w>
+  <w>BVC</w>
+  <w>.</w>
+  <w>När</w>
+  <absaspan id=17>
+    <w>föräldrar</w>
+  </absaspan>
+  <w>förstår</w>
+  <w>att</w>
+  <absaspan id=18>
+    <w>deras</w>
+    <w>”</w>
+  </absaspan>
+  <absaspan id=19 senti=1 irony>
+    <w>ouppfostrade</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>”</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>barn</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>både</w>
+  <w>är</w>
+  <w>mobbare</w>
+  <w>och</w>
+  <w>blir</w>
+  <w>mobbade</w>
+  <w>,</w>
+  <w>i</w>
+  <w>själva</w>
+  <w>verket</w>
+  <absaspan id=22 senti=2>
+    <w>har</w>
+    <w>medicinska</w>
+    <w>tillkortakommanden</w>
+  </absaspan>
+  <w>,</w>
+  <w>uppstår</w>
+  <w>en</w>
+  <w>ny</w>
+  <w>generation</w>
+  <absaspan id=23>
+    <w>föräldrar</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=24 senti=1>
+    <w>inte</w>
+    <w>accepterar</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>att</w>
+    <w>deras</w>
+    <w>barns</w>
+    <w>medicinska</w>
+    <w>diagnoser</w>
+    <w>inte</w>
+    <w>behandlas</w>
+    <w>i</w>
+    <w>skolan</w>
+    <w>eller</w>
+    <w>i</w>
+    <w>samhället</w>
+    <w>som</w>
+    <w>det</w>
+    <w>funktionshindrande</w>
+    <w>handikapp</w>
+    <w>det</w>
+    <w>är</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vi</w>
+  <w>vet</w>
+  <w>nu</w>
+  <w>att</w>
+  <absaspan id=26>
+    <w>svårt</w>
+    <w>trötta</w>
+    <w>barn</w>
+  </absaspan>
+  <w>kan</w>
+  <absaspan id=27 senti=1>
+    <w>lida</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>sömnsjuka</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=29>
+    <w>narkolepsi</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>en</w>
+  <absaspan id=30 senti=1>
+    <w>biverkan</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>vaccineringen</w>
+    <w>med</w>
+    <w>svininfluensa</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=32>
+    <w>Aktiva</w>
+    <w>föräldrar</w>
+  </absaspan>
+  <absaspan id=33 senti=5>
+    <w>har</w>
+    <w>lyckats</w>
+    <w>få</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>en</w>
+    <w>opinion</w>
+  </absaspan>
+  <w>att</w>
+  <w>förstå</w>
+  <absaspan id=35 senti=1>
+    <w>det</w>
+    <w>tragiska</w>
+    <w>som</w>
+    <w>hänt</w>
+  </absaspan>
+  <w>och</w>
+  <w>därmed</w>
+  <w>en</w>
+  <absaspan id=36 senti=4>
+    <w>acceptans</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=37 senti=4>
+    <w>begynnande</w>
+    <w>hjälp</w>
+  </absaspan>
+  <w>från</w>
+  <w>samhället</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>På</w>
+  <w>samma</w>
+  <w>sätt</w>
+  <absaspan id=38 senti=3>
+    <w>måste</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=40 senti=3>
+    <w>acceptera</w>
+  </absaspan>
+  <absaspan id=41>
+    <w>att</w>
+    <w>det</w>
+    <w>finns</w>
+  </absaspan>
+  <absaspan id=42>
+    <w>barn</w>
+  </absaspan>
+  <absaspan id=43>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=44 senti=1>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=45>
+    <w>så</w>
+  </absaspan>
+  <absaspan id=46 senti=1>
+    <w>allvarliga</w>
+  </absaspan>
+  <absaspan id=47 senti=1>
+    <w>former</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=48>
+    <w>koncentrationsstörningar</w>
+  </absaspan>
+  <absaspan id=49>
+    <w>eller</w>
+  </absaspan>
+  <absaspan id=50 senti=1>
+    <w>problem</w>
+  </absaspan>
+  <absaspan id=51 senti=1>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=52>
+    <w>socialt</w>
+    <w>samspel</w>
+  </absaspan>
+  <absaspan id=53>
+    <w>att</w>
+    <w>de</w>
+    <w>leder</w>
+    <w>till</w>
+    <w>medicinska</w>
+    <w>diagnoser</w>
+  </absaspan>
+  <w>.</w>
+  <w>Dessa</w>
+  <w>klassificeras</w>
+  <w>av</w>
+  <w>Socialstyrelsen</w>
+  <w>som</w>
+  <w>sjukdom</w>
+  <w>och</w>
+  <absaspan id=54 senti=1>
+    <w>hälsoproblem</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=55>
+    <w>Föräldrarna</w>
+  </absaspan>
+  <absaspan id=56 senti=1>
+    <w>känner</w>
+    <w>en</w>
+    <w>vanmakt</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>jag</w>
+  <w>som</w>
+  <w>skolläkare</w>
+  <w>delar</w>
+  <w>med</w>
+  <w>dem</w>
+  <w>,</w>
+  <w>när</w>
+  <absaspan id=57>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=58 senti=1>
+    <w>inte</w>
+    <w>får</w>
+    <w>gehör</w>
+    <w>hos</w>
+  </absaspan>
+  <absaspan id=59>
+    <w>skolan</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>skapa</w>
+  <w>små</w>
+  <w>strukturerade</w>
+  <w>enheter</w>
+  <w>med</w>
+  <w>speciellt</w>
+  <w>utbildade</w>
+  <w>lärare</w>
+  <w>och</w>
+  <w>specialpedagoger</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Sophie</w>
+  <w>Ekman</w>
+  <w>,</w>
+  <w>skolöverläkare</w>
+  <w>.</w>
+</absapar>
+</absadoc>

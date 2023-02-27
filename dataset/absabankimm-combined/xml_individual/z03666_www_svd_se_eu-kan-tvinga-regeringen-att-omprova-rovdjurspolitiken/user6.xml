@@ -1,0 +1,596 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>EU</w>
+  <w>kan</w>
+  <absaspan id=1 senti=2 source=2 target=3>
+    <w>tvinga</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>regeringen</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>att</w>
+    <w>ompröva</w>
+    <w>rovdjurspolitiken</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Jägarförbundets</w>
+  <w>ordförande</w>
+  <w>Torsten</w>
+  <w>Mörner</w>
+  <w>skriver</w>
+  <w>(</w>
+  <w>12</w>
+  <w>/</w>
+  <w>1</w>
+  <w>)</w>
+  <w>att</w>
+  <w>vargjakten</w>
+  <w>följer</w>
+  <w>EU</w>
+  <w>:</w>
+  <w>s</w>
+  <w>regelverk</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Idag</w>
+  <w>träffar</w>
+  <w>Naturskyddsföreningen</w>
+  <w>,</w>
+  <w>Världsnaturfonden</w>
+  <w>WWF</w>
+  <w>och</w>
+  <w>Svenska</w>
+  <w>Rovdjursföreningen</w>
+  <w>representanter</w>
+  <w>för</w>
+  <w>EU-kommissionen</w>
+  <w>i</w>
+  <w>Bryssel</w>
+  <w>för</w>
+  <w>att</w>
+  <w>diskutera</w>
+  <w>den</w>
+  <w>svenska</w>
+  <w>licensjakten</w>
+  <w>på</w>
+  <w>varg</w>
+  <w>.</w>
+  <w>På</w>
+  <w>vår</w>
+  <w>agenda</w>
+  <w>står</w>
+  <w>en</w>
+  <w>anmälan</w>
+  <w>om</w>
+  <w>brott</w>
+  <w>mot</w>
+  <w>EU</w>
+  <w>:</w>
+  <w>s</w>
+  <w>art</w>
+  <w>-</w>
+  <w>och</w>
+  <w>habitatdirektiv</w>
+  <w>som</w>
+  <w>vi</w>
+  <w>lämnar</w>
+  <w>inom</w>
+  <w>kort</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>För</w>
+  <w>att</w>
+  <w>tillåta</w>
+  <w>licensjakt</w>
+  <w>på</w>
+  <w>varg</w>
+  <w>krävs</w>
+  <w>en</w>
+  <w>livskraftig</w>
+  <w>stam</w>
+  <w>med</w>
+  <w>en</w>
+  <absaspan id=4 senti=4>
+    <w>gynnsam</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>bevarandestatus</w>
+  </absaspan>
+  <w>och</w>
+  <w>en</w>
+  <w>förvaltningsplan</w>
+  <w>baserad</w>
+  <w>på</w>
+  <w>vetenskap</w>
+  <w>.</w>
+  <absaspan id=6>
+    <w>Istället</w>
+    <w>genomfördes</w>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>urskillningslös</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>jakt</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>där</w>
+    <w>tusentals</w>
+    <w>jägare</w>
+    <w>skulle</w>
+    <w>skjuta</w>
+    <w>27</w>
+    <w>vargar</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=10>
+    <w>Myndigheter</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>talade</w>
+    <w>om</w>
+    <w>kaos</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Obduktionerna</w>
+  <w>visar</w>
+  <w>att</w>
+  <absaspan id=12>
+    <w>vargarna</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>var</w>
+    <w>både</w>
+    <w>friska</w>
+    <w>och</w>
+    <w>livskraftiga</w>
+  </absaspan>
+  <w>.</w>
+  <w>Licensjakten</w>
+  <w>handlade</w>
+  <w>inte</w>
+  <w>om</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>bort</w>
+  <w>sjuka</w>
+  <w>djur</w>
+  <w>som</w>
+  <w>miljöminister</w>
+  <w>Andreas</w>
+  <w>Carlgren</w>
+  <w>påstått</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=14>
+    <w>Skadeskjutningarna</w>
+    <w>och</w>
+    <w>bomskotten</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>är</w>
+    <w>långt</w>
+    <w>över</w>
+    <w>vad</w>
+    <w>som</w>
+    <w>är</w>
+    <w>jaktetiskt</w>
+    <w>acceptabelt</w>
+  </absaspan>
+  <w>.</w>
+  <w>En</w>
+  <w>varg</w>
+  <w>för</w>
+  <w>mycket</w>
+  <w>sköts</w>
+  <w>i</w>
+  <w>Dalarna</w>
+  <w>.</w>
+  <w>Dessutom</w>
+  <w>lämnas</w>
+  <w>nu</w>
+  <w>valpar</w>
+  <w>utan</w>
+  <w>föräldrar</w>
+  <w>,</w>
+  <w>vilket</w>
+  <w>kan</w>
+  <w>leda</w>
+  <w>till</w>
+  <w>att</w>
+  <w>fler</w>
+  <w>vargar</w>
+  <w>dukar</w>
+  <w>under</w>
+  <w>.</w>
+  <absaspan id=16 senti=4>
+    <w>En</w>
+  </absaspan>
+  <absaspan id=17 senti=4>
+    <w>gedigen</w>
+  </absaspan>
+  <absaspan id=18 senti=4>
+    <w>förvaltningsplan</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>hade</w>
+    <w>fokuserat</w>
+    <w>på</w>
+    <w>invandring</w>
+    <w>av</w>
+    <w>varg</w>
+    <w>från</w>
+    <w>Ryssland</w>
+    <w>och</w>
+    <w>Finland</w>
+  </absaspan>
+  <w>.</w>
+  <w>Nu</w>
+  <w>saknas</w>
+  <w>en</w>
+  <w>strategi</w>
+  <w>för</w>
+  <w>hur</w>
+  <w>detta</w>
+  <w>ska</w>
+  <w>gå</w>
+  <w>till</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Vi</w>
+  <w>håller</w>
+  <w>inte</w>
+  <w>med</w>
+  <w>Torsten</w>
+  <w>Mörner</w>
+  <w>om</w>
+  <w>att</w>
+  <w>jaktbeslutet</w>
+  <w>bottnar</w>
+  <w>i</w>
+  <w>en</w>
+  <w>klyfta</w>
+  <w>mellan</w>
+  <w>stad</w>
+  <w>och</w>
+  <w>land</w>
+  <w>.</w>
+  <w>Forskningen</w>
+  <w>tyder</w>
+  <w>på</w>
+  <w>motsatsen</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>finns</w>
+  <w>en</w>
+  <absaspan id=20 senti=4>
+    <w>bred</w>
+    <w>acceptans</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>livskraftiga</w>
+    <w>stammar</w>
+    <w>av</w>
+    <w>rovdjur</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=8>
+  <w>Men</w>
+  <w>en</w>
+  <w>liten</w>
+  <absaspan id=23 senti=2>
+    <w>högljudd</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>minoritet</w>
+  </absaspan>
+  <w>har</w>
+  <w>fått</w>
+  <w>politikerna</w>
+  <w>att</w>
+  <w>besluta</w>
+  <w>om</w>
+  <w>en</w>
+  <absaspan id=25 senti=2>
+    <w>populistisk</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>jakt</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=27>
+    <w>Både</w>
+    <w>beslutet</w>
+    <w>och</w>
+    <w>tillvägagångssättet</w>
+  </absaspan>
+  <absaspan id=28 senti=2>
+    <w>var</w>
+    <w>fel</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>När</w>
+  <w>vi</w>
+  <w>idag</w>
+  <w>träffar</w>
+  <w>EU-kommissionen</w>
+  <w>kommer</w>
+  <w>vi</w>
+  <w>att</w>
+  <w>redogöra</w>
+  <w>för</w>
+  <w>brottet</w>
+  <w>mot</w>
+  <w>EU</w>
+  <w>:</w>
+  <w>s</w>
+  <w>regler</w>
+  <w>för</w>
+  <w>att</w>
+  <w>skydda</w>
+  <w>hotade</w>
+  <w>arter</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>är</w>
+  <w>övertygade</w>
+  <w>om</w>
+  <w>att</w>
+  <w>EU-kommissionen</w>
+  <w>,</w>
+  <w>på</w>
+  <w>samma</w>
+  <w>sätt</w>
+  <w>som</w>
+  <w>skett</w>
+  <w>i</w>
+  <w>Finland</w>
+  <w>,</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>tvinga</w>
+  <w>Sverige</w>
+  <w>att</w>
+  <w>ompröva</w>
+  <w>rovdjurspolitiken</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Vi</w>
+  <w>vill</w>
+  <w>att</w>
+  <w>fler</w>
+  <w>vargar</w>
+  <w>ska</w>
+  <w>få</w>
+  <w>etableras</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>större</w>
+  <w>område</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>och</w>
+  <w>att</w>
+  <w>stödet</w>
+  <w>till</w>
+  <w>människor</w>
+  <w>i</w>
+  <w>de</w>
+  <w>vargtätaste</w>
+  <w>områdena</w>
+  <w>utökas</w>
+  <w>ordentligt</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Det</w>
+  <w>handlar</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>om</w>
+  <w>att</w>
+  <w>skapa</w>
+  <w>en</w>
+  <absaspan id=29 senti=4>
+    <w>positiv</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>dialog</w>
+  </absaspan>
+  <w>och</w>
+  <w>om</w>
+  <absaspan id=31 senti=4>
+    <w>stöttande</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>åtgärder</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>exempelvis</w>
+  <absaspan id=33 senti=4>
+    <w>vargsäkra</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>stängsel</w>
+    <w>för</w>
+    <w>tamdjur</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=35 senti=4>
+    <w>fullgod</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>ersättning</w>
+    <w>för</w>
+    <w>skador</w>
+  </absaspan>
+  <w>.</w>
+  <w>Idag</w>
+  <w>räcker</w>
+  <w>inte</w>
+  <w>pengarna</w>
+  <w>alls</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Sverige</w>
+  <w>med</w>
+  <w>vidsträckta</w>
+  <w>och</w>
+  <w>glest</w>
+  <w>befolkade</w>
+  <w>naturområden</w>
+  <w>har</w>
+  <absaspan id=37 senti=4>
+    <w>unika</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>förutsättningar</w>
+    <w>för</w>
+    <w>att</w>
+    <w>hysa</w>
+    <w>livskraftiga</w>
+    <w>rovdjursstammar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Sverige</w>
+  <w>har</w>
+  <w>en</w>
+  <w>av</w>
+  <w>de</w>
+  <w>allra</w>
+  <w>glesaste</w>
+  <w>vargstammarna</w>
+  <w>i</w>
+  <w>Europa</w>
+  <absaspan id=39 senti=2>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=40>
+    <w>Vargen</w>
+  </absaspan>
+  <absaspan id=41 senti=4>
+    <w>är</w>
+    <w>en</w>
+    <w>naturlig</w>
+    <w>del</w>
+  </absaspan>
+  <w>av</w>
+  <w>den</w>
+  <w>svenska</w>
+  <w>och</w>
+  <w>europeiska</w>
+  <w>naturen</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>MIKAEL</w>
+  <w>KARLSSON</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>ordförande</w>
+  <w>Naturskyddsföreningen</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>LASSE</w>
+  <w>GUSTAVSSON</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>generalsekreterare</w>
+  <w>Världsnaturfonden</w>
+  <w>WWF</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>ANN</w>
+  <w>DAHLERUS</w>
+  <w>.</w>
+</absapar>
+<absapar id=19>
+  <w>generalsekreterare</w>
+  <w>i</w>
+  <w>Svenska</w>
+  <w>Rovdjursföreningen</w>
+  <w>.</w>
+</absapar>
+<absapar id=20>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

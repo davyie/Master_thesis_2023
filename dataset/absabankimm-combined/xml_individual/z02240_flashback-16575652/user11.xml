@@ -1,0 +1,84 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <absaspan id=1>
+    <w>Flyktingfamilj</w>
+  </absaspan>
+  <absaspan id=2 senti=1 target=3 source=1>
+    <w>trakasserades</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=3>
+    <w>Vännäsbor</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Är</w>
+  <w>detta</w>
+  <w>"</w>
+  <w>mindre</w>
+  <w>förtret</w>
+  <w>"</w>
+  <w>en</w>
+  <w>omskrivning</w>
+  <w>för</w>
+  <w>våldtäktsförsök</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Detta</w>
+  <w>är</w>
+  <w>dock</w>
+  <w>vk</w>
+  <w>så</w>
+  <w>jag</w>
+  <w>förväntar</w>
+  <w>mig</w>
+  <w>locket</w>
+  <w>på</w>
+  <w>och</w>
+  <w>hyllningar</w>
+  <w>till</w>
+  <w>den</w>
+  <w>jagade</w>
+  <w>"</w>
+  <absaspan id=4>
+    <w>flykting"familjen</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Åhå</w>
+  <w>,</w>
+  <w>läste</w>
+  <w>vidare</w>
+  <w>på</w>
+  <w>vk</w>
+  <w>och</w>
+  <w>hittade</w>
+  <w>då</w>
+  <w>detta</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Visserligen</w>
+  <w>hände</w>
+  <w>det</w>
+  <w>igår</w>
+  <w>kväll</w>
+  <w>/</w>
+  <w>natt</w>
+  <w>,</w>
+  <w>men</w>
+  <w>händelserna</w>
+  <w>kanske</w>
+  <w>är</w>
+  <w>sammankopplade</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

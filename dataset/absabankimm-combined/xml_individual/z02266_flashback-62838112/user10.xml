@@ -1,0 +1,79 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Borde</w>
+  <w>rödhåriga</w>
+  <w>räknas</w>
+  <w>som</w>
+  <w>minoritet</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Kan</w>
+  <absaspan id=1>
+    <w>den</w>
+    <w>rödhåriga</w>
+    <w>rasen</w>
+  </absaspan>
+  <absaspan id=2 senti=1>
+    <w>utsättas</w>
+    <w>för</w>
+    <w>hatbrott</w>
+  </absaspan>
+  <w>,</w>
+  <w>rasism</w>
+  <w>,</w>
+  <w>osv</w>
+  <w>såsom</w>
+  <w>andra</w>
+  <w>minoriteter</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Är</w>
+  <w>det</w>
+  <absaspan id=3 senti=3>
+    <w>lika</w>
+    <w>illa</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>att</w>
+    <w>exempelvis</w>
+    <w>utbrista</w>
+    <w>"</w>
+    <w>neger</w>
+    <w>"</w>
+    <w>till</w>
+    <w>en</w>
+    <w>neger</w>
+    <w>som</w>
+    <w>det</w>
+    <w>är</w>
+    <w>"</w>
+    <w>ditt</w>
+    <w>hår</w>
+    <w>brinner</w>
+  </absaspan>
+  <w>!</w>
+  <w>"</w>
+  <w>till</w>
+  <w>en</w>
+  <w>rödhårig</w>
+  <w>?</w>
+  <w>Jag</w>
+  <w>själv</w>
+  <w>som</w>
+  <w>är</w>
+  <w>rödhårig</w>
+  <w>,</w>
+  <w>vet</w>
+  <w>att</w>
+  <absaspan id=5 senti=1>
+    <w>mycket</w>
+    <w>hat</w>
+  </absaspan>
+  <w>kan</w>
+  <w>förekomma</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,250 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Vänsterledaren</w>
+  <w>når</w>
+  <w>inte</w>
+  <w>över</w>
+  <w>rampen</w>
+  <absaspan id=1 senti=2>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Nu</w>
+  <w>har</w>
+  <w>det</w>
+  <w>hänt</w>
+  <w>igen</w>
+  <w>!</w>
+  <absaspan id=2>
+    <w>Lars</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>Ohly</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>fick</w>
+    <w>sämst</w>
+    <w>betyg</w>
+    <w>av</w>
+    <w>alla</w>
+    <w>i</w>
+    <w>partiledardebatten</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>.</w>
+  </absaspan>
+  <w>Det</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>första</w>
+  <w>gången</w>
+  <w>.</w>
+  <absaspan id=6>
+    <w>Han</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>har</w>
+    <w>alltid</w>
+    <w>fått</w>
+    <w>sämst</w>
+    <w>betyg</w>
+  </absaspan>
+  <w>,</w>
+  <w>ända</w>
+  <w>sedan</w>
+  <w>han</w>
+  <w>tillträdde</w>
+  <w>som</w>
+  <w>partiledare</w>
+  <w>för</w>
+  <w>vänstern</w>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+  <w>Det</w>
+  <w>måste</w>
+  <w>vara</w>
+  <w>knäckande</w>
+  <w>.</w>
+  <w>Själv</w>
+  <w>säger</w>
+  <absaspan id=9>
+    <w>Ohly</w>
+  </absaspan>
+  <absaspan id=10 senti=5>
+    <w>att</w>
+    <w>han</w>
+    <w>inte</w>
+    <w>är</w>
+    <w>bekymrad</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>.</w>
+  <w>–</w>
+  <w>Sticker</w>
+  <w>man</w>
+  <w>ut</w>
+  <w>väcker</w>
+  <w>man</w>
+  <w>både</w>
+  <absaspan id=11 senti=5>
+    <w>sympati</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=12 senti=1>
+    <w>antipati</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Men</w>
+  <w>det</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>så</w>
+  <w>enkelt</w>
+  <w>som</w>
+  <w>Lars</w>
+  <w>Ohly</w>
+  <w>vill</w>
+  <w>göra</w>
+  <w>gällande</w>
+  <w>.</w>
+  <w>Vänsterledaren</w>
+  <w>når</w>
+  <w>inte</w>
+  <w>över</w>
+  <w>rampen</w>
+  <absaspan id=13 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Det</w>
+  <w>krävs</w>
+  <w>mer</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=14 senti=3>
+    <w>blidka</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>väljarna</w>
+  </absaspan>
+  <w>och</w>
+  <w>framför</w>
+  <w>allt</w>
+  <w>konkurrera</w>
+  <w>ut</w>
+  <w>självlysande</w>
+  <w>politiker</w>
+  <w>som</w>
+  <w>Göran</w>
+  <w>Persson</w>
+  <w>och</w>
+  <w>Fredrik</w>
+  <w>Reinfeldt</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>några</w>
+  <w>faktorer</w>
+  <w>som</w>
+  <w>Ohly</w>
+  <w>måste</w>
+  <w>jobba</w>
+  <w>med</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>första</w>
+  <w>är</w>
+  <w>självförtroendet</w>
+  <w>och</w>
+  <w>trovärdigheten</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>mycket</w>
+  <w>gammal</w>
+  <w>retorik</w>
+  <w>och</w>
+  <w>lite</w>
+  <w>nya</w>
+  <w>tankar</w>
+  <w>.</w>
+  <w>Varför</w>
+  <w>inte</w>
+  <w>göra</w>
+  <w>som</w>
+  <w>folkpartiledaren</w>
+  <w>och</w>
+  <w>ta</w>
+  <w>hjälp</w>
+  <w>av</w>
+  <w>en</w>
+  <w>stylist</w>
+  <w>som</w>
+  <w>kan</w>
+  <w>lyfta</w>
+  <w>fram</w>
+  <w>personligheten</w>
+  <w>.</w>
+  <w>Efter</w>
+  <w>Gudryn</w>
+  <w>Schymans</w>
+  <w>utstrålning</w>
+  <w>och</w>
+  <w>röda</w>
+  <w>klackar</w>
+  <w>behövs</w>
+  <w>det</w>
+  <w>något</w>
+  <w>extra</w>
+  <w>.</w>
+  <absaspan id=16 senti=2>
+    <w>Det</w>
+    <w>räcker</w>
+    <w>inte</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>ett</w>
+    <w>klämkäckt</w>
+    <w>utrop</w>
+    <w>att</w>
+    <w>han</w>
+    <w>gillar</w>
+    <w>Djurgården</w>
+  </absaspan>
+  <w>.</w>
+  <w>Kanske</w>
+  <w>har</w>
+  <w>ni</w>
+  <w>läsare</w>
+  <absaspan id=18 senti=4>
+    <w>några</w>
+    <w>bra</w>
+    <w>råd</w>
+  </absaspan>
+  <w>till</w>
+  <w>Lars</w>
+  <w>Ohly</w>
+  <w>.</w>
+  <w>Mejla</w>
+  <w>dem</w>
+  <w>till</w>
+  <w>oss</w>
+  <w>på</w>
+  <w>[</w>
+  <w>email</w>
+  <w>protected</w>
+  <w>]</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

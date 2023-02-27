@@ -1,0 +1,335 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Nya</w>
+  <w>tider</w>
+  <w>stundar</w>
+  <w>för</w>
+  <w>direktörerna</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <w>har</w>
+  <w>startats</w>
+  <w>en</w>
+  <w>motståndsrörelse</w>
+  <absaspan id=1 senti=1>
+    <w>i</w>
+    <w>protest</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>direktörers</w>
+    <w>bonusar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+  <w>Det</w>
+  <w>är</w>
+  <w>företagare</w>
+  <w>i</w>
+  <w>Schweiz</w>
+  <w>som</w>
+  <w>tagit</w>
+  <w>initiativet</w>
+  <w>och</w>
+  <w>de</w>
+  <w>har</w>
+  <w>nu</w>
+  <absaspan id=4 senti=5>
+    <w>lyckats</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>samla</w>
+    <w>in</w>
+    <w>över</w>
+    <w>100</w>
+    <w>000</w>
+    <w>namn</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>oskäliga</w>
+    <w>löner</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=7>
+    <w>bonussystem</w>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <absaspan id=8 senti=5>
+    <w>Det</w>
+    <w>är</w>
+    <w>befriande</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>att</w>
+    <w>veta</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=10 senti=1>
+    <w>ilskan</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>direktörers</w>
+    <w>gräddfiler</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>också</w>
+    <w>finns</w>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>andra</w>
+    <w>länder</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>USA</w>
+  <w>har</w>
+  <w>till</w>
+  <w>och</w>
+  <w>med</w>
+  <absaspan id=14>
+    <w>president</w>
+    <w>George</w>
+    <w>Bush</w>
+  </absaspan>
+  <w>sagt</w>
+  <w>att</w>
+  <absaspan id=15 senti=1>
+    <w>det</w>
+    <w>har</w>
+    <w>gått</w>
+    <w>för</w>
+    <w>långt</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>direktörslönerna</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>innebär</w>
+  <w>att</w>
+  <absaspan id=17>
+    <w>vi</w>
+    <w>svenskar</w>
+  </absaspan>
+  <w>inte</w>
+  <w>ensidigt</w>
+  <absaspan id=18 senti=1>
+    <w>kan</w>
+    <w>anklagas</w>
+    <w>för</w>
+    <w>att</w>
+    <w>vara</w>
+    <w>avundsjuka</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=19 senti=1>
+    <w>inte</w>
+    <w>unna</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>andra</w>
+  </absaspan>
+  <absaspan id=21 senti=1>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=22 senti=1>
+    <w>tjäna</w>
+    <w>pengar</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=23>
+    <w>många</w>
+    <w>på</w>
+    <w>högerkanten</w>
+  </absaspan>
+  <w>brukar</w>
+  <w>muttra</w>
+  <w>om</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Samma</w>
+  <absaspan id=24 senti=1>
+    <w>dumma</w>
+    <w>argument</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>bonussystemet</w>
+  </absaspan>
+  <w>som</w>
+  <w>vi</w>
+  <w>så</w>
+  <w>ofta</w>
+  <w>hört</w>
+  <w>från</w>
+  <w>näringslivshåll</w>
+  <w>här</w>
+  <w>i</w>
+  <w>landet</w>
+  <w>framförs</w>
+  <w>också</w>
+  <w>i</w>
+  <w>Schweiz</w>
+  <absaspan id=26>
+    <w>.</w>
+  </absaspan>
+  <w>Nämligen</w>
+  <w>att</w>
+  <absaspan id=27 senti=3>
+    <w>lönerna</w>
+    <w>måste</w>
+    <w>vara</w>
+    <w>stora</w>
+  </absaspan>
+  <w>och</w>
+  <w>bonusarna</w>
+  <w>höga</w>
+  <w>för</w>
+  <w>att</w>
+  <w>kunna</w>
+  <w>rekrytera</w>
+  <absaspan id=28 senti=5>
+    <w>kompetent</w>
+    <w>folk</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>Tillåt</w>
+  <w>mig</w>
+  <w>gapskratta</w>
+  <absaspan id=30 senti=1>
+    <w>.</w>
+  </absaspan>
+  <w>Vi</w>
+  <w>har</w>
+  <w>inte</w>
+  <w>direkt</w>
+  <w>någon</w>
+  <w>massflykt</w>
+  <w>av</w>
+  <w>svenska</w>
+  <w>direktörer</w>
+  <w>som</w>
+  <w>får</w>
+  <w>toppjobb</w>
+  <w>utomlands</w>
+  <w>.</w>
+  <w>Inte</w>
+  <w>heller</w>
+  <w>vimlar</w>
+  <w>det</w>
+  <w>av</w>
+  <w>svenskägda</w>
+  <w>företag</w>
+  <w>som</w>
+  <w>har</w>
+  <w>direktörer</w>
+  <w>rekryterade</w>
+  <w>från</w>
+  <w>utlandet</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Detta</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>den</w>
+  <w>socialdemokratiska</w>
+  <w>regeringen</w>
+  <w>till</w>
+  <w>och</w>
+  <w>med</w>
+  <w>införde</w>
+  <w>skattelättnader</w>
+  <w>för</w>
+  <absaspan id=31>
+    <w>direktörer</w>
+    <w>från</w>
+    <w>andra</w>
+    <w>länder</w>
+  </absaspan>
+  <w>som</w>
+  <w>valde</w>
+  <w>att</w>
+  <w>komma</w>
+  <w>hit</w>
+  <w>och</w>
+  <w>jobba</w>
+  <w>.</w>
+  <absaspan id=32 senti=4 irony>
+    <w>De</w>
+    <w>stackarna</w>
+  </absaspan>
+  <absaspan id=33 senti=4>
+    <w>skulle</w>
+    <w>inte</w>
+    <w>skrämmas</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>det</w>
+    <w>höga</w>
+    <w>skattetrycket</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>100</w>
+  <w>000</w>
+  <w>namnpåskrifter</w>
+  <w>i</w>
+  <w>Schweiz</w>
+  <w>innebär</w>
+  <w>att</w>
+  <w>det</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>bli</w>
+  <w>en</w>
+  <w>folkomröstning</w>
+  <w>i</w>
+  <w>frågan</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <absaspan id=35>
+    <w>Det</w>
+    <w>fria</w>
+    <w>kapitalet</w>
+  </absaspan>
+  <absaspan id=36 senti=2>
+    <w>börjar</w>
+    <w>få</w>
+    <w>lite</w>
+    <w>motstånd</w>
+  </absaspan>
+  <absaspan id=37>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=9>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

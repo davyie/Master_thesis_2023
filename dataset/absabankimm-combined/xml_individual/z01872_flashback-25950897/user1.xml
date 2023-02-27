@@ -1,0 +1,149 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Journalist</w>
+  </absaspan>
+  <absaspan id=2 senti=2 source=1 target=3>
+    <w>kritiserar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>massinvandring</w>
+  </absaspan>
+  <w>i</w>
+  <w>SvD</w>
+  <w>(</w>
+  <w>Gunnar</w>
+  <w>Sandelin</w>
+  <w>)</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Man</w>
+  <w>tror</w>
+  <w>knappt</w>
+  <w>sina</w>
+  <w>ögon</w>
+  <w>när</w>
+  <w>man</w>
+  <w>läser</w>
+  <w>Gunnar</w>
+  <w>Sandelins</w>
+  <w>debattinlägg</w>
+  <w>i</w>
+  <w>SvD</w>
+  <w>idag</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Är</w>
+  <absaspan id=4>
+    <w>Sandelin</w>
+  </absaspan>
+  <w>den</w>
+  <w>enda</w>
+  <w>journalisten</w>
+  <w>i</w>
+  <w>hela</w>
+  <w>Sverige</w>
+  <w>(</w>
+  <w>förutom</w>
+  <w>möjligtvis</w>
+  <w>Ulf</w>
+  <w>Nilsson</w>
+  <w>)</w>
+  <w>som</w>
+  <absaspan id=5 senti=2>
+    <w>genuint</w>
+    <w>ifrågasätter</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>massinvandringspolitiken</w>
+  </absaspan>
+  <w>?</w>
+  <w>Tror</w>
+  <w>ni</w>
+  <w>den</w>
+  <w>har</w>
+  <w>artikeln</w>
+  <w>kommer</w>
+  <w>få</w>
+  <w>genomslag</w>
+  <w>eller</w>
+  <w>blir</w>
+  <w>den</w>
+  <w>ihjältigen</w>
+  <w>av</w>
+  <w>etablissemanget</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Jag</w>
+  <w>har</w>
+  <w>svårt</w>
+  <w>att</w>
+  <w>tänka</w>
+  <w>mig</w>
+  <w>att</w>
+  <w>någon</w>
+  <w>multikultfrälst</w>
+  <w>skulle</w>
+  <w>ge</w>
+  <w>sig</w>
+  <w>på</w>
+  <w>att</w>
+  <w>skriva</w>
+  <w>ett</w>
+  <w>gensvar</w>
+  <w>till</w>
+  <w>Sandelin</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>går</w>
+  <w>helt</w>
+  <w>enkelt</w>
+  <w>inte</w>
+  <w>att</w>
+  <w>bemöta</w>
+  <w>det</w>
+  <w>han</w>
+  <w>skriver</w>
+  <w>på</w>
+  <w>en</w>
+  <w>saklig</w>
+  <w>grund</w>
+  <w>utan</w>
+  <w>att</w>
+  <w>gutturalt</w>
+  <w>vråla</w>
+  <w>om</w>
+  <w>Zlatan</w>
+  <w>och</w>
+  <w>pizzor</w>
+  <w>.</w>
+  <w>Den</w>
+  <w>andra</w>
+  <w>välbeprövade</w>
+  <w>metoden</w>
+  <w>,</w>
+  <w>att</w>
+  <w>gå</w>
+  <w>till</w>
+  <w>personangrepp</w>
+  <w>,</w>
+  <w>skulle</w>
+  <w>heller</w>
+  <w>inte</w>
+  <w>fungera</w>
+  <w>eftersom</w>
+  <absaspan id=7>
+    <w>Sandelin</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>är</w>
+    <w>oantastlig</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

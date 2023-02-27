@@ -1,0 +1,109 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Invandrare</w>
+  <w>;</w>
+  <w>Alby</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>till</w>
+  <w>salu</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>26.50</w>
+  <w>in</w>
+  <w>in</w>
+  <w>i</w>
+  <w>SVT</w>
+  <w>klippet</w>
+  <w>säger</w>
+  <absaspan id=1>
+    <w>en</w>
+    <w>invandrarbrud</w>
+  </absaspan>
+  <w>att</w>
+  <w>folket</w>
+  <w>i</w>
+  <w>Alby</w>
+  <absaspan id=2 senti=2>
+    <w>inte</w>
+    <w>litar</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>politikerna</w>
+  </absaspan>
+  <w>och</w>
+  <w>att</w>
+  <w>Alby</w>
+  <w>inte</w>
+  <w>är</w>
+  <w>till</w>
+  <w>salu</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>säger</w>
+  <w>vi</w>
+  <w>svenskar</w>
+  <w>om</w>
+  <w>att</w>
+  <w>invandrare</w>
+  <w>för</w>
+  <w>frågan</w>
+  <w>om</w>
+  <w>ägarskap</w>
+  <w>i</w>
+  <w>vårt</w>
+  <w>land</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>MOD</w>
+  <w>:</w>
+  <w>Flytta</w>
+  <w>om</w>
+  <w>du</w>
+  <w>tycker</w>
+  <w>tråden</w>
+  <w>är</w>
+  <w>felplacerad</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>EDIT</w>
+  <w>:</w>
+  <w>3.30</w>
+  <w>i</w>
+  <w>klippet</w>
+  <w>säger</w>
+  <w>en</w>
+  <w>invandrarbrud</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>politikernas</w>
+  <w>och</w>
+  <w>statens</w>
+  <w>ansvar</w>
+  <w>att</w>
+  <w>snygga</w>
+  <w>till</w>
+  <w>invandrarnas</w>
+  <w>bostäder</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>var</w>
+  <w>staten</w>
+  <w>som</w>
+  <w>byggde</w>
+  <w>dem</w>
+  <w>.</w>
+</absapar>
+</absadoc>

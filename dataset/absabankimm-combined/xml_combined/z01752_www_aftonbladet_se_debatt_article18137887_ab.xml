@@ -1,0 +1,306 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Medeltida</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=2>
+    <w>myter</w>
+  </absaspan>
+  <w>hör</w>
+  <w>inte</w>
+  <w>hemma</w>
+  <w>i</w>
+  <w>svensk</w>
+  <w>politik</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3 senti=2>
+    <w>Hatfulla</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>lögner</w>
+  </absaspan>
+  <w>och</w>
+  <w>konspirationsteorier</w>
+  <w>föder</w>
+  <absaspan id=5>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>våld</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>drabbar</w>
+  </absaspan>
+  <w>muslimer</w>
+  <w>,</w>
+  <w>judar</w>
+  <w>och</w>
+  <w>romer</w>
+  <w>.</w>
+  <w>Så</w>
+  <w>har</w>
+  <w>det</w>
+  <w>varit</w>
+  <w>historiskt</w>
+  <w>,</w>
+  <w>och</w>
+  <w>så</w>
+  <w>är</w>
+  <w>det</w>
+  <w>än</w>
+  <w>idag</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Om</w>
+  <w>det</w>
+  <w>som</w>
+  <w>medier</w>
+  <w>rapporterar</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>stämmer</w>
+  <w>,</w>
+  <w>det</w>
+  <w>vill</w>
+  <w>säga</w>
+  <w>att</w>
+  <w>Sverigedemokraternas</w>
+  <w>Linus</w>
+  <w>Bylund</w>
+  <w>(</w>
+  <w>Jimmie</w>
+  <w>Åkessons</w>
+  <w>högra</w>
+  <w>hand</w>
+  <w>)</w>
+  <w>sagt</w>
+  <w>till</w>
+  <w>en</w>
+  <w>journalist</w>
+  <w>att</w>
+  <w>”</w>
+  <w>det</w>
+  <w>står</w>
+  <w>i</w>
+  <w>Koranen</w>
+  <w>att</w>
+  <w>våldtäkt</w>
+  <w>kan</w>
+  <w>användas</w>
+  <w>mot</w>
+  <w>kvinnor</w>
+  <w>som</w>
+  <w>varit</w>
+  <w>otrogna</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>en</w>
+  <w>muslimsk</w>
+  <w>straffmetod</w>
+  <w>”</w>
+  <w>så</w>
+  <w>är</w>
+  <w>det</w>
+  <w>ett</w>
+  <w>tydligt</w>
+  <w>och</w>
+  <absaspan id=9 senti=2>
+    <w>grovt</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>uttryck</w>
+    <w>för</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Som</w>
+  <w>svensk</w>
+  <w>,</w>
+  <w>politiker</w>
+  <w>och</w>
+  <w>muslim</w>
+  <w>smärtar</w>
+  <w>det</w>
+  <w>mig</w>
+  <w>att</w>
+  <w>ens</w>
+  <w>behövs</w>
+  <w>uttrycka</w>
+  <w>dessa</w>
+  <w>ord</w>
+  <w>,</w>
+  <w>men</w>
+  <w>:</w>
+  <w>Självklart</w>
+  <absaspan id=11 senti=2>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>Linus</w>
+    <w>Bylunds</w>
+    <w>påstående</w>
+    <w>om</w>
+    <w>islam</w>
+  </absaspan>
+  <w>en</w>
+  <absaspan id=13 senti=2>
+    <w>ren</w>
+    <w>lögn</w>
+  </absaspan>
+  <w>.</w>
+  <w>Denna</w>
+  <w>typ</w>
+  <w>av</w>
+  <absaspan id=14 senti=2>
+    <w>medeltida</w>
+    <w>myter</w>
+    <w>från</w>
+    <w>korstågen</w>
+  </absaspan>
+  <w>hör</w>
+  <w>inte</w>
+  <w>hemma</w>
+  <w>i</w>
+  <w>det</w>
+  <w>svenska</w>
+  <w>samhället</w>
+  <w>,</w>
+  <w>och</w>
+  <w>särskilt</w>
+  <w>inte</w>
+  <w>i</w>
+  <w>Sveriges</w>
+  <w>riksdagshus</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Jimmie</w>
+  <w>Åkesson</w>
+  <w>och</w>
+  <w>Linus</w>
+  <w>Bylund</w>
+  <w>står</w>
+  <w>därför</w>
+  <w>inför</w>
+  <w>ett</w>
+  <w>vägval</w>
+  <w>.</w>
+  <w>Antingen</w>
+  <w>måste</w>
+  <w>Bylund</w>
+  <w>erkänna</w>
+  <w>sin</w>
+  <w>lögn</w>
+  <w>och</w>
+  <w>be</w>
+  <w>om</w>
+  <w>ursäkt</w>
+  <w>,</w>
+  <w>eller</w>
+  <w>så</w>
+  <absaspan id=15 senti=2>
+    <w>måste</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>Sverigedemokraterna</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>sluta</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>larva</w>
+    <w>sig</w>
+  </absaspan>
+  <w>med</w>
+  <w>den</w>
+  <w>så</w>
+  <w>kallade</w>
+  <w>”</w>
+  <w>nolltoleransen</w>
+  <w>mot</w>
+  <w>rasism</w>
+  <w>”</w>
+  <w>,</w>
+  <w>och</w>
+  <w>därmed</w>
+  <w>erkänna</w>
+  <w>för</w>
+  <w>svenska</w>
+  <w>folket</w>
+  <w>att</w>
+  <w>rasismen</w>
+  <w>är</w>
+  <w>djupt</w>
+  <w>rotad</w>
+  <w>i</w>
+  <w>partiets</w>
+  <w>topp</w>
+  <w>.</w>
+  <w>Att</w>
+  <w>en</w>
+  <w>röst</w>
+  <w>på</w>
+  <w>Sverigedemokraterna</w>
+  <w>är</w>
+  <w>en</w>
+  <w>röst</w>
+  <w>på</w>
+  <w>rasismen</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Oavsett</w>
+  <w>vilket</w>
+  <w>borde</w>
+  <w>Åkesson</w>
+  <w>,</w>
+  <w>Bylund</w>
+  <w>och</w>
+  <w>övriga</w>
+  <w>i</w>
+  <w>Sverigedemokraternas</w>
+  <w>topp</w>
+  <w>ägna</w>
+  <w>mer</w>
+  <w>tid</w>
+  <w>åt</w>
+  <w>fakta</w>
+  <w>,</w>
+  <w>och</w>
+  <w>mindre</w>
+  <w>tid</w>
+  <w>till</w>
+  <absaspan id=19 senti=2>
+    <w>medeltida</w>
+    <w>myter</w>
+  </absaspan>
+  <w>och</w>
+  <w>deras</w>
+  <w>hatsajter</w>
+  <w>på</w>
+  <w>internet</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Mehmet</w>
+  <w>Kaplan</w>
+  <w>(</w>
+  <w>MP</w>
+  <w>)</w>
+  <w>,</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>gruppledare</w>
+  <w>.</w>
+</absapar>
+</absadoc>

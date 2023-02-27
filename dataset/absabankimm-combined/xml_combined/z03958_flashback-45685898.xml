@@ -1,0 +1,175 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Skulle</w>
+  <absaspan id=1>
+    <w>prostitution</w>
+  </absaspan>
+  <w>kunna</w>
+  <absaspan id=2 senti=4 target=1>
+    <w>förebygga</w>
+    <w>rasism</w>
+    <w>och</w>
+    <w>bitterhet</w>
+  </absaspan>
+  <w>hos</w>
+  <w>dagens</w>
+  <w>män</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Med</w>
+  <w>tanke</w>
+  <w>på</w>
+  <w>dagens</w>
+  <w>sexualiserade</w>
+  <w>samhälle</w>
+  <w>där</w>
+  <w>många</w>
+  <w>av</w>
+  <w>männen</w>
+  <w>går</w>
+  <absaspan id=3 senti=2>
+    <w>fittlösa</w>
+  </absaspan>
+  <w>är</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>långsökt</w>
+  <w>att</w>
+  <w>effekter</w>
+  <w>kan</w>
+  <w>vara</w>
+  <absaspan id=4 senti=2>
+    <w>bitterhet</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=5 senti=2>
+    <w>frustration</w>
+  </absaspan>
+  <w>och</w>
+  <w>även</w>
+  <absaspan id=6 senti=2>
+    <w>rasism</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Antalet</w>
+  <w>asiatiskor</w>
+  <w>som</w>
+  <w>gifter</w>
+  <w>in</w>
+  <w>sig</w>
+  <w>i</w>
+  <w>det</w>
+  <w>svenska</w>
+  <w>samhället</w>
+  <w>ökar</w>
+  <w>också</w>
+  <w>avsevärt</w>
+  <w>.</w>
+  <w>Dessa</w>
+  <absaspan id=7 senti=1>
+    <w>patetiska</w>
+  </absaspan>
+  <w>misslyckor</w>
+  <w>för</w>
+  <w>aldrig</w>
+  <w>knulla</w>
+  <w>utan</w>
+  <w>måste</w>
+  <w>leta</w>
+  <absaspan id=8 senti=1>
+    <w>gold</w>
+    <w>diggers</w>
+  </absaspan>
+  <w>utomlands</w>
+  <w>.</w>
+  <absaspan id=9>
+    <w>Många</w>
+    <w>rasister</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>ser</w>
+    <w>ner</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>invandrare</w>
+  </absaspan>
+  <w>av</w>
+  <w>simpla</w>
+  <w>den</w>
+  <w>anledningen</w>
+  <w>att</w>
+  <w>många</w>
+  <w>av</w>
+  <w>dessa</w>
+  <w>får</w>
+  <w>knulla</w>
+  <w>medan</w>
+  <w>man</w>
+  <w>själv</w>
+  <w>får</w>
+  <w>ta</w>
+  <w>sin</w>
+  <w>tillflykt</w>
+  <w>till</w>
+  <w>porren</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=12 senti=3>
+    <w>Skulle</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>prostitution</w>
+  </absaspan>
+  <absaspan id=14 senti=3>
+    <w>kunna</w>
+  </absaspan>
+  <absaspan id=15 senti=3>
+    <w>lösa</w>
+    <w>dessa</w>
+    <w>problem</w>
+    <w>,</w>
+    <w>och</w>
+    <w>även</w>
+    <w>andra</w>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Hur</w>
+  <w>skulle</w>
+  <w>vardagen</w>
+  <w>förändras</w>
+  <w>om</w>
+  <w>varje</w>
+  <absaspan id=16 senti=2>
+    <w>misslyckad</w>
+    <w>individ</w>
+  </absaspan>
+  <w>hade</w>
+  <w>möjligheten</w>
+  <w>att</w>
+  <w>varje</w>
+  <w>morgon</w>
+  <w>pumpa</w>
+  <w>ut</w>
+  <w>sig</w>
+  <w>hos</w>
+  <w>en</w>
+  <absaspan id=17 senti=2>
+    <w>hora</w>
+  </absaspan>
+  <w>innan</w>
+  <w>man</w>
+  <w>fortgår</w>
+  <w>till</w>
+  <w>jobbet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

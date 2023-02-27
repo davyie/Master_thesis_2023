@@ -1,0 +1,107 @@
+<absadoc annotators=1 senti=4>
+<absatitle>
+  <absaspan id=1 senti=4>
+    <w>Varfør</w>
+    <w>Ska</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>anhøring</w>
+    <w>invandring</w>
+    <w>tillhøra</w>
+    <w>flykting</w>
+    <w>politiken</w>
+  </absaspan>
+  <absaspan id=3 senti=4>
+    <w>?</w>
+  </absaspan>
+  <w>?</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Enligt</w>
+  <w>många</w>
+  <w>invandra</w>
+  <w>fientliga</w>
+  <w>grupper</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=4 senti=4>
+    <w>Ska</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>man</w>
+    <w>inte</w>
+    <w>har</w>
+    <w>rätt</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>återførenas</w>
+    <w>med</w>
+    <w>sin</w>
+    <w>familj</w>
+    <w>i</w>
+    <w>främmande</w>
+    <w>land</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>?</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=4>
+  <w>Om</w>
+  <w>det</w>
+  <w>ær</w>
+  <w>krig</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>Land</w>
+  <w>och</w>
+  <w>blir</w>
+  <w>krigsflykting</w>
+  <w>eller</w>
+  <w>politiskt-flykting</w>
+  <w>,</w>
+  <absaspan id=8 senti=4>
+    <w>ska</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>inte</w>
+    <w>du</w>
+    <w>då</w>
+    <w>får</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>återførenna</w>
+    <w>med</w>
+    <w>dina</w>
+    <w>barn</w>
+    <w>,</w>
+    <w>mamma</w>
+    <w>eller</w>
+    <w>pappa</w>
+    <w>i</w>
+    <w>ett</w>
+    <w>främmande</w>
+    <w>land</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Speciellt</w>
+  <w>om</w>
+  <w>du</w>
+  <w>e</w>
+  <w>familjeførsørjaren</w>
+  <w>!</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

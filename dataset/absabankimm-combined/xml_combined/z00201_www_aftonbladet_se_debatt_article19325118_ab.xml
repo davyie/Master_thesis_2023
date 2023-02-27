@@ -1,0 +1,352 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Skattebetalarna</w>
+  <absaspan id=1 senti=4 target=2>
+    <w>förtjänar</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=3 senti=4 target=4>
+    <w>mer</w>
+    <w>effektivt</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>försvar</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=5>
+    <w>Att</w>
+    <w>benämna</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>värnplikt</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>som</w>
+    <w>ett</w>
+    <w>friår</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>min</w>
+  <w>partikollega</w>
+  <w>Johan</w>
+  <w>Forssell</w>
+  <w>gör</w>
+  <w>,</w>
+  <w>är</w>
+  <w>möjligtvis</w>
+  <w>en</w>
+  <absaspan id=8 senti=2>
+    <w>olycklig</w>
+    <w>benämning</w>
+  </absaspan>
+  <w>av</w>
+  <w>en</w>
+  <absaspan id=9 senti=4>
+    <w>mycket</w>
+    <w>viktig</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>tjänst</w>
+  </absaspan>
+  <w>för</w>
+  <w>såväl</w>
+  <w>Sverige</w>
+  <w>som</w>
+  <w>för</w>
+  <w>sig</w>
+  <w>själv</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Dessutom</w>
+  <w>kan</w>
+  <absaspan id=11>
+    <w>värnplikt</w>
+  </absaspan>
+  <w>fungera</w>
+  <w>som</w>
+  <w>en</w>
+  <absaspan id=12 senti=4>
+    <w>mycket</w>
+    <w>god</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>uttagningsprocess</w>
+  </absaspan>
+  <w>för</w>
+  <w>anställda</w>
+  <w>soldater</w>
+  <w>och</w>
+  <w>sjöman</w>
+  <w>.</w>
+  <absaspan id=14>
+    <w>Rätt</w>
+    <w>personer</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=15 senti=4>
+    <w>god</w>
+    <w>motivation</w>
+  </absaspan>
+  <w>kan</w>
+  <w>tas</w>
+  <w>ut</w>
+  <w>så</w>
+  <w>att</w>
+  <w>Försvarsmakten</w>
+  <absaspan id=16 senti=2>
+    <w>slipper</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>massavhopp</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>som</w>
+    <w>nu</w>
+    <w>förekommer</w>
+  </absaspan>
+  <w>,</w>
+  <w>såväl</w>
+  <w>inom</w>
+  <w>den</w>
+  <w>tre</w>
+  <w>månader</w>
+  <w>långa</w>
+  <w>grundläggande</w>
+  <w>militärutbildningen</w>
+  <w>,</w>
+  <w>som</w>
+  <w>för</w>
+  <w>de</w>
+  <w>redan</w>
+  <w>anställda</w>
+  <w>soldaterna</w>
+  <w>.</w>
+  <w>För</w>
+  <w>tillfället</w>
+  <w>väljer</w>
+  <w>cirka</w>
+  <w>sju</w>
+  <w>av</w>
+  <w>tio</w>
+  <w>soldater</w>
+  <w>att</w>
+  <w>hoppa</w>
+  <w>av</w>
+  <w>sin</w>
+  <w>tjänstgöring</w>
+  <w>enligt</w>
+  <w>Svenska</w>
+  <w>Dagbladet</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Idag</w>
+  <w>erbjuds</w>
+  <w>soldater</w>
+  <w>en</w>
+  <w>lön</w>
+  <w>som</w>
+  <w>är</w>
+  <w>cirka</w>
+  <w>8000</w>
+  <w>kronor</w>
+  <w>lägre</w>
+  <w>än</w>
+  <w>en</w>
+  <w>sjuksköterska</w>
+  <w>.</w>
+  <absaspan id=20>
+    <w>17</w>
+    <w>000</w>
+    <w>kronor</w>
+    <w>i</w>
+    <w>månaden</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>är</w>
+    <w>inte</w>
+    <w>en</w>
+    <w>bra</w>
+    <w>och</w>
+    <w>avtalsenlig</w>
+    <w>lön</w>
+  </absaspan>
+  <w>för</w>
+  <w>svenska</w>
+  <w>soldater</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>I</w>
+  <w>och</w>
+  <w>med</w>
+  <w>att</w>
+  <w>Försvarsmaktens</w>
+  <w>insatsorganisation</w>
+  <w>ännu</w>
+  <w>inte</w>
+  <w>står</w>
+  <w>klar</w>
+  <w>fyra</w>
+  <w>år</w>
+  <w>efter</w>
+  <w>avskaffandet</w>
+  <w>av</w>
+  <w>värnplikten</w>
+  <w>så</w>
+  <w>är</w>
+  <w>det</w>
+  <w>uppenbart</w>
+  <w>att</w>
+  <w>det</w>
+  <w>finns</w>
+  <absaspan id=22 senti=2>
+    <w>problem</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=23>
+    <w>personalsystemet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>De</w>
+  <w>organisationsförändringar</w>
+  <w>som</w>
+  <w>krävs</w>
+  <w>för</w>
+  <w>att</w>
+  <w>komplettera</w>
+  <w>det</w>
+  <w>försvar</w>
+  <w>vi</w>
+  <w>har</w>
+  <w>idag</w>
+  <w>med</w>
+  <w>värnpliktiga</w>
+  <w>är</w>
+  <absaspan id=24 senti=4>
+    <w>inte</w>
+    <w>mer</w>
+    <w>omfattande</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>än</w>
+    <w>införandet</w>
+    <w>av</w>
+    <w>yrkesförsvaret</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=26>
+    <w>Att</w>
+    <w>ursäkta</w>
+    <w>ett</w>
+    <w>effektiviserande</w>
+    <w>av</w>
+    <w>vårt</w>
+    <w>försvar</w>
+    <w>med</w>
+    <w>att</w>
+    <w>det</w>
+    <w>tar</w>
+    <w>tid</w>
+    <w>och</w>
+    <w>energi</w>
+  </absaspan>
+  <absaspan id=27 senti=2>
+    <w>är</w>
+    <w>inte</w>
+    <w>försvarbart</w>
+  </absaspan>
+  <w>.</w>
+  <w>Skattebetalarna</w>
+  <absaspan id=28 senti=4>
+    <w>förtjänar</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>ett</w>
+    <w>fullt</w>
+    <w>fungerande</w>
+    <w>försvar</w>
+    <w>som</w>
+    <w>är</w>
+    <w>insatsberett</w>
+    <w>såväl</w>
+    <w>nationellt</w>
+    <w>som</w>
+    <w>internationellt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Slutligen</w>
+  <w>vill</w>
+  <w>jag</w>
+  <w>betona</w>
+  <w>att</w>
+  <w>jag</w>
+  <w>till</w>
+  <w>fullo</w>
+  <w>håller</w>
+  <w>med</w>
+  <w>min</w>
+  <w>partikollega</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=30>
+    <w>de</w>
+    <w>rödgröna</w>
+  </absaspan>
+  <absaspan id=31 senti=2>
+    <w>inte</w>
+    <w>har</w>
+    <w>en</w>
+    <w>ansvarsfull</w>
+    <w>försvarspolitik</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=32>
+    <w>Att</w>
+    <w>de</w>
+    <w>nu</w>
+    <w>föreslår</w>
+    <w>besparingar</w>
+    <w>i</w>
+    <w>försvarsanslaget</w>
+    <w>då</w>
+    <w>Ryssland</w>
+    <w>agerar</w>
+    <w>alltmer</w>
+    <w>oförutsägbart</w>
+  </absaspan>
+  <absaspan id=33 senti=2>
+    <w>är</w>
+    <w>inte</w>
+    <w>ansvarsfullt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Ingebrikt</w>
+  <w>Sjövik</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Riksdagskandidat</w>
+  <w>(</w>
+  <w>M</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+</absadoc>

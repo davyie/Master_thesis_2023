@@ -1,0 +1,78 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <absaspan id=1 senti=1 target=1>
+    <w>Kaos</w>
+  </absaspan>
+  <w>i</w>
+  <w>tyska</w>
+  <w>staden</w>
+  <w>Cottbus</w>
+  <w>,</w>
+  <w>flyktingstopp</w>
+  <w>-</w>
+  <w>början</w>
+  <w>på</w>
+  <w>inbördeskrig</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=1>
+  <absaspan id=2>
+    <w>Vanliga</w>
+    <w>tyskar</w>
+    <w>och</w>
+    <w>nazister</w>
+  </absaspan>
+  <absaspan id=3 senti=1>
+    <w>protesterar</w>
+  </absaspan>
+  <w>tillsammans</w>
+  <w>mot</w>
+  <absaspan id=4>
+    <w>mångkulturen</w>
+  </absaspan>
+  <w>,</w>
+  <w>nazister</w>
+  <w>delar</w>
+  <w>ut</w>
+  <w>tårgas</w>
+  <w>på</w>
+  <w>stan</w>
+  <w>,</w>
+  <w>"</w>
+  <absaspan id=5>
+    <w>flyktingar</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=6 senti=1>
+    <w>attackerar</w>
+  </absaspan>
+  <w>nazister</w>
+  <w>/</w>
+  <w>tyskar</w>
+  <w>och</w>
+  <w>viseversa</w>
+  <w>,</w>
+  <w>var</w>
+  <w>fjärde</w>
+  <w>person</w>
+  <w>röstar</w>
+  <w>på</w>
+  <w>AfD</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Någon</w>
+  <w>som</w>
+  <w>vet</w>
+  <w>mer</w>
+  <w>om</w>
+  <w>vad</w>
+  <w>som</w>
+  <w>pågår</w>
+  <w>i</w>
+  <w>staden</w>
+  <w>Cottbus</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,194 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Statsvetaren</w>
+  <w>och</w>
+  <w>sossen</w>
+  <absaspan id=1>
+    <w>Stig-Björn</w>
+    <w>Ljungren</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>kommer</w>
+    <w>ut</w>
+    <w>som</w>
+    <w>rasist</w>
+  </absaspan>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>Min</w>
+  <absaspan id=3 senti=4>
+    <w>praktiskt</w>
+    <w>lagda</w>
+    <w>rasistiska</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>grundinställning</w>
+  </absaspan>
+  <w>gör</w>
+  <w>sig</w>
+  <w>ibland</w>
+  <w>påmind</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Om</w>
+  <w>jag</w>
+  <w>exempelvis</w>
+  <w>har</w>
+  <w>flera</w>
+  <w>kassaköer</w>
+  <w>att</w>
+  <w>välja</w>
+  <w>på</w>
+  <w>så</w>
+  <absaspan id=5 senti=4>
+    <w>tar</w>
+    <w>jag</w>
+    <w>naturligtvis</w>
+  </absaspan>
+  <w>den</w>
+  <absaspan id=6>
+    <w>kortaste</w>
+  </absaspan>
+  <w>och</w>
+  <w>där</w>
+  <w>folk</w>
+  <w>har</w>
+  <w>minst</w>
+  <w>varor</w>
+  <w>i</w>
+  <w>vagnen</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>jag</w>
+  <w>undviker</w>
+  <w>också</w>
+  <w>köer</w>
+  <w>där</w>
+  <w>det</w>
+  <w>står</w>
+  <w>invandrare</w>
+  <w>och</w>
+  <w>pensionärer</w>
+  <w>.</w>
+  <absaspan id=7>
+    <w>Svart</w>
+    <w>eller</w>
+    <w>grå</w>
+    <w>hårfärg</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>är</w>
+    <w>varningstecken</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Skälet</w>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=10 senti=2>
+    <w>sannolikheten</w>
+    <w>då</w>
+    <w>ökar</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=11 senti=2>
+    <w>uppstår</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>problem</w>
+  </absaspan>
+  <w>,</w>
+  <w>antingen</w>
+  <w>på</w>
+  <w>grund</w>
+  <w>av</w>
+  <w>språkförbistring</w>
+  <w>eller</w>
+  <w>praktiska</w>
+  <w>skäl</w>
+  <w>som</w>
+  <w>legitimation</w>
+  <w>.</w>
+  <w>Eller</w>
+  <w>så</w>
+  <w>är</w>
+  <w>det</w>
+  <w>demens</w>
+  <w>eller</w>
+  <w>ovana</w>
+  <w>att</w>
+  <w>hantera</w>
+  <w>betalkort</w>
+  <w>som</w>
+  <w>riskerar</w>
+  <w>ökad</w>
+  <w>kötid</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>-</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Kan</w>
+  <w>han</w>
+  <w>fortsätta</w>
+  <w>hos</w>
+  <w>Socialdemokraterna</w>
+  <w>med</w>
+  <w>de</w>
+  <w>här</w>
+  <w>"</w>
+  <absaspan id=13 senti=2>
+    <w>rasistiska</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>åsikterna</w>
+  </absaspan>
+  <w>"</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=15 senti=3>
+    <w>Har</w>
+    <w>han</w>
+    <w>rätt</w>
+    <w>i</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=16>
+    <w>fördomar</w>
+    <w>och</w>
+    <w>rasism</w>
+    <w>inte</w>
+    <w>alltid</w>
+    <w>behöver</w>
+    <w>vara</w>
+    <w>samma</w>
+    <w>sak</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

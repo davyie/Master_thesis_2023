@@ -1,0 +1,353 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Samlingstråden</w>
+  <w>om</w>
+  <w>Rysslands</w>
+  <w>befolkningsutveckling</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Frågan</w>
+  <w>om</w>
+  <w>Rysslands</w>
+  <w>befolkningsproblem</w>
+  <w>har</w>
+  <w>tidigare</w>
+  <w>dykt</w>
+  <w>upp</w>
+  <w>i</w>
+  <w>flera</w>
+  <w>trådar</w>
+  <w>på</w>
+  <w>denna</w>
+  <w>avdelning</w>
+  <w>.</w>
+  <absaspan id=1>
+    <w>Putinfanklubben</w>
+  </absaspan>
+  <w>har</w>
+  <w>gång</w>
+  <w>på</w>
+  <w>gång</w>
+  <absaspan id=2 senti=5>
+    <w>lovordat</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>sin</w>
+    <w>idol</w>
+  </absaspan>
+  <w>,</w>
+  <w>vars</w>
+  <w>framsynta</w>
+  <w>politik</w>
+  <w>gjort</w>
+  <w>att</w>
+  <w>Rysslands</w>
+  <w>befolkning</w>
+  <w>nu</w>
+  <w>växer</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Men</w>
+  <w>får</w>
+  <w>man</w>
+  <w>tro</w>
+  <w>vad</w>
+  <absaspan id=4 senti=4 irony>
+    <w>Allerhögste</w>
+    <w>Folkökaren</w>
+  </absaspan>
+  <w>yttrade</w>
+  <w>idag</w>
+  <w>,</w>
+  <w>är</w>
+  <w>problemet</w>
+  <w>ingalunda</w>
+  <w>löst</w>
+  <w>.</w>
+  <absaspan id=5>
+    <w>Ryssland</w>
+  </absaspan>
+  <w>befinner</w>
+  <w>sig</w>
+  <w>i</w>
+  <w>en</w>
+  <w>"</w>
+  <absaspan id=6 senti=2>
+    <w>akut</w>
+    <w>demografisk</w>
+    <w>kris</w>
+  </absaspan>
+  <w>"</w>
+  <w>,</w>
+  <w>och</w>
+  <w>därför</w>
+  <w>ska</w>
+  <w>man</w>
+  <w>vid</w>
+  <w>nyår</w>
+  <w>inleda</w>
+  <w>utbetalning</w>
+  <w>av</w>
+  <w>avelspremier</w>
+  <w>på</w>
+  <w>180</w>
+  <w>dollar</w>
+  <w>per</w>
+  <w>månad</w>
+  <w>för</w>
+  <w>varje</w>
+  <w>nyfödd</w>
+  <absaspan id=7>
+    <w>.</w>
+  </absaspan>
+  <w>En</w>
+  <absaspan id=8>
+    <w>nyhet</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=9>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>gärna</w>
+    <w>ser</w>
+    <w>att</w>
+    <w>få</w>
+    <w>spridning</w>
+  </absaspan>
+  <w>.</w>
+  <w>Härmed</w>
+  <w>öppnar</w>
+  <w>jag</w>
+  <w>en</w>
+  <w>alldeles</w>
+  <w>ny</w>
+  <w>tråd</w>
+  <w>för</w>
+  <w>nyheter</w>
+  <w>och</w>
+  <w>diskussion</w>
+  <w>om</w>
+  <w>befolkningsutvecklingen</w>
+  <w>i</w>
+  <w>Ryssland</w>
+  <w>/</w>
+  <w>Rysslands</w>
+  <w>demografi</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Alla</w>
+  <w>som</w>
+  <w>följt</w>
+  <w>med</w>
+  <w>rysk</w>
+  <w>politik</w>
+  <w>de</w>
+  <w>senaste</w>
+  <w>decennierna</w>
+  <w>vet</w>
+  <w>att</w>
+  <absaspan id=11>
+    <w>demografiska</w>
+    <w>frågor</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>har</w>
+    <w>haft</w>
+    <w>stor</w>
+    <w>betydelse</w>
+  </absaspan>
+  <w>i</w>
+  <w>debatten</w>
+  <w>.</w>
+  <w>Under</w>
+  <w>årens</w>
+  <w>lopp</w>
+  <w>har</w>
+  <w>vi</w>
+  <absaspan id=13 senti=2>
+    <w>undfägnats</w>
+  </absaspan>
+  <w>med</w>
+  <w>både</w>
+  <absaspan id=14>
+    <w>larmrapporter</w>
+    <w>om</w>
+    <w>hur</w>
+    <w>ryssarna</w>
+    <w>är</w>
+    <w>i</w>
+    <w>färd</w>
+    <w>med</w>
+    <w>att</w>
+    <w>dö</w>
+    <w>ut</w>
+  </absaspan>
+  <w>och</w>
+  <w>med</w>
+  <absaspan id=15 senti=4 irony>
+    <w>solskensskildringar</w>
+  </absaspan>
+  <w>av</w>
+  <w>hur</w>
+  <absaspan id=16>
+    <w>ryskornas</w>
+    <w>livmödrar</w>
+    <w>är</w>
+    <w>produktiva</w>
+    <w>som</w>
+    <w>aldrig</w>
+    <w>förr</w>
+  </absaspan>
+  <w>.</w>
+  <w>Nätet</w>
+  <w>är</w>
+  <w>fullt</w>
+  <w>av</w>
+  <w>rapporter</w>
+  <w>av</w>
+  <w>bägge</w>
+  <w>slagen</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Hur</w>
+  <w>är</w>
+  <w>tonläget</w>
+  <w>i</w>
+  <w>de</w>
+  <w>allra</w>
+  <w>senaste</w>
+  <w>månadernas</w>
+  <w>rapporter</w>
+  <w>i</w>
+  <w>ämnet</w>
+  <w>?</w>
+  <w>I</w>
+  <w>september</w>
+  <w>förkunnade</w>
+  <absaspan id=17>
+    <w>ekonomiminister</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>att</w>
+  <w>den</w>
+  <absaspan id=18>
+    <w>demografiska</w>
+    <w>situationen</w>
+    <w>i</w>
+    <w>Ryssland</w>
+  </absaspan>
+  <w>är</w>
+  <w>"</w>
+  <absaspan id=19 senti=2>
+    <w>en</w>
+    <w>av</w>
+    <w>de</w>
+    <w>svåraste</w>
+    <w>i</w>
+    <w>världen</w>
+  </absaspan>
+  <w>"</w>
+  <w>-</w>
+  <absaspan id=20>
+    <w>allt</w>
+    <w>fler</w>
+    <w>områden</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>lider</w>
+    <w>brist</w>
+    <w>på</w>
+    <w>arbetskraft</w>
+  </absaspan>
+  <w>.</w>
+  <w>En</w>
+  <absaspan id=22>
+    <w>forskare</w>
+  </absaspan>
+  <w>vid</w>
+  <w>namn</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>mumlade</w>
+  <w>bekymrat</w>
+  <w>om</w>
+  <w>att</w>
+  <w>någon</w>
+  <w>form</w>
+  <w>av</w>
+  <absaspan id=23>
+    <w>arbetskraftsinvandring</w>
+  </absaspan>
+  <absaspan id=24 senti=4>
+    <w>nog</w>
+    <w>kan</w>
+    <w>behövas</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Och</w>
+  <w>i</w>
+  <w>oktober</w>
+  <w>visade</w>
+  <w>de</w>
+  <w>nya</w>
+  <w>siffrorna</w>
+  <w>från</w>
+  <w>den</w>
+  <w>federala</w>
+  <w>ryska</w>
+  <w>statistikbyrån</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>att</w>
+  <w>födelsetalen</w>
+  <w>helt</w>
+  <w>tydligt</w>
+  <w>sjunkit</w>
+  <w>det</w>
+  <w>senaste</w>
+  <w>året</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>ligger</w>
+  <w>nära</w>
+  <w>till</w>
+  <w>hands</w>
+  <w>att</w>
+  <w>förklara</w>
+  <w>nedgången</w>
+  <w>med</w>
+  <w>de</w>
+  <w>västliga</w>
+  <w>sanktionerna</w>
+  <w>,</w>
+  <w>och</w>
+  <w>naturligtvis</w>
+  <w>det</w>
+  <w>sjunkande</w>
+  <w>oljepriset</w>
+  <w>.</w>
+  <w>Vad</w>
+  <w>säger</w>
+  <w>VarmaDrycker</w>
+  <w>och</w>
+  <w>andra</w>
+  <absaspan id=25 senti=2>
+    <w>förståsigpåare</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

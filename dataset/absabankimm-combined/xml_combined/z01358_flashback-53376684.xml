@@ -1,0 +1,161 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Blir</w>
+  <absaspan id=1>
+    <w>invandrare</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=3 source=1>
+    <w>arga</w>
+    <w>och</w>
+    <w>nedstämda</w>
+  </absaspan>
+  <w>över</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>läsa</w>
+    <w>/</w>
+    <w>höra</w>
+    <w>att</w>
+    <w>de</w>
+    <w>bl</w>
+    <w>a</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>är</w>
+    <w>en</w>
+    <w>belastning</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=3>
+  <absaspan id=6>
+    <w>Folk</w>
+  </absaspan>
+  <w>blir</w>
+  <w>ju</w>
+  <w>även</w>
+  <absaspan id=7 senti=4>
+    <w>mer</w>
+    <w>medgörliga</w>
+  </absaspan>
+  <w>om</w>
+  <w>man</w>
+  <absaspan id=8 senti=4>
+    <w>behandlar</w>
+    <w>dem</w>
+    <w>med</w>
+    <w>respekt</w>
+  </absaspan>
+  <w>,</w>
+  <w>så</w>
+  <w>hur</w>
+  <w>reagerar</w>
+  <absaspan id=9>
+    <w>invandrare</w>
+  </absaspan>
+  <w>på</w>
+  <w>den</w>
+  <absaspan id=10 senti=2>
+    <w>bristande</w>
+    <w>respekt</w>
+  </absaspan>
+  <w>eller</w>
+  <w>fakta</w>
+  <w>(</w>
+  <w>eller</w>
+  <w>vad</w>
+  <w>ni</w>
+  <w>vill</w>
+  <w>kalla</w>
+  <w>"</w>
+  <w>det</w>
+  <w>"</w>
+  <w>)</w>
+  <w>som</w>
+  <w>de</w>
+  <w>ibland</w>
+  <w>snappar</w>
+  <w>upp</w>
+  <w>direkt</w>
+  <w>(</w>
+  <w>glåpord</w>
+  <w>?</w>
+  <absaspan id=11>
+    <w>)</w>
+  </absaspan>
+  <w>eller</w>
+  <w>indirekt</w>
+  <w>(</w>
+  <w>att</w>
+  <w>läsa</w>
+  <w>på</w>
+  <w>Flashback</w>
+  <w>eller</w>
+  <w>höra</w>
+  <absaspan id=12>
+    <w>vänners</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>oro</w>
+  </absaspan>
+  <w>och</w>
+  <w>tankar</w>
+  <w>om</w>
+  <absaspan id=14>
+    <w>migration</w>
+    <w>/</w>
+    <w>invandring</w>
+    <w>/</w>
+    <w>assimilering</w>
+    <w>i</w>
+    <w>dagens</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>och</w>
+  <w>/</w>
+  <w>eller</w>
+  <w>världen</w>
+  <w>i</w>
+  <w>stort</w>
+  <w>)</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <absaspan id=15>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=16 senti=5>
+    <w>mår</w>
+    <w>ju</w>
+    <w>alla</w>
+    <w>bäst</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=17>
+    <w>vänskap</w>
+    <w>och</w>
+    <w>förståelse</w>
+    <w>och</w>
+    <w>respekt</w>
+  </absaspan>
+  <w>,</w>
+  <w>även</w>
+  <w>fast</w>
+  <w>det</w>
+  <w>är</w>
+  <absaspan id=18 senti=2>
+    <w>uppenbart</w>
+    <w>nästintill</w>
+    <w>omöjligt</w>
+  </absaspan>
+  <w>i</w>
+  <w>vissa</w>
+  <w>fall</w>
+  <w>/</w>
+  <w>hänseenden</w>
+  <w>.</w>
+</absapar>
+</absadoc>

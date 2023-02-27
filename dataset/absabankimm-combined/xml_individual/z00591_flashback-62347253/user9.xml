@@ -1,0 +1,82 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Sparkad</w>
+  <w>från</w>
+  <w>sitt</w>
+  <w>gamla</w>
+  <w>jobb</w>
+  <w>p.g.a</w>
+  <w>sexuella</w>
+  <w>övergrepp</w>
+  <w>.</w>
+  <w>Nu</w>
+  <w>på</w>
+  <w>SvT</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>Då</w>
+  <w>var</w>
+  <w>det</w>
+  <w>dags</w>
+  <w>igen</w>
+  <w>!</w>
+  <absaspan id=1>
+    <w>En</w>
+    <w>sportexpert</w>
+    <w>på</w>
+    <w>SvT</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>har</w>
+    <w>avslöjats</w>
+    <w>som</w>
+    <w>varandes</w>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>vedervärdig</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>snuskgubbe</w>
+  </absaspan>
+  <w>som</w>
+  <w>kanske</w>
+  <w>t.o.m</w>
+  <w>har</w>
+  <w>sysslat</w>
+  <w>med</w>
+  <w>sexuella</w>
+  <w>övergrepp</w>
+  <w>.</w>
+  <w>Dock</w>
+  <w>inte</w>
+  <w>på</w>
+  <w>SvT</w>
+  <w>,</w>
+  <w>än</w>
+  <w>så</w>
+  <w>länge</w>
+  <w>är</w>
+  <w>väl</w>
+  <w>bäst</w>
+  <w>att</w>
+  <w>tillägga</w>
+  <w>,</w>
+  <w>men</w>
+  <w>väl</w>
+  <w>på</w>
+  <w>sin</w>
+  <w>gamla</w>
+  <w>arbetsplats</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vem</w>
+  <w>kan</w>
+  <w>mannen</w>
+  <w>vara</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,1079 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Gräv</w>
+  <w>ner</w>
+  <w>Centralen</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Vänta</w>
+  <w>med</w>
+  <w>ombyggnaden</w>
+  <w>av</w>
+  <w>Slussen</w>
+  <w>.</w>
+  <absaspan id=1 senti=4>
+    <w>Satsa</w>
+  </absaspan>
+  <w>i</w>
+  <w>stället</w>
+  <absaspan id=2 senti=4>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>t-bana</w>
+    <w>mellan</w>
+    <w>Liljeholmen</w>
+    <w>och</w>
+    <w>Fridhemsplan</w>
+  </absaspan>
+  <w>,</w>
+  <w>lägg</w>
+  <w>Centralstationen</w>
+  <w>under</w>
+  <w>jord</w>
+  <w>och</w>
+  <w>riv</w>
+  <w>Järnvägsbron</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>för</w>
+  <w>att</w>
+  <w>finansiera</w>
+  <w>det</w>
+  <w>hela</w>
+  <absaspan id=4 senti=4>
+    <w>bör</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>Stockholms</w>
+    <w>stad</w>
+    <w>bör</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>stycka</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>upp</w>
+    <w>Svenska</w>
+    <w>Bostäder</w>
+    <w>och</w>
+    <w>sälja</w>
+    <w>fastigheterna</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=8>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>föreslår</w>
+  </absaspan>
+  <w>folkpartisterna</w>
+  <absaspan id=10>
+    <w>Per</w>
+    <w>Hallerby</w>
+    <w>och</w>
+    <w>Per</w>
+    <w>Johansson</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=11>
+    <w>De</w>
+    <w>ansvariga</w>
+    <w>i</w>
+    <w>Stockholms</w>
+    <w>stadshus</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>hävdar</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>att</w>
+    <w>det</w>
+    <w>är</w>
+    <w>bråttom</w>
+    <w>att</w>
+    <w>bygga</w>
+    <w>om</w>
+    <w>Slussen</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>själva</w>
+  <w>verket</w>
+  <absaspan id=14 senti=4>
+    <w>är</w>
+  </absaspan>
+  <w>det</w>
+  <w>både</w>
+  <absaspan id=15 senti=4>
+    <w>klokt</w>
+  </absaspan>
+  <absaspan id=16 senti=4>
+    <w>och</w>
+    <w>angeläget</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>attinte</w>
+    <w>bygga</w>
+    <w>om</w>
+    <w>Slussen</w>
+    <w>nu</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>På</w>
+  <w>grund</w>
+  <w>av</w>
+  <absaspan id=18 senti=2>
+    <w>ödesdigert</w>
+    <w>felaktiga</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>beslut</w>
+  </absaspan>
+  <w>i</w>
+  <w>början</w>
+  <w>och</w>
+  <w>mitten</w>
+  <w>av</w>
+  <w>1900</w>
+  <w>-</w>
+  <w>talet</w>
+  <w>har</w>
+  <w>Riddarfjärden</w>
+  <absaspan id=20 senti=2>
+    <w>belamrats</w>
+  </absaspan>
+  <w>med</w>
+  <w>broar</w>
+  <w>.</w>
+  <w>Arkitekt</w>
+  <absaspan id=21>
+    <w>Gunnar</w>
+    <w>Asplund</w>
+  </absaspan>
+  <w>förutsåg</w>
+  <w>1919</w>
+  <w>hur</w>
+  <w>pärlan</w>
+  <w>i</w>
+  <w>Stockholms</w>
+  <w>skönhet</w>
+  <w>–</w>
+  <w>Riddarholmen</w>
+  <w>–</w>
+  <absaspan id=22 senti=2>
+    <w>skulle</w>
+    <w>skändas</w>
+    <w>och</w>
+    <w>förstöras</w>
+  </absaspan>
+  <w>för</w>
+  <w>all</w>
+  <w>tid</w>
+  <w>genom</w>
+  <absaspan id=23>
+    <w>bygget</w>
+    <w>av</w>
+    <w>Järnvägsbron</w>
+  </absaspan>
+  <w>,</w>
+  <w>vilket</w>
+  <w>Eva</w>
+  <w>Eriksson</w>
+  <w>skrev</w>
+  <w>om</w>
+  <w>i</w>
+  <w>SvD</w>
+  <w>14</w>
+  <w>juni</w>
+  <w>.</w>
+  <absaspan id=24>
+    <w>Asplund</w>
+  </absaspan>
+  <w>menade</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=25 senti=1>
+    <w>var</w>
+    <w>helt</w>
+    <w>fel</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>att</w>
+    <w>placera</w>
+    <w>Centralstationen</w>
+    <w>där</w>
+    <w>den</w>
+    <w>nu</w>
+    <w>ligger</w>
+  </absaspan>
+  <w>och</w>
+  <w>förutsåg</w>
+  <w>den</w>
+  <absaspan id=27 senti=2>
+    <w>besvärliga</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>situation</w>
+  </absaspan>
+  <w>vi</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>befinner</w>
+  <w>oss</w>
+  <w>i</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Vi</w>
+  <absaspan id=29 senti=4>
+    <w>måste</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>mejsla</w>
+    <w>fram</w>
+    <w>en</w>
+    <w>politisk</w>
+    <w>vision</w>
+    <w>för</w>
+    <w>Stockholm</w>
+    <w>som</w>
+    <w>syftar</w>
+    <w>till</w>
+    <w>att</w>
+    <w>steg</w>
+    <w>för</w>
+    <w>steg</w>
+    <w>rätta</w>
+    <w>till</w>
+    <w>de</w>
+    <w>gamla</w>
+    <w>misstagen</w>
+    <w>och</w>
+    <w>återskapa</w>
+  </absaspan>
+  <absaspan id=31 senti=4>
+    <w>den</w>
+    <w>naturliga</w>
+    <w>skönhet</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>som</w>
+    <w>präglar</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>Stockholm</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>.</w>
+  </absaspan>
+  <w>Frigöra</w>
+  <w>Riddarholmen</w>
+  <w>,</w>
+  <w>återskapa</w>
+  <w>vattenspegeln</w>
+  <w>väster</w>
+  <w>och</w>
+  <w>söder</w>
+  <w>om</w>
+  <w>Gamla</w>
+  <w>stan</w>
+  <w>,</w>
+  <w>göra</w>
+  <w>Slussen</w>
+  <w>till</w>
+  <w>en</w>
+  <w>vacker</w>
+  <w>och</w>
+  <w>funktionell</w>
+  <w>miljö</w>
+  <w>i</w>
+  <w>första</w>
+  <w>hand</w>
+  <w>för</w>
+  <w>fotgängare</w>
+  <w>och</w>
+  <w>cyklister</w>
+  <w>och</w>
+  <w>se</w>
+  <w>till</w>
+  <w>att</w>
+  <w>Stadsmuseet</w>
+  <w>kommer</w>
+  <w>upp</w>
+  <w>ur</w>
+  <w>sin</w>
+  <w>grop</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Att</w>
+  <w>bygga</w>
+  <w>om</w>
+  <w>Slussen</w>
+  <w>enligt</w>
+  <w>det</w>
+  <w>förslag</w>
+  <w>Stadshuset</w>
+  <w>arbetar</w>
+  <w>med</w>
+  <w>innebär</w>
+  <w>att</w>
+  <w>man</w>
+  <w>stänger</w>
+  <w>det</w>
+  <w>historiska</w>
+  <w>fönster</w>
+  <w>som</w>
+  <w>just</w>
+  <w>nu</w>
+  <w>står</w>
+  <w>öppet</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>blir</w>
+  <w>då</w>
+  <w>i</w>
+  <w>praktiken</w>
+  <w>omöjligt</w>
+  <w>att</w>
+  <w>på</w>
+  <w>100</w>
+  <w>års</w>
+  <w>sikt</w>
+  <w>få</w>
+  <w>bort</w>
+  <w>tunnelbanebron</w>
+  <w>och</w>
+  <w>Centralbron</w>
+  <w>över</w>
+  <w>Söderström</w>
+  <w>.</w>
+  <w>Hur</w>
+  <w>kommer</w>
+  <w>Stockholmarna</w>
+  <w>om</w>
+  <w>50</w>
+  <w>år</w>
+  <w>eller</w>
+  <w>mer</w>
+  <w>se</w>
+  <w>på</w>
+  <w>de</w>
+  <w>beslut</w>
+  <w>vi</w>
+  <w>fattar</w>
+  <w>idag</w>
+  <w>,</w>
+  <w>är</w>
+  <w>den</w>
+  <w>fråga</w>
+  <w>vi</w>
+  <w>här</w>
+  <w>måste</w>
+  <w>ställa</w>
+  <w>oss</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Det</w>
+  <w>stora</w>
+  <w>kruxet</w>
+  <w>är</w>
+  <w>att</w>
+  <w>skapa</w>
+  <w>nya</w>
+  <w>passager</w>
+  <w>över</w>
+  <w>Saltsjö</w>
+  <w>/</w>
+  <w>Mälarsnittet</w>
+  <w>och</w>
+  <w>att</w>
+  <w>avlasta</w>
+  <w>Slussen</w>
+  <w>som</w>
+  <w>knutpunkt</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>.</w>
+  <w>•</w>
+  <absaspan id=35>
+    <w>Bygg</w>
+    <w>ut</w>
+    <w>den</w>
+    <w>blå</w>
+    <w>t-banelinjen</w>
+    <w>från</w>
+    <w>Kungsträdgården</w>
+    <w>via</w>
+    <w>Skeppsholmen</w>
+    <w>till</w>
+    <w>Södermalm</w>
+    <w>,</w>
+    <w>till</w>
+    <w>Danvikstull</w>
+    <w>och</w>
+    <w>sen</w>
+    <w>vidare</w>
+    <w>ut</w>
+    <w>till</w>
+    <w>Nacka</w>
+    <w>Centrum</w>
+  </absaspan>
+  <absaspan id=36 senti=4>
+    <w>.</w>
+  </absaspan>
+  <w>Så</w>
+  <w>fort</w>
+  <w>linjen</w>
+  <w>är</w>
+  <w>klar</w>
+  <w>till</w>
+  <w>Danvikstull</w>
+  <w>kan</w>
+  <w>en</w>
+  <w>busstation</w>
+  <w>för</w>
+  <w>Nacka</w>
+  <w>/</w>
+  <w>Värmdöbussarna</w>
+  <w>förläggas</w>
+  <w>dit</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Skräddarsydda</w>
+  <w>kurser</w>
+  <w>i</w>
+  <w>ämnen</w>
+  <w>som</w>
+  <w>intresserar</w>
+  <w>och</w>
+  <w>engagerar</w>
+  <w>både</w>
+  <w>kropp</w>
+  <w>och</w>
+  <w>själ</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>.</w>
+  <w>•</w>
+  <absaspan id=37 senti=4>
+    <w>Bygg</w>
+    <w>en</w>
+    <w>t-banelinje</w>
+    <w>från</w>
+    <w>Hagsätra</w>
+    <w>till</w>
+    <w>Älvsjö</w>
+    <w>station</w>
+    <w>och</w>
+    <w>vidare</w>
+    <w>till</w>
+    <w>Liljeholmen</w>
+    <w>och</w>
+    <w>därefter</w>
+    <w>till</w>
+    <w>Fridhemsplan</w>
+  </absaspan>
+  <absaspan id=38 senti=4>
+    <w>.</w>
+  </absaspan>
+  <w>Därifrån</w>
+  <w>till</w>
+  <w>Karlbergs</w>
+  <w>station</w>
+  <w>och</w>
+  <w>vidare</w>
+  <w>till</w>
+  <w>Karolinska</w>
+  <w>sjukhuset</w>
+  <w>med</w>
+  <w>slutstation</w>
+  <w>Universitetet</w>
+  <w>.</w>
+  <absaspan id=39>
+    <w>Sträckningen</w>
+    <w>Liljeholmen</w>
+    <w>till</w>
+    <w>Fridhemsplan</w>
+  </absaspan>
+  <absaspan id=40 senti=4>
+    <w>är</w>
+    <w>första</w>
+    <w>prioritet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>.</w>
+  <w>•</w>
+  <absaspan id=41 senti=4>
+    <w>Bygg</w>
+  </absaspan>
+  <absaspan id=42 senti=4>
+    <w>Österleden</w>
+  </absaspan>
+  <absaspan id=43 senti=4>
+    <w>mellan</w>
+    <w>Sickla</w>
+    <w>och</w>
+    <w>Värtan</w>
+  </absaspan>
+  <absaspan id=44 senti=4>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=45>
+    <w>Den</w>
+  </absaspan>
+  <absaspan id=46 senti=4>
+    <w>är</w>
+    <w>nödvändig</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=47>
+    <w>att</w>
+    <w>få</w>
+    <w>bort</w>
+    <w>Nacka</w>
+    <w>-</w>
+    <w>och</w>
+    <w>Värmdötrafiken</w>
+    <w>från</w>
+    <w>Gamla</w>
+    <w>stan</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>i</w>
+  <w>framtiden</w>
+  <absaspan id=48 senti=4>
+    <w>bör</w>
+  </absaspan>
+  <absaspan id=49>
+    <w>befrias</w>
+    <w>från</w>
+    <w>all</w>
+    <w>biltrafik</w>
+    <w>utom</w>
+    <w>bussar</w>
+    <w>,</w>
+    <w>taxi</w>
+    <w>och</w>
+    <w>handikapptransporter</w>
+  </absaspan>
+  <w>.</w>
+  <w>Då</w>
+  <w>kan</w>
+  <w>den</w>
+  <w>"</w>
+  <w>provisoriska</w>
+  <w>"</w>
+  <w>Strömbron</w>
+  <w>rivas</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>.</w>
+  <w>•</w>
+  <w>När</w>
+  <w>t-banorna</w>
+  <w>Kungsträdgården-Danvikstull</w>
+  <w>och</w>
+  <w>Liljeholmen-Fridhemsplan</w>
+  <w>är</w>
+  <w>klara</w>
+  <w>har</w>
+  <w>förutsättningar</w>
+  <w>skapats</w>
+  <w>för</w>
+  <w>en</w>
+  <absaspan id=50 senti=4>
+    <w>relativt</w>
+    <w>problemfri</w>
+  </absaspan>
+  <absaspan id=51>
+    <w>ombyggnad</w>
+  </absaspan>
+  <w>av</w>
+  <w>Slussen</w>
+  <w>med</w>
+  <w>en</w>
+  <w>ny</w>
+  <w>t-banestation</w>
+  <w>under</w>
+  <w>Söderström</w>
+  <w>.</w>
+  <absaspan id=52>
+    <w>Slussen</w>
+  </absaspan>
+  <absaspan id=53 senti=4>
+    <w>är</w>
+    <w>i</w>
+    <w>dåligt</w>
+    <w>skick</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=54 senti=4>
+    <w>givetvis</w>
+    <w>måste</w>
+  </absaspan>
+  <absaspan id=55>
+    <w>Trafikkontoret</w>
+    <w>fortlöpande</w>
+    <w>rapportera</w>
+    <w>hur</w>
+    <w>mycket</w>
+    <w>Slussen</w>
+    <w>sjunker</w>
+  </absaspan>
+  <w>och</w>
+  <w>möjligen</w>
+  <w>måste</w>
+  <w>ombyggnaden</w>
+  <w>komma</w>
+  <w>igång</w>
+  <w>innan</w>
+  <w>de</w>
+  <w>nya</w>
+  <w>t-banorna</w>
+  <w>hunnit</w>
+  <w>bli</w>
+  <w>klara</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>.</w>
+  <w>•</w>
+  <w>Saltsjöbanan</w>
+  <w>och</w>
+  <w>Tvärbanan</w>
+  <w>från</w>
+  <w>Hammarby</w>
+  <w>sjöstad</w>
+  <absaspan id=56 senti=4>
+    <w>bör</w>
+  </absaspan>
+  <absaspan id=57>
+    <w>ledas</w>
+    <w>upp</w>
+    <w>på</w>
+    <w>Åsögatan</w>
+    <w>till</w>
+    <w>Medborgarplatsen</w>
+  </absaspan>
+  <absaspan id=58 senti=2>
+    <w>istället</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=59>
+    <w>fram</w>
+    <w>till</w>
+    <w>Slussen</w>
+  </absaspan>
+  <w>.</w>
+  <w>Då</w>
+  <absaspan id=60 senti=2>
+    <w>behövs</w>
+    <w>inget</w>
+  </absaspan>
+  <absaspan id=61>
+    <w>miljardslukande</w>
+    <w>tunnelbygge</w>
+    <w>i</w>
+    <w>Katarinaberget</w>
+  </absaspan>
+  <w>.</w>
+  <w>Dessutom</w>
+  <w>skapar</w>
+  <w>detta</w>
+  <w>alternativ</w>
+  <w>möjligheten</w>
+  <w>att</w>
+  <w>gå</w>
+  <w>vidare</w>
+  <w>med</w>
+  <w>spåren</w>
+  <w>förbi</w>
+  <w>Södra</w>
+  <w>station</w>
+  <w>,</w>
+  <w>till</w>
+  <w>Södersjukhuset</w>
+  <w>och</w>
+  <w>vidare</w>
+  <w>till</w>
+  <w>Hornstull</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>.</w>
+  <w>•</w>
+  <absaspan id=62 senti=4>
+    <w>På</w>
+    <w>ännu</w>
+    <w>länge</w>
+    <w>sikt</w>
+    <w>bör</w>
+    <w>både</w>
+    <w>Järnvägsbron</w>
+    <w>och</w>
+    <w>Centralbron</w>
+    <w>rivas</w>
+  </absaspan>
+  <absaspan id=63 senti=4>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=15>
+  <w>.</w>
+  <w>•</w>
+  <absaspan id=64 senti=4>
+    <w>Lägg</w>
+    <w>ner</w>
+    <w>även</w>
+    <w>de</w>
+    <w>två</w>
+    <w>spåren</w>
+    <w>på</w>
+    <w>Järnvägsbron</w>
+    <w>i</w>
+    <w>kassuner</w>
+    <w>under</w>
+    <w>Riddarfjärden</w>
+    <w>och</w>
+    <w>lägg</w>
+    <w>Centralstationen</w>
+    <w>helt</w>
+    <w>under</w>
+    <w>jord</w>
+    <w>med</w>
+    <w>det</w>
+    <w>nya</w>
+    <w>namnet</w>
+    <w>Stockholm</w>
+    <w>Klara</w>
+  </absaspan>
+  <absaspan id=65 senti=4>
+    <w>.</w>
+  </absaspan>
+  <w>Tåg</w>
+  <w>söderifrån</w>
+  <w>kan</w>
+  <w>ha</w>
+  <w>Arlanda</w>
+  <w>som</w>
+  <w>slutstation</w>
+  <w>,</w>
+  <w>tåg</w>
+  <w>norrifrån</w>
+  <w>Flemingsberg</w>
+  <w>.</w>
+  <w>Därigenom</w>
+  <w>kan</w>
+  <w>antalet</w>
+  <w>spår</w>
+  <w>minimeras</w>
+  <w>och</w>
+  <w>det</w>
+  <w>blir</w>
+  <w>möjligt</w>
+  <w>att</w>
+  <w>gräva</w>
+  <w>ner</w>
+  <w>spåren</w>
+  <w>längs</w>
+  <w>Klara</w>
+  <w>sjö</w>
+  <w>och</w>
+  <w>där</w>
+  <w>bygga</w>
+  <w>en</w>
+  <w>ny</w>
+  <w>stadsdel</w>
+  <w>,</w>
+  <w>Västra</w>
+  <w>City</w>
+  <w>,</w>
+  <w>med</w>
+  <w>stockholmsk</w>
+  <w>normalhöjd</w>
+  <w>på</w>
+  <w>husen</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>.</w>
+  <w>•</w>
+  <w>Biltrafiken</w>
+  <w>söderifrån</w>
+  <w>genom</w>
+  <w>Söderledstunneln</w>
+  <absaspan id=66 senti=4>
+    <w>bör</w>
+  </absaspan>
+  <absaspan id=67>
+    <w>ledas</w>
+    <w>till</w>
+    <w>Söder</w>
+    <w>Mälarstrand</w>
+    <w>alternativt</w>
+    <w>till</w>
+    <w>Stadsgården</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>sedan</w>
+  <w>på</w>
+  <w>lämplig</w>
+  <w>plats</w>
+  <w>gå</w>
+  <w>ner</w>
+  <w>i</w>
+  <w>kassuner</w>
+  <w>under</w>
+  <w>vattnet</w>
+  <w>,</w>
+  <w>antingen</w>
+  <w>till</w>
+  <w>Kungsholmen</w>
+  <w>eller</w>
+  <w>till</w>
+  <w>Strandvägen</w>
+  <w>/</w>
+  <w>Valhallavägen</w>
+  <w>.</w>
+  <absaspan id=68 senti=2>
+    <w>Bort</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=69>
+    <w>Tegelbackseländet</w>
+    <w>och</w>
+    <w>Klarastrandsleden</w>
+  </absaspan>
+  <w>således</w>
+  <w>och</w>
+  <w>Järnvägsparken</w>
+  <w>åter</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>Hur</w>
+  <w>ska</w>
+  <w>då</w>
+  <w>allt</w>
+  <w>detta</w>
+  <w>betalas</w>
+  <w>?</w>
+  <absaspan id=70>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=71 senti=2>
+    <w>anser</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=72>
+    <w>Stockholms</w>
+    <w>stad</w>
+    <w>bör</w>
+    <w>stycka</w>
+    <w>upp</w>
+    <w>Svenska</w>
+    <w>Bostäder</w>
+    <w>och</w>
+    <w>sälja</w>
+    <w>fastigheterna</w>
+    <w>till</w>
+    <w>några</w>
+    <w>pensions</w>
+    <w>-</w>
+    <w>och</w>
+    <w>livförsäkringsbolag</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=73>
+    <w>Hyreshus</w>
+    <w>i</w>
+    <w>Stockholm</w>
+  </absaspan>
+  <absaspan id=74 senti=5>
+    <w>är</w>
+  </absaspan>
+  <w>bland</w>
+  <w>de</w>
+  <absaspan id=75 senti=5>
+    <w>säkraste</w>
+  </absaspan>
+  <absaspan id=76 senti=5>
+    <w>investeringar</w>
+    <w>som</w>
+    <w>finns</w>
+  </absaspan>
+  <w>,</w>
+  <w>därför</w>
+  <w>torde</w>
+  <w>denna</w>
+  <w>typ</w>
+  <w>av</w>
+  <w>bolag</w>
+  <w>se</w>
+  <w>långsiktigt</w>
+  <w>på</w>
+  <w>sitt</w>
+  <w>ägande</w>
+  <w>till</w>
+  <w>nytta</w>
+  <w>för</w>
+  <w>hyresgästerna</w>
+  <w>.</w>
+  <w>Stockholms</w>
+  <w>invånare</w>
+  <absaspan id=77 senti=4>
+    <w>är</w>
+    <w>mer</w>
+    <w>betjänta</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=78>
+    <w>att</w>
+    <w>äga</w>
+    <w>en</w>
+    <w>fungerande</w>
+    <w>trafikinfrastruktur</w>
+  </absaspan>
+  <absaspan id=79 senti=3>
+    <w>än</w>
+  </absaspan>
+  <absaspan id=80>
+    <w>att</w>
+    <w>äga</w>
+    <w>hyreshus</w>
+  </absaspan>
+  <w>.</w>
+  <w>En</w>
+  <w>försäljning</w>
+  <w>av</w>
+  <w>Svenska</w>
+  <w>Bostäder</w>
+  <w>bör</w>
+  <w>ge</w>
+  <w>en</w>
+  <w>nettovinst</w>
+  <w>på</w>
+  <w>över</w>
+  <w>50</w>
+  <w>miljarder</w>
+  <w>vilket</w>
+  <w>troligen</w>
+  <w>räcker</w>
+  <w>åtminstone</w>
+  <w>till</w>
+  <absaspan id=81>
+    <w>de</w>
+    <w>investeringar</w>
+  </absaspan>
+  <absaspan id=82>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=83 senti=4>
+    <w>föreslår</w>
+  </absaspan>
+  <w>i</w>
+  <w>tunnelbanesystemet</w>
+  <w>och</w>
+  <w>möjligen</w>
+  <w>till</w>
+  <w>Österleden</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>PER</w>
+  <w>HALLERBY</w>
+  <w>.</w>
+</absapar>
+<absapar id=19>
+  <w>Folkpartiet</w>
+  <w>Liberalerna</w>
+  <w>Södermalm</w>
+  <w>/</w>
+  <w>Gamla</w>
+  <w>stan</w>
+  <w>.</w>
+</absapar>
+<absapar id=20>
+  <w>PER</w>
+  <w>JOHANSSON</w>
+  <w>.</w>
+</absapar>
+<absapar id=21>
+  <w>Folkpartiet</w>
+  <w>Liberalerna</w>
+  <w>Vantör</w>
+  <w>.</w>
+</absapar>
+<absapar id=22>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

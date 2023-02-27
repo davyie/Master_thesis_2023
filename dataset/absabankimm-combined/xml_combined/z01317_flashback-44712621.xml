@@ -1,0 +1,72 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Är</w>
+  <w>Avpixlat</w>
+  <w>hackat</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Har</w>
+  <w>någon</w>
+  <w>eller</w>
+  <w>några</w>
+  <w>hackat</w>
+  <w>Avpixlat</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vet</w>
+  <w>ni</w>
+  <w>varför</w>
+  <w>?</w>
+  <w>sabotage</w>
+  <w>?</w>
+  <w>?</w>
+  <w>alla</w>
+  <w>andra</w>
+  <w>sidor</w>
+  <w>kan</w>
+  <w>jag</w>
+  <w>öppna</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Något</w>
+  <w>har</w>
+  <w>hänt</w>
+  <w>.</w>
+  <absaspan id=1 senti=4>
+    <w>Hoppas</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>det</w>
+    <w>bara</w>
+    <w>är</w>
+    <w>åskan</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Men</w>
+  <w>man</w>
+  <w>vet</w>
+  <w>aldrig</w>
+  <absaspan id=3 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>Någon</w>
+  <w>som</w>
+  <w>kommer</w>
+  <w>in</w>
+  <w>på</w>
+  <w>sajten</w>
+  <w>eller</w>
+  <w>vet</w>
+  <w>något</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

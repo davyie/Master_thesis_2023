@@ -1,0 +1,136 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>Invandrare</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>spottar</w>
+  </absaspan>
+  <w>när</w>
+  <w>de</w>
+  <w>passerar</w>
+  <w>på</w>
+  <w>gatan</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Jag</w>
+  <w>har</w>
+  <w>det</w>
+  <w>senaste</w>
+  <w>månaderna</w>
+  <w>uppmärksammat</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>ickeetniska</w>
+    <w>svenskar</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>spottar</w>
+  </absaspan>
+  <w>innan</w>
+  <w>,</w>
+  <w>jämsides</w>
+  <w>eller</w>
+  <w>strax</w>
+  <w>efter</w>
+  <w>de</w>
+  <w>passerat</w>
+  <w>mig</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>kan</w>
+  <w>mycket</w>
+  <w>väl</w>
+  <w>ha</w>
+  <w>varit</w>
+  <w>så</w>
+  <w>även</w>
+  <w>tidigare</w>
+  <w>,</w>
+  <w>typ</w>
+  <absaspan id=5>
+    <w>en</w>
+    <w>ungdom</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>spottat</w>
+    <w>demonstrativt</w>
+  </absaspan>
+  <w>men</w>
+  <w>det</w>
+  <w>kan</w>
+  <w>ju</w>
+  <w>bero</w>
+  <w>av</w>
+  <w>andra</w>
+  <w>orsaker</w>
+  <w>exempelvis</w>
+  <absaspan id=8 senti=2>
+    <w>dissande</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>vuxna</w>
+    <w>i</w>
+    <w>allmänhet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>den</w>
+  <w>senaste</w>
+  <w>tiden</w>
+  <w>har</w>
+  <w>det</w>
+  <w>varit</w>
+  <w>ickeetniska</w>
+  <w>svenskar</w>
+  <w>av</w>
+  <w>alla</w>
+  <w>åldrar</w>
+  <w>,</w>
+  <w>främst</w>
+  <w>män</w>
+  <w>.</w>
+  <w>undrar</w>
+  <w>främst</w>
+  <w>om</w>
+  <w>andra</w>
+  <w>har</w>
+  <w>sådana</w>
+  <w>erfarenheter</w>
+  <w>och</w>
+  <w>vad</w>
+  <w>det</w>
+  <w>kan</w>
+  <w>bero</w>
+  <w>på</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Jag</w>
+  <w>är</w>
+  <w>etnisk</w>
+  <w>svensk</w>
+  <w>man</w>
+  <w>i</w>
+  <w>yngre</w>
+  <w>medelåldern</w>
+  <w>,</w>
+  <w>bär</w>
+  <w>Inga</w>
+  <w>yttre</w>
+  <w>attribut</w>
+  <w>som</w>
+  <w>kan</w>
+  <w>trigga</w>
+  <w>ett</w>
+  <w>sådant</w>
+  <w>bemötande</w>
+  <w>.</w>
+</absapar>
+</absadoc>

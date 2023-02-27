@@ -1,0 +1,111 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Har</w>
+  <w>regeringen</w>
+  <w>insikt</w>
+  <w>i</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>inte</w>
+  <w>kan</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>flera</w>
+  <w>flyktingar</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Tror</w>
+  <w>ni</w>
+  <w>regeringen</w>
+  <w>insett</w>
+  <absaspan id=1 senti=2>
+    <w>sitt</w>
+    <w>misstag</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>att</w>
+    <w>släppa</w>
+    <w>inpå</w>
+    <w>tok</w>
+    <w>för</w>
+    <w>mycket</w>
+    <w>asylsökande</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Har</w>
+  <w>dom</w>
+  <w>insikt</w>
+  <w>och</w>
+  <w>att</w>
+  <w>det</w>
+  <w>nu</w>
+  <w>är</w>
+  <w>svårt</w>
+  <w>att</w>
+  <w>stoppa</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Läger</w>
+  <absaspan id=3 senti=2>
+    <w>överbelastade</w>
+  </absaspan>
+  <w>med</w>
+  <w>asylsökande</w>
+  <w>i</w>
+  <w>vänta</w>
+  <w>på</w>
+  <w>uppehållstillstånd</w>
+  <w>samt</w>
+  <w>bristen</w>
+  <w>på</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>med</w>
+  <w>vård</w>
+  <w>skola</w>
+  <w>omsorg</w>
+  <w>jobb</w>
+  <w>är</w>
+  <w>ju</w>
+  <w>uppenbar</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>I</w>
+  <w>vissa</w>
+  <w>kommuner</w>
+  <w>har</w>
+  <w>ju</w>
+  <w>nu</w>
+  <w>vänstern</w>
+  <w>och</w>
+  <w>miljöpariet</w>
+  <w>sagt</w>
+  <w>att</w>
+  <w>dom</w>
+  <w>faktiskt</w>
+  <w>inte</w>
+  <w>kan</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>flera</w>
+  <w>helt</w>
+  <w>enkelt</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Hur</w>
+  <w>slutar</w>
+  <w>det</w>
+  <w>här</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,227 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <absaspan id=1>
+    <w>Antirasistiska</w>
+    <w>vänstern</w>
+  </absaspan>
+  <w>går</w>
+  <absaspan id=2 senti=2 target=1>
+    <w>tjernoblyexplosion</w>
+  </absaspan>
+  <w>när</w>
+  <absaspan id=3>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=4 senti=2 source=3>
+    <w>ber</w>
+    <w>om</w>
+    <w>ursäkt</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=5>
+    <w>tiggeriet</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=1>
+  <w>Nu</w>
+  <w>har</w>
+  <w>det</w>
+  <w>hänt</w>
+  <w>det</w>
+  <w>igen</w>
+  <w>.</w>
+  <w>Denna</w>
+  <w>gång</w>
+  <absaspan id=6 senti=2>
+    <w>tar</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=8 senti=3>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=9 senti=3>
+    <w>verkligen</w>
+  </absaspan>
+  <w>och</w>
+  <w>riktar</w>
+  <w>sig</w>
+  <w>till</w>
+  <w>invandrande</w>
+  <w>turister</w>
+  <w>igenom</w>
+  <w>att</w>
+  <w>sätta</w>
+  <w>upp</w>
+  <w>Svensk</w>
+  <w>reklam</w>
+  <w>på</w>
+  <w>engelska</w>
+  <w>,</w>
+  <w>där</w>
+  <w>det</w>
+  <w>står</w>
+  <w>att</w>
+  <w>SD</w>
+  <w>är</w>
+  <w>det</w>
+  <w>enda</w>
+  <w>oppositionspartiet</w>
+  <w>och</w>
+  <absaspan id=10>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>ber</w>
+    <w>om</w>
+    <w>ursäkt</w>
+  </absaspan>
+  <w>om</w>
+  <w>just</w>
+  <absaspan id=12>
+    <w>tiggeriet</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=13>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>menar</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=15 senti=2>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>är</w>
+    <w>något</w>
+    <w>fel</w>
+    <w>på</w>
+    <w>vårt</w>
+    <w>land</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=17>
+    <w>folk</w>
+    <w>ligger</w>
+    <w>och</w>
+    <w>tigger</w>
+    <w>på</w>
+    <w>gatorna</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=18>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>ber</w>
+    <w>om</w>
+    <w>ursäkt</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=20>
+    <w>röran</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Reklamen</w>
+  <w>placeras</w>
+  <w>som</w>
+  <w>vanligt</w>
+  <w>på</w>
+  <w>vänsterdominerande</w>
+  <w>ställen</w>
+  <w>så</w>
+  <w>som</w>
+  <w>kollektivtrafiken</w>
+  <w>i</w>
+  <w>Östermalm</w>
+  <w>.</w>
+  <w>Detta</w>
+  <w>har</w>
+  <w>fått</w>
+  <absaspan id=21>
+    <w>vänstern</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=22 senti=2>
+    <w>utsöndra</w>
+    <w>en</w>
+    <w>tjernoblyexplosion</w>
+    <w>av</w>
+    <w>fradga</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=23 senti=2>
+    <w>uppmanar</w>
+  </absaspan>
+  <w>nu</w>
+  <w>till</w>
+  <w>en</w>
+  <absaspan id=24>
+    <w>demonstration</w>
+    <w>imorgon</w>
+    <w>kl</w>
+    <w>18.00</w>
+  </absaspan>
+  <w>vid</w>
+  <w>östermalmstorget</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=1>
+  <w>Då</w>
+  <w>undrar</w>
+  <w>jag</w>
+  <w>varför</w>
+  <w>den</w>
+  <absaspan id=25>
+    <w>antirasistiska</w>
+    <w>vänstern</w>
+  </absaspan>
+  <absaspan id=26 senti=1>
+    <w>exploderar</w>
+    <w>av</w>
+    <w>ilska</w>
+  </absaspan>
+  <w>när</w>
+  <absaspan id=27>
+    <w>man</w>
+  </absaspan>
+  <absaspan id=28 senti=2>
+    <w>ber</w>
+    <w>om</w>
+    <w>ursäkt</w>
+  </absaspan>
+  <w>för</w>
+  <w>ett</w>
+  <absaspan id=29>
+    <w>trasprolertariat</w>
+  </absaspan>
+  <w>som</w>
+  <w>ligger</w>
+  <w>och</w>
+  <w>tigger</w>
+  <w>samnt</w>
+  <absaspan id=30 senti=1>
+    <w>förstör</w>
+  </absaspan>
+  <w>för</w>
+  <w>den</w>
+  <w>Svenska</w>
+  <w>arbetarklassen</w>
+  <w>som</w>
+  <w>betalar</w>
+  <w>skatt</w>
+  <w>dagligen</w>
+  <w>för</w>
+  <w>att</w>
+  <w>hålla</w>
+  <w>Sverige</w>
+  <w>rent</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

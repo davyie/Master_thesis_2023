@@ -1,0 +1,44 @@
+<absadoc>
+Mandatory attributes annotators
+Optional attributes senti
+Contains <absatitle>, <absapar>
+
+<absatitle>
+Optional attributes senti
+Contains <w>
+
+<absapar>
+Optional attributes senti
+Contains <w>, <absaspan>
+
+<absaspan>
+Mandatory attributes id
+Optional attributes senti, irony, target, source, partof, refersto
+Contains <w>
+
+<w>
+(no attributes)
+
+annotators
+The number of annotators.
+
+senti
+Sentiment rated on a scale 1-5. Calculated as the median of the votes, not counting those who did not mark this. If the median is not an integer, rounds away from the middle; that is, |3|4|5|5| becomes 5.
+
+id
+A unique number for a span.
+
+irony
+Marked if at least half of sentiment voters thought this was irony.
+
+target
+ID of the span describing the thing someone has an opinion of.
+
+source
+ID of the span describing the person who has an opinion.
+
+partof
+ID of the span describing something which the current span's referent is a part of. A person might for example be part of an organisation.
+
+refersto
+ID of the anaphor referent of the current span. For example, a pronoun might refer to a name or other noun phrase.

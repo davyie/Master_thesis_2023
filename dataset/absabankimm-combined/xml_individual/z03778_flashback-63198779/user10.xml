@@ -1,0 +1,59 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>ICA-handlaren</w>
+  <w>:</w>
+  <w>"</w>
+  <absaspan id=1>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=2 senti=1 source=1>
+    <w>fruktar</w>
+    <w>för</w>
+    <w>våra</w>
+    <w>liv</w>
+  </absaspan>
+  <w>varje</w>
+  <w>dag</w>
+  <w>"</w>
+  <w>-</w>
+  <w>Förorten</w>
+  <w>har</w>
+  <w>blivit</w>
+  <w>för</w>
+  <w>farlig</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Anmälningsbenägenheten</w>
+  <w>som</w>
+  <w>har</w>
+  <w>ökat</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Akut</w>
+  <absaspan id=3 senti=2>
+    <w>fritidsgårdsbrist</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=4 senti=2>
+    <w>Strukturella</w>
+    <w>rasismen</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=5 senti=1 irony>
+    <w>Spädbarnsätande</w>
+    <w>dödsknarkarnazisters</w>
+  </absaspan>
+  <w>fel</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

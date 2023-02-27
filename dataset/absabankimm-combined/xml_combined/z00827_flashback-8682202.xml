@@ -1,0 +1,139 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Skvaller</w>
+  <w>om</w>
+  <w>advokaten</w>
+  <w>Elisabeth</w>
+  <w>Massi</w>
+  <w>Fritz</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Är</w>
+  <w>det</w>
+  <w>bara</w>
+  <w>jag</w>
+  <w>som</w>
+  <w>är</w>
+  <w>lite</w>
+  <absaspan id=1 senti=4>
+    <w>småtänd</w>
+  </absaspan>
+  <w>på</w>
+  <w>den</w>
+  <absaspan id=2>
+    <w>våldtagna</w>
+    <w>kvinnans</w>
+    <w>advokat</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=3 senti=4>
+    <w>Rätt</w>
+    <w>snygg</w>
+    <w>och</w>
+    <w>sexig</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Medan</w>
+  <w>de</w>
+  <w>två</w>
+  <absaspan id=4 senti=1>
+    <w>supertöntiga</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>advokaterna</w>
+  </absaspan>
+  <w>som</w>
+  <w>företrädde</w>
+  <w>stureplansprofilerna</w>
+  <absaspan id=6 senti=2>
+    <w>stod</w>
+    <w>och</w>
+    <w>stammade</w>
+  </absaspan>
+  <w>inför</w>
+  <w>media</w>
+  <w>så</w>
+  <w>var</w>
+  <w>advokat</w>
+  <w>Fritz</w>
+  <w>tillbaka</w>
+  <w>på</w>
+  <w>kontoret</w>
+  <w>och</w>
+  <w>jobbade</w>
+  <w>(</w>
+  <w>läste</w>
+  <w>jag</w>
+  <w>just</w>
+  <w>)</w>
+  <w>.</w>
+  <w>En</w>
+  <absaspan id=7 senti=4>
+    <w>cool</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>kvinna</w>
+  </absaspan>
+  <w>som</w>
+  <w>jag</w>
+  <w>funderar</w>
+  <w>på</w>
+  <w>att</w>
+  <w>dejta</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Har</w>
+  <w>ni</w>
+  <w>några</w>
+  <w>matnyttiga</w>
+  <w>fakta</w>
+  <w>innan</w>
+  <w>jag</w>
+  <w>ringer</w>
+  <w>henne</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Postade</w>
+  <w>detta</w>
+  <w>i</w>
+  <w>stureplanstråden</w>
+  <w>men</w>
+  <w>där</w>
+  <absaspan id=9 senti=2>
+    <w>drunknade</w>
+    <w>inlägget</w>
+    <w>i</w>
+    <w>störtfloden</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=10>
+    <w>andra</w>
+    <w>inlägg</w>
+  </absaspan>
+  <w>(</w>
+  <w>eller</w>
+  <w>också</w>
+  <w>var</w>
+  <absaspan id=11>
+    <w>frågan</w>
+  </absaspan>
+  <w>helt</w>
+  <absaspan id=12 senti=2>
+    <w>ointressant</w>
+  </absaspan>
+  <w>)</w>
+  <absaspan id=13>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

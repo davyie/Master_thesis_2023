@@ -1,0 +1,179 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Rikspolischef</w>
+    <w>Dan</w>
+    <w>Eliasson</w>
+  </absaspan>
+  <absaspan id=2 senti=1 source=1 target=3>
+    <w>sågar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>Elise</w>
+    <w>Tamm</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4>
+    <w>Rikspolischefen</w>
+    <w>Dan</w>
+    <w>Eliasson</w>
+  </absaspan>
+  <w>(</w>
+  <w>s</w>
+  <w>)</w>
+  <absaspan id=5 senti=1>
+    <w>sågar</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>chefsåklagare</w>
+    <w>Lise</w>
+    <w>Tamms</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Lise</w>
+  <w>Tamm</w>
+  <w>säger</w>
+  <w>bl.a</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Dan</w>
+  <w>Eliassons</w>
+  <w>(</w>
+  <w>s</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Mina</w>
+  <w>frågor</w>
+  <w>till</w>
+  <w>publiken</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>.</w>
+  <w>-</w>
+  <w>Menar</w>
+  <w>Dan</w>
+  <w>Eliasson</w>
+  <w>(</w>
+  <w>s</w>
+  <w>)</w>
+  <w>att</w>
+  <w>invånarna</w>
+  <w>i</w>
+  <w>de</w>
+  <w>sönderbombade</w>
+  <w>städerna</w>
+  <w>,</w>
+  <w>t.ex</w>
+  <w>.</w>
+  <w>Aleppo</w>
+  <w>,</w>
+  <w>inte</w>
+  <w>till</w>
+  <w>största</w>
+  <w>delar</w>
+  <w>består</w>
+  <w>av</w>
+  <absaspan id=7 senti=4>
+    <w>laglydiga</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>människor</w>
+  </absaspan>
+  <w>som</w>
+  <w>jobbar</w>
+  <w>och</w>
+  <w>sliter</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>.</w>
+  <w>-</w>
+  <w>Eller</w>
+  <w>manar</w>
+  <absaspan id=9>
+    <w>Dan</w>
+    <w>Eliasson</w>
+    <w>(</w>
+    <w>s</w>
+  </absaspan>
+  <w>)</w>
+  <w>att</w>
+  <absaspan id=10>
+    <w>de</w>
+    <w>flesta</w>
+    <w>människor</w>
+    <w>i</w>
+    <w>Jemen</w>
+    <w>,</w>
+    <w>Syrien</w>
+    <w>,</w>
+    <w>Aleppo</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>är</w>
+    <w>skurkar</w>
+    <w>och</w>
+    <w>banditer</w>
+  </absaspan>
+  <w>som</w>
+  <w>sysslar</w>
+  <w>med</w>
+  <w>"</w>
+  <w>skjutningar</w>
+  <w>och</w>
+  <w>gängkriminalitet</w>
+  <w>"</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>.</w>
+  <w>-</w>
+  <w>Är</w>
+  <w>Dan</w>
+  <w>Eliasson</w>
+  <w>(</w>
+  <w>s</w>
+  <w>)</w>
+  <w>då</w>
+  <w>en</w>
+  <w>rasist</w>
+  <w>,</w>
+  <w>nazist</w>
+  <w>eller</w>
+  <w>fascist</w>
+  <w>?</w>
+  <w>Eller</w>
+  <w>har</w>
+  <w>han</w>
+  <w>återigen</w>
+  <w>utan</w>
+  <w>egen</w>
+  <w>förskyllan</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>?</w>
+  <w>Talar</w>
+  <w>han</w>
+  <w>t.o.m</w>
+  <w>.</w>
+  <w>sanning</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

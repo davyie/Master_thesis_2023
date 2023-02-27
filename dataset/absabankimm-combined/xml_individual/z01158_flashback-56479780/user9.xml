@@ -1,0 +1,50 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Ni</w>
+  <w>som</w>
+  <w>har</w>
+  <w>en</w>
+  <w>partner</w>
+  <w>,</w>
+  <w>blir</w>
+  <w>man</w>
+  <w>mindre</w>
+  <w>attraherad</w>
+  <w>till</w>
+  <w>andra</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Ni</w>
+  <w>som</w>
+  <w>har</w>
+  <w>en</w>
+  <absaspan id=1 senti=4>
+    <w>bra</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>kärleksrelation</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=3 senti=4>
+    <w>fungerande</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>sexliv</w>
+  </absaspan>
+  <w>,</w>
+  <w>blir</w>
+  <w>ni</w>
+  <w>mindre</w>
+  <w>attraherade</w>
+  <w>/</w>
+  <w>kåta</w>
+  <w>på</w>
+  <w>andra</w>
+  <w>än</w>
+  <w>innan</w>
+  <w>relationen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,1339 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>Vi</w>
+  <absaspan id=1 senti=2>
+    <w>har</w>
+    <w>inte</w>
+    <w>resurser</w>
+    <w>att</w>
+    <w>följa</w>
+    <w>lagen</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Vi</w>
+  <w>kan</w>
+  <w>inte</w>
+  <w>ge</w>
+  <w>bistånd</w>
+  <w>,</w>
+  <w>vård</w>
+  <w>och</w>
+  <w>behandling</w>
+  <w>till</w>
+  <w>barnfamiljer</w>
+  <w>,</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>bedömer</w>
+  <w>att</w>
+  <w>de</w>
+  <w>behöver</w>
+  <w>det</w>
+  <absaspan id=2 senti=2>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>Resursbristen</w>
+  </absaspan>
+  <w>kan</w>
+  <w>inte</w>
+  <w>effektiviseras</w>
+  <w>bort</w>
+  <w>,</w>
+  <w>precis</w>
+  <w>som</w>
+  <w>att</w>
+  <w>de</w>
+  <w>strukturella</w>
+  <w>,</w>
+  <w>ekonomiska</w>
+  <absaspan id=4 senti=2>
+    <w>problemen</w>
+  </absaspan>
+  <w>inte</w>
+  <w>kan</w>
+  <w>socialarbetas</w>
+  <w>bort</w>
+  <w>.</w>
+  <absaspan id=5 senti=1>
+    <w>Kraven</w>
+    <w>på</w>
+    <w>samhällets</w>
+    <w>mest</w>
+    <w>utsatta</w>
+    <w>är</w>
+    <w>orimligt</w>
+    <w>höga</w>
+  </absaspan>
+  <w>,</w>
+  <w>skriver</w>
+  <absaspan id=6>
+    <w>socialarbetarna</w>
+    <w>Annelie</w>
+    <w>Fajerson</w>
+    <w>och</w>
+    <w>Baharan</w>
+    <w>Kazemi</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Alla</w>
+  <w>barn</w>
+  <w>har</w>
+  <w>vissa</w>
+  <w>grundläggande</w>
+  <w>rättigheter</w>
+  <w>som</w>
+  <w>definieras</w>
+  <w>i</w>
+  <w>FN</w>
+  <w>:</w>
+  <w>s</w>
+  <w>konvention</w>
+  <w>om</w>
+  <w>barns</w>
+  <w>rättigheter</w>
+  <w>.</w>
+  <w>I</w>
+  <w>vårt</w>
+  <w>arbete</w>
+  <w>på</w>
+  <w>socialtjänst</w>
+  <w>och</w>
+  <w>inom</w>
+  <w>andra</w>
+  <w>verksamheter</w>
+  <w>förväntas</w>
+  <w>vi</w>
+  <w>följa</w>
+  <w>principen</w>
+  <w>om</w>
+  <absaspan id=7>
+    <w>barnets</w>
+  </absaspan>
+  <absaspan id=8 senti=5>
+    <w>bästa</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>.</w>
+  </absaspan>
+  <w>I</w>
+  <w>praktiken</w>
+  <w>innebär</w>
+  <w>det</w>
+  <w>att</w>
+  <w>alla</w>
+  <w>barn</w>
+  <w>har</w>
+  <w>rätt</w>
+  <w>till</w>
+  <absaspan id=10 senti=4>
+    <w>social</w>
+    <w>trygghet</w>
+  </absaspan>
+  <w>,</w>
+  <w>mat</w>
+  <w>,</w>
+  <w>boende</w>
+  <w>och</w>
+  <w>kläder</w>
+  <absaspan id=11>
+    <w>.</w>
+  </absaspan>
+  <w>De</w>
+  <w>har</w>
+  <w>rätt</w>
+  <w>till</w>
+  <absaspan id=12 senti=4>
+    <w>fritid</w>
+    <w>,</w>
+    <w>lek</w>
+    <w>och</w>
+    <w>vila</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>.</w>
+  </absaspan>
+  <w>Föräldrarna</w>
+  <w>har</w>
+  <w>gemensamt</w>
+  <w>ansvar</w>
+  <w>för</w>
+  <w>barnets</w>
+  <w>uppfostran</w>
+  <w>och</w>
+  <w>om</w>
+  <absaspan id=14>
+    <w>föräldrarnas</w>
+    <w>förmåga</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>inte</w>
+    <w>räcker</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=16 senti=4>
+    <w>ska</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>samhället</w>
+  </absaspan>
+  <absaspan id=18 senti=4>
+    <w>se</w>
+  </absaspan>
+  <absaspan id=19 senti=4>
+    <w>till</w>
+    <w>att</w>
+    <w>det</w>
+    <w>finns</w>
+    <w>stöd</w>
+    <w>att</w>
+    <w>få</w>
+  </absaspan>
+  <w>,</w>
+  <w>inom</w>
+  <w>sjukvård</w>
+  <w>,</w>
+  <w>utbildning</w>
+  <w>och</w>
+  <w>sociala</w>
+  <w>frågor</w>
+  <absaspan id=20>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>I</w>
+  <w>vårt</w>
+  <w>arbete</w>
+  <w>ser</w>
+  <w>vi</w>
+  <w>att</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>samhällsstrukturer</w>
+  <w>som</w>
+  <w>Socialtjänstens</w>
+  <w>insatser</w>
+  <w>inte</w>
+  <w>kan</w>
+  <w>förändra</w>
+  <w>.</w>
+  <w>Enligt</w>
+  <w>Rädda</w>
+  <w>Barnens</w>
+  <w>rapport</w>
+  <w>om</w>
+  <w>barnfattigdom</w>
+  <w>från</w>
+  <w>2010</w>
+  <w>lever</w>
+  <w>en</w>
+  <w>tiondel</w>
+  <w>av</w>
+  <w>Sveriges</w>
+  <w>två</w>
+  <w>miljoner</w>
+  <w>barn</w>
+  <w>i</w>
+  <absaspan id=21 senti=2>
+    <w>fattigdom</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=23 senti=2>
+    <w>De</w>
+    <w>mest</w>
+    <w>utsatta</w>
+  </absaspan>
+  <w>är</w>
+  <w>barn</w>
+  <w>med</w>
+  <w>utländsk</w>
+  <w>bakgrund</w>
+  <w>,</w>
+  <w>barn</w>
+  <w>i</w>
+  <w>storstädernas</w>
+  <w>förorter</w>
+  <w>och</w>
+  <w>barn</w>
+  <w>som</w>
+  <w>lever</w>
+  <w>med</w>
+  <w>ensamstående</w>
+  <w>föräldrar</w>
+  <absaspan id=24>
+    <w>.</w>
+  </absaspan>
+  <w>För</w>
+  <w>dessa</w>
+  <w>barn</w>
+  <w>kan</w>
+  <absaspan id=25 senti=2>
+    <w>fattigdomen</w>
+  </absaspan>
+  <w>ha</w>
+  <w>som</w>
+  <w>konsekvens</w>
+  <w>att</w>
+  <w>de</w>
+  <absaspan id=26 senti=2>
+    <w>inte</w>
+    <w>får</w>
+    <w>sina</w>
+    <w>grundläggande</w>
+    <w>behov</w>
+    <w>tillgodosedda</w>
+  </absaspan>
+  <w>,</w>
+  <w>eller</w>
+  <w>att</w>
+  <w>de</w>
+  <absaspan id=27 senti=2>
+    <w>inte</w>
+    <w>får</w>
+    <w>en</w>
+    <w>meningsfull</w>
+    <w>fritid</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>Vi</w>
+  <w>ser</w>
+  <w>att</w>
+  <w>barn</w>
+  <w>i</w>
+  <w>Stockholms</w>
+  <w>stad</w>
+  <w>som</w>
+  <w>har</w>
+  <w>kontakt</w>
+  <w>med</w>
+  <w>Socialtjänsten</w>
+  <w>inte</w>
+  <w>i</w>
+  <w>samma</w>
+  <w>utsträckning</w>
+  <w>som</w>
+  <w>tidigare</w>
+  <w>beviljas</w>
+  <w>bistånd</w>
+  <w>till</w>
+  <w>en</w>
+  <absaspan id=29 senti=4>
+    <w>hälsosam</w>
+    <w>fritid</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>.</w>
+  </absaspan>
+  <w>Detta</w>
+  <w>utan</w>
+  <w>att</w>
+  <w>lagen</w>
+  <w>eller</w>
+  <w>riktlinjerna</w>
+  <w>har</w>
+  <w>förändrats</w>
+  <w>.</w>
+  <w>Barn</w>
+  <w>får</w>
+  <w>inte</w>
+  <w>i</w>
+  <w>samma</w>
+  <w>utsträckning</w>
+  <w>som</w>
+  <w>tidigare</w>
+  <w>bistånd</w>
+  <w>till</w>
+  <w>cyklar</w>
+  <w>,</w>
+  <w>simkort</w>
+  <w>eller</w>
+  <w>terminsavgift</w>
+  <w>till</w>
+  <w>fotbollslag</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Samtidigt</w>
+  <w>får</w>
+  <w>inte</w>
+  <w>arbetslösa</w>
+  <w>föräldrar</w>
+  <w>ledighet</w>
+  <w>från</w>
+  <w>Arbetsförmedlingens</w>
+  <w>åtgärdsprogram</w>
+  <w>eller</w>
+  <w>kommunala</w>
+  <w>jobbsökarverksamheter</w>
+  <w>.</w>
+  <w>De</w>
+  <w>ska</w>
+  <w>vara</w>
+  <w>arbetssökande</w>
+  <w>året</w>
+  <w>om</w>
+  <w>och</w>
+  <absaspan id=31 senti=2>
+    <w>har</w>
+    <w>inte</w>
+    <w>möjlighet</w>
+    <w>att</w>
+    <w>fokusera</w>
+    <w>på</w>
+    <w>barnen</w>
+    <w>,</w>
+    <w>resa</w>
+    <w>bort</w>
+    <w>eller</w>
+    <w>ge</w>
+    <w>stimulans</w>
+  </absaspan>
+  <w>som</w>
+  <w>andra</w>
+  <w>föräldrar</w>
+  <w>.</w>
+  <w>Föräldrar</w>
+  <w>vars</w>
+  <w>barn</w>
+  <w>har</w>
+  <w>placerats</w>
+  <w>utanför</w>
+  <w>hemmet</w>
+  <w>får</w>
+  <w>i</w>
+  <w>en</w>
+  <w>del</w>
+  <w>fall</w>
+  <w>inte</w>
+  <w>bistånd</w>
+  <w>till</w>
+  <w>busskort</w>
+  <w>,</w>
+  <w>vilket</w>
+  <w>kan</w>
+  <w>vara</w>
+  <w>en</w>
+  <w>förutsättning</w>
+  <w>för</w>
+  <w>att</w>
+  <w>de</w>
+  <w>ska</w>
+  <w>kunna</w>
+  <w>träffa</w>
+  <w>sina</w>
+  <w>barn</w>
+  <w>.</w>
+  <w>Detta</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>vet</w>
+  <w>att</w>
+  <w>placerade</w>
+  <w>barn</w>
+  <w>i</w>
+  <w>de</w>
+  <w>flesta</w>
+  <w>fall</w>
+  <absaspan id=32 senti=4>
+    <w>mår</w>
+    <w>bra</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>att</w>
+    <w>kontakten</w>
+    <w>med</w>
+    <w>de</w>
+    <w>biologiska</w>
+    <w>föräldrarna</w>
+    <w>inte</w>
+    <w>bryts</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=7>
+  <w>I</w>
+  <w>dag</w>
+  <w>finns</w>
+  <w>det</w>
+  <absaspan id=35>
+    <w>i</w>
+    <w>Stockholm</w>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=36 senti=2>
+    <w>bostadsbrist</w>
+  </absaspan>
+  <absaspan id=37 senti=2>
+    <w>som</w>
+    <w>innebär</w>
+    <w>trångboddhet</w>
+    <w>och</w>
+    <w>otrygghet</w>
+  </absaspan>
+  <w>för</w>
+  <w>många</w>
+  <w>barnfamiljer</w>
+  <w>.</w>
+  <w>Barn</w>
+  <w>-</w>
+  <w>och</w>
+  <w>äldreminister</w>
+  <w>Maria</w>
+  <w>Larsson</w>
+  <w>har</w>
+  <w>gjort</w>
+  <w>uttalanden</w>
+  <w>om</w>
+  <w>att</w>
+  <w>inga</w>
+  <w>barn</w>
+  <w>ska</w>
+  <w>vräkas</w>
+  <w>,</w>
+  <w>men</w>
+  <w>när</w>
+  <w>det</w>
+  <w>ändå</w>
+  <w>sker</w>
+  <w>regelbundet</w>
+  <w>har</w>
+  <w>vi</w>
+  <w>på</w>
+  <w>Socialtjänsten</w>
+  <w>inte</w>
+  <w>annan</w>
+  <w>hjälp</w>
+  <w>att</w>
+  <w>ge</w>
+  <w>,</w>
+  <w>än</w>
+  <w>att</w>
+  <w>familjehemsplacera</w>
+  <w>barnen</w>
+  <w>.</w>
+  <w>Detta</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=38 senti=3>
+    <w>inte</w>
+    <w>finns</w>
+    <w>någon</w>
+    <w>bristande</w>
+    <w>omsorgsförmåga</w>
+  </absaspan>
+  <w>hos</w>
+  <absaspan id=39>
+    <w>föräldrarna</w>
+  </absaspan>
+  <w>,</w>
+  <w>bortsett</w>
+  <w>från</w>
+  <w>boendefrågan</w>
+  <absaspan id=40>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=8>
+  <absaspan id=41 senti=2>
+    <w>Bostadsbristen</w>
+  </absaspan>
+  <absaspan id=42 senti=2>
+    <w>drabbar</w>
+  </absaspan>
+  <w>även</w>
+  <w>myndigheterna</w>
+  <w>,</w>
+  <w>som</w>
+  <w>har</w>
+  <absaspan id=43 senti=2>
+    <w>brist</w>
+  </absaspan>
+  <w>på</w>
+  <w>jourlägenheter</w>
+  <w>och</w>
+  <w>möjlighet</w>
+  <w>till</w>
+  <w>kommunkontrakt</w>
+  <absaspan id=44>
+    <w>.</w>
+  </absaspan>
+  <w>Blir</w>
+  <w>de</w>
+  <w>inte</w>
+  <w>placerade</w>
+  <w>utanför</w>
+  <w>hemmet</w>
+  <w>,</w>
+  <w>kanske</w>
+  <w>de</w>
+  <w>får</w>
+  <w>flytta</w>
+  <w>många</w>
+  <w>gånger</w>
+  <w>på</w>
+  <w>ett</w>
+  <w>år</w>
+  <w>,</w>
+  <w>bo</w>
+  <w>inneboende</w>
+  <w>hos</w>
+  <w>andra</w>
+  <w>familjer</w>
+  <w>,</w>
+  <w>bo</w>
+  <w>på</w>
+  <w>hotell</w>
+  <w>tillsammans</w>
+  <w>med</w>
+  <w>vuxna</w>
+  <w>missbrukare</w>
+  <w>eller</w>
+  <absaspan id=45 senti=1>
+    <w>i</w>
+    <w>värsta</w>
+    <w>fall</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=46>
+    <w>sova</w>
+    <w>utomhus</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Skräddarsydda</w>
+  <w>kurser</w>
+  <w>i</w>
+  <w>ämnen</w>
+  <w>som</w>
+  <w>intresserar</w>
+  <w>och</w>
+  <w>engagerar</w>
+  <w>både</w>
+  <w>kropp</w>
+  <w>och</w>
+  <w>själ</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>I</w>
+  <w>en</w>
+  <w>artikel</w>
+  <w>i</w>
+  <w>Metro</w>
+  <w>(</w>
+  <w>2011</w>
+  <w>-</w>
+  <w>04</w>
+  <w>-</w>
+  <w>01</w>
+  <w>)</w>
+  <w>beskrivs</w>
+  <w>att</w>
+  <absaspan id=47 senti=2>
+    <w>missbruket</w>
+  </absaspan>
+  <absaspan id=48>
+    <w>bland</w>
+    <w>ungdomar</w>
+  </absaspan>
+  <absaspan id=49 senti=2>
+    <w>har</w>
+    <w>ökat</w>
+  </absaspan>
+  <w>,</w>
+  <w>enligt</w>
+  <w>siffror</w>
+  <w>från</w>
+  <w>Brottsförebyggande</w>
+  <w>Rådet</w>
+  <absaspan id=50>
+    <w>.</w>
+  </absaspan>
+  <w>I</w>
+  <w>Stockholms</w>
+  <w>län</w>
+  <w>har</w>
+  <w>det</w>
+  <w>skett</w>
+  <w>en</w>
+  <w>fördubbling</w>
+  <w>sedan</w>
+  <w>2007</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>får</w>
+  <w>direktiv</w>
+  <w>om</w>
+  <w>att</w>
+  <w>minska</w>
+  <w>antalet</w>
+  <w>institutionsplaceringar</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Hade</w>
+  <w>det</w>
+  <w>resonerats</w>
+  <w>likadant</w>
+  <w>i</w>
+  <w>sjukvården</w>
+  <w>,</w>
+  <w>hade</w>
+  <w>det</w>
+  <w>varit</w>
+  <w>som</w>
+  <w>att</w>
+  <absaspan id=51 senti=2>
+    <w>neka</w>
+  </absaspan>
+  <w>en</w>
+  <w>hjärtsjuk</w>
+  <w>patient</w>
+  <absaspan id=52 senti=2>
+    <w>vård</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>erbjuda</w>
+  <w>en</w>
+  <w>kontaktperson</w>
+  <w>och</w>
+  <w>regelbundna</w>
+  <w>provtagningar</w>
+  <w>.</w>
+  <absaspan id=53>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=54 senti=2>
+    <w>är</w>
+    <w>inte</w>
+    <w>tillräckligt</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>åter</w>
+  <absaspan id=55 senti=1>
+    <w>ställs</w>
+    <w>orimligt</w>
+    <w>höga</w>
+    <w>krav</w>
+    <w>på</w>
+    <w>samhällets</w>
+    <w>mest</w>
+    <w>utsatta</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=12 senti=4>
+  <w>När</w>
+  <w>det</w>
+  <w>gäller</w>
+  <w>papperslösa</w>
+  <w>flyktingbarns</w>
+  <w>rättigheter</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>fortfarande</w>
+  <w>inga</w>
+  <w>klara</w>
+  <w>riktlinjer</w>
+  <w>gällande</w>
+  <w>deras</w>
+  <w>rättigheter</w>
+  <w>.</w>
+  <w>På</w>
+  <w>vissa</w>
+  <w>håll</w>
+  <absaspan id=56 senti=2>
+    <w>nekas</w>
+  </absaspan>
+  <w>de</w>
+  <absaspan id=57 senti=2>
+    <w>alla</w>
+    <w>former</w>
+    <w>av</w>
+    <w>sociala</w>
+    <w>insatser</w>
+  </absaspan>
+  <w>.</w>
+  <w>Andra</w>
+  <w>bistår</w>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=58>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=59 senti=2>
+    <w>sker</w>
+    <w>godtyckligt</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=60>
+    <w>Vissa</w>
+  </absaspan>
+  <absaspan id=61 senti=4>
+    <w>prioriterar</w>
+  </absaspan>
+  <absaspan id=62>
+    <w>Utlänningslagen</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=63>
+    <w>andra</w>
+  </absaspan>
+  <absaspan id=64 senti=4>
+    <w>väljer</w>
+  </absaspan>
+  <absaspan id=65>
+    <w>principen</w>
+    <w>om</w>
+    <w>Barnets</w>
+    <w>bästa</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=13 senti=3>
+  <w>Ska</w>
+  <w>vi</w>
+  <w>gå</w>
+  <w>efter</w>
+  <w>vistelsebegreppet</w>
+  <w>och</w>
+  <w>ge</w>
+  <w>bistånd</w>
+  <w>till</w>
+  <w>barnfamiljer</w>
+  <w>som</w>
+  <w>bor</w>
+  <w>i</w>
+  <w>kommunen</w>
+  <w>,</w>
+  <w>men</w>
+  <w>saknar</w>
+  <w>uppehållstillstånd</w>
+  <w>?</w>
+  <w>Eller</w>
+  <w>ska</w>
+  <w>vi</w>
+  <w>lämna</w>
+  <w>dem</w>
+  <w>och</w>
+  <w>deras</w>
+  <w>barn</w>
+  <w>att</w>
+  <w>bli</w>
+  <w>en</w>
+  <w>egen</w>
+  <w>kategori</w>
+  <w>av</w>
+  <absaspan id=66 senti=1>
+    <w>rättslösa</w>
+    <w>samhällsinvånare</w>
+    <w>,</w>
+    <w>utan</w>
+    <w>mänskliga</w>
+    <w>rättigheter</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <absaspan id=67 senti=4>
+    <w>Grunden</w>
+    <w>för</w>
+    <w>socialt</w>
+    <w>arbete</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=68 senti=4>
+    <w>solidaritet</w>
+    <w>och</w>
+    <w>ambitionen</w>
+    <w>att</w>
+    <w>hjälpa</w>
+    <w>medmänniskor</w>
+    <w>till</w>
+    <w>självständighet</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>dag</w>
+  <w>ser</w>
+  <w>vi</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>inte</w>
+  <w>har</w>
+  <w>möjlighet</w>
+  <w>att</w>
+  <w>inom</w>
+  <w>ramen</w>
+  <w>för</w>
+  <w>vår</w>
+  <w>profession</w>
+  <w>leva</w>
+  <w>upp</w>
+  <w>till</w>
+  <w>socialtjänstlagens</w>
+  <w>portalparagraf</w>
+  <w>.</w>
+  <w>Vi</w>
+  <absaspan id=69 senti=2>
+    <w>kan</w>
+    <w>inte</w>
+    <w>ge</w>
+    <w>bistånd</w>
+    <w>,</w>
+    <w>vård</w>
+    <w>och</w>
+    <w>behandling</w>
+  </absaspan>
+  <w>till</w>
+  <w>barnfamiljer</w>
+  <w>,</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>bedömer</w>
+  <w>att</w>
+  <w>de</w>
+  <w>behöver</w>
+  <w>vården</w>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=70 senti=2>
+    <w>finns</w>
+    <w>inte</w>
+    <w>resurser</w>
+  </absaspan>
+  <w>inom</w>
+  <w>organisationen</w>
+  <w>.</w>
+  <w>I</w>
+  <w>stället</w>
+  <absaspan id=71 senti=2>
+    <w>skjuter</w>
+  </absaspan>
+  <absaspan id=72>
+    <w>enheter</w>
+  </absaspan>
+  <absaspan id=73 senti=2>
+    <w>ansvaret</w>
+    <w>på</w>
+    <w>varandra</w>
+  </absaspan>
+  <w>,</w>
+  <w>vilket</w>
+  <w>innebär</w>
+  <w>att</w>
+  <w>klienter</w>
+  <absaspan id=74 senti=2>
+    <w>bollas</w>
+    <w>runt</w>
+    <w>utan</w>
+    <w>att</w>
+    <w>få</w>
+    <w>hjälp</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <absaspan id=75 senti=2>
+    <w>Resursbristen</w>
+  </absaspan>
+  <w>kan</w>
+  <w>inte</w>
+  <w>effektiviseras</w>
+  <w>bort</w>
+  <w>,</w>
+  <w>precis</w>
+  <w>som</w>
+  <w>att</w>
+  <w>de</w>
+  <w>strukturella</w>
+  <w>,</w>
+  <w>ekonomiska</w>
+  <absaspan id=76 senti=2>
+    <w>problemen</w>
+  </absaspan>
+  <w>inte</w>
+  <w>kan</w>
+  <w>socialarbetas</w>
+  <w>bort</w>
+  <w>.</w>
+  <absaspan id=77>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=78 senti=4>
+    <w>vill</w>
+    <w>se</w>
+  </absaspan>
+  <absaspan id=79>
+    <w>en</w>
+    <w>förändring</w>
+  </absaspan>
+  <w>,</w>
+  <w>för</w>
+  <w>vi</w>
+  <w>tror</w>
+  <w>på</w>
+  <w>att</w>
+  <w>det</w>
+  <w>sociala</w>
+  <w>arbetet</w>
+  <w>kan</w>
+  <w>vara</w>
+  <w>annorlunda</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <absaspan id=80>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=81 senti=4>
+    <w>vill</w>
+    <w>se</w>
+  </absaspan>
+  <absaspan id=82 senti=4>
+    <w>trygga</w>
+    <w>och</w>
+    <w>stabila</w>
+    <w>boenden</w>
+    <w>till</w>
+    <w>alla</w>
+    <w>barn</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=83>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=84 senti=4>
+    <w>vill</w>
+    <w>se</w>
+  </absaspan>
+  <absaspan id=85 senti=4>
+    <w>att</w>
+    <w>alla</w>
+    <w>barn</w>
+    <w>har</w>
+    <w>rätt</w>
+    <w>till</w>
+    <w>fritid</w>
+    <w>och</w>
+    <w>lek</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=86>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=87 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=88>
+    <w>att</w>
+    <w>alla</w>
+    <w>barn</w>
+    <w>ska</w>
+    <w>ha</w>
+    <w>tillgång</w>
+    <w>till</w>
+    <w>sina</w>
+    <w>föräldrar</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=89>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=90 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=91 senti=4>
+    <w>kunna</w>
+    <w>erbjuda</w>
+  </absaspan>
+  <absaspan id=92>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=93 senti=4>
+    <w>insatser</w>
+  </absaspan>
+  <absaspan id=94>
+    <w>som</w>
+    <w>vi</w>
+    <w>,</w>
+    <w>med</w>
+    <w>vår</w>
+    <w>kunskap</w>
+    <w>och</w>
+    <w>erfarenhet</w>
+    <w>,</w>
+    <w>bedömer</w>
+    <w>vara</w>
+  </absaspan>
+  <absaspan id=95 senti=4>
+    <w>lämpliga</w>
+  </absaspan>
+  <absaspan id=96>
+    <w>för</w>
+    <w>de</w>
+    <w>familjer</w>
+    <w>som</w>
+    <w>vi</w>
+    <w>dagligen</w>
+    <w>arbetar</w>
+    <w>med</w>
+  </absaspan>
+  <w>.</w>
+  <w>För</w>
+  <w>att</w>
+  <w>det</w>
+  <w>ska</w>
+  <w>bli</w>
+  <w>möjligt</w>
+  <absaspan id=97 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=98>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=99 senti=4>
+    <w>se</w>
+  </absaspan>
+  <absaspan id=100>
+    <w>att</w>
+    <w>riktade</w>
+    <w>resurser</w>
+    <w>avsätts</w>
+    <w>till</w>
+    <w>insatser</w>
+    <w>för</w>
+    <w>barn</w>
+    <w>som</w>
+    <w>lever</w>
+    <w>i</w>
+    <w>fattigdom</w>
+    <w>,</w>
+    <w>barn</w>
+    <w>som</w>
+    <w>lever</w>
+    <w>i</w>
+    <w>eller</w>
+    <w>med</w>
+    <w>missbruk</w>
+    <w>eller</w>
+    <w>psykisk</w>
+    <w>sjukdom</w>
+    <w>samt</w>
+    <w>barn</w>
+    <w>som</w>
+    <w>riskerar</w>
+    <w>att</w>
+    <w>hamna</w>
+    <w>i</w>
+    <w>kriminalitet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <absaspan id=101>
+    <w>Om</w>
+    <w>vi</w>
+    <w>inte</w>
+    <w>satsar</w>
+    <w>på</w>
+    <w>barnen</w>
+    <w>idag</w>
+  </absaspan>
+  <w>,</w>
+  <w>kommer</w>
+  <w>konsekvenserna</w>
+  <w>märkas</w>
+  <w>i</w>
+  <absaspan id=102 senti=2>
+    <w>kostnader</w>
+    <w>och</w>
+    <w>mänskligt</w>
+    <w>lidande</w>
+    <w>i</w>
+    <w>många</w>
+    <w>år</w>
+    <w>framåt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Tidiga</w>
+  <w>insatser</w>
+  <w>kan</w>
+  <w>förändra</w>
+  <w>människors</w>
+  <w>liv</w>
+  <w>och</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>tur</w>
+  <w>förändra</w>
+  <w>det</w>
+  <w>samhälle</w>
+  <w>vi</w>
+  <w>lever</w>
+  <w>i</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>.</w>
+  <w>•</w>
+  <absaspan id=103>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=104 senti=4>
+    <w>försvarar</w>
+  </absaspan>
+  <absaspan id=105>
+    <w>ett</w>
+    <w>mänskligt</w>
+    <w>samhälle</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=19>
+  <w>.</w>
+  <w>•</w>
+  <absaspan id=106>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=107 senti=4>
+    <w>försvarar</w>
+  </absaspan>
+  <absaspan id=108>
+    <w>det</w>
+    <w>sociala</w>
+    <w>arbetet</w>
+    <w>och</w>
+    <w>våra</w>
+    <w>professionella</w>
+    <w>bedömningar</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=20>
+  <w>.</w>
+  <w>•</w>
+  <w>Politiken</w>
+  <w>måste</w>
+  <w>ta</w>
+  <w>sitt</w>
+  <w>ansvar</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>kräver</w>
+  <w>mer</w>
+  <w>resurser</w>
+  <w>så</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>kan</w>
+  <w>följa</w>
+  <w>socialtjänstlagen</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=21>
+  <w>ANNELIE</w>
+  <w>FAJERSON</w>
+  <w>.</w>
+</absapar>
+<absapar id=22>
+  <w>BAHARAN</w>
+  <w>KAZEMI</w>
+  <w>.</w>
+</absapar>
+<absapar id=23>
+  <w>socialarbetare</w>
+  <w>aktiva</w>
+  <w>i</w>
+  <w>det</w>
+  <w>tvärfackliga</w>
+  <w>nätverket</w>
+  <w>"</w>
+  <w>Nu</w>
+  <w>bryter</w>
+  <w>vi</w>
+  <w>tystnaden</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=24>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

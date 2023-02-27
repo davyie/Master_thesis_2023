@@ -1,0 +1,86 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Europas</w>
+  <w>förenta</w>
+  <w>stater</w>
+  <w>inte</w>
+  <w>längre</w>
+  <w>en</w>
+  <absaspan id=1 senti=2 target=1>
+    <w>konspiration-bör</w>
+  </absaspan>
+  <w>fixas</w>
+  <w>till</w>
+  <w>2025</w>
+  <w>enligt</w>
+  <w>Schulz</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Hur</w>
+  <w>kommer</w>
+  <w>detta</w>
+  <w>att</w>
+  <absaspan id=2 senti=2>
+    <w>drabba</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>alla</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=4 senti=1>
+    <w>är</w>
+    <w>livrädda</w>
+  </absaspan>
+  <w>för</w>
+  <w>lite</w>
+  <absaspan id=5>
+    <w>överstatlighet</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=6 senti=4>
+    <w>Har</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>rätt</w>
+  </absaspan>
+  <w>i</w>
+  <w>join</w>
+  <w>it</w>
+  <w>or</w>
+  <w>leave</w>
+  <w>?</w>
+  <absaspan id=9>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Andra</w>
+  <w>funderingar</w>
+  <w>om</w>
+  <absaspan id=10>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=11 senti=5>
+    <w>blir</w>
+    <w>bra</w>
+    <w>eller</w>
+    <w>fantastiskt</w>
+  </absaspan>
+  <w>eller</w>
+  <w>något</w>
+  <w>för</w>
+  <w>Sveriges</w>
+  <w>del</w>
+  <w>?</w>
+  <absaspan id=12>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

@@ -1,0 +1,133 @@
+<absadoc annotators=8 senti=1>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <absaspan id=1>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=2>
+    <w>5</w>
+    <w>personer</w>
+    <w>låg</w>
+    <w>i</w>
+    <w>ett</w>
+    <w>lönnfack</w>
+    <w>i</w>
+    <w>container</w>
+  </absaspan>
+  <absaspan id=3 senti=1>
+    <w>(</w>
+    <w>i</w>
+    <w>veckor</w>
+    <w>)</w>
+  </absaspan>
+  <w>-</w>
+  <w>nu</w>
+  <absaspan id=4 senti=4>
+    <w>lyckligt</w>
+    <w>framme</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>i</w>
+    <w>Sävsjö</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=1>
+  <absaspan id=6 senti=2>
+    <w>Vad</w>
+    <w>kan</w>
+    <w>man</w>
+    <w>göra</w>
+    <w>åt</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>dom</w>
+    <w>nya</w>
+    <w>rymliga</w>
+    <w>5</w>
+    <w>-</w>
+    <w>personers-lönnfacken</w>
+    <w>i</w>
+    <w>containrar</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>?</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Allvarligt</w>
+  <w>talat</w>
+  <absaspan id=10 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=2>
+  <absaspan id=11 senti=2>
+    <w>Varför</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>uppges</w>
+    <w>alltid</w>
+    <w>åldern</w>
+    <w>till</w>
+    <w>max</w>
+    <w>18</w>
+    <w>år</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>?</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4 senti=1>
+  <absaspan id=15 senti=4>
+    <w>Dags</w>
+    <w>för</w>
+    <w>obligatorisk</w>
+    <w>DNA-test</w>
+  </absaspan>
+  <absaspan id=16 senti=1>
+    <w>av</w>
+    <w>alla</w>
+    <w>containerbarn</w>
+  </absaspan>
+  <absaspan id=17 senti=4>
+    <w>?</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5 senti=1>
+  <absaspan id=19 senti=4>
+    <w>Dags</w>
+    <w>för</w>
+    <w>terroriströntgen</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>av</w>
+    <w>alla</w>
+    <w>containertransporter</w>
+    <w>i</w>
+    <w>europa</w>
+  </absaspan>
+  <absaspan id=21 senti=4>
+    <w>?</w>
+  </absaspan>
+  <w>Tullar</w>
+  <w>har</w>
+  <w>väl</w>
+  <w>redan</w>
+  <w>sådan</w>
+  <w>apparatur</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,113 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <absaspan id=1>
+    <w>Lagrådet</w>
+  </absaspan>
+  <absaspan id=2 senti=1 partof=4 source=1 target=3>
+    <w>sågar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>regeringens</w>
+    <w>förslag</w>
+    <w>om</w>
+    <w>ensamkommande</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>fullständigt</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Hittar</w>
+  <w>ingen</w>
+  <w>tråd</w>
+  <w>om</w>
+  <w>denna</w>
+  <w>nyhet</w>
+  <w>från</w>
+  <w>igår</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <absaspan id=5 senti=4>
+    <w>Otroligt</w>
+    <w>skönt</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>att</w>
+    <w>se</w>
+    <w>att</w>
+    <w>det</w>
+    <w>finns</w>
+    <w>delar</w>
+    <w>av</w>
+    <w>myndighetssverige</w>
+    <w>som</w>
+    <w>inte</w>
+    <w>bara</w>
+    <w>viker</w>
+    <w>ner</w>
+    <w>sig</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>det</w>
+    <w>kollektiva</w>
+    <w>vansinnet</w>
+  </absaspan>
+  <absaspan id=8 senti=1>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Vad</w>
+  <w>anser</w>
+  <w>FB</w>
+  <w>om</w>
+  <w>förslaget</w>
+  <w>och</w>
+  <w>lagrådets</w>
+  <w>svar</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vad</w>
+  <w>säger</w>
+  <w>detta</w>
+  <w>om</w>
+  <w>dagens</w>
+  <w>regering</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Vågar</w>
+  <absaspan id=9>
+    <w>C</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>ge</w>
+    <w>sitt</w>
+    <w>stöd</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>förslaget</w>
+  </absaspan>
+  <w>efter</w>
+  <absaspan id=12 senti=1>
+    <w>den</w>
+    <w>totala</w>
+    <w>sågningen</w>
+    <w>från</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>juristerna</w>
+    <w>i</w>
+    <w>lagrådet</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

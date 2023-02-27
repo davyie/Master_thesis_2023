@@ -1,0 +1,73 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>17</w>
+  <w>skattebetalare</w>
+  <w>krävs</w>
+  <w>för</w>
+  <w>att</w>
+  <w>betala</w>
+  <w>ETT</w>
+  <w>flyktingbarn</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=1>
+  <w>Kan</w>
+  <w>detta</w>
+  <w>vara</w>
+  <w>sant</w>
+  <w>?</w>
+  <w>Går</w>
+  <w>det</w>
+  <w>att</w>
+  <w>åtala</w>
+  <absaspan id=1>
+    <w>politiker</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=2 senti=1>
+    <w>landsförrräderi</w>
+  </absaspan>
+  <w>i</w>
+  <w>så</w>
+  <w>fall</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>3000</w>
+  <w>ensamkommande</w>
+  <w>varje</w>
+  <w>år</w>
+  <w>,</w>
+  <w>samt</w>
+  <w>resten</w>
+  <w>av</w>
+  <absaspan id=3 senti=1>
+    <w>horden</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>invandrare</w>
+  </absaspan>
+  <w>.</w>
+  <w>Inte</w>
+  <w>konstigt</w>
+  <w>att</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>finns</w>
+  <w>pengar</w>
+  <w>till</w>
+  <w>vård</w>
+  <w>och</w>
+  <w>omsorg</w>
+  <w>.</w>
+</absapar>
+</absadoc>

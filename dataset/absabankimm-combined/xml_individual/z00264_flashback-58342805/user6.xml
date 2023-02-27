@@ -1,0 +1,83 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Absurd</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>kontrast</w>
+  </absaspan>
+  <w>:</w>
+  <w>Svenska</w>
+  <w>studenter</w>
+  <w>tältar</w>
+  <w>och</w>
+  <w>migranter</w>
+  <w>klagar</w>
+  <w>på</w>
+  <w>gratis</w>
+  <w>boende</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Svenska</w>
+  <w>studenter</w>
+  <w>betalar</w>
+  <absaspan id=3 senti=2>
+    <w>dyra</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>andrahandskontrakt</w>
+  </absaspan>
+  <w>eller</w>
+  <w>sover</w>
+  <w>på</w>
+  <w>gatan</w>
+  <w>i</w>
+  <w>tält</w>
+  <w>,</w>
+  <w>medans</w>
+  <w>migrater</w>
+  <w>får</w>
+  <absaspan id=5 senti=4>
+    <w>fullt</w>
+    <w>utrustade</w>
+  </absaspan>
+  <absaspan id=6 senti=5>
+    <w>gratisboenden</w>
+  </absaspan>
+  <w>och</w>
+  <w>klagar</w>
+  <w>.</w>
+  <w>Är</w>
+  <w>det</w>
+  <w>verkligen</w>
+  <w>så</w>
+  <w>att</w>
+  <w>svenska</w>
+  <w>studenter</w>
+  <w>tycker</w>
+  <w>att</w>
+  <w>det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>rättvist</w>
+  <w>?</w>
+  <w>Jag</w>
+  <w>vill</w>
+  <w>veta</w>
+  <absaspan id=7 senti=2>
+    <w>hur</w>
+    <w>långt</w>
+    <w>det</w>
+    <w>har</w>
+    <w>gått</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=8>
+    <w>förnuftet</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

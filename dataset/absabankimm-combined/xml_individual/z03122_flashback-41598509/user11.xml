@@ -1,0 +1,100 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Är</w>
+  <w>det</w>
+  <w>den</w>
+  <absaspan id=1 senti=2 target=2>
+    <w>totala</w>
+    <w>genomklappningen</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=2>
+    <w>svensk</w>
+    <w>invandringspolitik</w>
+  </absaspan>
+  <w>som</w>
+  <w>nu</w>
+  <w>börjat</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <absaspan id=3>
+    <w>Den</w>
+    <w>här</w>
+    <w>siffran</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>lär</w>
+    <w>väl</w>
+    <w>knappast</w>
+    <w>minska</w>
+  </absaspan>
+  <w>eftersom</w>
+  <w>vi</w>
+  <w>innevarande</w>
+  <w>år</w>
+  <w>förväntas</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>ett</w>
+  <w>rekordstort</w>
+  <w>antal</w>
+  <w>nya</w>
+  <w>flyktingar</w>
+  <w>,</w>
+  <w>prognosen</w>
+  <w>är</w>
+  <w>54</w>
+  <w>000</w>
+  <w>enligt</w>
+  <w>Migrationsverket</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Kommunansvariga</w>
+  <w>har</w>
+  <w>börjat</w>
+  <w>att</w>
+  <w>inse</w>
+  <w>problematiken</w>
+  <w>medans</w>
+  <absaspan id=5 senti=2>
+    <w>PK</w>
+    <w>-</w>
+    <w>"</w>
+    <w>Vi</w>
+    <w>gillar</w>
+    <w>olika</w>
+    <w>-</w>
+    <w>men</w>
+    <w>inte</w>
+    <w>hos</w>
+    <w>mig</w>
+    <w>"</w>
+    <w>-</w>
+    <w>eliten</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>föreslår</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>mer</w>
+    <w>invandring</w>
+  </absaspan>
+  <w>,</w>
+  <w>vissa</w>
+  <w>t.o.m</w>
+  <w>.</w>
+  <w>mer</w>
+  <w>eller</w>
+  <w>mindre</w>
+  <w>öppna</w>
+  <w>gränser</w>
+  <w>(</w>
+  <w>Mp</w>
+  <w>och</w>
+  <w>Centern</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,96 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Dom</w>
+  <w>:</w>
+  <w>Ett</w>
+  <w>flyktingbarn</w>
+  <w>är</w>
+  <w>barn</w>
+  <w>om</w>
+  <w>han</w>
+  <w>säger</w>
+  <w>det</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Är</w>
+  <w>det</w>
+  <w>inte</w>
+  <absaspan id=1 senti=2>
+    <w>skrämmande</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=2>
+    <w>Kammarrätten</w>
+    <w>tror</w>
+    <w>på</w>
+    <w>den</w>
+    <w>tilltalade</w>
+    <w>utan</w>
+    <w>att</w>
+    <w>göra</w>
+    <w>ingående</w>
+    <w>undersökningar</w>
+    <w>om</w>
+    <w>hans</w>
+    <w>verkliga</w>
+    <w>ålder</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Hur</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>få</w>
+  <w>tilltro</w>
+  <w>när</w>
+  <w>en</w>
+  <w>myndighet</w>
+  <w>som</w>
+  <absaspan id=3>
+    <w>Kammarrätten</w>
+  </absaspan>
+  <w>när</w>
+  <w>man</w>
+  <w>gör</w>
+  <w>den</w>
+  <w>här</w>
+  <w>bedömningen</w>
+  <absaspan id=4 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>Varför</w>
+  <w>kollas</w>
+  <w>inte</w>
+  <absaspan id=5>
+    <w>dom</w>
+    <w>som</w>
+    <w>kommer</w>
+    <w>hit</w>
+    <w>och</w>
+    <w>kallar</w>
+    <w>sig</w>
+    <w>flyktingbarn</w>
+  </absaspan>
+  <w>ordentligt</w>
+  <w>med</w>
+  <w>tandröntgen</w>
+  <w>mm</w>
+  <w>om</w>
+  <w>dom</w>
+  <w>nu</w>
+  <w>inte</w>
+  <w>har</w>
+  <w>riktiga</w>
+  <w>ID</w>
+  <w>handlingar</w>
+  <w>med</w>
+  <w>sig</w>
+  <w>?</w>
+  <absaspan id=6 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

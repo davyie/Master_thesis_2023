@@ -1,0 +1,245 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Kommer</w>
+  <w>debatten</w>
+  <w>skifta</w>
+  <w>när</w>
+  <w>etniska</w>
+  <w>svenskar</w>
+  <w>inom</w>
+  <w>ca</w>
+  <w>10</w>
+  <w>år</w>
+  <w>är</w>
+  <w>i</w>
+  <w>minoritet</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Kommer</w>
+  <w>debatten</w>
+  <w>gällande</w>
+  <w>invandringen</w>
+  <w>skifta</w>
+  <w>när</w>
+  <w>vi</w>
+  <w>etniska</w>
+  <w>svenskar</w>
+  <w>är</w>
+  <w>i</w>
+  <w>minoritet</w>
+  <w>inom</w>
+  <w>ca</w>
+  <w>10</w>
+  <w>år</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Kommer</w>
+  <w>vänstern</w>
+  <w>som</w>
+  <w>alltid</w>
+  <w>står</w>
+  <w>på</w>
+  <w>de</w>
+  <w>svagas</w>
+  <w>och</w>
+  <w>utsattas</w>
+  <w>sida</w>
+  <w>skifta</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Nej</w>
+  <w>,</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=2>
+  <w>Jag</w>
+  <w>tror</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>får</w>
+  <w>ett</w>
+  <w>scenario</w>
+  <w>där</w>
+  <w>invandrarna</w>
+  <w>tar</w>
+  <w>mer</w>
+  <w>och</w>
+  <w>mer</w>
+  <w>makt</w>
+  <w>i</w>
+  <w>samhället</w>
+  <w>politiskt</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Men</w>
+  <w>i</w>
+  <w>affärslivet</w>
+  <w>bibehålls</w>
+  <w>den</w>
+  <w>av</w>
+  <absaspan id=1>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>mindre</w>
+    <w>vit</w>
+    <w>,</w>
+    <w>etnisk</w>
+    <w>svensk</w>
+    <w>elit</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>skiter</w>
+    <w>totalt</w>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>gemene</w>
+    <w>svensk</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Gemene</w>
+  <w>svensk</w>
+  <w>som</w>
+  <w>lever</w>
+  <w>på</w>
+  <w>samhällets</w>
+  <w>botten</w>
+  <w>,</w>
+  <w>skuldsatta</w>
+  <w>för</w>
+  <w>resten</w>
+  <w>av</w>
+  <w>livet</w>
+  <w>efter</w>
+  <w>den</w>
+  <w>kraschade</w>
+  <w>bostadsbubblan</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Medelklassen</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>minne</w>
+  <w>blott</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Men</w>
+  <w>kan</w>
+  <w>vänstern</w>
+  <w>fortfarande</w>
+  <w>se</w>
+  <w>förbi</w>
+  <w>när</w>
+  <w>etniska</w>
+  <w>svenskar</w>
+  <w>kommer</w>
+  <w>få</w>
+  <w>det</w>
+  <w>svårt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Ja</w>
+  <w>,</w>
+  <w>för</w>
+  <absaspan id=6>
+    <w>den</w>
+    <w>vita</w>
+    <w>mannen</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>har</w>
+    <w>en</w>
+    <w>arvsynd</w>
+    <w>av</w>
+    <w>ondska</w>
+  </absaspan>
+  <w>mot</w>
+  <w>resten</w>
+  <w>av</w>
+  <w>världen</w>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=10>
+  <w>Även</w>
+  <w>om</w>
+  <w>han</w>
+  <w>eller</w>
+  <w>hon</w>
+  <w>letar</w>
+  <w>mat</w>
+  <w>bland</w>
+  <w>soporna</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Ja</w>
+  <w>,</w>
+  <w>för</w>
+  <w>Sverige</w>
+  <w>styrs</w>
+  <w>fortfarande</w>
+  <w>av</w>
+  <w>en</w>
+  <w>mindre</w>
+  <w>etnisk</w>
+  <w>svensk</w>
+  <w>affärselit</w>
+  <w>.</w>
+</absapar>
+<absapar id=12 senti=2>
+  <w>Det</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>förrän</w>
+  <w>invandrarna</w>
+  <w>har</w>
+  <w>allt</w>
+  <w>,</w>
+  <w>styr</w>
+  <w>allt</w>
+  <w>och</w>
+  <w>svenskar</w>
+  <w>är</w>
+  <w>borta</w>
+  <w>från</w>
+  <w>historien</w>
+  <w>,</w>
+  <w>som</w>
+  <w>det</w>
+  <w>förlovade</w>
+  <w>invandrarlandet</w>
+  <w>i</w>
+  <w>Norr</w>
+  <w>,</w>
+  <w>Blattestan</w>
+  <w>,</w>
+  <w>kan</w>
+  <w>förverkligas</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Vad</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,103 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=4 target=2>
+    <w>äntligen</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>vuxna</w>
+    <w>barn</w>
+    <w>skall</w>
+    <w>ålderstestas</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ja</w>
+  <w>regeringen</w>
+  <w>har</w>
+  <w>insett</w>
+  <w>att</w>
+  <absaspan id=3 senti=2>
+    <w>det</w>
+    <w>ej</w>
+    <w>är</w>
+    <w>bra</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=4>
+    <w>blanda</w>
+    <w>vuxna</w>
+    <w>och</w>
+    <w>barn</w>
+    <w>på</w>
+    <w>samma</w>
+    <w>boenden</w>
+  </absaspan>
+  <w>.</w>
+  <w>Orsakerna</w>
+  <w>är</w>
+  <w>många</w>
+  <w>och</w>
+  <w>i</w>
+  <w>vissa</w>
+  <w>fall</w>
+  <absaspan id=5 senti=2>
+    <w>har</w>
+    <w>det</w>
+    <w>lett</w>
+    <w>till</w>
+    <w>brottslighet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Ja</w>
+  <w>tilloch</w>
+  <w>med</w>
+  <w>mord</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>även</w>
+  <w>våldtäkter</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <absaspan id=6 senti=2>
+    <w>är</w>
+    <w>bara</w>
+    <w>ett</w>
+    <w>krux</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=7>
+    <w>detta</w>
+  </absaspan>
+  <w>.</w>
+  <w>Trumvirvel</w>
+  <w>,</w>
+  <w>det</w>
+  <absaspan id=8 senti=4>
+    <w>ska</w>
+    <w>vara</w>
+    <w>frivilligt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=9>
+    <w>genomgå</w>
+    <w>testet</w>
+  </absaspan>
+  <w>😊</w>
+  <w>hur</w>
+  <w>kommer</w>
+  <w>detta</w>
+  <w>påverka</w>
+  <w>integratinen</w>
+  <w>av</w>
+  <w>de</w>
+  <w>vuxna</w>
+  <w>barnen</w>
+  <w>?</w>
+  <absaspan id=10>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

@@ -1,0 +1,661 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Varningstexter</w>
+  <w>på</w>
+  <w>flyget</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>Sedan</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>ett</w>
+    <w>antal</w>
+    <w>år</w>
+    <w>måste</w>
+    <w>det</w>
+    <w>på</w>
+    <w>tobakspaket</w>
+    <w>anges</w>
+    <w>hälsoriskerna</w>
+  </absaspan>
+  <w>.</w>
+  <w>Man</w>
+  <w>kan</w>
+  <w>möjligen</w>
+  <w>tycka</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>det</w>
+  </absaspan>
+  <w>i</w>
+  <w>dag</w>
+  <absaspan id=4 senti=2>
+    <w>är</w>
+    <w>onödigt</w>
+  </absaspan>
+  <w>–</w>
+  <w>medvetenhet</w>
+  <w>härom</w>
+  <w>har</w>
+  <w>väl</w>
+  <w>nått</w>
+  <w>alla</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=5>
+    <w>principen</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>är</w>
+    <w>bra</w>
+  </absaspan>
+  <w>.</w>
+  <w>Även</w>
+  <w>om</w>
+  <w>man</w>
+  <w>känner</w>
+  <w>till</w>
+  <w>något</w>
+  <w>fordras</w>
+  <w>ofta</w>
+  <w>en</w>
+  <w>hel</w>
+  <w>del</w>
+  <w>tjat</w>
+  <w>för</w>
+  <w>att</w>
+  <w>den</w>
+  <w>rätta</w>
+  <w>insikten</w>
+  <w>skall</w>
+  <w>fastna</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Idag</w>
+  <w>vet</w>
+  <w>nog</w>
+  <w>alla</w>
+  <w>att</w>
+  <w>miljöhotet</w>
+  <w>måste</w>
+  <w>tas</w>
+  <w>på</w>
+  <w>stort</w>
+  <w>allvar</w>
+  <w>.</w>
+  <w>Någon</w>
+  <w>påtaglig</w>
+  <w>insiktsfullhet</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>utmärker</w>
+  <w>knappast</w>
+  <w>det</w>
+  <w>stora</w>
+  <w>flertal</w>
+  <w>som</w>
+  <absaspan id=7 senti=4>
+    <w>glatt</w>
+  </absaspan>
+  <w>och</w>
+  <w>ofta</w>
+  <absaspan id=8>
+    <w>använder</w>
+    <w>flyg</w>
+    <w>och</w>
+    <w>bil</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Förvisso</w>
+  <w>finns</w>
+  <w>ibland</w>
+  <absaspan id=10 senti=4>
+    <w>goda</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>skäl</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>miljöskadligt</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>resande</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>lika</w>
+  <w>ofta</w>
+  <w>eller</w>
+  <w>oftare</w>
+  <w>dominerar</w>
+  <w>nog</w>
+  <w>bekvämlighet</w>
+  <w>,</w>
+  <w>egoism</w>
+  <w>och</w>
+  <w>tanklöshet</w>
+  <absaspan id=14 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>I</w>
+  <w>massmedia</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>ofta</w>
+  <w>läsa</w>
+  <absaspan id=15 senti=4>
+    <w>glada</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>artiklar</w>
+    <w>som</w>
+    <w>uppmanar</w>
+    <w>folk</w>
+    <w>att</w>
+    <w>nyttja</w>
+    <w>låg</w>
+    <w>dollarkurs</w>
+    <w>,</w>
+    <w>flyga</w>
+    <w>till</w>
+    <w>New</w>
+    <w>York</w>
+    <w>och</w>
+    <w>shoppa</w>
+    <w>hej</w>
+    <w>vilt</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=18 senti=4>
+    <w>Fördelaktig</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>växlingskurs</w>
+  </absaspan>
+  <w>finansierar</w>
+  <w>turen</w>
+  <w>.</w>
+  <w>Förra</w>
+  <w>året</w>
+  <w>reste</w>
+  <w>374</w>
+  <w>000</w>
+  <w>svenskar</w>
+  <w>till</w>
+  <w>Thailand</w>
+  <w>.</w>
+  <w>Trendkänslighet</w>
+  <w>och</w>
+  <w>status</w>
+  <w>bidrar</w>
+  <w>nog</w>
+  <w>.</w>
+  <w>Varför</w>
+  <w>semestra</w>
+  <w>på</w>
+  <w>Gotland</w>
+  <w>om</w>
+  <w>man</w>
+  <w>kan</w>
+  <w>visa</w>
+  <w>sin</w>
+  <w>tjusighet</w>
+  <w>och</w>
+  <w>göra</w>
+  <w>grannarna</w>
+  <w>avundsjuka</w>
+  <w>genom</w>
+  <w>att</w>
+  <w>flyga</w>
+  <w>till</w>
+  <w>Bangkok</w>
+  <w>?</w>
+  <absaspan id=20 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <absaspan id=21 senti=4>
+    <w>Förhoppningsvis</w>
+  </absaspan>
+  <absaspan id=22 senti=2 irony>
+    <w>sätter</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>tillfälligtvis</w>
+    <w>ökade</w>
+    <w>bränslekostnader</w>
+    <w>–</w>
+    <w>och</w>
+    <w>med</w>
+    <w>tiden</w>
+    <w>kanske</w>
+    <w>rejält</w>
+    <w>höjda</w>
+    <w>miljöbetingade</w>
+    <w>skatter</w>
+    <w>och</w>
+    <w>avgifter</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>–</w>
+  </absaspan>
+  <absaspan id=25 senti=2 irony>
+    <w>vissa</w>
+  </absaspan>
+  <absaspan id=26 senti=2 irony>
+    <w>käppar</w>
+    <w>i</w>
+    <w>hjulet</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>för</w>
+    <w>sådana</w>
+  </absaspan>
+  <absaspan id=28 senti=2>
+    <w>ansvarslösa</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>nöjen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Frågan</w>
+  <w>är</w>
+  <w>dock</w>
+  <w>om</w>
+  <w>inte</w>
+  <w>företag</w>
+  <w>i</w>
+  <absaspan id=30 senti=2>
+    <w>miljöförstöringsbranschen</w>
+  </absaspan>
+  <w>–</w>
+  <absaspan id=31>
+    <w>biltillverkare</w>
+    <w>,</w>
+    <w>flygbolag</w>
+    <w>,</w>
+    <w>resebyråer</w>
+    <w>,</w>
+    <w>bensinförsäljare</w>
+    <w>med</w>
+    <w>mera</w>
+  </absaspan>
+  <w>–</w>
+  <w>borde</w>
+  <absaspan id=32 senti=2>
+    <w>tvingas</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>att</w>
+    <w>följa</w>
+    <w>tobaksproducenternas</w>
+    <w>öde</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=34>
+    <w>I</w>
+    <w>annonser</w>
+    <w>och</w>
+    <w>kanske</w>
+    <w>på</w>
+    <w>”</w>
+    <w>produkterna</w>
+    <w>”</w>
+    <w>(</w>
+    <w>till</w>
+    <w>exempel</w>
+    <w>flygplan</w>
+    <w>,</w>
+    <w>bilar</w>
+    <w>,</w>
+    <w>flygbiljetter</w>
+    <w>,</w>
+    <w>bilbesiktningsblanketter</w>
+    <w>,</w>
+    <w>bensinpumpar</w>
+    <w>)</w>
+    <w>kunde</w>
+  </absaspan>
+  <absaspan id=35 senti=4>
+    <w>med</w>
+    <w>fördel</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>saklig</w>
+    <w>information</w>
+    <w>om</w>
+    <w>miljöförstöringseffekterna</w>
+    <w>medtas</w>
+  </absaspan>
+  <w>.</w>
+  <w>Naturvårdsverket</w>
+  <w>eller</w>
+  <w>annan</w>
+  <w>myndighet</w>
+  <w>kunde</w>
+  <w>säkert</w>
+  <w>ta</w>
+  <w>fram</w>
+  <absaspan id=37 senti=4>
+    <w>lämplig</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>text</w>
+  </absaspan>
+  <w>och</w>
+  <w>exempelvis</w>
+  <w>fem</w>
+  <w>procent</w>
+  <w>av</w>
+  <w>utrymmet</w>
+  <w>i</w>
+  <w>reklam</w>
+  <w>reserveras</w>
+  <w>för</w>
+  <w>denna</w>
+  <w>information</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Miljöeffekten</w>
+  <w>av</w>
+  <w>full</w>
+  <w>tank</w>
+  <w>bensin</w>
+  <w>eller</w>
+  <w>en</w>
+  <w>flygresa</w>
+  <w>till</w>
+  <w>Mallorca</w>
+  <w>kan</w>
+  <w>exempelvis</w>
+  <w>anges</w>
+  <w>på</w>
+  <w>räkningen</w>
+  <w>från</w>
+  <w>bensinpumpen</w>
+  <w>eller</w>
+  <w>flygbiljetten</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Någon</w>
+  <w>kan</w>
+  <w>säkert</w>
+  <w>tycka</w>
+  <w>att</w>
+  <w>tobakens</w>
+  <w>hälsovådlighet</w>
+  <w>är</w>
+  <w>mera</w>
+  <w>direkt</w>
+  <w>och</w>
+  <w>påtaglig</w>
+  <w>för</w>
+  <w>individen</w>
+  <w>,</w>
+  <w>att</w>
+  <w>koldioxid</w>
+  <w>inte</w>
+  <w>verkar</w>
+  <w>på</w>
+  <w>samma</w>
+  <w>sätt</w>
+  <w>och</w>
+  <w>att</w>
+  <w>man</w>
+  <w>därför</w>
+  <w>inte</w>
+  <w>skall</w>
+  <w>ge</w>
+  <w>utsläppare</w>
+  <w>av</w>
+  <w>det</w>
+  <w>senare</w>
+  <w>skuldkänslor</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>att</w>
+  <w>bensin</w>
+  <w>-</w>
+  <w>och</w>
+  <w>flygfotogenförbrukning</w>
+  <w>drabbar</w>
+  <w>mera</w>
+  <w>spritt</w>
+  <w>och</w>
+  <w>indirekt</w>
+  <absaspan id=39 senti=4>
+    <w>motiverar</w>
+    <w>än</w>
+    <w>mera</w>
+  </absaspan>
+  <absaspan id=40>
+    <w>att</w>
+    <w>den</w>
+    <w>som</w>
+    <w>skapar</w>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=41 senti=2>
+    <w>olyckliga</w>
+  </absaspan>
+  <absaspan id=42>
+    <w>effekterna</w>
+  </absaspan>
+  <absaspan id=43>
+    <w>konfronteras</w>
+    <w>med</w>
+    <w>detta</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Den</w>
+  <w>som</w>
+  <w>förförs</w>
+  <w>av</w>
+  <w>en</w>
+  <w>bil</w>
+  <w>-</w>
+  <w>eller</w>
+  <w>flygreseannons</w>
+  <w>tänker</w>
+  <w>knappast</w>
+  <w>så</w>
+  <w>mycket</w>
+  <w>på</w>
+  <w>miljöaspekten</w>
+  <absaspan id=44 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=11>
+  <w>Effekterna</w>
+  <w>av</w>
+  <w>information</w>
+  <w>ska</w>
+  <w>inte</w>
+  <w>överskattas</w>
+  <w>,</w>
+  <w>och</w>
+  <w>föreslagen</w>
+  <w>åtgärd</w>
+  <w>minskar</w>
+  <w>ej</w>
+  <w>behovet</w>
+  <w>av</w>
+  <w>starka</w>
+  <w>ekonomiska</w>
+  <w>styrmedel</w>
+  <w>.</w>
+  <w>Lite</w>
+  <w>motvikt</w>
+  <w>till</w>
+  <w>den</w>
+  <absaspan id=45 senti=1>
+    <w>ha-kul-och-tänk-bara-på-dig-själv-mentalitet</w>
+  </absaspan>
+  <w>som</w>
+  <w>utmärker</w>
+  <w>vår</w>
+  <w>kultur</w>
+  <w>kan</w>
+  <w>dock</w>
+  <w>åstadkommas</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Och</w>
+  <w>kanske</w>
+  <w>skulle</w>
+  <absaspan id=46 senti=2>
+    <w>miljöförstöringsbranschens</w>
+  </absaspan>
+  <w>aktörer</w>
+  <w>hålla</w>
+  <w>igen</w>
+  <w>lite</w>
+  <w>på</w>
+  <w>propagerandet</w>
+  <w>om</w>
+  <w>man</w>
+  <w>tvingades</w>
+  <w>påminna</w>
+  <w>om</w>
+  <w>vad</w>
+  <w>man</w>
+  <w>ställer</w>
+  <w>till</w>
+  <w>med</w>
+  <absaspan id=47 senti=4>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=13>
+  <w>Miljöfrågorna</w>
+  <w>kräver</w>
+  <w>medvetenhet</w>
+  <w>.</w>
+  <absaspan id=48>
+    <w>Att</w>
+    <w>ständigt</w>
+    <w>påtala</w>
+  </absaspan>
+  <absaspan id=49>
+    <w>att</w>
+    <w>flyga</w>
+    <w>och</w>
+    <w>köra</w>
+    <w>bil</w>
+  </absaspan>
+  <absaspan id=50 senti=2>
+    <w>är</w>
+    <w>planetförstörande</w>
+  </absaspan>
+  <absaspan id=51>
+    <w>aktiviteter</w>
+  </absaspan>
+  <absaspan id=52 senti=4>
+    <w>kan</w>
+    <w>öka</w>
+    <w>eftertänksamheten</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <absaspan id=53 senti=3>
+    <w>Visst</w>
+  </absaspan>
+  <absaspan id=54>
+    <w>minskat</w>
+  </absaspan>
+  <absaspan id=55 senti=2>
+    <w>onödighetsresande</w>
+  </absaspan>
+  <absaspan id=56>
+    <w>kanske</w>
+    <w>kan</w>
+    <w>åstadkommas</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>också</w>
+  <w>en</w>
+  <w>ökad</w>
+  <w>förståelse</w>
+  <w>för</w>
+  <w>de</w>
+  <absaspan id=57>
+    <w>kraftiga</w>
+    <w>skatter</w>
+  </absaspan>
+  <w>som</w>
+  <w>nog</w>
+  <w>de</w>
+  <w>flesta</w>
+  <w>snart</w>
+  <w>inser</w>
+  <absaspan id=58 senti=4>
+    <w>är</w>
+    <w>nödvändiga</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=59 senti=2>
+    <w>motverka</w>
+  </absaspan>
+  <absaspan id=60 senti=1>
+    <w>hotande</w>
+  </absaspan>
+  <absaspan id=61>
+    <w>miljökatastrofer</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>Dagens</w>
+  <w>debattör</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>Mats</w>
+  <w>Alvesson</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>51</w>
+  <w>år</w>
+  <w>,</w>
+  <w>professor</w>
+  <w>,</w>
+  <w>Lunds</w>
+  <w>universitet</w>
+  <w>.</w>
+</absapar>
+</absadoc>

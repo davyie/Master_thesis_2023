@@ -1,0 +1,365 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Skyddet</w>
+    <w>av</w>
+    <w>politiker</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>behöver</w>
+    <w>bredare</w>
+    <w>översyn</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Yttrandefriheten</w>
+  <w>gäller</w>
+  <w>oss</w>
+  <w>alla</w>
+  <w>och</w>
+  <absaspan id=3>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>tycker</w>
+  </absaspan>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=5 senti=2>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>viktigt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=7>
+    <w>alla</w>
+    <w>angrepp</w>
+    <w>på</w>
+    <w>politiker</w>
+    <w>,</w>
+    <w>däribland</w>
+    <w>SD-politiker</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=8 senti=2>
+    <w>möts</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>av</w>
+    <w>fördömanden</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=10>
+    <w>Miljöpartiet</w>
+  </absaspan>
+  <w>driver</w>
+  <w>att</w>
+  <w>en</w>
+  <absaspan id=11>
+    <w>bred</w>
+    <w>översyn</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>bör</w>
+    <w>göras</w>
+  </absaspan>
+  <w>om</w>
+  <w>skyddet</w>
+  <w>för</w>
+  <w>politiker</w>
+  <w>,</w>
+  <w>där</w>
+  <w>en</w>
+  <w>av</w>
+  <w>sakerna</w>
+  <w>som</w>
+  <w>kan</w>
+  <absaspan id=13 senti=3>
+    <w>övervägas</w>
+  </absaspan>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=14>
+    <w>brott</w>
+    <w>mot</w>
+    <w>politiker</w>
+    <w>ska</w>
+    <w>likställas</w>
+    <w>med</w>
+    <w>dagens</w>
+    <w>lagstiftning</w>
+    <w>om</w>
+    <w>brott</w>
+    <w>mot</w>
+    <w>tjänsteman</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>För</w>
+  <w>att</w>
+  <absaspan id=16 senti=4>
+    <w>värna</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>det</w>
+    <w>demokratiska</w>
+    <w>samtalet</w>
+  </absaspan>
+  <w>är</w>
+  <w>dock</w>
+  <w>det</w>
+  <w>viktigaste</w>
+  <w>att</w>
+  <absaspan id=18 senti=4>
+    <w>främja</w>
+  </absaspan>
+  <w>en</w>
+  <absaspan id=19>
+    <w>samhällsutveckling</w>
+    <w>där</w>
+    <w>människor</w>
+    <w>som</w>
+    <w>uttrycker</w>
+    <w>sin</w>
+    <w>åsikt</w>
+    <w>inte</w>
+    <w>hotas</w>
+    <w>eller</w>
+    <w>trakasseras</w>
+    <w>.</w>
+  </absaspan>
+  <w>Ett</w>
+  <absaspan id=20 senti=1>
+    <w>stort</w>
+    <w>hot</w>
+    <w>mot</w>
+    <w>demokratin</w>
+  </absaspan>
+  <w>är</w>
+  <w>de</w>
+  <absaspan id=21>
+    <w>eskalerande</w>
+    <w>attackerna</w>
+    <w>mot</w>
+    <w>antirasister</w>
+  </absaspan>
+  <w>och</w>
+  <w>de</w>
+  <absaspan id=22 senti=1>
+    <w>hatbrott</w>
+  </absaspan>
+  <w>som</w>
+  <w>sker</w>
+  <w>i</w>
+  <w>kölvattnet</w>
+  <w>av</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>Sverigedemokraternas</w>
+  <w>och</w>
+  <w>den</w>
+  <w>av</w>
+  <w>Kent</w>
+  <w>Ekeroth</w>
+  <w>finansierade</w>
+  <w>sajten</w>
+  <absaspan id=23>
+    <w>Avpixlats</w>
+  </absaspan>
+  <absaspan id=24 senti=1>
+    <w>hatretorik</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Några</w>
+  <w>aktuella</w>
+  <w>exempel</w>
+  <w>på</w>
+  <w>attacker</w>
+  <w>mot</w>
+  <w>det</w>
+  <w>demokratiska</w>
+  <w>samtalet</w>
+  <w>är</w>
+  <w>hur</w>
+  <w>den</w>
+  <w>antirasistiska</w>
+  <w>sajten</w>
+  <w>”</w>
+  <w>Inte</w>
+  <w>rasist</w>
+  <w>,</w>
+  <w>men</w>
+  <w>”</w>
+  <w>i</w>
+  <w>dagarna</w>
+  <w>utsattes</w>
+  <w>för</w>
+  <w>överbelastningsattacker</w>
+  <w>i</w>
+  <w>samband</w>
+  <w>med</w>
+  <w>att</w>
+  <w>de</w>
+  <w>skrivit</w>
+  <w>en</w>
+  <w>granskande</w>
+  <w>text</w>
+  <w>om</w>
+  <w>just</w>
+  <w>Björn</w>
+  <w>Söder</w>
+  <w>.</w>
+  <w>När</w>
+  <absaspan id=25>
+    <w>Carolina</w>
+    <w>Farraj</w>
+    <w>Moberg</w>
+  </absaspan>
+  <w>skrev</w>
+  <w>ett</w>
+  <w>öppet</w>
+  <w>brev</w>
+  <w>till</w>
+  <w>Jimmie</w>
+  <w>Åkesson</w>
+  <w>om</w>
+  <w>hur</w>
+  <w>hon</w>
+  <w>som</w>
+  <w>muslimsk</w>
+  <w>kvinna</w>
+  <w>blir</w>
+  <w>attackerad</w>
+  <w>av</w>
+  <w>rasister</w>
+  <absaspan id=26 senti=2>
+    <w>fick</w>
+  </absaspan>
+  <w>hon</w>
+  <absaspan id=27 senti=2>
+    <w>utstå</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>hatmejl</w>
+    <w>,</w>
+    <w>telefonsamtal</w>
+    <w>och</w>
+    <w>att</w>
+    <w>hängas</w>
+    <w>ut</w>
+    <w>på</w>
+    <w>hatbloggar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Detta</w>
+  <w>är</w>
+  <absaspan id=29>
+    <w>två</w>
+    <w>exempel</w>
+  </absaspan>
+  <w>på</w>
+  <absaspan id=30 senti=1>
+    <w>grova</w>
+    <w>övergrepp</w>
+    <w>på</w>
+    <w>demokratin</w>
+  </absaspan>
+  <w>och</w>
+  <w>yttrandefriheten</w>
+  <w>som</w>
+  <absaspan id=31 senti=2>
+    <w>kräver</w>
+  </absaspan>
+  <w>en</w>
+  <absaspan id=32>
+    <w>helt</w>
+    <w>annan</w>
+    <w>politik</w>
+    <w>än</w>
+    <w>att</w>
+    <w>enbart</w>
+    <w>straffskärpa</w>
+    <w>brott</w>
+    <w>mot</w>
+    <w>politiker</w>
+  </absaspan>
+  <w>.</w>
+  <w>När</w>
+  <absaspan id=33>
+    <w>Sverigedemokraterna</w>
+  </absaspan>
+  <w>ensidigt</w>
+  <absaspan id=34 senti=4>
+    <w>föreslår</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>straffskärpning</w>
+  </absaspan>
+  <w>för</w>
+  <w>de</w>
+  <w>dåd</w>
+  <w>som</w>
+  <w>riktas</w>
+  <w>mot</w>
+  <w>de</w>
+  <w>själva</w>
+  <absaspan id=36 senti=4>
+    <w>vore</w>
+    <w>det</w>
+    <w>klädsamt</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=37>
+    <w>de</w>
+    <w>också</w>
+    <w>tog</w>
+    <w>avstånd</w>
+    <w>från</w>
+    <w>de</w>
+    <w>dåd</w>
+    <w>som</w>
+    <w>riktas</w>
+    <w>mot</w>
+    <w>deras</w>
+    <w>meningsmotståndare</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Maria</w>
+  <w>Ferm</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>riksdagsledamot</w>
+  <w>(</w>
+  <w>MP</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Anders</w>
+  <w>Wallner</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>partisekreterare</w>
+  <w>(</w>
+  <w>MP</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+</absadoc>

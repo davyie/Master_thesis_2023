@@ -1,0 +1,148 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=2 senti=4 source=1 target=3>
+    <w>välkomnar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>asylsökande</w>
+  </absaspan>
+  <w>trots</w>
+  <w>att</w>
+  <w>de</w>
+  <w>utgör</w>
+  <w>en</w>
+  <w>säkerhetsrisk</w>
+  <w>enligt</w>
+  <w>SÄPO</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Ja</w>
+  <w>,</w>
+  <w>ni</w>
+  <w>läste</w>
+  <w>rätt</w>
+  <w>.</w>
+  <w>Trots</w>
+  <w>att</w>
+  <absaspan id=4>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>asylsökande</w>
+  </absaspan>
+  <w>utgör</w>
+  <w>en</w>
+  <w>säkerhetsrisk</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>och</w>
+  <w>har</w>
+  <w>kopplingar</w>
+  <w>till</w>
+  <w>terrornätverk</w>
+  <w>samt</w>
+  <w>begått</w>
+  <w>krigsbrott</w>
+  <w>så</w>
+  <absaspan id=6 senti=4>
+    <w>välkomnas</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>de</w>
+  </absaspan>
+  <w>i</w>
+  <w>Sverige</w>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2 senti=2>
+  <absaspan id=9 senti=3>
+    <w>Skit</w>
+    <w>samma</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>vad</w>
+    <w>du</w>
+    <w>har</w>
+    <w>begått</w>
+  </absaspan>
+  <w>,</w>
+  <w>säg</w>
+  <w>bara</w>
+  <w>att</w>
+  <absaspan id=11>
+    <w>du</w>
+  </absaspan>
+  <absaspan id=12 senti=1>
+    <w>är</w>
+    <w>rädd</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>att</w>
+    <w>dödas</w>
+  </absaspan>
+  <w>så</w>
+  <absaspan id=14 senti=5>
+    <w>välkomnas</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>du</w>
+  </absaspan>
+  <absaspan id=16 senti=5>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=17 senti=5>
+    <w>öppna</w>
+    <w>armar</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>.</w>
+  </absaspan>
+  <w>Sverige</w>
+  <w>måste</w>
+  <w>våga</w>
+  <w>säga</w>
+  <w>stopp</w>
+  <w>,</w>
+  <absaspan id=19 senti=2>
+    <w>det</w>
+    <w>är</w>
+    <w>inte</w>
+    <w>vårt</w>
+    <w>ansvar</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>om</w>
+    <w>de</w>
+    <w>dödas</w>
+    <w>i</w>
+    <w>sina</w>
+    <w>hemländer</w>
+    <w>för</w>
+    <w>handlingarna</w>
+    <w>de</w>
+    <w>begått</w>
+    <w>där</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=1>
+  <absaspan id=21>
+    <w>Det</w>
+    <w>här</w>
+  </absaspan>
+  <w>är</w>
+  <w>ju</w>
+  <absaspan id=22 senti=1>
+    <w>fullständigt</w>
+    <w>absurt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

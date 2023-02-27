@@ -1,0 +1,81 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>1,2</w>
+  <w>miljoner</w>
+  <w>arbetslösa</w>
+  <w>,</w>
+  <w>behöver</w>
+  <w>vi</w>
+  <absaspan id=1>
+    <w>ännu</w>
+    <w>mer</w>
+    <w>liberal</w>
+    <w>invandrings</w>
+    <w>/</w>
+    <w>flyktingpolitik</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Vore</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>en</w>
+  <w>tanke</w>
+  <w>att</w>
+  <w>se</w>
+  <w>till</w>
+  <w>att</w>
+  <w>de</w>
+  <w>här</w>
+  <w>1200</w>
+  <w>000</w>
+  <absaspan id=3 senti=2>
+    <w>lirarna</w>
+  </absaspan>
+  <w>utbildar</w>
+  <w>sig</w>
+  <w>så</w>
+  <w>de</w>
+  <w>kan</w>
+  <w>ta</w>
+  <w>det</w>
+  <w>jobb</w>
+  <w>som</w>
+  <w>finns</w>
+  <w>på</w>
+  <w>marknaden</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>I</w>
+  <w>veckan</w>
+  <w>fick</w>
+  <w>vi</w>
+  <w>btw</w>
+  <absaspan id=4 senti=2 irony>
+    <w>glädjebeskedet</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=5>
+    <w>den</w>
+    <w>somaliska</w>
+    <w>invandringen</w>
+    <w>kommer</w>
+    <w>öka</w>
+    <w>kraftigt</w>
+  </absaspan>
+  <w>from</w>
+  <w>sommaren</w>
+  <w>nästa</w>
+  <w>år</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,105 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Varför</w>
+  <w>bryr</w>
+  <w>vi</w>
+  <w>oss</w>
+  <w>så</w>
+  <w>mycket</w>
+  <w>om</w>
+  <w>när</w>
+  <w>terrordåd</w>
+  <w>sker</w>
+  <w>i</w>
+  <w>Paris</w>
+  <w>men</w>
+  <w>inte</w>
+  <w>i</w>
+  <w>Syrien</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Ja</w>
+  <w>hur</w>
+  <w>kommer</w>
+  <w>det</w>
+  <w>sig</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>vi</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>känner</w>
+    <w>mycket</w>
+    <w>större</w>
+    <w>sorg</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>när</w>
+    <w>120</w>
+    <w>dödas</w>
+    <w>i</w>
+    <w>Paris</w>
+  </absaspan>
+  <w>medans</w>
+  <w>dödsfallen</w>
+  <w>i</w>
+  <w>Syrien</w>
+  <w>eller</w>
+  <w>andra</w>
+  <w>länder</w>
+  <w>i</w>
+  <w>mellanöstern</w>
+  <w>stiger</w>
+  <w>över</w>
+  <w>detta</w>
+  <w>varje</w>
+  <w>dag</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Själv</w>
+  <absaspan id=4 senti=2>
+    <w>känner</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>en</w>
+    <w>otrolig</w>
+    <w>ilska</w>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>det</w>
+    <w>som</w>
+    <w>hänt</w>
+    <w>i</w>
+    <w>Paris</w>
+    <w>och</w>
+    <w>de</w>
+    <w>idioter</w>
+    <w>som</w>
+    <w>genomfört</w>
+    <w>det</w>
+  </absaspan>
+  <w>men</w>
+  <w>vill</w>
+  <w>ha</w>
+  <w>en</w>
+  <w>logisk</w>
+  <w>förklaring</w>
+  <w>eller</w>
+  <w>argument</w>
+  <w>som</w>
+  <w>kan</w>
+  <w>berättiga</w>
+  <w>mina</w>
+  <w>känslor</w>
+  <w>.</w>
+</absapar>
+</absadoc>

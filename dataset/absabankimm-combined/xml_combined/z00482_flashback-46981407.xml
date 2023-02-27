@@ -1,0 +1,62 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Nu</w>
+  <w>bestämmer</w>
+  <w>Migrationsverket</w>
+  <w>vem</w>
+  <w>som</w>
+  <w>skall</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>ensamkommande</w>
+  <absaspan id=1>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Är</w>
+  <absaspan id=2>
+    <w>detta</w>
+  </absaspan>
+  <absaspan id=3 senti=4>
+    <w>rätt</w>
+    <w>väg</w>
+    <w>att</w>
+    <w>gå</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Nästa</w>
+  <w>steg</w>
+  <w>bör</w>
+  <w>i</w>
+  <w>så</w>
+  <w>fall</w>
+  <w>vara</w>
+  <w>att</w>
+  <w>medborgarna</w>
+  <w>tar</w>
+  <w>emot</w>
+  <w>ett</w>
+  <w>barn</w>
+  <w>i</w>
+  <w>sitt</w>
+  <w>hem</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>kan</w>
+  <w>göras</w>
+  <w>med</w>
+  <w>tvingande</w>
+  <w>lagstiftning</w>
+  <w>,</w>
+  <w>en</w>
+  <w>logisk</w>
+  <w>fortsättning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

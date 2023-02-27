@@ -1,0 +1,78 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Tråden</w>
+  <w>om</w>
+  <absaspan id=1>
+    <w>Bernie</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Sanders</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ser</w>
+  <w>många</w>
+  <w>svenskar</w>
+  <w>i</w>
+  <w>sociala</w>
+  <w>medier</w>
+  <w>som</w>
+  <w>säger</w>
+  <w>att</w>
+  <w>de</w>
+  <w>kan</w>
+  <w>också</w>
+  <w>känna</w>
+  <w>samma</w>
+  <w>sak</w>
+  <w>som</w>
+  <w>en</w>
+  <w>del</w>
+  <w>amerikaner</w>
+  <w>.</w>
+  <w>"</w>
+  <w>Feel</w>
+  <w>The</w>
+  <w>Bern</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>är</w>
+  <w>det</w>
+  <w>med</w>
+  <absaspan id=3>
+    <w>den</w>
+    <w>gamla</w>
+    <w>amerikanska</w>
+    <w>Sossen</w>
+  </absaspan>
+  <w>som</w>
+  <w>gör</w>
+  <w>honom</w>
+  <absaspan id=4 senti=5>
+    <w>så</w>
+    <w>populär</w>
+  </absaspan>
+  <w>bland</w>
+  <w>så</w>
+  <absaspan id=5>
+    <w>många</w>
+    <w>svenskar</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Har</w>
+  <w>ni</w>
+  <w>också</w>
+  <w>märkt</w>
+  <w>samma</w>
+  <w>trend</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

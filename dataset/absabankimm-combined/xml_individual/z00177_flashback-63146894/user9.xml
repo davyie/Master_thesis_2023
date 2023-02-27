@@ -1,0 +1,99 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>"</w>
+  <w>IKEA</w>
+  <w>är</w>
+  <w>rasister</w>
+  <w>"</w>
+  <w>.</w>
+  <w>Fernando</w>
+  <w>fick</w>
+  <w>inte</w>
+  <w>reklamjobbet</w>
+  <w>för</w>
+  <w>att</w>
+  <w>han</w>
+  <w>är</w>
+  <w>svart</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>SVT</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>gör</w>
+    <w>ett</w>
+    <w>nytt</w>
+    <w>lågvattenmärke</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=3>
+    <w>Att</w>
+    <w>få</w>
+    <w>detta</w>
+    <w>till</w>
+    <w>att</w>
+    <w>handla</w>
+    <w>om</w>
+    <w>rasism</w>
+    <w>eller</w>
+    <w>diskriminering</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>är</w>
+    <w>skrattretande</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>reklambranschen</w>
+  <w>söker</w>
+  <w>man</w>
+  <w>folk</w>
+  <w>med</w>
+  <w>olika</w>
+  <w>utseende</w>
+  <w>och</w>
+  <w>ursprung</w>
+  <w>hela</w>
+  <w>dagarna</w>
+  <w>!</w>
+  <w>I</w>
+  <w>casting-annonser</w>
+  <w>anges</w>
+  <w>alltid</w>
+  <w>vilket</w>
+  <w>utseende</w>
+  <w>och</w>
+  <w>ålder</w>
+  <w>som</w>
+  <w>efterfrågas</w>
+  <w>(</w>
+  <w>kön</w>
+  <w>,</w>
+  <w>hudfärg</w>
+  <w>,</w>
+  <w>längd</w>
+  <w>osv</w>
+  <w>.</w>
+  <w>.</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=5>
+    <w>SVT</w>
+    <w>och</w>
+    <w>deras</w>
+    <w>"</w>
+    <w>journalister</w>
+  </absaspan>
+  <w>"</w>
+  <w>alltså</w>
+  <absaspan id=6 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

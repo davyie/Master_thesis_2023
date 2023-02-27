@@ -1,0 +1,134 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>SL</w>
+    <w>:</w>
+    <w>s</w>
+    <w>trygghetsvärdar</w>
+  </absaspan>
+  <absaspan id=2 senti=1 target=3 source=1>
+    <w>vägrar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>skaka</w>
+    <w>hand</w>
+    <w>med</w>
+    <w>kvinnliga</w>
+    <w>poliser</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Nu</w>
+  <w>verkar</w>
+  <w>det</w>
+  <w>som</w>
+  <w>att</w>
+  <w>en</w>
+  <w>ny</w>
+  <w>handskakningskonflikt</w>
+  <w>är</w>
+  <w>på</w>
+  <w>gång</w>
+  <w>,</w>
+  <w>denna</w>
+  <w>gång</w>
+  <w>i</w>
+  <w>Stockholms</w>
+  <w>lokaltrafik</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Yttre</w>
+  <w>befäl</w>
+  <w>på</w>
+  <w>Södermalm</w>
+  <w>twittrar</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=4>
+    <w>Kristoffer</w>
+    <w>Tamsons</w>
+    <w>(</w>
+    <w>m</w>
+    <w>)</w>
+    <w>,</w>
+    <w>trafikborgarråd</w>
+  </absaspan>
+  <w>,</w>
+  <w>svarar</w>
+  <w>snabbt</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=5>
+    <w>Det</w>
+  </absaspan>
+  <w>var</w>
+  <absaspan id=6 senti=2>
+    <w>ord</w>
+    <w>och</w>
+    <w>inga</w>
+    <w>visor</w>
+  </absaspan>
+  <w>.</w>
+  <w>Betyder</w>
+  <w>det</w>
+  <w>här</w>
+  <absaspan id=7>
+    <w>att</w>
+    <w>dagarna</w>
+    <w>när</w>
+    <w>det</w>
+    <w>gick</w>
+    <w>att</w>
+    <w>tjäna</w>
+    <w>tiotusentals</w>
+    <w>kronor</w>
+    <w>på</w>
+    <w>att</w>
+    <w>vägra</w>
+    <w>skaka</w>
+    <w>hand</w>
+    <w>med</w>
+    <w>motsatta</w>
+    <w>könet</w>
+    <w>och</w>
+    <w>sedan</w>
+    <w>anmäla</w>
+    <w>till</w>
+    <w>DO</w>
+  </absaspan>
+  <absaspan id=8 senti=2 irony>
+    <w>är</w>
+    <w>över</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Har</w>
+  <w>någon</w>
+  <w>här</w>
+  <w>koll</w>
+  <w>på</w>
+  <w>vilka</w>
+  <w>trygghetsvärdarna</w>
+  <w>är</w>
+  <w>,</w>
+  <w>var</w>
+  <w>de</w>
+  <w>rekryteras</w>
+  <w>och</w>
+  <w>vad</w>
+  <w>de</w>
+  <w>gör</w>
+  <w>?</w>
+  <absaspan id=9 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

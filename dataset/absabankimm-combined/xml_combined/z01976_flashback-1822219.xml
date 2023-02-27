@@ -1,0 +1,273 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <absaspan id=1>
+    <w>Äldreomsorgen</w>
+  </absaspan>
+  <absaspan id=2 senti=2 source=3 target=1>
+    <w>accepterar</w>
+  </absaspan>
+  <absaspan id=3 senti=2 target=1>
+    <w>främlingsfientlighet</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>På</w>
+  <w>Expressen.se</w>
+  <w>finns</w>
+  <w>en</w>
+  <w>artikel</w>
+  <w>som</w>
+  <w>gör</w>
+  <w>gällande</w>
+  <w>att</w>
+  <absaspan id=4 senti=1>
+    <w>främlingsfientlighet</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>accepteras</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>inom</w>
+    <w>äldereomsorgen</w>
+  </absaspan>
+  <w>,</w>
+  <w>eller</w>
+  <w>"</w>
+  <absaspan id=7 senti=1>
+    <w>rasism</w>
+  </absaspan>
+  <w>"</w>
+  <w>som</w>
+  <absaspan id=8>
+    <w>Expressen</w>
+  </absaspan>
+  <w>väljer</w>
+  <w>att</w>
+  <w>uttrycka</w>
+  <w>det</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Radioprogrammet</w>
+  <w>"</w>
+  <w>Front</w>
+  <w>ringde</w>
+  <w>till</w>
+  <w>20</w>
+  <w>ålderdomshem</w>
+  <w>och</w>
+  <w>hemtjänstenheter</w>
+  <w>och</w>
+  <w>frågade</w>
+  <w>om</w>
+  <w>de</w>
+  <w>accepterar</w>
+  <w>sådana</w>
+  <w>önskemål</w>
+  <w>från</w>
+  <w>patienterna</w>
+  <w>.</w>
+  <w>Programmets</w>
+  <w>reportrar</w>
+  <w>uppgav</w>
+  <w>sig</w>
+  <w>vara</w>
+  <w>anhöriga</w>
+  <w>till</w>
+  <w>släktingar</w>
+  <w>som</w>
+  <w>behövde</w>
+  <w>äldreomsorg</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Endast</w>
+  <w>fyra</w>
+  <w>av</w>
+  <w>de</w>
+  <w>tillfrågade</w>
+  <w>vägrade</w>
+  <w>gå</w>
+  <w>med</w>
+  <w>på</w>
+  <w>önskemålet</w>
+  <w>.</w>
+  <w>De</w>
+  <w>övriga</w>
+  <w>16</w>
+  <w>svarade</w>
+  <w>att</w>
+  <w>det</w>
+  <w>principiellt</w>
+  <w>inte</w>
+  <w>var</w>
+  <w>något</w>
+  <w>problem</w>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>En</w>
+  <w>enhetschef</w>
+  <w>säger</w>
+  <w>att</w>
+  <w>de</w>
+  <w>är</w>
+  <w>en</w>
+  <w>slags</w>
+  <w>kunder</w>
+  <w>och</w>
+  <w>då</w>
+  <w>måste</w>
+  <w>vi</w>
+  <w>ta</w>
+  <w>hänsyn</w>
+  <w>till</w>
+  <w>deras</w>
+  <w>önskemål</w>
+  <w>.</w>
+  <w>Själv</w>
+  <w>har</w>
+  <w>jag</w>
+  <w>en</w>
+  <w>väninna</w>
+  <w>som</w>
+  <w>jobbar</w>
+  <w>inom</w>
+  <w>hemtjänsten</w>
+  <w>,</w>
+  <w>som</w>
+  <w>tidigare</w>
+  <w>berättat</w>
+  <w>att</w>
+  <absaspan id=9>
+    <w>några</w>
+    <w>äldre</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>inte</w>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>att</w>
+    <w>mörkhyade</w>
+    <w>invandrare</w>
+    <w>ska</w>
+    <w>jobba</w>
+    <w>med</w>
+    <w>dem</w>
+  </absaspan>
+  <w>och</w>
+  <w>att</w>
+  <absaspan id=12>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=13 senti=4 irony>
+    <w>försökt</w>
+    <w>lösa</w>
+    <w>detta</w>
+    <w>på</w>
+    <w>ett</w>
+    <w>"</w>
+    <w>smidigt</w>
+    <w>"</w>
+    <w>sätt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>.</w>
+  <w>-</w>
+  <w>Är</w>
+  <w>det</w>
+  <absaspan id=14 senti=4>
+    <w>rätt</w>
+  </absaspan>
+  <w>eller</w>
+  <absaspan id=15 senti=2>
+    <w>fel</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>att</w>
+    <w>man</w>
+    <w>kan</w>
+    <w>välja</w>
+    <w>att</w>
+    <w>inte</w>
+    <w>bli</w>
+    <w>vårdad</w>
+    <w>av</w>
+    <w>mörkhyade</w>
+    <w>p.g.a</w>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=17 senti=1>
+    <w>främlingsfientlighet</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>?</w>
+  </absaspan>
+  <w>Å</w>
+  <w>ena</w>
+  <w>sidan</w>
+  <w>kan</w>
+  <w>det</w>
+  <w>tyckas</w>
+  <w>vara</w>
+  <w>en</w>
+  <w>rättighet</w>
+  <w>att</w>
+  <w>få</w>
+  <absaspan id=19 senti=2>
+    <w>välja</w>
+    <w>bort</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>dem</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>man</w>
+  </absaspan>
+  <absaspan id=22 senti=2>
+    <w>inte</w>
+    <w>vill</w>
+    <w>ha</w>
+  </absaspan>
+  <w>,</w>
+  <w>å</w>
+  <w>andra</w>
+  <w>sidan</w>
+  <w>kostar</w>
+  <w>detta</w>
+  <w>troligen</w>
+  <w>kommunen</w>
+  <w>lite</w>
+  <w>extrapengar</w>
+  <w>när</w>
+  <w>det</w>
+  <w>måste</w>
+  <w>trixas</w>
+  <w>med</w>
+  <w>scheman</w>
+  <w>för</w>
+  <w>att</w>
+  <w>alla</w>
+  <w>inte</w>
+  <w>kan</w>
+  <w>jobba</w>
+  <w>med</w>
+  <w>en</w>
+  <w>viss</w>
+  <w>omsorgstagare</w>
+  <w>.</w>
+  <w>Ska</w>
+  <w>vi</w>
+  <w>acceptera</w>
+  <w>detta</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

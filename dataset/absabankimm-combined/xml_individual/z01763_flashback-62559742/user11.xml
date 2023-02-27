@@ -1,0 +1,72 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Rinkeby</w>
+  <w>is</w>
+  <w>a</w>
+  <w>war</w>
+  <w>zone</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Nu</w>
+  <w>har</w>
+  <w>återigen</w>
+  <w>världspressen</w>
+  <w>fått</w>
+  <w>upp</w>
+  <w>ögonen</w>
+  <w>för</w>
+  <w>Sverige</w>
+  <w>,</w>
+  <w>efter</w>
+  <w>Lise</w>
+  <w>Tamms</w>
+  <w>uttalande</w>
+  <w>,</w>
+  <w>som</w>
+  <w>från</w>
+  <w>årsskiftet</w>
+  <w>tillträder</w>
+  <w>som</w>
+  <w>chef</w>
+  <w>för</w>
+  <w>Riksenheten</w>
+  <w>mot</w>
+  <w>internationell</w>
+  <w>och</w>
+  <w>organiserad</w>
+  <w>brottslighet</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Här</w>
+  <w>är</w>
+  <w>reportaget</w>
+  <w>från</w>
+  <w>RT</w>
+  <w>news</w>
+  <w>,</w>
+  <w>som</w>
+  <w>ni</w>
+  <w>aldrig</w>
+  <w>skulle</w>
+  <w>få</w>
+  <w>se</w>
+  <w>det</w>
+  <w>rapporterat</w>
+  <w>från</w>
+  <w>våra</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=1>
+    <w>Svenska</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>PK</w>
+    <w>media</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+</absadoc>

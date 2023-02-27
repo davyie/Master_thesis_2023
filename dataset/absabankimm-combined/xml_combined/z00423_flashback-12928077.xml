@@ -1,0 +1,112 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Ny</w>
+  <w>flyktingpolitik</w>
+  <w>från</w>
+  <w>borgarna</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Nu</w>
+  <absaspan id=1 senti=4>
+    <w>förstår</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>varför</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>sossar</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>proteserar</w>
+    <w>mot</w>
+    <w>hårdare</w>
+    <w>krav</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Medveten</w>
+  <w>strategi</w>
+  <w>från</w>
+  <w>S</w>
+  <w>?</w>
+  <w>De</w>
+  <w>protesterar</w>
+  <w>att</w>
+  <w>man</w>
+  <w>ska</w>
+  <w>ha</w>
+  <w>jobb</w>
+  <w>INNAN</w>
+  <w>mot</w>
+  <w>borgarna</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <absaspan id=6 senti=2>
+    <w>Vad</w>
+    <w>fan</w>
+    <w>menar</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>dom</w>
+  </absaspan>
+  <w>?</w>
+  <w>Ska</w>
+  <w>flyktingen</w>
+  <w>få</w>
+  <w>behålla</w>
+  <w>både</w>
+  <w>soc</w>
+  <w>och</w>
+  <w>sin</w>
+  <w>lön</w>
+  <w>?</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=2>
+  <w>Flyktingar</w>
+  <w>kommer</w>
+  <w>hit</w>
+  <w>och</w>
+  <w>får</w>
+  <w>jobb</w>
+  <w>på</w>
+  <w>21.000</w>
+  <w>i</w>
+  <w>månaden</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=2>
+  <w>Haha</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=2>
+  <w>Så</w>
+  <w>vad</w>
+  <w>anser</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>"</w>
+  <absaspan id=8 senti=2 irony>
+    <w>genombrytande</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=9>
+    <w>nya</w>
+    <w>flyktingpolitik</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

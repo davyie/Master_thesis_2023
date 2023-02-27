@@ -1,0 +1,127 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Metro</w>
+  </absaspan>
+  <absaspan id=2 senti=1 target=1>
+    <w>lider</w>
+    <w>av</w>
+    <w>grav</w>
+    <w>islamofobi</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ja</w>
+  <w>hur</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>annars</w>
+  <w>förklara</w>
+  <w>att</w>
+  <w>dagens</w>
+  <w>tidning</w>
+  <w>har</w>
+  <w>tre</w>
+  <w>oberoende</w>
+  <w>rapporteringar</w>
+  <w>om</w>
+  <w>denna</w>
+  <absaspan id=3 senti=2 irony>
+    <w>kärleksreligion</w>
+  </absaspan>
+  <w>?</w>
+  <w>En</w>
+  <w>stor</w>
+  <w>bild</w>
+  <w>på</w>
+  <w>Mohamed</w>
+  <w>Abukar</w>
+  <w>Ibrahim</w>
+  <w>48</w>
+  <w>nedgrävd</w>
+  <w>till</w>
+  <w>brösthöjd</w>
+  <w>i</w>
+  <w>väntan</w>
+  <w>på</w>
+  <w>att</w>
+  <w>bli</w>
+  <w>stenad</w>
+  <w>för</w>
+  <w>äktenskapsbrott</w>
+  <w>i</w>
+  <w>Somalia</w>
+  <w>.</w>
+  <w>Någon</w>
+  <w>sida</w>
+  <w>senare</w>
+  <w>en</w>
+  <w>artikel</w>
+  <w>och</w>
+  <w>en</w>
+  <w>bild</w>
+  <w>på</w>
+  <w>en</w>
+  <w>av</w>
+  <w>islamister</w>
+  <w>sprängd</w>
+  <w>flickskola</w>
+  <w>i</w>
+  <w>Pakistan</w>
+  <w>.</w>
+  <w>Som</w>
+  <w>grädde</w>
+  <w>på</w>
+  <w>moset</w>
+  <w>också</w>
+  <w>nyheten</w>
+  <w>att</w>
+  <w>en</w>
+  <w>75</w>
+  <w>årig</w>
+  <w>kvinna</w>
+  <w>i</w>
+  <w>Saudiarabien</w>
+  <w>dömts</w>
+  <w>till</w>
+  <w>40</w>
+  <w>piskrapp</w>
+  <w>efter</w>
+  <w>att</w>
+  <w>ha</w>
+  <w>överträtt</w>
+  <w>landets</w>
+  <w>stränga</w>
+  <w>könsåtskillnadslagar</w>
+  <w>som</w>
+  <w>förbjuder</w>
+  <w>umgänge</w>
+  <w>över</w>
+  <w>könsgränserna</w>
+  <w>.</w>
+  <w>Visst</w>
+  <absaspan id=4 senti=4 irony>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>Metro</w>
+  </absaspan>
+  <absaspan id=6 senti=4 irony>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=7 senti=4 irony>
+    <w>ljus</w>
+    <w>i</w>
+    <w>mediamörkret</w>
+  </absaspan>
+  <w>ibland</w>
+  <w>?</w>
+  <w>Eller</w>
+  <w>hur</w>
+  <w>Jan</w>
+  <w>Hjärpe</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

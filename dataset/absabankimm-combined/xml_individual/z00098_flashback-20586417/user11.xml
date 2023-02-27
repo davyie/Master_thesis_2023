@@ -1,0 +1,151 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Gnällspiken</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Maud</w>
+    <w>Olofsson</w>
+  </absaspan>
+  <w>och</w>
+  <w>Centerpartiet</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Nu</w>
+  <w>precis</w>
+  <w>såg</w>
+  <w>jag</w>
+  <w>hur</w>
+  <absaspan id=3>
+    <w>Maud</w>
+    <w>Olofsson</w>
+  </absaspan>
+  <w>som</w>
+  <w>vanligt</w>
+  <absaspan id=4 senti=2>
+    <w>gnäller</w>
+  </absaspan>
+  <w>i</w>
+  <w>TV-rutan</w>
+  <w>,</w>
+  <w>denna</w>
+  <w>gång</w>
+  <w>i</w>
+  <w>TV4</w>
+  <w>om</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>skulle</w>
+  <w>behandlas</w>
+  <w>annorlunda</w>
+  <w>för</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>är</w>
+  <w>kvinna</w>
+  <w>på</w>
+  <w>posten</w>
+  <w>som</w>
+  <w>näringslivsminister</w>
+  <w>.</w>
+  <w>Tror</w>
+  <w>egentligen</w>
+  <w>det</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=5>
+    <w>hon</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=6 senti=2>
+    <w>inkompetent</w>
+    <w>som</w>
+    <w>minister</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Valet</w>
+  <w>stundar</w>
+  <w>och</w>
+  <absaspan id=7>
+    <w>Centern</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>ligger</w>
+    <w>riktigt</w>
+    <w>risigt</w>
+    <w>till</w>
+  </absaspan>
+  <w>,</w>
+  <w>på</w>
+  <w>väg</w>
+  <w>att</w>
+  <w>tom</w>
+  <w>kanske</w>
+  <w>åka</w>
+  <w>ur</w>
+  <w>.</w>
+  <absaspan id=9>
+    <w>Centern</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=10 senti=2>
+    <w>Sveriges</w>
+  </absaspan>
+  <w>idag</w>
+  <absaspan id=11 senti=2>
+    <w>mest</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>diffusa</w>
+    <w>parti</w>
+  </absaspan>
+  <w>enligt</w>
+  <w>min</w>
+  <w>mening</w>
+  <w>,</w>
+  <w>officiellt</w>
+  <w>inåt</w>
+  <w>som</w>
+  <w>utåt</w>
+  <w>sett</w>
+  <w>enligt</w>
+  <w>bedömare</w>
+  <w>.</w>
+  <w>Är</w>
+  <w>dagens</w>
+  <absaspan id=13 senti=2>
+    <w>gnäll</w>
+  </absaspan>
+  <w>ett</w>
+  <absaspan id=14 senti=2>
+    <w>desperat</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>tecken</w>
+  </absaspan>
+  <w>på</w>
+  <absaspan id=16 senti=4>
+    <w>förhoppningen</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=17>
+    <w>enkla</w>
+    <w>empati-röster</w>
+    <w>hos</w>
+    <w>kvinnor</w>
+  </absaspan>
+  <w>samt</w>
+  <w>,</w>
+  <w>hur</w>
+  <w>mår</w>
+  <w>dagens</w>
+  <w>centerparti</w>
+  <w>egentligen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

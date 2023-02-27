@@ -1,0 +1,146 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Angeles</w>
+  <w>Bermudez-Svankvist</w>
+  <w>får</w>
+  <absaspan id=1>
+    <w>nytt</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>jobb</w>
+    <w>hos</w>
+    <w>migrationsverket</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Angeles</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>Bermudez-Svankvist</w>
+    <w>tidigare</w>
+    <w>chef</w>
+    <w>hos</w>
+    <w>arbetsförmedlingen</w>
+  </absaspan>
+  <w>där</w>
+  <w>hon</w>
+  <w>fick</w>
+  <w>sparken</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>för</w>
+  <w>att</w>
+  <w>haft</w>
+  <w>mobilräkningar</w>
+  <w>på</w>
+  <w>över</w>
+  <w>300.000</w>
+  <w>:</w>
+  <w>-</w>
+  <w>i</w>
+  <w>månaden</w>
+  <w>.</w>
+  <absaspan id=5>
+    <w>Hon</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>fick</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>även</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>kritik</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>för</w>
+    <w>att</w>
+    <w>resa</w>
+    <w>världen</w>
+    <w>runt</w>
+    <w>på</w>
+    <w>"</w>
+    <w>tjänsteresor</w>
+    <w>"</w>
+  </absaspan>
+  <w>.</w>
+  <w>Även</w>
+  <w>innan</w>
+  <w>jobbet</w>
+  <w>hos</w>
+  <w>AF</w>
+  <w>har</w>
+  <absaspan id=10>
+    <w>kvinnan</w>
+  </absaspan>
+  <absaspan id=11 senti=1>
+    <w>varit</w>
+    <w>i</w>
+    <w>blåsväder</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Nu</w>
+  <w>har</w>
+  <w>hon</w>
+  <w>fått</w>
+  <w>ett</w>
+  <w>nytt</w>
+  <w>jobb</w>
+  <w>som</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>under</w>
+  <w>2016</w>
+  <w>.</w>
+  <absaspan id=13>
+    <w>Ett</w>
+    <w>jobb</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>som</w>
+    <w>måste</w>
+  </absaspan>
+  <absaspan id=15 senti=5 irony>
+    <w>passa</w>
+    <w>perfekt</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>en</w>
+    <w>människa</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=18 senti=1>
+    <w>älskar</w>
+    <w>att</w>
+    <w>slösa</w>
+    <w>på</w>
+    <w>skattebetalarnas</w>
+    <w>pengar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Kommer</w>
+  <absaspan id=19 senti=1>
+    <w>korrupte</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>Angeles</w>
+  </absaspan>
+  <w>lyckas</w>
+  <w>hos</w>
+  <w>migrationsverket</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

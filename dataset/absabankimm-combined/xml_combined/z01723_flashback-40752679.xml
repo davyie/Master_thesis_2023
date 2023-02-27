@@ -1,0 +1,180 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Integration</w>
+  <w>by</w>
+  <w>Parts</w>
+  <w>uppgift</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>Hej</w>
+  <absaspan id=1 senti=4>
+    <w>kära</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>vänner</w>
+  </absaspan>
+  <w>!</w>
+  <w>Här</w>
+  <w>kommer</w>
+  <w>ett</w>
+  <w>integration</w>
+  <w>by</w>
+  <w>parts</w>
+  <w>problem</w>
+  <w>som</w>
+  <w>jag</w>
+  <w>inte</w>
+  <w>lyckas</w>
+  <w>lösa</w>
+  <w>.</w>
+  <w>Hjälp</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Övre</w>
+  <w>värde</w>
+  <w>:</w>
+  <w>Infinity</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Lägre</w>
+  <w>värde</w>
+  <w>:</w>
+  <w>0</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Integralen</w>
+  <w>av</w>
+  <w>(</w>
+  <w>x</w>
+  <w>-</w>
+  <w>1</w>
+  <w>)</w>
+  <w>^</w>
+  <w>2</w>
+  <w>*</w>
+  <w>e</w>
+  <w>^</w>
+  <w>-</w>
+  <w>x</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=3>
+    <w>Försökte</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>nyss</w>
+    <w>att</w>
+    <w>ta</w>
+    <w>e</w>
+    <w>^</w>
+    <w>-</w>
+    <w>x</w>
+    <w>till</w>
+    <w>nämnaren</w>
+    <w>,</w>
+    <w>expandera</w>
+    <w>täljaren</w>
+    <w>och</w>
+    <w>dela</w>
+    <w>upp</w>
+    <w>det</w>
+    <w>i</w>
+    <w>tre</w>
+    <w>integraler</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=5>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>går</w>
+    <w>inte</w>
+    <w>så</w>
+    <w>bra</w>
+  </absaspan>
+  <w>.</w>
+  <w>Någon</w>
+  <w>som</w>
+  <w>har</w>
+  <w>en</w>
+  <w>lite</w>
+  <w>enklare</w>
+  <w>lösning</w>
+  <w>kanske</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=7 senti=5>
+    <w>Tack</w>
+    <w>så</w>
+    <w>hemskt</w>
+    <w>mycket</w>
+    <w>på</w>
+    <w>förhand</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>P.S</w>
+  <w>.</w>
+  <w>:</w>
+  <w>förlåt</w>
+  <w>min</w>
+  <w>svengelska</w>
+  <w>,</w>
+  <w>bara</w>
+  <w>att</w>
+  <w>jag</w>
+  <w>har</w>
+  <w>inte</w>
+  <w>gått</w>
+  <w>på</w>
+  <w>en</w>
+  <w>enda</w>
+  <w>föreläsning</w>
+  <w>och</w>
+  <w>endast</w>
+  <w>pluggat</w>
+  <w>från</w>
+  <w>min</w>
+  <w>engelska</w>
+  <w>bok</w>
+  <w>och</w>
+  <w>därmed</w>
+  <w>kan</w>
+  <w>jag</w>
+  <w>inte</w>
+  <w>svenska</w>
+  <w>termerna</w>
+  <w>,</w>
+  <w>lika</w>
+  <w>bra</w>
+  <w>det</w>
+  <w>tycker</w>
+  <w>jag</w>
+  <w>ändå</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Bifogar</w>
+  <w>min</w>
+  <w>lösning</w>
+  <w>,</w>
+  <w>får</w>
+  <w>2</w>
+  <w>när</w>
+  <w>facit</w>
+  <w>säger</w>
+  <w>1</w>
+  <w>.</w>
+</absapar>
+</absadoc>

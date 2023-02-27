@@ -1,0 +1,80 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Äldre</w>
+  <w>kvinnor</w>
+  <w>köper</w>
+  <w>sex</w>
+  <w>av</w>
+  <w>marockanska</w>
+  <w>gatubarn</w>
+  <w>Dokumentär</w>
+  <w>i</w>
+  <w>P1</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>har</w>
+  <w>ofta</w>
+  <w>undrat</w>
+  <w>varför</w>
+  <w>marockanerna</w>
+  <w>får</w>
+  <w>gå</w>
+  <w>ifred</w>
+  <w>för</w>
+  <absaspan id=1 senti=2>
+    <w>batikhäxorna</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>får</w>
+  <w>dom</w>
+  <w>inte</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Tendens</w>
+  <w>:</w>
+  <w>kortdokumentärer</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Jag</w>
+  <w>borde</w>
+  <w>lyssnat</w>
+  <w>med</w>
+  <w>öronproppar</w>
+  <w>.</w>
+  <w>Nu</w>
+  <w>är</w>
+  <w>jag</w>
+  <w>väl</w>
+  <w>skadad</w>
+  <w>för</w>
+  <w>livet</w>
+  <w>.</w>
+  <w>Även</w>
+  <w>om</w>
+  <absaspan id=2>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>vet</w>
+    <w>hur</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>dom</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>stjäl</w>
+    <w>,</w>
+    <w>säljer</w>
+    <w>droger</w>
+    <w>och</w>
+    <w>prostituerar</w>
+    <w>sej</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

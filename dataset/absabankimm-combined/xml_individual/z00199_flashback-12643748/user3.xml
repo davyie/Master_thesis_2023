@@ -1,0 +1,78 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Dansk</w>
+  <w>vs</w>
+  <w>svenskk</w>
+  <w>media</w>
+  <w>i</w>
+  <w>fråga</w>
+  <w>om</w>
+  <w>etnicitet</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Är</w>
+  <w>danskar</w>
+  <absaspan id=1 senti=2>
+    <w>rasister</w>
+  </absaspan>
+  <w>som</w>
+  <w>dagligen</w>
+  <w>lyfter</w>
+  <w>fram</w>
+  <w>vilka</w>
+  <w>etniska</w>
+  <w>grupper</w>
+  <w>som</w>
+  <w>begår</w>
+  <w>brott</w>
+  <w>?</w>
+  <w>Ett</w>
+  <w>exempel</w>
+  <w>t.ex</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>på</w>
+  <w>vad</w>
+  <w>som</w>
+  <w>aldrig</w>
+  <w>skulle</w>
+  <w>gå</w>
+  <w>att</w>
+  <w>läsa</w>
+  <w>i</w>
+  <w>en</w>
+  <w>svensk</w>
+  <w>tidning</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=2 senti=1>
+    <w>Är</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>evigt</w>
+    <w>cencurerade</w>
+  </absaspan>
+  <w>eller</w>
+  <w>kan</w>
+  <w>vi</w>
+  <w>hoppas</w>
+  <w>på</w>
+  <absaspan id=6 senti=4>
+    <w>mer</w>
+    <w>öppenhet</w>
+  </absaspan>
+  <w>någonsin</w>
+  <w>i</w>
+  <w>nyhetsrapporteringen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

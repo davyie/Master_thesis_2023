@@ -1,0 +1,1928 @@
+<absadoc annotators=1 senti=5>
+<absatitle>
+  <absaspan id=1>
+    <w>Barnen</w>
+  </absaspan>
+  <absaspan id=2 senti=4 source=1 target=3>
+    <w>behöver</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>stöd</w>
+  </absaspan>
+  <w>–</w>
+  <absaspan id=4 senti=2 target=1>
+    <w>inte</w>
+    <w>mer</w>
+    <w>otrygghet</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=5>
+  <absaspan id=5>
+    <w>Vi</w>
+    <w>som</w>
+    <w>jobbar</w>
+    <w>med</w>
+    <w>ensamkommande</w>
+    <w>barn</w>
+  </absaspan>
+  <w>har</w>
+  <w>ett</w>
+  <absaspan id=6 senti=5>
+    <w>enormt</w>
+    <w>viktigt</w>
+    <w>arbete</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vi</w>
+  <w>möter</w>
+  <w>unga</w>
+  <w>människor</w>
+  <w>som</w>
+  <w>flytt</w>
+  <absaspan id=7 senti=1>
+    <w>obeskrivligt</w>
+    <w>svåra</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>omständigheter</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=9>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=10 senti=5>
+    <w>gör</w>
+    <w>vårt</w>
+    <w>bästa</w>
+    <w>för</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=11>
+    <w>de</w>
+    <w>ska</w>
+    <w>få</w>
+    <w>en</w>
+    <w>trygg</w>
+    <w>första</w>
+    <w>tid</w>
+    <w>här</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vi</w>
+  <w>tar</w>
+  <w>hand</w>
+  <w>om</w>
+  <w>Sveriges</w>
+  <w>framtid</w>
+  <w>,</w>
+  <w>och</w>
+  <w>vi</w>
+  <w>vet</w>
+  <w>att</w>
+  <w>det</w>
+  <w>vi</w>
+  <w>ger</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>,</w>
+  <w>kommer</w>
+  <w>vi</w>
+  <w>att</w>
+  <w>få</w>
+  <w>tillbaka</w>
+  <w>under</w>
+  <w>lång</w>
+  <w>tid</w>
+  <w>framöver</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=5>
+  <w>Det</w>
+  <w>är</w>
+  <w>sant</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>många</w>
+  <w>som</w>
+  <w>kommer</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>nu</w>
+  <w>.</w>
+  <w>I</w>
+  <w>många</w>
+  <w>städer</w>
+  <w>har</w>
+  <w>boenden</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>barn</w>
+  <w>öppnats</w>
+  <w>i</w>
+  <w>rask</w>
+  <w>takt</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>görs</w>
+  <w>för</w>
+  <w>att</w>
+  <w>lagen</w>
+  <w>kräver</w>
+  <w>så</w>
+  <w>,</w>
+  <w>men</w>
+  <w>också</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=12 senti=5>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=13 senti=5>
+    <w>svåra</w>
+    <w>tider</w>
+    <w>så</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>humanitet</w>
+  </absaspan>
+  <absaspan id=15 senti=5>
+    <w>viktigare</w>
+    <w>än</w>
+    <w>någonsin</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=5>
+  <w>Boenden</w>
+  <w>öppnas</w>
+  <w>också</w>
+  <w>för</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>kan</w>
+  <w>,</w>
+  <w>Sverige</w>
+  <w>har</w>
+  <w>pengar</w>
+  <w>,</w>
+  <w>utrymme</w>
+  <w>och</w>
+  <w>möjlighet</w>
+  <w>.</w>
+  <absaspan id=16>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>säger</w>
+    <w>inte</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=18>
+    <w>det</w>
+    <w>är</w>
+    <w>lätt</w>
+  </absaspan>
+  <w>,</w>
+  <w>vi</w>
+  <w>vet</w>
+  <w>att</w>
+  <w>personalen</w>
+  <w>inom</w>
+  <w>Socialtjänsten</w>
+  <w>arbetar</w>
+  <w>intensivt</w>
+  <w>för</w>
+  <w>att</w>
+  <w>hitta</w>
+  <w>lokaler</w>
+  <w>,</w>
+  <w>personal</w>
+  <w>och</w>
+  <w>att</w>
+  <w>skapa</w>
+  <w>rutiner</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>vi</w>
+  <w>vet</w>
+  <w>att</w>
+  <absaspan id=19>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=20 senti=4>
+    <w>kan</w>
+    <w>klara</w>
+    <w>det</w>
+  </absaspan>
+  <w>.</w>
+  <w>För</w>
+  <w>att</w>
+  <absaspan id=21>
+    <w>säga</w>
+    <w>nej</w>
+    <w>till</w>
+    <w>barn</w>
+    <w>på</w>
+    <w>flykt</w>
+  </absaspan>
+  <absaspan id=22 senti=2>
+    <w>är</w>
+    <w>inget</w>
+    <w>alternativ</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=23 senti=2>
+    <w>är</w>
+    <w>inte</w>
+    <w>anständigt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=5>
+  <absaspan id=24>
+    <w>Vi</w>
+    <w>som</w>
+    <w>jobbar</w>
+    <w>med</w>
+    <w>ensamkommande</w>
+    <w>barn</w>
+  </absaspan>
+  <absaspan id=25 senti=5>
+    <w>är</w>
+    <w>stolta</w>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>vårt</w>
+    <w>jobb</w>
+  </absaspan>
+  <w>.</w>
+  <w>Varje</w>
+  <w>dag</w>
+  <w>arbetar</w>
+  <w>vi</w>
+  <w>för</w>
+  <w>att</w>
+  <w>skapa</w>
+  <w>en</w>
+  <absaspan id=27 senti=4>
+    <w>trygg</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>miljö</w>
+  </absaspan>
+  <w>för</w>
+  <w>barn</w>
+  <w>som</w>
+  <w>har</w>
+  <w>flytt</w>
+  <w>från</w>
+  <w>krig</w>
+  <w>,</w>
+  <w>förtryck</w>
+  <w>,</w>
+  <w>våld</w>
+  <w>och</w>
+  <w>svält</w>
+  <w>.</w>
+  <w>Varje</w>
+  <w>dag</w>
+  <w>ger</w>
+  <w>vi</w>
+  <w>av</w>
+  <w>vår</w>
+  <w>tid</w>
+  <w>och</w>
+  <w>kraft</w>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=29>
+    <w>varje</w>
+    <w>dag</w>
+    <w>får</w>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=30 senti=4>
+    <w>lika</w>
+    <w>mycket</w>
+    <w>tillbaka</w>
+  </absaspan>
+  <w>.</w>
+  <w>Nu</w>
+  <w>vill</w>
+  <absaspan id=31>
+    <w>Sveriges</w>
+    <w>regering</w>
+  </absaspan>
+  <absaspan id=32 senti=2>
+    <w>rucka</w>
+    <w>på</w>
+    <w>denna</w>
+    <w>trygghet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=5>
+  <absaspan id=33>
+    <w>Tillfälliga</w>
+    <w>uppehållstillstånd</w>
+  </absaspan>
+  <absaspan id=34 senti=2>
+    <w>är</w>
+    <w>motsatsen</w>
+    <w>till</w>
+    <w>trygghet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>kommer</w>
+  <w>att</w>
+  <absaspan id=35 senti=2>
+    <w>skapa</w>
+    <w>stress</w>
+    <w>,</w>
+    <w>ångest</w>
+    <w>och</w>
+    <w>passivitet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=36 senti=2>
+    <w>är</w>
+    <w>inte</w>
+    <w>en</w>
+    <w>bra</w>
+    <w>grund</w>
+    <w>att</w>
+    <w>stå</w>
+    <w>på</w>
+  </absaspan>
+  <w>för</w>
+  <w>barn</w>
+  <w>som</w>
+  <w>ska</w>
+  <w>starta</w>
+  <w>sitt</w>
+  <w>liv</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>nytt</w>
+  <w>land</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>arbetar</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=37>
+    <w>dessa</w>
+    <w>barn</w>
+  </absaspan>
+  <absaspan id=38 senti=4>
+    <w>ska</w>
+    <w>få</w>
+    <w>en</w>
+    <w>bra</w>
+    <w>start</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>.</w>
+  <w>Samtidigt</w>
+  <absaspan id=39 senti=2>
+    <w>drar</w>
+  </absaspan>
+  <absaspan id=40>
+    <w>regeringen</w>
+  </absaspan>
+  <absaspan id=41 senti=2>
+    <w>undan</w>
+  </absaspan>
+  <absaspan id=42 senti=2>
+    <w>mattan</w>
+  </absaspan>
+  <w>för</w>
+  <w>dem</w>
+  <w>redan</w>
+  <w>innan</w>
+  <w>de</w>
+  <w>har</w>
+  <w>hunnit</w>
+  <w>ta</w>
+  <w>ett</w>
+  <w>andetag</w>
+  <w>av</w>
+  <w>luften</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>land</w>
+  <w>utan</w>
+  <w>krig</w>
+  <w>.</w>
+  <absaspan id=43>
+    <w>Tillfälliga</w>
+    <w>uppehållstillstånd</w>
+  </absaspan>
+  <absaspan id=44 senti=2>
+    <w>kommer</w>
+    <w>att</w>
+    <w>försvåra</w>
+    <w>vårt</w>
+    <w>arbete</w>
+  </absaspan>
+  <w>att</w>
+  <w>skapa</w>
+  <absaspan id=45 senti=4>
+    <w>trygghet</w>
+    <w>och</w>
+    <w>säkerhet</w>
+  </absaspan>
+  <w>på</w>
+  <w>de</w>
+  <absaspan id=46>
+    <w>boenden</w>
+  </absaspan>
+  <w>där</w>
+  <w>vi</w>
+  <w>arbetar</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>En</w>
+  <w>annan</w>
+  <w>sak</w>
+  <w>som</w>
+  <w>regeringens</w>
+  <w>flyktingöverenskommelse</w>
+  <w>innehåller</w>
+  <w>är</w>
+  <w>medicinsk</w>
+  <w>åldersbedömning</w>
+  <absaspan id=47>
+    <w>.</w>
+  </absaspan>
+  <w>Detta</w>
+  <absaspan id=48 senti=2>
+    <w>har</w>
+    <w>kritiserats</w>
+  </absaspan>
+  <w>från</w>
+  <w>både</w>
+  <absaspan id=49>
+    <w>läkare</w>
+    <w>och</w>
+    <w>jurister</w>
+  </absaspan>
+  <w>,</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=50>
+    <w>de</w>
+  </absaspan>
+  <w>helt</w>
+  <w>enkelt</w>
+  <absaspan id=51 senti=2>
+    <w>inte</w>
+    <w>är</w>
+    <w>tillförlitliga</w>
+  </absaspan>
+  <w>.</w>
+  <w>Ibland</w>
+  <w>används</w>
+  <w>dessa</w>
+  <w>av</w>
+  <w>Migrationsverket</w>
+  <w>för</w>
+  <w>att</w>
+  <w>flytta</w>
+  <w>unga</w>
+  <w>människor</w>
+  <w>som</w>
+  <absaspan id=52 senti=2>
+    <w>har</w>
+    <w>oturen</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=53>
+    <w>klassas</w>
+    <w>som</w>
+    <w>vuxna</w>
+  </absaspan>
+  <w>från</w>
+  <w>deras</w>
+  <w>boende</w>
+  <w>för</w>
+  <w>barn</w>
+  <w>,</w>
+  <w>till</w>
+  <w>förläggningar</w>
+  <w>för</w>
+  <w>vuxna</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>I</w>
+  <w>andra</w>
+  <w>fall</w>
+  <w>leder</w>
+  <w>de</w>
+  <absaspan id=54 senti=2>
+    <w>osäkra</w>
+  </absaspan>
+  <absaspan id=55>
+    <w>ålderbedömningar</w>
+  </absaspan>
+  <w>till</w>
+  <w>att</w>
+  <w>unga</w>
+  <w>personer</w>
+  <w>som</w>
+  <w>annars</w>
+  <w>hade</w>
+  <w>fått</w>
+  <w>stanna</w>
+  <w>,</w>
+  <w>utvisas</w>
+  <w>ur</w>
+  <w>landet</w>
+  <w>.</w>
+  <absaspan id=56 senti=2>
+    <w>Det</w>
+    <w>är</w>
+    <w>inte</w>
+    <w>riktigt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=57>
+    <w>en</w>
+    <w>så</w>
+    <w>osäker</w>
+    <w>och</w>
+    <w>ovetenskaplig</w>
+    <w>metod</w>
+    <w>ska</w>
+    <w>få</w>
+    <w>avgöra</w>
+    <w>en</w>
+    <w>människas</w>
+    <w>öde</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8 senti=5>
+  <w>Låt</w>
+  <w>oss</w>
+  <w>jobba</w>
+  <w>i</w>
+  <w>lugn</w>
+  <w>och</w>
+  <w>ro</w>
+  <w>,</w>
+  <w>ge</w>
+  <w>oss</w>
+  <w>verktyg</w>
+  <w>för</w>
+  <w>att</w>
+  <w>ge</w>
+  <absaspan id=58>
+    <w>Sveriges</w>
+    <w>framtid</w>
+  </absaspan>
+  <w>en</w>
+  <absaspan id=59 senti=4>
+    <w>bra</w>
+    <w>uppväxt</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=60 senti=3>
+    <w>Sätt</w>
+    <w>inte</w>
+    <w>käppar</w>
+    <w>i</w>
+    <w>hjulet</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=61>
+    <w>vårt</w>
+    <w>arbete</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=62 senti=2>
+    <w>dumheter</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=63 senti=2>
+    <w>tillfälliga</w>
+    <w>uppehållstillstånd</w>
+    <w>och</w>
+    <w>opålitliga</w>
+    <w>åldersbedömningar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Sverige</w>
+  <w>behöver</w>
+  <w>inte</w>
+  <w>fler</w>
+  <w>papperslösa</w>
+  <w>ungdomar</w>
+  <w>och</w>
+  <absaspan id=64 senti=2>
+    <w>otrygga</w>
+  </absaspan>
+  <absaspan id=65>
+    <w>barn</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9 senti=5>
+  <absaspan id=66>
+    <w>Löfven</w>
+    <w>och</w>
+    <w>Romson</w>
+  </absaspan>
+  <w>påstår</w>
+  <w>att</w>
+  <absaspan id=67 senti=2>
+    <w>svenska</w>
+    <w>myndigheter</w>
+    <w>inte</w>
+    <w>klarar</w>
+    <w>av</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=68>
+    <w>ta</w>
+    <w>emot</w>
+    <w>fler</w>
+    <w>flyktingar</w>
+  </absaspan>
+  <w>.</w>
+  <w>De</w>
+  <w>säger</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>behöver</w>
+  <w>ett</w>
+  <w>andrum</w>
+  <w>.</w>
+  <w>På</w>
+  <w>så</w>
+  <w>sätt</w>
+  <absaspan id=69 senti=2>
+    <w>målar</w>
+  </absaspan>
+  <absaspan id=70>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=71 senti=2>
+    <w>upp</w>
+  </absaspan>
+  <absaspan id=72 senti=2>
+    <w>en</w>
+    <w>falsk</w>
+    <w>motsättning</w>
+  </absaspan>
+  <w>mellan</w>
+  <w>människor</w>
+  <w>på</w>
+  <w>flykt</w>
+  <w>och</w>
+  <w>oss</w>
+  <w>som</w>
+  <w>möter</w>
+  <w>dem</w>
+  <w>i</w>
+  <w>vårt</w>
+  <w>arbete</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>som</w>
+  <w>arbetar</w>
+  <w>med</w>
+  <w>ensamkommande</w>
+  <w>ungdomar</w>
+  <w>vet</w>
+  <w>att</w>
+  <w>de</w>
+  <absaspan id=73 senti=2>
+    <w>besvär</w>
+  </absaspan>
+  <absaspan id=74>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=75 senti=2>
+    <w>upplever</w>
+  </absaspan>
+  <absaspan id=76>
+    <w>i</w>
+    <w>vårt</w>
+    <w>arbete</w>
+  </absaspan>
+  <absaspan id=77 senti=2>
+    <w>inte</w>
+    <w>på</w>
+    <w>långa</w>
+    <w>vägar</w>
+    <w>kan</w>
+    <w>mäta</w>
+    <w>sig</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=78>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=79 senti=2>
+    <w>uppoffringar</w>
+  </absaspan>
+  <absaspan id=80>
+    <w>som</w>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=81>
+    <w>flyktingar</w>
+  </absaspan>
+  <absaspan id=82>
+    <w>vi</w>
+    <w>arbetar</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=83 senti=2>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=84 senti=2>
+    <w>genomlevt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=10 senti=5>
+  <w>Vi</w>
+  <w>vet</w>
+  <w>att</w>
+  <w>de</w>
+  <w>,</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>någon</w>
+  <w>annan</w>
+  <w>,</w>
+  <w>behöver</w>
+  <w>andrum</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Caroline</w>
+  <w>Wiklund</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Integrationsassisten</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>barn</w>
+  <w>,</w>
+  <w>Arlöv</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Andreas</w>
+  <w>Dahl</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Samordnare</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Botkyrka</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Rolf</w>
+  <w>Sörman</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>Platschef</w>
+  <w>på</w>
+  <w>ankomstboende</w>
+  <w>,</w>
+  <w>Ekerö</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>Carina</w>
+  <w>Fransson</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>Skiftledare</w>
+  <w>ankomstboende</w>
+  <w>,</w>
+  <w>Ekerö</w>
+  <w>.</w>
+</absapar>
+<absapar id=19>
+  <w>Thomas</w>
+  <w>Heetfeldt</w>
+  <w>.</w>
+</absapar>
+<absapar id=20>
+  <w>Skiftledare</w>
+  <w>ankomstboende</w>
+  <w>,</w>
+  <w>Ekerö</w>
+  <w>.</w>
+</absapar>
+<absapar id=21>
+  <w>Johan</w>
+  <w>Stuube</w>
+  <w>.</w>
+</absapar>
+<absapar id=22>
+  <w>Skiftledare</w>
+  <w>ankomstboende</w>
+  <w>,</w>
+  <w>Ekerö</w>
+  <w>.</w>
+</absapar>
+<absapar id=23>
+  <w>Stefani</w>
+  <w>Hofflander</w>
+  <w>.</w>
+</absapar>
+<absapar id=24>
+  <w>Boendestödjare</w>
+  <w>,</w>
+  <w>Eslöv</w>
+  <w>.</w>
+</absapar>
+<absapar id=25>
+  <w>Kent</w>
+  <w>Özer</w>
+  <w>.</w>
+</absapar>
+<absapar id=26>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Falun</w>
+  <w>.</w>
+</absapar>
+<absapar id=27>
+  <w>Daniel</w>
+  <w>Hedkvist</w>
+  <w>.</w>
+</absapar>
+<absapar id=28>
+  <w>Ungdomsarbetare</w>
+  <w>på</w>
+  <w>boende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Göteborg</w>
+  <w>.</w>
+</absapar>
+<absapar id=29>
+  <w>Sebastian</w>
+  <w>Brask</w>
+  <w>.</w>
+</absapar>
+<absapar id=30>
+  <w>Socialsekreterare</w>
+  <w>,</w>
+  <w>Hedemora</w>
+  <w>.</w>
+</absapar>
+<absapar id=31>
+  <w>Sebastian</w>
+  <w>Brask</w>
+  <w>.</w>
+</absapar>
+<absapar id=32>
+  <w>Socialsekreterare</w>
+  <w>,</w>
+  <w>Hedemora</w>
+  <w>.</w>
+</absapar>
+<absapar id=33>
+  <w>Mounir</w>
+  <w>Mansour</w>
+  <w>.</w>
+</absapar>
+<absapar id=34>
+  <w>Coach</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>flyktingbarn</w>
+  <w>,</w>
+  <w>Helsingborg</w>
+  <w>.</w>
+</absapar>
+<absapar id=35>
+  <w>Linn</w>
+  <w>Alenius</w>
+  <w>Wallin</w>
+  <w>.</w>
+</absapar>
+<absapar id=36>
+  <w>Handledare</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>barn</w>
+  <w>,</w>
+  <w>Landskrona</w>
+  <w>.</w>
+</absapar>
+<absapar id=37>
+  <w>Lina</w>
+  <w>Gamstedt</w>
+  <w>.</w>
+</absapar>
+<absapar id=38>
+  <w>Handledare</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>barn</w>
+  <w>,</w>
+  <w>Landskrona</w>
+  <w>.</w>
+</absapar>
+<absapar id=39>
+  <w>Jenny</w>
+  <w>Berg</w>
+  <w>.</w>
+</absapar>
+<absapar id=40>
+  <w>Handledare</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>barn</w>
+  <w>,</w>
+  <w>Landskrona</w>
+  <w>.</w>
+</absapar>
+<absapar id=41>
+  <w>Lena</w>
+  <w>Kronberg</w>
+  <w>.</w>
+</absapar>
+<absapar id=42>
+  <w>Handledare</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>barn</w>
+  <w>,</w>
+  <w>Landskrona</w>
+  <w>.</w>
+</absapar>
+<absapar id=43>
+  <w>Ameli</w>
+  <w>Frostell</w>
+  <w>.</w>
+</absapar>
+<absapar id=44>
+  <w>HVB</w>
+  <w>,</w>
+  <w>Landskrona</w>
+  <w>.</w>
+</absapar>
+<absapar id=45>
+  <w>Jasmine</w>
+  <w>Kornhill</w>
+  <w>.</w>
+</absapar>
+<absapar id=46>
+  <w>Handledare</w>
+  <w>,</w>
+  <w>Landskrona</w>
+  <w>.</w>
+</absapar>
+<absapar id=47>
+  <w>Julia</w>
+  <w>Öhman</w>
+  <w>Kronberg</w>
+  <w>.</w>
+</absapar>
+<absapar id=48>
+  <w>Familjehemsförälder</w>
+  <w>,</w>
+  <w>Lerum</w>
+  <w>.</w>
+</absapar>
+<absapar id=49>
+  <w>Abbas</w>
+  <w>Abzi</w>
+  <w>.</w>
+</absapar>
+<absapar id=50>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Lomma</w>
+  <w>.</w>
+</absapar>
+<absapar id=51>
+  <w>Anna</w>
+  <w>Valsamidis</w>
+  <w>.</w>
+</absapar>
+<absapar id=52>
+  <w>Boendestödjare</w>
+  <w>,</w>
+  <w>Lomma</w>
+  <w>.</w>
+</absapar>
+<absapar id=53>
+  <w>Lena</w>
+  <w>Paccha</w>
+  <w>Högberg</w>
+  <w>.</w>
+</absapar>
+<absapar id=54>
+  <w>Familjehem</w>
+  <w>,</w>
+  <w>Ludvika</w>
+  <w>.</w>
+</absapar>
+<absapar id=55>
+  <w>Adriano</w>
+  <w>Merola</w>
+  <w>Marotta</w>
+  <w>.</w>
+</absapar>
+<absapar id=56>
+  <w>Socialpedagog</w>
+  <w>på</w>
+  <w>boende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Lund</w>
+  <w>.</w>
+</absapar>
+<absapar id=57>
+  <w>Matilda</w>
+  <w>Holst</w>
+  <w>Lidfors</w>
+  <w>.</w>
+</absapar>
+<absapar id=58>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=59>
+  <w>Ali</w>
+  <w>Ahmadi</w>
+  <w>.</w>
+</absapar>
+<absapar id=60>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=61>
+  <w>Paulina</w>
+  <w>Stanley</w>
+  <w>.</w>
+</absapar>
+<absapar id=62>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=63>
+  <w>Ghadir</w>
+  <w>Kafafi</w>
+  <w>.</w>
+</absapar>
+<absapar id=64>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=65>
+  <w>Anton</w>
+  <w>Darabad</w>
+  <w>.</w>
+</absapar>
+<absapar id=66>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=67>
+  <w>Ricardo</w>
+  <w>Guilen</w>
+  <w>.</w>
+</absapar>
+<absapar id=68>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=69>
+  <w>Fatma</w>
+  <w>Sadek</w>
+  <w>.</w>
+</absapar>
+<absapar id=70>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=71>
+  <w>Daniella</w>
+  <w>Meneses</w>
+  <w>.</w>
+</absapar>
+<absapar id=72>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=73>
+  <w>Ahlam</w>
+  <w>Zuetar</w>
+  <w>.</w>
+</absapar>
+<absapar id=74>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=75>
+  <w>Leyla</w>
+  <w>Meryem</w>
+  <w>Yalcin</w>
+  <w>.</w>
+</absapar>
+<absapar id=76>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=77>
+  <w>Anette</w>
+  <w>Bötker</w>
+  <w>.</w>
+</absapar>
+<absapar id=78>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=79>
+  <w>Maria</w>
+  <w>Risberg</w>
+  <w>.</w>
+</absapar>
+<absapar id=80>
+  <w>Behandlingsassisten</w>
+  <w>med</w>
+  <w>utökat</w>
+  <w>ansvar</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=81>
+  <w>Kicki</w>
+  <w>Pettersson</w>
+  <w>.</w>
+</absapar>
+<absapar id=82>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=83>
+  <w>Emira</w>
+  <w>Ibrahimovic</w>
+  <w>.</w>
+</absapar>
+<absapar id=84>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=85>
+  <w>Daniel</w>
+  <w>Veres</w>
+  <w>.</w>
+</absapar>
+<absapar id=86>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=87>
+  <w>Drini</w>
+  <w>Mehmeti</w>
+  <w>.</w>
+</absapar>
+<absapar id=88>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=89>
+  <w>Rahmat</w>
+  <w>Rezai</w>
+  <w>.</w>
+</absapar>
+<absapar id=90>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=91>
+  <w>Sarah</w>
+  <w>Aldoukhi</w>
+  <w>.</w>
+</absapar>
+<absapar id=92>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=93>
+  <w>Ellen</w>
+  <w>Belmore</w>
+  <w>.</w>
+</absapar>
+<absapar id=94>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=95>
+  <w>Jasmin</w>
+  <w>Jahja</w>
+  <w>.</w>
+</absapar>
+<absapar id=96>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=97>
+  <w>Jo</w>
+  <w>Rantalo</w>
+  <w>.</w>
+</absapar>
+<absapar id=98>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=99>
+  <w>Linda</w>
+  <w>Isaksson</w>
+  <w>.</w>
+</absapar>
+<absapar id=100>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=101>
+  <w>Tove</w>
+  <w>Stenqvist</w>
+  <w>.</w>
+</absapar>
+<absapar id=102>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=103>
+  <w>Linda</w>
+  <w>Lejfjord</w>
+  <w>.</w>
+</absapar>
+<absapar id=104>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=105>
+  <w>Helene</w>
+  <w>Cheriff</w>
+  <w>.</w>
+</absapar>
+<absapar id=106>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=107>
+  <w>Paula</w>
+  <w>Araccena</w>
+  <w>.</w>
+</absapar>
+<absapar id=108>
+  <w>Forskarassistent</w>
+  <w>MAH</w>
+  <w>kring</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=109>
+  <w>Ida</w>
+  <w>Mårtensson</w>
+  <w>.</w>
+</absapar>
+<absapar id=110>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=111>
+  <w>Alex</w>
+  <w>Lindskog</w>
+  <w>.</w>
+</absapar>
+<absapar id=112>
+  <w>Socialsekreterare</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=113>
+  <w>Aron</w>
+  <w>Tendler</w>
+  <w>.</w>
+</absapar>
+<absapar id=114>
+  <w>Samordnare</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=115>
+  <w>Erika</w>
+  <w>Johansson</w>
+  <w>.</w>
+</absapar>
+<absapar id=116>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=117>
+  <w>Victoria</w>
+  <w>Pettersson</w>
+  <w>.</w>
+</absapar>
+<absapar id=118>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=119>
+  <w>Zeinati</w>
+  <w>Ahmad</w>
+  <w>.</w>
+</absapar>
+<absapar id=120>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=121>
+  <w>Kajsa</w>
+  <w>Dellgran</w>
+  <w>.</w>
+</absapar>
+<absapar id=122>
+  <w>Boendestödjare</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=123>
+  <w>Mohsen</w>
+  <w>Tahmasabi</w>
+  <w>.</w>
+</absapar>
+<absapar id=124>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=125>
+  <w>Shkurte</w>
+  <w>Carkani</w>
+  <w>.</w>
+</absapar>
+<absapar id=126>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=127>
+  <w>Sara</w>
+  <w>Ryahi</w>
+  <w>.</w>
+</absapar>
+<absapar id=128>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=129>
+  <w>Soheil</w>
+  <w>Raoufi</w>
+  <w>.</w>
+</absapar>
+<absapar id=130>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=131>
+  <w>Donya</w>
+  <w>Nazary</w>
+  <w>.</w>
+</absapar>
+<absapar id=132>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=133>
+  <w>Valentina</w>
+  <w>Öberg</w>
+  <w>.</w>
+</absapar>
+<absapar id=134>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=135>
+  <w>Barshank</w>
+  <w>Kheder</w>
+  <w>.</w>
+</absapar>
+<absapar id=136>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=137>
+  <w>Rebecka</w>
+  <w>Hansson</w>
+  <w>.</w>
+</absapar>
+<absapar id=138>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=139>
+  <w>Thomas</w>
+  <w>Grüneberger</w>
+  <w>.</w>
+</absapar>
+<absapar id=140>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=141>
+  <w>Zeinab</w>
+  <w>Al-Mudafar</w>
+  <w>.</w>
+</absapar>
+<absapar id=142>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=143>
+  <w>Maria</w>
+  <w>Wallander</w>
+  <w>.</w>
+</absapar>
+<absapar id=144>
+  <w>Socionom</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=145>
+  <w>Maryam</w>
+  <w>Mohagheghi</w>
+  <w>.</w>
+</absapar>
+<absapar id=146>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=147>
+  <w>Manne</w>
+  <w>Mårtensson</w>
+  <w>.</w>
+</absapar>
+<absapar id=148>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=149>
+  <w>Tove</w>
+  <w>Karnerud</w>
+  <w>.</w>
+</absapar>
+<absapar id=150>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=151>
+  <w>Tania</w>
+  <w>Sincic</w>
+  <w>.</w>
+</absapar>
+<absapar id=152>
+  <w>Boendepedagog</w>
+  <w>på</w>
+  <w>boende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Mjölby</w>
+  <w>.</w>
+</absapar>
+<absapar id=153>
+  <w>Erika</w>
+  <w>Kotti</w>
+  <w>.</w>
+</absapar>
+<absapar id=154>
+  <w>Socialsekreterare</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>barn</w>
+  <w>,</w>
+  <w>Nordvästra</w>
+  <w>Skåne</w>
+  <w>.</w>
+</absapar>
+<absapar id=155>
+  <w>Sandra</w>
+  <w>Sandin</w>
+  <w>Lindqvist</w>
+  <w>.</w>
+</absapar>
+<absapar id=156>
+  <w>Integrationshandläggare</w>
+  <w>,</w>
+  <w>Nässjö</w>
+  <w>.</w>
+</absapar>
+<absapar id=157>
+  <w>Alexander</w>
+  <w>Lowejko</w>
+  <w>.</w>
+</absapar>
+<absapar id=158>
+  <w>Integrationsstrateg</w>
+  <w>,</w>
+  <w>Nässjö</w>
+  <w>.</w>
+</absapar>
+<absapar id=159>
+  <w>Ana</w>
+  <w>Maria</w>
+  <w>Alvarez</w>
+  <w>.</w>
+</absapar>
+<absapar id=160>
+  <w>God</w>
+  <w>man</w>
+  <w>åt</w>
+  <w>ensamkommande</w>
+  <w>flyktingbarn</w>
+  <w>,</w>
+  <w>Stockholm</w>
+  <w>.</w>
+</absapar>
+<absapar id=161>
+  <w>Joakim</w>
+  <w>Selin</w>
+  <w>.</w>
+</absapar>
+<absapar id=162>
+  <w>Volontär</w>
+  <w>på</w>
+  <w>boende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Stockholm</w>
+  <w>.</w>
+</absapar>
+<absapar id=163>
+  <w>Ki</w>
+  <w>Nilsson</w>
+  <w>Karnerud</w>
+  <w>.</w>
+</absapar>
+<absapar id=164>
+  <w>leg</w>
+  <w>psykoterapeut</w>
+  <w>,</w>
+  <w>Stockholm</w>
+  <w>.</w>
+</absapar>
+<absapar id=165>
+  <w>Amed</w>
+  <w>Zagrossan</w>
+  <w>.</w>
+</absapar>
+<absapar id=166>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Trelleborg</w>
+  <w>.</w>
+</absapar>
+<absapar id=167>
+  <w>Sara</w>
+  <w>Engström</w>
+  <w>.</w>
+</absapar>
+<absapar id=168>
+  <w>Behandlingsassisten</w>
+  <w>på</w>
+  <w>transitboende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>,</w>
+  <w>Trelleborg</w>
+  <w>.</w>
+</absapar>
+<absapar id=169>
+  <w>Helen</w>
+  <w>Karlsson</w>
+  <w>.</w>
+</absapar>
+<absapar id=170>
+  <w>Socialsekreterare</w>
+  <w>,</w>
+  <w>Ödeshögs</w>
+  <w>kommun</w>
+  <w>.</w>
+</absapar>
+<absapar id=171>
+  <w>Jason</w>
+  <w>O'Halloran</w>
+  <w>.</w>
+</absapar>
+<absapar id=172>
+  <w>Vägledare</w>
+  <w>,</w>
+  <w>Östersund</w>
+  <w>.</w>
+</absapar>
+<absapar id=173>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+<absapar id=174>
+  <w>RERNA</w>
+  <w>.</w>
+</absapar>
+<absapar id=175>
+  <w>N</w>
+  <w>.</w>
+</absapar>
+</absadoc>

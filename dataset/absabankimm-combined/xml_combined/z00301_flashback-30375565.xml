@@ -1,0 +1,93 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <absaspan id=1>
+    <w>Muhammed</w>
+    <w>Ali</w>
+  </absaspan>
+  <absaspan id=2 senti=1 target=3 source=1>
+    <w>sågar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>integration</w>
+    <w>och</w>
+    <w>rasblandning</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>kan</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>inte</w>
+    <w>annat</w>
+    <w>än</w>
+    <w>att</w>
+    <w>ge</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>honom</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>rätt</w>
+    <w>i</w>
+    <w>sak</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <absaspan id=9 senti=4>
+    <w>Viljan</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>att</w>
+    <w>förvara</w>
+    <w>din</w>
+    <w>ras</w>
+    <w>och</w>
+    <w>bo</w>
+    <w>bland</w>
+    <w>din</w>
+    <w>egen</w>
+    <w>sort</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>är</w>
+    <w>helt</w>
+    <w>naturlig</w>
+  </absaspan>
+  <w>och</w>
+  <w>någonting</w>
+  <w>som</w>
+  <w>gäller</w>
+  <w>för</w>
+  <w>alla</w>
+  <w>raser</w>
+  <w>och</w>
+  <w>varelser</w>
+  <absaspan id=12>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=1>
+  <w>Därför</w>
+  <w>bör</w>
+  <w>vi</w>
+  <w>vita</w>
+  <w>kämpa</w>
+  <w>för</w>
+  <w>att</w>
+  <w>bevara</w>
+  <w>våra</w>
+  <w>länder</w>
+  <w>och</w>
+  <w>stoppa</w>
+  <absaspan id=13 senti=2>
+    <w>massinvandringen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,84 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Förstör</w>
+  <w>panten</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>Platta</w>
+  <w>till</w>
+  <w>alla</w>
+  <w>burkar</w>
+  <w>och</w>
+  <w>slit</w>
+  <w>bort</w>
+  <w>etiketterna</w>
+  <w>med</w>
+  <w>sträckkoder</w>
+  <w>på</w>
+  <w>innan</w>
+  <w>ni</w>
+  <w>gör</w>
+  <w>er</w>
+  <w>av</w>
+  <w>med</w>
+  <w>burkar</w>
+  <w>och</w>
+  <w>flaskor</w>
+  <w>på</w>
+  <w>offentliga</w>
+  <w>platser</w>
+  <w>.</w>
+  <absaspan id=1>
+    <w>Varje</w>
+    <w>krona</w>
+    <w>en</w>
+    <w>eu-imigrant</w>
+    <w>inte</w>
+    <w>får</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>är</w>
+    <w>en</w>
+    <w>krona</w>
+    <w>som</w>
+    <w>räddar</w>
+    <w>vårat</w>
+    <w>land</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Tror</w>
+  <w>ni</w>
+  <w>det</w>
+  <w>här</w>
+  <w>ger</w>
+  <w>effekt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Tänker</w>
+  <w>ni</w>
+  <w>följa</w>
+  <w>exemplet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Har</w>
+  <w>ni</w>
+  <w>tips</w>
+  <w>på</w>
+  <w>andra</w>
+  <w>åtgärder</w>
+  <w>som</w>
+  <w>kan</w>
+  <w>försvåra</w>
+  <w>för</w>
+  <w>imigranterna</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

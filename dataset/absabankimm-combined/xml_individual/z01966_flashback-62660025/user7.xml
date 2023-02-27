@@ -1,0 +1,71 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Miljöpartisten</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Helena</w>
+    <w>Ekekihl</w>
+  </absaspan>
+  <w>blir</w>
+  <w>Sverigedemokrat</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Miljöpartist</w>
+  <w>blir</w>
+  <w>Sverigedemokrat</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>hon</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>är</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>EU</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>har</w>
+  <w>ni</w>
+  <w>för</w>
+  <w>tankar</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>?</w>
+  <w>Är</w>
+  <w>det</w>
+  <w>någon</w>
+  <w>som</w>
+  <w>har</w>
+  <w>information</w>
+  <w>om</w>
+  <w>bakgrunden</w>
+  <w>?</w>
+  <w>Är</w>
+  <w>hon</w>
+  <w>endast</w>
+  <w>EU-motståndare</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>finns</w>
+  <w>en</w>
+  <w>artikel</w>
+  <w>till</w>
+  <w>men</w>
+  <w>den</w>
+  <w>är</w>
+  <w>bakom</w>
+  <w>en</w>
+  <w>betalvägg</w>
+  <w>.</w>
+</absapar>
+</absadoc>

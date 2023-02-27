@@ -1,0 +1,151 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Även</w>
+  <absaspan id=1>
+    <w>invandrare</w>
+  </absaspan>
+  <absaspan id=2 senti=1 target=3 source=1>
+    <w>ratar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>kvinnor</w>
+    <w>som</w>
+    <w>har</w>
+    <w>vart</w>
+    <w>med</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>,</w>
+  <w>vad</w>
+  <w>fan</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Jag</w>
+  <w>pratade</w>
+  <w>med</w>
+  <absaspan id=4>
+    <w>en</w>
+    <w>kollega</w>
+  </absaspan>
+  <w>,</w>
+  <w>en</w>
+  <w>arab</w>
+  <w>,</w>
+  <w>som</w>
+  <w>dejtade</w>
+  <w>en</w>
+  <w>svensk</w>
+  <w>tjej</w>
+  <w>.</w>
+  <w>Han</w>
+  <w>dumpade</w>
+  <w>henne</w>
+  <w>för</w>
+  <w>att</w>
+  <w>"</w>
+  <w>Alla</w>
+  <w>hennes</w>
+  <w>ex</w>
+  <w>var</w>
+  <w>ju</w>
+  <w>nästan</w>
+  <w>bara</w>
+  <absaspan id=5 senti=2>
+    <w>blattar</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=6 senti=1>
+    <w>negrer</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+  <w>Jaha</w>
+  <w>det</w>
+  <w>var</w>
+  <w>ju</w>
+  <absaspan id=7 senti=2>
+    <w>underligt</w>
+  </absaspan>
+  <w>sa</w>
+  <w>jag</w>
+  <w>,</w>
+  <w>men</w>
+  <w>du</w>
+  <w>är</w>
+  <w>ju</w>
+  <w>arab</w>
+  <w>?</w>
+  <w>På</w>
+  <w>det</w>
+  <w>svarade</w>
+  <w>han</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>ok</w>
+  <w>med</w>
+  <w>någon</w>
+  <w>enstaka</w>
+  <absaspan id=8 senti=2>
+    <w>blatte</w>
+  </absaspan>
+  <w>som</w>
+  <w>ex</w>
+  <w>.</w>
+  <w>men</w>
+  <w>inte</w>
+  <w>majoriteten</w>
+  <w>,</w>
+  <w>för</w>
+  <w>att</w>
+  <w>han</w>
+  <w>vill</w>
+  <w>bli</w>
+  <absaspan id=9 senti=5>
+    <w>omtyckt</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>han</w>
+  <w>är</w>
+  <w>han</w>
+  <w>och</w>
+  <w>inte</w>
+  <w>för</w>
+  <w>att</w>
+  <w>han</w>
+  <w>är</w>
+  <w>utlänning</w>
+  <w>,</w>
+  <w>och</w>
+  <w>att</w>
+  <absaspan id=10>
+    <w>tjejer</w>
+    <w>som</w>
+    <w>har</w>
+    <w>vart</w>
+    <w>med</w>
+    <w>negrer</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=11 senti=1>
+    <w>äckliga</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Är</w>
+  <w>det</w>
+  <w>här</w>
+  <w>åsikter</w>
+  <w>som</w>
+  <w>delas</w>
+  <w>av</w>
+  <w>invandrare</w>
+  <w>i</w>
+  <w>allmänhet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

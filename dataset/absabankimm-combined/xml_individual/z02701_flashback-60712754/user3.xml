@@ -1,0 +1,158 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2>
+    <w>Ilskan</w>
+    <w>växer</w>
+    <w>i</w>
+    <w>Lövgärdet</w>
+    <w>efter</w>
+    <w>hedersmordet</w>
+  </absaspan>
+  <w>-</w>
+  <w>på</w>
+  <absaspan id=2>
+    <w>polisen</w>
+    <w>!</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Ena</w>
+  <w>dagen</w>
+  <w>nödanropar</w>
+  <w>man</w>
+  <w>polis</w>
+  <w>/</w>
+  <w>brandkår</w>
+  <w>och</w>
+  <w>stenar</w>
+  <w>dem</w>
+  <w>när</w>
+  <w>dom</w>
+  <w>rycker</w>
+  <w>ut</w>
+  <w>till</w>
+  <w>ens</w>
+  <w>undsättning</w>
+  <w>,</w>
+  <w>,</w>
+  <w>,</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Andra</w>
+  <w>dagen</w>
+  <w>jagar</w>
+  <w>man</w>
+  <w>ut</w>
+  <w>dem</w>
+  <w>ur</w>
+  <w>'</w>
+  <w>sitt</w>
+  <w>område</w>
+  <w>'</w>
+  <w>(</w>
+  <w>som</w>
+  <w>alla</w>
+  <w>andra</w>
+  <w>bekostat</w>
+  <w>)</w>
+  <w>när</w>
+  <w>dom</w>
+  <w>kommer</w>
+  <w>för</w>
+  <w>att</w>
+  <w>haffa</w>
+  <w>en</w>
+  <w>bov</w>
+  <w>,</w>
+  <w>,</w>
+  <w>,</w>
+  <w>,</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>-</w>
+  <w>För</w>
+  <w>att</w>
+  <w>när</w>
+  <w>väl</w>
+  <w>vargen</w>
+  <w>kommer</w>
+  <w>beklaga</w>
+  <w>sig</w>
+  <w>över</w>
+  <w>att</w>
+  <w>polisen</w>
+  <w>inte</w>
+  <w>finns</w>
+  <w>där</w>
+  <w>för</w>
+  <w>jämnan</w>
+  <w>för</w>
+  <w>att</w>
+  <w>beskydda</w>
+  <w>dem</w>
+  <w>,</w>
+  <w>,</w>
+  <w>,</w>
+  <w>,</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Hur</w>
+  <w>kommer</w>
+  <w>det</w>
+  <w>sig</w>
+  <w>att</w>
+  <absaspan id=3 senti=2>
+    <w>ingen</w>
+    <w>klagar</w>
+  </absaspan>
+  <w>över</w>
+  <w>hedersmördarna</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>platsar</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>civiliserat</w>
+  <w>samhälle</w>
+  <w>?</w>
+  <absaspan id=4>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>Eller</w>
+  <w>är</w>
+  <w>det</w>
+  <absaspan id=5>
+    <w>media</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=6 senti=2>
+    <w>vill</w>
+    <w>släta</w>
+    <w>över</w>
+    <w>igen</w>
+    <w>,</w>
+    <w>i</w>
+    <w>vanlig</w>
+    <w>ordning</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Kanske</w>
+  <absaspan id=7 senti=2 irony>
+    <w>utlysa</w>
+    <w>en</w>
+    <w>ny</w>
+    <w>kärleksmanifestation</w>
+  </absaspan>
+  <w>som</w>
+  <w>rökridå</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

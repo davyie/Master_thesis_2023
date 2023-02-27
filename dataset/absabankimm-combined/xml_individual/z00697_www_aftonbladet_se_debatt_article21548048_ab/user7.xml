@@ -1,0 +1,566 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>Byt</w>
+  <w>ut</w>
+  <absaspan id=1>
+    <w>Mona</w>
+    <w>Sahlin</w>
+    <w>som</w>
+    <w>samordnare</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>I</w>
+  <w>och</w>
+  <w>med</w>
+  <w>den</w>
+  <w>ökande</w>
+  <w>strömmen</w>
+  <w>av</w>
+  <w>migranter</w>
+  <w>till</w>
+  <w>Europa</w>
+  <w>har</w>
+  <w>flera</w>
+  <w>länder</w>
+  <w>valt</w>
+  <w>att</w>
+  <w>återinföra</w>
+  <w>gränskontroller</w>
+  <w>.</w>
+  <w>Öppna</w>
+  <w>gränser</w>
+  <w>leder</w>
+  <w>till</w>
+  <w>att</w>
+  <w>fler</w>
+  <w>än</w>
+  <w>de</w>
+  <w>som</w>
+  <w>flyr</w>
+  <w>från</w>
+  <w>krig</w>
+  <w>söker</w>
+  <w>sig</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>.</w>
+  <w>Förutom</w>
+  <absaspan id=3>
+    <w>ekonomiska</w>
+    <w>flyktingar</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>inte</w>
+    <w>accepterar</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>principen</w>
+    <w>om</w>
+    <w>första</w>
+    <w>säkra</w>
+    <w>asylland</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=6 senti=2>
+    <w>utnyttjar</w>
+  </absaspan>
+  <w>även</w>
+  <absaspan id=7>
+    <w>terrorister</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>denna</w>
+    <w>möjlighet</w>
+  </absaspan>
+  <w>i</w>
+  <w>en</w>
+  <w>allt</w>
+  <w>större</w>
+  <w>utsträckning</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Enligt</w>
+  <w>Säpo</w>
+  <w>har</w>
+  <w>115</w>
+  <w>personer</w>
+  <w>som</w>
+  <w>stridit</w>
+  <w>för</w>
+  <w>IS</w>
+  <w>nu</w>
+  <w>återvänt</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>går</w>
+  <w>även</w>
+  <w>att</w>
+  <w>se</w>
+  <w>en</w>
+  <w>kraftig</w>
+  <w>ökning</w>
+  <w>av</w>
+  <w>misstänkta</w>
+  <absaspan id=9 senti=1>
+    <w>terrorister</w>
+  </absaspan>
+  <w>och</w>
+  <w>spioner</w>
+  <w>som</w>
+  <w>tar</w>
+  <w>sig</w>
+  <w>in</w>
+  <w>i</w>
+  <w>landet</w>
+  <w>.</w>
+  <w>Enligt</w>
+  <w>Migrationsverkets</w>
+  <w>siffror</w>
+  <w>till</w>
+  <w>Säpo</w>
+  <w>har</w>
+  <w>152</w>
+  <w>personer</w>
+  <w>rapporterats</w>
+  <w>under</w>
+  <w>de</w>
+  <w>tre</w>
+  <w>senaste</w>
+  <w>månaderna</w>
+  <w>,</w>
+  <w>vilket</w>
+  <w>är</w>
+  <w>fler</w>
+  <w>än</w>
+  <w>under</w>
+  <w>hela</w>
+  <w>förra</w>
+  <w>året</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>År</w>
+  <w>2014</w>
+  <w>släppte</w>
+  <absaspan id=10>
+    <w>Justitiedepartementet</w>
+  </absaspan>
+  <w>rapporten</w>
+  <w>"</w>
+  <absaspan id=11 senti=1>
+    <w>Våldsbejakande</w>
+    <w>extremism</w>
+  </absaspan>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>–</w>
+  <w>nuläge</w>
+  <w>och</w>
+  <w>tendenser</w>
+  <w>"</w>
+  <w>.</w>
+  <w>Enligt</w>
+  <w>den</w>
+  <w>bedömer</w>
+  <absaspan id=12>
+    <w>Säpo</w>
+  </absaspan>
+  <w>att</w>
+  <w>det</w>
+  <w>största</w>
+  <w>attentatshotet</w>
+  <w>mot</w>
+  <w>landet</w>
+  <w>under</w>
+  <w>de</w>
+  <w>närmaste</w>
+  <w>åren</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>vara</w>
+  <absaspan id=13 senti=1>
+    <w>våldsbejakande</w>
+    <w>islamistisk</w>
+    <w>extremism</w>
+  </absaspan>
+  <w>,</w>
+  <w>med</w>
+  <w>upplevda</w>
+  <w>kränkningar</w>
+  <w>av</w>
+  <w>islam</w>
+  <w>som</w>
+  <w>grund</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=14>
+    <w>Regeringen</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>har</w>
+    <w>valt</w>
+    <w>att</w>
+    <w>tillsätta</w>
+    <w>Mona</w>
+    <w>Sahlin</w>
+    <w>som</w>
+    <w>nationell</w>
+    <w>samordnare</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=16 senti=1>
+    <w>våldsbejakande</w>
+    <w>extremism</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>Detta</w>
+  </absaspan>
+  <w>anser</w>
+  <absaspan id=20>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=21 senti=1>
+    <w>är</w>
+    <w>ett</w>
+    <w>högst</w>
+    <w>beklagligt</w>
+    <w>beslut</w>
+  </absaspan>
+  <w>då</w>
+  <absaspan id=22>
+    <w>vi</w>
+  </absaspan>
+  <w>både</w>
+  <absaspan id=23 senti=1>
+    <w>saknar</w>
+    <w>förtroende</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>henne</w>
+    <w>som</w>
+    <w>samordnare</w>
+  </absaspan>
+  <w>och</w>
+  <w>för</w>
+  <absaspan id=25>
+    <w>de</w>
+    <w>åtgärder</w>
+    <w>hon</w>
+    <w>redovisat</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>att</w>
+  <w>upprätta</w>
+  <w>en</w>
+  <w>stödtelefon</w>
+  <w>och</w>
+  <w>ett</w>
+  <w>utvecklat</w>
+  <w>genusperspektiv</w>
+  <w>.</w>
+  <absaspan id=26>
+    <w>Sverigedemokraterna</w>
+  </absaspan>
+  <w>tror</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=27 senti=4>
+    <w>behövs</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>ett</w>
+    <w>betydligt</w>
+    <w>mer</w>
+    <w>kraftfullt</w>
+    <w>agerande</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>komma</w>
+  <w>tillrätta</w>
+  <w>med</w>
+  <w>den</w>
+  <absaspan id=29 senti=1>
+    <w>våldsbejakande</w>
+    <w>extremismen</w>
+  </absaspan>
+  <w>i</w>
+  <w>landet</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>I</w>
+  <w>stället</w>
+  <w>bör</w>
+  <w>regeringen</w>
+  <w>tillsätta</w>
+  <w>en</w>
+  <w>samordnare</w>
+  <w>med</w>
+  <w>väl</w>
+  <w>dokumenterad</w>
+  <w>kunskap</w>
+  <w>om</w>
+  <absaspan id=30 senti=1>
+    <w>terrorism</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=31 senti=1>
+    <w>extremism</w>
+  </absaspan>
+  <w>,</w>
+  <w>samt</w>
+  <w>erfarenhet</w>
+  <w>av</w>
+  <w>militära</w>
+  <w>,</w>
+  <w>polisiära</w>
+  <w>eller</w>
+  <w>civila</w>
+  <w>områden</w>
+  <w>.</w>
+  <w>Den</w>
+  <w>efterfrågade</w>
+  <w>kunskapen</w>
+  <w>bör</w>
+  <w>i</w>
+  <w>första</w>
+  <w>hand</w>
+  <w>ha</w>
+  <w>förvärvats</w>
+  <w>genom</w>
+  <w>yrkesarbete</w>
+  <w>utan</w>
+  <w>politisk</w>
+  <w>koppling</w>
+  <w>,</w>
+  <w>för</w>
+  <w>att</w>
+  <w>utvald</w>
+  <w>person</w>
+  <w>på</w>
+  <w>ett</w>
+  <w>oberoende</w>
+  <w>sätt</w>
+  <w>ska</w>
+  <w>kunna</w>
+  <w>knyta</w>
+  <absaspan id=32 senti=4>
+    <w>lämpliga</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>experter</w>
+  </absaspan>
+  <w>till</w>
+  <w>sin</w>
+  <w>grupp</w>
+  <w>.</w>
+  <w>Enligt</w>
+  <w>vår</w>
+  <w>mening</w>
+  <w>saknar</w>
+  <w>nuvarande</w>
+  <w>samordnare</w>
+  <w>dessa</w>
+  <w>egenskaper</w>
+  <w>.</w>
+  <w>Riksdagen</w>
+  <w>bör</w>
+  <w>därför</w>
+  <w>meddela</w>
+  <w>regeringen</w>
+  <w>att</w>
+  <w>ett</w>
+  <w>förslag</w>
+  <w>på</w>
+  <w>ny</w>
+  <w>samordnare</w>
+  <w>efterfrågas</w>
+  <w>,</w>
+  <w>och</w>
+  <w>att</w>
+  <w>ärendet</w>
+  <w>bör</w>
+  <w>hanteras</w>
+  <w>skyndsamt</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=3>
+  <w>För</w>
+  <w>att</w>
+  <w>kunna</w>
+  <w>hantera</w>
+  <w>hotet</w>
+  <w>från</w>
+  <absaspan id=34 senti=1>
+    <w>våldsbejakande</w>
+    <w>extremism</w>
+  </absaspan>
+  <w>krävs</w>
+  <w>självklart</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>en</w>
+  <w>samordnare</w>
+  <w>.</w>
+  <absaspan id=35>
+    <w>Att</w>
+    <w>införa</w>
+    <w>gränskontroller</w>
+  </absaspan>
+  <absaspan id=36 senti=5>
+    <w>är</w>
+    <w>av</w>
+    <w>yttersta</w>
+    <w>vikt</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>kunna</w>
+  <w>skapa</w>
+  <w>sig</w>
+  <w>en</w>
+  <w>bild</w>
+  <w>av</w>
+  <w>vilka</w>
+  <w>som</w>
+  <w>kommer</w>
+  <w>in</w>
+  <w>i</w>
+  <w>vårt</w>
+  <w>land</w>
+  <w>.</w>
+  <w>I</w>
+  <w>en</w>
+  <w>tid</w>
+  <w>då</w>
+  <w>inströmningen</w>
+  <w>av</w>
+  <w>antalet</w>
+  <w>potentiella</w>
+  <absaspan id=37 senti=1>
+    <w>terrorister</w>
+  </absaspan>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>ökar</w>
+  <w>,</w>
+  <w>samtidigt</w>
+  <w>som</w>
+  <w>det</w>
+  <w>största</w>
+  <w>attentatshotet</w>
+  <w>kommer</w>
+  <w>från</w>
+  <absaspan id=38 senti=1>
+    <w>våldsbejakande</w>
+    <w>islamistisk</w>
+    <w>extremism</w>
+  </absaspan>
+  <w>,</w>
+  <w>krävs</w>
+  <w>en</w>
+  <w>översyn</w>
+  <w>av</w>
+  <w>det</w>
+  <w>rådande</w>
+  <w>systemet</w>
+  <w>för</w>
+  <w>rikets</w>
+  <w>säkerhet</w>
+  <w>.</w>
+</absapar>
+<absapar id=7 senti=2>
+  <w>Sverigedemokraternas</w>
+  <w>budgetförslag</w>
+  <w>bygger</w>
+  <w>på</w>
+  <w>säkerhet</w>
+  <w>och</w>
+  <w>ansvar</w>
+  <w>.</w>
+  <w>En</w>
+  <w>minskad</w>
+  <w>invandring</w>
+  <w>är</w>
+  <w>avgörande</w>
+  <w>för</w>
+  <w>att</w>
+  <w>kunna</w>
+  <w>upprätthålla</w>
+  <w>säkerheten</w>
+  <w>,</w>
+  <w>både</w>
+  <w>för</w>
+  <w>medborgarna</w>
+  <w>i</w>
+  <w>vårt</w>
+  <w>land</w>
+  <w>och</w>
+  <w>för</w>
+  <w>de</w>
+  <w>mest</w>
+  <w>utsatta</w>
+  <w>som</w>
+  <w>faktiskt</w>
+  <w>flyr</w>
+  <w>från</w>
+  <w>krig</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Kent</w>
+  <w>Ekeroth</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Ledamot</w>
+  <w>Justitieutskottet</w>
+  <w>och</w>
+  <w>talesperson</w>
+  <w>i</w>
+  <w>frågor</w>
+  <w>som</w>
+  <w>rör</w>
+  <w>gränsbevakning</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Jonas</w>
+  <w>Millard</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Ledamot</w>
+  <w>Konstitutionsutskottet</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Fredrik</w>
+  <w>Eriksson</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Ledamot</w>
+  <w>Konstitutionsutskottet</w>
+  <w>.</w>
+</absapar>
+</absadoc>

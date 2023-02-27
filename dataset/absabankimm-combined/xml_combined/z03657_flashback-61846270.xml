@@ -1,0 +1,180 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Vem</w>
+  <w>äter</w>
+  <w>saltgurka</w>
+  <w>direkt</w>
+  <w>ur</w>
+  <w>tunnan</w>
+  <w>på</w>
+  <w>COOP</w>
+  <absaspan id=1 senti=2>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Ja</w>
+  <w>ni</w>
+  <w>har</w>
+  <w>säkert</w>
+  <w>läst</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>i</w>
+  <w>tidningarna</w>
+  <w>,</w>
+  <w>men</w>
+  <w>här</w>
+  <w>kommer</w>
+  <w>annars</w>
+  <w>en</w>
+  <w>länk</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Är</w>
+  <w>detta</w>
+  <w>någon</w>
+  <w>ny</w>
+  <w>form</w>
+  <w>av</w>
+  <absaspan id=2 senti=2>
+    <w>"</w>
+    <w>jag-smakar-på-vindruvorna-för-det-är-min-rätt-som-konsument</w>
+    <w>"</w>
+  </absaspan>
+  <w>-</w>
+  <absaspan id=3>
+    <w>attityd</w>
+  </absaspan>
+  <w>bland</w>
+  <w>folk</w>
+  <w>i</w>
+  <w>allmänhet</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=4>
+    <w>Eller</w>
+    <w>är</w>
+    <w>det</w>
+    <w>bara</w>
+    <w>några</w>
+    <w>få</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>rötägg</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>som</w>
+    <w>fakrisk</w>
+    <w>tar</w>
+    <w>upp</w>
+    <w>en</w>
+    <w>saltgurka</w>
+    <w>och</w>
+    <w>tar</w>
+    <w>ett</w>
+    <w>bett</w>
+    <w>för</w>
+    <w>att</w>
+    <w>sedan</w>
+    <w>kasta</w>
+    <w>tillbaka</w>
+    <w>resten</w>
+    <w>i</w>
+    <w>ren</w>
+    <w>illvilja</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=7 senti=1>
+    <w>Väldigt</w>
+    <w>äckligt</w>
+  </absaspan>
+  <w>om</w>
+  <w>ni</w>
+  <w>frågar</w>
+  <w>mig</w>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=8 senti=2>
+    <w>synd</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>att</w>
+    <w>de</w>
+    <w>slutar</w>
+    <w>sälja</w>
+    <w>pga</w>
+    <w>detta</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=10>
+    <w>Kanske</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>borde</w>
+    <w>läggas</w>
+    <w>ut</w>
+    <w>på</w>
+    <w>veckans</w>
+    <w>brott</w>
+    <w>så</w>
+    <w>att</w>
+    <w>någon</w>
+    <w>ur</w>
+    <w>allmänheten</w>
+    <w>kanske</w>
+    <w>känner</w>
+    <w>igen</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>beter</w>
+    <w>sig</w>
+    <w>så</w>
+    <w>här</w>
+    <w>äckligt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Självklart</w>
+  <w>kommer</w>
+  <w>detta</w>
+  <w>aldrig</w>
+  <w>att</w>
+  <w>ske</w>
+  <w>,</w>
+  <w>men</w>
+  <w>det</w>
+  <absaspan id=15 senti=4>
+    <w>hade</w>
+    <w>varit</w>
+    <w>häftigt</w>
+    <w>och</w>
+    <w>lite</w>
+    <w>roligt</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>om</w>
+    <w>så</w>
+    <w>skedde</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Tankar</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

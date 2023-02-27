@@ -1,0 +1,170 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>brittisk</w>
+    <w>minister</w>
+  </absaspan>
+  <absaspan id=2 senti=2 source=1 target=3>
+    <w>kritiserar</w>
+  </absaspan>
+  <w>öppet</w>
+  <absaspan id=3>
+    <w>multikultur</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Ett</w>
+  <absaspan id=4 senti=4>
+    <w>väldigt</w>
+    <w>intressant</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>tal</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>brittiska</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>kommunministern</w>
+  </absaspan>
+  <w>där</w>
+  <absaspan id=8>
+    <w>hon</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>ifrågasätter</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>den</w>
+    <w>multikulturella</w>
+    <w>strategin</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=11 senti=2>
+    <w>är</w>
+    <w>rädd</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>att</w>
+    <w>den</w>
+    <w>skapat</w>
+    <w>islolerade</w>
+    <w>samhällen</w>
+    <w>utan</w>
+    <w>sammanhang</w>
+    <w>inom</w>
+    <w>landet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Hon</w>
+  <w>menar</w>
+  <w>att</w>
+  <w>man</w>
+  <w>nu</w>
+  <w>måste</w>
+  <w>ställa</w>
+  <w>krav</w>
+  <w>på</w>
+  <w>vissa</w>
+  <w>grupper</w>
+  <w>att</w>
+  <w>anpassa</w>
+  <w>sig</w>
+  <w>till</w>
+  <w>vissa</w>
+  <w>normer</w>
+  <w>och</w>
+  <w>värderingar</w>
+  <w>,</w>
+  <w>och</w>
+  <w>att</w>
+  <w>man</w>
+  <w>ska</w>
+  <w>tala</w>
+  <w>öppet</w>
+  <w>om</w>
+  <w>vilka</w>
+  <w>dessa</w>
+  <w>grupper</w>
+  <w>är</w>
+  <w>och</w>
+  <w>hur</w>
+  <w>man</w>
+  <w>bör</w>
+  <w>agera</w>
+  <w>mot</w>
+  <w>dem</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>En</w>
+  <w>kommission</w>
+  <w>ska</w>
+  <w>nu</w>
+  <w>utreda</w>
+  <w>hur</w>
+  <w>man</w>
+  <w>bäst</w>
+  <w>ska</w>
+  <w>tackla</w>
+  <absaspan id=13 senti=2>
+    <w>problemet</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>.</w>
+  </absaspan>
+  <w>Värt</w>
+  <w>att</w>
+  <w>notera</w>
+  <w>är</w>
+  <w>att</w>
+  <w>ordet</w>
+  <w>"</w>
+  <w>integration</w>
+  <w>"</w>
+  <w>i</w>
+  <w>den</w>
+  <w>brittiska</w>
+  <w>debatten</w>
+  <w>nu</w>
+  <w>fått</w>
+  <w>sällskap</w>
+  <w>av</w>
+  <w>det</w>
+  <w>mer</w>
+  <w>tvingande</w>
+  <w>ordet</w>
+  <w>"</w>
+  <w>cohesion</w>
+  <w>"</w>
+  <w>-</w>
+  <w>som</w>
+  <w>betyder</w>
+  <w>sammanhang</w>
+  <w>-</w>
+  <w>dvs</w>
+  <w>raka</w>
+  <w>motsatsen</w>
+  <w>till</w>
+  <w>"</w>
+  <w>mångfald</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>protofascism</w>
+  <w>eller</w>
+  <w>tillnyktring</w>
+  <w>i</w>
+  <w>verkligheten</w>
+  <w>-</w>
+  <w>comments</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

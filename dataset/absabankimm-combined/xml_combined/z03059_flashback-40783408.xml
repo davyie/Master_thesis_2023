@@ -1,0 +1,171 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Expo</w>
+  <w>:</w>
+  <absaspan id=1>
+    <w>Yttrandefrihet</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>skapar</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>-</w>
+  <w>invandringspolitik</w>
+  <w>får</w>
+  <w>inte</w>
+  <w>diskuteras</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Alexander</w>
+  <w>Bengtsson</w>
+  <w>är</w>
+  <w>utbildningschef</w>
+  <w>på</w>
+  <w>den</w>
+  <absaspan id=3 senti=2>
+    <w>svenskfientliga</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>stiftelsen</w>
+    <w>Expo</w>
+  </absaspan>
+  <w>och</w>
+  <w>håller</w>
+  <w>kontinuerligt</w>
+  <w>föreläsningar</w>
+  <w>för</w>
+  <w>vilka</w>
+  <w>han</w>
+  <w>har</w>
+  <w>tagit</w>
+  <w>10</w>
+  <w>000</w>
+  <w>-</w>
+  <w>15</w>
+  <w>000</w>
+  <w>kronor</w>
+  <w>i</w>
+  <w>betalning</w>
+  <w>.</w>
+  <w>Förra</w>
+  <w>året</w>
+  <w>fick</w>
+  <w>han</w>
+  <w>av</w>
+  <w>Studieförbundet</w>
+  <w>Vuxenskolan</w>
+  <w>pris</w>
+  <w>som</w>
+  <w></w>
+  <w>Årets</w>
+  <w>folkildare</w>
+  <w></w>
+  <w>med</w>
+  <w>en</w>
+  <w>check</w>
+  <w>på</w>
+  <w>25</w>
+  <w>000</w>
+  <w>kronor</w>
+  <w>.</w>
+  <w>För</w>
+  <absaspan id=5>
+    <w>Alexander</w>
+    <w>Bengtsson</w>
+  </absaspan>
+  <w>är</w>
+  <w>det</w>
+  <w>lukrativt</w>
+  <w>att</w>
+  <w>diskutera</w>
+  <w>integration</w>
+  <w>och</w>
+  <absaspan id=6 senti=2>
+    <w>varna</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>rasism</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>Expo's</w>
+  <w>önskan</w>
+  <w>om</w>
+  <w>att</w>
+  <w>införa</w>
+  <w>ett</w>
+  <absaspan id=8 senti=2>
+    <w>Stalinistiskt</w>
+    <w>diktatursamhälle</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=9>
+    <w>rädda</w>
+    <w>folket</w>
+    <w>från</w>
+    <w>"</w>
+    <w>rasismen</w>
+    <w>"</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Svenska</w>
+  <w>skolan</w>
+  <w>ska</w>
+  <w>aktivt</w>
+  <w>arbeta</w>
+  <w>för</w>
+  <w>yttrandefrihet</w>
+  <w>och</w>
+  <w>demokrati</w>
+  <w>.</w>
+  <absaspan id=10 senti=2>
+    <w>Är</w>
+    <w>det</w>
+    <w>då</w>
+    <w>rimligt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=11>
+    <w>regelbundet</w>
+    <w>hyra</w>
+    <w>in</w>
+    <w>"</w>
+    <w>experter</w>
+    <w>"</w>
+    <w>från</w>
+    <w>Expo</w>
+    <w>som</w>
+    <w>tar</w>
+    <w>10</w>
+    <w>000</w>
+    <w>-</w>
+    <w>15</w>
+    <w>000</w>
+    <w>kronor</w>
+    <w>per</w>
+    <w>föreläsning</w>
+    <w>för</w>
+    <w>att</w>
+    <w>lära</w>
+    <w>barnen</w>
+    <w>att</w>
+    <w>fria</w>
+    <w>diskussioner</w>
+    <w>är</w>
+    <w>rasistiskt</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

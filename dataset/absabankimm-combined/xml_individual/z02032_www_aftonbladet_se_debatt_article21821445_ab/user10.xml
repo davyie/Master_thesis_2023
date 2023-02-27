@@ -1,0 +1,674 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Satsningarna</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>räcker</w>
+    <w>inte</w>
+  </absaspan>
+  <w>,</w>
+  <w>Bah</w>
+  <w>Kuhnke</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>SLUTREPLIK</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <absaspan id=3 senti=5>
+    <w>positivt</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>att</w>
+    <w>Alice</w>
+    <w>Bah</w>
+    <w>Kuhnke</w>
+    <w>ser</w>
+    <w>rasismen</w>
+    <w>som</w>
+    <w>ett</w>
+    <w>av</w>
+    <w>vår</w>
+    <w>tids</w>
+    <w>stora</w>
+    <w>samhällsproblem</w>
+  </absaspan>
+  <w>(</w>
+  <w>11</w>
+  <w>/</w>
+  <w>18</w>
+  <w>)</w>
+  <w>.</w>
+  <w>Ändå</w>
+  <w>är</w>
+  <absaspan id=5>
+    <w>regeringens</w>
+    <w>satsningar</w>
+    <w>för</w>
+    <w>att</w>
+    <w>bekämpa</w>
+    <w>rasismen</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>otillräckliga</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Även</w>
+  <w>om</w>
+  <absaspan id=7>
+    <w>regeringen</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>vill</w>
+    <w>slå</w>
+    <w>på</w>
+    <w>stortrumman</w>
+  </absaspan>
+  <w>med</w>
+  <w>sin</w>
+  <w>nationella</w>
+  <w>handlingsplan</w>
+  <w>mot</w>
+  <w>rasism</w>
+  <w>,</w>
+  <w>så</w>
+  <w>är</w>
+  <w>sammanlagt</w>
+  <w>20</w>
+  <w>miljoner</w>
+  <w>på</w>
+  <w>fyra</w>
+  <w>år</w>
+  <w>för</w>
+  <w>en</w>
+  <w>sådan</w>
+  <w>plan</w>
+  <w>inte</w>
+  <w>mycket</w>
+  <w>.</w>
+  <w>I</w>
+  <w>sin</w>
+  <w>nästa</w>
+  <w>budget</w>
+  <w>borde</w>
+  <w>regeringen</w>
+  <w>satsa</w>
+  <w>lika</w>
+  <w>stort</w>
+  <w>på</w>
+  <w>antirasism</w>
+  <w>som</w>
+  <w>den</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>satsar</w>
+  <w>på</w>
+  <w>jämställdhet</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Dessutom</w>
+  <w>borde</w>
+  <w>en</w>
+  <absaspan id=9 senti=4>
+    <w>ambitiös</w>
+  </absaspan>
+  <w>handlingsplan</w>
+  <w>mot</w>
+  <w>rasism</w>
+  <w>utvecklas</w>
+  <w>i</w>
+  <w>nära</w>
+  <w>samarbete</w>
+  <w>med</w>
+  <w>en</w>
+  <w>bred</w>
+  <w>koalition</w>
+  <w>av</w>
+  <w>civilsamhällesorganisationer</w>
+  <w>och</w>
+  <w>relevanta</w>
+  <w>experter</w>
+  <w>i</w>
+  <w>enlighet</w>
+  <w>med</w>
+  <w>FN</w>
+  <w>:</w>
+  <w>s</w>
+  <w>riktlinjer</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>FN</w>
+  <w>betonar</w>
+  <w>att</w>
+  <w>civilsamhället</w>
+  <w>och</w>
+  <w>experter</w>
+  <w>snarare</w>
+  <w>än</w>
+  <w>regeringsrepresentanter</w>
+  <w>bör</w>
+  <w>vara</w>
+  <w>tongivande</w>
+  <w>när</w>
+  <w>en</w>
+  <w>nationell</w>
+  <w>handlingsplan</w>
+  <w>mot</w>
+  <w>rasism</w>
+  <w>tas</w>
+  <w>fram</w>
+  <w>.</w>
+  <w>De</w>
+  <w>dialoger</w>
+  <w>med</w>
+  <w>civilsamhället</w>
+  <w>som</w>
+  <w>Ministern</w>
+  <w>refererar</w>
+  <w>till</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>replik</w>
+  <w>räcker</w>
+  <w>inte</w>
+  <w>i</w>
+  <w>detta</w>
+  <w>avseende</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Vi</w>
+  <w>vill</w>
+  <w>se</w>
+  <absaspan id=10>
+    <w>en</w>
+    <w>nationell</w>
+    <w>förklaring</w>
+    <w>och</w>
+    <w>handlingsplan</w>
+    <w>mot</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>utvecklad</w>
+  <w>och</w>
+  <absaspan id=11 senti=4>
+    <w>understödd</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>en</w>
+    <w>bred</w>
+    <w>koalition</w>
+    <w>av</w>
+    <w>civilsamhällesorganisationer</w>
+    <w>och</w>
+    <w>sakkunniga</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=13>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=14 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <w>även</w>
+  <absaspan id=15 senti=4>
+    <w>uppmuntra</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>alla</w>
+    <w>politiska</w>
+    <w>partier</w>
+    <w>att</w>
+    <w>utveckla</w>
+    <w>omfattande</w>
+    <w>åtgärdsprogram</w>
+    <w>mot</w>
+    <w>rasismen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Vi</w>
+  <w>står</w>
+  <w>bakom</w>
+  <w>projektet</w>
+  <w>#</w>
+  <w>SverigeFörAlla</w>
+  <w>som</w>
+  <w>ämnar</w>
+  <w>åstadkomma</w>
+  <w>just</w>
+  <w>detta</w>
+  <w>.</w>
+  <w>Projektet</w>
+  <w>ligger</w>
+  <w>nu</w>
+  <w>hos</w>
+  <w>regeringen</w>
+  <w>och</w>
+  <w>Malmös</w>
+  <w>kommunstyrelse</w>
+  <w>för</w>
+  <w>övervägande</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>kostar</w>
+  <w>en</w>
+  <w>bråkdel</w>
+  <w>av</w>
+  <w>de</w>
+  <w>10</w>
+  <w>miljoner</w>
+  <w>som</w>
+  <w>den</w>
+  <w>förra</w>
+  <w>regeringen</w>
+  <w>gav</w>
+  <w>till</w>
+  <w>den</w>
+  <w>feministiska</w>
+  <w>festivalen</w>
+  <w>Nordiskt</w>
+  <w>Forum</w>
+  <w>förra</w>
+  <w>året</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Men</w>
+  <w>oavsett</w>
+  <w>om</w>
+  <absaspan id=17>
+    <w>regeringen</w>
+  </absaspan>
+  <w>väljer</w>
+  <w>att</w>
+  <absaspan id=18 senti=3>
+    <w>stödja</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>projektet</w>
+  </absaspan>
+  <absaspan id=20 senti=3>
+    <w>eller</w>
+  </absaspan>
+  <absaspan id=21 senti=3>
+    <w>ej</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=22 senti=4>
+    <w>hoppas</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=24 senti=4>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>en</w>
+    <w>inbjudan</w>
+    <w>till</w>
+    <w>samtal</w>
+    <w>om</w>
+    <w>hur</w>
+    <w>vi</w>
+    <w>kan</w>
+    <w>samarbeta</w>
+    <w>kring</w>
+    <w>en</w>
+    <w>nationell</w>
+    <w>handlingsplan</w>
+  </absaspan>
+  <w>.</w>
+  <w>Överhuvudtaget</w>
+  <w>vill</w>
+  <w>vi</w>
+  <w>öppna</w>
+  <w>upp</w>
+  <w>för</w>
+  <w>dialoger</w>
+  <w>med</w>
+  <w>landets</w>
+  <w>politiska</w>
+  <w>partier</w>
+  <w>om</w>
+  <w>hur</w>
+  <w>vi</w>
+  <w>kan</w>
+  <w>lyfta</w>
+  <w>antirasism</w>
+  <w>på</w>
+  <w>den</w>
+  <w>politiska</w>
+  <w>dagordningen</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Jämlikhet</w>
+  <w>och</w>
+  <w>ickediskriminering</w>
+  <w>måste</w>
+  <w>bli</w>
+  <w>en</w>
+  <w>självklar</w>
+  <w>utgångspunkt</w>
+  <w>i</w>
+  <w>politiken</w>
+  <w>och</w>
+  <w>samhället</w>
+  <w>i</w>
+  <w>stort</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Afrosvenskarnas</w>
+  <w>riksförbund</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Antidiskrimineringsbyrån</w>
+  <w>Helsingborg</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Antirasistiska</w>
+  <w>akademin</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Black</w>
+  <w>Coffee</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Byrån</w>
+  <w>för</w>
+  <w>lika</w>
+  <w>rättigheter</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Centralförbundet</w>
+  <w>Roma</w>
+  <w>International</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>CinemAfrica</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>Civil</w>
+  <w>Rights</w>
+  <w>Defenders</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>Diskrimineringsbyrån</w>
+  <w>Uppsala</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>Ensamkommandes</w>
+  <w>förbund</w>
+  <w>.</w>
+</absapar>
+<absapar id=19>
+  <w>English</w>
+  <w>International</w>
+  <w>Association</w>
+  <w>i</w>
+  <w>Lund</w>
+  <w>.</w>
+</absapar>
+<absapar id=20>
+  <w>Fight</w>
+  <w>Racism</w>
+  <w>Now</w>
+  <w>(</w>
+  <w>FRN</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=21>
+  <w>FN</w>
+  <w>förbundet</w>
+  <w>i</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=22>
+  <w>Förbundet</w>
+  <w>Hassela</w>
+  <w>Solidaritet</w>
+  <w>.</w>
+</absapar>
+<absapar id=23>
+  <w>Föreningen</w>
+  <w>Tryck</w>
+  <w>.</w>
+</absapar>
+<absapar id=24>
+  <w>Guatemalanska</w>
+  <w>föreningen</w>
+  <w>i</w>
+  <w>Lund</w>
+  <w>.</w>
+</absapar>
+<absapar id=25>
+  <w>Göteborgs</w>
+  <w>rättighetscenter</w>
+  <w>.</w>
+</absapar>
+<absapar id=26>
+  <w>Hassela</w>
+  <w>Ungdomsrörelsen</w>
+  <w>.</w>
+</absapar>
+<absapar id=27>
+  <w>Ibn</w>
+  <w>Rushd</w>
+  <w>studieförbund</w>
+  <w>.</w>
+</absapar>
+<absapar id=28>
+  <w>Interfem</w>
+  <w>.</w>
+</absapar>
+<absapar id=29>
+  <w>Kurdiska</w>
+  <w>federationen</w>
+  <w>paraply</w>
+  <w>.</w>
+</absapar>
+<absapar id=30>
+  <w>Kultwatch</w>
+  <w>.</w>
+</absapar>
+<absapar id=31>
+  <w>Landsförbundet</w>
+  <w>svenska</w>
+  <w>samer</w>
+  <w>.</w>
+</absapar>
+<absapar id=32>
+  <w>Malmö</w>
+  <w>jämställdhetsbyrå</w>
+  <w>.</w>
+</absapar>
+<absapar id=33>
+  <w>Malmö</w>
+  <w>mot</w>
+  <w>diskriminering</w>
+  <w>.</w>
+</absapar>
+<absapar id=34>
+  <w>Malmös</w>
+  <w>minoriteter</w>
+  <w>för</w>
+  <w>solidaritet</w>
+  <w>och</w>
+  <w>rättvisa</w>
+  <w>.</w>
+</absapar>
+<absapar id=35>
+  <w>Megafonen</w>
+  <w>.</w>
+</absapar>
+<absapar id=36>
+  <w>Mångkulturellt</w>
+  <w>centrum</w>
+  <w>.</w>
+</absapar>
+<absapar id=37>
+  <w>Nätverket</w>
+  <w>antirasister</w>
+  <w>i</w>
+  <w>Uppsala</w>
+  <w>.</w>
+</absapar>
+<absapar id=38>
+  <w>Organisation</w>
+  <w>for</w>
+  <w>Poverty</w>
+  <w>Alleviation</w>
+  <w>and</w>
+  <w>Development</w>
+  <w>(</w>
+  <w>OPAD</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=39>
+  <w>Orten</w>
+  <w>i</w>
+  <w>Fokus</w>
+  <w>.</w>
+</absapar>
+<absapar id=40>
+  <w>Pantrarna</w>
+  <w>.</w>
+</absapar>
+<absapar id=41>
+  <w>Raoul</w>
+  <w>Wallenberg</w>
+  <w>Institute</w>
+  <w>for</w>
+  <w>Human</w>
+  <w>Rights</w>
+  <w>.</w>
+</absapar>
+<absapar id=42>
+  <w>Revolution</w>
+  <w>poetry</w>
+  <w>.</w>
+</absapar>
+<absapar id=43>
+  <w>Roma</w>
+  <w>filmfestival</w>
+  <w>.</w>
+</absapar>
+<absapar id=44>
+  <w>Roma</w>
+  <w>institutet</w>
+  <w>.</w>
+</absapar>
+<absapar id=45>
+  <w>Romano</w>
+  <w>Pasos</w>
+  <w>Research</w>
+  <w>Center</w>
+  <w>.</w>
+</absapar>
+<absapar id=46>
+  <w>Romarådet</w>
+  <w>i</w>
+  <w>Helsingborg</w>
+  <w>.</w>
+</absapar>
+<absapar id=47>
+  <w>Romer</w>
+  <w>för</w>
+  <w>kulturell</w>
+  <w>utveckling</w>
+  <w>.</w>
+</absapar>
+<absapar id=48>
+  <w>Romska</w>
+  <w>rådet</w>
+  <w>i</w>
+  <w>Göteborg</w>
+  <w>.</w>
+</absapar>
+<absapar id=49>
+  <w>Riksförbundet</w>
+  <w>Romer</w>
+  <w>i</w>
+  <w>Europa</w>
+  <w>.</w>
+</absapar>
+<absapar id=50>
+  <w>Samarbetsorgan</w>
+  <w>för</w>
+  <w>etniska</w>
+  <w>organisationer</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>(</w>
+  <w>SIOS</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=51>
+  <w>Saminuorra</w>
+  <w>.</w>
+</absapar>
+<absapar id=52>
+  <w>Staden</w>
+  <w>är</w>
+  <w>din</w>
+  <w>.</w>
+</absapar>
+<absapar id=53>
+  <w>Svenska</w>
+  <w>muslimer</w>
+  <w>för</w>
+  <w>fred</w>
+  <w>och</w>
+  <w>rättvisa</w>
+  <w>.</w>
+</absapar>
+<absapar id=54>
+  <w>Sveriges</w>
+  <w>unga</w>
+  <w>muslimer</w>
+  <w>.</w>
+</absapar>
+<absapar id=55>
+  <w>Tamam</w>
+  <w>.</w>
+</absapar>
+<absapar id=56>
+  <w>Teskedsorden</w>
+  <w>.</w>
+</absapar>
+<absapar id=57>
+  <w>Ungdom</w>
+  <w>mot</w>
+  <w>rasism</w>
+  <w>.</w>
+</absapar>
+<absapar id=58>
+  <w>Örebro</w>
+  <w>rättighetscenter</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,748 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Thatcher</w>
+  <w>moderniserade</w>
+  <w>nedgånget</w>
+  <w>Storbritannien</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Margret</w>
+  <w>Thatcher</w>
+  <w>kommer</w>
+  <w>bli</w>
+  <w>hågkommen</w>
+  <w>för</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>–</w>
+  <w>i</w>
+  <w>strid</w>
+  <w>med</w>
+  <w>media</w>
+  <w>,</w>
+  <w>fackföreningspampar</w>
+  <w>och</w>
+  <w>politiskt</w>
+  <w>etablissemang</w>
+  <w>–</w>
+  <w>moderniserade</w>
+  <w>ett</w>
+  <w>nergånget</w>
+  <w>Storbritannien</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Hon</w>
+  <w>gjorde</w>
+  <w>upp</w>
+  <w>med</w>
+  <w>de</w>
+  <w>särintressen</w>
+  <w>som</w>
+  <w>gjorde</w>
+  <w>att</w>
+  <w>den</w>
+  <w>gamla</w>
+  <w>imperiemakten</w>
+  <w>fick</w>
+  <w>stå</w>
+  <w>med</w>
+  <w>mössan</w>
+  <w>i</w>
+  <w>hand</w>
+  <w>hos</w>
+  <w>IMF</w>
+  <w>,</w>
+  <w>och</w>
+  <w>förvandlade</w>
+  <w>dåtidens</w>
+  <w>Grekland</w>
+  <w>till</w>
+  <w>en</w>
+  <w>av</w>
+  <absaspan id=1 senti=4>
+    <w>världens</w>
+    <w>mest</w>
+    <w>konkurrenskraftiga</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>ekonomier</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Hon</w>
+  <w>tog</w>
+  <w>strid</w>
+  <w>med</w>
+  <w>dem</w>
+  <w>som</w>
+  <w>trodde</w>
+  <w>att</w>
+  <w>välfärd</w>
+  <w>och</w>
+  <w>jobb</w>
+  <w>skapades</w>
+  <w>genom</w>
+  <w>politiska</w>
+  <w>beslut</w>
+  <w>och</w>
+  <w>mot</w>
+  <w>dem</w>
+  <w>som</w>
+  <w>trodde</w>
+  <w>att</w>
+  <w>freden</w>
+  <w>vanns</w>
+  <w>bara</w>
+  <w>demokratierna</w>
+  <w>la</w>
+  <w>ner</w>
+  <w>sina</w>
+  <w>vapen</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Den</w>
+  <w>stora</w>
+  <w>lärdomen</w>
+  <w>från</w>
+  <w>hennes</w>
+  <w>gärning</w>
+  <w>är</w>
+  <w>att</w>
+  <w>media</w>
+  <w>och</w>
+  <w>kravmaskiner</w>
+  <w>sällan</w>
+  <w>demonstrerar</w>
+  <w>mot</w>
+  <w>dem</w>
+  <w>som</w>
+  <w>leder</w>
+  <w>vägen</w>
+  <w>utför</w>
+  <w>men</w>
+  <w>alltid</w>
+  <w>mot</w>
+  <absaspan id=3>
+    <w>dem</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=4 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>vända</w>
+    <w>utvecklingen</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=6>
+    <w>göra</w>
+    <w>det</w>
+    <w>svåra</w>
+    <w>men</w>
+    <w>nödvändiga</w>
+  </absaspan>
+  <w>och</w>
+  <w>som</w>
+  <w>bryter</w>
+  <w>ny</w>
+  <w>mark</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Det</w>
+  <w>tillhör</w>
+  <w>en</w>
+  <w>av</w>
+  <w>politikens</w>
+  <w>paradoxer</w>
+  <w>att</w>
+  <w>de</w>
+  <w>politiker</w>
+  <w>som</w>
+  <w>låter</w>
+  <w>allt</w>
+  <w>gå</w>
+  <w>som</w>
+  <absaspan id=7>
+    <w>opinionen</w>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>sällan</w>
+    <w>blir</w>
+    <w>populära</w>
+    <w>eller</w>
+    <w>hågkomna</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>snarare</w>
+  <w>de</w>
+  <w>kriser</w>
+  <w>som</w>
+  <w>deras</w>
+  <w>populism</w>
+  <w>ledde</w>
+  <w>till</w>
+  <w>som</w>
+  <w>historien</w>
+  <w>minns</w>
+  <w>.</w>
+  <absaspan id=9>
+    <w>De</w>
+    <w>som</w>
+    <w>bryter</w>
+    <w>mot</w>
+    <w>populismen</w>
+  </absaspan>
+  <w>och</w>
+  <w>bryter</w>
+  <w>ny</w>
+  <w>väg</w>
+  <absaspan id=10 senti=2>
+    <w>blir</w>
+    <w>sällan</w>
+    <w>älskade</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=11>
+    <w>media</w>
+  </absaspan>
+  <w>men</w>
+  <absaspan id=12 senti=4>
+    <w>oftast</w>
+    <w>populära</w>
+    <w>och</w>
+    <w>ihågkomna</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=13>
+    <w>historien</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>För</w>
+  <w>att</w>
+  <w>tala</w>
+  <w>i</w>
+  <w>termer</w>
+  <w>av</w>
+  <w>den</w>
+  <w>kris</w>
+  <w>vi</w>
+  <w>nu</w>
+  <w>upplever</w>
+  <w>:</w>
+  <w>det</w>
+  <w>är</w>
+  <w>få</w>
+  <w>som</w>
+  <w>kommer</w>
+  <w>ihåg</w>
+  <w>de</w>
+  <w>beslut</w>
+  <w>som</w>
+  <w>ledde</w>
+  <w>Grekland</w>
+  <w>till</w>
+  <w>krisens</w>
+  <w>Aten</w>
+  <w>,</w>
+  <w>det</w>
+  <absaspan id=14 senti=2>
+    <w>finns</w>
+    <w>inga</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>hjältar</w>
+  </absaspan>
+  <w>längs</w>
+  <w>den</w>
+  <w>vägen</w>
+  <w>som</w>
+  <w>vi</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>minnas</w>
+  <w>och</w>
+  <absaspan id=16 senti=2>
+    <w>inga</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=17>
+    <w>grekerna</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>kommer</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>att</w>
+    <w>ära</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=20>
+    <w>pensioner</w>
+    <w>,</w>
+    <w>bidrag</w>
+    <w>och</w>
+    <w>subventioner</w>
+    <w>höjdes</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Det</w>
+  <w>är</w>
+  <w>däremot</w>
+  <w>många</w>
+  <w>som</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>minnas</w>
+  <w>Margret</w>
+  <w>Thatcher</w>
+  <w>för</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>vände</w>
+  <w>Storbritannien</w>
+  <w>från</w>
+  <w>sin</w>
+  <w>väg</w>
+  <w>mot</w>
+  <w>Aten</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>det</w>
+  <w>är</w>
+  <w>många</w>
+  <w>som</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>minnas</w>
+  <w>henne</w>
+  <w>för</w>
+  <w>att</w>
+  <w>den</w>
+  <w>brittiska</w>
+  <w>fackföreningsrörelsen</w>
+  <w>inte</w>
+  <w>längre</w>
+  <w>kunde</w>
+  <w>styra</w>
+  <w>över</w>
+  <w>landet</w>
+  <w>och</w>
+  <w>dess</w>
+  <w>ekonomi</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Med</w>
+  <w>tanke</w>
+  <w>på</w>
+  <w>det</w>
+  <absaspan id=21 senti=2>
+    <w>breda</w>
+    <w>motståndet</w>
+  </absaspan>
+  <w>mot</w>
+  <absaspan id=22>
+    <w>hennes</w>
+    <w>styre</w>
+  </absaspan>
+  <w>är</w>
+  <w>det</w>
+  <absaspan id=23 senti=4>
+    <w>viktigt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=24>
+    <w>vi</w>
+    <w>kommer</w>
+    <w>ihåg</w>
+    <w>att</w>
+    <w>Thatcher</w>
+    <w>fick</w>
+    <w>det</w>
+    <w>brittiska</w>
+    <w>folkets</w>
+    <w>förtroende</w>
+  </absaspan>
+  <w>att</w>
+  <w>leda</w>
+  <w>landet</w>
+  <w>i</w>
+  <w>tre</w>
+  <w>val</w>
+  <w>i</w>
+  <w>rad</w>
+  <absaspan id=25>
+    <w>.</w>
+  </absaspan>
+  <w>Därmed</w>
+  <w>förvandlade</w>
+  <w>hon</w>
+  <w>inte</w>
+  <w>bara</w>
+  <w>Storbritannien</w>
+  <w>utan</w>
+  <w>även</w>
+  <w>det</w>
+  <w>socialdemokratiska</w>
+  <w>partiet</w>
+  <w>i</w>
+  <w>grunden</w>
+  <w>.</w>
+  <w>När</w>
+  <w>hon</w>
+  <w>senare</w>
+  <w>fick</w>
+  <w>frågan</w>
+  <w>om</w>
+  <w>vilken</w>
+  <w>hennes</w>
+  <absaspan id=26 senti=4>
+    <w>största</w>
+    <w>bedrift</w>
+  </absaspan>
+  <w>var</w>
+  <w>svarade</w>
+  <absaspan id=27>
+    <w>Thatcher</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=28>
+    <w>Tony</w>
+    <w>Blair</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=29>
+    <w>Labour</w>
+  </absaspan>
+  <w>var</w>
+  <absaspan id=30 senti=3>
+    <w>tvungen</w>
+    <w>att</w>
+    <w>acceptera</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>den</w>
+    <w>modernitet</w>
+    <w>som</w>
+    <w>Thatcher</w>
+    <w>fört</w>
+    <w>landet</w>
+    <w>in</w>
+  </absaspan>
+  <w>i</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <absaspan id=32>
+    <w>Många</w>
+  </absaspan>
+  <w>kommer</w>
+  <w>också</w>
+  <w>att</w>
+  <absaspan id=33 senti=4>
+    <w>hedra</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>henne</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>tog</w>
+  <w>strid</w>
+  <w>mot</w>
+  <w>den</w>
+  <absaspan id=35>
+    <w>ensidiga</w>
+    <w>fredsrörelse</w>
+  </absaspan>
+  <w>som</w>
+  <w>ville</w>
+  <absaspan id=36 senti=2>
+    <w>nedrusta</w>
+    <w>demokratierna</w>
+    <w>i</w>
+    <w>Europa</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>blidka</w>
+  <w>rustningens</w>
+  <w>och</w>
+  <w>diktaturens</w>
+  <w>Sovjetunionen</w>
+  <w>.</w>
+  <absaspan id=37>
+    <w>Hon</w>
+  </absaspan>
+  <absaspan id=38 senti=4>
+    <w>bidrog</w>
+    <w>till</w>
+    <w>järnridåns</w>
+    <w>fall</w>
+    <w>och</w>
+    <w>det</w>
+    <w>nya</w>
+    <w>fria</w>
+    <w>Europa</w>
+  </absaspan>
+  <w>som</w>
+  <w>vi</w>
+  <w>idag</w>
+  <w>upplever</w>
+  <w>.</w>
+  <w>Inte</w>
+  <w>för</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>sjöng</w>
+  <w>med</w>
+  <w>utan</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=39>
+    <w>hon</w>
+  </absaspan>
+  <w>sjöng</w>
+  <w>emot</w>
+  <w>och</w>
+  <absaspan id=40 senti=4>
+    <w>stod</w>
+    <w>upp</w>
+    <w>för</w>
+  </absaspan>
+  <w>de</w>
+  <w>värden</w>
+  <w>demokrati</w>
+  <w>och</w>
+  <w>frihet</w>
+  <w>förutsätter</w>
+  <w>måste</w>
+  <w>försvaras</w>
+  <w>i</w>
+  <w>handling</w>
+  <w>och</w>
+  <w>inte</w>
+  <w>bara</w>
+  <w>i</w>
+  <w>ord</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Många</w>
+  <w>har</w>
+  <w>idag</w>
+  <w>glömt</w>
+  <w>bort</w>
+  <w>att</w>
+  <w>det</w>
+  <w>var</w>
+  <w>militärdiktaturens</w>
+  <w>Argentina</w>
+  <w>som</w>
+  <w>anföll</w>
+  <w>de</w>
+  <w>brittiska</w>
+  <w>Falklandsöarna</w>
+  <w>,</w>
+  <w>inte</w>
+  <w>tvärt</w>
+  <w>om</w>
+  <w>.</w>
+  <absaspan id=41>
+    <w>Thatcher</w>
+  </absaspan>
+  <w>klargjorde</w>
+  <w>att</w>
+  <absaspan id=42>
+    <w>militär</w>
+    <w>aggression</w>
+    <w>från</w>
+    <w>en</w>
+    <w>förtryckarregim</w>
+  </absaspan>
+  <absaspan id=43 senti=1>
+    <w>aldrig</w>
+    <w>kan</w>
+    <w>accepteras</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Kanske</w>
+  <absaspan id=44 senti=4>
+    <w>viktigast</w>
+  </absaspan>
+  <w>är</w>
+  <w>dock</w>
+  <w>att</w>
+  <absaspan id=45>
+    <w>hon</w>
+    <w>var</w>
+    <w>med</w>
+    <w>och</w>
+    <w>la</w>
+    <w>grunden</w>
+    <w>för</w>
+    <w>den</w>
+    <w>marknadsekonomiska</w>
+    <w>revolution</w>
+  </absaspan>
+  <w>som</w>
+  <w>gett</w>
+  <w>världen</w>
+  <w>och</w>
+  <w>fattiga</w>
+  <w>länder</w>
+  <w>en</w>
+  <w>från</w>
+  <w>historien</w>
+  <w>unik</w>
+  <w>seger</w>
+  <w>över</w>
+  <w>fattigdom</w>
+  <w>och</w>
+  <w>stagnation</w>
+  <w>.</w>
+  <w>Genom</w>
+  <w>handling</w>
+  <w>gav</w>
+  <w>hon</w>
+  <absaspan id=46>
+    <w>idéer</w>
+    <w>styrka</w>
+    <w>och</w>
+    <w>genomslagskraft</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=47 senti=4>
+    <w>gjort</w>
+    <w>vår</w>
+    <w>värld</w>
+    <w>bättre</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=48>
+    <w>Hon</w>
+  </absaspan>
+  <w>blev</w>
+  <w>inte</w>
+  <absaspan id=49 senti=4>
+    <w>populär</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>gjorde</w>
+  <w>sig</w>
+  <w>populär</w>
+  <w>utan</w>
+  <w>för</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>gjorde</w>
+  <w>det</w>
+  <w>populära</w>
+  <w>.</w>
+  <w>Vände</w>
+  <w>ett</w>
+  <w>land</w>
+  <w>.</w>
+  <absaspan id=50 senti=4>
+    <w>Besegrade</w>
+  </absaspan>
+  <absaspan id=51>
+    <w>kommunismen</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=52 senti=4>
+    <w>Gjorde</w>
+  </absaspan>
+  <absaspan id=53>
+    <w>frihetens</w>
+    <w>ideal</w>
+  </absaspan>
+  <absaspan id=54 senti=4>
+    <w>starkare</w>
+  </absaspan>
+  <w>.</w>
+  <w>Sådana</w>
+  <w>små</w>
+  <w>saker</w>
+  <w>som</w>
+  <w>historien</w>
+  <w>kommer</w>
+  <w>ihåg</w>
+  <w>till</w>
+  <w>skillnad</w>
+  <w>från</w>
+  <w>alla</w>
+  <w>dem</w>
+  <w>som</w>
+  <w>flöt</w>
+  <w>med</w>
+  <w>i</w>
+  <w>gamla</w>
+  <w>föreställningar</w>
+  <w>och</w>
+  <w>medias</w>
+  <w>krav</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>En</w>
+  <absaspan id=55 senti=4>
+    <w>stor</w>
+  </absaspan>
+  <absaspan id=56>
+    <w>politiker</w>
+  </absaspan>
+  <w>,</w>
+  <w>en</w>
+  <absaspan id=57 senti=4>
+    <w>modig</w>
+  </absaspan>
+  <absaspan id=58>
+    <w>människa</w>
+    <w>och</w>
+    <w>en</w>
+    <w>statsman</w>
+  </absaspan>
+  <w>har</w>
+  <w>gått</w>
+  <w>ur</w>
+  <w>tiden</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Men</w>
+  <w>det</w>
+  <w>hon</w>
+  <w>uppnådde</w>
+  <w>finns</w>
+  <w>kvar</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Gunnar</w>
+  <w>Hökmark</w>
+  <w>.</w>
+</absapar>
+</absadoc>

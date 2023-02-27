@@ -1,0 +1,45 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1 senti=1 source=2>
+    <w>Hat</w>
+    <w>och</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>från</w>
+  <absaspan id=2>
+    <w>andra</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>har</w>
+  <w>haft</w>
+  <w>en</w>
+  <absaspan id=3 senti=4>
+    <w>liberal</w>
+    <w>tolkning</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=4>
+    <w>världen</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>när</w>
+  <w>jag</w>
+  <w>läser</w>
+  <w>detta</w>
+  <absaspan id=5 senti=1>
+    <w>blir</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>rädd</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

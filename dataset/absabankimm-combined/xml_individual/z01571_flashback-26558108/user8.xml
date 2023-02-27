@@ -1,0 +1,119 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Hur</w>
+  <w>man</w>
+  <w>som</w>
+  <w>turist</w>
+  <w>påverkas</w>
+  <w>av</w>
+  <absaspan id=1 senti=1 target=1>
+    <w>rasism</w>
+  </absaspan>
+  <w>i</w>
+  <w>Estland</w>
+  <w>?</w>
+  <w>(</w>
+  <w>Ändrad</w>
+  <w>rubrik</w>
+  <w>)</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>ska</w>
+  <w>iväg</w>
+  <w>med</w>
+  <w>en</w>
+  <w>kompis</w>
+  <w>till</w>
+  <w>Tallinn</w>
+  <w>och</w>
+  <w>festa</w>
+  <w>i</w>
+  <w>2</w>
+  <w>dagar</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>undrar</w>
+  <w>då</w>
+  <w>hur</w>
+  <w>det</w>
+  <w>är</w>
+  <w>att</w>
+  <w>befinna</w>
+  <w>sig</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>öststatsland</w>
+  <w>där</w>
+  <w>de</w>
+  <w>nyligen</w>
+  <w>blivit</w>
+  <w>självständiga</w>
+  <w>plus</w>
+  <w>att</w>
+  <w>det</w>
+  <w>bara</w>
+  <w>finns</w>
+  <w>vitt</w>
+  <w>folk</w>
+  <w>där</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Tror</w>
+  <absaspan id=2>
+    <w>den</w>
+    <w>Svenska</w>
+  </absaspan>
+  <absaspan id=3 senti=1>
+    <w>rasismen</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>likaså</w>
+    <w>estniska</w>
+  </absaspan>
+  <absaspan id=5 senti=3>
+    <w>accepterar</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>turism</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>det</w>
+  <w>blir</w>
+  <w>nog</w>
+  <w>lite</w>
+  <w>svårt</w>
+  <w>att</w>
+  <w>se</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>är</w>
+  <w>turister</w>
+  <w>iomed</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>åker</w>
+  <w>vintertid</w>
+  <w>och</w>
+  <w>kommer</w>
+  <w>vara</w>
+  <w>på</w>
+  <w>vanliga</w>
+  <w>estniska</w>
+  <w>nattklubbar</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Tillägger</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>båda</w>
+  <w>härstammar</w>
+  <w>från</w>
+  <w>mellanöstern</w>
+  <w>.</w>
+</absapar>
+</absadoc>

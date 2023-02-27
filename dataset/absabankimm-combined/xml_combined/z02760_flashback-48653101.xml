@@ -1,0 +1,199 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>SVT</w>
+  <w>"</w>
+  <w>Blå</w>
+  <w>kommuner</w>
+  <w>tar</w>
+  <w>emot</w>
+  <w>färre</w>
+  <w>flyktingar</w>
+  <w>"</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Som</w>
+  <w>rubriken</w>
+  <w>lyder</w>
+  <w>så</w>
+  <w>har</w>
+  <w>SVT</w>
+  <w>alltså</w>
+  <w>kommit</w>
+  <w>fram</w>
+  <w>till</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>rikare</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>/</w>
+    <w>borgliga</w>
+    <w>kommuner</w>
+    <w>tar</w>
+    <w>emot</w>
+    <w>färre</w>
+    <w>flyktingar</w>
+    <w>,</w>
+    <w>än</w>
+    <w>vänsterledda</w>
+    <w>fattigare</w>
+    <w>komuner</w>
+    <w>med</w>
+    <w>högre</w>
+    <w>arbetslöshet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Reportaget</w>
+  <w>visades</w>
+  <w>nu</w>
+  <w>på</w>
+  <w>morgonen</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>väcker</w>
+  <w>ett</w>
+  <w>par</w>
+  <w>funderingar</w>
+  <w>.</w>
+  <w>Som</w>
+  <w>jag</w>
+  <w>gärna</w>
+  <w>vill</w>
+  <w>dela</w>
+  <w>med</w>
+  <w>er</w>
+  <w>på</w>
+  <w>flashback</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Jag</w>
+  <w>tänker</w>
+  <w>mig</w>
+  <w>att</w>
+  <w>det</w>
+  <w>ligger</w>
+  <w>mer</w>
+  <w>i</w>
+  <w>vänsterns</w>
+  <w>natur</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>flyktingar</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=3>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>är</w>
+    <w>ändå</w>
+    <w>konstigt</w>
+  </absaspan>
+  <w>eftersom</w>
+  <w>rikare</w>
+  <w>kommuner</w>
+  <w>har</w>
+  <w>större</w>
+  <w>resurser</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Jag</w>
+  <w>upplevde</w>
+  <absaspan id=5 senti=2>
+    <w>en</w>
+    <w>svagt</w>
+    <w>anklagade</w>
+    <w>ton</w>
+    <w>gentemot</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>borgliga</w>
+    <w>kommunerna</w>
+  </absaspan>
+  <w>i</w>
+  <w>repotaget</w>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+  <w>Personligen</w>
+  <absaspan id=9 senti=3>
+    <w>skulle</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=11 senti=3>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=12 senti=3>
+    <w>välja</w>
+    <w>att</w>
+    <w>anklaga</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>dem</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <absaspan id=14>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>ser</w>
+    <w>ett</w>
+    <w>problem</w>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>att</w>
+    <w>de</w>
+    <w>fattigaste</w>
+    <w>kommunerna</w>
+    <w>med</w>
+    <w>högst</w>
+    <w>arbetslöshet</w>
+    <w>belastas</w>
+    <w>ytterligare</w>
+  </absaspan>
+  <w>.</w>
+  <w>De</w>
+  <w>rikare</w>
+  <w>kommunerna</w>
+  <w>skulle</w>
+  <w>troligtvis</w>
+  <w>ge</w>
+  <w>invandrarna</w>
+  <w>en</w>
+  <w>större</w>
+  <absaspan id=17 senti=4>
+    <w>chanser</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>att</w>
+    <w>integreras</w>
+    <w>med</w>
+    <w>vårt</w>
+    <w>samhälle</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>/</w>
+  <w>/</w>
+  <w>ert</w>
+  <w>favorittroll</w>
+  <w>.</w>
+</absapar>
+</absadoc>

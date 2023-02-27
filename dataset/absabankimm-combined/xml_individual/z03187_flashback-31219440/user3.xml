@@ -1,0 +1,202 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Sjuka</w>
+  <w>får</w>
+  <w>inte</w>
+  <w>kosta</w>
+  <w>3</w>
+  <w>miljarder</w>
+  <w>-</w>
+  <w>flyktingbarn</w>
+  <w>får</w>
+  <w>kosta</w>
+  <w>5,3</w>
+  <w>miljarder</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>Jag</w>
+  </absaspan>
+  <w>blev</w>
+  <w>mer</w>
+  <w>övertygad</w>
+  <w>om</w>
+  <w>vad</w>
+  <w>utförsäkringarna</w>
+  <w>mot</w>
+  <w>svenskar</w>
+  <w>där</w>
+  <w>man</w>
+  <w>i</w>
+  <absaspan id=2>
+    <w>media</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>bara</w>
+    <w>fått</w>
+    <w>läsa</w>
+    <w>om</w>
+    <w>etniska</w>
+    <w>svenskar</w>
+    <w>och</w>
+    <w>inga</w>
+    <w>invandrare</w>
+    <w>handlar</w>
+    <w>om</w>
+    <w>idag</w>
+    <w>!</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Ja</w>
+  <w>när</w>
+  <w>det</w>
+  <w>gäller</w>
+  <w>sjuka</w>
+  <w>svenskars</w>
+  <w>rätt</w>
+  <w>till</w>
+  <w>ersättning</w>
+  <w>då</w>
+  <w>ska</w>
+  <w>man</w>
+  <w>inte</w>
+  <w>hasta</w>
+  <w>sig</w>
+  <w>fram</w>
+  <w>med</w>
+  <w>några</w>
+  <w>3</w>
+  <w>miljarder</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Men</w>
+  <w>att</w>
+  <absaspan id=4>
+    <w>Regeringen</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>är</w>
+    <w>desperat</w>
+    <w>att</w>
+    <w>stjäla</w>
+    <w>5,3</w>
+    <w>miljarder</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>finansiera</w>
+  <w>sina</w>
+  <absaspan id=6>
+    <w>"</w>
+    <w>barn</w>
+    <w>"</w>
+  </absaspan>
+  <w>som</w>
+  <w>om</w>
+  <w>2</w>
+  <w>-</w>
+  <w>3</w>
+  <w>år</w>
+  <w>ska</w>
+  <w>vara</w>
+  <w>självförsörjande</w>
+  <w>och</w>
+  <absaspan id=7 senti=1>
+    <w>dumpa</w>
+    <w>lönerna</w>
+    <w>då</w>
+    <w>är</w>
+    <w>det</w>
+    <w>inga</w>
+    <w>problem</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=8 senti=2>
+    <w>Då</w>
+    <w>får</w>
+    <w>det</w>
+    <w>kosta</w>
+    <w>!</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>När</w>
+  <w>kommer</w>
+  <absaspan id=10 senti=1>
+    <w>ni</w>
+    <w>mångfaldsfundamentalister</w>
+  </absaspan>
+  <w>någonsin</w>
+  <w>reagera</w>
+  <w>över</w>
+  <w>hur</w>
+  <absaspan id=11 senti=1>
+    <w>illa</w>
+    <w>svenskar</w>
+    <w>behandlas</w>
+    <w>till</w>
+    <w>priset</w>
+    <w>av</w>
+    <w>misslyckad</w>
+    <w>mångfald</w>
+    <w>och</w>
+    <w>multikulturellt</w>
+    <w>samhälle</w>
+    <w>byggd</w>
+    <w>på</w>
+    <w>lögner</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=12>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>Jag</w>
+  <w>hoppas</w>
+  <w>ni</w>
+  <w>känner</w>
+  <w>någon</w>
+  <w>som</w>
+  <w>är</w>
+  <w>utförsäkrad</w>
+  <w>!</w>
+  <w>För</w>
+  <absaspan id=13 senti=1>
+    <w>han</w>
+    <w>eller</w>
+    <w>hon</w>
+    <w>är</w>
+    <w>uppenbarligen</w>
+    <w>mindre</w>
+    <w>värd</w>
+  </absaspan>
+  <w>än</w>
+  <w>ett</w>
+  <absaspan id=14 senti=1>
+    <w>släggbarn</w>
+  </absaspan>
+  <w>och</w>
+  <w>måste</w>
+  <w>ut</w>
+  <w>och</w>
+  <w>jobba</w>
+  <w>för</w>
+  <w>att</w>
+  <w>försörja</w>
+  <absaspan id=15 senti=1>
+    <w>släggbarnet</w>
+  </absaspan>
+  <w>!</w>
+  <absaspan id=16>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

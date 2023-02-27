@@ -1,0 +1,105 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>Inbrott</w>
+  <w>i</w>
+  <w>migrationsverket</w>
+  <w>.</w>
+  <absaspan id=1>
+    <w>Festarna</w>
+  </absaspan>
+  <absaspan id=2 senti=1>
+    <w>vandaliserade</w>
+  </absaspan>
+  <w>,</w>
+  <w>inbjudna</w>
+  <w>via</w>
+  <w>Face</w>
+  <w>Book</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <absaspan id=3>
+    <w>Festen</w>
+  </absaspan>
+  <w>verkar</w>
+  <w>ha</w>
+  <absaspan id=4 senti=1>
+    <w>gått</w>
+    <w>ut</w>
+    <w>på</w>
+    <w>att</w>
+    <w>förstöra</w>
+  </absaspan>
+  <w>.</w>
+  <w>Här</w>
+  <w>är</w>
+  <absaspan id=5 senti=1>
+    <w>sönderslaget</w>
+  </absaspan>
+  <w>för</w>
+  <w>massor</w>
+  <w>av</w>
+  <w>pengar</w>
+  <w>.</w>
+  <w>Vem</w>
+  <w>i</w>
+  <w>hela</w>
+  <w>friden</w>
+  <w>var</w>
+  <w>det</w>
+  <w>,</w>
+  <absaspan id=6 senti=5 irony>
+    <w>berikare</w>
+  </absaspan>
+  <w>eller</w>
+  <w>sympatisörer</w>
+  <w>.</w>
+  <w>Skedde</w>
+  <w>i</w>
+  <w>Malmö</w>
+  <w>så</w>
+  <w>klart</w>
+  <w>.</w>
+  <w>1.200</w>
+  <w>personer</w>
+  <w>inbjudna</w>
+  <w>via</w>
+  <w>FaceBook</w>
+  <w>.</w>
+  <absaspan id=7 senti=1>
+    <w>Kraftig</w>
+    <w>vandalism</w>
+  </absaspan>
+  <w>enligt</w>
+  <absaspan id=8>
+    <w>Polisen</w>
+  </absaspan>
+  <w>.</w>
+  <w>Svartklubb</w>
+  <w>som</w>
+  <w>haft</w>
+  <w>kul</w>
+  <w>?</w>
+  <w>Är</w>
+  <w>det</w>
+  <w>anläggningen</w>
+  <w>i</w>
+  <w>Arlöv</w>
+  <w>,</w>
+  <w>med</w>
+  <w>ensamkommanden</w>
+  <w>denna</w>
+  <w>gången</w>
+  <w>,</w>
+  <w>de</w>
+  <w>har</w>
+  <w>kanske</w>
+  <w>andra</w>
+  <w>lokaler</w>
+  <w>i</w>
+  <w>Malmö</w>
+  <w>också</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

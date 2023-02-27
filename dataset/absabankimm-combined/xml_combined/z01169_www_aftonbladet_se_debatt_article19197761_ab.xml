@@ -1,0 +1,384 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Vissa</w>
+    <w>åsikter</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>får</w>
+    <w>inte</w>
+    <w>finnas</w>
+    <w>i</w>
+    <w>offentligheten</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ibland</w>
+  <w>är</w>
+  <w>det</w>
+  <absaspan id=3 senti=2>
+    <w>svårt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=4>
+    <w>replikera</w>
+  </absaspan>
+  <w>,</w>
+  <w>i</w>
+  <w>synnerhet</w>
+  <w>när</w>
+  <absaspan id=5>
+    <w>den</w>
+    <w>som</w>
+    <w>har</w>
+    <w>skrivit</w>
+  </absaspan>
+  <w>i</w>
+  <w>stort</w>
+  <absaspan id=6 senti=4>
+    <w>verkar</w>
+    <w>hålla</w>
+    <w>med</w>
+    <w>en</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=7>
+    <w>Lisa</w>
+    <w>Magnusson</w>
+  </absaspan>
+  <w>inleder</w>
+  <w>sin</w>
+  <w>debattartikel</w>
+  <w>här</w>
+  <w>i</w>
+  <w>med</w>
+  <w>att</w>
+  <absaspan id=8 senti=2>
+    <w>kritisera</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>min</w>
+    <w>användning</w>
+    <w>av</w>
+    <w>ordet</w>
+    <w>åsiktskorridor</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>avslutar</w>
+  <w>med</w>
+  <w>en</w>
+  <w>apell</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=10 senti=4>
+    <w>vara</w>
+    <w>mer</w>
+    <w>accepterande</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>mot</w>
+    <w>det</w>
+    <w>som</w>
+    <w>avviker</w>
+    <w>från</w>
+    <w>just</w>
+    <w>åsiktskorridoren</w>
+  </absaspan>
+  <w>.</w>
+  <w>Jag</w>
+  <w>är</w>
+  <w>varken</w>
+  <w>först</w>
+  <w>eller</w>
+  <w>ensam</w>
+  <w>om</w>
+  <w>att</w>
+  <w>skriva</w>
+  <w>om</w>
+  <w>att</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>en</w>
+  <w>åsiktskorridor</w>
+  <w>.</w>
+  <w>Henric</w>
+  <w>Oscarsson</w>
+  <w>,</w>
+  <w>professor</w>
+  <w>i</w>
+  <w>statsvetenskap</w>
+  <w>vid</w>
+  <w>Göteborgs</w>
+  <w>universitet</w>
+  <w>,</w>
+  <w>myntade</w>
+  <w>begreppet</w>
+  <w>i</w>
+  <w>vintras</w>
+  <w>som</w>
+  <w>ett</w>
+  <w>sätt</w>
+  <w>att</w>
+  <w>illustrera</w>
+  <w>att</w>
+  <w>utbredda</w>
+  <w>åsikter</w>
+  <w>sällan</w>
+  <w>förekom</w>
+  <w>i</w>
+  <w>offentligheten</w>
+  <w>.</w>
+  <w>Faktum</w>
+  <w>är</w>
+  <w>att</w>
+  <w>det</w>
+  <w>offentliga</w>
+  <w>samtalet</w>
+  <w>förs</w>
+  <w>på</w>
+  <w>ett</w>
+  <w>sådant</w>
+  <w>sätt</w>
+  <w>att</w>
+  <w>man</w>
+  <absaspan id=12 senti=3>
+    <w>får</w>
+    <w>intrycket</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=13>
+    <w>vissa</w>
+    <w>åsikter</w>
+    <w>över</w>
+    <w>huvud</w>
+    <w>taget</w>
+    <w>inte</w>
+    <w>finns</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>.</w>
+  <w>Och</w>
+  <w>att</w>
+  <w>vissa</w>
+  <w>åsikter</w>
+  <w>–</w>
+  <w>ofta</w>
+  <w>åsikter</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>rimmar</w>
+  <w>med</w>
+  <absaspan id=14>
+    <w>vad</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=16 senti=4>
+    <w>anses</w>
+    <w>progressivt</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>välutbildade</w>
+    <w>storstadsbor</w>
+  </absaspan>
+  <w>–</w>
+  <absaspan id=19 senti=2>
+    <w>bemöts</w>
+  </absaspan>
+  <w>på</w>
+  <w>ett</w>
+  <absaspan id=20 senti=2>
+    <w>nedlåtande</w>
+    <w>sätt</w>
+  </absaspan>
+  <w>i</w>
+  <w>offentligheten</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>finns</w>
+  <absaspan id=21>
+    <w>åsiktskonflikter</w>
+  </absaspan>
+  <w>i</w>
+  <w>samhället</w>
+  <w>som</w>
+  <w>därför</w>
+  <absaspan id=22 senti=2>
+    <w>inte</w>
+    <w>skildras</w>
+    <w>tillräckligt</w>
+    <w>väl</w>
+  </absaspan>
+  <w>.</w>
+  <w>Den</w>
+  <absaspan id=23>
+    <w>tolerans</w>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=24 senti=4>
+    <w>förespråkar</w>
+  </absaspan>
+  <w>handlar</w>
+  <w>inte</w>
+  <w>om</w>
+  <w>att</w>
+  <w>man</w>
+  <w>ska</w>
+  <w>låta</w>
+  <w>åsikter</w>
+  <w>stå</w>
+  <w>oemotsagda</w>
+  <w>eller</w>
+  <w>att</w>
+  <w>man</w>
+  <absaspan id=25 senti=2>
+    <w>bör</w>
+    <w>vara</w>
+    <w>undfallande</w>
+  </absaspan>
+  <w>mot</w>
+  <absaspan id=26>
+    <w>rasism</w>
+    <w>och</w>
+    <w>sexism</w>
+  </absaspan>
+  <w>.</w>
+  <w>Tvärtom</w>
+  <w>.</w>
+  <w>Alla</w>
+  <absaspan id=27 senti=4>
+    <w>måste</w>
+    <w>vara</w>
+    <w>beredda</w>
+  </absaspan>
+  <w>på</w>
+  <absaspan id=28>
+    <w>mothugg</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>,</w>
+  <w>precis</w>
+  <w>som</w>
+  <w>Lisa</w>
+  <w>Magnusson</w>
+  <w>skriver</w>
+  <w>,</w>
+  <w>det</w>
+  <w>som</w>
+  <w>är</w>
+  <w>diskussion</w>
+  <w>.</w>
+  <w>Begrepp</w>
+  <w>som</w>
+  <w>”</w>
+  <w>politisk</w>
+  <w>korrekthet</w>
+  <w>”</w>
+  <w>,</w>
+  <w>”</w>
+  <w>åsiktskorridor</w>
+  <w>”</w>
+  <w>och</w>
+  <w>”</w>
+  <w>verklighetens</w>
+  <w>folk</w>
+  <w>”</w>
+  <w>,</w>
+  <w>eller</w>
+  <w>för</w>
+  <w>den</w>
+  <w>delen</w>
+  <w>metaforer</w>
+  <w>som</w>
+  <w>”</w>
+  <w>frukostbordet</w>
+  <w>”</w>
+  <w>och</w>
+  <w>”</w>
+  <w>lunchrummet</w>
+  <w>”</w>
+  <w>,</w>
+  <w>handlar</w>
+  <w>alla</w>
+  <w>om</w>
+  <w>att</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>en</w>
+  <w>relativt</w>
+  <absaspan id=29>
+    <w>stor</w>
+    <w>skara</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=30 senti=2>
+    <w>känner</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=31>
+    <w>deras</w>
+    <w>åsikter</w>
+    <w>hamnat</w>
+    <w>i</w>
+    <w>marginalen</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=32>
+    <w>Det</w>
+  </absaspan>
+  <w>är</w>
+  <w>ett</w>
+  <absaspan id=33 senti=2>
+    <w>problem</w>
+  </absaspan>
+  <w>att</w>
+  <w>ta</w>
+  <w>på</w>
+  <w>allvar</w>
+  <w>,</w>
+  <w>oavsett</w>
+  <w>vad</w>
+  <w>vi</w>
+  <w>tycker</w>
+  <w>om</w>
+  <w>orden</w>
+  <w>.</w>
+  <w>Den</w>
+  <w>som</w>
+  <w>hörs</w>
+  <w>mest</w>
+  <w>är</w>
+  <w>nämligen</w>
+  <w>inte</w>
+  <w>alltid</w>
+  <w>den</w>
+  <w>som</w>
+  <w>är</w>
+  <w>mest</w>
+  <w>representativ</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Ivar</w>
+  <w>Arpi</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>REN</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+</absadoc>

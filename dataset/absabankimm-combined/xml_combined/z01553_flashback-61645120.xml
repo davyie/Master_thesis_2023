@@ -1,0 +1,66 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Är</w>
+  <absaspan id=1 senti=2 target=1>
+    <w>uthängningen</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>av</w>
+    <w>Behrang</w>
+    <w>Miri</w>
+  </absaspan>
+  <absaspan id=3 senti=1 target=1 source=4>
+    <w>förtal</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <absaspan id=5 senti=1>
+    <w>Räknas</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>denna</w>
+    <w>uthängningen</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>som</w>
+    <w>ett</w>
+    <w>förtal</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Jag</w>
+  <w>tror</w>
+  <w>mycket</w>
+  <w>väl</w>
+  <w>det</w>
+  <w>kan</w>
+  <w>vara</w>
+  <w>det</w>
+  <w>.</w>
+  <absaspan id=9>
+    <w>Den</w>
+    <w>här</w>
+    <w>typen</w>
+  </absaspan>
+  <absaspan id=10 senti=1>
+    <w>löst</w>
+    <w>skitsnack</w>
+  </absaspan>
+  <w>är</w>
+  <w>väl</w>
+  <w>precis</w>
+  <w>det</w>
+  <w>lagstiftaren</w>
+  <w>vill</w>
+  <w>begränsa</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

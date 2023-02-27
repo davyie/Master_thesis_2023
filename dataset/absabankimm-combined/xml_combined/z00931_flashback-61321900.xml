@@ -1,0 +1,104 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>långt</w>
+  <w>till</w>
+  <w>vänster</w>
+  <w>om</w>
+  <w>dagens</w>
+  <w>invandringspolitik</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Kort</w>
+  <w>och</w>
+  <w>gott</w>
+  <w>,</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>bra</w>
+  <w>,</w>
+  <w>dåligt</w>
+  <w>?</w>
+  <w>Bör</w>
+  <w>vi</w>
+  <w>ta</w>
+  <w>in</w>
+  <w>fler</w>
+  <w>?</w>
+  <w>På</w>
+  <w>vilka</w>
+  <w>sätt</w>
+  <w>är</w>
+  <w>det</w>
+  <w>dåligt</w>
+  <w>med</w>
+  <w>invandring</w>
+  <w>i</w>
+  <w>så</w>
+  <w>fall</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Såg</w>
+  <w>en</w>
+  <w>opinionsundersökning</w>
+  <w>där</w>
+  <w>hela</w>
+  <absaspan id=1>
+    <w>20%</w>
+    <w>av</w>
+    <w>V</w>
+    <w>:</w>
+    <w>s</w>
+    <w>väljare</w>
+  </absaspan>
+  <w>tyckte</w>
+  <w>att</w>
+  <absaspan id=2>
+    <w>dagens</w>
+    <w>invandringspolitik</w>
+  </absaspan>
+  <absaspan id=3 senti=1>
+    <w>är</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>extrem</w>
+  </absaspan>
+  <w>/</w>
+  <absaspan id=5 senti=2>
+    <w>stor</w>
+  </absaspan>
+  <w>så</w>
+  <w>då</w>
+  <w>blev</w>
+  <w>jag</w>
+  <w>nyfiken</w>
+  <w>och</w>
+  <w>frågar</w>
+  <w>därför</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=6 senti=4>
+    <w>Hoppas</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>intressanta</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>svar</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

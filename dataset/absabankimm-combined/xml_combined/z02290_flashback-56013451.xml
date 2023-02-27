@@ -1,0 +1,233 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>Flyktingars</w>
+  <w>sexuella</w>
+  <w>trakasserier</w>
+  <w>sprider</w>
+  <w>sig</w>
+  <w>som</w>
+  <w>en</w>
+  <w>epidemi</w>
+  <w>,</w>
+  <w>sverigekarta</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Den</w>
+  <w>senaste</w>
+  <w>tidens</w>
+  <w>sexualbrott</w>
+  <w>utförda</w>
+  <w>av</w>
+  <w>asylsökande</w>
+  <w>och</w>
+  <w>invandrare</w>
+  <w>har</w>
+  <w>tagit</w>
+  <w>Sverige</w>
+  <w>med</w>
+  <w>häpnad</w>
+  <w>.</w>
+  <w>Själv</w>
+  <w>känner</w>
+  <w>jag</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>jag</w>
+  </absaspan>
+  <w>vill</w>
+  <w>göra</w>
+  <w>något</w>
+  <w>vettigt</w>
+  <w>av</w>
+  <w>all</w>
+  <absaspan id=2 senti=2>
+    <w>frustration</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=3 senti=1>
+    <w>vrede</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>man</w>
+  </absaspan>
+  <w>känner</w>
+  <w>gentemot</w>
+  <absaspan id=5>
+    <w>dessa</w>
+  </absaspan>
+  <absaspan id=6 senti=1>
+    <w>kräk</w>
+  </absaspan>
+  <w>,</w>
+  <w>mot</w>
+  <absaspan id=7>
+    <w>mörkandet</w>
+    <w>i</w>
+    <w>media</w>
+  </absaspan>
+  <w>och</w>
+  <w>gentemot</w>
+  <absaspan id=8>
+    <w>politikerna</w>
+    <w>som</w>
+    <w>struntat</w>
+    <w>i</w>
+    <w>alla</w>
+    <w>varningstecken</w>
+    <w>i</w>
+    <w>så</w>
+    <w>många</w>
+    <w>år</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Jag</w>
+  <w>har</w>
+  <w>börjat</w>
+  <w>med</w>
+  <w>en</w>
+  <w>sverigekarta</w>
+  <w>där</w>
+  <w>jag</w>
+  <w>fyller</w>
+  <w>i</w>
+  <w>alla</w>
+  <w>händelser</w>
+  <w>vartefter</w>
+  <w>de</w>
+  <w>inträffar</w>
+  <w>,</w>
+  <w>detta</w>
+  <w>för</w>
+  <w>att</w>
+  <w>ha</w>
+  <w>något</w>
+  <w>att</w>
+  <w>visa</w>
+  <w>när</w>
+  <w>man</w>
+  <w>debatterar</w>
+  <w>med</w>
+  <w>de</w>
+  <w>eftersläntare</w>
+  <w>som</w>
+  <w>fortfarande</w>
+  <w>inte</w>
+  <w>tagit</w>
+  <w>till</w>
+  <w>sig</w>
+  <w>de</w>
+  <absaspan id=9 senti=1>
+    <w>enorma</w>
+    <w>problem</w>
+  </absaspan>
+  <w>samhället</w>
+  <w>står</w>
+  <w>inför</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Bidra</w>
+  <w>gärna</w>
+  <w>med</w>
+  <w>nya</w>
+  <w>incidenter</w>
+  <w>som</w>
+  <w>jag</w>
+  <w>missat</w>
+  <w>,</w>
+  <w>säg</w>
+  <w>gärna</w>
+  <w>till</w>
+  <w>också</w>
+  <w>om</w>
+  <w>någon</w>
+  <w>information</w>
+  <w>är</w>
+  <w>felaktig</w>
+  <w>på</w>
+  <w>kartan</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=2>
+  <w>Kriteriet</w>
+  <w>ska</w>
+  <w>vara</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>aktuellt</w>
+  <w>sexbrott</w>
+  <w>som</w>
+  <w>är</w>
+  <w>en</w>
+  <w>konsekvens</w>
+  <w>av</w>
+  <w>Sveriges</w>
+  <absaspan id=10 senti=1>
+    <w>bisarra</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>invandringspolitik</w>
+  </absaspan>
+  <w>,</w>
+  <w>sexbrott</w>
+  <w>som</w>
+  <w>har</w>
+  <w>koppling</w>
+  <w>till</w>
+  <w>den</w>
+  <w>epidemi</w>
+  <w>av</w>
+  <w>sexbrott</w>
+  <w>utfört</w>
+  <w>av</w>
+  <w>illegala</w>
+  <w>invandrare</w>
+  <w>,</w>
+  <w>asylsökande</w>
+  <w>eller</w>
+  <w>invandrare</w>
+  <w>och</w>
+  <w>som</w>
+  <w>nu</w>
+  <w>sköljer</w>
+  <w>över</w>
+  <w>vårt</w>
+  <w>land</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>kommer</w>
+  <w>fylla</w>
+  <w>i</w>
+  <w>sexbrott</w>
+  <w>från</w>
+  <w>nyårsafton</w>
+  <w>och</w>
+  <w>framåt</w>
+  <w>från</w>
+  <w>och</w>
+  <w>med</w>
+  <w>nu</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Karta</w>
+  <w>över</w>
+  <absaspan id=12 senti=1>
+    <w>bedrövelsen</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Mvh</w>
+  <w>/</w>
+  <w>RingRing</w>
+  <w>Stockholm</w>
+  <w>.</w>
+</absapar>
+</absadoc>

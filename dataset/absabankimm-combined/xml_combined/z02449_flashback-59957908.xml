@@ -1,0 +1,96 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Trump</w>
+  <w>först</w>
+  <w>,</w>
+  <w>och</w>
+  <w>nu</w>
+  <w>tar</w>
+  <absaspan id=1>
+    <w>Ryssland</w>
+  </absaspan>
+  <w>upp</w>
+  <absaspan id=2>
+    <w>Malmö</w>
+  </absaspan>
+  <w>i</w>
+  <w>större</w>
+  <w>reportage</w>
+  <w>som</w>
+  <absaspan id=3 senti=1>
+    <w>stora</w>
+    <w>mardrömmen</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Bonniermedia</w>
+  <w>skyndar</w>
+  <w>till</w>
+  <w>undsättning</w>
+  <w>,</w>
+  <w>först</w>
+  <w>mot</w>
+  <w>Trump</w>
+  <w>och</w>
+  <w>Fox</w>
+  <w>News</w>
+  <w>,</w>
+  <w>och</w>
+  <w>nu</w>
+  <w>mot</w>
+  <absaspan id=4>
+    <w>Ryska</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>Kanal</w>
+    <w>1</w>
+  </absaspan>
+  <w>som</w>
+  <w>gör</w>
+  <w>större</w>
+  <w>reportage</w>
+  <w>om</w>
+  <w>Malmö</w>
+  <w>och</w>
+  <w>mångkulturens</w>
+  <w>sammanbrott</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Här</w>
+  <w>finns</w>
+  <w>reportaget</w>
+  <w>tydligen</w>
+  <w>.</w>
+  <w>Synd</w>
+  <w>att</w>
+  <w>ingen</w>
+  <w>översättning</w>
+  <w>finns</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>värt</w>
+  <w>att</w>
+  <w>länka</w>
+  <w>till</w>
+  <w>då</w>
+  <absaspan id=6>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>retat</w>
+    <w>gallfeber</w>
+    <w>på</w>
+    <w>MSM</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>med</w>
+  <w>detta</w>
+  <w>reportage</w>
+  <w>om</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+</absadoc>

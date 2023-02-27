@@ -1,0 +1,223 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Allt</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>krisar</w>
+  </absaspan>
+  <w>samtidigt</w>
+  <w>.</w>
+  <w>Befinner</w>
+  <w>vi</w>
+  <w>oss</w>
+  <w>mitt</w>
+  <w>i</w>
+  <w>det</w>
+  <w>svenska</w>
+  <w>samhällets</w>
+  <w>undergång</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Var</w>
+  <w>man</w>
+  <w>än</w>
+  <w>riktar</w>
+  <w>blicken</w>
+  <w>i</w>
+  <w>det</w>
+  <w>svenska</w>
+  <w>samhället</w>
+  <w>möts</w>
+  <w>man</w>
+  <w>av</w>
+  <absaspan id=3 senti=1>
+    <w>akut</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>kris</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>.</w>
+  <w>-</w>
+  <w>landet</w>
+  <w>är</w>
+  <w>fullt</w>
+  <w>,</w>
+  <w>kåkstäder</w>
+  <w>byggs</w>
+  <w>,</w>
+  <absaspan id=5>
+    <w>bostadsmarknaden</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>är</w>
+    <w>överhettad</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>.</w>
+  <w>-</w>
+  <w>stora</w>
+  <w>grupper</w>
+  <w>i</w>
+  <w>permanent</w>
+  <w>arbetslöshet</w>
+  <w>,</w>
+  <w>arbetsförmedlingen</w>
+  <w>mäktar</w>
+  <w>inte</w>
+  <w>med</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>.</w>
+  <w>-</w>
+  <w>personalen</w>
+  <w>flyr</w>
+  <w>,</w>
+  <w>PISA</w>
+  <w>störtdyker</w>
+  <w>,</w>
+  <w>skolor</w>
+  <w>får</w>
+  <w>stänga</w>
+  <w>pga</w>
+  <absaspan id=7 senti=2>
+    <w>kaos</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>.</w>
+  <w>-</w>
+  <w>personalen</w>
+  <w>flyr</w>
+  <w>,</w>
+  <w>grova</w>
+  <w>brott</w>
+  <w>som</w>
+  <w>att</w>
+  <w>barn</w>
+  <w>säljs</w>
+  <w>som</w>
+  <w>sexslavar</w>
+  <w>utreds</w>
+  <w>inte</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>.</w>
+  <w>-</w>
+  <w>personalen</w>
+  <w>flyr</w>
+  <w>,</w>
+  <w>cancer</w>
+  <w>och</w>
+  <w>strokepatienter</w>
+  <w>lämnas</w>
+  <w>åt</w>
+  <w>sitt</w>
+  <w>öde</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Frågeställningar</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Har</w>
+  <w>vi</w>
+  <w>någonsin</w>
+  <w>haft</w>
+  <absaspan id=8 senti=2>
+    <w>kris</w>
+  </absaspan>
+  <w>i</w>
+  <w>landets</w>
+  <w>samtliga</w>
+  <w>grundfunktioner</w>
+  <w>samtidigt</w>
+  <w>i</w>
+  <w>modern</w>
+  <w>tid</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Finns</w>
+  <w>det</w>
+  <w>någon</w>
+  <w>trovärdig</w>
+  <w>politisk</w>
+  <w>plan</w>
+  <w>för</w>
+  <w>hur</w>
+  <w>någon</w>
+  <w>av</w>
+  <w>kriserna</w>
+  <w>ovan</w>
+  <w>kan</w>
+  <w>lösas</w>
+  <w>inom</w>
+  <w>det</w>
+  <w>närmsta</w>
+  <w>årtiondet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Hur</w>
+  <w>kommer</w>
+  <w>det</w>
+  <w>sig</w>
+  <w>att</w>
+  <w>ett</w>
+  <absaspan id=9 senti=4>
+    <w>rikt</w>
+    <w>och</w>
+    <w>historiskt</w>
+    <w>välfungerande</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>land</w>
+  </absaspan>
+  <w>som</w>
+  <w>Sverige</w>
+  <w>har</w>
+  <w>hamnat</w>
+  <w>här</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Verkar</w>
+  <w>läget</w>
+  <w>värre</w>
+  <w>än</w>
+  <w>det</w>
+  <w>är</w>
+  <w>?</w>
+  <w>Kanske</w>
+  <absaspan id=11 senti=4>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>situationen</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>inte</w>
+    <w>så</w>
+    <w>illa</w>
+  </absaspan>
+  <w>trots</w>
+  <w>allt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

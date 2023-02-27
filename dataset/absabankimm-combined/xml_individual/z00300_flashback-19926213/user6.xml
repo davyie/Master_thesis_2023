@@ -1,0 +1,25 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Migrationsverket</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Nån</w>
+  <w>som</w>
+  <w>jobbar</w>
+  <w>där</w>
+  <w>o</w>
+  <w>har</w>
+  <w>en</w>
+  <w>hel</w>
+  <w>del</w>
+  <absaspan id=1 senti=2>
+    <w>juicy</w>
+    <w>stuff</w>
+  </absaspan>
+  <w>2</w>
+  <w>tell</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

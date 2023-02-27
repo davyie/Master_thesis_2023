@@ -1,0 +1,53 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=4 target=2>
+    <w>Befria</w>
+    <w>sig</w>
+  </absaspan>
+  <w>från</w>
+  <absaspan id=2>
+    <w>medborgarskap</w>
+  </absaspan>
+  <w>-</w>
+  <w>gratis</w>
+  <w>hembiljett</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Hej</w>
+  <absaspan id=3>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>vill</w>
+    <w>befria</w>
+    <w>mig</w>
+  </absaspan>
+  <w>från</w>
+  <absaspan id=5>
+    <w>svenskt</w>
+    <w>medborgarskap</w>
+  </absaspan>
+  <w>och</w>
+  <w>återvända</w>
+  <w>till</w>
+  <w>mitt</w>
+  <w>ancestral</w>
+  <w>homeland</w>
+  <w>,</w>
+  <w>innebär</w>
+  <w>detta</w>
+  <w>att</w>
+  <w>jag</w>
+  <w>automatiskt</w>
+  <w>blir</w>
+  <w>utvisad</w>
+  <w>och</w>
+  <w>slipper</w>
+  <w>betala</w>
+  <w>för</w>
+  <w>hembiljetten</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,108 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>USA's</w>
+  <w>val</w>
+  <w>2012</w>
+  <w>.</w>
+  <w>Sammanfogad</w>
+  <w>tråd</w>
+  <w>[</w>
+  <w>Mod</w>
+  <w>]</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>Vem</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>ser</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>ni</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>helst</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>som</w>
+    <w>motståndare</w>
+  </absaspan>
+  <w>i</w>
+  <w>nästa</w>
+  <w>val</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <absaspan id=6>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>skulle</w>
+    <w>helst</w>
+    <w>se</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>Tom</w>
+    <w>Tancredo</w>
+  </absaspan>
+  <w>,</w>
+  <w>kongressman</w>
+  <w>från</w>
+  <w>Colorado</w>
+  <w>som</w>
+  <w>är</w>
+  <w>känd</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=9 senti=2>
+    <w>motarbeta</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>illegal</w>
+    <w>invandring</w>
+  </absaspan>
+  <w>.</w>
+  <w>Med</w>
+  <w>han</w>
+  <w>vid</w>
+  <w>rodret</w>
+  <w>så</w>
+  <w>kommer</w>
+  <absaspan id=11>
+    <w>illegals</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=12 senti=2>
+    <w>skyfflas</w>
+    <w>söderut</w>
+  </absaspan>
+  <w>och</w>
+  <w>en</w>
+  <w>mur</w>
+  <w>sättas</w>
+  <w>upp</w>
+  <absaspan id=13 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <absaspan id=14>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>har</w>
+    <w>dock</w>
+    <w>svårt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=16>
+    <w>se</w>
+    <w>honom</w>
+    <w>bli</w>
+    <w>vald</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,75 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Första</w>
+  <w>vittnesmålet</w>
+  <w>av</w>
+  <w>15årig</w>
+  <w>tjej</w>
+  <w>om</w>
+  <w>övergreppen</w>
+  <w>i</w>
+  <w>Kungsträdgården</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Sådärja</w>
+  <w>.</w>
+  <w>Nu</w>
+  <w>börjar</w>
+  <w>det</w>
+  <w>röra</w>
+  <w>sig</w>
+  <w>i</w>
+  <w>Kungsan</w>
+  <w>historian</w>
+  <w>som</w>
+  <w>DN</w>
+  <w>först</w>
+  <w>försökte</w>
+  <w>tysta</w>
+  <w>ner</w>
+  <w>men</w>
+  <w>som</w>
+  <w>Chang</w>
+  <w>Frick</w>
+  <w>mer</w>
+  <w>eller</w>
+  <w>mindre</w>
+  <w>tvingade</w>
+  <w>dem</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>upp</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=1 senti=1>
+    <w>PK-journalisterna</w>
+  </absaspan>
+  <w>äntligen</w>
+  <w>börjar</w>
+  <w>tala</w>
+  <w>sanning</w>
+  <w>under</w>
+  <w>galgen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=2>
+    <w>DN</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>försöker</w>
+    <w>ursäkta</w>
+    <w>sig</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+</absadoc>

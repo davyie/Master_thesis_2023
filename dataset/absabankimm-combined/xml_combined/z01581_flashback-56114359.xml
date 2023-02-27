@@ -1,0 +1,62 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Regeringen</w>
+  <w>återkallar</w>
+  <w>miljonanslag</w>
+  <w>pga</w>
+  <w>.</w>
+  <w>invandring</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Är</w>
+  <w>det</w>
+  <w>sån</w>
+  <w>,</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>regeringen</w>
+  </absaspan>
+  <w>ser</w>
+  <w>något</w>
+  <w>som</w>
+  <w>vi</w>
+  <w>andra</w>
+  <w>dödliga</w>
+  <w>inte</w>
+  <w>ser</w>
+  <w>och</w>
+  <w>förstår</w>
+  <w>-</w>
+  <w>att</w>
+  <absaspan id=2>
+    <w>de</w>
+    <w>invandrare</w>
+    <w>som</w>
+    <w>kommer</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=3 senti=4>
+    <w>är</w>
+    <w>så</w>
+    <w>välutbildade</w>
+  </absaspan>
+  <w>,</w>
+  <w>att</w>
+  <w>man</w>
+  <w>inte</w>
+  <w>behöver</w>
+  <w>ha</w>
+  <w>en</w>
+  <w>unversitetsutbildning</w>
+  <w>?</w>
+  <w>Eller</w>
+  <w>vad</w>
+  <w>är</w>
+  <w>det</w>
+  <w>frågan</w>
+  <w>om</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

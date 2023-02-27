@@ -1,0 +1,62 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Bechir</w>
+  <w>rabani</w>
+  <w>från</w>
+  <w>megafonerna</w>
+  <w>avliden</w>
+  <w>!</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>Hjärtinfarkt</w>
+    <w>inatt</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=2 senti=1>
+    <w>mycket</w>
+    <w>tragiskt</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=3>
+    <w>En</w>
+    <w>person</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=5 senti=5>
+    <w>gillade</w>
+    <w>skarpt</w>
+  </absaspan>
+  <w>och</w>
+  <w>även</w>
+  <w>stött</w>
+  <w>på</w>
+  <w>några</w>
+  <w>ggr</w>
+  <w>i</w>
+  <w>vår</w>
+  <w>hemstad</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vila</w>
+  <w>i</w>
+  <w>frid</w>
+  <w>!</w>
+  <w>(</w>
+  <absaspan id=6>
+    <w>Kan</w>
+    <w>lagt</w>
+    <w>tråden</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>fel</w>
+  </absaspan>
+  <w>.</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,114 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>SVT</w>
+  <w>lägger</w>
+  <w>miljoner</w>
+  <w>på</w>
+  <w>att</w>
+  <w>angripa</w>
+  <w>SD</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>SVT</w>
+  </absaspan>
+  <w>:</w>
+  <w>s</w>
+  <w>senaste</w>
+  <w>satsning</w>
+  <w>mot</w>
+  <w>SD</w>
+  <w>sänds</w>
+  <w>för</w>
+  <w>första</w>
+  <w>gången</w>
+  <w>den</w>
+  <w>30</w>
+  <w>november</w>
+  <w>(</w>
+  <w>givetvis</w>
+  <w>)</w>
+  <w>.</w>
+  <w>SD</w>
+  <w>namnges</w>
+  <w>naturligtvis</w>
+  <w>inte</w>
+  <w>,</w>
+  <w>men</w>
+  <w>det</w>
+  <w>är</w>
+  <w>uppenbart</w>
+  <w>att</w>
+  <absaspan id=2>
+    <w>man</w>
+  </absaspan>
+  <w>nu</w>
+  <w>(</w>
+  <w>åter</w>
+  <w>igen</w>
+  <w>)</w>
+  <w>vill</w>
+  <absaspan id=3 senti=2>
+    <w>anklaga</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>SD</w>
+  </absaspan>
+  <w>och</w>
+  <w>sammanblanda</w>
+  <w>dem</w>
+  <w>med</w>
+  <w>terror</w>
+  <w>(</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>vänstern</w>
+  <w>och</w>
+  <w>muslimer</w>
+  <w>som</w>
+  <w>står</w>
+  <w>för</w>
+  <w>detta</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Är</w>
+  <w>detta</w>
+  <w>verkligen</w>
+  <w>något</w>
+  <w>man</w>
+  <w>skall</w>
+  <w>använda</w>
+  <w>de</w>
+  <w>statliga</w>
+  <w>licenspengarna</w>
+  <w>på</w>
+  <w>?</w>
+  <w>Och</w>
+  <w>kommer</w>
+  <w>propagandan</w>
+  <w>att</w>
+  <w>lyckas</w>
+  <w>eller</w>
+  <absaspan id=5 senti=2>
+    <w>bita</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>SVT</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>svansen</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

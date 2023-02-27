@@ -1,0 +1,302 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Byråkraterna</w>
+  </absaspan>
+  <absaspan id=2 senti=2 source=1 target=3>
+    <w>tål</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>mångfalden</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>såg</w>
+  <w>ett</w>
+  <w>TT-telegram</w>
+  <w>om</w>
+  <w>att</w>
+  <w>Högskoleverkets</w>
+  <w>chef</w>
+  <w>Anders</w>
+  <w>Flodström</w>
+  <w>vill</w>
+  <w>ha</w>
+  <w>färre</w>
+  <w>och</w>
+  <w>större</w>
+  <w>universitet</w>
+  <w>för</w>
+  <w>att</w>
+  <w>kunna</w>
+  <w>konkurrera</w>
+  <w>med</w>
+  <w>världsforskningen</w>
+  <w>.</w>
+  <w>Han</w>
+  <w>får</w>
+  <w>stöd</w>
+  <w>av</w>
+  <w>regeringens</w>
+  <w>enmansutredare</w>
+  <w>Dan</w>
+  <w>Brännström</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <absaspan id=4 senti=4 irony>
+    <w>känns</w>
+    <w>verkligen</w>
+    <w>betryggande</w>
+  </absaspan>
+  <w>för</w>
+  <w>landets</w>
+  <w>framtid</w>
+  <absaspan id=5>
+    <w>att</w>
+    <w>Högskoleverket</w>
+    <w>vill</w>
+    <w>satsa</w>
+    <w>på</w>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>kader</w>
+    <w>av</w>
+    <w>specialister</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>som</w>
+    <w>får</w>
+    <w>sin</w>
+    <w>näring</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>stora</w>
+    <w>,</w>
+    <w>stora</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>universitet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vad</w>
+  <w>kan</w>
+  <w>inte</w>
+  <w>en</w>
+  <w>specialist</w>
+  <w>på</w>
+  <w>övre</w>
+  <w>tummens</w>
+  <w>nervsystem</w>
+  <w>uträtta</w>
+  <w>för</w>
+  <w>tillväxten</w>
+  <w>och</w>
+  <w>utveckling</w>
+  <w>?</w>
+  <absaspan id=10 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Lärdomar</w>
+  <w>är</w>
+  <w>viktiga</w>
+  <w>och</w>
+  <w>Sverige</w>
+  <w>var</w>
+  <w>en</w>
+  <w>stormakt</w>
+  <w>på</w>
+  <w>den</w>
+  <w>tiden</w>
+  <w>när</w>
+  <w>vi</w>
+  <w>bara</w>
+  <w>hade</w>
+  <w>två</w>
+  <w>universitet</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Det</w>
+  <w>är</w>
+  <absaspan id=11>
+    <w>tillbaka</w>
+    <w>i</w>
+    <w>tiden</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=12>
+    <w>statliga</w>
+    <w>tjänstemän</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>längtar</w>
+  </absaspan>
+  <w>när</w>
+  <w>de</w>
+  <absaspan id=14 senti=2>
+    <w>gång</w>
+    <w>på</w>
+    <w>gång</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>plockar</w>
+    <w>fram</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>mossiga</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>idéer</w>
+    <w>om</w>
+    <w>storskalighet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>det</w>
+  <w>blir</w>
+  <absaspan id=18 senti=2>
+    <w>snudd</w>
+    <w>på</w>
+    <w>dumhet</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>när</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>höga</w>
+    <w>tjänstemän</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>i</w>
+    <w>detta</w>
+    <w>mångkulturella</w>
+    <w>samhälle</w>
+    <w>talar</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>att</w>
+    <w>koncentration</w>
+    <w>och</w>
+    <w>specialisering</w>
+    <w>av</w>
+    <w>kunskap</w>
+  </absaspan>
+  <absaspan id=23 senti=4>
+    <w>är</w>
+    <w>nyckeln</w>
+    <w>till</w>
+    <w>framtiden</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Världen</w>
+  <w>förändras</w>
+  <w>i</w>
+  <w>rasande</w>
+  <w>takt</w>
+  <w>och</w>
+  <w>det</w>
+  <w>är</w>
+  <w>inte</w>
+  <absaspan id=24 senti=2>
+    <w>gamla</w>
+    <w>ingrodda</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>institutioner</w>
+  </absaspan>
+  <w>som</w>
+  <w>står</w>
+  <w>för</w>
+  <w>nytänkande</w>
+  <w>och</w>
+  <w>utveckling</w>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=26 senti=4>
+    <w>finurliga</w>
+  </absaspan>
+  <w>just</w>
+  <w>nu</w>
+  <absaspan id=27 senti=4>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>att</w>
+    <w>innovatörerna</w>
+    <w>,</w>
+    <w>utvecklarna</w>
+    <w>,</w>
+    <w>forskarna</w>
+    <w>finns</w>
+    <w>överallt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Men</w>
+  <absaspan id=29>
+    <w>mångfald</w>
+  </absaspan>
+  <w>är</w>
+  <w>detsamma</w>
+  <w>som</w>
+  <absaspan id=30 senti=2>
+    <w>kaos</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=31>
+    <w>statliga</w>
+    <w>tjänstemän</w>
+  </absaspan>
+  <w>.</w>
+  <w>De</w>
+  <w>har</w>
+  <w>en</w>
+  <w>växande</w>
+  <w>byråkrati</w>
+  <w>och</w>
+  <w>en</w>
+  <w>massa</w>
+  <w>regler</w>
+  <w>att</w>
+  <w>rätta</w>
+  <w>sig</w>
+  <w>efter</w>
+  <w>.</w>
+  <w>Så</w>
+  <w>det</w>
+  <absaspan id=32 senti=2 irony>
+    <w>är</w>
+    <w>förmodligen</w>
+    <w>lika</w>
+    <w>dumt</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>att</w>
+    <w>förvänta</w>
+    <w>sig</w>
+    <w>något</w>
+    <w>annat</w>
+    <w>än</w>
+    <w>enfald</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

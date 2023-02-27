@@ -1,0 +1,137 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Margot</w>
+    <w>Wallström</w>
+  </absaspan>
+  <absaspan id=2 senti=2 source=1 target=3>
+    <w>bland</w>
+    <w>världens</w>
+    <w>top</w>
+    <w>10</w>
+  </absaspan>
+  <absaspan id=3 senti=2 target=3 source=1>
+    <w>antisemiter</w>
+  </absaspan>
+  <w>[</w>
+  <w>enligt</w>
+  <w>Simon</w>
+  <w>Wiesenthal</w>
+  <w>Centre</w>
+  <w>]</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Vem</w>
+  <w>minns</w>
+  <w>inte</w>
+  <w>hur</w>
+  <w>stort</w>
+  <w>det</w>
+  <w>blev</w>
+  <w>när</w>
+  <w>Björn</w>
+  <w>Söder</w>
+  <w>hamnade</w>
+  <w>på</w>
+  <w>Simon</w>
+  <w>Wiesenthal-centret</w>
+  <w>lista</w>
+  <w>för</w>
+  <w>några</w>
+  <w>år</w>
+  <w>sen</w>
+  <w>.</w>
+  <absaspan id=4>
+    <w>Svensk</w>
+    <w>media</w>
+  </absaspan>
+  <w>gick</w>
+  <w>ut</w>
+  <w>och</w>
+  <absaspan id=5 senti=2>
+    <w>fördömde</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>Björn</w>
+    <w>Söder</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=7>
+    <w>I</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>år</w>
+    <w>hamnar</w>
+    <w>Sveriges</w>
+    <w>utrikesminister</w>
+    <w>på</w>
+    <w>plats</w>
+    <w>åtta</w>
+    <w>över</w>
+    <w>top</w>
+    <w>tio</w>
+    <w>påstådda</w>
+    <w>antisemiter</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=9 senti=2>
+    <w>Aningen</w>
+    <w>värre</w>
+  </absaspan>
+  <w>då</w>
+  <w>hon</w>
+  <w>ansvarar</w>
+  <w>för</w>
+  <w>och</w>
+  <w>är</w>
+  <w>ansiktet</w>
+  <w>utåt</w>
+  <w>för</w>
+  <w>svensk</w>
+  <w>utrikespolitik</w>
+  <w>.</w>
+  <w>Påverkar</w>
+  <w>detta</w>
+  <w>Sveriges</w>
+  <w>rykte</w>
+  <w>och</w>
+  <w>roll</w>
+  <w>utomlands</w>
+  <w>?</w>
+  <w>Påverkar</w>
+  <w>det</w>
+  <w>Wallström</w>
+  <w>anseende</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Sieg</w>
+  <w>heil</w>
+  <w>.</w>
+  <absaspan id=10>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>finner</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>rätt</w>
+  </absaspan>
+  <absaspan id=14 senti=4>
+    <w>festligt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Inte</w>
+  <w>så</w>
+  <w>långt</w>
+  <w>ifrån</w>
+  <w>S</w>
+  <w>bruna</w>
+  <w>förflutna</w>
+  <w>.</w>
+</absapar>
+</absadoc>

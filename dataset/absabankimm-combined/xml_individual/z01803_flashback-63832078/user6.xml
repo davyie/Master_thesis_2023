@@ -1,0 +1,81 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Björklund</w>
+  </absaspan>
+  <w>:</w>
+  <w>Vi</w>
+  <w>behövs</w>
+  <w>om</w>
+  <absaspan id=2>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=3 senti=2 target=2 source=1>
+    <w>ska</w>
+    <w>stoppas</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Här</w>
+  <absaspan id=4 senti=2>
+    <w>erkänner</w>
+  </absaspan>
+  <w>ju</w>
+  <absaspan id=5>
+    <w>Björklund</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>inte</w>
+    <w>har</w>
+    <w>någon</w>
+    <w>politik</w>
+    <w>som</w>
+    <w>attraherar</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>väljarna</w>
+    <w>utan</w>
+    <w>nu</w>
+    <w>måste</w>
+    <w>de</w>
+    <w>finnas</w>
+    <w>kvar</w>
+    <w>i</w>
+    <w>riksdagen</w>
+    <w>för</w>
+    <w>att</w>
+    <w>kunna</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>lägga</w>
+    <w>tjuvben</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>tredje</w>
+    <w>största</w>
+    <w>partiet</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=14 senti=4>
+    <w>har</w>
+    <w>attraherat</w>
+    <w>betydligt</w>
+    <w>fler</w>
+    <w>väljare</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

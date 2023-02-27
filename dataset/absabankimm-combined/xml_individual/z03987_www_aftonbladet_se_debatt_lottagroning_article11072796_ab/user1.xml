@@ -1,0 +1,256 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Vad</w>
+  <w>är</w>
+  <w>svenskarna</w>
+  <w>beredda</w>
+  <w>att</w>
+  <w>offra</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <absaspan id=1 senti=4>
+    <w>är</w>
+    <w>befriande</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>att</w>
+    <w>miljöfrågorna</w>
+    <w>äntligen</w>
+    <w>kommit</w>
+    <w>upp</w>
+    <w>på</w>
+    <w>dagordningen</w>
+    <w>både</w>
+    <w>i</w>
+    <w>världspolitiken</w>
+    <w>och</w>
+    <w>nationellt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Länge</w>
+  <w>blundade</w>
+  <w>vi</w>
+  <w>för</w>
+  <w>vad</w>
+  <w>som</w>
+  <w>pågick</w>
+  <w>och</w>
+  <w>här</w>
+  <w>hemma</w>
+  <w>sågs</w>
+  <w>miljöpartister</w>
+  <w>mest</w>
+  <w>som</w>
+  <w>små</w>
+  <w>gröna</w>
+  <w>tomtar</w>
+  <w>såvida</w>
+  <w>de</w>
+  <w>inte</w>
+  <w>pratade</w>
+  <w>om</w>
+  <w>sälar</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>I</w>
+  <w>en</w>
+  <w>stor</w>
+  <w>miljöundersökning</w>
+  <w>som</w>
+  <w>Demoskop</w>
+  <w>har</w>
+  <w>gjort</w>
+  <w>visar</w>
+  <w>det</w>
+  <w>sig</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>miljöpartiet</w>
+  </absaspan>
+  <w>numera</w>
+  <absaspan id=4 senti=4>
+    <w>har</w>
+    <w>högst</w>
+    <w>förtroende</w>
+    <w>bland</w>
+    <w>alla</w>
+    <w>partier</w>
+    <w>när</w>
+    <w>det</w>
+    <w>gäller</w>
+    <w>miljön</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>.</w>
+  </absaspan>
+  <w>De</w>
+  <w>knockar</w>
+  <w>de</w>
+  <w>övriga</w>
+  <w>partierna</w>
+  <w>faktiskt</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Men</w>
+  <w>detta</w>
+  <w>är</w>
+  <w>ju</w>
+  <w>bara</w>
+  <w>en</w>
+  <w>opinionsundersökning</w>
+  <w>,</w>
+  <w>i</w>
+  <w>praktiken</w>
+  <absaspan id=6 senti=1>
+    <w>finns</w>
+  </absaspan>
+  <w>det</w>
+  <absaspan id=7 senti=1>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=8 senti=1>
+    <w>utbredd</w>
+    <w>ilska</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>miljöpartiet</w>
+  </absaspan>
+  <w>,</w>
+  <w>särskilt</w>
+  <w>när</w>
+  <w>det</w>
+  <w>gäller</w>
+  <absaspan id=10>
+    <w>den</w>
+    <w>gröna</w>
+    <w>skatteväxlingen</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=11 senti=2>
+    <w>ingen</w>
+    <w>begriper</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>.</w>
+  </absaspan>
+  <w>För</w>
+  <w>att</w>
+  <w>inte</w>
+  <w>tala</w>
+  <w>om</w>
+  <w>alla</w>
+  <w>förslag</w>
+  <w>som</w>
+  <w>höjer</w>
+  <w>el</w>
+  <w>-</w>
+  <w>och</w>
+  <w>bensinpris</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Men</w>
+  <w>enligt</w>
+  <w>Demoskop</w>
+  <absaspan id=13 senti=4>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>svenskarna</w>
+  </absaspan>
+  <absaspan id=15 senti=4>
+    <w>beredda</w>
+  </absaspan>
+  <absaspan id=16 senti=4>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>flera</w>
+    <w>uppoffringar</w>
+    <w>när</w>
+    <w>det</w>
+    <w>gäller</w>
+    <w>miljön</w>
+  </absaspan>
+  <w>,</w>
+  <w>såvida</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>drabbar</w>
+  <w>levnadsstandarden</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Frågan</w>
+  <w>som</w>
+  <w>då</w>
+  <w>infinner</w>
+  <w>sig</w>
+  <w>är</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Vad</w>
+  <w>är</w>
+  <w>svenskarna</w>
+  <w>egentligen</w>
+  <w>beredda</w>
+  <w>att</w>
+  <w>offra</w>
+  <w>för</w>
+  <w>att</w>
+  <w>minska</w>
+  <w>klimathotet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Grannens</w>
+  <w>levnadsstandard</w>
+  <w>?</w>
+  <w>Folkbilen</w>
+  <w>i</w>
+  <w>Kina</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Eller</w>
+  <w>rent</w>
+  <w>av</w>
+  <w>kolkraftverken</w>
+  <w>i</w>
+  <w>Tyskland</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Kampen</w>
+  <w>för</w>
+  <w>miljön</w>
+  <w>kanske</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>att</w>
+  <w>någon</w>
+  <w>annan</w>
+  <w>ska</w>
+  <w>agera</w>
+  <w>och</w>
+  <w>framför</w>
+  <w>allt</w>
+  <w>drabbas</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

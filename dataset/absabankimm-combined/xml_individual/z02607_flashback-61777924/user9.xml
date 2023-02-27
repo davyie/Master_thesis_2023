@@ -1,0 +1,37 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Inga</w>
+  <w>asylsökande</w>
+  <w>klarar</w>
+  <w>jobbkravet</w>
+  <w>för</w>
+  <w>PUT</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>Svt-text</w>
+  <w>sid</w>
+  <w>114</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Är</w>
+  <w>nån</w>
+  <w>förvåndad</w>
+  <w>(</w>
+  <w>utom</w>
+  <w>regeringen</w>
+  <w>)</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Var</w>
+  <w>är</w>
+  <absaspan id=1 senti=4 irony>
+    <w>kompetensregnet</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

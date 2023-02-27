@@ -1,0 +1,67 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>Migrationsverket</w>
+  <w>har</w>
+  <absaspan id=1 senti=2 target=2>
+    <w>sparkat</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>en</w>
+    <w>handläggare</w>
+  </absaspan>
+  <w>för</w>
+  <w>dataintrång</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ur</w>
+  <w>texten</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Frågan</w>
+  <w>är</w>
+  <w>:</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>detta</w>
+  <w>ytterligare</w>
+  <w>ett</w>
+  <w>i</w>
+  <w>raden</w>
+  <w>av</w>
+  <w>bevis</w>
+  <w>på</w>
+  <w>en</w>
+  <w>organiserad</w>
+  <w>migration</w>
+  <w>från</w>
+  <w>Irak</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>idag</w>
+  <w>?</w>
+  <absaspan id=3 senti=1>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Och</w>
+  <w>till</w>
+  <w>sist</w>
+  <w>frågar</w>
+  <w>undrar</w>
+  <w>jag</w>
+  <absaspan id=4>
+    <w>varför</w>
+    <w>personen</w>
+    <w>anställdes</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>överhuvudtaget</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

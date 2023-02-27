@@ -1,0 +1,115 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Spelar</w>
+  <w>det</w>
+  <w>roll</w>
+  <w>ifall</w>
+  <w>GM</w>
+  <w>har</w>
+  <w>en</w>
+  <w>annan</w>
+  <w>etnicitet</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Hej</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Nu</w>
+  <w>är</w>
+  <w>det</w>
+  <w>så</w>
+  <w>att</w>
+  <w>jag</w>
+  <w>inte</w>
+  <w>förnekar</w>
+  <w>med</w>
+  <w>att</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>kriminella</w>
+  <w>invandrare</w>
+  <w>som</w>
+  <w>begår</w>
+  <w>brott</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Men</w>
+  <w>vad</w>
+  <w>fan</w>
+  <w>,</w>
+  <absaspan id=1>
+    <w>Svenska</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>brottslingar</w>
+  </absaspan>
+  <w>begår</w>
+  <w>också</w>
+  <w>brott</w>
+  <w>.</w>
+  <absaspan id=3>
+    <w>Dom</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>är</w>
+    <w>inte</w>
+    <w>felfria</w>
+  </absaspan>
+  <w>heller</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=5 senti=2>
+    <w>Varför</w>
+  </absaspan>
+  <w>är</w>
+  <w>det</w>
+  <absaspan id=6>
+    <w>relevant</w>
+    <w>ifall</w>
+    <w>om</w>
+    <w>vilket</w>
+    <w>etnicitet</w>
+    <w>man</w>
+    <w>har</w>
+    <w>vid</w>
+    <w>brott</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Folk</w>
+  <w>med</w>
+  <w>fattig</w>
+  <w>uppväxt</w>
+  <w>i</w>
+  <w>segregerade</w>
+  <w>områden</w>
+  <w>begår</w>
+  <w>fler</w>
+  <w>brott</w>
+  <w>ja</w>
+  <w>.</w>
+  <absaspan id=7>
+    <w>Att</w>
+    <w>det</w>
+    <w>är</w>
+    <w>där</w>
+    <w>invandrarna</w>
+    <w>hamnar</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>kan</w>
+    <w>knappast</w>
+    <w>skyllas</w>
+    <w>på</w>
+    <w>bara</w>
+    <w>dem</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

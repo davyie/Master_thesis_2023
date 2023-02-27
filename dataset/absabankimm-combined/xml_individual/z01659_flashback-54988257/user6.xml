@@ -1,0 +1,197 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Pågår</w>
+  <w>det</w>
+  <w>en</w>
+  <absaspan id=1 senti=2 target=1>
+    <w>massinvandring</w>
+  </absaspan>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>NU</w>
+  <w>då</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <absaspan id=2>
+    <w>Invandringskritiker</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>har</w>
+    <w>länge</w>
+    <w>sagt</w>
+    <w>att</w>
+    <w>det</w>
+    <w>pågår</w>
+    <w>en</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>,</w>
+  <w>men</w>
+  <w>många</w>
+  <absaspan id=4>
+    <w>politiskt</w>
+    <w>korrekta</w>
+    <w>och</w>
+    <w>invandringsförespråkare</w>
+  </absaspan>
+  <w>har</w>
+  <w>sagt</w>
+  <w>att</w>
+  <absaspan id=5>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>är</w>
+    <w>fel</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Var</w>
+  <w>går</w>
+  <w>gränsen</w>
+  <w>?</w>
+  <absaspan id=7 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>Enligt</w>
+  <w>Migrationsverket</w>
+  <w>och</w>
+  <w>polisen</w>
+  <w>så</w>
+  <w>har</w>
+  <w>det</w>
+  <w>kommit</w>
+  <w>80</w>
+  <w>000</w>
+  <w>flyktingar</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>de</w>
+  <w>senaste</w>
+  <w>6</w>
+  <w>veckorna</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Det</w>
+  <w>ger</w>
+  <w>en</w>
+  <w>årstakt</w>
+  <w>på</w>
+  <w>ca</w>
+  <w>700</w>
+  <w>000</w>
+  <w>flyktingar</w>
+  <w>per</w>
+  <w>år</w>
+  <w>.</w>
+  <w>Alla</w>
+  <w>får</w>
+  <w>inte</w>
+  <w>stanna</w>
+  <w>men</w>
+  <w>å</w>
+  <w>andra</w>
+  <w>sidan</w>
+  <w>så</w>
+  <w>blir</w>
+  <w>de</w>
+  <w>kvar</w>
+  <w>länge</w>
+  <w>i</w>
+  <w>landet</w>
+  <w>pga</w>
+  <w>de</w>
+  <w>långa</w>
+  <w>handläggningstiderna</w>
+  <w>plus</w>
+  <absaspan id=8>
+    <w>att</w>
+    <w>många</w>
+    <w>helt</w>
+    <w>enkelt</w>
+    <w>bara</w>
+    <w>går</w>
+    <w>under</w>
+    <w>jorden</w>
+    <w>och</w>
+    <w>stannar</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>vare</w>
+    <w>sig</w>
+    <w>de</w>
+    <w>får</w>
+    <w>det</w>
+    <w>eller</w>
+    <w>inte</w>
+  </absaspan>
+  <w>.</w>
+  <w>Till</w>
+  <w>det</w>
+  <w>tillkommer</w>
+  <w>all</w>
+  <w>anhörighetsinvandring</w>
+  <w>och</w>
+  <w>annan</w>
+  <w>typ</w>
+  <w>av</w>
+  <w>invandring</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Kan</w>
+  <absaspan id=10 senti=2>
+    <w>till</w>
+    <w>och</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>politiskt</w>
+    <w>korrekta</w>
+    <w>och</w>
+    <w>invandringsförespråkare</w>
+  </absaspan>
+  <w>erkänna</w>
+  <w>nu</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>har</w>
+  <w>en</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>.</w>
+  <w>Eller</w>
+  <w>måste</w>
+  <w>siffrorna</w>
+  <w>bli</w>
+  <w>ännu</w>
+  <w>högre</w>
+  <w>först</w>
+  <absaspan id=12 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>Hur</w>
+  <w>höga</w>
+  <w>då</w>
+  <w>,</w>
+  <w>i</w>
+  <w>så</w>
+  <w>fall</w>
+  <w>?</w>
+  <absaspan id=13 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

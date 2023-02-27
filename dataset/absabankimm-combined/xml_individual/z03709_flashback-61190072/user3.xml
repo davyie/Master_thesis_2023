@@ -1,0 +1,87 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Botkyrka</w>
+  <w>kommun</w>
+  <w>erkänner</w>
+  <w>:</w>
+  <w>Vi</w>
+  <w>har</w>
+  <w>slängt</w>
+  <w>Astrid</w>
+  <w>Lindgrens</w>
+  <w>"</w>
+  <w>rasistiska</w>
+  <w>"</w>
+  <w>böcker</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Är</w>
+  <w>det</w>
+  <w>verkligen</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>censurera</w>
+  <w>gamla</w>
+  <w>böcker</w>
+  <w>för</w>
+  <w>att</w>
+  <w>dom</w>
+  <w>anses</w>
+  <w>vara</w>
+  <w>rasistiska</w>
+  <w>i</w>
+  <w>dagens</w>
+  <w>mått</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Janne</w>
+  <w>Josefsson</w>
+  <w>fick</w>
+  <w>rätt</w>
+  <w>i</w>
+  <w>sina</w>
+  <w>anklagelser</w>
+  <w>mot</w>
+  <w>biblioteken</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Skulle</w>
+  <w>man</w>
+  <w>strikt</w>
+  <w>gå</w>
+  <w>på</w>
+  <w>dessa</w>
+  <absaspan id=1>
+    <w>biblioteks</w>
+  </absaspan>
+  <w>linje</w>
+  <w>så</w>
+  <w>skulle</w>
+  <w>man</w>
+  <w>kasta</w>
+  <w>gamla</w>
+  <w>böcker</w>
+  <w>från</w>
+  <w>1700</w>
+  <w>och</w>
+  <w>1800</w>
+  <w>talet</w>
+  <w>också</w>
+  <w>vilket</w>
+  <w>borde</w>
+  <w>anses</w>
+  <w>som</w>
+  <absaspan id=2 senti=1>
+    <w>ett</w>
+    <w>kulturmord</w>
+    <w>på</w>
+    <w>gammal</w>
+    <w>litteratur</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

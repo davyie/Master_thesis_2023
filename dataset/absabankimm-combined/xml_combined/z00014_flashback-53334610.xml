@@ -1,0 +1,54 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Ensamkommande</w>
+  <w>flyktingbarn</w>
+  <w>kastade</w>
+  <w>avföring</w>
+  <w>i</w>
+  <w>Timrå</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>En</w>
+  <w>patrull</w>
+  <w>är</w>
+  <w>på</w>
+  <w>väg</w>
+  <w>till</w>
+  <w>ett</w>
+  <w>boende</w>
+  <w>för</w>
+  <w>ensamkommande</w>
+  <w>flyktingbarn</w>
+  <w>med</w>
+  <w>anledning</w>
+  <w>av</w>
+  <absaspan id=1 senti=2>
+    <w>skadegörelse</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>.</w>
+  </absaspan>
+  <w>Enligt</w>
+  <w>uppgift</w>
+  <w>har</w>
+  <w>de</w>
+  <w>som</w>
+  <w>bor</w>
+  <w>där</w>
+  <w>kastat</w>
+  <w>mat</w>
+  <w>och</w>
+  <w>avföring</w>
+  <w>på</w>
+  <w>inventarier</w>
+  <w>i</w>
+  <w>allmänna</w>
+  <w>utrymmen</w>
+  <w>och</w>
+  <w>i</w>
+  <w>personalens</w>
+  <w>kontor</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,94 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Kraftig</w>
+  <w>övervikt</w>
+  <w>utlandsfödda</w>
+  <w>hos</w>
+  <w>Kronofogden</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Osäker</w>
+  <w>på</w>
+  <w>var</w>
+  <w>jag</w>
+  <w>dkulle</w>
+  <w>lägga</w>
+  <w>tråden</w>
+  <w>.</w>
+  <w>Kunde</w>
+  <w>lika</w>
+  <w>gärna</w>
+  <w>lagt</w>
+  <w>den</w>
+  <w>under</w>
+  <w>brottsbekämpning</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Men</w>
+  <w>vad</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>göra</w>
+  <w>för</w>
+  <w>att</w>
+  <w>inte</w>
+  <w>så</w>
+  <w>många</w>
+  <w>utlänningar</w>
+  <w>ska</w>
+  <w>hamna</w>
+  <w>hos</w>
+  <w>fogden</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=1>
+    <w>Kronofogden</w>
+    <w>ska</w>
+    <w>gå</w>
+    <w>ut</w>
+    <w>med</w>
+    <w>information</w>
+    <w>till</w>
+    <w>dessa</w>
+    <w>grupper</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=2 senti=2>
+    <w>men</w>
+    <w>är</w>
+    <w>det</w>
+    <w>lönt</w>
+  </absaspan>
+  <w>?</w>
+  <w>Då</w>
+  <w>tänker</w>
+  <w>jag</w>
+  <w>på</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>denna</w>
+    <w>grupp</w>
+  </absaspan>
+  <w>många</w>
+  <w>gånger</w>
+  <absaspan id=4 senti=2>
+    <w>skiter</w>
+    <w>i</w>
+    <w>att</w>
+    <w>betala</w>
+    <w>för</w>
+    <w>sig</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Andra</w>
+  <w>förslag</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,163 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Folkets</w>
+  <w>åsikter</w>
+  <w>om</w>
+  <w>"</w>
+  <w>flyktingbarn</w>
+  <w>"</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>"</w>
+  <w>Nu</w>
+  <w>öppnar</w>
+  <w>Lidingö</w>
+  <w>:</w>
+  <w>för</w>
+  <w>ett</w>
+  <w>flyktingbarn</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <absaspan id=1>
+    <w>Kommuner</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>brister</w>
+    <w>i</w>
+    <w>ansvar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>för</w>
+    <w>ensamkommande</w>
+    <w>flyktingbarn</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=4>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Orerar</w>
+  <absaspan id=5>
+    <w>jourmalisten</w>
+  </absaspan>
+  <w>(</w>
+  <absaspan id=6 senti=1>
+    <w>gormalist</w>
+    <w>,</w>
+    <w>germalist</w>
+  </absaspan>
+  <w>?</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Poll</w>
+  <w>på</w>
+  <w>Expressen</w>
+  <w>ang</w>
+  <w>flyktingbarn</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <absaspan id=7 senti=2>
+    <w>Tar</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>Stockholms</w>
+    <w>kommuner</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>emot</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>för</w>
+    <w>få</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>ensamma</w>
+    <w>flyktingbarn</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Ställningen</w>
+  <w>just</w>
+  <w>nu</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Ja</w>
+  <w>(</w>
+  <w>38.2</w>
+  <w>%</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Nej</w>
+  <w>,</w>
+  <absaspan id=13 senti=2>
+    <w>för</w>
+    <w>många</w>
+  </absaspan>
+  <w>(</w>
+  <absaspan id=14>
+    <w>54.5</w>
+    <w>%</w>
+  </absaspan>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Nej</w>
+  <w>,</w>
+  <absaspan id=15 senti=4>
+    <w>lagom</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>antal</w>
+  </absaspan>
+  <w>(</w>
+  <absaspan id=17>
+    <w>7.4</w>
+    <w>%</w>
+  </absaspan>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=10 senti=2>
+  <w>Är</w>
+  <w>folkets</w>
+  <w>åsikt</w>
+  <w>en</w>
+  <w>helt</w>
+  <w>annan</w>
+  <w>än</w>
+  <w>etablissemangets</w>
+  <w>i</w>
+  <w>viljan</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>dessa</w>
+  <w>"</w>
+  <w>barn</w>
+  <w>"</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Har</w>
+  <w>vinden</w>
+  <w>vänt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

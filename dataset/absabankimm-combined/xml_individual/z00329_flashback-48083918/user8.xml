@@ -1,0 +1,49 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Bylund</w>
+    <w>(</w>
+    <w>sd</w>
+    <w>)</w>
+  </absaspan>
+  <absaspan id=2 senti=1 source=1 target=3>
+    <w>hatar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>Ekeroth</w>
+    <w>(</w>
+    <w>sd</w>
+    <w>)</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Titta</w>
+  <w>här</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=4>
+    <w>Ekeroth</w>
+  </absaspan>
+  <w>verkar</w>
+  <absaspan id=5 senti=2>
+    <w>inte</w>
+    <w>så</w>
+    <w>omtyckt</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>!</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>Sparka</w>
+    <w>ut</w>
+  </absaspan>
+  <w>honom</w>
+  <w>från</w>
+  <w>partiet</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

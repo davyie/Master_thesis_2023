@@ -1,0 +1,71 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Varför</w>
+  <w>har</w>
+  <w>alla</w>
+  <absaspan id=1>
+    <w>invandrare</w>
+    <w>och</w>
+    <w>asylanter</w>
+  </absaspan>
+  <w>Facebook</w>
+  <w>,</w>
+  <w>men</w>
+  <w>ingen</w>
+  <w>LinkedIn</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Är</w>
+  <w>dom</w>
+  <w>inte</w>
+  <w>högutbildade</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Någon</w>
+  <w>som</w>
+  <w>har</w>
+  <w>sett</w>
+  <w>en</w>
+  <w>profil</w>
+  <w>på</w>
+  <w>LinkedIn</w>
+  <w>,</w>
+  <w>beträffande</w>
+  <w>dom</w>
+  <w>som</w>
+  <w>befinner</w>
+  <w>sig</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>?</w>
+  <absaspan id=2 senti=2>
+    <w>Kriga</w>
+    <w>för</w>
+    <w>IS</w>
+    <w>är</w>
+    <w>ingen</w>
+    <w>merit</w>
+    <w>eller</w>
+    <w>gå</w>
+    <w>i</w>
+    <w>Koranskola</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Put</w>
+  <w>up</w>
+  <w>or</w>
+  <w>shut</w>
+  <w>up</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Ge</w>
+  <w>exempel</w>
+  <w>.</w>
+</absapar>
+</absadoc>

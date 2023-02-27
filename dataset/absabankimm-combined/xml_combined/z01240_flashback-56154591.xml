@@ -1,0 +1,174 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>I</w>
+  <w>örnsköldsvik</w>
+  <w>äter</w>
+  <w>flyktingar</w>
+  <w>o</w>
+  <w>svenskar</w>
+  <w>tillsammans</w>
+  <absaspan id=1 senti=5 irony>
+    <w>perfekt</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>integration</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=5>
+  <w>Ja</w>
+  <w>i</w>
+  <w>örnsköldsvik</w>
+  <w>träffas</w>
+  <w>flyktingar</w>
+  <w>och</w>
+  <absaspan id=3 senti=4>
+    <w>goda</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>svenskar</w>
+  </absaspan>
+  <w>tillsammans</w>
+  <w>.</w>
+  <w>Man</w>
+  <w>umgas</w>
+  <w>och</w>
+  <w>lagar</w>
+  <w>mat</w>
+  <w>tillsammans</w>
+  <w>.</w>
+  <absaspan id=5 senti=5 irony>
+    <w>De</w>
+    <w>godhjärtade</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>svenskarna</w>
+  </absaspan>
+  <w>hyr</w>
+  <w>en</w>
+  <w>hemkunskapslokal</w>
+  <w>och</w>
+  <w>handlar</w>
+  <w>in</w>
+  <w>ravaror</w>
+  <w>bla</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=5>
+  <absaspan id=7>
+    <w>Eva</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>Jilkén</w>
+  </absaspan>
+  <w>entreprenör</w>
+  <w>och</w>
+  <absaspan id=9 senti=5 irony>
+    <w>godhjärtad</w>
+  </absaspan>
+  <w>säger</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>.</w>
+  <w>:</w>
+  <w>Genom</w>
+  <w>matlagning</w>
+  <w>får</w>
+  <w>man</w>
+  <w>ett</w>
+  <w>naturligt</w>
+  <w>möte</w>
+  <w>som</w>
+  <w>sällan</w>
+  <w>sker</w>
+  <w>annars</w>
+  <w>.</w>
+  <w>Man</w>
+  <w>lär</w>
+  <w>känna</w>
+  <w>varandra</w>
+  <w>och</w>
+  <w>börjar</w>
+  <w>prata</w>
+  <w>samtidigt</w>
+  <w>som</w>
+  <w>man</w>
+  <w>gör</w>
+  <w>något</w>
+  <w>aktivt</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=5>
+  <w>Givetvis</w>
+  <w>betalar</w>
+  <w>Örnsköldsviks</w>
+  <w>kommun</w>
+  <w>lokalhyra</w>
+  <w>och</w>
+  <w>råvaror</w>
+  <w>sa</w>
+  <w>att</w>
+  <w>varken</w>
+  <w>flyktingars</w>
+  <w>eller</w>
+  <absaspan id=10 senti=5 irony>
+    <w>den</w>
+    <w>godhjärtade</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>entreprenörens</w>
+  </absaspan>
+  <w>privatekonomi</w>
+  <absaspan id=12 senti=2>
+    <w>belastas</w>
+  </absaspan>
+  <w>sa</w>
+  <w>att</w>
+  <w>de</w>
+  <w>likt</w>
+  <w>i</w>
+  <w>danmark</w>
+  <w>tvingas</w>
+  <w>betala</w>
+  <w>för</w>
+  <w>sin</w>
+  <w>mat</w>
+  <w>med</w>
+  <w>egna</w>
+  <w>pengar</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=5>
+  <w>Ja</w>
+  <w>vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>detta</w>
+  <absaspan id=13 senti=4 irony>
+    <w>beviset</w>
+    <w>pa</w>
+    <w>hur</w>
+    <w>bra</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>integrationen</w>
+  </absaspan>
+  <absaspan id=15 senti=4>
+    <w>fungerar</w>
+  </absaspan>
+  <w>och</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>trotts</w>
+  <w>allt</w>
+  <w>tjänar</w>
+  <w>pa</w>
+  <w>invandringen</w>
+  <w>?</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

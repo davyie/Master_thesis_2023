@@ -1,0 +1,238 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Turkar</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=2 senti=5 target=1>
+    <w>sveriges</w>
+    <w>bästa</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>har</w>
+  <w>märkt</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>turkar</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=4 senti=5>
+    <w>ett</w>
+    <w>riktigt</w>
+    <w>bra</w>
+    <w>folkslag</w>
+    <w>i</w>
+    <w>sverige</w>
+  </absaspan>
+  <w>.</w>
+  <w>varför</w>
+  <absaspan id=5 senti=1>
+    <w>hatar</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>ni</w>
+    <w>dom</w>
+  </absaspan>
+  <w>så</w>
+  <w>mkt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Alla</w>
+  <absaspan id=7 senti=1>
+    <w>idioter</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=8>
+    <w>laserturken</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=9>
+    <w>skogsturken</w>
+  </absaspan>
+  <w>osv</w>
+  <w>,</w>
+  <w>dom</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>turkar</w>
+  <w>.</w>
+  <absaspan id=10>
+    <w>Turkar</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=11 senti=5>
+    <w>lugna</w>
+    <w>och</w>
+    <w>sköna</w>
+    <w>trevliga</w>
+    <w>generösa</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=12>
+    <w>Turkarna</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=13 senti=5>
+    <w>så</w>
+    <w>trevliga</w>
+    <w>att</w>
+    <w>det</w>
+    <w>inte</w>
+    <w>är</w>
+    <w>sant</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <absaspan id=14>
+    <w>irakierna</w>
+    <w>araberna</w>
+    <w>iranier</w>
+  </absaspan>
+  <w>som</w>
+  <w>förstår</w>
+  <w>turkars</w>
+  <w>rykte</w>
+  <w>genom</w>
+  <w>att</w>
+  <w>var</w>
+  <absaspan id=15 senti=1>
+    <w>vildingsdjur</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <absaspan id=16 senti=1>
+    <w>negrarna</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>somalierna</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>nordafrikansk</w>
+    <w>apporna</w>
+  </absaspan>
+  <w>och</w>
+  <w>andra</w>
+  <absaspan id=19 senti=1>
+    <w>idioter</w>
+  </absaspan>
+  <w>som</w>
+  <w>våldtar</w>
+  <w>med</w>
+  <w>dom</w>
+  <w>svenska</w>
+  <w>flickorna</w>
+  <w>och</w>
+  <w>bränner</w>
+  <w>gör</w>
+  <w>brott</w>
+  <w>osv</w>
+  <w>.</w>
+  <w>Speciellt</w>
+  <w>kurderna</w>
+  <w>har</w>
+  <w>jag</w>
+  <w>märkt</w>
+  <w>,</w>
+  <w>de</w>
+  <w>gör</w>
+  <w>allt</w>
+  <w>för</w>
+  <w>att</w>
+  <w>förstöra</w>
+  <w>för</w>
+  <w>de</w>
+  <w>guld</w>
+  <w>turkarnas</w>
+  <w>rykte</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Min</w>
+  <w>fråga</w>
+  <w>:</w>
+  <w>Håller</w>
+  <w>ni</w>
+  <w>med</w>
+  <w>mig</w>
+  <w>.</w>
+  <w>(</w>
+  <w>tänk</w>
+  <w>ordentligt</w>
+  <w>efter</w>
+  <w>innan</w>
+  <w>ni</w>
+  <w>svarar</w>
+  <w>)</w>
+  <w>och</w>
+  <w>varför</w>
+  <w>tror</w>
+  <w>ni</w>
+  <absaspan id=20>
+    <w>turkar</w>
+  </absaspan>
+  <absaspan id=21 senti=1>
+    <w>fått</w>
+    <w>ett</w>
+    <w>så</w>
+    <w>dåligt</w>
+    <w>rykte</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>Innan</w>
+  <w>ni</w>
+  <w>säger</w>
+  <w>något</w>
+  <w>så</w>
+  <w>har</w>
+  <w>jag</w>
+  <w>redan</w>
+  <w>en</w>
+  <w>medhållare</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Jag</w>
+  <w>menar</w>
+  <w>turkar</w>
+  <w>som</w>
+  <w>kommer</w>
+  <w>från</w>
+  <w>turkiet</w>
+  <w>,</w>
+  <w>inte</w>
+  <w>kurder</w>
+  <w>från</w>
+  <w>turkiet</w>
+  <w>,</w>
+  <w>inte</w>
+  <w>syrier</w>
+  <w>/</w>
+  <w>assyirer</w>
+  <w>från</w>
+  <w>turkiet</w>
+  <w>,</w>
+  <w>inte</w>
+  <w>de</w>
+  <w>med</w>
+  <w>något</w>
+  <w>annat</w>
+  <w>som</w>
+  <w>typ</w>
+  <w>jugoslaver</w>
+  <w>ursprung</w>
+  <w>.</w>
+</absapar>
+</absadoc>

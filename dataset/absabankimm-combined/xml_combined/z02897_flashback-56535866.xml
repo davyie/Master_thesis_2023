@@ -1,0 +1,90 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Arbetsförmedlingen</w>
+  <w>:</w>
+  <w>Våra</w>
+  <w>pengar</w>
+  <w>räcker</w>
+  <w>inte</w>
+  <w>till</w>
+  <w>alla</w>
+  <w>nyanlända</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>En</w>
+  <w>efter</w>
+  <w>en</w>
+  <w>faller</w>
+  <w>de</w>
+  <w>stora</w>
+  <w>myndigheterna</w>
+  <w>efter</w>
+  <absaspan id=1>
+    <w>mångkulturens</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>påfrestningar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <absaspan id=3>
+    <w>Kostnaderna</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>skenar</w>
+    <w>överallt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Migrationsverket</w>
+  <w>,</w>
+  <w>polisen</w>
+  <w>,</w>
+  <w>sjukvården</w>
+  <w>,</w>
+  <w>nu</w>
+  <w>arbetsförmedlingen</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Åsikter</w>
+  <w>?</w>
+  <w>Kommer</w>
+  <w>dessa</w>
+  <w>pengar</w>
+  <w>räcka</w>
+  <w>eller</w>
+  <w>kommer</w>
+  <absaspan id=5>
+    <w>AF</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>stå</w>
+    <w>med</w>
+    <w>mössan</w>
+    <w>i</w>
+    <w>hand</w>
+  </absaspan>
+  <w>igen</w>
+  <w>om</w>
+  <w>några</w>
+  <w>månader</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Någon</w>
+  <w>med</w>
+  <w>insyn</w>
+  <w>i</w>
+  <w>AF</w>
+  <w>som</w>
+  <w>vet</w>
+  <w>hur</w>
+  <w>ser</w>
+  <w>ut</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

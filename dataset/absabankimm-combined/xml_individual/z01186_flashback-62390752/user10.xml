@@ -1,0 +1,105 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Familjen</w>
+  </absaspan>
+  <absaspan id=2 senti=1 target=3 source=1>
+    <w>hatar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>Flashback</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Min</w>
+  <w>familj</w>
+  <w>och</w>
+  <w>några</w>
+  <w>i</w>
+  <w>släkten</w>
+  <w>har</w>
+  <w>fått</w>
+  <w>reda</w>
+  <w>på</w>
+  <w>att</w>
+  <w>jag</w>
+  <w>spenderar</w>
+  <w>min</w>
+  <w>tid</w>
+  <w>på</w>
+  <w>Flashback</w>
+  <w>vilket</w>
+  <w>enligt</w>
+  <w>dom</w>
+  <w>är</w>
+  <w>en</w>
+  <w>hemsida</w>
+  <w>där</w>
+  <w>bara</w>
+  <w>Nazister</w>
+  <w>,</w>
+  <w>rasister</w>
+  <w>och</w>
+  <w>mentalt</w>
+  <w>sjuka</w>
+  <w>är</w>
+  <w>på</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>försökte</w>
+  <w>förklara</w>
+  <w>för</w>
+  <w>dom</w>
+  <w>att</w>
+  <w>det</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>ett</w>
+  <w>sånt</w>
+  <w>forum</w>
+  <w>utan</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>forum</w>
+  <w>för</w>
+  <w>allt</w>
+  <w>och</w>
+  <w>alla</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>brukar</w>
+  <w>ni</w>
+  <w>säga</w>
+  <w>till</w>
+  <absaspan id=4>
+    <w>folk</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=5 senti=1>
+    <w>tycker</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>flashback</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=8 senti=1>
+    <w>en</w>
+    <w>dålig</w>
+    <w>sida</w>
+  </absaspan>
+  <w>,</w>
+  <w>brukar</w>
+  <w>ni</w>
+  <w>ens</w>
+  <w>försöka</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

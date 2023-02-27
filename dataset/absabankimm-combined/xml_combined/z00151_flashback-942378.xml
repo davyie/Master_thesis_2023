@@ -1,0 +1,228 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Israel</w>
+  <w>-</w>
+  <w>Palestina</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Den</w>
+  <w>här</w>
+  <w>tråden</w>
+  <w>kanske</w>
+  <w>passar</w>
+  <w>bättre</w>
+  <w>i</w>
+  <w>något</w>
+  <w>annat</w>
+  <w>forum</w>
+  <w>men</w>
+  <w>moderatorn</w>
+  <w>får</w>
+  <w>väl</w>
+  <w>flytta</w>
+  <w>den</w>
+  <w>isåfall</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Jag</w>
+  <w>har</w>
+  <w>en</w>
+  <w>fråga</w>
+  <w>angående</w>
+  <absaspan id=1 senti=1>
+    <w>konflikten</w>
+  </absaspan>
+  <w>i</w>
+  <w>Palestina</w>
+  <w>och</w>
+  <w>Israel</w>
+  <w>.</w>
+  <absaspan id=2>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=3 senti=3>
+    <w>tar</w>
+    <w>inte</w>
+  </absaspan>
+  <w>på</w>
+  <w>något</w>
+  <w>sätt</w>
+  <absaspan id=4 senti=3>
+    <w>part</w>
+  </absaspan>
+  <absaspan id=5 senti=3>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>denna</w>
+    <w>fråga</w>
+  </absaspan>
+  <w>eller</w>
+  <w>anser</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>rätt</w>
+  <w>men</w>
+  <w>jag</w>
+  <w>frågar</w>
+  <w>ändå</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Israel</w>
+  <w>har</w>
+  <w>ju</w>
+  <w>en</w>
+  <absaspan id=7 senti=5>
+    <w>överlägsen</w>
+  </absaspan>
+  <w>militärmakt</w>
+  <w>.</w>
+  <w>Palestinierna</w>
+  <w>har</w>
+  <w>ju</w>
+  <w>som</w>
+  <w>bekant</w>
+  <w>nästan</w>
+  <w>bara</w>
+  <w>kalaschnikovs</w>
+  <w>och</w>
+  <w>dynamit</w>
+  <w>.</w>
+  <w>Och</w>
+  <absaspan id=8>
+    <w>Israel</w>
+  </absaspan>
+  <absaspan id=9 senti=1>
+    <w>skiter</w>
+  </absaspan>
+  <w>ju</w>
+  <absaspan id=10 senti=1>
+    <w>fullständigt</w>
+  </absaspan>
+  <absaspan id=11 senti=1>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>vad</w>
+    <w>omvärlden</w>
+    <w>tycker</w>
+  </absaspan>
+  <w>eller</w>
+  <w>anser</w>
+  <w>om</w>
+  <w>deras</w>
+  <w>sätt</w>
+  <w>att</w>
+  <w>behandla</w>
+  <w>Palestinafrågan</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Så</w>
+  <w>jag</w>
+  <w>undrar</w>
+  <w>bara</w>
+  <w>stillsamt</w>
+  <w>varför</w>
+  <w>inte</w>
+  <absaspan id=13>
+    <w>Israel</w>
+  </absaspan>
+  <w>gör</w>
+  <w>slag</w>
+  <w>i</w>
+  <w>saken</w>
+  <w>och</w>
+  <absaspan id=14 senti=1>
+    <w>utrotar</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>alla</w>
+    <w>Palestinier</w>
+  </absaspan>
+  <w>?</w>
+  <w>Alltså</w>
+  <w>rakt</w>
+  <w>av</w>
+  <w>-</w>
+  <w>driver</w>
+  <w>dom</w>
+  <w>på</w>
+  <w>flykten</w>
+  <w>ut</w>
+  <w>därifrån</w>
+  <w>och</w>
+  <w>dödar</w>
+  <w>dom</w>
+  <w>som</w>
+  <w>vägrar</w>
+  <w>dra</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>på</w>
+  <w>så</w>
+  <w>sätt</w>
+  <w>får</w>
+  <w>ett</w>
+  <w>slut</w>
+  <w>på</w>
+  <absaspan id=16 senti=1>
+    <w>tjafset</w>
+  </absaspan>
+  <w>där</w>
+  <w>nere</w>
+  <w>en</w>
+  <w>gång</w>
+  <w>för</w>
+  <w>alla</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Kommentarer</w>
+  <w>?</w>
+  <w>Och</w>
+  <w>kom</w>
+  <w>nu</w>
+  <w>ihåg</w>
+  <w>att</w>
+  <absaspan id=17>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=18 senti=1>
+    <w>inte</w>
+    <w>förespråkar</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>denna</w>
+    <w>metod</w>
+  </absaspan>
+  <w>eller</w>
+  <w>så</w>
+  <w>,</w>
+  <w>utan</w>
+  <w>jag</w>
+  <w>undrar</w>
+  <w>bara</w>
+  <w>helt</w>
+  <w>ärligt</w>
+  <w>varför</w>
+  <w>Israel</w>
+  <w>låter</w>
+  <w>sig</w>
+  <w>konfronteras</w>
+  <w>hela</w>
+  <w>tiden</w>
+  <w>med</w>
+  <w>självmordsbombare</w>
+  <w>och</w>
+  <absaspan id=20 senti=1>
+    <w>sån</w>
+    <w>skit</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

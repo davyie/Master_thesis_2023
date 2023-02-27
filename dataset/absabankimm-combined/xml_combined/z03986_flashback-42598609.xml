@@ -1,0 +1,83 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Alexander</w>
+  <w>Goldmann</w>
+  <w>(</w>
+  <absaspan id=1>
+    <w>Musiker</w>
+  </absaspan>
+  <absaspan id=2 senti=1 source=1>
+    <w>mot</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>)</w>
+  <w>Vem</w>
+  <w>är</w>
+  <w>han</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Någon</w>
+  <w>som</w>
+  <w>sitter</w>
+  <w>inne</w>
+  <w>på</w>
+  <w>vem</w>
+  <w>denna</w>
+  <w>figur</w>
+  <w>är</w>
+  <w>?</w>
+  <w>Enligt</w>
+  <w>facebook</w>
+  <w>jobbar</w>
+  <w>han</w>
+  <w>som</w>
+  <w>gitarrlärare</w>
+  <w>i</w>
+  <w>Uddevalla</w>
+  <w>och</w>
+  <w>verkar</w>
+  <w>vara</w>
+  <w>från</w>
+  <w>Uppsala</w>
+  <w>?</w>
+  <absaspan id=3>
+    <w>Eventuellt</w>
+    <w>Jude</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=4 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Kom</w>
+  <w>igen</w>
+  <w>nu</w>
+  <w>,</w>
+  <w>Fram</w>
+  <w>med</w>
+  <w>information</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=5>
+    <w>Mod</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>får</w>
+    <w>gärna</w>
+    <w>flytta</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=7>
+    <w>den</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>ligger</w>
+    <w>fel</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

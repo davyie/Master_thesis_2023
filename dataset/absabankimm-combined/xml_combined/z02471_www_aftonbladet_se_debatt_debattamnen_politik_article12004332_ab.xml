@@ -1,0 +1,776 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <absaspan id=1 senti=3>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>”</w>
+  <absaspan id=2>
+    <w>Kvotflyktingarna</w>
+  </absaspan>
+  <absaspan id=3 senti=4>
+    <w>måste</w>
+    <w>prioriteras</w>
+  </absaspan>
+  <w>”</w>
+  <absaspan id=4>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Genom</w>
+  <w>ordförandeskapet</w>
+  <w>kommer</w>
+  <w>Sverige</w>
+  <w>att</w>
+  <w>spela</w>
+  <w>en</w>
+  <w>central</w>
+  <w>roll</w>
+  <w>i</w>
+  <w>processen</w>
+  <w>.</w>
+  <absaspan id=5>
+    <w>Regeringen</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>har</w>
+    <w>länge</w>
+    <w>arbetat</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>gemensamt</w>
+    <w>vidarebosättningssystem</w>
+    <w>inom</w>
+    <w>EU</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>med</w>
+  <w>många</w>
+  <w>andra</w>
+  <w>frågor</w>
+  <w>på</w>
+  <w>EU</w>
+  <w>:</w>
+  <w>s</w>
+  <w>agenda</w>
+  <w>ser</w>
+  <absaspan id=9>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>en</w>
+    <w>risk</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>saken</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>hamnar</w>
+    <w>i</w>
+    <w>skymundan</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <absaspan id=14>
+    <w>Som</w>
+    <w>talespersoner</w>
+    <w>för</w>
+    <w>Alliansen</w>
+    <w>i</w>
+    <w>migrationsfrågor</w>
+  </absaspan>
+  <w>anser</w>
+  <absaspan id=15>
+    <w>vi</w>
+  </absaspan>
+  <w>därför</w>
+  <w>att</w>
+  <absaspan id=16>
+    <w>Tobias</w>
+    <w>Billström</w>
+  </absaspan>
+  <absaspan id=17 senti=4>
+    <w>måste</w>
+    <w>prioritera</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>vidarebosättning</w>
+    <w>under</w>
+    <w>hela</w>
+    <w>ordförandeskapet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>När</w>
+  <w>vi</w>
+  <w>talar</w>
+  <w>om</w>
+  <w>flyktingar</w>
+  <w>tänker</w>
+  <w>vi</w>
+  <w>i</w>
+  <w>allmänhet</w>
+  <w>på</w>
+  <w>dem</w>
+  <w>som</w>
+  <w>flyr</w>
+  <w>sina</w>
+  <w>länder</w>
+  <w>för</w>
+  <w>att</w>
+  <w>söka</w>
+  <w>skydd</w>
+  <w>vid</w>
+  <w>våra</w>
+  <w>gränser</w>
+  <w>.</w>
+  <w>Majoriteten</w>
+  <w>når</w>
+  <w>dock</w>
+  <w>aldrig</w>
+  <w>så</w>
+  <w>långt</w>
+  <w>eftersom</w>
+  <w>de</w>
+  <w>saknar</w>
+  <w>både</w>
+  <w>resurser</w>
+  <w>och</w>
+  <w>möjligheter</w>
+  <w>.</w>
+  <w>Omkring</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>#</w>
+  <w>P</w>
+  <absaspan id=19 senti=3>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>80</w>
+  <w>procent</w>
+  <w>av</w>
+  <w>alla</w>
+  <w>flyktingar</w>
+  <w>befinner</w>
+  <w>sig</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>utvecklingsland</w>
+  <w>och</w>
+  <w>oftast</w>
+  <w>är</w>
+  <w>det</w>
+  <w>just</w>
+  <w>de</w>
+  <w>som</w>
+  <w>är</w>
+  <w>i</w>
+  <w>störst</w>
+  <w>behov</w>
+  <w>av</w>
+  <w>hjälp</w>
+  <w>.</w>
+  <w>De</w>
+  <w>flesta</w>
+  <w>av</w>
+  <w>dem</w>
+  <w>lyckas</w>
+  <w>aldrig</w>
+  <w>lämna</w>
+  <w>de</w>
+  <absaspan id=20>
+    <w>flyktingläger</w>
+  </absaspan>
+  <w>där</w>
+  <w>de</w>
+  <w>blir</w>
+  <w>fast</w>
+  <w>i</w>
+  <w>många</w>
+  <w>år</w>
+  <w>under</w>
+  <absaspan id=21>
+    <w>levnadsvillkor</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=22 senti=2>
+    <w>är</w>
+    <w>under</w>
+    <w>all</w>
+    <w>kritik</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <absaspan id=23>
+    <w>För</w>
+    <w>att</w>
+    <w>bryta</w>
+    <w>den</w>
+    <w>situationen</w>
+  </absaspan>
+  <absaspan id=24 senti=4>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>vidarebosättning</w>
+  </absaspan>
+  <absaspan id=26 senti=4>
+    <w>nyckeln</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=3>
+  <w>Vidarebosättning</w>
+  <w>sker</w>
+  <w>vanligen</w>
+  <w>genom</w>
+  <w>att</w>
+  <w>FN</w>
+  <w>:</w>
+  <w>s</w>
+  <w>flyktingkommissarie</w>
+  <w>,</w>
+  <w>UNHCR</w>
+  <w>,</w>
+  <w>bereder</w>
+  <w>plats</w>
+  <w>för</w>
+  <w>de</w>
+  <w>mest</w>
+  <w>skyddsbehövande</w>
+  <w>i</w>
+  <w>nya</w>
+  <w>länder</w>
+  <w>.</w>
+  <w>De</w>
+  <w>som</w>
+  <w>får</w>
+  <w>hjälpen</w>
+  <w>kallas</w>
+  <w>kvotflyktingar</w>
+  <w>.</w>
+</absapar>
+<absapar id=7 senti=3>
+  <absaspan id=27 senti=2>
+    <w>Tyvärr</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>tar</w>
+    <w>bara</w>
+    <w>tio</w>
+    <w>av</w>
+    <w>EU</w>
+    <w>:</w>
+    <w>s</w>
+    <w>27</w>
+    <w>medlemsstater</w>
+    <w>emot</w>
+    <w>kvotflyktingar</w>
+    <w>på</w>
+    <w>årlig</w>
+    <w>basis</w>
+    <w>idag</w>
+  </absaspan>
+  <w>.</w>
+  <w>Av</w>
+  <w>de</w>
+  <w>närmare</w>
+  <w>65</w>
+  <w>000</w>
+  <w>som</w>
+  <w>flyttade</w>
+  <w>genom</w>
+  <w>UNHCR</w>
+  <w>:</w>
+  <w>s</w>
+  <w>försorg</w>
+  <w>år</w>
+  <w>2008</w>
+  <w>kom</w>
+  <w>drygt</w>
+  <w>4</w>
+  <w>000</w>
+  <w>till</w>
+  <w>EU</w>
+  <w>.</w>
+  <w>Närmare</w>
+  <w>hälften</w>
+  <w>togs</w>
+  <w>emot</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <absaspan id=29>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=30 senti=2>
+    <w>duger</w>
+    <w>inte</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9 senti=3>
+  <w>Enligt</w>
+  <absaspan id=31>
+    <w>UNHCR</w>
+  </absaspan>
+  <w>är</w>
+  <w>behovet</w>
+  <w>av</w>
+  <w>nya</w>
+  <w>platser</w>
+  <w>skriande</w>
+  <w>och</w>
+  <absaspan id=32 senti=4>
+    <w>det</w>
+    <w>är</w>
+    <w>hög</w>
+    <w>tid</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>att</w>
+    <w>fler</w>
+    <w>medlemsländer</w>
+    <w>tar</w>
+    <w>sitt</w>
+    <w>ansvar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Om</w>
+  <w>varje</w>
+  <w>medlemsstat</w>
+  <w>tog</w>
+  <w>emot</w>
+  <w>lika</w>
+  <w>många</w>
+  <w>kvotflyktingar</w>
+  <w>per</w>
+  <w>person</w>
+  <w>som</w>
+  <w>Sverige</w>
+  <w>gör</w>
+  <w>idag</w>
+  <w>skulle</w>
+  <w>omkring</w>
+  <w>100</w>
+  <w>000</w>
+  <w>kunna</w>
+  <w>få</w>
+  <w>skydd</w>
+  <w>inom</w>
+  <w>EU</w>
+  <w>.</w>
+</absapar>
+<absapar id=10 senti=3>
+  <w>Med</w>
+  <w>det</w>
+  <w>aktuella</w>
+  <w>förslaget</w>
+  <w>är</w>
+  <w>tanken</w>
+  <w>att</w>
+  <w>varje</w>
+  <w>EU-land</w>
+  <w>åtar</w>
+  <w>sig</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>ett</w>
+  <w>visst</w>
+  <w>antal</w>
+  <w>personer</w>
+  <w>per</w>
+  <w>år</w>
+  <w>.</w>
+  <w>Även</w>
+  <w>om</w>
+  <w>åtagandet</w>
+  <w>är</w>
+  <w>frivilligt</w>
+  <w>kommer</w>
+  <w>ett</w>
+  <w>samarbete</w>
+  <w>på</w>
+  <w>sikt</w>
+  <w>att</w>
+  <w>öka</w>
+  <w>mottagandekapaciteten</w>
+  <w>.</w>
+</absapar>
+<absapar id=11 senti=3>
+  <absaspan id=34>
+    <w>På</w>
+    <w>så</w>
+    <w>sätt</w>
+  </absaspan>
+  <absaspan id=35 senti=4>
+    <w>skulle</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>EU</w>
+  </absaspan>
+  <absaspan id=37 senti=4>
+    <w>kunna</w>
+  </absaspan>
+  <absaspan id=38 senti=4>
+    <w>göra</w>
+    <w>en</w>
+    <w>stor</w>
+    <w>skillnad</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>,</w>
+    <w>inte</w>
+    <w>minst</w>
+    <w>för</w>
+    <w>de</w>
+    <w>fattiga</w>
+    <w>och</w>
+    <w>konfliktdrabbade</w>
+    <w>länder</w>
+    <w>som</w>
+    <w>i</w>
+    <w>dag</w>
+    <w>härbärgerar</w>
+    <w>långt</w>
+    <w>fler</w>
+    <w>skyddsbehövande</w>
+    <w>än</w>
+    <w>de</w>
+    <w>har</w>
+    <w>kapacitet</w>
+    <w>för</w>
+  </absaspan>
+  <w>.</w>
+  <w>Dessutom</w>
+  <w>minskar</w>
+  <w>det</w>
+  <w>behovet</w>
+  <w>att</w>
+  <w>företa</w>
+  <absaspan id=40>
+    <w>långa</w>
+    <w>och</w>
+    <w>ofta</w>
+  </absaspan>
+  <absaspan id=41 senti=2>
+    <w>farliga</w>
+  </absaspan>
+  <absaspan id=42>
+    <w>resor</w>
+    <w>på</w>
+    <w>egen</w>
+    <w>hand</w>
+    <w>eller</w>
+    <w>med</w>
+    <w>hjälp</w>
+    <w>av</w>
+    <w>människosmugglare</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=12 senti=3>
+  <absaspan id=43>
+    <w>Ett</w>
+    <w>samarbete</w>
+    <w>i</w>
+    <w>vidarebosättning</w>
+  </absaspan>
+  <absaspan id=44 senti=4>
+    <w>har</w>
+    <w>också</w>
+    <w>andra</w>
+    <w>fördelar</w>
+  </absaspan>
+  <absaspan id=45>
+    <w>som</w>
+    <w>en</w>
+    <w>högre</w>
+    <w>genomslagkraft</w>
+    <w>och</w>
+    <w>effektivitet</w>
+    <w>i</w>
+    <w>EU</w>
+    <w>:</w>
+    <w>s</w>
+    <w>humanitära</w>
+    <w>insatser</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=13 senti=3>
+  <w>Vidarbosättningsprogrammet</w>
+  <w>är</w>
+  <w>en</w>
+  <w>del</w>
+  <w>av</w>
+  <absaspan id=46>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=47>
+    <w>samarbete</w>
+    <w>kring</w>
+    <w>flykting</w>
+    <w>-</w>
+    <w>och</w>
+    <w>migrationsfrågor</w>
+    <w>som</w>
+    <w>EU</w>
+    <w>haft</w>
+    <w>sedan</w>
+    <w>1999</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=48>
+    <w>Särskilt</w>
+    <w>från</w>
+    <w>vänstern</w>
+  </absaspan>
+  <absaspan id=49 senti=2>
+    <w>har</w>
+    <w>man</w>
+    <w>försökt</w>
+    <w>att</w>
+    <w>svartmåla</w>
+    <w>samarbetet</w>
+  </absaspan>
+  <w>som</w>
+  <w>ett</w>
+  <w>sätt</w>
+  <w>att</w>
+  <w>begränsa</w>
+  <w>mottagandet</w>
+  <w>av</w>
+  <w>människor</w>
+  <w>i</w>
+  <w>nöd</w>
+  <w>.</w>
+</absapar>
+<absapar id=14 senti=3>
+  <absaspan id=50>
+    <w>Vi</w>
+  </absaspan>
+  <w>anser</w>
+  <w>tvärtom</w>
+  <w>,</w>
+  <w>att</w>
+  <absaspan id=51>
+    <w>det</w>
+  </absaspan>
+  <w>precis</w>
+  <w>som</w>
+  <w>exemplet</w>
+  <w>med</w>
+  <w>vidarebosättning</w>
+  <w>visar</w>
+  <w>,</w>
+  <absaspan id=52 senti=4>
+    <w>innebär</w>
+    <w>en</w>
+    <w>möjlighet</w>
+    <w>för</w>
+    <w>fler</w>
+    <w>människor</w>
+    <w>att</w>
+    <w>få</w>
+    <w>skydd</w>
+  </absaspan>
+  <w>.</w>
+  <w>Dessutom</w>
+  <absaspan id=53 senti=4>
+    <w>gynnar</w>
+  </absaspan>
+  <absaspan id=54>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=55 senti=4>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=56 senti=4>
+    <w>mer</w>
+    <w>solidarisk</w>
+    <w>ansvarsfördelning</w>
+  </absaspan>
+  <w>mellan</w>
+  <w>medlemsstaterna</w>
+  <w>.</w>
+</absapar>
+<absapar id=15 senti=3>
+  <w>I</w>
+  <w>få</w>
+  <w>frågor</w>
+  <w>ser</w>
+  <w>vi</w>
+  <w>så</w>
+  <w>tydligt</w>
+  <w>hur</w>
+  <absaspan id=57 senti=4>
+    <w>viktigt</w>
+  </absaspan>
+  <absaspan id=58>
+    <w>det</w>
+    <w>svenska</w>
+    <w>ordförandeskapet</w>
+    <w>i</w>
+    <w>EU</w>
+  </absaspan>
+  <absaspan id=59 senti=4>
+    <w>är</w>
+  </absaspan>
+  <w>som</w>
+  <w>i</w>
+  <w>migrationsfrågorna</w>
+  <w>där</w>
+  <w>det</w>
+  <w>redan</w>
+  <w>blivit</w>
+  <w>en</w>
+  <w>helt</w>
+  <w>annan</w>
+  <w>ton</w>
+  <w>i</w>
+  <w>diskussionerna</w>
+  <w>på</w>
+  <w>ministerråden</w>
+  <w>under</w>
+  <w>Tobias</w>
+  <w>Billströms</w>
+  <w>ledning</w>
+  <w>.</w>
+  <absaspan id=60 senti=4>
+    <w>Det</w>
+    <w>är</w>
+    <w>klara</w>
+    <w>steg</w>
+    <w>mot</w>
+    <w>öppenhet</w>
+    <w>,</w>
+    <w>generositet</w>
+    <w>och</w>
+    <w>rättssäkerhet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=16 senti=3>
+  <absaspan id=61>
+    <w>Kan</w>
+  </absaspan>
+  <absaspan id=62>
+    <w>Sverige</w>
+    <w>under</w>
+    <w>hösten</w>
+    <w>landa</w>
+    <w>denna</w>
+    <w>fråga</w>
+  </absaspan>
+  <absaspan id=63 senti=4>
+    <w>innebär</w>
+  </absaspan>
+  <absaspan id=64>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=65 senti=4>
+    <w>flera</w>
+  </absaspan>
+  <absaspan id=66 senti=4>
+    <w>stora</w>
+    <w>steg</w>
+    <w>framåt</w>
+  </absaspan>
+  <absaspan id=67>
+    <w>för</w>
+    <w>de</w>
+    <w>flyktingar</w>
+    <w>som</w>
+    <w>är</w>
+    <w>allra</w>
+    <w>mest</w>
+    <w>utsatta</w>
+    <w>i</w>
+    <w>världen</w>
+  </absaspan>
+  <w>samtidigt</w>
+  <w>som</w>
+  <absaspan id=68>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=69 senti=4>
+    <w>är</w>
+    <w>ett</w>
+    <w>stort</w>
+    <w>steg</w>
+    <w>framåt</w>
+  </absaspan>
+  <absaspan id=70>
+    <w>för</w>
+    <w>EU</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=71>
+    <w>Vi</w>
+  </absaspan>
+  <w>anser</w>
+  <w>att</w>
+  <absaspan id=72>
+    <w>frågan</w>
+  </absaspan>
+  <absaspan id=73 senti=5>
+    <w>har</w>
+    <w>högsta</w>
+    <w>prioritet</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=74 senti=4>
+    <w>hoppas</w>
+  </absaspan>
+  <absaspan id=75>
+    <w>att</w>
+    <w>migrationsminister</w>
+    <w>Tobias</w>
+    <w>Billström</w>
+    <w>lyckas</w>
+    <w>föra</w>
+    <w>förhandlingarna</w>
+    <w>framåt</w>
+    <w>under</w>
+    <w>dagens</w>
+    <w>viktiga</w>
+    <w>ministerrådsmöte</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>Mikael</w>
+  <w>CederbrattFredrick</w>
+  <w>FederleyUlf</w>
+  <w>Nilsson</w>
+  <w>Lars</w>
+  <w>Gustafsson</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,231 @@
+<absadoc annotators=1 senti=4>
+<absatitle>
+  <absaspan id=1 senti=5 target=2>
+    <w>Succe</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>i</w>
+    <w>Malmö</w>
+  </absaspan>
+  <w>Invandrare</w>
+  <w>i</w>
+  <w>jobb</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Ja</w>
+  <w>i</w>
+  <w>Malmö</w>
+  <w>far</w>
+  <w>de</w>
+  <w>flesta</w>
+  <w>nyanlända</w>
+  <w>jobb</w>
+  <w>,</w>
+  <w>de</w>
+  <w>gar</w>
+  <w>en</w>
+  <w>kurs</w>
+  <w>pa</w>
+  <w>Malmö</w>
+  <w>högskola</w>
+  <w>som</w>
+  <w>garanterar</w>
+  <w>jobb</w>
+  <w>inom</w>
+  <w>statlig</w>
+  <w>förvaltning</w>
+  <w>dvs</w>
+  <w>de</w>
+  <w>kan</w>
+  <w>fa</w>
+  <w>jobb</w>
+  <w>hos</w>
+  <w>Migrationsverket</w>
+  <w>,</w>
+  <w>Skatteverket</w>
+  <w>och</w>
+  <w>Försäkringskassan</w>
+  <w>bla</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Utbildningen</w>
+  <w>är</w>
+  <w>skräddarsydd</w>
+  <w>för</w>
+  <w>karriärister</w>
+  <w>tex</w>
+  <w>Rafeh</w>
+  <w>Aldarwish</w>
+  <w>från</w>
+  <w>Homs</w>
+  <w>i</w>
+  <w>Syrien</w>
+  <w>.</w>
+  <w>Han</w>
+  <w>är</w>
+  <w>erfaren</w>
+  <absaspan id=3>
+    <w>inom</w>
+    <w>private</w>
+    <w>banking</w>
+    <w>i</w>
+    <w>Qatar</w>
+  </absaspan>
+  <w>när</w>
+  <w>han</w>
+  <w>beslöt</w>
+  <w>sig</w>
+  <w>för</w>
+  <w>att</w>
+  <w>fly</w>
+  <w>fran</w>
+  <w>detta</w>
+  <absaspan id=4 senti=5>
+    <w>toppjobb</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>söka</w>
+  <w>sig</w>
+  <w>till</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Varför</w>
+  <w>gör</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=4>
+  <w>resten</w>
+  <w>av</w>
+  <w>landet</w>
+  <w>pa</w>
+  <w>samma</w>
+  <w>sätt</w>
+  <w>sa</w>
+  <w>att</w>
+  <w>invandrarna</w>
+  <w>kan</w>
+  <w>integreras</w>
+  <w>?</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <w>Och</w>
+  <w>fragan</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>reportern</w>
+  <w>ställde</w>
+  <w>,</w>
+  <w>varför</w>
+  <w>lämnade</w>
+  <w>Rafeh</w>
+  <w>sitt</w>
+  <absaspan id=5 senti=5>
+    <w>toppjobb</w>
+  </absaspan>
+  <w>i</w>
+  <w>Qatar</w>
+  <w>och</w>
+  <w>flydde</w>
+  <w>till</w>
+  <w>Malmö</w>
+  <w>istället</w>
+  <w>?</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=4>
+  <w>Rafeh</w>
+  <w>har</w>
+  <w>enligt</w>
+  <w>Linkedin</w>
+  <w>10</w>
+  <w>ars</w>
+  <w>erfarenhet</w>
+  <w>fran</w>
+  <w>att</w>
+  <w>jobba</w>
+  <w>pa</w>
+  <w>bank</w>
+  <w>i</w>
+  <w>Qatar</w>
+  <w>,</w>
+  <w>men</w>
+  <w>2015</w>
+  <w>flydde</w>
+  <w>han</w>
+  <w>fran</w>
+  <w>Qatar</w>
+  <w>till</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Assistant</w>
+  <w>Relationship</w>
+  <w>Manager</w>
+  <w>.</w>
+  <w>Corporate</w>
+  <w>Banking</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Nov</w>
+  <w>.</w>
+  <w>2011</w>
+  <w>:</w>
+  <w>Feb</w>
+  <w>.</w>
+  <w>2015</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Commercial</w>
+  <w>Bank</w>
+  <w>of</w>
+  <w>Qatar</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Financial</w>
+  <w>Analyst</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>2009</w>
+  <w>:</w>
+  <w>Okt</w>
+  <w>.</w>
+  <w>2011</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Commercial</w>
+  <w>Bank</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Bank</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Aug</w>
+  <w>.</w>
+  <w>2005</w>
+  <w>:</w>
+  <w>Okt</w>
+  <w>.</w>
+  <w>2009</w>
+  <w>.</w>
+</absapar>
+</absadoc>

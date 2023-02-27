@@ -1,0 +1,509 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Replik</w>
+  <w>:</w>
+  <w>”</w>
+  <w>Vi</w>
+  <w>vill</w>
+  <absaspan id=1 senti=2 target=2>
+    <w>avskaffa</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>2</w>
+    <w>/</w>
+    <w>3</w>
+    <w>-</w>
+    <w>samhället</w>
+  </absaspan>
+  <w>”</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>I</w>
+  <w>den</w>
+  <w>2</w>
+  <w>juli</w>
+  <w>skriver</w>
+  <w>en</w>
+  <w>anonym</w>
+  <w>handläggare</w>
+  <w>på</w>
+  <w>Försäkringskassan</w>
+  <w>att</w>
+  <w>riksdagen</w>
+  <w>röstar</w>
+  <w>för</w>
+  <w>att</w>
+  <w>införa</w>
+  <w>två-tredjedelssamhället</w>
+  <w>.</w>
+  <w>Alla</w>
+  <w>har</w>
+  <w>naturligtvis</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>tycka</w>
+  <w>,</w>
+  <w>men</w>
+  <w>det</w>
+  <absaspan id=3 senti=2>
+    <w>gör</w>
+    <w>det</w>
+    <w>mig</w>
+    <w>lite</w>
+    <w>ledsen</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>att</w>
+    <w>någon</w>
+    <w>har</w>
+    <w>denna</w>
+    <w>uppfattning</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Mitt</w>
+  <w>och</w>
+  <w>regeringens</w>
+  <w>syfte</w>
+  <w>med</w>
+  <w>propositionen</w>
+  <w>En</w>
+  <w>förbättrad</w>
+  <w>sjukskrivningsprocess</w>
+  <w>för</w>
+  <w>ökad</w>
+  <w>återgång</w>
+  <w>i</w>
+  <w>arbete</w>
+  <w>är</w>
+  <w>nämligen</w>
+  <w>det</w>
+  <w>rakt</w>
+  <w>motsatta</w>
+  <w>–</w>
+  <w>att</w>
+  <absaspan id=5 senti=2>
+    <w>avskaffa</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>det</w>
+    <w>två-tredjedelssamhälle</w>
+    <w>som</w>
+    <w>vi</w>
+    <w>redan</w>
+    <w>har</w>
+    <w>börjat</w>
+    <w>se</w>
+    <w>konturerna</w>
+    <w>av</w>
+  </absaspan>
+  <w>.</w>
+  <w>Ett</w>
+  <w>samhälle</w>
+  <w>där</w>
+  <w>två-tredjedelar</w>
+  <w>arbetar</w>
+  <w>och</w>
+  <w>en</w>
+  <w>tredjedel</w>
+  <w>befinner</w>
+  <w>sig</w>
+  <w>i</w>
+  <w>olika</w>
+  <w>ersättningssystem</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>som</w>
+  <w>också</w>
+  <absaspan id=7 senti=2>
+    <w>gör</w>
+    <w>mig</w>
+    <w>besviken</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=8>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>beredskapen</w>
+    <w>och</w>
+    <w>viljan</w>
+    <w>att</w>
+    <w>göra</w>
+    <w>något</w>
+    <w>åt</w>
+    <w>problemen</w>
+    <w>på</w>
+    <w>den</w>
+    <w>svenska</w>
+    <w>arbetsmarknaden</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>tidigare</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>har</w>
+    <w>varit</w>
+    <w>så</w>
+    <w>låg</w>
+  </absaspan>
+  <w>.</w>
+  <w>Den</w>
+  <w>förra</w>
+  <w>regeringen</w>
+  <w>införde</w>
+  <absaspan id=12>
+    <w>obligatorisk</w>
+    <w>prövning</w>
+    <w>av</w>
+    <w>förtidspension</w>
+    <w>efter</w>
+    <w>ett</w>
+    <w>år</w>
+  </absaspan>
+  <w>,</w>
+  <w>något</w>
+  <w>som</w>
+  <w>ledde</w>
+  <w>till</w>
+  <w>att</w>
+  <w>hundratusentals</w>
+  <w>människor</w>
+  <w>hamnade</w>
+  <w>i</w>
+  <absaspan id=13 senti=2>
+    <w>långvarigt</w>
+    <w>beroende</w>
+    <w>av</w>
+    <w>bidrag</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Den</w>
+  <w>nya</w>
+  <w>regeringen</w>
+  <w>genomför</w>
+  <w>två</w>
+  <absaspan id=14 senti=4>
+    <w>viktiga</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>förändringar</w>
+  </absaspan>
+  <w>i</w>
+  <w>sjukskrivningsprocessen</w>
+  <w>.</w>
+  <w>Genom</w>
+  <absaspan id=16 senti=4>
+    <w>tidiga</w>
+    <w>aktiva</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>åtgärder</w>
+  </absaspan>
+  <w>kan</w>
+  <absaspan id=18>
+    <w>inträdet</w>
+    <w>i</w>
+    <w>ohälsa</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>förhindras</w>
+  </absaspan>
+  <w>och</w>
+  <w>genom</w>
+  <absaspan id=20 senti=2>
+    <w>bättre</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>möjligheter</w>
+  </absaspan>
+  <w>för</w>
+  <w>förtidspensionärer</w>
+  <w>att</w>
+  <w>arbeta</w>
+  <w>kommer</w>
+  <w>människor</w>
+  <w>lättare</w>
+  <w>tillbaka</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Vi</w>
+  <absaspan id=22 senti=4>
+    <w>förstärker</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>Företagshälsovården</w>
+  </absaspan>
+  <w>och</w>
+  <w>inför</w>
+  <w>en</w>
+  <w>rehabiliteringsgaranti</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=24 senti=2>
+    <w>stoppa</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>inflödet</w>
+    <w>i</w>
+    <w>ohälsa</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=26>
+    <w>Dagens</w>
+    <w>sjukskrivningsmodell</w>
+  </absaspan>
+  <absaspan id=27 senti=2>
+    <w>har</w>
+    <w>uppmuntrat</w>
+    <w>passivitet</w>
+    <w>och</w>
+    <w>icke-beslut</w>
+  </absaspan>
+  <w>.</w>
+  <w>Med</w>
+  <w>fasta</w>
+  <w>tidsgränser</w>
+  <w>i</w>
+  <w>sjukskrivningsprocessen</w>
+  <absaspan id=28 senti=4>
+    <w>framtvingas</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>ställningstaganden</w>
+    <w>tidigare</w>
+  </absaspan>
+  <w>och</w>
+  <w>det</w>
+  <w>blir</w>
+  <w>möjligt</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>tag</w>
+  <w>i</w>
+  <w>de</w>
+  <w>problem</w>
+  <w>som</w>
+  <w>ligger</w>
+  <w>bakom</w>
+  <w>sjukskrivningen</w>
+  <w>i</w>
+  <w>tid</w>
+  <w>.</w>
+  <w>Då</w>
+  <w>minskar</w>
+  <absaspan id=30 senti=2>
+    <w>risken</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=31>
+    <w>att</w>
+    <w>en</w>
+    <w>lång</w>
+    <w>sjukskrivning</w>
+    <w>slutar</w>
+    <w>i</w>
+    <w>förtidspension</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=32 senti=2>
+    <w>permanent</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>utanförskap</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>För</w>
+  <w>att</w>
+  <w>öka</w>
+  <absaspan id=34 senti=4>
+    <w>möjligheterna</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>att</w>
+    <w>pröva</w>
+    <w>arbete</w>
+    <w>och</w>
+    <w>komma</w>
+    <w>tillbaka</w>
+  </absaspan>
+  <w>får</w>
+  <w>alla</w>
+  <w>som</w>
+  <w>har</w>
+  <w>permanent</w>
+  <w>förtidspension</w>
+  <w>från</w>
+  <w>och</w>
+  <w>med</w>
+  <w>den</w>
+  <w>första</w>
+  <w>januari</w>
+  <w>2009</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>arbeta</w>
+  <w>,</w>
+  <w>arbeta</w>
+  <w>ideellt</w>
+  <w>eller</w>
+  <w>studera</w>
+  <w>i</w>
+  <w>obegränsad</w>
+  <w>utsträckning</w>
+  <w>.</w>
+  <w>På</w>
+  <w>detta</w>
+  <w>sätt</w>
+  <w>vill</w>
+  <w>jag</w>
+  <w>kompensera</w>
+  <w>de</w>
+  <w>540</w>
+  <w>000</w>
+  <w>människor</w>
+  <w>som</w>
+  <w>har</w>
+  <absaspan id=36 senti=2>
+    <w>lämnats</w>
+    <w>utanför</w>
+  </absaspan>
+  <w>på</w>
+  <w>grund</w>
+  <w>av</w>
+  <absaspan id=37>
+    <w>politikernas</w>
+    <w>och</w>
+    <w>myndigheternas</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>tidigare</w>
+  </absaspan>
+  <absaspan id=39 senti=2>
+    <w>passivitet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>I</w>
+  <absaspan id=40>
+    <w>den</w>
+    <w>här</w>
+    <w>regeringen</w>
+  </absaspan>
+  <absaspan id=41 senti=2>
+    <w>nöjer</w>
+    <w>vi</w>
+    <w>oss</w>
+    <w>inte</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=42>
+    <w>att</w>
+    <w>bara</w>
+    <w>prata</w>
+  </absaspan>
+  <w>–</w>
+  <w>vi</w>
+  <absaspan id=43 senti=2>
+    <w>vidtar</w>
+    <w>också</w>
+    <w>kraftfulla</w>
+    <w>åtgärder</w>
+  </absaspan>
+  <w>mot</w>
+  <absaspan id=44>
+    <w>ohälsan</w>
+  </absaspan>
+  <w>.</w>
+  <w>Och</w>
+  <w>vi</w>
+  <absaspan id=45 senti=4>
+    <w>är</w>
+    <w>övertygade</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=46>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=47>
+    <w>åtgärderna</w>
+  </absaspan>
+  <absaspan id=48 senti=4>
+    <w>kommer</w>
+    <w>att</w>
+    <w>göra</w>
+    <w>skillnad</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Ska</w>
+  <w>man</w>
+  <w>tro</w>
+  <w>Försäkringskassans</w>
+  <w>prognos</w>
+  <w>för</w>
+  <w>utanförskapet</w>
+  <w>2011</w>
+  <w>kommer</w>
+  <w>ohälsotalet</w>
+  <absaspan id=49 senti=4>
+    <w>redan</w>
+    <w>vid</w>
+    <w>denna</w>
+    <w>tidpunkt</w>
+  </absaspan>
+  <absaspan id=50>
+    <w>att</w>
+    <w>vara</w>
+    <w>nere</w>
+    <w>på</w>
+    <w>70</w>
+    <w>-</w>
+    <w>talsnivå</w>
+  </absaspan>
+  <w>.</w>
+  <w>En</w>
+  <w>stor</w>
+  <w>del</w>
+  <w>av</w>
+  <absaspan id=51 senti=4>
+    <w>den</w>
+    <w>förväntade</w>
+    <w>förbättringen</w>
+  </absaspan>
+  <w>beror</w>
+  <w>på</w>
+  <absaspan id=52>
+    <w>regeringens</w>
+    <w>åtgärder</w>
+    <w>för</w>
+    <w>att</w>
+    <w>minska</w>
+    <w>ohälsa</w>
+    <w>och</w>
+    <w>arbetslöshet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Cristina</w>
+  <w>Husmark</w>
+  <w>Pehrsson</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Socialförsäkringsminister</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,161 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>kjell</w>
+  <w>bergqvists</w>
+  <w>kommentarer</w>
+  <w>på</w>
+  <w>invandringspolitik</w>
+  <w>(</w>
+  <w>samlingstråd</w>
+  <w>)</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Satt</w>
+  <w>nyss</w>
+  <w>och</w>
+  <w>tittade</w>
+  <w>på</w>
+  <w>nyhetsmorgon</w>
+  <w>där</w>
+  <absaspan id=1>
+    <w>kjell</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>bergqvist</w>
+  </absaspan>
+  <w>var</w>
+  <w>gäst</w>
+  <w>och</w>
+  <absaspan id=3>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>var</w>
+    <w>helt</w>
+    <w>på</w>
+    <w>bristningsgränsen</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>"</w>
+  <absaspan id=5>
+    <w>Sverige</w>
+  </absaspan>
+  <w>gör</w>
+  <w>inte</w>
+  <w>ett</w>
+  <w>skit</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>"</w>
+  <absaspan id=6>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>skämms</w>
+    <w>som</w>
+    <w>ett</w>
+    <w>svin</w>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>mitt</w>
+    <w>land</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>"</w>
+  <w>Alla</w>
+  <w>kan</w>
+  <w>komma</w>
+  <w>hit</w>
+  <w>det</w>
+  <w>har</w>
+  <w>vi</w>
+  <w>råd</w>
+  <w>med</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <w>"</w>
+  <absaspan id=9>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=10 senti=1>
+    <w>kränker</w>
+    <w>dessa</w>
+    <w>människor</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=2>
+  <absaspan id=11>
+    <w>Jag</w>
+  </absaspan>
+  <w>tycker</w>
+  <w>att</w>
+  <absaspan id=12>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=13 senti=1>
+    <w>har</w>
+    <w>ballat</w>
+    <w>ur</w>
+    <w>totalt</w>
+  </absaspan>
+  <absaspan id=14 senti=1>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=16 senti=1>
+    <w>idiot</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7 senti=2>
+  <w>Vi</w>
+  <w>kan</w>
+  <w>ju</w>
+  <w>prata</w>
+  <w>om</w>
+  <w>dessa</w>
+  <absaspan id=17 senti=5 irony>
+    <w>helt</w>
+    <w>makalösa</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>påståendena</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <absaspan id=19>
+    <w>Någon</w>
+  </absaspan>
+  <absaspan id=20 senti=4>
+    <w>snäll</w>
+  </absaspan>
+  <w>får</w>
+  <w>gärna</w>
+  <w>länka</w>
+  <w>klippet</w>
+  <w>sitter</w>
+  <w>på</w>
+  <w>luren</w>
+  <w>nu</w>
+  <w>.</w>
+</absapar>
+</absadoc>

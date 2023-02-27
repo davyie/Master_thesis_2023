@@ -1,0 +1,79 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Varför</w>
+  <w>är</w>
+  <w>det</w>
+  <w>principiellt</w>
+  <w>fel</w>
+  <w>att</w>
+  <w>vara</w>
+  <w>rasist</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Om</w>
+  <w>någon</w>
+  <w>har</w>
+  <w>goda</w>
+  <w>grunder</w>
+  <w>till</w>
+  <w>att</w>
+  <w>tycka</w>
+  <w>att</w>
+  <w>en</w>
+  <w>viss</w>
+  <w>ras</w>
+  <w>är</w>
+  <w>sämre</w>
+  <w>(</w>
+  <w>eller</w>
+  <w>bättre</w>
+  <w>)</w>
+  <w>på</w>
+  <w>ett</w>
+  <w>eller</w>
+  <w>annat</w>
+  <w>sätt</w>
+  <w>,</w>
+  <w>varför</w>
+  <absaspan id=1 senti=1>
+    <w>anser</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>många</w>
+  </absaspan>
+  <w>trots</w>
+  <w>det</w>
+  <absaspan id=3 senti=1>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>det</w>
+    <w>är</w>
+    <w>principiellt</w>
+    <w>fel</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>att</w>
+    <w>ha</w>
+    <w>en</w>
+    <w>sådan</w>
+    <w>åsikt</w>
+  </absaspan>
+  <w>?</w>
+  <w>Eller</w>
+  <w>tar</w>
+  <w>ni</w>
+  <w>inte</w>
+  <w>vetenskapliga</w>
+  <w>studier</w>
+  <w>som</w>
+  <w>påvisar</w>
+  <w>skillnader</w>
+  <w>mellan</w>
+  <w>raser</w>
+  <w>seriöst</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

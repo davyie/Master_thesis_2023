@@ -1,0 +1,89 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Föra</w>
+  <absaspan id=1>
+    <w>SD-politik</w>
+  </absaspan>
+  <w>utan</w>
+  <absaspan id=2 senti=2 target=1>
+    <w>anklagelser</w>
+    <w>för</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Hur</w>
+  <w>kommer</w>
+  <w>det</w>
+  <w>sig</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>nuvarande</w>
+    <w>regering</w>
+  </absaspan>
+  <w>kan</w>
+  <absaspan id=4 senti=2>
+    <w>införa</w>
+    <w>restriktioner</w>
+  </absaspan>
+  <w>och</w>
+  <w>prata</w>
+  <w>volymer</w>
+  <absaspan id=5 senti=2>
+    <w>utan</w>
+    <w>att</w>
+    <w>anklagas</w>
+    <w>för</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Var</w>
+  <w>är</w>
+  <absaspan id=6 senti=2>
+    <w>upprördheten</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=7 senti=2>
+    <w>rasismanklagelserna</w>
+  </absaspan>
+  <w>mot</w>
+  <absaspan id=8>
+    <w>miljöpartiet</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Varför</w>
+  <w>kan</w>
+  <w>vissa</w>
+  <w>partier</w>
+  <w>förespråka</w>
+  <w>restriktioner</w>
+  <w>men</w>
+  <w>inte</w>
+  <w>andra</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Blir</w>
+  <w>det</w>
+  <w>rasism</w>
+  <w>först</w>
+  <w>när</w>
+  <w>det</w>
+  <w>är</w>
+  <w>SD</w>
+  <w>som</w>
+  <w>förespråkar</w>
+  <w>samma</w>
+  <w>sak</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

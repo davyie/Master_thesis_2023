@@ -1,0 +1,215 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Replik</w>
+  <w>:</w>
+  <w>Skrönor</w>
+  <w>i</w>
+  <w>Oskarshamnsfallet</w>
+  <w>får</w>
+  <w>nytt</w>
+  <w>liv</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>När</w>
+    <w>du</w>
+    <w>försöker</w>
+    <w>analysera</w>
+    <w>vad</w>
+    <w>som</w>
+    <w>hänt</w>
+    <w>kring</w>
+    <w>”</w>
+    <w>fallet</w>
+    <w>Louise</w>
+    <w>”</w>
+    <w>i</w>
+    <w>Vetlanda</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>får</w>
+  </absaspan>
+  <w>återigen</w>
+  <absaspan id=3 senti=2>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>antal</w>
+    <w>skrönor</w>
+  </absaspan>
+  <w>som</w>
+  <w>rör</w>
+  <w>det</w>
+  <w>så</w>
+  <w>kallade</w>
+  <w>Oskarshamnsfallet</w>
+  <absaspan id=5 senti=2>
+    <w>nytt</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>liv</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Reportaget</w>
+  <w>handlade</w>
+  <w>om</w>
+  <w>den</w>
+  <absaspan id=7>
+    <w>psykologutredning</w>
+  </absaspan>
+  <w>och</w>
+  <w>de</w>
+  <w>tester</w>
+  <w>som</w>
+  <absaspan id=8 senti=3>
+    <w>var</w>
+    <w>helt</w>
+    <w>avgörande</w>
+  </absaspan>
+  <w>för</w>
+  <w>omhändertagandet</w>
+  <w>av</w>
+  <w>ett</w>
+  <w>barn</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=9>
+    <w>Socialstyrelsen</w>
+  </absaspan>
+  <w>utredde</w>
+  <w>efter</w>
+  <w>reportaget</w>
+  <w>hur</w>
+  <absaspan id=10>
+    <w>psykologen</w>
+  </absaspan>
+  <w>gjort</w>
+  <w>den</w>
+  <w>helt</w>
+  <w>avgörande</w>
+  <w>utredningen</w>
+  <w>och</w>
+  <absaspan id=11 senti=1>
+    <w>riktade</w>
+    <w>mycket</w>
+    <w>allvarlig</w>
+    <w>kritik</w>
+  </absaspan>
+  <w>mot</w>
+  <w>honom</w>
+  <w>.</w>
+  <absaspan id=12>
+    <w>Utredningen</w>
+  </absaspan>
+  <w>beskrivs</w>
+  <w>som</w>
+  <w>”</w>
+  <absaspan id=13 senti=2>
+    <w>ofullständigt</w>
+    <w>och</w>
+    <w>bristfälligt</w>
+    <w>genomförd</w>
+  </absaspan>
+  <w>”</w>
+  <w>och</w>
+  <absaspan id=14>
+    <w>psykologens</w>
+    <w>agerande</w>
+  </absaspan>
+  <w>”</w>
+  <absaspan id=15 senti=2>
+    <w>har</w>
+    <w>därmed</w>
+    <w>skett</w>
+    <w>i</w>
+    <w>strid</w>
+    <w>med</w>
+    <w>vetenskap</w>
+    <w>och</w>
+    <w>beprövad</w>
+    <w>erfarenhet</w>
+  </absaspan>
+  <w>”</w>
+  <absaspan id=16>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>Bristerna</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=18>
+    <w>utredningen</w>
+  </absaspan>
+  <w>har</w>
+  <w>”</w>
+  <w>haft</w>
+  <w>avgörande</w>
+  <w>betydelse</w>
+  <w>ur</w>
+  <w>rättssäkerhetssynpunkt</w>
+  <w>”</w>
+  <absaspan id=19>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>Det</w>
+  <w>visade</w>
+  <w>sig</w>
+  <w>inte</w>
+  <w>som</w>
+  <absaspan id=20>
+    <w>du</w>
+  </absaspan>
+  <w>påstår</w>
+  <w>efteråt</w>
+  <w>att</w>
+  <absaspan id=21>
+    <w>föräldrarna</w>
+    <w>i</w>
+    <w>Oskarshamn</w>
+  </absaspan>
+  <absaspan id=22 senti=2>
+    <w>var</w>
+    <w>begåvningshandikappade</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>var</w>
+  <w>just</w>
+  <w>det</w>
+  <w>reportaget</w>
+  <w>handlade</w>
+  <w>om</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Hjördis</w>
+  <w>Flodström-Nilsson</w>
+  <w>granskade</w>
+  <w>inte</w>
+  <w>något</w>
+  <w>fall</w>
+  <w>åt</w>
+  <w>oss</w>
+  <w>i</w>
+  <w>Oskarshamn</w>
+  <w>,</w>
+  <w>och</w>
+  <w>hon</w>
+  <w>ströks</w>
+  <w>inte</w>
+  <w>ur</w>
+  <w>något</w>
+  <w>program</w>
+  <w>eftersom</w>
+  <w>hon</w>
+  <w>aldrig</w>
+  <w>intervjuades</w>
+  <w>.</w>
+</absapar>
+</absadoc>

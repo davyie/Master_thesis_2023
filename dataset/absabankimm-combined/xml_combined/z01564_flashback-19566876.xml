@@ -1,0 +1,100 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>UR</w>
+  <w>mot</w>
+  <absaspan id=1 senti=1 target=1>
+    <w>främlingsfientlighet</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=2>
+    <w>Rubriken</w>
+  </absaspan>
+  <w>få</w>
+  <w>ses</w>
+  <w>som</w>
+  <absaspan id=3 senti=2>
+    <w>lätt</w>
+    <w>fattig</w>
+  </absaspan>
+  <w>då</w>
+  <w>en</w>
+  <w>sammanfattning</w>
+  <w>skulle</w>
+  <w>blitt</w>
+  <w>för</w>
+  <w>lång</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Såg</w>
+  <w>på</w>
+  <w>ungdomscommunityn</w>
+  <w>Bilddagbokens</w>
+  <w>startsida</w>
+  <w>att</w>
+  <w>de</w>
+  <w>hade</w>
+  <absaspan id=4 senti=2>
+    <w>en</w>
+    <w>oroande</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>reklam</w>
+    <w>från</w>
+    <w>UR</w>
+  </absaspan>
+  <w>.</w>
+  <w>Kolla</w>
+  <w>där</w>
+  <w>nere</w>
+  <w>till</w>
+  <w>vänster</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Citerar</w>
+  <w>framsidan</w>
+  <w>-</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Det</w>
+  <w>första</w>
+  <w>jag</w>
+  <w>tänkte</w>
+  <w>på</w>
+  <w>efter</w>
+  <w>att</w>
+  <w>snabbt</w>
+  <w>ha</w>
+  <w>kollat</w>
+  <w>in</w>
+  <w>URs</w>
+  <w>hemsida</w>
+  <w>,</w>
+  <w>var</w>
+  <w>att</w>
+  <absaspan id=6 senti=1>
+    <w>det</w>
+    <w>är</w>
+    <w>jävligt</w>
+    <w>illa</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>sätta</w>
+    <w>upp</w>
+    <w>sådan</w>
+    <w>här</w>
+    <w>smygpolitik</w>
+    <w>reklam</w>
+    <w>på</w>
+    <w>en</w>
+    <w>ungdomscommunity</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

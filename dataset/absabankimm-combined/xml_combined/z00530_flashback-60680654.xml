@@ -1,0 +1,125 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Jobbade</w>
+  <w>med</w>
+  <w>flykting"barn</w>
+  <w>"</w>
+  <w>,</w>
+  <w>blev</w>
+  <w>TBC</w>
+  <w>smittad</w>
+  <w>.</w>
+  <w>Nu</w>
+  <w>stämmer</w>
+  <w>han</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Vilken</w>
+  <absaspan id=1 senti=2>
+    <w>roligt</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>historia</w>
+  </absaspan>
+  <w>.</w>
+  <w>Roland</w>
+  <w>trodde</w>
+  <w>han</w>
+  <w>skulle</w>
+  <w>bada</w>
+  <w>i</w>
+  <w>likes</w>
+  <w>på</w>
+  <w>fb</w>
+  <w>när</w>
+  <absaspan id=3>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>stolt</w>
+    <w>skriver</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=5>
+    <w>han</w>
+    <w>arbetar</w>
+    <w>med</w>
+    <w>ensamkommande</w>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>barn</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <absaspan id=7>
+    <w>Barnen</w>
+    <w>med</w>
+    <w>ålder</w>
+    <w>allt</w>
+    <w>från</w>
+    <w>18</w>
+    <w>-</w>
+    <w>55</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=8 senti=2>
+    <w>diffusa</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>bakgrunder</w>
+  </absaspan>
+  <w>där</w>
+  <absaspan id=10 senti=2>
+    <w>knulla</w>
+    <w>getter</w>
+  </absaspan>
+  <w>är</w>
+  <w>ett</w>
+  <w>vanligt</w>
+  <w>förekommande</w>
+  <w>har</w>
+  <w>inte</w>
+  <w>testats</w>
+  <w>för</w>
+  <w>sjukdomar</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=11>
+    <w>Roland</w>
+    <w>Finser</w>
+  </absaspan>
+  <w>smittas</w>
+  <w>av</w>
+  <w>TBC</w>
+  <w>och</w>
+  <w>nu</w>
+  <absaspan id=12 senti=2>
+    <w>skyller</w>
+  </absaspan>
+  <w>han</w>
+  <w>på</w>
+  <absaspan id=13>
+    <w>socialen</w>
+  </absaspan>
+  <w>och</w>
+  <w>andra</w>
+  <w>för</w>
+  <w>att</w>
+  <w>han</w>
+  <w>blev</w>
+  <w>smittad</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Karma</w>
+  <w>som</w>
+  <w>många</w>
+  <w>säger</w>
+  <w>.</w>
+</absapar>
+</absadoc>

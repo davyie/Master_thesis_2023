@@ -1,0 +1,343 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Professor</w>
+    <w>Hans</w>
+    <w>Rosling</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=2>
+    <w>Det</w>
+    <w>Jimmie</w>
+    <w>Åkesson</w>
+    <w>har</w>
+    <w>sagt</w>
+    <w>i</w>
+    <w>2</w>
+    <w>-</w>
+    <w>3</w>
+    <w>år</w>
+  </absaspan>
+  <absaspan id=3 senti=5>
+    <w>är</w>
+    <w>fullständigt</w>
+    <w>rätt</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>På</w>
+  <w>den</w>
+  <w>stora</w>
+  <w>insamlingsgalan</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>presenterade</w>
+  <w>Hans</w>
+  <w>Rosling</w>
+  <w>massor</w>
+  <w>av</w>
+  <w>fakta</w>
+  <w>bland</w>
+  <w>annat</w>
+  <w>att</w>
+  <w>det</w>
+  <w>kostar</w>
+  <w>25</w>
+  <w>kr</w>
+  <w>per</w>
+  <w>dygn</w>
+  <w>att</w>
+  <w>hjälpa</w>
+  <w>till</w>
+  <w>i</w>
+  <w>närområdet</w>
+  <w>och</w>
+  <w>500</w>
+  <w>kr</w>
+  <w>per</w>
+  <w>dygn</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>och</w>
+  <w>att</w>
+  <w>mer</w>
+  <w>fokus</w>
+  <w>måste</w>
+  <w>riktas</w>
+  <w>på</w>
+  <absaspan id=4 senti=3>
+    <w>hjälp</w>
+    <w>i</w>
+    <w>närområdet</w>
+  </absaspan>
+  <w>då</w>
+  <w>det</w>
+  <w>pågår</w>
+  <w>en</w>
+  <w>svältkatastrof</w>
+  <w>där</w>
+  <w>,</w>
+  <w>UNHCR</w>
+  <w>:</w>
+  <w>s</w>
+  <w>pengar</w>
+  <w>räcker</w>
+  <w>inte</w>
+  <w>till</w>
+  <w>de</w>
+  <w>mest</w>
+  <w>basala</w>
+  <w>saker</w>
+  <w>som</w>
+  <w>mat</w>
+  <w>och</w>
+  <w>skola</w>
+  <w>(</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>detta</w>
+  <w>är</w>
+  <w>mycket</w>
+  <w>billigt</w>
+  <w>i</w>
+  <w>närområdet</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Hans</w>
+  <w>Rosling</w>
+  <w>var</w>
+  <w>igår</w>
+  <w>på</w>
+  <w>Publicistklubben</w>
+  <w>och</w>
+  <w>diskuterade</w>
+  <w>under</w>
+  <w>temat</w>
+  <w>"</w>
+  <w>Vad</w>
+  <w>vet</w>
+  <w>journalister</w>
+  <w>om</w>
+  <w>världen</w>
+  <w>egentligen</w>
+  <w>?</w>
+  <w>"</w>
+  <w>.</w>
+  <w>Där</w>
+  <absaspan id=5 senti=3>
+    <w>medgav</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>Hans</w>
+    <w>Rosling</w>
+  </absaspan>
+  <absaspan id=7 senti=3>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>Jimmie</w>
+    <w>Åkesson</w>
+  </absaspan>
+  <absaspan id=9 senti=3>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=10 senti=3>
+    <w>rätt</w>
+  </absaspan>
+  <w>(</w>
+  <w>1</w>
+  <w>:</w>
+  <w>59</w>
+  <w>:</w>
+  <w>15</w>
+  <w>)</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Citat</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <w>Anser</w>
+  <w>att</w>
+  <w>detta</w>
+  <w>förtjänar</w>
+  <w>en</w>
+  <w>helt</w>
+  <w>egen</w>
+  <w>tråd</w>
+  <w>då</w>
+  <w>det</w>
+  <w>lär</w>
+  <w>få</w>
+  <w>ganska</w>
+  <w>stort</w>
+  <w>nyhetsvärde</w>
+  <w>.</w>
+  <absaspan id=11>
+    <w>Hans</w>
+    <w>Rosling</w>
+  </absaspan>
+  <w>har</w>
+  <w>nämligen</w>
+  <absaspan id=12 senti=5>
+    <w>blivit</w>
+    <w>hyllad</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>förespråkare</w>
+    <w>för</w>
+    <w>ännu</w>
+    <w>större</w>
+    <w>invandring</w>
+    <w>till</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>.</w>
+  <w>Och</w>
+  <w>nu</w>
+  <w>går</w>
+  <absaspan id=14 senti=5>
+    <w>denna</w>
+    <w>hyllade</w>
+    <w>auktoritet</w>
+  </absaspan>
+  <w>ut</w>
+  <w>och</w>
+  <w>säger</w>
+  <w>att</w>
+  <absaspan id=15 senti=2>
+    <w>asylinvandringskritikern</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>Jimmie</w>
+    <w>Åkesson</w>
+  </absaspan>
+  <absaspan id=17 senti=3>
+    <w>har</w>
+    <w>haft</w>
+    <w>helt</w>
+    <w>rätt</w>
+  </absaspan>
+  <w>,</w>
+  <w>det</w>
+  <w>är</w>
+  <w>mer</w>
+  <w>pengar</w>
+  <w>till</w>
+  <w>närområdet</w>
+  <w>som</w>
+  <w>behövs</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=3>
+  <w>Kommer</w>
+  <w>svensk</w>
+  <w>media</w>
+  <w>att</w>
+  <w>skriva</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>imorgon</w>
+  <w>?</w>
+  <w>Hur</w>
+  <w>kan</w>
+  <w>Hans</w>
+  <w>Rosling</w>
+  <w>som</w>
+  <w>har</w>
+  <w>blivit</w>
+  <w>lite</w>
+  <w>av</w>
+  <w>en</w>
+  <w>kunskapsauktoritet</w>
+  <w>påverka</w>
+  <w>svensk</w>
+  <w>migrationspolitik</w>
+  <w>eller</w>
+  <w>opinionssiffror</w>
+  <w>?</w>
+  <w>Kommer</w>
+  <w>fler</w>
+  <w>auktoriteter</w>
+  <w>nu</w>
+  <w>våga</w>
+  <w>erkänna</w>
+  <w>att</w>
+  <absaspan id=18>
+    <w>hjälp</w>
+    <w>i</w>
+    <w>närområdet</w>
+  </absaspan>
+  <absaspan id=19 senti=5>
+    <w>är</w>
+    <w>en</w>
+    <w>effektivare</w>
+    <w>och</w>
+    <w>humanare</w>
+    <w>politik</w>
+  </absaspan>
+  <w>?</w>
+  <w>Hur</w>
+  <w>kommer</w>
+  <absaspan id=20>
+    <w>människor</w>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=21 senti=5>
+    <w>hyllat</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>Rosling</w>
+  </absaspan>
+  <w>men</w>
+  <absaspan id=23 senti=5>
+    <w>velat</w>
+    <w>hjälpa</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>ett</w>
+    <w>fåtal</w>
+    <w>(</w>
+    <w>ur</w>
+    <w>globalt</w>
+    <w>perspektiv</w>
+    <w>)</w>
+    <w>i</w>
+    <w>Sverige</w>
+    <w>istället</w>
+    <w>för</w>
+    <w>många</w>
+    <w>i</w>
+    <w>närområdet</w>
+  </absaspan>
+  <w>att</w>
+  <w>reagera</w>
+  <w>på</w>
+  <w>att</w>
+  <absaspan id=25>
+    <w>Hans</w>
+    <w>Rosling</w>
+  </absaspan>
+  <absaspan id=26 senti=3>
+    <w>ger</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>Sverigedemokraterna</w>
+  </absaspan>
+  <absaspan id=28 senti=3>
+    <w>rätt</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

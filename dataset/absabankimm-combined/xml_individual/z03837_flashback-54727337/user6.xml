@@ -1,0 +1,314 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Ryssland</w>
+  <w>och</w>
+  <w>den</w>
+  <w>stora</w>
+  <w>flyktingvågen</w>
+  <w>från</w>
+  <w>Syrien</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <w>finns</w>
+  <w>naturligtvis</w>
+  <w>flera</w>
+  <w>anledningar</w>
+  <w>till</w>
+  <w>den</w>
+  <absaspan id=1 senti=3>
+    <w>stora</w>
+    <w>och</w>
+    <w>rätt</w>
+    <w>plötsliga</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>vågen</w>
+    <w>av</w>
+    <w>flyktingar</w>
+    <w>från</w>
+    <w>Syrien</w>
+    <w>till</w>
+    <w>Europa</w>
+  </absaspan>
+  <w>.</w>
+  <w>Allt</w>
+  <w>mer</w>
+  <absaspan id=3 senti=2>
+    <w>överbefolkade</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>flyktingläger</w>
+  </absaspan>
+  <w>i</w>
+  <w>Libanon</w>
+  <w>och</w>
+  <w>Turkiet</w>
+  <w>är</w>
+  <w>en</w>
+  <w>.</w>
+  <w>FNs</w>
+  <w>brist</w>
+  <w>på</w>
+  <w>pengar</w>
+  <w>/</w>
+  <w>mat</w>
+  <w>/</w>
+  <w>hjälp</w>
+  <w>till</w>
+  <w>lägren</w>
+  <w>där</w>
+  <w>nere</w>
+  <w>är</w>
+  <w>en</w>
+  <w>annan</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Men</w>
+  <absaspan id=5>
+    <w>Rysslands</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>militära</w>
+    <w>stöd</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>Assas</w>
+  </absaspan>
+  <w>medför</w>
+  <w>att</w>
+  <w>alltfler</w>
+  <w>måste</w>
+  <w>fly</w>
+  <w>i</w>
+  <w>rask</w>
+  <w>takt</w>
+  <w>.</w>
+  <w>Ryssarna</w>
+  <w>har</w>
+  <w>ökat</w>
+  <w>sitt</w>
+  <w>stöd</w>
+  <w>successivt</w>
+  <w>under</w>
+  <w>flera</w>
+  <w>månader</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Oavsett</w>
+  <w>vilka</w>
+  <w>motiv</w>
+  <absaspan id=8>
+    <w>Ryssarna</w>
+  </absaspan>
+  <w>har</w>
+  <w>för</w>
+  <w>sitt</w>
+  <absaspan id=9 senti=4>
+    <w>ökade</w>
+    <w>stöd</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>Assad</w>
+  </absaspan>
+  <w>så</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>bara</w>
+  <w>konstatera</w>
+  <absaspan id=11>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>flyktingströmmen</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>medför</w>
+    <w>stora</w>
+    <w>politiska</w>
+    <w>,</w>
+    <w>logistiska</w>
+    <w>och</w>
+    <w>ekonomiska</w>
+    <w>problem</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>för</w>
+    <w>såväl</w>
+    <w>Turkiet</w>
+    <w>som</w>
+    <w>EU</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=15>
+    <w>Detta</w>
+  </absaspan>
+  <absaspan id=16 senti=4>
+    <w>är</w>
+  </absaspan>
+  <w>naturligtvis</w>
+  <absaspan id=17 senti=4>
+    <w>positivt</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=18>
+    <w>Ryssland</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=20 senti=2>
+    <w>inte</w>
+    <w>gillar</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>Turkiets</w>
+    <w>Nato-medlemskap</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=22>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=23 senti=2>
+    <w>är</w>
+    <w>tämligen</w>
+    <w>putt</w>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>EUs</w>
+    <w>sanktioner</w>
+  </absaspan>
+  <w>.</w>
+  <w>Skulle</w>
+  <w>grälet</w>
+  <w>över</w>
+  <w>fördelning</w>
+  <w>av</w>
+  <w>kvotfördelning</w>
+  <w>av</w>
+  <w>flyktingar</w>
+  <w>leda</w>
+  <w>till</w>
+  <w>att</w>
+  <w>det</w>
+  <w>uppstår</w>
+  <w>allvarlig</w>
+  <w>politisk</w>
+  <w>osämja</w>
+  <w>i</w>
+  <w>EU</w>
+  <w>,</w>
+  <w>och</w>
+  <w>att</w>
+  <w>EU</w>
+  <w>kanske</w>
+  <w>tom</w>
+  <w>får</w>
+  <w>ett</w>
+  <w>block</w>
+  <w>av</w>
+  <w>Östeuropeiska</w>
+  <w>länder</w>
+  <w>som</w>
+  <w>går</w>
+  <w>sin</w>
+  <w>egen</w>
+  <w>väg</w>
+  <w>så</w>
+  <w>stärks</w>
+  <w>Rysslands</w>
+  <w>ställning</w>
+  <w>betydligt</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>länder</w>
+  <w>som</w>
+  <w>exempelvis</w>
+  <w>Sverige</w>
+  <w>får</w>
+  <absaspan id=25 senti=2>
+    <w>avsevärt</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>svårare</w>
+    <w>att</w>
+    <w>sätta</w>
+    <w>av</w>
+    <w>politiska</w>
+    <w>och</w>
+    <w>ekonomiska</w>
+    <w>resurser</w>
+    <w>för</w>
+    <w>att</w>
+    <w>förstärka</w>
+    <w>sitt</w>
+    <w>militära</w>
+    <w>försvar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Sett</w>
+  <w>ur</w>
+  <w>det</w>
+  <w>perspektivet</w>
+  <w>funderar</w>
+  <w>jag</w>
+  <w>över</w>
+  <w>om</w>
+  <w>det</w>
+  <w>möjligen</w>
+  <w>kan</w>
+  <w>vara</w>
+  <w>så</w>
+  <w>att</w>
+  <absaspan id=27>
+    <w>ryska</w>
+    <w>intressen</w>
+  </absaspan>
+  <absaspan id=28 senti=4>
+    <w>har</w>
+    <w>uppmuntrat</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>den</w>
+    <w>flyktingvåg</w>
+    <w>vi</w>
+    <w>nu</w>
+    <w>ser</w>
+  </absaspan>
+  <w>?</w>
+  <w>Det</w>
+  <w>vore</w>
+  <w>ett</w>
+  <absaspan id=30 senti=4>
+    <w>billigt</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>sätt</w>
+    <w>för</w>
+    <w>Ryssland</w>
+    <w>att</w>
+    <w>skapa</w>
+    <w>kaos</w>
+    <w>hos</w>
+    <w>motståndaren</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Vad</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

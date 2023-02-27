@@ -1,0 +1,62 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Al</w>
+  <w>Qaida</w>
+  <w>hotar</w>
+  <w>med</w>
+  <w>stor</w>
+  <w>attack</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Kommer</w>
+  <w>inte</w>
+  <w>detta</w>
+  <w>lite</w>
+  <w>väl</w>
+  <w>lägligt</w>
+  <w>efter</w>
+  <w>Obamas</w>
+  <w>seger</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Man</w>
+  <w>behöver</w>
+  <w>inte</w>
+  <w>vara</w>
+  <w>speciellt</w>
+  <w>konspiratorisk</w>
+  <w>för</w>
+  <w>att</w>
+  <w>undra</w>
+  <w>över</w>
+  <w>om</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>är</w>
+  <absaspan id=1>
+    <w>krigsindustrin</w>
+  </absaspan>
+  <w>som</w>
+  <w>nu</w>
+  <w>lobbar</w>
+  <w>på</w>
+  <w>med</w>
+  <absaspan id=2 senti=2>
+    <w>terrorhot</w>
+  </absaspan>
+  <w>från</w>
+  <w>de</w>
+  <w>afganska</w>
+  <w>grottorna</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Eller</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

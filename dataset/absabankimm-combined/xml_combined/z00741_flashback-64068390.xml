@@ -1,0 +1,92 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Svt</w>
+  <w>(</w>
+  <w>Aktuellt</w>
+  <w>)</w>
+  <w>är</w>
+  <w>i</w>
+  <w>Husby</w>
+  <w>för</w>
+  <w>att</w>
+  <w>diskutera</w>
+  <w>våld</w>
+  <w>och</w>
+  <w>butiksrån</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>Programledare</w>
+    <w>Lotta</w>
+    <w>Bouvin-Sundberg</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>ser</w>
+  </absaspan>
+  <w>något</w>
+  <absaspan id=3 senti=2>
+    <w>obekväm</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>ut</w>
+  </absaspan>
+  <w>,</w>
+  <w>måste</w>
+  <absaspan id=5 senti=2>
+    <w>vara</w>
+    <w>en</w>
+    <w>hissnande</w>
+    <w>upplevelse</w>
+  </absaspan>
+  <w>för</w>
+  <w>denna</w>
+  <w>Saltsjöbadenbo</w>
+  <absaspan id=6>
+    <w>att</w>
+    <w>befinna</w>
+    <w>sig</w>
+    <w>i</w>
+    <w>Husby</w>
+    <w>kl</w>
+    <w>21</w>
+    <w>:</w>
+    <w>00</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Jimmie</w>
+  <w>Åkesson</w>
+  <w>möter</w>
+  <w>även</w>
+  <w>Anders</w>
+  <w>Ygeman</w>
+  <w>i</w>
+  <w>en</w>
+  <w>minidebatt</w>
+  <w>i</w>
+  <w>ämnet</w>
+  <w>trygghet</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>Aktuellts</w>
+  <w>krafttag</w>
+  <w>i</w>
+  <w>ämnet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vem</w>
+  <w>vann</w>
+  <w>debatten</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

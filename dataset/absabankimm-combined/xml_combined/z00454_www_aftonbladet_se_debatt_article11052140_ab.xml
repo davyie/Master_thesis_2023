@@ -1,0 +1,357 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Tjejerna</w>
+  </absaspan>
+  <absaspan id=2 senti=4 target=1>
+    <w>har</w>
+    <w>rätt</w>
+  </absaspan>
+  <w>om</w>
+  <w>skolbalen</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Tjejerna</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>(</w>
+    <w>3</w>
+    <w>februari</w>
+    <w>)</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>klagar</w>
+    <w>över</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>att</w>
+    <w>ha</w>
+    <w>blivit</w>
+    <w>”</w>
+    <w>bestulna</w>
+    <w>”</w>
+    <w>på</w>
+    <w>sin</w>
+  </absaspan>
+  <absaspan id=7 senti=5>
+    <w>efterlängtade</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>skolbal</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>vid</w>
+    <w>slutet</w>
+    <w>av</w>
+    <w>åk</w>
+    <w>9</w>
+    <w>och</w>
+    <w>sin</w>
+    <w>årliga</w>
+    <w>skidutflykt</w>
+  </absaspan>
+  <absaspan id=10 senti=5>
+    <w>tycks</w>
+    <w>mig</w>
+    <w>ha</w>
+    <w>alldeles</w>
+    <w>rätt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Samma</w>
+  <w>gäller</w>
+  <absaspan id=11>
+    <w>deras</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>kritik</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>deras</w>
+    <w>protestlista</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>nonchalerats</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>,</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>inte</w>
+    <w>ens</w>
+    <w>bemötts</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>de</w>
+    <w>rektorer</w>
+    <w>eller</w>
+    <w>andra</w>
+    <w>ansvariga</w>
+  </absaspan>
+  <w>eller</w>
+  <w>att</w>
+  <w>de</w>
+  <w>inte</w>
+  <w>har</w>
+  <w>en</w>
+  <w>aning</w>
+  <w>om</w>
+  <w>vart</w>
+  <w>deras</w>
+  <w>på</w>
+  <w>fritidsgården</w>
+  <w>insamlade</w>
+  <w>pengar</w>
+  <w>har</w>
+  <w>gått</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Saken</w>
+  <w>kan</w>
+  <w>mycket</w>
+  <w>väl</w>
+  <w>vara</w>
+  <w>något</w>
+  <w>för</w>
+  <w>JO</w>
+  <w>med</w>
+  <w>kritiska</w>
+  <w>synpunkter</w>
+  <w>för</w>
+  <w>detta</w>
+  <absaspan id=20 senti=2>
+    <w>odemokratiska</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=22 senti=2>
+    <w>auktoritära</w>
+  </absaspan>
+  <absaspan id=23 senti=2>
+    <w>beteende</w>
+  </absaspan>
+  <w>mot</w>
+  <w>eleverna</w>
+  <w>från</w>
+  <absaspan id=24>
+    <w>skolledningens</w>
+    <w>sida</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vad</w>
+  <w>pengarna</w>
+  <w>beträffar</w>
+  <absaspan id=25 senti=5>
+    <w>är</w>
+  </absaspan>
+  <w>det</w>
+  <absaspan id=26 senti=5>
+    <w>mycket</w>
+  </absaspan>
+  <absaspan id=27 senti=5>
+    <w>angeläget</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>att</w>
+    <w>få</w>
+    <w>utrett</w>
+    <w>vart</w>
+    <w>de</w>
+    <w>tagit</w>
+    <w>vägen</w>
+  </absaspan>
+  <w>–</w>
+  <w>det</w>
+  <absaspan id=29 senti=4>
+    <w>vore</w>
+    <w>skönt</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>att</w>
+    <w>få</w>
+    <w>veta</w>
+    <w>om</w>
+    <w>eventuellt</w>
+    <w>brottsligt</w>
+    <w>förfarande</w>
+    <w>ligger</w>
+    <w>bakom</w>
+    <w>deras</w>
+    <w>försvinnande</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>första</w>
+  <w>gången</w>
+  <w>elever</w>
+  <w>klagat</w>
+  <w>över</w>
+  <w>den</w>
+  <w>rigorösa</w>
+  <w>”</w>
+  <absaspan id=31 senti=2>
+    <w>fundamentalistiska</w>
+  </absaspan>
+  <w>”</w>
+  <absaspan id=32>
+    <w>tillämpningen</w>
+  </absaspan>
+  <w>av</w>
+  <w>bestämmelsen</w>
+  <w>om</w>
+  <w>att</w>
+  <w>skolan</w>
+  <w>ska</w>
+  <w>vara</w>
+  <w>kostnadsfri</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>vill</w>
+  <w>fråga</w>
+  <w>skolministern</w>
+  <w>majoren</w>
+  <w>Björklund</w>
+  <w>om</w>
+  <w>han</w>
+  <w>inte</w>
+  <w>snabbt</w>
+  <w>som</w>
+  <w>ögat</w>
+  <w>vill</w>
+  <w>ryta</w>
+  <w>till</w>
+  <w>och</w>
+  <w>helst</w>
+  <w>i</w>
+  <w>expressfart</w>
+  <w>driva</w>
+  <w>igenom</w>
+  <w>en</w>
+  <w>lagändring</w>
+  <w>som</w>
+  <w>möjliggör</w>
+  <w>för</w>
+  <w>till</w>
+  <w>exempel</w>
+  <w>elevrådet</w>
+  <w>i</w>
+  <w>en</w>
+  <w>skola</w>
+  <w>att</w>
+  <w>(</w>
+  <absaspan id=33 senti=2>
+    <w>gärna</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>med</w>
+    <w>bekräftelse</w>
+    <w>av</w>
+    <w>en</w>
+    <w>folkomröstning</w>
+    <w>bland</w>
+    <w>eleverna</w>
+  </absaspan>
+  <w>)</w>
+  <w>se</w>
+  <w>till</w>
+  <w>att</w>
+  <w>sådana</w>
+  <w>populära</w>
+  <w>saker</w>
+  <w>som</w>
+  <w>skolbalen</w>
+  <w>och</w>
+  <w>skidresan</w>
+  <w>i</w>
+  <w>Upplands</w>
+  <w>Väsby</w>
+  <w>i</w>
+  <w>demokratisk</w>
+  <w>ordning</w>
+  <w>kan</w>
+  <w>få</w>
+  <w>fungera</w>
+  <w>.</w>
+  <w>Om</w>
+  <w>sedan</w>
+  <w>snipiga</w>
+  <absaspan id=35>
+    <w>rektorer</w>
+    <w>eller</w>
+    <w>kommunpolitiker</w>
+  </absaspan>
+  <absaspan id=36 senti=2>
+    <w>känner</w>
+    <w>sig</w>
+    <w>överkörda</w>
+    <w>och</w>
+    <w>misshandlade</w>
+    <w>av</w>
+    <w>besluten</w>
+  </absaspan>
+  <w>har</w>
+  <w>de</w>
+  <w>två</w>
+  <absaspan id=37 senti=4>
+    <w>respektabla</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>alternativ</w>
+  </absaspan>
+  <w>:</w>
+  <w>antingen</w>
+  <w>att</w>
+  <w>finna</w>
+  <w>sig</w>
+  <w>i</w>
+  <w>elevernas</w>
+  <w>majoritetsvilja</w>
+  <w>eller</w>
+  <w>att</w>
+  <w>lämna</w>
+  <w>sina</w>
+  <w>poster</w>
+  <w>(</w>
+  <w>om</w>
+  <w>de</w>
+  <w>finner</w>
+  <w>att</w>
+  <w>eleverna</w>
+  <w>är</w>
+  <w>”</w>
+  <w>omöjliga</w>
+  <w>”</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Alltså</w>
+  <w>:</w>
+  <w>skolministern</w>
+  <w>,</w>
+  <w>vad</w>
+  <w>vill</w>
+  <w>Du</w>
+  <w>göra</w>
+  <w>åt</w>
+  <w>saken</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

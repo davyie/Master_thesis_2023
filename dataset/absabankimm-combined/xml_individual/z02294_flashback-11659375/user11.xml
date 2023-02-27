@@ -1,0 +1,73 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Skvaller</w>
+  <w>om</w>
+  <w>Soran</w>
+  <w>Ismail</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Finns</w>
+  <w>det</w>
+  <w>något</w>
+  <w>roligt</w>
+  <w>skvaller</w>
+  <w>om</w>
+  <w>Soran</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Och</w>
+  <w>låt</w>
+  <w>inte</w>
+  <w>denna</w>
+  <w>tråd</w>
+  <absaspan id=1 senti=2>
+    <w>spåra</w>
+    <w>ut</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=2>
+    <w>Björn</w>
+    <w>Gustavsson</w>
+    <w>tråden</w>
+  </absaspan>
+  <w>,</w>
+  <w>om</w>
+  <w>ni</w>
+  <w>vill</w>
+  <w>diskutera</w>
+  <w>huruvida</w>
+  <absaspan id=3>
+    <w>Soran</w>
+  </absaspan>
+  <absaspan id=4 senti=3>
+    <w>är</w>
+    <w>rolig</w>
+    <w>eller</w>
+    <w>ej</w>
+  </absaspan>
+  <w>finns</w>
+  <w>det</w>
+  <w>en</w>
+  <w>tråd</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>:</w>
+  <absaspan id=5>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <absaspan id=6>
+    <w>Gossip</w>
+  </absaspan>
+  <absaspan id=7 senti=3>
+    <w>vill</w>
+    <w>jag</w>
+    <w>ha</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

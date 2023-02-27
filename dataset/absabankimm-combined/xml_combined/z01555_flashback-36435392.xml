@@ -1,0 +1,84 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Skvaller</w>
+  <w>om</w>
+  <w>Joakim</w>
+  <w>"</w>
+  <w>Jockiboi</w>
+  <w>"</w>
+  <w>Lundell</w>
+  <w>(</w>
+  <w>f.d</w>
+  <w>.</w>
+  <w>Berg</w>
+  <w>)</w>
+  <w>(</w>
+  <w>rubrik</w>
+  <w>ändrad</w>
+  <w>/</w>
+  <w>mod</w>
+  <w>)</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1 senti=2>
+    <w>Att</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>detta</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>glorifieras</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>tycker</w>
+    <w>jag</w>
+    <w>är</w>
+    <w>fel</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=5 senti=1>
+    <w>2</w>
+    <w>trasiga</w>
+    <w>"</w>
+    <w>ungdomar</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>"</w>
+    <w>som</w>
+    <w>ska</w>
+    <w>spela</w>
+    <w>in</w>
+    <w>en</w>
+    <w>porrfilm</w>
+  </absaspan>
+  <w>och</w>
+  <w>eventuellt</w>
+  <absaspan id=7 senti=1>
+    <w>förstöra</w>
+    <w>för</w>
+    <w>sig</w>
+    <w>själva</w>
+  </absaspan>
+  <w>för</w>
+  <w>gott</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=8 senti=1>
+    <w>Vidrigt</w>
+  </absaspan>
+  <w>säger</w>
+  <absaspan id=9>
+    <w>jag</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

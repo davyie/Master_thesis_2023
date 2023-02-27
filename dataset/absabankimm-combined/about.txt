@@ -1,0 +1,13 @@
+This version of Absabank-imm has been converted to XML in 2022. For each original document, the annotations have been combined, taking for example an average of sentiment scores. Since the annotations differ in complex ways (not only in sentiment value, but also start and end of spans, source and target of references, etc.) including the individual "votes" in the combined files was not feasible; instead, XML files for the individual annotations have also been included.
+
+The following files and folders are present:
+
+about.txt - this file
+
+format.txt - human-readable explanation of the XML format
+
+absadoc.dtd - DTD for the XML format
+
+xml_combined - the main data (3278 files)
+
+xml_individual - the individual data, ordered by original document (3278 subfolders)

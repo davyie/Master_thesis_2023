@@ -1,0 +1,85 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>Liberala</w>
+    <w>partiet</w>
+    <w>går</w>
+    <w>till</w>
+    <w>val</w>
+    <w>på</w>
+    <w>'</w>
+    <w>'</w>
+    <w>Fri</w>
+    <w>invandring</w>
+    <w>utan</w>
+    <w>bidrag</w>
+  </absaspan>
+  <w>'</w>
+  <w>'</w>
+  <absaspan id=2 senti=3>
+    <w>bra</w>
+    <w>eller</w>
+    <w>dåligt</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Tror</w>
+  <w>dom</w>
+  <w>kommer</w>
+  <w>vinna</w>
+  <w>röster</w>
+  <w>på</w>
+  <w>detta</w>
+  <w>och</w>
+  <w>öka</w>
+  <w>från</w>
+  <w>1210</w>
+  <w>röster</w>
+  <w>till</w>
+  <w>ca</w>
+  <w>2000</w>
+  <w>röster</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <absaspan id=3 senti=4>
+    <w>Klart</w>
+    <w>det</w>
+    <w>ska</w>
+    <w>vara</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>fri</w>
+    <w>invandring</w>
+  </absaspan>
+  <w>men</w>
+  <w>att</w>
+  <w>man</w>
+  <w>inte</w>
+  <w>ska</w>
+  <w>tvinga</w>
+  <w>någon</w>
+  <w>till</w>
+  <w>att</w>
+  <w>betala</w>
+  <w>skatt</w>
+  <w>för</w>
+  <w>det</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Detta</w>
+  <w>är</w>
+  <w>vad</w>
+  <w>Liberala</w>
+  <w>partiet</w>
+  <w>går</w>
+  <w>till</w>
+  <w>val</w>
+  <w>på</w>
+  <w>valet</w>
+  <w>2015</w>
+  <w>.</w>
+</absapar>
+</absadoc>

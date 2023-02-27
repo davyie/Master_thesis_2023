@@ -1,0 +1,46 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Exakt</w>
+  <w>vad</w>
+  <w>krävs</w>
+  <w>för</w>
+  <w>butiksjobb</w>
+  <w>i</w>
+  <w>USA</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Hejsan</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Exakt</w>
+  <w>vad</w>
+  <w>är</w>
+  <w>det</w>
+  <w>som</w>
+  <w>krävs</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>en</w>
+    <w>svenne</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>skall</w>
+    <w>kunna</w>
+  </absaspan>
+  <w>jobb</w>
+  <w>i</w>
+  <w>butik</w>
+  <w>i</w>
+  <w>USA</w>
+  <w>och</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>lön</w>
+  <w>osv</w>
+  <w>.</w>
+</absapar>
+</absadoc>

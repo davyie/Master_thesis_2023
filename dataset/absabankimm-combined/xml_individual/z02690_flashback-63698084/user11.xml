@@ -1,0 +1,325 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Samhällslärare</w>
+  <w>säger</w>
+  <w>att</w>
+  <w>Svenskar</w>
+  <w>inte</w>
+  <w>anmäler</w>
+  <w>när</w>
+  <w>svenskar</w>
+  <w>våldtar</w>
+  <w>dem</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Så</w>
+  <w>jag</w>
+  <w>hamnade</w>
+  <w>i</w>
+  <w>en</w>
+  <absaspan id=1 senti=2>
+    <w>hätsk</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>diskussion</w>
+  </absaspan>
+  <w>med</w>
+  <w>min</w>
+  <w>samhällskunskapslärare</w>
+  <w>angående</w>
+  <absaspan id=3 senti=2>
+    <w>invandrares</w>
+  </absaspan>
+  <w>överrepresentation</w>
+  <w>inom</w>
+  <w>våldtäktsstatistiken</w>
+  <absaspan id=4 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Vi</w>
+  <w>hade</w>
+  <w>sett</w>
+  <w>en</w>
+  <w>film</w>
+  <w>där</w>
+  <w>det</w>
+  <w>var</w>
+  <w>en</w>
+  <w>svensk</w>
+  <w>som</w>
+  <w>våldtog</w>
+  <w>en</w>
+  <w>svensk</w>
+  <w>flicka</w>
+  <absaspan id=5>
+    <w>.</w>
+  </absaspan>
+  <w>(</w>
+  <absaspan id=6 senti=2>
+    <w>Hemskt</w>
+  </absaspan>
+  <w>givetvis</w>
+  <w>,</w>
+  <w>påpekade</w>
+  <w>det</w>
+  <w>för</w>
+  <w>min</w>
+  <w>samhällslärare</w>
+  <w>och</w>
+  <absaspan id=7 senti=2>
+    <w>kritiserade</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>straffet</w>
+    <w>denna</w>
+    <w>kille</w>
+    <w>fick</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=9 senti=2>
+    <w>var</w>
+    <w>på</w>
+    <w>tok</w>
+    <w>för</w>
+    <w>milt</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>givetvis</w>
+  <w>så</w>
+  <w>sa</w>
+  <w>hon</w>
+  <w>att</w>
+  <w>jag</w>
+  <w>enbart</w>
+  <w>bryr</w>
+  <w>mig</w>
+  <w>om</w>
+  <w>våldtäkt</w>
+  <w>när</w>
+  <w>invandrare</w>
+  <w>gör</w>
+  <w>det</w>
+  <w>)</w>
+  <w>och</w>
+  <w>så</w>
+  <w>sa</w>
+  <w>hon</w>
+  <w>att</w>
+  <w>våldtäkt</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>stort</w>
+  <w>problem</w>
+  <w>för</w>
+  <w>svenska</w>
+  <w>män</w>
+  <w>,</w>
+  <w>och</w>
+  <w>där</w>
+  <w>avbröt</w>
+  <w>jag</w>
+  <w>henne</w>
+  <w>och</w>
+  <w>hänvisade</w>
+  <w>henne</w>
+  <w>till</w>
+  <w>våldtäktsstudien</w>
+  <w>gjort</w>
+  <w>utav</w>
+  <w>Patrik</w>
+  <w>P</w>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=10>
+    <w>hon</w>
+  </absaspan>
+  <w>sa</w>
+  <w>att</w>
+  <absaspan id=11>
+    <w>den</w>
+    <w>där</w>
+    <w>studien</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>inte</w>
+    <w>gick</w>
+    <w>att</w>
+    <w>lita</w>
+    <w>på</w>
+  </absaspan>
+  <w>eftersom</w>
+  <w>,</w>
+  <w>enligt</w>
+  <w>henne</w>
+  <w>så</w>
+  <w>"</w>
+  <w>anmäler</w>
+  <w>inte</w>
+  <w>svenska</w>
+  <w>flickor</w>
+  <w>svenska</w>
+  <w>män</w>
+  <w>när</w>
+  <w>dem</w>
+  <w>våldtar</w>
+  <w>,</w>
+  <w>därför</w>
+  <w>går</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>att</w>
+  <w>lita</w>
+  <w>på</w>
+  <w>sådana</w>
+  <w>studier</w>
+  <w>"</w>
+  <w>.</w>
+  <w>Tappade</w>
+  <w>luften</w>
+  <w>ur</w>
+  <w>munnen</w>
+  <w>lite</w>
+  <w>,</w>
+  <w>jag</w>
+  <w>visste</w>
+  <w>inte</w>
+  <w>riktigt</w>
+  <w>vad</w>
+  <w>jag</w>
+  <w>skulle</w>
+  <w>ha</w>
+  <w>svarat</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Jag</w>
+  <w>sa</w>
+  <w>att</w>
+  <w>detta</w>
+  <w>är</w>
+  <w>domar</w>
+  <w>från</w>
+  <w>årtalen</w>
+  <w>2012</w>
+  <w>-</w>
+  <w>2017</w>
+  <w>,</w>
+  <w>så</w>
+  <absaspan id=13>
+    <w>det</w>
+    <w>som</w>
+    <w>står</w>
+    <w>här</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=14 senti=4>
+    <w>allt</w>
+    <w>annat</w>
+    <w>än</w>
+    <w>opålitligt</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=15>
+    <w>Hon</w>
+  </absaspan>
+  <w>började</w>
+  <w>diskutera</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=16>
+    <w>sådan</w>
+    <w>fakta</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>enbart</w>
+    <w>kommer</w>
+    <w>leda</w>
+    <w>till</w>
+    <w>generalisering</w>
+  </absaspan>
+  <w>och</w>
+  <w>att</w>
+  <absaspan id=18>
+    <w>dem</w>
+    <w>flesta</w>
+    <w>invandrare</w>
+  </absaspan>
+  <absaspan id=19 senti=4>
+    <w>faktiskt</w>
+    <w>är</w>
+    <w>snälla</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Jag</w>
+  <w>undrar</w>
+  <w>flashback</w>
+  <w>,</w>
+  <w>vad</w>
+  <w>hade</w>
+  <w>jag</w>
+  <w>kunnat</w>
+  <w>svara</w>
+  <w>henne</w>
+  <w>med</w>
+  <w>?</w>
+  <w>Jag</w>
+  <w>har</w>
+  <w>aldrig</w>
+  <w>riktigt</w>
+  <w>argumenterat</w>
+  <w>om</w>
+  <w>sådant</w>
+  <w>förut</w>
+  <w>,</w>
+  <w>och</w>
+  <w>är</w>
+  <w>väldigt</w>
+  <w>ovan</w>
+  <w>,</w>
+  <w>men</w>
+  <w>jag</w>
+  <w>kände</w>
+  <w>bara</w>
+  <w>att</w>
+  <w>jag</w>
+  <w>behövde</w>
+  <w>bryta</w>
+  <w>in</w>
+  <w>där</w>
+  <w>när</w>
+  <absaspan id=20>
+    <w>hon</w>
+  </absaspan>
+  <w>sa</w>
+  <w>att</w>
+  <absaspan id=21>
+    <w>våldtäkter</w>
+  </absaspan>
+  <w>var</w>
+  <w>ett</w>
+  <w>"</w>
+  <absaspan id=22 senti=2>
+    <w>svenskt</w>
+    <w>problem</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Ursäkta</w>
+  <w>mod</w>
+  <w>ifall</w>
+  <w>tråden</w>
+  <w>hamnade</w>
+  <w>på</w>
+  <w>fel</w>
+  <w>ställe</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,93 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Anders</w>
+    <w>Borg</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=2>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=3 senti=2 source=1 target=4>
+    <w>Fel</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=5 senti=2 target=6>
+    <w>misstänkliggöra</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>Sd</w>
+    <w>för</w>
+    <w>rötter</w>
+    <w>i</w>
+    <w>rasismen</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <absaspan id=9 senti=4>
+    <w>Såklart</w>
+    <w>ren</w>
+    <w>logik</w>
+  </absaspan>
+  <w>men</w>
+  <w>i</w>
+  <w>beaktande</w>
+  <w>av</w>
+  <w>det</w>
+  <w>svenska</w>
+  <w>debattklimatet</w>
+  <absaspan id=10 senti=4>
+    <w>rent</w>
+    <w>sensationella</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>ord</w>
+    <w>från</w>
+    <w>Borg</w>
+  </absaspan>
+  <w>,</w>
+  <w>åtminstone</w>
+  <w>i</w>
+  <w>mina</w>
+  <w>ögon</w>
+  <w>.</w>
+  <w>Gissar</w>
+  <w>att</w>
+  <w>exempelvis</w>
+  <w>Löfven</w>
+  <w>får</w>
+  <w>en</w>
+  <w>extra</w>
+  <w>svettkula</w>
+  <w>i</w>
+  <w>pannan</w>
+  <w>när</w>
+  <w>han</w>
+  <w>läser</w>
+  <w>detta</w>
+  <absaspan id=12 senti=4>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>kan</w>
+  <w>dylikt</w>
+  <w>uttalande</w>
+  <w>innebära</w>
+  <w>för</w>
+  <w>Sd</w>
+  <w>och</w>
+  <w>debattklimatet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,202 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Finns</w>
+  <absaspan id=1 senti=4 source=3 target=2>
+    <w>intresse</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=2>
+    <w>invandrings</w>
+    <w>-</w>
+    <w>och</w>
+    <w>islamiseringsbetting</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Tänk</w>
+  <w>er</w>
+  <w>en</w>
+  <w>sida</w>
+  <w>där</w>
+  <w>man</w>
+  <w>kan</w>
+  <w>satsa</w>
+  <w>pengar</w>
+  <w>på</w>
+  <w>hur</w>
+  <w>många</w>
+  <w>moskeer</w>
+  <w>vi</w>
+  <w>har</w>
+  <w>2020</w>
+  <w>,</w>
+  <w>hur</w>
+  <w>stor</w>
+  <w>invandringen</w>
+  <w>blir</w>
+  <w>2013</w>
+  <w>,</w>
+  <w>eller</w>
+  <w>kanske</w>
+  <w>på</w>
+  <w>huruvida</w>
+  <w>halalslakt</w>
+  <w>utan</w>
+  <w>bedövning</w>
+  <w>kommer</w>
+  <w>tillåtas</w>
+  <w>inom</w>
+  <w>3</w>
+  <w>år</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Skulle</w>
+  <absaspan id=4>
+    <w>ni</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>vara</w>
+    <w>intresserade</w>
+    <w>av</w>
+  </absaspan>
+  <w>en</w>
+  <absaspan id=6>
+    <w>sådan</w>
+    <w>sida</w>
+  </absaspan>
+  <w>,</w>
+  <w>använda</w>
+  <w>den</w>
+  <w>om</w>
+  <w>den</w>
+  <w>skapades</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>För</w>
+  <w>som</w>
+  <absaspan id=7>
+    <w>jag</w>
+  </absaspan>
+  <w>ser</w>
+  <w>det</w>
+  <w>,</w>
+  <absaspan id=8 senti=4>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>ni</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>bara</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>saker</w>
+    <w>att</w>
+    <w>vinna</w>
+    <w>på</w>
+    <w>det</w>
+  </absaspan>
+  <w>(</w>
+  <w>om</w>
+  <absaspan id=12>
+    <w>ni</w>
+  </absaspan>
+  <absaspan id=13 senti=1>
+    <w>tror</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>allt</w>
+    <w>går</w>
+    <w>åt</w>
+    <w>helvete</w>
+  </absaspan>
+  <w>)</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=1>
+  <w>antingen</w>
+  <w>kommer</w>
+  <absaspan id=15>
+    <w>oddsen</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>var</w>
+    <w>dåliga</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>då</w>
+  <w>kan</w>
+  <w>ni</w>
+  <w>använda</w>
+  <w>det</w>
+  <w>som</w>
+  <w>politiskt</w>
+  <w>argument</w>
+  <w>,</w>
+  <w>eller</w>
+  <w>så</w>
+  <w>är</w>
+  <absaspan id=17>
+    <w>oddsen</w>
+  </absaspan>
+  <absaspan id=18 senti=4>
+    <w>bra</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=19>
+    <w>ni</w>
+  </absaspan>
+  <absaspan id=20 senti=4>
+    <w>får</w>
+    <w>känna</w>
+    <w>lyckan</w>
+  </absaspan>
+  <w>av</w>
+  <w>att</w>
+  <absaspan id=21>
+    <w>skinna</w>
+    <w>naiva</w>
+    <w>multikulturalister</w>
+  </absaspan>
+  <w>.</w>
+  <w>Kanske</w>
+  <w>räcker</w>
+  <w>pengarna</w>
+  <w>tom</w>
+  <w>till</w>
+  <w>att</w>
+  <w>skapa</w>
+  <w>en</w>
+  <w>gated</w>
+  <w>community</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Skulle</w>
+  <w>den</w>
+  <w>ha</w>
+  <w>möjlighet</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>samhällsdebatten</w>
+  <w>?</w>
+  <w>Skulle</w>
+  <w>den</w>
+  <w>tvinga</w>
+  <w>politiker</w>
+  <w>att</w>
+  <w>inse</w>
+  <w>fakta</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

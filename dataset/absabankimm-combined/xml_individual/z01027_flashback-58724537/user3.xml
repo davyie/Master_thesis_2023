@@ -1,0 +1,83 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Vifta</w>
+  <w>med</w>
+  <w>IS-flagga</w>
+  <w>inte</w>
+  <w>något</w>
+  <w>hetsbrott</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>Att</w>
+    <w>vifta</w>
+    <w>med</w>
+    <w>IS-flaggan</w>
+  </absaspan>
+  <w>är</w>
+  <w>tydligen</w>
+  <w>inget</w>
+  <w>hetsbrott</w>
+  <w>,</w>
+  <w>detta</w>
+  <w>enligt</w>
+  <w>kammaråklagare</w>
+  <w>Gisela</w>
+  <w>Sjövall</w>
+  <w>.</w>
+  <w>.</w>
+  <w>det</w>
+  <absaspan id=2 senti=2>
+    <w>är</w>
+    <w>banne</w>
+    <w>mig</w>
+    <w>samma</w>
+    <w>sak</w>
+    <w>som</w>
+    <w>att</w>
+    <w>vifta</w>
+    <w>runt</w>
+    <w>med</w>
+    <w>en</w>
+    <w>flagga</w>
+    <w>av</w>
+    <w>ett</w>
+    <w>hakkors</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=3>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>är</w>
+    <w>fan</w>
+    <w>på</w>
+    <w>väg</w>
+    <w>åt</w>
+    <w>totalt</w>
+    <w>fel</w>
+    <w>håll</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Source</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Mod</w>
+  <w>får</w>
+  <w>gärna</w>
+  <w>flytta</w>
+  <w>om</w>
+  <w>den</w>
+  <w>ligger</w>
+  <w>i</w>
+  <w>fel</w>
+  <w>forum</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

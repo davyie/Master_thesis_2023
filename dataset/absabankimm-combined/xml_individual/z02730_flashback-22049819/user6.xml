@@ -1,0 +1,54 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Norge</w>
+  <w>skärper</w>
+  <w>regler</w>
+  <w>för</w>
+  <w>flyktingbarn</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Norge</w>
+  <w>skärper</w>
+  <w>också</w>
+  <w>reglerna</w>
+  <w>emot</w>
+  <w>flyktingar</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Snart</w>
+  <w>är</w>
+  <w>det</w>
+  <w>väl</w>
+  <w>bara</w>
+  <w>Sverige</w>
+  <w>kvar</w>
+  <w>av</w>
+  <w>dom</w>
+  <w>nordiska</w>
+  <w>länderna</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>gjort</w>
+  <w>reglerna</w>
+  <w>hårdare</w>
+  <absaspan id=1>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Undrar</w>
+  <w>vart</w>
+  <w>alla</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>söka</w>
+  <w>sig</w>
+  <w>då</w>
+  <w>?</w>
+  <absaspan id=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

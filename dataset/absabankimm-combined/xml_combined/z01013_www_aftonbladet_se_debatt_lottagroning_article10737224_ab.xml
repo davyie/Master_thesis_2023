@@ -1,0 +1,295 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Trängselavgiften</w>
+  <w>–</w>
+  <w>ingenting</w>
+  <w>om</w>
+  <w>man</w>
+  <w>jämför</w>
+  <w>med</w>
+  <absaspan id=1>
+    <w>SJ</w>
+    <w>:</w>
+    <w>s</w>
+    <w>priser</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Själv</w>
+  <w>bryr</w>
+  <w>jag</w>
+  <w>mig</w>
+  <w>inte</w>
+  <w>så</w>
+  <w>mycket</w>
+  <w>om</w>
+  <w>trängselavgifterna</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>bor</w>
+  <w>inte</w>
+  <w>i</w>
+  <w>Stockholm</w>
+  <w>men</w>
+  <w>jobbar</w>
+  <w>där</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>tar</w>
+  <w>bilen</w>
+  <w>,</w>
+  <w>jag</w>
+  <w>är</w>
+  <w>en</w>
+  <w>sådan</w>
+  <w>där</w>
+  <w>”</w>
+  <w>människa</w>
+  <w>”</w>
+  <w>som</w>
+  <w>sitter</w>
+  <w>ensam</w>
+  <w>och</w>
+  <w>kör</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Visst</w>
+  <w>skulle</w>
+  <w>jag</w>
+  <w>kunna</w>
+  <w>ta</w>
+  <w>tåget</w>
+  <w>ibland</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=3 senti=2>
+    <w>det</w>
+    <w>absurda</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=4>
+    <w>att</w>
+    <w>trots</w>
+    <w>att</w>
+    <w>jag</w>
+    <w>har</w>
+    <w>en</w>
+    <w>stor</w>
+    <w>bil</w>
+    <w>som</w>
+    <w>drar</w>
+    <w>en</w>
+    <w>del</w>
+    <w>bensin</w>
+    <w>är</w>
+    <w>det</w>
+    <w>billigare</w>
+    <w>för</w>
+    <w>mig</w>
+    <w>att</w>
+    <w>åka</w>
+    <w>bil</w>
+    <w>än</w>
+    <w>att</w>
+    <w>åka</w>
+    <w>tåg</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>här</w>
+  <absaspan id=5 senti=2>
+    <w>snacket</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>från</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>politiskt</w>
+    <w>håll</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=8>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>ska</w>
+    <w>satsa</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>kollektivtrafiken</w>
+  </absaspan>
+  <w>har</w>
+  <w>åtminstone</w>
+  <absaspan id=11 senti=2>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>SJ</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>förstått</w>
+  </absaspan>
+  <w>innebörden</w>
+  <w>av</w>
+  <w>.</w>
+  <absaspan id=14>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>har</w>
+    <w>helt</w>
+    <w>slutat</w>
+    <w>att</w>
+    <w>åka</w>
+    <w>tåg</w>
+  </absaspan>
+  <w>sedan</w>
+  <absaspan id=16>
+    <w>SJ</w>
+    <w>satte</w>
+    <w>in</w>
+    <w>X2000</w>
+    <w>på</w>
+    <w>sträckan</w>
+    <w>från</w>
+    <w>Dalarna</w>
+    <w>till</w>
+    <w>Stockholm</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=17>
+    <w>X2000</w>
+  </absaspan>
+  <absaspan id=18 senti=5>
+    <w>går</w>
+    <w>på</w>
+    <w>perfekta</w>
+    <w>tider</w>
+  </absaspan>
+  <w>om</w>
+  <w>man</w>
+  <w>jobbar</w>
+  <w>heltid</w>
+  <w>.</w>
+  <w>Tåget</w>
+  <w>är</w>
+  <w>framme</w>
+  <w>i</w>
+  <w>Stockholm</w>
+  <w>vid</w>
+  <w>nio</w>
+  <w>och</w>
+  <w>åker</w>
+  <w>hem</w>
+  <w>vid</w>
+  <w>femtiden</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <absaspan id=19 senti=2>
+    <w>bara</w>
+    <w>ett</w>
+    <w>problem</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=20>
+    <w>en</w>
+    <w>enkel</w>
+    <w>biljett</w>
+    <w>till</w>
+    <w>Avesta</w>
+    <w>/</w>
+    <w>Krylbo</w>
+    <w>kostar</w>
+    <w>drygt</w>
+    <w>400</w>
+    <w>kronor</w>
+  </absaspan>
+  <w>.</w>
+  <w>Med</w>
+  <w>andra</w>
+  <w>ord</w>
+  <w>kostar</w>
+  <w>resan</w>
+  <w>till</w>
+  <w>jobbet</w>
+  <w>dryga</w>
+  <w>800</w>
+  <w>kronor</w>
+  <w>om</w>
+  <w>dagen</w>
+  <w>.</w>
+  <absaspan id=21 senti=2>
+    <w>Till</w>
+    <w>råga</w>
+    <w>på</w>
+    <w>allt</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>går</w>
+    <w>inte</w>
+    <w>heller</w>
+    <w>X2000</w>
+    <w>snabbare</w>
+    <w>än</w>
+    <w>andra</w>
+    <w>tåg</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>För</w>
+  <w>min</w>
+  <w>del</w>
+  <w>är</w>
+  <w>trängselavgiften</w>
+  <w>ingenting</w>
+  <w>i</w>
+  <w>jämförelse</w>
+  <w>med</w>
+  <absaspan id=23>
+    <w>SJ</w>
+    <w>:</w>
+    <w>s</w>
+    <w>prissättning</w>
+  </absaspan>
+  <absaspan id=24 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Inte</w>
+  <w>heller</w>
+  <w>10,68</w>
+  <w>kronor</w>
+  <w>litern</w>
+  <w>är</w>
+  <w>särskilt</w>
+  <w>dyrt</w>
+  <w>i</w>
+  <w>jämförelse</w>
+  <w>med</w>
+  <w>SJ</w>
+  <w>.</w>
+  <absaspan id=25 senti=5>
+    <w>Tack</w>
+    <w>och</w>
+    <w>lov</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>att</w>
+    <w>det</w>
+    <w>finns</w>
+    <w>bilar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

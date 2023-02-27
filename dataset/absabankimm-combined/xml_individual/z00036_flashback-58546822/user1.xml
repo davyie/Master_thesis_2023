@@ -1,0 +1,81 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>invandrarna</w>
+  <w>själva</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>invandrarna</w>
+  <w>själva</w>
+  <w>om</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>allt</w>
+  <w>oftare</w>
+  <w>och</w>
+  <w>allt</w>
+  <w>fler</w>
+  <w>områden</w>
+  <w>där</w>
+  <w>man</w>
+  <w>knappt</w>
+  <w>ser</w>
+  <w>en</w>
+  <w>enda</w>
+  <w>ljushyad</w>
+  <w>person</w>
+  <w>?</w>
+  <w>Känns</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>lite</w>
+  <w>märkligt</w>
+  <w>?</w>
+  <w>Känns</w>
+  <w>det</w>
+  <w>bra</w>
+  <w>eller</w>
+  <w>dåligt</w>
+  <w>?</w>
+  <w>Upplever</w>
+  <w>ni</w>
+  <w>att</w>
+  <w>svenskar</w>
+  <w>undviker</w>
+  <w>er</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Skulle</w>
+  <absaspan id=1>
+    <w>invandrarna</w>
+  </absaspan>
+  <w>själva</w>
+  <w>vilja</w>
+  <w>att</w>
+  <w>deras</w>
+  <w>hemländer</w>
+  <w>fick</w>
+  <w>över</w>
+  <w>50%</w>
+  <w>och</w>
+  <w>uppåt</w>
+  <w>av</w>
+  <w>invandrare</w>
+  <w>från</w>
+  <w>en</w>
+  <w>fullständigt</w>
+  <w>främmande</w>
+  <w>kultur</w>
+  <absaspan id=2 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,72 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Asylsökande</w>
+  <w>kör</w>
+  <w>bil</w>
+  <w>med</w>
+  <w>falska</w>
+  <w>körkort</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1 senti=2>
+    <w>Problemet</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>aylsökande</w>
+    <w>som</w>
+    <w>kör</w>
+    <w>med</w>
+    <w>falska</w>
+    <w>körkort</w>
+  </absaspan>
+  <w>kan</w>
+  <w>ju</w>
+  <w>knappast</w>
+  <w>bara</w>
+  <w>vanligt</w>
+  <w>i</w>
+  <w>Norrbotten</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>måste</w>
+  <w>ju</w>
+  <w>vara</w>
+  <w>samma</w>
+  <absaspan id=3 senti=2>
+    <w>problem</w>
+  </absaspan>
+  <w>i</w>
+  <w>hela</w>
+  <w>landet</w>
+  <w>,</w>
+  <absaspan id=4 senti=2>
+    <w>Helt</w>
+    <w>sjukt</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>att</w>
+    <w>det</w>
+    <w>inte</w>
+    <w>går</w>
+    <w>att</w>
+    <w>stoppa</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Kommer</w>
+  <w>ju</w>
+  <w>bli</w>
+  <w>livsfarligt</w>
+  <w>på</w>
+  <w>vägarna</w>
+  <w>i</w>
+  <w>vinter</w>
+  <w>.</w>
+</absapar>
+</absadoc>

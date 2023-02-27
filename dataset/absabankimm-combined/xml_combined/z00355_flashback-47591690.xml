@@ -1,0 +1,125 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>ᛟ</w>
+  <absaspan id=1 senti=1 partof=3>
+    <w>Är</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>odalrunan</w>
+  </absaspan>
+  <absaspan id=3 senti=1 target=2>
+    <w>hets</w>
+  </absaspan>
+  <absaspan id=4 senti=1 target=2>
+    <w>mot</w>
+    <w>folkgrupp</w>
+  </absaspan>
+  <w>?</w>
+  <w>ᛟ</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Hej</w>
+  <w>Flashback</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Jag</w>
+  <w>har</w>
+  <w>ett</w>
+  <absaspan id=5 senti=4>
+    <w>fint</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>rockslagsmärke</w>
+  </absaspan>
+  <w>i</w>
+  <w>form</w>
+  <w>av</w>
+  <w>en</w>
+  <w>odalruna</w>
+  <w>.</w>
+  <w>Kan</w>
+  <w>det</w>
+  <w>räknas</w>
+  <w>som</w>
+  <absaspan id=7 senti=1>
+    <w>hets</w>
+    <w>mot</w>
+    <w>folkgrupp</w>
+  </absaspan>
+  <w>att</w>
+  <w>bära</w>
+  <w>det</w>
+  <w>?</w>
+  <w>Jag</w>
+  <w>minns</w>
+  <w>att</w>
+  <absaspan id=8>
+    <w>några</w>
+    <w>ur</w>
+    <w>en</w>
+    <w>demonstration</w>
+    <w>för</w>
+    <w>några</w>
+    <w>år</w>
+    <w>sedan</w>
+  </absaspan>
+  <absaspan id=9 senti=1>
+    <w>blev</w>
+    <w>misstänkta</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=10 senti=1>
+    <w>hets</w>
+    <w>mot</w>
+    <w>folkgrupp</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>de</w>
+  <w>hade</w>
+  <w>synliga</w>
+  <w>tatueringar</w>
+  <w>med</w>
+  <w>odalrunan</w>
+  <w>,</w>
+  <w>men</w>
+  <w>jag</w>
+  <w>vet</w>
+  <w>inte</w>
+  <w>vad</w>
+  <w>som</w>
+  <w>hände</w>
+  <w>med</w>
+  <absaspan id=11 senti=2>
+    <w>misstankarna</w>
+  </absaspan>
+  <w>sen</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Så</w>
+  <w>här</w>
+  <w>ser</w>
+  <w>den</w>
+  <w>ut</w>
+  <w>för</w>
+  <w>er</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>vet</w>
+  <w>:</w>
+  <w>ᛟ</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Hur</w>
+  <w>ligger</w>
+  <w>det</w>
+  <w>till</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

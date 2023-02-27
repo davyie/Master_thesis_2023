@@ -1,0 +1,90 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Familjen</w>
+  <w>Annorlunda</w>
+  <w>och</w>
+  <absaspan id=1 senti=1 target=1>
+    <w>rasism</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=2>
+    <w>De</w>
+    <w>flesta</w>
+    <w>på</w>
+    <w>FB</w>
+  </absaspan>
+  <absaspan id=3 senti=1>
+    <w>avskyr</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>TV4</w>
+  </absaspan>
+  <w>på</w>
+  <w>grund</w>
+  <w>av</w>
+  <w>kanalens</w>
+  <w>påstådda</w>
+  <absaspan id=5 senti=2>
+    <w>PK-agenda</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>jag</w>
+  <w>har</w>
+  <w>tänkt</w>
+  <w>på</w>
+  <w>en</w>
+  <w>sak</w>
+  <w>:</w>
+  <w>bara</w>
+  <w>vita</w>
+  <w>familjer</w>
+  <w>visas</w>
+  <w>i</w>
+  <w>programmet</w>
+  <w>"</w>
+  <w>Familjen</w>
+  <w>Annorlunda</w>
+  <w>"</w>
+  <w>.</w>
+  <w>Inga</w>
+  <absaspan id=6 senti=2>
+    <w>rasblandare</w>
+  </absaspan>
+  <w>,</w>
+  <w>inga</w>
+  <w>invandrare</w>
+  <w>,</w>
+  <w>bara</w>
+  <w>svenska</w>
+  <w>familjer</w>
+  <w>och</w>
+  <w>deras</w>
+  <w>många</w>
+  <w>,</w>
+  <w>ofta</w>
+  <w>blåögda</w>
+  <w>,</w>
+  <w>ibland</w>
+  <w>blonda</w>
+  <w>barn</w>
+  <w>.</w>
+  <w>Sållar</w>
+  <w>TV4</w>
+  <w>bort</w>
+  <w>invandrare</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Tankar</w>
+  <w>på</w>
+  <w>det</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+</absadoc>

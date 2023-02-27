@@ -1,0 +1,84 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Flyktingfrågan</w>
+  <w>,</w>
+  <absaspan id=1>
+    <w>vilket</w>
+    <w>parti</w>
+  </absaspan>
+  <w>eller</w>
+  <w>vilka</w>
+  <w>partier</w>
+  <absaspan id=2 senti=5 target=1>
+    <w>har</w>
+    <w>bästa</w>
+    <w>flyktingpolitiken</w>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Efter</w>
+  <w>att</w>
+  <w>ha</w>
+  <w>sett</w>
+  <w>debatten</w>
+  <w>i</w>
+  <w>aktuellt</w>
+  <w>ikväll</w>
+  <w>,</w>
+  <w>så</w>
+  <w>sa</w>
+  <w>Kinberg-Batra</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>kan</w>
+  <w>tänka</w>
+  <w>sig</w>
+  <w>att</w>
+  <w>göra</w>
+  <w>upp</w>
+  <w>med</w>
+  <w>Sossarna</w>
+  <w>om</w>
+  <w>flyktingpolitiken</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>hon</w>
+  <w>tidigare</w>
+  <w>öppnat</w>
+  <w>upp</w>
+  <w>för</w>
+  <w>ett</w>
+  <w>begränsat</w>
+  <w>samarbete</w>
+  <w>med</w>
+  <w>SD</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Gör</w>
+  <w>hon</w>
+  <w>rätt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <absaspan id=3>
+    <w>Vilket</w>
+    <w>parti</w>
+    <w>eller</w>
+    <w>vilka</w>
+    <w>partier</w>
+  </absaspan>
+  <absaspan id=4 senti=5>
+    <w>är</w>
+    <w>bäst</w>
+    <w>på</w>
+    <w>att</w>
+    <w>hantera</w>
+    <w>flyktingfrågan</w>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

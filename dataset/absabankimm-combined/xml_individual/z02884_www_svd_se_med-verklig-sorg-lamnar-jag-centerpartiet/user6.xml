@@ -1,0 +1,696 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=1 target=2>
+    <w>Med</w>
+    <w>verklig</w>
+    <w>sorg</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>lämnar</w>
+    <w>jag</w>
+    <w>Centerpartiet</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <absaspan id=3 senti=1>
+    <w>är</w>
+  </absaspan>
+  <w>verkligen</w>
+  <absaspan id=4 senti=1>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>sorg</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>jag</w>
+    <w>lämnar</w>
+    <w>Centerpartiet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Den</w>
+  <w>uppgörelse</w>
+  <w>som</w>
+  <w>har</w>
+  <w>gjorts</w>
+  <w>inom</w>
+  <w>alliansen</w>
+  <w>strider</w>
+  <w>mot</w>
+  <w>de</w>
+  <w>grundläggande</w>
+  <w>värderingar</w>
+  <w>jag</w>
+  <w>har</w>
+  <w>haft</w>
+  <w>som</w>
+  <w>centerpartist</w>
+  <w>alltsedan</w>
+  <w>jag</w>
+  <w>blev</w>
+  <w>medlem</w>
+  <w>i</w>
+  <w>CUF</w>
+  <w>1982</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Kärnkraft</w>
+  <w>är</w>
+  <w>ingen</w>
+  <w>"</w>
+  <w>ren</w>
+  <w>"</w>
+  <w>energikälla</w>
+  <w>.</w>
+  <w>Inte</w>
+  <w>om</w>
+  <w>man</w>
+  <w>tar</w>
+  <w>hänsyn</w>
+  <w>till</w>
+  <w>hela</w>
+  <w>kedjan</w>
+  <w>,</w>
+  <w>från</w>
+  <w>brytning</w>
+  <w>av</w>
+  <w>uran</w>
+  <w>till</w>
+  <w>slutförvaring</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=7>
+    <w>Kärnkraft</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>är</w>
+    <w>inget</w>
+    <w>vi</w>
+    <w>"</w>
+    <w>kan</w>
+    <w>leva</w>
+    <w>med</w>
+    <w>"</w>
+  </absaspan>
+  <w>,</w>
+  <w>däremot</w>
+  <absaspan id=9>
+    <w>något</w>
+  </absaspan>
+  <w>vi</w>
+  <w>centerpartister</w>
+  <w>kanske</w>
+  <absaspan id=10 senti=2>
+    <w>måste</w>
+    <w>leva</w>
+    <w>med</w>
+  </absaspan>
+  <w>när</w>
+  <w>majoriteten</w>
+  <w>i</w>
+  <w>riksdagen</w>
+  <w>föredrar</w>
+  <w>kärnkraft</w>
+  <w>framför</w>
+  <w>andra</w>
+  <w>energikällor</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Jag</w>
+  <w>är</w>
+  <w>väl</w>
+  <w>medveten</w>
+  <w>om</w>
+  <w>att</w>
+  <w>Centerpartiet</w>
+  <w>inom</w>
+  <w>alliansen</w>
+  <w>knappast</w>
+  <w>kan</w>
+  <w>ändra</w>
+  <w>övriga</w>
+  <w>allianspartiers</w>
+  <w>inställning</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>varför</w>
+  <w>ska</w>
+  <w>det</w>
+  <w>betyda</w>
+  <w>en</w>
+  <w>ändring</w>
+  <w>i</w>
+  <w>vår</w>
+  <w>inställning</w>
+  <w>?</w>
+  <absaspan id=11 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=6>
+  <w>Alliansen</w>
+  <w>hanterade</w>
+  <w>äktenskapsfrågan</w>
+  <w>så</w>
+  <w>att</w>
+  <w>KD</w>
+  <w>kunde</w>
+  <w>behålla</w>
+  <w>sin</w>
+  <w>åsikt</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>Centerpartiet</w>
+  <w>måste</w>
+  <w>överge</w>
+  <w>sitt</w>
+  <w>motstånd</w>
+  <w>mot</w>
+  <w>kärnkraft</w>
+  <w>.</w>
+  <w>Varför</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Jag</w>
+  <absaspan id=12 senti=4>
+    <w>har</w>
+    <w>haft</w>
+    <w>ett</w>
+    <w>stort</w>
+    <w>förtroende</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>Maud</w>
+    <w>Olofsson</w>
+  </absaspan>
+  <w>.</w>
+  <w>För</w>
+  <w>mig</w>
+  <w>har</w>
+  <w>hon</w>
+  <w>på</w>
+  <w>många</w>
+  <w>plan</w>
+  <w>återfört</w>
+  <w>partiet</w>
+  <w>till</w>
+  <w>sina</w>
+  <w>rötter</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Jag</w>
+  <w>är</w>
+  <absaspan id=14 senti=4>
+    <w>genuint</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>borgerlig</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>i</w>
+  <absaspan id=16>
+    <w>kärnkraftsfrågan</w>
+  </absaspan>
+  <absaspan id=17 senti=1>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=19 senti=1>
+    <w>blivit</w>
+  </absaspan>
+  <absaspan id=20 senti=1>
+    <w>en</w>
+    <w>fullständig</w>
+    <w>härdsmälta</w>
+  </absaspan>
+  <w>hos</w>
+  <w>Maud</w>
+  <w>och</w>
+  <w>partiledningen</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <absaspan id=21 senti=1>
+    <w>Att</w>
+    <w>ha</w>
+    <w>mage</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>att</w>
+    <w>påstå</w>
+    <w>att</w>
+    <w>denna</w>
+    <w>positionsförändring</w>
+    <w>görs</w>
+    <w>för</w>
+    <w>"</w>
+    <w>våra</w>
+    <w>barn</w>
+    <w>och</w>
+    <w>barnbarn</w>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=23 senti=2>
+    <w>är</w>
+    <w>magstarkt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>När</w>
+  <w>vi</w>
+  <w>accepterar</w>
+  <w>kärnkraft</w>
+  <w>överför</w>
+  <w>vi</w>
+  <w>ansvaret</w>
+  <w>för</w>
+  <w>dödligt</w>
+  <w>avfall</w>
+  <w>till</w>
+  <w>kommande</w>
+  <w>generationer</w>
+  <w>(</w>
+  <w>våra</w>
+  <w>barn</w>
+  <w>och</w>
+  <w>barnbarn</w>
+  <w>)</w>
+  <w>i</w>
+  <w>100</w>
+  <w>000</w>
+  <w>-</w>
+  <w>tals</w>
+  <w>år</w>
+  <w>.</w>
+  <w>100000</w>
+  <w>år</w>
+  <w>!</w>
+  <w>Tänk</w>
+  <w>hur</w>
+  <w>lång</w>
+  <w>tid</w>
+  <w>det</w>
+  <w>är</w>
+  <absaspan id=24 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=11>
+  <w>Vår</w>
+  <w>tideräkning</w>
+  <w>började</w>
+  <w>för</w>
+  <w>2000</w>
+  <w>år</w>
+  <w>sedan</w>
+  <w>.</w>
+  <w>Hur</w>
+  <w>mycket</w>
+  <w>har</w>
+  <w>inte</w>
+  <w>hänt</w>
+  <w>sedan</w>
+  <w>dess</w>
+  <w>?</w>
+  <w>Hur</w>
+  <w>mycket</w>
+  <w>kommer</w>
+  <w>inte</w>
+  <w>att</w>
+  <w>hända</w>
+  <w>under</w>
+  <w>100000</w>
+  <w>år</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Kan</w>
+  <w>någon</w>
+  <w>ens</w>
+  <w>seriöst</w>
+  <w>tro</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>kan</w>
+  <w>skapa</w>
+  <w>en</w>
+  <w>slutförvaring</w>
+  <w>som</w>
+  <w>på</w>
+  <w>ett</w>
+  <w>säkert</w>
+  <w>sätt</w>
+  <w>klarar</w>
+  <w>100000</w>
+  <w>år</w>
+  <w>?</w>
+  <absaspan id=25 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=13>
+  <w>Vi</w>
+  <w>har</w>
+  <w>också</w>
+  <w>ett</w>
+  <w>folkomröstningsresultat</w>
+  <w>som</w>
+  <w>säger</w>
+  <w>att</w>
+  <w>kärnkraften</w>
+  <w>ska</w>
+  <w>avvecklas</w>
+  <w>.</w>
+  <w>I</w>
+  <w>omröstningen</w>
+  <w>var</w>
+  <w>frågan</w>
+  <w>faktiskt</w>
+  <w>bara</w>
+  <w>hur</w>
+  <w>fort</w>
+  <w>avvecklingen</w>
+  <w>skulle</w>
+  <w>gå</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Genom</w>
+  <w>åren</w>
+  <w>har</w>
+  <w>flera</w>
+  <w>överenskommelser</w>
+  <w>träffats</w>
+  <w>där</w>
+  <w>Centerpartiet</w>
+  <w>har</w>
+  <w>medverkat</w>
+  <w>.</w>
+  <w>Efter</w>
+  <w>varje</w>
+  <w>ny</w>
+  <w>överenskommelse</w>
+  <w>har</w>
+  <w>vi</w>
+  <w>i</w>
+  <w>Centerpartiet</w>
+  <w>pratat</w>
+  <w>om</w>
+  <w>att</w>
+  <w>nu</w>
+  <w>kommer</w>
+  <w>de</w>
+  <w>alternativa</w>
+  <w>energikällorna</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Men</w>
+  <w>inget</w>
+  <w>har</w>
+  <w>hänt</w>
+  <w>.</w>
+  <w>Nu</w>
+  <w>öppnar</w>
+  <w>vi</w>
+  <w>slussarna</w>
+  <w>då</w>
+  <w>förbudet</w>
+  <w>mot</w>
+  <w>ny</w>
+  <w>kärnkraft</w>
+  <w>hävs</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <absaspan id=26>
+    <w>Centerpartiet</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=27 senti=3>
+    <w>kan</w>
+    <w>leva</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>kärnkraft</w>
+  </absaspan>
+  <w>"</w>
+  <w>,</w>
+  <w>säger</w>
+  <absaspan id=29>
+    <w>Maud</w>
+    <w>Olofsson</w>
+  </absaspan>
+  <w>.</w>
+  <w>Kärnkraftsindustrin</w>
+  <w>talar</w>
+  <w>redan</w>
+  <w>om</w>
+  <w>en</w>
+  <w>utökning</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>Hur</w>
+  <w>kan</w>
+  <w>Centerpartiet</w>
+  <w>acceptera</w>
+  <w>att</w>
+  <w>kärnkraft</w>
+  <w>är</w>
+  <w>en</w>
+  <w>del</w>
+  <w>av</w>
+  <w>Sveriges</w>
+  <w>energiförsörjning</w>
+  <w>under</w>
+  <w>hela</w>
+  <w>detta</w>
+  <w>århundrade</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>För</w>
+  <w>mig</w>
+  <absaspan id=30 senti=1>
+    <w>är</w>
+    <w>sveket</w>
+  </absaspan>
+  <w>och</w>
+  <w>naiviteten</w>
+  <w>hos</w>
+  <absaspan id=31>
+    <w>Centerpartiet</w>
+  </absaspan>
+  <absaspan id=32 senti=1>
+    <w>fullständig</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=19>
+  <w>Hur</w>
+  <w>kan</w>
+  <w>någon</w>
+  <w>ens</w>
+  <w>tro</w>
+  <w>att</w>
+  <w>just</w>
+  <w>denna</w>
+  <w>uppgörelse</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>leda</w>
+  <w>till</w>
+  <w>att</w>
+  <w>alternativa</w>
+  <w>energikällor</w>
+  <w>får</w>
+  <w>sitt</w>
+  <w>genombrott</w>
+  <absaspan id=33 senti=2>
+    <w>?</w>
+  </absaspan>
+  <absaspan id=34 senti=2>
+    <w>Iställetbygger</w>
+    <w>vi</w>
+    <w>oss</w>
+    <w>fast</w>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>kärnkraftssamhället</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=20>
+  <w>Efter</w>
+  <w>att</w>
+  <w>ha</w>
+  <w>varit</w>
+  <w>medlem</w>
+  <w>i</w>
+  <w>Centerrörelsen</w>
+  <w>sedan</w>
+  <w>1982</w>
+  <absaspan id=36 senti=2>
+    <w>kan</w>
+    <w>jag</w>
+    <w>inte</w>
+    <w>längre</w>
+    <w>stå</w>
+    <w>upp</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=37>
+    <w>att</w>
+    <w>vara</w>
+    <w>centerpartist</w>
+    <w>efter</w>
+    <w>denna</w>
+    <w>positionsförändring</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=21>
+  <w>Därför</w>
+  <w>har</w>
+  <w>jag</w>
+  <absaspan id=38 senti=2>
+    <w>begärt</w>
+    <w>utträde</w>
+    <w>ur</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>partiet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=22>
+  <w>PATRIK</w>
+  <w>NIMMERSTAM</w>
+  <w>.</w>
+</absapar>
+<absapar id=23>
+  <w>vice</w>
+  <w>ordförande</w>
+  <w>Centerpartiet</w>
+  <w>i</w>
+  <w>Danderyd</w>
+  <w>.</w>
+</absapar>
+<absapar id=24>
+  <w>f</w>
+  <w>d</w>
+  <w>ordf</w>
+  <w>Centerns</w>
+  <w>högskoleförening</w>
+  <w>i</w>
+  <w>Umeå</w>
+  <w>,</w>
+  <w>f</w>
+  <w>d</w>
+  <w>styrelseledamot</w>
+  <w>Centerns</w>
+  <w>kommunorganisation</w>
+  <w>i</w>
+  <w>Umeå</w>
+  <w>,</w>
+  <w>f</w>
+  <w>d</w>
+  <w>ordförande</w>
+  <w>(</w>
+  <w>C</w>
+  <w>)</w>
+  <w>Umeå</w>
+  <w>studentkår</w>
+  <w>,</w>
+  <w>f</w>
+  <w>d</w>
+  <w>förbundssekreterare</w>
+  <w>Centerns</w>
+  <w>högskoleförbund</w>
+  <w>,</w>
+  <w>f</w>
+  <w>d</w>
+  <w>ledamot</w>
+  <w>Centerpartiets</w>
+  <w>distriktsstyrelse</w>
+  <w>i</w>
+  <w>Stockholms</w>
+  <w>län</w>
+  <w>.</w>
+</absapar>
+<absapar id=25>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

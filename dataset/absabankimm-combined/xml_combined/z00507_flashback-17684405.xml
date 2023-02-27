@@ -1,0 +1,145 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <absaspan id=1 senti=2 target=1>
+    <w>Överbefolkning</w>
+  </absaspan>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ja</w>
+  <w>,</w>
+  <w>jag</w>
+  <w>tycker</w>
+  <w>mig</w>
+  <w>anse</w>
+  <w>att</w>
+  <absaspan id=2>
+    <w>Sverige</w>
+    <w>,</w>
+    <w>precis</w>
+    <w>som</w>
+    <w>övriga</w>
+    <w>världen</w>
+  </absaspan>
+  <w>börjar</w>
+  <absaspan id=3 senti=2>
+    <w>bli</w>
+    <w>överbefolkat</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <w>Ska</w>
+  <w>vi</w>
+  <absaspan id=4 senti=2>
+    <w>frysa</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>invandringen</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>,</w>
+    <w>samt</w>
+    <w>låta</w>
+    <w>par</w>
+    <w>högst</w>
+    <w>föda</w>
+    <w>två</w>
+    <w>barn</w>
+    <w>,</w>
+    <w>a</w>
+    <w>nanrs</w>
+    <w>inga</w>
+    <w>barnbidrag</w>
+  </absaspan>
+  <w>.</w>
+  <w>t.ex</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Jag</w>
+  <w>tycker</w>
+  <absaspan id=7>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>låter</w>
+    <w>smart</w>
+  </absaspan>
+  <w>,</w>
+  <w>för</w>
+  <w>det</w>
+  <w>skulle</w>
+  <absaspan id=9 senti=4>
+    <w>maximera</w>
+    <w>vår</w>
+    <w>intelligens</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=10 senti=4>
+    <w>minska</w>
+    <w>arbetslösheten</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=11 senti=4>
+    <w>undvika</w>
+    <w>Sveriges</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>undergång</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vad</w>
+  <w>säger</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>För</w>
+  <absaspan id=13>
+    <w>jordens</w>
+  </absaspan>
+  <absaspan id=14 senti=1>
+    <w>undergång</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>är</w>
+    <w>fan</w>
+    <w>nära</w>
+  </absaspan>
+  <w>,</w>
+  <w>om</w>
+  <w>inte</w>
+  <w>FN</w>
+  <w>beslutar</w>
+  <w>barn</w>
+  <w>begränsning</w>
+  <w>snarast</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>kom</w>
+  <w>ihåg</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>bara</w>
+  <w>lånbar</w>
+  <w>vår</w>
+  <w>planet</w>
+  <w>,</w>
+  <w>vi</w>
+  <w>äger</w>
+  <w>den</w>
+  <w>inte</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

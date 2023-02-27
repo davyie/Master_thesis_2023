@@ -1,0 +1,171 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Feminist</w>
+  </absaspan>
+  <w>vill</w>
+  <w>ha</w>
+  <w>1</w>
+  <w>miljon</w>
+  <w>för</w>
+  <w>barn</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <absaspan id=2 senti=4>
+    <w>Bör</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>män</w>
+    <w>räkna</w>
+    <w>likadant</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Nu</w>
+  <w>hörde</w>
+  <w>jag</w>
+  <w>bara</w>
+  <w>slutet</w>
+  <w>av</w>
+  <w>SVT's</w>
+  <w>program</w>
+  <w>opinion</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>verkade</w>
+  <w>som</w>
+  <w>att</w>
+  <absaspan id=5>
+    <w>hon</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>ville</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>att</w>
+    <w>kvinnor</w>
+    <w>skulle</w>
+    <w>skilja</w>
+    <w>mer</w>
+    <w>på</w>
+    <w>sitt</w>
+    <w>och</w>
+    <w>familjens</w>
+    <w>,</w>
+    <w>samt</w>
+    <w>i</w>
+    <w>större</w>
+    <w>utsträckning</w>
+    <w>skilja</w>
+    <w>sig</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Vid</w>
+  <w>frågor</w>
+  <w>om</w>
+  <w>barn</w>
+  <w>ville</w>
+  <w>hon</w>
+  <w>ha</w>
+  <w>1</w>
+  <w>miljon</w>
+  <w>för</w>
+  <absaspan id=8 senti=2>
+    <w>ekonomiska</w>
+    <w>förluster</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>Sett</w>
+  <w>till</w>
+  <w>hur</w>
+  <w>min</w>
+  <w>ekonomiska</w>
+  <w>utveckling</w>
+  <w>rört</w>
+  <w>sig</w>
+  <w>,</w>
+  <w>med</w>
+  <w>den</w>
+  <w>feministiska</w>
+  <w>kalkylen</w>
+  <w>.</w>
+  <w>Skulle</w>
+  <w>jag</w>
+  <w>kräva</w>
+  <w>minst</w>
+  <w>6</w>
+  <w>-</w>
+  <w>10</w>
+  <w>miljoner</w>
+  <w>.</w>
+  <w>Eftersom</w>
+  <w>värdet</w>
+  <w>på</w>
+  <w>mina</w>
+  <w>nuvarande</w>
+  <w>tillgångar</w>
+  <w>kraftigt</w>
+  <w>släpat</w>
+  <w>efter</w>
+  <w>p.g.a</w>
+  <w>.</w>
+  <w>kvinnokonsekvenser</w>
+  <w>dessutom</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Min</w>
+  <w>skala</w>
+  <w>stegrar</w>
+  <w>brant</w>
+  <w>,</w>
+  <w>så</w>
+  <w>kvinnor</w>
+  <w>utan</w>
+  <w>en</w>
+  <absaspan id=10 senti=5>
+    <w>exceptionellt</w>
+    <w>skött</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>ekonomi</w>
+  </absaspan>
+  <w>,</w>
+  <w>kommer</w>
+  <w>behöva</w>
+  <w>ta</w>
+  <w>stora</w>
+  <w>lån</w>
+  <w>för</w>
+  <w>att</w>
+  <w>ha</w>
+  <w>råd</w>
+  <w>med</w>
+  <w>en</w>
+  <w>relation</w>
+  <w>med</w>
+  <w>mig</w>
+  <absaspan id=12>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=6>
+  <w>MVH</w>
+  <w>/</w>
+  <w>eder</w>
+  <w>Tangent</w>
+  <w>.</w>
+</absapar>
+</absadoc>

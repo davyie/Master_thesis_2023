@@ -1,0 +1,293 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Helle</w>
+    <w>Klein</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>gör</w>
+    <w>bort</w>
+    <w>sig</w>
+  </absaspan>
+  <w>i</w>
+  <w>debatt</w>
+  <w>om</w>
+  <w>islamofobi</w>
+  <w>gällande</w>
+  <w>bild</w>
+  <w>på</w>
+  <w>kvinna</w>
+  <w>i</w>
+  <w>burka</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Helle</w>
+    <w>Klein</w>
+  </absaspan>
+  <w>har</w>
+  <w>nyligen</w>
+  <absaspan id=4 senti=1>
+    <w>gått</w>
+    <w>i</w>
+    <w>taket</w>
+    <w>av</w>
+    <w>upprördhet</w>
+  </absaspan>
+  <w>gällande</w>
+  <absaspan id=5>
+    <w>en</w>
+    <w>bild</w>
+    <w>av</w>
+    <w>en</w>
+    <w>kvinna</w>
+    <w>i</w>
+    <w>burka</w>
+    <w>på</w>
+    <w>en</w>
+    <w>tidsskrift</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>Gomorron</w>
+  <w>Sverige</w>
+  <w>idag</w>
+  <w>debatterade</w>
+  <w>Helle</w>
+  <w>Klein</w>
+  <w>med</w>
+  <w>Christer</w>
+  <w>Sturmark</w>
+  <w>angående</w>
+  <absaspan id=6>
+    <w>bilden</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>av</w>
+    <w>kvinnan</w>
+    <w>i</w>
+    <w>burka</w>
+  </absaspan>
+  <w>som</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>.</w>
+  <w>Tidningen</w>
+  <w>utges</w>
+  <w>av</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>där</w>
+  <w>Christer</w>
+  <w>Sturmark</w>
+  <w>,</w>
+  <w>ordförande</w>
+  <w>för</w>
+  <w>förbundet</w>
+  <w>Humanisterna</w>
+  <w>,</w>
+  <w>är</w>
+  <w>ansvarig</w>
+  <w>utgivare</w>
+  <w>.</w>
+  <absaspan id=8>
+    <w>Helle</w>
+  </absaspan>
+  <w>påstår</w>
+  <w>att</w>
+  <absaspan id=9>
+    <w>detta</w>
+  </absaspan>
+  <absaspan id=10 senti=1>
+    <w>är</w>
+    <w>islamofobiskt</w>
+  </absaspan>
+  <w>,</w>
+  <w>medan</w>
+  <w>Christer</w>
+  <w>istället</w>
+  <w>hävdar</w>
+  <w>att</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>angrepp</w>
+  <w>mot</w>
+  <w>islam</w>
+  <w>som</w>
+  <w>sådan</w>
+  <w>,</w>
+  <w>utan</w>
+  <w>ett</w>
+  <w>inlägg</w>
+  <w>för</w>
+  <w>mänskliga</w>
+  <w>rättigheter</w>
+  <w>och</w>
+  <w>mot</w>
+  <w>kvinnoförtryck</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Bilden</w>
+  <w>som</w>
+  <w>debatten</w>
+  <w>egentligen</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Debatten</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=11>
+    <w>Vem</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>har</w>
+    <w>rätt</w>
+  </absaspan>
+  <w>?</w>
+  <w>Är</w>
+  <w>det</w>
+  <w>som</w>
+  <absaspan id=13>
+    <w>Helle</w>
+    <w>Klein</w>
+  </absaspan>
+  <w>påstår</w>
+  <w>,</w>
+  <w>att</w>
+  <absaspan id=14>
+    <w>framsidan</w>
+    <w>av</w>
+    <w>tidsskriften</w>
+    <w>Sans</w>
+  </absaspan>
+  <absaspan id=15 senti=1>
+    <w>är</w>
+    <w>islamofobisk</w>
+  </absaspan>
+  <w>,</w>
+  <w>eller</w>
+  <absaspan id=16 senti=2>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>kritiken</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>helt</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>grundlös</w>
+  </absaspan>
+  <w>och</w>
+  <w>istället</w>
+  <w>framställer</w>
+  <w>henne</w>
+  <w>som</w>
+  <w>en</w>
+  <w>religiös</w>
+  <absaspan id=20 senti=2>
+    <w>PK-kvinna</w>
+  </absaspan>
+  <w>vars</w>
+  <absaspan id=21>
+    <w>uttalanden</w>
+  </absaspan>
+  <absaspan id=22 senti=2>
+    <w>är</w>
+    <w>i</w>
+    <w>linje</w>
+    <w>med</w>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=23 senti=2>
+    <w>politiskt</w>
+    <w>korrekta</w>
+  </absaspan>
+  <absaspan id=24 senti=2>
+    <w>etablissemanget</w>
+  </absaspan>
+  <w>?</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>väl</w>
+  <w>ingen</w>
+  <w>nyhet</w>
+  <w>att</w>
+  <w>Sturmark</w>
+  <w>kritiserar</w>
+  <w>religioners</w>
+  <w>effekter</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>nya</w>
+  <w>med</w>
+  <w>detta</w>
+  <w>är</w>
+  <w>i</w>
+  <w>så</w>
+  <w>fall</w>
+  <w>bilden</w>
+  <w>på</w>
+  <w>en</w>
+  <w>kvinna</w>
+  <w>i</w>
+  <w>burka</w>
+  <w>.</w>
+  <absaspan id=25 senti=2>
+    <w>Gör</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>Helle</w>
+    <w>Klein</w>
+  </absaspan>
+  <absaspan id=27 senti=2>
+    <w>bort</w>
+  </absaspan>
+  <absaspan id=28 senti=2>
+    <w>sig</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=29 senti=2>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>hennes</w>
+    <w>argument</w>
+  </absaspan>
+  <w>så</w>
+  <absaspan id=31 senti=2>
+    <w>grundlösa</w>
+  </absaspan>
+  <w>som</w>
+  <w>de</w>
+  <w>framstår</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>En</w>
+  <w>artikel</w>
+  <w>av</w>
+  <w>Sturmark</w>
+  <w>på</w>
+  <w>Newsmill</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+</absadoc>

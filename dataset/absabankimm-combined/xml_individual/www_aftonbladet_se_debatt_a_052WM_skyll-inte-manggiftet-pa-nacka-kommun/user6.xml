@@ -1,0 +1,527 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1 senti=2 target=4 partof=3>
+    <w>Skyll</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=2>
+    <w>månggiftet</w>
+  </absaspan>
+  <absaspan id=3 senti=2 target=4>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>Nacka</w>
+    <w>kommun</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>REPLIK</w>
+  <w>.</w>
+  <w>Den</w>
+  <absaspan id=5 senti=2>
+    <w>starka</w>
+    <w>reaktionen</w>
+  </absaspan>
+  <w>mot</w>
+  <absaspan id=6>
+    <w>att</w>
+    <w>Nacka</w>
+    <w>kommun</w>
+    <w>köpt</w>
+    <w>in</w>
+    <w>tre</w>
+    <w>lägenheter</w>
+    <w>för</w>
+    <w>14</w>
+    <w>miljoner</w>
+    <w>kronor</w>
+    <w>åt</w>
+    <w>en</w>
+    <w>man</w>
+    <w>med</w>
+    <w>tre</w>
+    <w>fruar</w>
+    <w>och</w>
+    <w>sexton</w>
+    <w>barn</w>
+  </absaspan>
+  <w>är</w>
+  <w>inte</w>
+  <w>förvånande</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Men</w>
+  <absaspan id=7>
+    <w>att</w>
+    <w>som</w>
+    <w>Ulf</w>
+    <w>Berquist</w>
+    <w>och</w>
+    <w>Anna</w>
+    <w>Fayad</w>
+    <w>rikta</w>
+    <w>kritiken</w>
+    <w>mot</w>
+    <w>Nacka</w>
+    <w>kommun</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>är</w>
+    <w>fel</w>
+  </absaspan>
+  <w>,</w>
+  <w>kommunen</w>
+  <w>har</w>
+  <w>bara</w>
+  <w>följt</w>
+  <w>svensk</w>
+  <w>lag</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Att</w>
+  <w>som</w>
+  <w>Berquist</w>
+  <w>och</w>
+  <w>Fayad</w>
+  <w>ifrågasätta</w>
+  <absaspan id=9 senti=2>
+    <w>månggifte</w>
+  </absaspan>
+  <w>och</w>
+  <w>hur</w>
+  <w>många</w>
+  <w>fruar</w>
+  <w>man</w>
+  <w>kan</w>
+  <w>ta</w>
+  <w>in</w>
+  <w>som</w>
+  <w>anhöriginvandrare</w>
+  <w>(</w>
+  <w>om</w>
+  <w>nu</w>
+  <w>dessa</w>
+  <w>kvinnor</w>
+  <w>inte</w>
+  <w>själva</w>
+  <w>var</w>
+  <w>asylsökande</w>
+  <w>)</w>
+  <w>är</w>
+  <w>en</w>
+  <w>sak</w>
+  <w>,</w>
+  <w>men</w>
+  <w>då</w>
+  <w>ska</w>
+  <w>kritiken</w>
+  <w>riktas</w>
+  <w>mot</w>
+  <w>regering</w>
+  <w>,</w>
+  <w>riksdag</w>
+  <w>och</w>
+  <w>ansvariga</w>
+  <w>myndigheter</w>
+  <w>och</w>
+  <w>inte</w>
+  <w>mot</w>
+  <w>den</w>
+  <w>kommun</w>
+  <w>som</w>
+  <w>försöker</w>
+  <w>lösa</w>
+  <w>en</w>
+  <absaspan id=10 senti=2>
+    <w>svår</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>uppgift</w>
+  </absaspan>
+  <w>de</w>
+  <w>är</w>
+  <w>ålagda</w>
+  <w>enligt</w>
+  <w>lag</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=2>
+  <absaspan id=12 senti=2>
+    <w>Inte</w>
+    <w>heller</w>
+    <w>är</w>
+    <w>det</w>
+    <w>förvånande</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>att</w>
+    <w>Nackas</w>
+    <w>socialdemokratiska</w>
+    <w>oppositionsråd</w>
+    <w>,</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>Khashayar</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>Farmanba</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>,</w>
+    <w>passar</w>
+    <w>på</w>
+    <w>att</w>
+    <w>kritisera</w>
+    <w>att</w>
+    <w>Nacka</w>
+    <w>inte</w>
+    <w>har</w>
+    <w>något</w>
+    <w>kommunalt</w>
+    <w>bostadsbolag</w>
+    <w>.</w>
+  </absaspan>
+  <w>Men</w>
+  <w>ur</w>
+  <w>ekonomisk</w>
+  <w>synvinkel</w>
+  <absaspan id=17 senti=2>
+    <w>har</w>
+  </absaspan>
+  <w>även</w>
+  <absaspan id=18>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>fel</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=2>
+  <w>Det</w>
+  <absaspan id=20 senti=4>
+    <w>är</w>
+    <w>självklart</w>
+    <w>billigare</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>att</w>
+    <w>bara</w>
+    <w>köpa</w>
+    <w>de</w>
+    <w>lägenheter</w>
+    <w>som</w>
+    <w>behövs</w>
+  </absaspan>
+  <w>än</w>
+  <w>att</w>
+  <absaspan id=22 senti=2>
+    <w>binda</w>
+    <w>ett</w>
+    <w>långt</w>
+    <w>större</w>
+    <w>kapital</w>
+  </absaspan>
+  <w>(</w>
+  <absaspan id=23>
+    <w>skattebetalarnas</w>
+  </absaspan>
+  <w>)</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>stort</w>
+  <w>bostadsbestånd</w>
+  <w>.</w>
+  <absaspan id=24>
+    <w>Pengar</w>
+  </absaspan>
+  <w>som</w>
+  <w>i</w>
+  <w>stället</w>
+  <w>kan</w>
+  <w>investeras</w>
+  <w>i</w>
+  <w>skolor</w>
+  <w>,</w>
+  <w>äldreboenden</w>
+  <w>,</w>
+  <w>idrottsplaner</w>
+  <w>,</w>
+  <w>vägar</w>
+  <w>och</w>
+  <w>annat</w>
+  <w>som</w>
+  <absaspan id=25 senti=4>
+    <w>ger</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>kommuninvånarna</w>
+  </absaspan>
+  <absaspan id=27 senti=4>
+    <w>nytta</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=2>
+  <w>Däremot</w>
+  <absaspan id=28 senti=2>
+    <w>är</w>
+  </absaspan>
+  <w>det</w>
+  <absaspan id=29 senti=2>
+    <w>uppseendeväckande</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>att</w>
+    <w>det</w>
+    <w>i</w>
+    <w>regeringens</w>
+  </absaspan>
+  <absaspan id=31 senti=2>
+    <w>populistiska</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>valbudget</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>,</w>
+    <w>med</w>
+    <w>bland</w>
+    <w>annat</w>
+  </absaspan>
+  <absaspan id=34 senti=2>
+    <w>skatterabatter</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>för</w>
+    <w>fackavgifter</w>
+    <w>,</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>saknas</w>
+    <w>satsningar</w>
+  </absaspan>
+  <absaspan id=37>
+    <w>på</w>
+    <w>vår</w>
+    <w>tids</w>
+    <w>just</w>
+    <w>nu</w>
+  </absaspan>
+  <absaspan id=38 senti=2>
+    <w>största</w>
+    <w>utmaningar</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>nämligen</w>
+  </absaspan>
+  <absaspan id=40>
+    <w>migration</w>
+    <w>och</w>
+    <w>integration</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>som</w>
+  <w>om</w>
+  <w>de</w>
+  <absaspan id=41 senti=2>
+    <w>problem</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=42 senti=2>
+    <w>uppstod</w>
+  </absaspan>
+  <absaspan id=43>
+    <w>när</w>
+    <w>163</w>
+    <w>000</w>
+    <w>asylsökande</w>
+    <w>kom</w>
+    <w>2015</w>
+  </absaspan>
+  <w>inte</w>
+  <w>längre</w>
+  <w>finns</w>
+  <w>nu</w>
+  <w>när</w>
+  <w>staten</w>
+  <w>skjuter</w>
+  <w>över</w>
+  <w>ansvaret</w>
+  <w>på</w>
+  <w>kommunerna</w>
+  <w>.</w>
+</absapar>
+<absapar id=7 senti=2>
+  <w>Inte</w>
+  <w>minst</w>
+  <w>bostadsfrågan</w>
+  <w>måste</w>
+  <w>få</w>
+  <w>en</w>
+  <w>lösning</w>
+  <w>.</w>
+  <w>För</w>
+  <w>även</w>
+  <w>om</w>
+  <w>kommuner</w>
+  <w>som</w>
+  <w>Nacka</w>
+  <w>i</w>
+  <w>det</w>
+  <w>korta</w>
+  <w>perspektivet</w>
+  <w>köper</w>
+  <w>bostadsrätter</w>
+  <w>för</w>
+  <w>att</w>
+  <w>ge</w>
+  <w>människor</w>
+  <w>tak</w>
+  <w>över</w>
+  <w>huvudet</w>
+  <w>är</w>
+  <w>det</w>
+  <w>naturligtvis</w>
+  <w>inte</w>
+  <w>en</w>
+  <w>långsiktig</w>
+  <w>lösning</w>
+  <w>.</w>
+</absapar>
+<absapar id=8 senti=3>
+  <w>Här</w>
+  <w>måste</w>
+  <w>i</w>
+  <w>stället</w>
+  <w>regering</w>
+  <w>och</w>
+  <w>riksdag</w>
+  <w>genomföra</w>
+  <w>reformer</w>
+  <w>som</w>
+  <w>dels</w>
+  <w>gör</w>
+  <w>det</w>
+  <absaspan id=44 senti=4>
+    <w>enklare</w>
+  </absaspan>
+  <absaspan id=45>
+    <w>att</w>
+    <w>bygga</w>
+  </absaspan>
+  <w>,</w>
+  <w>att</w>
+  <absaspan id=46>
+    <w>projekten</w>
+  </absaspan>
+  <absaspan id=47 senti=4>
+    <w>går</w>
+    <w>fortare</w>
+  </absaspan>
+  <w>att</w>
+  <w>genomföra</w>
+  <w>och</w>
+  <w>att</w>
+  <w>man</w>
+  <w>kan</w>
+  <w>bygga</w>
+  <w>på</w>
+  <w>flera</w>
+  <w>platser</w>
+  <w>.</w>
+  <w>Dels</w>
+  <w>måste</w>
+  <w>man</w>
+  <absaspan id=48 senti=4>
+    <w>underlätta</w>
+  </absaspan>
+  <w>för</w>
+  <w>människor</w>
+  <absaspan id=49>
+    <w>att</w>
+    <w>kunna</w>
+    <w>byta</w>
+    <w>bostad</w>
+  </absaspan>
+  <w>i</w>
+  <w>takt</w>
+  <w>med</w>
+  <w>att</w>
+  <w>deras</w>
+  <w>behov</w>
+  <w>förändras</w>
+  <w>.</w>
+  <w>För</w>
+  <w>att</w>
+  <w>klara</w>
+  <w>detta</w>
+  <w>behöver</w>
+  <w>en</w>
+  <w>del</w>
+  <absaspan id=50 senti=2>
+    <w>heliga</w>
+    <w>kor</w>
+  </absaspan>
+  <w>,</w>
+  <w>såsom</w>
+  <absaspan id=51 senti=2>
+    <w>flyttskatt</w>
+  </absaspan>
+  <absaspan id=52>
+    <w>,</w>
+    <w>strandskydd</w>
+    <w>,</w>
+    <w>bullernormer</w>
+    <w>och</w>
+    <w>hyresreglering</w>
+  </absaspan>
+  <absaspan id=53 senti=2>
+    <w>slaktas</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9 senti=3>
+  <absaspan id=54>
+    <w>Paul</w>
+    <w>Lindquist</w>
+  </absaspan>
+  <w>(</w>
+  <w>M</w>
+  <w>)</w>
+  <w>,</w>
+  <w>fastighetslandstingsråd</w>
+  <w>,</w>
+  <w>Stockholms</w>
+  <w>läns</w>
+  <w>landsting</w>
+  <w>och</w>
+  <w>kommunstyrelsens</w>
+  <w>ordförande</w>
+  <w>i</w>
+  <w>Lidingö</w>
+  <w>2003</w>
+  <w>-</w>
+  <w>14</w>
+  <w>.</w>
+</absapar>
+<absapar id=10 senti=3>
+  <w>Häng</w>
+  <w>med</w>
+  <w>i</w>
+  <w>debatten</w>
+  <w>–</w>
+  <w>följ</w>
+  <w>Debatt</w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>.</w>
+</absapar>
+</absadoc>

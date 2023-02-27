@@ -1,0 +1,256 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Blir</w>
+  <w>Norrland</w>
+  <w>Juhas</w>
+  <w>flyktväg</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>Han</w>
+    <w>är</w>
+    <w>på</w>
+    <w>rymmen</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Juha</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>Valjakkala</w>
+  </absaspan>
+  <w>.</w>
+  <w>Med</w>
+  <w>tre</w>
+  <absaspan id=4 senti=1>
+    <w>bestialiska</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>mord</w>
+  </absaspan>
+  <w>på</w>
+  <w>sin</w>
+  <w>meritlista</w>
+  <w>är</w>
+  <w>det</w>
+  <absaspan id=6>
+    <w>många</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>blir</w>
+    <w>oroliga</w>
+  </absaspan>
+  <w>.</w>
+  <w>Åmselemorden</w>
+  <w>visade</w>
+  <w>oss</w>
+  <w>vad</w>
+  <w>ondska</w>
+  <w>kan</w>
+  <w>åstadkomma</w>
+  <w>.</w>
+  <w>Den</w>
+  <w>finska</w>
+  <w>polisen</w>
+  <w>tror</w>
+  <w>att</w>
+  <w>han</w>
+  <w>söker</w>
+  <w>sig</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>eftersom</w>
+  <w>han</w>
+  <w>gjort</w>
+  <w>det</w>
+  <w>vid</w>
+  <w>tidigare</w>
+  <w>rymningar</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=9>
+    <w>Han</w>
+  </absaspan>
+  <w>verkar</w>
+  <w>onekligen</w>
+  <absaspan id=10 senti=5>
+    <w>ha</w>
+    <w>en</w>
+    <w>förkärlek</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>den</w>
+    <w>norrländska</w>
+    <w>glesbygden</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>det</w>
+  <w>var</w>
+  <w>inte</w>
+  <w>så</w>
+  <w>värst</w>
+  <w>många</w>
+  <w>år</w>
+  <w>sedan</w>
+  <w>han</w>
+  <w>rymde</w>
+  <w>sist</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=12>
+    <w>Då</w>
+    <w>greps</w>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>lugnt</w>
+    <w>och</w>
+    <w>sansat</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>i</w>
+    <w>byn</w>
+    <w>Långträsk</w>
+    <w>i</w>
+    <w>Norrbotten</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>en</w>
+  <w>by</w>
+  <w>där</w>
+  <w>det</w>
+  <w>just</w>
+  <w>aldrig</w>
+  <w>är</w>
+  <w>några</w>
+  <w>poliser</w>
+  <w>.</w>
+  <w>Överhuvudtaget</w>
+  <w>är</w>
+  <w>det</w>
+  <w>långt</w>
+  <w>mellan</w>
+  <w>poliserna</w>
+  <w>i</w>
+  <w>Norrbotten</w>
+  <w>.</w>
+  <absaspan id=15>
+    <w>Där</w>
+    <w>brukar</w>
+    <w>bankrånare</w>
+  </absaspan>
+  <absaspan id=16 senti=4 irony>
+    <w>till</w>
+    <w>och</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>cykla</w>
+    <w>från</w>
+    <w>brottsplatsen</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>just</w>
+  <w>den</w>
+  <w>här</w>
+  <w>dagen</w>
+  <w>då</w>
+  <w>Juha</w>
+  <w>Valjakkala</w>
+  <w>kom</w>
+  <w>farande</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>flyktbil</w>
+  <w>hade</w>
+  <w>poliserna</w>
+  <w>övning</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Det</w>
+  <w>vimlade</w>
+  <w>av</w>
+  <w>poliser</w>
+  <w>i</w>
+  <w>Långträsk</w>
+  <w>och</w>
+  <w>då</w>
+  <absaspan id=18 senti=4 irony>
+    <w>skrattade</w>
+  </absaspan>
+  <w>vi</w>
+  <absaspan id=19 senti=4 irony>
+    <w>gott</w>
+  </absaspan>
+  <absaspan id=20 senti=4 irony>
+    <w>åt</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>att</w>
+    <w>det</w>
+    <w>var</w>
+    <w>sjöpolisen</w>
+    <w>som</w>
+    <w>grep</w>
+    <w>honom</w>
+    <w>i</w>
+    <w>de</w>
+    <w>norrländska</w>
+    <w>skogarna</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Ibland</w>
+  <w>har</w>
+  <w>polisen</w>
+  <w>tur</w>
+  <w>och</w>
+  <w>brottslingarna</w>
+  <w>otur</w>
+  <w>.</w>
+  <w>Frågan</w>
+  <w>är</w>
+  <w>om</w>
+  <w>Juha</w>
+  <w>Valjakkala</w>
+  <w>väljer</w>
+  <w>Norrlands</w>
+  <w>inland</w>
+  <w>som</w>
+  <w>flyktväg</w>
+  <w>igen</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>få</w>
+  <w>ställen</w>
+  <w>som</w>
+  <absaspan id=22 senti=2>
+    <w>utbölingar</w>
+  </absaspan>
+  <w>blir</w>
+  <w>så</w>
+  <w>synliggjorda</w>
+  <w>som</w>
+  <w>just</w>
+  <w>där</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

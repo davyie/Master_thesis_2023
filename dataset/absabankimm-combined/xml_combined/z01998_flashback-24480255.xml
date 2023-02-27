@@ -1,0 +1,66 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Grekland</w>
+    <w>asylpolitik</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1 source=3>
+    <w>kritiseras</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=2>
+  <absaspan id=4>
+    <w>Grekerna</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>kan</w>
+    <w>!</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <absaspan id=6 senti=4>
+    <w>Tänk</w>
+    <w>om</w>
+    <w>vi</w>
+    <w>kunde</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>slå</w>
+    <w>ner</w>
+    <w>näven</w>
+    <w>och</w>
+    <w>göra</w>
+    <w>vårat</w>
+    <w>mångkulturella</w>
+    <w>land</w>
+    <w>mindre</w>
+    <w>attraktivt</w>
+    <w>på</w>
+    <w>samma</w>
+    <w>sätt</w>
+    <w>!</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Hur</w>
+  <w>skulle</w>
+  <w>svensk</w>
+  <w>invandrar</w>
+  <w>politik</w>
+  <w>kunna</w>
+  <w>formas</w>
+  <w>om</w>
+  <w>att</w>
+  <w>bli</w>
+  <w>mer</w>
+  <w>som</w>
+  <w>grekisk</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

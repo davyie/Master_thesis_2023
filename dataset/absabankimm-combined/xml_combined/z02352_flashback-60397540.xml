@@ -1,0 +1,64 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Hur</w>
+  <w>är</w>
+  <w>egentligen</w>
+  <absaspan id=1>
+    <w>tongångarna</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>i</w>
+    <w>Sveriges</w>
+    <w>förorter</w>
+    <w>efter</w>
+    <w>terrorattentatet</w>
+    <w>i</w>
+    <w>Stockholm</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Är</w>
+  <w>det</w>
+  <w>någon</w>
+  <w>som</w>
+  <w>kan</w>
+  <w>bidra</w>
+  <w>med</w>
+  <w>insiderinformation</w>
+  <w>på</w>
+  <w>hur</w>
+  <w>det</w>
+  <w>ser</w>
+  <w>ut</w>
+  <w>ute</w>
+  <w>i</w>
+  <w>våra</w>
+  <w>förorter</w>
+  <w>efter</w>
+  <w>gårdagens</w>
+  <w>attentat</w>
+  <w>?</w>
+  <absaspan id=3 senti=4>
+    <w>Är</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>fest</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=6 senti=2>
+    <w>sorg</w>
+  </absaspan>
+  <w>eller</w>
+  <absaspan id=7 senti=3>
+    <w>likgiltighet</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

@@ -1,0 +1,136 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>2015</w>
+  <w>-</w>
+  <w>06</w>
+  <w>-</w>
+  <w>05</w>
+  <w>,</w>
+  <w>SKÖVDE</w>
+  <w>:</w>
+  <w>Kille</w>
+  <w>anföll</w>
+  <w>med</w>
+  <w>svärd</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Studentfest</w>
+  <w>i</w>
+  <w>Lillegården</w>
+  <w>,</w>
+  <w>Skövde</w>
+  <w>där</w>
+  <w>ett</w>
+  <w>bråk</w>
+  <w>uppstod</w>
+  <w>.</w>
+  <absaspan id=1>
+    <w>En</w>
+    <w>kille</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>hotade</w>
+    <w>folk</w>
+  </absaspan>
+  <w>på</w>
+  <w>festen</w>
+  <w>med</w>
+  <w>svärd</w>
+  <w>.</w>
+  <w>Nån</w>
+  <w>som</w>
+  <w>vet</w>
+  <w>mer</w>
+  <w>om</w>
+  <w>bakgrunden</w>
+  <w>/</w>
+  <w>vad</w>
+  <w>som</w>
+  <w>hände</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Polisen</w>
+  <w>säger</w>
+  <w>såhär</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>"</w>
+  <w>Polis</w>
+  <w>larmas</w>
+  <w>till</w>
+  <w>Havstena</w>
+  <w>med</w>
+  <w>anledninga</w>
+  <w>av</w>
+  <w>att</w>
+  <w>flera</w>
+  <w>personer</w>
+  <w>uppges</w>
+  <w>bråka</w>
+  <w>med</w>
+  <w>tillhyggen</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>För</w>
+  <w>närvarande</w>
+  <w>är</w>
+  <w>omständigheterna</w>
+  <w>oklara</w>
+  <w>.</w>
+  <w>Ett</w>
+  <w>20</w>
+  <w>-</w>
+  <w>tal</w>
+  <w>personer</w>
+  <w>har</w>
+  <w>befunnit</w>
+  <w>sig</w>
+  <w>på</w>
+  <w>platsen</w>
+  <w>och</w>
+  <absaspan id=3>
+    <w>en</w>
+    <w>man</w>
+  </absaspan>
+  <w>grips</w>
+  <absaspan id=4 senti=2>
+    <w>misstänks</w>
+    <w>för</w>
+    <w>olaga</w>
+    <w>hot</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>.</w>
+  </absaspan>
+  <w>Inga</w>
+  <w>uppgifter</w>
+  <w>om</w>
+  <w>personskador</w>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>.</w>
+  <w>(</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+</absadoc>

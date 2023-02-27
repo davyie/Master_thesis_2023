@@ -1,0 +1,81 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Thaimassage</w>
+  <w>,</w>
+  <w>38</w>
+  <w>-</w>
+  <w>årig</w>
+  <w>kvinna</w>
+  <w>häktad</w>
+  <w>i</w>
+  <w>Stockholm</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>Polisen</w>
+    <w>som</w>
+  </absaspan>
+  <w>sedan</w>
+  <w>tidigare</w>
+  <absaspan id=2 senti=2>
+    <w>misstänkt</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>att</w>
+    <w>ca</w>
+    <w>40</w>
+    <w>av</w>
+    <w>300</w>
+    <w>thaimassageställen</w>
+    <w>(</w>
+    <w>i</w>
+    <w>Stockholm</w>
+    <w>)</w>
+    <w>erbjuder</w>
+    <w>sexuella</w>
+    <w>tjänster</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>En</w>
+  <w>38</w>
+  <w>-</w>
+  <w>årig</w>
+  <w>kvinna</w>
+  <w>som</w>
+  <w>häktats</w>
+  <w>för</w>
+  <w>grovt</w>
+  <w>koppleri</w>
+  <w>nekar</w>
+  <w>till</w>
+  <w>anklagelserna</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Vid</w>
+  <w>tillslaget</w>
+  <w>fanns</w>
+  <absaspan id=4>
+    <w>flera</w>
+    <w>kunder</w>
+    <w>som</w>
+  </absaspan>
+  <w>nu</w>
+  <absaspan id=5 senti=2>
+    <w>riskerar</w>
+    <w>att</w>
+    <w>dömas</w>
+    <w>för</w>
+    <w>köp</w>
+    <w>av</w>
+    <w>sexuella</w>
+    <w>tjänster</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

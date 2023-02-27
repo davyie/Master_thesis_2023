@@ -1,0 +1,196 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Varför</w>
+  <w>sjunker</w>
+  <w>resultaten</w>
+  <w>i</w>
+  <w>skolan</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>det</w>
+  <w>satsar</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>aldrig</w>
+  <w>förr</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Saxat</w>
+  <w>från</w>
+  <w>Lena</w>
+  <w>Mellin</w>
+  <w>debattartikels</w>
+  <w>i</w>
+  <w>AB</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Finns</w>
+  <w>det</w>
+  <w>någon</w>
+  <w>förklaring</w>
+  <w>till</w>
+  <w>varför</w>
+  <w>resultaten</w>
+  <w>sjunker</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>det</w>
+  <w>satsas</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>någonsin</w>
+  <w>på</w>
+  <w>skolan</w>
+  <w>?</w>
+  <w>Allt</w>
+  <w>det</w>
+  <w>här</w>
+  <absaspan id=1>
+    <w>snacket</w>
+    <w>om</w>
+    <w>att</w>
+    <w>det</w>
+    <w>saknas</w>
+    <w>resurser</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>verkar</w>
+    <w>ju</w>
+    <w>vara</w>
+    <w>simpelt</w>
+    <w>skitsnack</w>
+  </absaspan>
+  <w>.</w>
+  <w>Är</w>
+  <w>det</w>
+  <w>så</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>lärarna</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=4 senti=2>
+    <w>numera</w>
+    <w>består</w>
+    <w>av</w>
+    <w>Sveriges</w>
+    <w>dummaste</w>
+    <w>människor</w>
+  </absaspan>
+  <w>,</w>
+  <w>helt</w>
+  <w>enkelt</w>
+  <w>inte</w>
+  <w>håller</w>
+  <w>måttet</w>
+  <w>?</w>
+  <w>Det</w>
+  <w>säger</w>
+  <w>ju</w>
+  <w>sig</w>
+  <w>självt</w>
+  <w>om</w>
+  <w>vem</w>
+  <w>som</w>
+  <w>helst</w>
+  <w>kan</w>
+  <w>komma</w>
+  <w>in</w>
+  <w>på</w>
+  <w>utbildningen</w>
+  <w>.</w>
+  <absaspan id=5 senti=2>
+    <w>Hur</w>
+    <w>har</w>
+    <w>de</w>
+    <w>mage</w>
+    <w>att</w>
+    <w>kräva</w>
+    <w>mer</w>
+    <w>i</w>
+    <w>lön</w>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Men</w>
+  <w>det</w>
+  <absaspan id=6 senti=2>
+    <w>är</w>
+    <w>inte</w>
+    <w>politiskt</w>
+    <w>korrekt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=7>
+    <w>skylla</w>
+    <w>på</w>
+    <w>lärarna</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=8 senti=2>
+    <w>är</w>
+    <w>heller</w>
+    <w>inte</w>
+    <w>politiskt</w>
+    <w>korrekt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=9>
+    <w>skylla</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>kommunerna</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=11 senti=2>
+    <w>oftast</w>
+    <w>käkar</w>
+    <w>statsbidragen</w>
+  </absaspan>
+  <w>som</w>
+  <w>är</w>
+  <w>menade</w>
+  <w>att</w>
+  <w>gå</w>
+  <w>till</w>
+  <w>skolan</w>
+  <w>och</w>
+  <w>lägger</w>
+  <w>det</w>
+  <w>på</w>
+  <w>något</w>
+  <w>annat</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>När</w>
+  <w>ska</w>
+  <w>den</w>
+  <absaspan id=12 senti=1>
+    <w>inkompetenta</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>lärarkåren</w>
+  </absaspan>
+  <w>och</w>
+  <w>de</w>
+  <absaspan id=14 senti=1>
+    <w>inkompetenta</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>kommunpolitikerna</w>
+  </absaspan>
+  <w>ställas</w>
+  <w>till</w>
+  <w>svars</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

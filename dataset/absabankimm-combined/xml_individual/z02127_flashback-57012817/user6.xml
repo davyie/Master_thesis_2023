@@ -1,0 +1,253 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Var</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>ska</w>
+  <w>man</w>
+  <w>turista</w>
+  <w>om</w>
+  <w>man</w>
+  <absaspan id=1 senti=2>
+    <w>vill</w>
+    <w>slippa</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>invandare</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Alla</w>
+  <w>vill</w>
+  <w>inte</w>
+  <w>åka</w>
+  <w>utomlands</w>
+  <w>på</w>
+  <w>semester</w>
+  <w>vi</w>
+  <w>har</w>
+  <w>ett</w>
+  <absaspan id=3 senti=4>
+    <w>vackert</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>land</w>
+  </absaspan>
+  <w>med</w>
+  <w>lagom</w>
+  <w>sol</w>
+  <w>och</w>
+  <w>värme</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>som</w>
+  <w>rubriken</w>
+  <w>lyder</w>
+  <w>var</w>
+  <w>ska</w>
+  <w>man</w>
+  <w>ta</w>
+  <w>vägen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Campingarna</w>
+  <w>städas</w>
+  <w>kanske</w>
+  <w>efter</w>
+  <absaspan id=5>
+    <w>vinterns</w>
+    <w>invasion</w>
+  </absaspan>
+  <w>men</w>
+  <w>många</w>
+  <w>campingstugor</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>fortsatt</w>
+  <absaspan id=6 senti=2>
+    <w>vara</w>
+    <w>belägrade</w>
+  </absaspan>
+  <w>.</w>
+  <w>För</w>
+  <w>att</w>
+  <w>inte</w>
+  <w>tala</w>
+  <w>om</w>
+  <w>hotellen</w>
+  <w>,</w>
+  <w>har</w>
+  <w>löss</w>
+  <w>och</w>
+  <w>kackerlackor</w>
+  <w>städats</w>
+  <w>ut</w>
+  <w>.</w>
+  <w>Kan</w>
+  <w>man</w>
+  <w>lite</w>
+  <w>på</w>
+  <w>det</w>
+  <w>så</w>
+  <w>man</w>
+  <absaspan id=7 senti=2>
+    <w>slipper</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>få</w>
+    <w>med</w>
+    <w>sig</w>
+    <w>hem</w>
+    <w>ohyran</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=9>
+    <w>Geografisk</w>
+    <w>känns</w>
+    <w>det</w>
+    <w>som</w>
+    <w>att</w>
+    <w>det</w>
+    <w>finns</w>
+    <w>förläggningar</w>
+    <w>precis</w>
+    <w>överallt</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=10 senti=2>
+    <w>ingen</w>
+  </absaspan>
+  <w>region</w>
+  <absaspan id=11 senti=2>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>skonad</w>
+  </absaspan>
+  <w>.</w>
+  <w>Tycker</w>
+  <w>mig</w>
+  <w>se</w>
+  <w>att</w>
+  <w>Huvudstadssemester</w>
+  <w>skulle</w>
+  <w>funka</w>
+  <w>ganska</w>
+  <w>bara</w>
+  <w>i</w>
+  <w>år</w>
+  <w>,</w>
+  <w>Stockholm</w>
+  <w>kanske</w>
+  <w>Göteborg</w>
+  <w>.</w>
+  <w>Invandrare</w>
+  <w>finns</w>
+  <w>men</w>
+  <w>de</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>nyanlända</w>
+  <w>och</w>
+  <w>hotellen</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>uthyrda</w>
+  <w>till</w>
+  <w>flyktingindustrin</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=1>
+  <w>Gotland</w>
+  <w>verkar</w>
+  <w>kört</w>
+  <w>det</w>
+  <w>får</w>
+  <w>bli</w>
+  <w>Åland</w>
+  <w>,</w>
+  <w>i</w>
+  <w>övrigt</w>
+  <w>är</w>
+  <w>landsbygden</w>
+  <w>överfull</w>
+  <absaspan id=13 senti=2>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=14 senti=4>
+    <w>Kan</w>
+    <w>tänka</w>
+    <w>mig</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>en</w>
+    <w>vildmarks</w>
+    <w>semester</w>
+    <w>i</w>
+    <w>år</w>
+  </absaspan>
+  <w>.</w>
+  <w>Under</w>
+  <w>en</w>
+  <w>paddeltur</w>
+  <w>längs</w>
+  <w>Klarälven</w>
+  <w>borde</w>
+  <w>man</w>
+  <absaspan id=16 senti=2>
+    <w>slippa</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>dem</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=18>
+    <w>Fjällvandring</w>
+    <w>med</w>
+    <w>eget</w>
+    <w>tält</w>
+  </absaspan>
+  <w>måste</w>
+  <w>garanterat</w>
+  <w>vara</w>
+  <absaspan id=19 senti=4>
+    <w>invandringsfritt</w>
+  </absaspan>
+  <w>man</w>
+  <w>får</w>
+  <absaspan id=20 senti=2>
+    <w>stå</w>
+    <w>ut</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>myggen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Tanken</w>
+  <w>med</w>
+  <w>tråden</w>
+  <w>är</w>
+  <w>att</w>
+  <w>ge</w>
+  <w>tipps</w>
+  <w>om</w>
+  <w>vart</w>
+  <w>man</w>
+  <w>ska</w>
+  <w>åka</w>
+  <w>och</w>
+  <w>vad</w>
+  <w>man</w>
+  <w>ska</w>
+  <w>undvika</w>
+  <w>.</w>
+</absapar>
+</absadoc>

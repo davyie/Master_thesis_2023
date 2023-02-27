@@ -1,0 +1,363 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Sveriges</w>
+  <w>integrationsminister</w>
+  <w>utser</w>
+  <w>Tobias</w>
+  <w>Hübinette</w>
+  <w>till</w>
+  <w>kartläggare</w>
+  <w>av</w>
+  <w>Afrofobi</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=1>
+    <w>Erik</w>
+    <w>Ullenhag</w>
+  </absaspan>
+  <w>anser</w>
+  <w>att</w>
+  <absaspan id=2>
+    <w>Tobias</w>
+    <w>Hübinette</w>
+  </absaspan>
+  <absaspan id=3 senti=4>
+    <w>är</w>
+    <w>en</w>
+    <w>av</w>
+    <w>de</w>
+    <w>som</w>
+    <w>är</w>
+    <w>bäst</w>
+    <w>lämpade</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>för</w>
+    <w>att</w>
+    <w>utreda</w>
+    <w>afrofobi</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Själv</w>
+  <w>tycker</w>
+  <absaspan id=5>
+    <w>jag</w>
+  </absaspan>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=6 senti=1>
+    <w>är</w>
+    <w>djupt</w>
+    <w>tragiskt</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>Folkpartiet</w>
+  </absaspan>
+  <absaspan id=9 senti=1>
+    <w>visar</w>
+    <w>så</w>
+    <w>oerhört</w>
+    <w>dåligt</w>
+    <w>omdöme</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>en</w>
+  <w>tid</w>
+  <w>då</w>
+  <w>vi</w>
+  <w>verkligen</w>
+  <w>behöver</w>
+  <absaspan id=10 senti=4>
+    <w>försonas</w>
+    <w>och</w>
+    <w>lära</w>
+    <w>oss</w>
+    <w>att</w>
+    <w>samarbeta</w>
+  </absaspan>
+  <w>på</w>
+  <absaspan id=11>
+    <w>ett</w>
+    <w>sätt</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=12 senti=3>
+    <w>känns</w>
+    <w>ok</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=13>
+    <w>de</w>
+    <w>allra</w>
+    <w>flesta</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=14 senti=2>
+    <w>anlitar</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>FP</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>man</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>inte</w>
+    <w>drar</w>
+    <w>sig</w>
+    <w>för</w>
+    <w>att</w>
+    <w>uttrycka</w>
+    <w>sig</w>
+    <w>tokrasistiskt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Mer</w>
+  <w>motsättningar</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>Samtidigt</w>
+  <w>som</w>
+  <absaspan id=20>
+    <w>Expressen</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>hänger</w>
+    <w>ut</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>anonyma</w>
+    <w>småpotatisar</w>
+  </absaspan>
+  <w>väljer</w>
+  <w>regeringen</w>
+  <w>att</w>
+  <w>samarbeta</w>
+  <w>med</w>
+  <absaspan id=23>
+    <w>någon</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=24 senti=1>
+    <w>utrycker</w>
+    <w>sig</w>
+    <w>långt</w>
+    <w>värre</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>än</w>
+    <w>många</w>
+    <w>av</w>
+    <w>dem</w>
+    <w>som</w>
+    <w>hängts</w>
+    <w>ut</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=26 senti=2>
+    <w>Alla</w>
+    <w>förlorar</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>detta</w>
+  </absaspan>
+  <w>,</w>
+  <w>förutom</w>
+  <absaspan id=28>
+    <w>de</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=29 senti=2>
+    <w>vill</w>
+    <w>att</w>
+    <w>motsättningarna</w>
+    <w>ska</w>
+    <w>öka</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=30>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=31 senti=1>
+    <w>vill</w>
+    <w>absolut</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>att</w>
+    <w>denna</w>
+    <w>tråd</w>
+    <w>ska</w>
+    <w>bidra</w>
+    <w>till</w>
+    <w>att</w>
+    <w>folk</w>
+    <w>blir</w>
+    <w>ännu</w>
+    <w>mer</w>
+    <w>aggresiva</w>
+  </absaspan>
+  <w>,</w>
+  <w>utan</w>
+  <w>till</w>
+  <w>att</w>
+  <w>Ullenhag</w>
+  <w>faktiskt</w>
+  <w>tar</w>
+  <w>tillbaka</w>
+  <w>sitt</w>
+  <w>beslut</w>
+  <w>.</w>
+  <absaspan id=33 senti=2>
+    <w>Suck</w>
+  </absaspan>
+  <w>,</w>
+  <w>jag</w>
+  <w>vet</w>
+  <w>precis</w>
+  <w>hur</w>
+  <w>det</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>låta</w>
+  <w>i</w>
+  <w>denna</w>
+  <w>tråd</w>
+  <w>men</w>
+  <absaspan id=34 senti=4>
+    <w>hoppas</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=35 senti=4>
+    <w>att</w>
+    <w>den</w>
+    <w>även</w>
+    <w>ger</w>
+    <w>något</w>
+    <w>konstruktivt</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=36>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=37 senti=2>
+    <w>blir</w>
+    <w>så</w>
+    <w>trött</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=38 senti=2>
+    <w>alla</w>
+    <w>dessa</w>
+    <w>dåliga</w>
+    <w>beslut</w>
+  </absaspan>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Här</w>
+  <w>kan</w>
+  <w>vi</w>
+  <w>diskutera</w>
+  <w>vad</w>
+  <w>vi</w>
+  <w>anser</w>
+  <w>om</w>
+  <w>utnämningen</w>
+  <w>,</w>
+  <w>vad</w>
+  <w>det</w>
+  <w>kan</w>
+  <w>få</w>
+  <w>för</w>
+  <w>konsekvenser</w>
+  <w>,</w>
+  <w>hur</w>
+  <w>beslutet</w>
+  <w>ska</w>
+  <w>tas</w>
+  <w>tillbaka</w>
+  <w>,</w>
+  <w>osv</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Edit</w>
+  <w>:</w>
+  <w>Jag</w>
+  <w>anser</w>
+  <w>att</w>
+  <absaspan id=39>
+    <w>Erik</w>
+    <w>Ullenhag</w>
+  </absaspan>
+  <absaspan id=40 senti=2>
+    <w>bör</w>
+    <w>avgå</w>
+    <w>pga</w>
+    <w>detta</w>
+    <w>snedsteg</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=41>
+    <w>Om</w>
+    <w>inte</w>
+    <w>de</w>
+    <w>stora</w>
+    <w>medierna</w>
+    <w>kräver</w>
+    <w>detsamma</w>
+  </absaspan>
+  <absaspan id=42 senti=1>
+    <w>är</w>
+    <w>det</w>
+    <w>stor</w>
+    <w>skandal</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Edit</w>
+  <w>2</w>
+  <w>:</w>
+  <absaspan id=43 senti=2>
+    <w>Ber</w>
+    <w>om</w>
+    <w>utsäkt</w>
+  </absaspan>
+  <absaspan id=44>
+    <w>om</w>
+    <w>tråd</w>
+    <w>redan</w>
+    <w>finns</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=45>
+    <w>Sökte</w>
+  </absaspan>
+  <w>möjligtvis</w>
+  <absaspan id=46 senti=2>
+    <w>lite</w>
+    <w>i</w>
+    <w>underkant</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

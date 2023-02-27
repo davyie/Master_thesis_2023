@@ -1,0 +1,101 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Europarådet</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=2>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=3 senti=4 source=1 target=2>
+    <w>måste</w>
+    <w>ta</w>
+    <w>emot</w>
+    <w>fler</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>och</w>
+  <w>ge</w>
+  <w>dem</w>
+  <absaspan id=4 senti=4>
+    <w>bättre</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>villkor</w>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <absaspan id=6 senti=2>
+    <w>är</w>
+    <w>som</w>
+    <w>att</w>
+    <w>sparka</w>
+    <w>på</w>
+    <w>någon</w>
+    <w>som</w>
+    <w>redan</w>
+    <w>ligger</w>
+    <w>nere</w>
+  </absaspan>
+  <w>.</w>
+  <w>Sverige</w>
+  <w>har</w>
+  <w>tagit</w>
+  <w>emot</w>
+  <w>mest</w>
+  <w>i</w>
+  <w>väst</w>
+  <w>och</w>
+  <w>istället</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=7 senti=2>
+    <w>kritisera</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>andra</w>
+    <w>västländer</w>
+    <w>som</w>
+    <w>ex</w>
+    <w>varenda</w>
+    <w>skandinaviska</w>
+    <w>land</w>
+  </absaspan>
+  <w>förutom</w>
+  <w>Sverige</w>
+  <w>tagit</w>
+  <w>emot</w>
+  <w>betydligt</w>
+  <w>mindre</w>
+  <w>och</w>
+  <w>ge</w>
+  <absaspan id=9>
+    <w>Sverige</w>
+  </absaspan>
+  <w>chans</w>
+  <w>att</w>
+  <w>återhämta</w>
+  <w>sig</w>
+  <absaspan id=10 senti=2>
+    <w>så</w>
+    <w>vill</w>
+    <w>man</w>
+    <w>ge</w>
+    <w>dödsstöten</w>
+  </absaspan>
+  <w>.</w>
+  <w>Varför</w>
+  <w>gör</w>
+  <absaspan id=11>
+    <w>Europarådet</w>
+  </absaspan>
+  <w>på</w>
+  <w>det</w>
+  <w>här</w>
+  <w>viset</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

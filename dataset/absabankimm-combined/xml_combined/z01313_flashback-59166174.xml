@@ -1,0 +1,142 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Historieätarna</w>
+  </absaspan>
+  <w>,</w>
+  <w>SVT</w>
+  <absaspan id=2 senti=2 target=1>
+    <w>anklagas</w>
+    <w>för</w>
+    <w>antiziganism</w>
+  </absaspan>
+  <w>,</w>
+  <w>vad</w>
+  <w>står</w>
+  <w>på</w>
+  <absaspan id=3>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Senaste</w>
+  <w>avsnittet</w>
+  <w>av</w>
+  <w>SVT-programmet</w>
+  <w></w>
+  <w>Historieätarna</w>
+  <w></w>
+  <w>utspelar</w>
+  <w>sig</w>
+  <w>på</w>
+  <w>1600</w>
+  <w>-</w>
+  <w>talet</w>
+  <w>.</w>
+  <w>I</w>
+  <w>det</w>
+  <w>ska</w>
+  <w>programledarna</w>
+  <w>Erik</w>
+  <w>Haag</w>
+  <w>och</w>
+  <w>Lotta</w>
+  <w>Lundgren</w>
+  <w>föreställa</w>
+  <w></w>
+  <absaspan id=4 senti=1>
+    <w>tattare</w>
+  </absaspan>
+  <w></w>
+  <w>:</w>
+  <w>vilka</w>
+  <w>,</w>
+  <w>enligt</w>
+  <w>medverkande</w>
+  <w>historikern</w>
+  <w>Annika</w>
+  <w>Sandén</w>
+  <w>,</w>
+  <w>var</w>
+  <w></w>
+  <w>ett</w>
+  <w>samlingsnamn</w>
+  <w>på</w>
+  <w>de</w>
+  <w>människor</w>
+  <w>som</w>
+  <w>levde</w>
+  <w>litegrann</w>
+  <w>utanför</w>
+  <w>bondebefolkningen</w>
+  <w>,</w>
+  <w>och</w>
+  <w>urskiljde</w>
+  <w>sig</w>
+  <w>genom</w>
+  <w>sitt</w>
+  <w>sätt</w>
+  <w>att</w>
+  <w>försörja</w>
+  <w>sig</w>
+  <w>och</w>
+  <w>att</w>
+  <w>sätt</w>
+  <w>att</w>
+  <w>leva</w>
+  <w></w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>händer</w>
+  <w>på</w>
+  <absaspan id=5>
+    <w>SVT</w>
+  </absaspan>
+  <w>egentligen</w>
+  <absaspan id=6 senti=2>
+    <w>?</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>olycksfall</w>
+    <w>i</w>
+    <w>PK</w>
+    <w>och</w>
+    <w>normkritikarbetet</w>
+  </absaspan>
+  <w>eller</w>
+  <w>tidig</w>
+  <absaspan id=8 senti=2>
+    <w>anpassning</w>
+    <w>till</w>
+    <w>USA</w>
+    <w>modell</w>
+    <w>Trump</w>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=9 senti=2>
+    <w>Inte</w>
+    <w>ens</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>kallar</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>väl</w>
+    <w>romer</w>
+    <w>för</w>
+    <w>tattare</w>
+  </absaspan>
+  <w>,</w>
+  <w>eller</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

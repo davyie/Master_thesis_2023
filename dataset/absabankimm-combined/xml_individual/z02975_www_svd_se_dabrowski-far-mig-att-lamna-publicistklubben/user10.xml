@@ -1,0 +1,968 @@
+<absadoc annotators=1 senti=4>
+<absatitle>
+  <w>Dabrowski</w>
+  <w>får</w>
+  <w>mig</w>
+  <w>att</w>
+  <w>lämna</w>
+  <w>publicistklubben</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Nu</w>
+  <w>har</w>
+  <w>jag</w>
+  <w>bestämt</w>
+  <w>mig</w>
+  <w>;</w>
+  <w>jag</w>
+  <w>avslutar</w>
+  <w>mitt</w>
+  <w>medlemskap</w>
+  <w>i</w>
+  <absaspan id=1>
+    <w>Publicistklubben</w>
+  </absaspan>
+  <w>.</w>
+  <w>Beslutet</w>
+  <w>har</w>
+  <w>vuxit</w>
+  <w>fram</w>
+  <w>gradvis</w>
+  <w>i</w>
+  <w>takt</w>
+  <w>med</w>
+  <w>att</w>
+  <absaspan id=2>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>har</w>
+    <w>blivit</w>
+    <w>allt</w>
+    <w>mer</w>
+    <w>missnöjd</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>hur</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>PK</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>hanterar</w>
+    <w>sitt</w>
+    <w>uppdrag</w>
+  </absaspan>
+  <w>,</w>
+  <w>det</w>
+  <w>vill</w>
+  <w>säga</w>
+  <w>"</w>
+  <w>att</w>
+  <absaspan id=7 senti=5>
+    <w>slå</w>
+    <w>vakt</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>tryck</w>
+    <w>-</w>
+    <w>och</w>
+    <w>yttrandefriheten</w>
+  </absaspan>
+  <w>och</w>
+  <w>att</w>
+  <absaspan id=9 senti=4>
+    <w>främja</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>debatt</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>skriver</w>
+  <w>Martin</w>
+  <w>Halldin</w>
+  <w>,</w>
+  <w>redaktör</w>
+  <w>på</w>
+  <w>tidningen</w>
+  <w>ETC</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=11 senti=2>
+    <w>Du</w>
+    <w>hjälper</w>
+    <w>inte</w>
+    <w>det</w>
+    <w>fria</w>
+    <w>ordet</w>
+    <w>genom</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>att</w>
+    <w>bjuda</w>
+    <w>in</w>
+    <w>personer</w>
+    <w>som</w>
+    <w>skrämmer</w>
+    <w>andra</w>
+    <w>till</w>
+    <w>tystnad.Martin</w>
+  </absaspan>
+  <w>Halldin</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Sedan</w>
+  <w>jag</w>
+  <w>blev</w>
+  <w>medlem</w>
+  <w>för</w>
+  <w>några</w>
+  <w>år</w>
+  <w>sedan</w>
+  <w>upplever</w>
+  <w>jag</w>
+  <w>att</w>
+  <w>Publicistklubben</w>
+  <w>(</w>
+  <w>PK</w>
+  <w>)</w>
+  <w>gradvis</w>
+  <w>har</w>
+  <w>flyttat</w>
+  <w>gränserna</w>
+  <w>för</w>
+  <w>det</w>
+  <w>så</w>
+  <w>kallade</w>
+  <w>offentliga</w>
+  <w>samtalet</w>
+  <w>i</w>
+  <w>de</w>
+  <w>debatter</w>
+  <w>de</w>
+  <w>arrangerar</w>
+  <w>.</w>
+  <absaspan id=13>
+    <w>När</w>
+    <w>de</w>
+    <w>bjöd</w>
+    <w>in</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>provokatören</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>Lars</w>
+    <w>Vilks</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=16 senti=1>
+    <w>frotterar</w>
+    <w>sig</w>
+    <w>med</w>
+  </absaspan>
+  <w>den</w>
+  <w>antimuslimska</w>
+  <w>organisationen</w>
+  <w>Sion</w>
+  <w>och</w>
+  <w>Ingrid</w>
+  <w>Carlqvist</w>
+  <w>,</w>
+  <w>redaktör</w>
+  <w>för</w>
+  <w>den</w>
+  <absaspan id=17 senti=1>
+    <w>påtagligt</w>
+    <w>islamofoba</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=18 senti=1>
+    <w>främlingsfientliga</w>
+  </absaspan>
+  <w>tidskriften</w>
+  <absaspan id=19>
+    <w>Dispatch</w>
+    <w>International</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=20 senti=2>
+    <w>blev</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=22 senti=2>
+    <w>riktigt</w>
+    <w>bekymrad</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=23 senti=1>
+    <w>När</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>PK</w>
+    <w>senare</w>
+    <w>lät</w>
+    <w>Mats</w>
+    <w>Dagerlind</w>
+    <w>,</w>
+    <w>redaktör</w>
+    <w>för</w>
+    <w>den</w>
+    <w>explicit</w>
+    <w>rasistiska</w>
+    <w>SD-stödda</w>
+    <w>sajten</w>
+    <w>Avpixlat</w>
+    <w>stå</w>
+    <w>i</w>
+    <w>en</w>
+    <w>panel</w>
+    <w>och</w>
+    <w>diskutera</w>
+    <w>näthat</w>
+  </absaspan>
+  <absaspan id=25 senti=1>
+    <w>blev</w>
+  </absaspan>
+  <absaspan id=26 senti=1>
+    <w>jag</w>
+    <w>rasande</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>jag</w>
+  <w>behöll</w>
+  <w>mitt</w>
+  <w>medlemskap</w>
+  <w>trots</w>
+  <w>det</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <absaspan id=27 senti=2>
+    <w>Droppen</w>
+    <w>kom</w>
+  </absaspan>
+  <w>i</w>
+  <w>söndags</w>
+  <w>,</w>
+  <absaspan id=28>
+    <w>när</w>
+    <w>PK-ordföranden</w>
+    <w>Stina</w>
+    <w>Dabrowski</w>
+    <w>deltog</w>
+    <w>i</w>
+    <w>en</w>
+    <w>debatt</w>
+    <w>med</w>
+    <w>politikern</w>
+    <w>Ali</w>
+    <w>Esbati</w>
+    <w>i</w>
+    <w>tv-programmet</w>
+    <w>Agenda</w>
+  </absaspan>
+  <w>.</w>
+  <w>Där</w>
+  <w>pratar</w>
+  <absaspan id=29>
+    <w>Dabrowski</w>
+  </absaspan>
+  <w>om</w>
+  <w>"</w>
+  <absaspan id=30 senti=1>
+    <w>en</w>
+    <w>konsesus-elit</w>
+    <w>som</w>
+    <w>misstänkliggör</w>
+  </absaspan>
+  <absaspan id=31 senti=1>
+    <w>personer</w>
+  </absaspan>
+  <absaspan id=32 senti=1>
+    <w>som</w>
+    <w>vågar</w>
+  </absaspan>
+  <absaspan id=33 senti=1>
+    <w>ha</w>
+    <w>kritiska</w>
+    <w>åsikter</w>
+  </absaspan>
+  <absaspan id=34 senti=2>
+    <w>"</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>feminism</w>
+    <w>och</w>
+    <w>invandring</w>
+  </absaspan>
+  <w>.</w>
+  <w>Enligt</w>
+  <absaspan id=36>
+    <w>Dabrowski</w>
+  </absaspan>
+  <w>blir</w>
+  <w>man</w>
+  <w>"</w>
+  <absaspan id=37 senti=2>
+    <w>anklagad</w>
+    <w>för</w>
+    <w>att</w>
+    <w>vara</w>
+    <w>rasist</w>
+  </absaspan>
+  <w>"</w>
+  <w>när</w>
+  <w>man</w>
+  <w>har</w>
+  <w>åsikter</w>
+  <w>i</w>
+  <w>dessa</w>
+  <w>frågor</w>
+  <absaspan id=38>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>Hon</w>
+  </absaspan>
+  <w>säger</w>
+  <w>också</w>
+  <w>att</w>
+  <absaspan id=40 senti=5>
+    <w>vi</w>
+    <w>ska</w>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=41 senti=5>
+    <w>njuta</w>
+  </absaspan>
+  <absaspan id=42 senti=5>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=43>
+    <w>yttrandefriheten</w>
+  </absaspan>
+  <absaspan id=44>
+    <w>och</w>
+    <w>diskutera</w>
+    <w>alla</w>
+    <w>frågor</w>
+    <w>"</w>
+    <w>och</w>
+    <w>gärna</w>
+    <w>ha</w>
+    <w>"</w>
+    <w>en</w>
+    <w>mustig</w>
+    <w>debatt</w>
+    <w>"</w>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=6 senti=3>
+  <absaspan id=45>
+    <w>Det</w>
+    <w>här</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=46 senti=3>
+    <w>anmärkningsvärda</w>
+    <w>påståenden</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>jag</w>
+  <w>kan</w>
+  <w>inte</w>
+  <w>bestämma</w>
+  <w>mig</w>
+  <w>för</w>
+  <w>om</w>
+  <absaspan id=47>
+    <w>Dabrowski</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=48 senti=2>
+    <w>okunnig</w>
+  </absaspan>
+  <w>eller</w>
+  <absaspan id=49 senti=1>
+    <w>oförskämd</w>
+  </absaspan>
+  <w>när</w>
+  <w>hon</w>
+  <w>påstår</w>
+  <w>att</w>
+  <w>"</w>
+  <w>ingen</w>
+  <w>tar</w>
+  <w>debatten</w>
+  <w>"</w>
+  <w>–</w>
+  <w>för</w>
+  <w>den</w>
+  <w>tas</w>
+  <w>hela</w>
+  <w>tiden</w>
+  <w>i</w>
+  <w>alla</w>
+  <w>möjliga</w>
+  <w>fora</w>
+  <w>och</w>
+  <w>former</w>
+  <w>.</w>
+  <w>Mest</w>
+  <w>högljudda</w>
+  <w>är</w>
+  <w>ofta</w>
+  <absaspan id=50>
+    <w>de</w>
+    <w>som</w>
+    <w>vill</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=51 senti=2>
+    <w>kritisera</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=52>
+    <w>invandring</w>
+    <w>och</w>
+    <w>feminism</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=53>
+    <w>att</w>
+    <w>påstå</w>
+    <w>att</w>
+    <w>de</w>
+    <w>inte</w>
+    <w>får</w>
+    <w>höras</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=54 senti=2>
+    <w>i</w>
+    <w>bästa</w>
+    <w>fall</w>
+    <w>ett</w>
+    <w>ignorant</w>
+    <w>påstående</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=55 senti=2>
+    <w>Hon</w>
+    <w>borde</w>
+    <w>veta</w>
+    <w>bättre</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7 senti=3>
+  <w>På</w>
+  <w>tal</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>skrev</w>
+  <w>debattören</w>
+  <w>och</w>
+  <w>aktivisten</w>
+  <absaspan id=56>
+    <w>Kawa</w>
+  </absaspan>
+  <absaspan id=57>
+    <w>Zolfagary</w>
+  </absaspan>
+  <w>på</w>
+  <w>Twitter</w>
+  <w>i</w>
+  <w>samband</w>
+  <w>med</w>
+  <w>debatten</w>
+  <w>i</w>
+  <w>Agenda</w>
+  <w>:</w>
+  <w>"</w>
+  <w>Sen</w>
+  <w>jag</w>
+  <w>satte</w>
+  <w>foten</w>
+  <w>i</w>
+  <w>detta</w>
+  <w>land</w>
+  <w>har</w>
+  <w>ni</w>
+  <w>diskuterat</w>
+  <w>om</w>
+  <absaspan id=58>
+    <w>jag</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=59 senti=3>
+    <w>värd</w>
+    <w>att</w>
+    <w>få</w>
+    <w>leva</w>
+    <w>eller</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=60>
+    <w>.</w>
+  </absaspan>
+  <w>Samtidigt</w>
+  <w>har</w>
+  <w>ni</w>
+  <w>sagt</w>
+  <w>att</w>
+  <w>man</w>
+  <w>inte</w>
+  <w>får</w>
+  <w>diskutera</w>
+  <w>.</w>
+  <w>"</w>
+  <w>Har</w>
+  <w>Dabrowski</w>
+  <w>missat</w>
+  <w>alla</w>
+  <w>vittnesmål</w>
+  <w>av</w>
+  <w>det</w>
+  <w>här</w>
+  <w>slaget</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=8 senti=4>
+  <w>Vidare</w>
+  <absaspan id=61 senti=5>
+    <w>går</w>
+    <w>det</w>
+    <w>faktiskt</w>
+    <w>alldeles</w>
+    <w>utmärkt</w>
+  </absaspan>
+  <absaspan id=62>
+    <w>att</w>
+    <w>diskutera</w>
+    <w>invandring</w>
+    <w>utan</w>
+    <w>att</w>
+    <w>bli</w>
+    <w>kallad</w>
+    <w>rasist</w>
+  </absaspan>
+  <w>–</w>
+  <w>såvida</w>
+  <w>du</w>
+  <w>inte</w>
+  <w>uttrycker</w>
+  <w>rasistiska</w>
+  <w>åsikter</w>
+  <w>förstås</w>
+  <w>.</w>
+  <w>Men</w>
+  <absaspan id=63>
+    <w>Dabrowski</w>
+  </absaspan>
+  <w>använder</w>
+  <w>sig</w>
+  <w>av</w>
+  <w>extremhögerns</w>
+  <w>argument</w>
+  <w>när</w>
+  <absaspan id=64>
+    <w>hon</w>
+  </absaspan>
+  <w>påstår</w>
+  <w>att</w>
+  <absaspan id=65>
+    <w>en</w>
+    <w>"</w>
+    <w>elit</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=66 senti=2>
+    <w>försöker</w>
+    <w>strypa</w>
+    <w>debatten</w>
+  </absaspan>
+  <w>genom</w>
+  <w>att</w>
+  <absaspan id=67 senti=2>
+    <w>misstänkliggöra</w>
+  </absaspan>
+  <absaspan id=68>
+    <w>sina</w>
+    <w>motståndare</w>
+  </absaspan>
+  <w>.</w>
+  <w>Och</w>
+  <w>PK</w>
+  <w>,</w>
+  <w>som</w>
+  <w>hon</w>
+  <w>är</w>
+  <w>ordförande</w>
+  <w>för</w>
+  <w>,</w>
+  <w>bidrar</w>
+  <w>till</w>
+  <w>att</w>
+  <w>ytterligare</w>
+  <w>sänka</w>
+  <w>ribban</w>
+  <w>för</w>
+  <w>samtalet</w>
+  <w>när</w>
+  <w>de</w>
+  <w>bjuder</w>
+  <w>in</w>
+  <w>personer</w>
+  <w>som</w>
+  <w>gör</w>
+  <w>att</w>
+  <w>utgångspunkten</w>
+  <w>backar</w>
+  <w>flera</w>
+  <w>steg</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>får</w>
+  <w>inte</w>
+  <w>heller</w>
+  <w>glömma</w>
+  <w>att</w>
+  <w>sajter</w>
+  <w>som</w>
+  <w>Avpixlat</w>
+  <w>själva</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>nav</w>
+  <w>för</w>
+  <w>det</w>
+  <absaspan id=69 senti=1>
+    <w>näthat</w>
+  </absaspan>
+  <w>som</w>
+  <w>i</w>
+  <w>sig</w>
+  <absaspan id=70 senti=1>
+    <w>bidrar</w>
+    <w>till</w>
+    <w>att</w>
+    <w>viktiga</w>
+    <w>frågor</w>
+    <w>om</w>
+    <w>integration</w>
+    <w>och</w>
+    <w>jämställdhet</w>
+    <w>inte</w>
+    <w>kan</w>
+    <w>diskuteras</w>
+    <w>konstruktivt</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=71 senti=2>
+    <w>Du</w>
+    <w>hjälper</w>
+    <w>inte</w>
+    <w>det</w>
+    <w>fria</w>
+    <w>ordet</w>
+    <w>genom</w>
+  </absaspan>
+  <absaspan id=72>
+    <w>att</w>
+    <w>bjuda</w>
+    <w>in</w>
+    <w>personer</w>
+    <w>som</w>
+    <w>skrämmer</w>
+    <w>andra</w>
+    <w>till</w>
+    <w>tystnad</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Skräddarsydda</w>
+  <w>kurser</w>
+  <w>i</w>
+  <w>ämnen</w>
+  <w>som</w>
+  <w>intresserar</w>
+  <w>och</w>
+  <w>engagerar</w>
+  <w>både</w>
+  <w>kropp</w>
+  <w>och</w>
+  <w>själ</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Som</w>
+  <absaspan id=73>
+    <w>journalisten</w>
+    <w>Mattias</w>
+    <w>Hagberg</w>
+  </absaspan>
+  <w>skriver</w>
+  <w>på</w>
+  <w>sin</w>
+  <w>blogg</w>
+  <w>så</w>
+  <w>är</w>
+  <absaspan id=74>
+    <w>Dabrowskis</w>
+    <w>uttalanden</w>
+  </absaspan>
+  <w>–</w>
+  <w>aningslösa</w>
+  <w>eller</w>
+  <w>ej</w>
+  <w>–</w>
+  <w>"</w>
+  <absaspan id=75 senti=1>
+    <w>ett</w>
+    <w>tragiskt</w>
+    <w>exempel</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=76>
+    <w>hur</w>
+    <w>högerradikala</w>
+    <w>föreställningar</w>
+    <w>långsamt</w>
+    <w>normaliseras</w>
+    <w>och</w>
+    <w>tar</w>
+    <w>sig</w>
+    <w>in</w>
+    <w>i</w>
+    <w>den</w>
+    <w>'</w>
+    <w>normala</w>
+    <w>'</w>
+    <w>debatten</w>
+  </absaspan>
+  <w>.</w>
+  <w>"</w>
+  <w>Jag</w>
+  <w>delar</w>
+  <w>den</w>
+  <w>uppfattningen</w>
+  <w>.</w>
+  <absaspan id=77>
+    <w>Dagerlind</w>
+  </absaspan>
+  <absaspan id=78>
+    <w>,</w>
+  </absaspan>
+  <absaspan id=79>
+    <w>Carlqvist</w>
+  </absaspan>
+  <absaspan id=80>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=81>
+    <w>Vilks</w>
+  </absaspan>
+  <w>behöver</w>
+  <w>inte</w>
+  <w>ytterligare</w>
+  <w>en</w>
+  <w>plattform</w>
+  <w>för</w>
+  <w>att</w>
+  <w>sprida</w>
+  <absaspan id=82 senti=1>
+    <w>sitt</w>
+    <w>hat</w>
+  </absaspan>
+  <w>.</w>
+  <w>Och</w>
+  <absaspan id=83>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=84 senti=2>
+    <w>behöver</w>
+    <w>inte</w>
+    <w>uppmuntras</w>
+    <w>och</w>
+    <w>försvaras</w>
+  </absaspan>
+  <w>av</w>
+  <w>mediemakthavare</w>
+  <w>i</w>
+  <w>PK</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Jag</w>
+  <w>och</w>
+  <w>Stina</w>
+  <w>Dabrowski</w>
+  <w>har</w>
+  <w>uppenbarligen</w>
+  <w>helt</w>
+  <w>olika</w>
+  <w>uppfattning</w>
+  <w>om</w>
+  <w>hur</w>
+  <w>debattklimatet</w>
+  <w>ser</w>
+  <w>ut</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>det</w>
+  <w>står</w>
+  <w>givetvis</w>
+  <absaspan id=85>
+    <w>PK</w>
+  </absaspan>
+  <w>fritt</w>
+  <w>att</w>
+  <w>bjuda</w>
+  <w>in</w>
+  <w>vilka</w>
+  <w>gäster</w>
+  <w>de</w>
+  <w>vill</w>
+  <w>till</w>
+  <w>sina</w>
+  <w>debatter</w>
+  <w>,</w>
+  <w>samt</w>
+  <w>att</w>
+  <w>använda</w>
+  <w>hur</w>
+  <absaspan id=86 senti=2>
+    <w>tokiga</w>
+  </absaspan>
+  <absaspan id=87>
+    <w>argument</w>
+  </absaspan>
+  <w>som</w>
+  <w>helst</w>
+  <w>för</w>
+  <w>att</w>
+  <w>motivera</w>
+  <w>det</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>På</w>
+  <w>samma</w>
+  <w>sätt</w>
+  <w>står</w>
+  <w>det</w>
+  <w>mig</w>
+  <w>fritt</w>
+  <w>att</w>
+  <w>lämna</w>
+  <absaspan id=88>
+    <w>en</w>
+    <w>organisation</w>
+  </absaspan>
+  <w>som</w>
+  <w>jag</w>
+  <w>tycker</w>
+  <absaspan id=89 senti=1>
+    <w>missbrukar</w>
+    <w>sin</w>
+    <w>ställning</w>
+  </absaspan>
+  <w>och</w>
+  <w>som</w>
+  <w>jag</w>
+  <absaspan id=90 senti=1>
+    <w>inte</w>
+    <w>längre</w>
+    <w>har</w>
+    <w>förtroende</w>
+    <w>för</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>MARTIN</w>
+  <w>HALLDIN</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>redaktör</w>
+  <w>på</w>
+  <w>tidningen</w>
+  <w>ETC</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

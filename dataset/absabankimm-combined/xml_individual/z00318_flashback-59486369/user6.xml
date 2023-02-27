@@ -1,0 +1,53 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Varför</w>
+  <w>är</w>
+  <w>man</w>
+  <w>rasist</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>existerar</w>
+  <w>fortfarande</w>
+  <w>folk</w>
+  <w>med</w>
+  <absaspan id=1 senti=1>
+    <w>rasistiska</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>åsikter</w>
+  </absaspan>
+  <w>?</w>
+  <w>Är</w>
+  <absaspan id=3>
+    <w>rasister</w>
+  </absaspan>
+  <w>helt</w>
+  <w>enkelt</w>
+  <absaspan id=4 senti=1>
+    <w>ointelligenta</w>
+    <w>omoraliska</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>idioter</w>
+  </absaspan>
+  <w>som</w>
+  <w>man</w>
+  <w>vill</w>
+  <w>tro</w>
+  <w>?</w>
+  <w>De</w>
+  <w>flesta</w>
+  <w>rasister</w>
+  <w>är</w>
+  <w>vita</w>
+  <w>men</w>
+  <w>självklart</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>även</w>
+  <w>mörkhyade</w>
+  <w>rasister</w>
+  <w>.</w>
+</absapar>
+</absadoc>

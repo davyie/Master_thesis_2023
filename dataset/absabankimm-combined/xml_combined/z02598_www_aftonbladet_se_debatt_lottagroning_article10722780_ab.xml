@@ -1,0 +1,204 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Vad</w>
+  <w>gör</w>
+  <w>man</w>
+  <w>inte</w>
+  <w>för</w>
+  <w>att</w>
+  <w>stoppa</w>
+  <w>växthuseffekten</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Tidningspapper</w>
+  <w>ska</w>
+  <w>vara</w>
+  <w>bra</w>
+  <w>har</w>
+  <w>jag</w>
+  <w>hört</w>
+  <w>för</w>
+  <w>att</w>
+  <w>förhindra</w>
+  <w>att</w>
+  <w>frysta</w>
+  <w>varor</w>
+  <w>tinar</w>
+  <w>under</w>
+  <w>långa</w>
+  <w>transporter</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>kom</w>
+  <w>att</w>
+  <w>tänka</w>
+  <w>på</w>
+  <w>det</w>
+  <w>när</w>
+  <w>jag</w>
+  <w>hörde</w>
+  <w>om</w>
+  <w>byborna</w>
+  <w>i</w>
+  <w>den</w>
+  <w>lilla</w>
+  <w>byn</w>
+  <w>Andermatt</w>
+  <w>i</w>
+  <w>Schweiz</w>
+  <w>som</w>
+  <w>försöker</w>
+  <w>rädda</w>
+  <w>sin</w>
+  <w>glaciär</w>
+  <w>från</w>
+  <w>att</w>
+  <w>smälta</w>
+  <w>genom</w>
+  <w>att</w>
+  <w>bädda</w>
+  <w>in</w>
+  <w>den</w>
+  <w>i</w>
+  <w>en</w>
+  <w>filt</w>
+  <w>.</w>
+  <w>De</w>
+  <w>täckte</w>
+  <w>den</w>
+  <w>redan</w>
+  <w>i</w>
+  <w>våras</w>
+  <w>med</w>
+  <w>3</w>
+  <w>000</w>
+  <w>kvadratmeter</w>
+  <w>fiberduk</w>
+  <w>.</w>
+  <w>Vad</w>
+  <w>gör</w>
+  <w>man</w>
+  <w>inte</w>
+  <w>för</w>
+  <w>att</w>
+  <w>stoppa</w>
+  <w>växthuseffekten</w>
+  <w>?</w>
+  <w>Men</w>
+  <w>byborna</w>
+  <w>för</w>
+  <w>en</w>
+  <w>ojämn</w>
+  <w>kamp</w>
+  <w>.</w>
+  <w>Forskarna</w>
+  <w>tror</w>
+  <w>att</w>
+  <w>avsmältningen</w>
+  <w>accelererar</w>
+  <w>och</w>
+  <w>att</w>
+  <w>de</w>
+  <w>flesta</w>
+  <w>glaciärer</w>
+  <w>i</w>
+  <w>Alperna</w>
+  <w>är</w>
+  <w>borta</w>
+  <w>om</w>
+  <w>en</w>
+  <w>tio-årsperiod</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>är</w>
+  <w>mycket</w>
+  <w>som</w>
+  <w>förändras</w>
+  <w>.</w>
+  <w>Glaciärerna</w>
+  <w>smälter</w>
+  <w>också</w>
+  <w>på</w>
+  <w>Nordpolen</w>
+  <w>.</w>
+  <w>Isbjörnarna</w>
+  <w>är</w>
+  <w>hotade</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Samtidigt</w>
+  <w>har</w>
+  <w>vi</w>
+  <absaspan id=1>
+    <w>dessa</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>hurtfriska</w>
+    <w>forskare</w>
+    <w>och</w>
+    <w>bedömare</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>som</w>
+  </absaspan>
+  <w>tycker</w>
+  <absaspan id=4>
+    <w>alla</w>
+    <w>larmrapporter</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>är</w>
+    <w>överdrifter</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>ingen</w>
+  <w>växthuseffekt</w>
+  <w>hävdar</w>
+  <w>några</w>
+  <w>och</w>
+  <absaspan id=6>
+    <w>andra</w>
+  </absaspan>
+  <w>uppmanar</w>
+  <w>oss</w>
+  <w>att</w>
+  <absaspan id=7 senti=4>
+    <w>se</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>tillvaron</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>positivt</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=10>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>gillar</w>
+  </absaspan>
+  <w>ju</w>
+  <absaspan id=12>
+    <w>att</w>
+    <w>ligga</w>
+    <w>på</w>
+    <w>playan</w>
+    <w>och</w>
+    <w>sola</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

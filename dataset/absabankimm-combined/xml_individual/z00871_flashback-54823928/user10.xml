@@ -1,0 +1,250 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1 senti=1 source=2 target=1>
+    <w>Missnöjda</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>asylsökande</w>
+    <w>i</w>
+    <w>Finland</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Strömmen</w>
+  <w>av</w>
+  <w>asylsökande</w>
+  <w>till</w>
+  <w>Finland</w>
+  <w>fortsätter</w>
+  <w>tills</w>
+  <w>vidare</w>
+  <w>,</w>
+  <w>men</w>
+  <w>flera</w>
+  <w>nykomlingar</w>
+  <w>tycks</w>
+  <w>ganska</w>
+  <w>omgående</w>
+  <w>ha</w>
+  <w>ändrat</w>
+  <w>sig</w>
+  <w>då</w>
+  <w>de</w>
+  <absaspan id=3 senti=1>
+    <w>konfronterats</w>
+    <w>med</w>
+    <w>den</w>
+    <w>bistra</w>
+    <w>verkligheten</w>
+  </absaspan>
+  <w>i</w>
+  <w>Ultima</w>
+  <w>Thule</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>kan</w>
+  <w>vara</w>
+  <w>värt</w>
+  <w>att</w>
+  <w>öppna</w>
+  <w>en</w>
+  <w>separat</w>
+  <w>tråd</w>
+  <w>i</w>
+  <w>detta</w>
+  <w>ämne</w>
+  <w>-</w>
+  <w>i</w>
+  <w>synnerhet</w>
+  <w>som</w>
+  <w>många</w>
+  <w>av</w>
+  <absaspan id=4 senti=2>
+    <w>dessa</w>
+    <w>besvikna</w>
+    <w>resenärer</w>
+  </absaspan>
+  <w>nu</w>
+  <w>väljer</w>
+  <w>att</w>
+  <w>slå</w>
+  <w>sig</w>
+  <w>ner</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>i</w>
+  <w>stället</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Redan</w>
+  <w>för</w>
+  <w>några</w>
+  <w>dagar</w>
+  <w>sedan</w>
+  <w>gick</w>
+  <absaspan id=5>
+    <w>några</w>
+    <w>besvikna</w>
+    <w>irakier</w>
+  </absaspan>
+  <w>ut</w>
+  <w>i</w>
+  <w>sociala</w>
+  <w>medier</w>
+  <w>och</w>
+  <absaspan id=6 senti=1>
+    <w>avrådde</w>
+    <w>bestämt</w>
+    <w>sina</w>
+    <w>landsmän</w>
+    <w>från</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>att</w>
+    <w>komma</w>
+    <w>till</w>
+    <w>Finland</w>
+  </absaspan>
+  <w>.</w>
+  <w>Jag</w>
+  <w>skrev</w>
+  <w>om</w>
+  <w>det</w>
+  <w>i</w>
+  <w>en</w>
+  <w>annan</w>
+  <w>tråd</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Och</w>
+  <w>idag</w>
+  <w>har</w>
+  <w>AFP</w>
+  <w>skickat</w>
+  <w>ut</w>
+  <w>en</w>
+  <w>artikel</w>
+  <w>om</w>
+  <w>de</w>
+  <w>nyaste</w>
+  <w>invandringsnyheterna</w>
+  <w>från</w>
+  <w>Finland</w>
+  <w>,</w>
+  <w>naturligtvis</w>
+  <w>illustrerad</w>
+  <w>med</w>
+  <absaspan id=8 senti=1>
+    <w>den</w>
+    <w>dumstrutskrönte</w>
+    <w>kåpnissen</w>
+  </absaspan>
+  <w>som</w>
+  <w>var</w>
+  <w>med</w>
+  <w>om</w>
+  <w>att</w>
+  <w>på</w>
+  <w>torsdagskvällen</w>
+  <w>kasta</w>
+  <w>smällare</w>
+  <w>mot</w>
+  <w>asylsökande</w>
+  <w>i</w>
+  <w>Lahtis</w>
+  <w>.</w>
+  <absaspan id=9>
+    <w>Ett</w>
+    <w>15</w>
+    <w>-</w>
+    <w>tal</w>
+    <w>irakiska</w>
+    <w>män</w>
+    <w>på</w>
+    <w>busstationen</w>
+    <w>i</w>
+    <w>Torneå</w>
+  </absaspan>
+  <w>förklarar</w>
+  <w>att</w>
+  <absaspan id=10>
+    <w>Finland</w>
+  </absaspan>
+  <absaspan id=11 senti=1>
+    <w>är</w>
+    <w>skit</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>att</w>
+  <w>de</w>
+  <w>vänder</w>
+  <w>tillbaka</w>
+  <w>till</w>
+  <w>Sverige</w>
+  <w>.</w>
+  <w>22</w>
+  <w>-</w>
+  <w>årige</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>vill</w>
+  <w>för</w>
+  <w>hela</w>
+  <w>världen</w>
+  <w>göra</w>
+  <w>veterligt</w>
+  <w>hur</w>
+  <w>mycket</w>
+  <w>han</w>
+  <absaspan id=12 senti=1>
+    <w>hatar</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>Finland</w>
+  </absaspan>
+  <w>,</w>
+  <w>där</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>finns</w>
+  <w>något</w>
+  <absaspan id=14>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>och</w>
+  <w>inga</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>och</w>
+  <w>inga</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>.</w>
+  <w>,</w>
+  <w>där</w>
+  <w>gatorna</w>
+  <w>är</w>
+  <w>tomma</w>
+  <w>på</w>
+  <w>folk</w>
+  <w>och</w>
+  <w>det</w>
+  <w>är</w>
+  <absaspan id=15 senti=1>
+    <w>förbaskat</w>
+    <w>kallt</w>
+  </absaspan>
+  <w>hela</w>
+  <w>tiden</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,338 @@
+<absadoc annotators=1 senti=4>
+<absatitle>
+  <absaspan id=1>
+    <w>Allas</w>
+    <w>lika</w>
+    <w>värde</w>
+  </absaspan>
+  <absaspan id=2 senti=4 target=1>
+    <w>måste</w>
+    <w>gälla</w>
+  </absaspan>
+  <w>på</w>
+  <w>den</w>
+  <w>svenska</w>
+  <w>arbetsmarknaden</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=4>
+  <w>Vi</w>
+  <absaspan id=3 senti=2>
+    <w>kan</w>
+    <w>inte</w>
+    <w>ha</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>politiker</w>
+    <w>,</w>
+    <w>som</w>
+    <w>påstår</w>
+    <w>att</w>
+    <w>invandrare</w>
+    <w>ska</w>
+    <w>ha</w>
+    <w>en</w>
+    <w>lägre</w>
+    <w>lön</w>
+    <w>på</w>
+    <w>den</w>
+    <w>svenska</w>
+    <w>arbetsmarknaden</w>
+  </absaspan>
+  <w>.</w>
+  <w>Många</w>
+  <w>av</w>
+  <w>dessa</w>
+  <w>invandrare</w>
+  <w>är</w>
+  <w>svenska</w>
+  <w>medborgare</w>
+  <w>.</w>
+  <w>Ska</w>
+  <w>deras</w>
+  <w>svenska</w>
+  <w>medborgarskap</w>
+  <w>gälla</w>
+  <w>över</w>
+  <w>allt</w>
+  <w>,</w>
+  <w>utom</w>
+  <w>på</w>
+  <w>den</w>
+  <w>svenska</w>
+  <w>arbetsmarknaden</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=4>
+  <absaspan id=5>
+    <w>Politiker</w>
+  </absaspan>
+  <w>som</w>
+  <w>påstår</w>
+  <w>sig</w>
+  <w>,</w>
+  <w>vara</w>
+  <w>för</w>
+  <w>en</w>
+  <w>invandring</w>
+  <w>,</w>
+  <w>påstår</w>
+  <w>nu</w>
+  <w>att</w>
+  <w>dom</w>
+  <absaspan id=6 senti=4>
+    <w>vill</w>
+    <w>ha</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>tvådelad</w>
+    <w>arbetsmarknad</w>
+  </absaspan>
+  <w>,</w>
+  <w>vi</w>
+  <absaspan id=8 senti=2>
+    <w>kan</w>
+    <w>inte</w>
+    <w>ha</w>
+  </absaspan>
+  <w>ett</w>
+  <absaspan id=9>
+    <w>A-lag</w>
+    <w>och</w>
+    <w>ett</w>
+    <w>B-lag</w>
+    <w>på</w>
+    <w>den</w>
+    <w>svenska</w>
+    <w>arbetsmarknaden</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=10>
+    <w>Politiker</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>påstår</w>
+    <w>sig</w>
+    <w>vilja</w>
+    <w>ha</w>
+    <w>in</w>
+    <w>invandrarna</w>
+    <w>i</w>
+    <w>arbete</w>
+  </absaspan>
+  <w>,</w>
+  <w>det</w>
+  <absaspan id=12 senti=2>
+    <w>är</w>
+    <w>svårt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=13>
+    <w>locka</w>
+    <w>någon</w>
+    <w>i</w>
+    <w>arbete</w>
+    <w>,</w>
+    <w>med</w>
+    <w>en</w>
+    <w>lägre</w>
+    <w>lön</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=4>
+  <w>Tidigare</w>
+  <w>sa</w>
+  <w>dessa</w>
+  <absaspan id=14>
+    <w>politiker</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=15>
+    <w>invandringen</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>var</w>
+    <w>en</w>
+    <w>utmaning</w>
+  </absaspan>
+  <w>,</w>
+  <w>nu</w>
+  <absaspan id=17 senti=2>
+    <w>tycks</w>
+  </absaspan>
+  <w>dessa</w>
+  <absaspan id=18>
+    <w>politiker</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=19 senti=2>
+    <w>ha</w>
+  </absaspan>
+  <absaspan id=20 senti=2>
+    <w>gett</w>
+    <w>upp</w>
+    <w>om</w>
+    <w>invandringen</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=21 senti=4>
+    <w>Givetvis</w>
+    <w>måste</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>allas</w>
+    <w>lika</w>
+    <w>värde</w>
+  </absaspan>
+  <absaspan id=23 senti=4>
+    <w>gälla</w>
+  </absaspan>
+  <w>på</w>
+  <w>den</w>
+  <w>svenska</w>
+  <w>arbetsmarknaden</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <absaspan id=24>
+    <w>kunskap</w>
+    <w>och</w>
+    <w>kompetens</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=25 senti=4>
+    <w>ska</w>
+    <w>avgöra</w>
+    <w>vem</w>
+    <w>som</w>
+    <w>får</w>
+    <w>ett</w>
+    <w>arbete</w>
+  </absaspan>
+  <w>,</w>
+  <w>inte</w>
+  <w>hudfärg</w>
+  <w>och</w>
+  <w>etnicitet</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=4>
+  <w>Det</w>
+  <absaspan id=26 senti=4>
+    <w>vore</w>
+    <w>bra</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=27>
+    <w>dom</w>
+    <w>olika</w>
+    <w>politiska</w>
+    <w>partierna</w>
+    <w>,</w>
+    <w>sätter</w>
+    <w>sig</w>
+    <w>ner</w>
+    <w>och</w>
+    <w>diskuterar</w>
+  </absaspan>
+  <w>,</w>
+  <w>hur</w>
+  <w>vi</w>
+  <w>håller</w>
+  <w>ihop</w>
+  <w>den</w>
+  <w>svenska</w>
+  <w>arbetsmarknaden</w>
+  <w>,</w>
+  <w>hur</w>
+  <w>vi</w>
+  <w>ger</w>
+  <w>alla</w>
+  <w>en</w>
+  <w>chans</w>
+  <w>att</w>
+  <w>få</w>
+  <w>ett</w>
+  <w>arbete</w>
+  <w>med</w>
+  <w>en</w>
+  <w>avtalsenlig</w>
+  <w>lön</w>
+  <w>.</w>
+  <absaspan id=28>
+    <w>Enkla</w>
+    <w>arbeten</w>
+    <w>med</w>
+    <w>låga</w>
+    <w>löner</w>
+  </absaspan>
+  <w>,</w>
+  <w>det</w>
+  <w>är</w>
+  <w>sånt</w>
+  <w>vi</w>
+  <w>ser</w>
+  <w>i</w>
+  <w>låglöneländer</w>
+  <w>,</w>
+  <w>det</w>
+  <w>är</w>
+  <absaspan id=29 senti=2>
+    <w>inget</w>
+    <w>Sverige</w>
+    <w>ska</w>
+    <w>ta</w>
+    <w>efter</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=30>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=31 senti=4>
+    <w>ska</w>
+    <w>vara</w>
+    <w>ett</w>
+    <w>ledande</w>
+    <w>land</w>
+  </absaspan>
+  <w>,</w>
+  <w>där</w>
+  <w>vi</w>
+  <w>satsar</w>
+  <w>på</w>
+  <w>kunskap</w>
+  <w>och</w>
+  <w>kompetens</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>I</w>
+  <w>Sverige</w>
+  <absaspan id=32 senti=4>
+    <w>ska</w>
+    <w>det</w>
+    <w>löna</w>
+    <w>sig</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=33>
+    <w>arbeta</w>
+  </absaspan>
+  <w>,</w>
+  <w>det</w>
+  <w>är</w>
+  <w>så</w>
+  <w>vi</w>
+  <w>skapar</w>
+  <absaspan id=34 senti=4>
+    <w>framgångsrika</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>företag</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

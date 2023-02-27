@@ -1,0 +1,108 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Islamiska</w>
+    <w>Staten</w>
+  </absaspan>
+  <absaspan id=2 senti=1 target=1>
+    <w>massakrerar</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=3>
+    <w>Ullenhag</w>
+  </absaspan>
+  <absaspan id=4 senti=2 source=3>
+    <w>orolig</w>
+  </absaspan>
+  <w>för</w>
+  <w></w>
+  <absaspan id=5>
+    <w>islamofobi</w>
+  </absaspan>
+  <w></w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Hur</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>ta</w>
+  <w>denna</w>
+  <absaspan id=6>
+    <w>integratinsminister</w>
+  </absaspan>
+  <w>på</w>
+  <w>allvar</w>
+  <absaspan id=7 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>Här</w>
+  <w>har</w>
+  <w>vi</w>
+  <w>en</w>
+  <absaspan id=8 senti=2>
+    <w>skrämmande</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>fakta</w>
+  </absaspan>
+  <w>om</w>
+  <w>vad</w>
+  <absaspan id=10>
+    <w>IS</w>
+  </absaspan>
+  <w>utför</w>
+  <w>på</w>
+  <w>oskyldiga</w>
+  <w>människor</w>
+  <w>som</w>
+  <w>dom</w>
+  <w>fångat</w>
+  <w>in</w>
+  <w>på</w>
+  <w>dom</w>
+  <w>områden</w>
+  <w>dom</w>
+  <w>har</w>
+  <w>ockupperat</w>
+  <absaspan id=11 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Sedan</w>
+  <w>får</w>
+  <w>vi</w>
+  <w>se</w>
+  <w>hur</w>
+  <absaspan id=12>
+    <w>dom</w>
+  </absaspan>
+  <absaspan id=13 senti=1>
+    <w>halal</w>
+    <w>slaktar</w>
+    <w>journalister</w>
+  </absaspan>
+  <w>.</w>
+  <w>Detta</w>
+  <absaspan id=14 senti=2>
+    <w>måste</w>
+    <w>ju</w>
+    <w>ytterligare</w>
+    <w>urholka</w>
+    <w>förtroende</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=15>
+    <w>Ullenahag</w>
+  </absaspan>
+  <w>eller</w>
+  <w>?</w>
+  <w>Vad</w>
+  <w>anse</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>hans</w>
+  <w>agerande</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

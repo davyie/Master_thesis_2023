@@ -1,0 +1,57 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Hodan</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>blev</w>
+    <w>felaktigt</w>
+    <w>utpekad</w>
+  </absaspan>
+  <w>för</w>
+  <w>snatteri</w>
+  <w>-</w>
+  <w>"</w>
+  <w>På</w>
+  <w>grund</w>
+  <w>av</w>
+  <w>min</w>
+  <w>hudfärg</w>
+  <w>"</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Hodan</w>
+    <w>Mohammed</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>bölar</w>
+    <w>ut</w>
+  </absaspan>
+  <w>hos</w>
+  <w>SVT</w>
+  <w>.</w>
+  <absaspan id=5 senti=2>
+    <w>Offerkoftan</w>
+  </absaspan>
+  <w>är</w>
+  <w>stor</w>
+  <w>som</w>
+  <w>vanligt</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=6 senti=3>
+    <w>Har</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>hon</w>
+  </absaspan>
+  <absaspan id=8 senti=3>
+    <w>rätt</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,97 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1 senti=2 target=3>
+    <w>Lösning</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=3>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>invandringen</w>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Tittade</w>
+  <w>på</w>
+  <absaspan id=4>
+    <w>Schindlers</w>
+    <w>list</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=5 senti=4>
+    <w>fick</w>
+    <w>lite</w>
+    <w>inspiration</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <absaspan id=6 senti=4>
+    <w>Kan</w>
+    <w>man</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>slänga</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>upp</w>
+    <w>en</w>
+    <w>fabrik</w>
+    <w>med</w>
+    <w>hjälp</w>
+    <w>av</w>
+    <w>EU-bidrag</w>
+    <w>där</w>
+    <w>muslimska</w>
+    <w>kvinnor</w>
+    <w>kan</w>
+    <w>sy</w>
+    <w>såna</w>
+    <w>snordyra</w>
+    <w>arabiska</w>
+    <w>mattor</w>
+  </absaspan>
+  <w>!</w>
+  <w>,</w>
+  <w>man</w>
+  <w>kör</w>
+  <w>en</w>
+  <w>ny</w>
+  <w>slags</w>
+  <w>fas</w>
+  <w>,</w>
+  <w>som</w>
+  <w>ska</w>
+  <w>kallas</w>
+  <w>FAS-X</w>
+  <w>för</w>
+  <w>nyanlända</w>
+  <w>kvinnor</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=9>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>kan</w>
+    <w>bli</w>
+    <w>bra</w>
+    <w>förtjänst</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Ta</w>
+  <w>inte</w>
+  <w>detta</w>
+  <w>allt</w>
+  <w>för</w>
+  <w>seriöst</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

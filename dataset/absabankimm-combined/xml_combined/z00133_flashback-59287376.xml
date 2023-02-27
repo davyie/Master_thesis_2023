@@ -1,0 +1,413 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Chicago</w>
+  <w>Tribune</w>
+  <w>-</w>
+  <w>Trump</w>
+  <w>supremacy</w>
+  <w>emboldens</w>
+  <w>Swedish</w>
+  <w>populists</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Notera</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>SD</w>
+  </absaspan>
+  <w>numera</w>
+  <absaspan id=2 senti=1>
+    <w>är</w>
+    <w>populister</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Ingen</w>
+  <w>internationell</w>
+  <w>tidning</w>
+  <w>har</w>
+  <w>skrivit</w>
+  <w>om</w>
+  <w>Svetsaren</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>just</w>
+  <w>saying</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Artikel</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>"</w>
+  <absaspan id=3>
+    <w>The</w>
+    <w>leftist</w>
+    <w>and</w>
+    <w>liberal</w>
+    <w>establishment</w>
+  </absaspan>
+  <w>,</w>
+  <w>with</w>
+  <w>open</w>
+  <w>borders</w>
+  <w>,</w>
+  <w>free</w>
+  <w>immigration</w>
+  <w>,</w>
+  <w>that</w>
+  <absaspan id=4>
+    <w>nation</w>
+    <w>states</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>should</w>
+    <w>be</w>
+    <w>removed</w>
+  </absaspan>
+  <w>-</w>
+  <w>-</w>
+  <w>all</w>
+  <w>of</w>
+  <w>that</w>
+  <w>-</w>
+  <w>-</w>
+  <w>there's</w>
+  <w>never</w>
+  <w>been</w>
+  <w>any</w>
+  <w>popular</w>
+  <w>support</w>
+  <w>for</w>
+  <w>that</w>
+  <w>but</w>
+  <w>they've</w>
+  <w>managed</w>
+  <w>to</w>
+  <w>dominate</w>
+  <w>the</w>
+  <w>western</w>
+  <w>world</w>
+  <w>for</w>
+  <w>decades</w>
+  <w>,</w>
+  <w>"</w>
+  <w>he</w>
+  <w>said</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>While</w>
+  <w>sharing</w>
+  <w>Trump's</w>
+  <w>views</w>
+  <w>on</w>
+  <w>immigration</w>
+  <w>,</w>
+  <absaspan id=6>
+    <w>Akesson</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>doesn't</w>
+    <w>agree</w>
+    <w>on</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>trade</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>"</w>
+  <w>If</w>
+  <absaspan id=9>
+    <w>capital</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>has</w>
+    <w>an</w>
+    <w>interest</w>
+    <w>in</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>open</w>
+    <w>borders</w>
+  </absaspan>
+  <w>,</w>
+  <w>I</w>
+  <w>don't</w>
+  <w>have</w>
+  <w>a</w>
+  <w>problem</w>
+  <w>with</w>
+  <w>that</w>
+  <w>,</w>
+  <w>"</w>
+  <w>he</w>
+  <w>said</w>
+  <w>.</w>
+  <w>"</w>
+  <absaspan id=12>
+    <w>I</w>
+  </absaspan>
+  <absaspan id=13 senti=5>
+    <w>believe</w>
+    <w>in</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>free</w>
+    <w>trade</w>
+  </absaspan>
+  <w>-</w>
+  <w>-</w>
+  <absaspan id=15>
+    <w>I</w>
+  </absaspan>
+  <w>think</w>
+  <w>that's</w>
+  <absaspan id=16 senti=5>
+    <w>great</w>
+  </absaspan>
+  <w>.</w>
+  <w>The</w>
+  <absaspan id=17 senti=1>
+    <w>problem</w>
+  </absaspan>
+  <w>has</w>
+  <w>been</w>
+  <absaspan id=18>
+    <w>the</w>
+    <w>free</w>
+    <w>movement</w>
+    <w>of</w>
+    <w>people</w>
+  </absaspan>
+  <w>as</w>
+  <w>it's</w>
+  <absaspan id=19 senti=1>
+    <w>led</w>
+    <w>to</w>
+    <w>big</w>
+    <w>strains</w>
+    <w>on</w>
+    <w>welfare</w>
+  </absaspan>
+  <w>in</w>
+  <w>Sweden</w>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=20>
+    <w>Akesson</w>
+  </absaspan>
+  <absaspan id=21 senti=1>
+    <w>blames</w>
+    <w>many</w>
+    <w>of</w>
+    <w>the</w>
+    <w>socioeconomic</w>
+    <w>problems</w>
+    <w>that</w>
+    <w>Sweden</w>
+    <w>is</w>
+    <w>grappling</w>
+    <w>with</w>
+    <w>on</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>its</w>
+    <w>generous</w>
+    <w>immigration</w>
+    <w>policies</w>
+  </absaspan>
+  <w>.</w>
+  <w>Immigrants</w>
+  <w>and</w>
+  <w>their</w>
+  <w>direct</w>
+  <w>descendants</w>
+  <w>now</w>
+  <w>make</w>
+  <w>up</w>
+  <w>almost</w>
+  <w>a</w>
+  <w>third</w>
+  <w>of</w>
+  <w>the</w>
+  <w>population</w>
+  <w>,</w>
+  <w>up</w>
+  <w>from</w>
+  <w>less</w>
+  <w>than</w>
+  <w>a</w>
+  <w>fourth</w>
+  <w>a</w>
+  <w>decade</w>
+  <w>ago</w>
+  <w>.</w>
+  <w>The</w>
+  <w>Social</w>
+  <w>Democratic-led</w>
+  <w>government</w>
+  <w>has</w>
+  <w>now</w>
+  <w>tightened</w>
+  <w>rules</w>
+  <w>after</w>
+  <absaspan id=23>
+    <w>a</w>
+    <w>quarter</w>
+    <w>million</w>
+    <w>refugees</w>
+    <w>arrived</w>
+  </absaspan>
+  <w>over</w>
+  <w>the</w>
+  <w>past</w>
+  <w>three</w>
+  <w>years</w>
+  <w>,</w>
+  <absaspan id=24 senti=2>
+    <w>overwhelming</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>many</w>
+    <w>government</w>
+    <w>functions</w>
+  </absaspan>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>"</w>
+  <absaspan id=26>
+    <w>The</w>
+    <w>surge</w>
+    <w>in</w>
+    <w>populist</w>
+    <w>sentiment</w>
+    <w>abroad</w>
+  </absaspan>
+  <w>has</w>
+  <absaspan id=27>
+    <w>the</w>
+    <w>Swedish</w>
+    <w>establishment</w>
+  </absaspan>
+  <absaspan id=28 senti=2>
+    <w>worried</w>
+  </absaspan>
+  <w>.</w>
+  <w>Carl</w>
+  <w>Bildt</w>
+  <w>,</w>
+  <w>a</w>
+  <w>former</w>
+  <w>prime</w>
+  <w>minister</w>
+  <w>who</w>
+  <w>served</w>
+  <w>as</w>
+  <w>foreign</w>
+  <w>minister</w>
+  <w>in</w>
+  <w>the</w>
+  <w>government</w>
+  <w>ousted</w>
+  <w>two</w>
+  <w>years</w>
+  <w>ago</w>
+  <w>,</w>
+  <w>wrote</w>
+  <w>in</w>
+  <w>the</w>
+  <w>Washington</w>
+  <w>Post</w>
+  <w>last</w>
+  <w>month</w>
+  <w>that</w>
+  <w>Trump's</w>
+  <w>victory</w>
+  <w>could</w>
+  <w>mark</w>
+  <w>"</w>
+  <w>the</w>
+  <w>end</w>
+  <w>of</w>
+  <w>the</w>
+  <w>west</w>
+  <w>as</w>
+  <w>we</w>
+  <w>know</w>
+  <w>it</w>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>That's</w>
+  <w>music</w>
+  <w>to</w>
+  <w>Akesson's</w>
+  <w>ears</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>"</w>
+  <w>It's</w>
+  <w>the</w>
+  <w>end</w>
+  <w>of</w>
+  <w>Carl</w>
+  <w>Bildt's</w>
+  <w>world</w>
+  <w>,</w>
+  <w>"</w>
+  <w>he</w>
+  <w>said</w>
+  <w>.</w>
+  <w>"</w>
+  <w>He's</w>
+  <w>one</w>
+  <w>of</w>
+  <w>Sweden's</w>
+  <w>foremost</w>
+  <w>globalists</w>
+  <w>and</w>
+  <w>biggest</w>
+  <w>deniers</w>
+  <w>of</w>
+  <w>the</w>
+  <w>nation</w>
+  <w>state</w>
+  <w>and</w>
+  <w>national</w>
+  <w>identity</w>
+  <w>.</w>
+  <absaspan id=29>
+    <w>If</w>
+    <w>he's</w>
+    <w>unhappy</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=30>
+    <w>I'm</w>
+  </absaspan>
+  <absaspan id=31 senti=5>
+    <w>happy</w>
+  </absaspan>
+  <w>.</w>
+  <w>"</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+</absadoc>

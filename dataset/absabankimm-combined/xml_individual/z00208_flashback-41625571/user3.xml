@@ -1,0 +1,121 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>lokal</w>
+  <w>tidning</w>
+  <w>lägger</w>
+  <w>upp</w>
+  <w>poll</w>
+  <w>på</w>
+  <w>nätet</w>
+  <w>angående</w>
+  <w>flykting</w>
+  <w>invandring</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Hej</w>
+  <w>,</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Verkar</w>
+  <w>som</w>
+  <w>Jönköpings</w>
+  <w>tidningen</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>i</w>
+  <w>samband</w>
+  <w>med</w>
+  <w>"</w>
+  <w>dubbla</w>
+  <w>mängden</w>
+  <w>inkommande</w>
+  <w>flyktingar</w>
+  <w>nästa</w>
+  <w>år</w>
+  <w>"</w>
+  <w>lagt</w>
+  <w>upp</w>
+  <w>en</w>
+  <w>poll</w>
+  <w>där</w>
+  <w>det</w>
+  <w>frågas</w>
+  <w>om</w>
+  <w>:</w>
+  <w>"</w>
+  <w>Ska</w>
+  <w>Jönköping</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>fler</w>
+  <w>flyktingar</w>
+  <w>?</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Ställningen</w>
+  <w>just</w>
+  <w>nu</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>93%</w>
+  <w>nej</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>7%</w>
+  <w>ja</w>
+  <w>.</w>
+</absapar>
+<absapar id=7 senti=3>
+  <w>Frågeställning</w>
+  <w>:</w>
+  <absaspan id=1 senti=2>
+    <w>Kommer</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>journalisten</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>straffas</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>för</w>
+    <w>detta</w>
+    <w>snedsteg</w>
+  </absaspan>
+  <w>?</w>
+  <w>Kommer</w>
+  <w>röstningen</w>
+  <w>tas</w>
+  <w>bort</w>
+  <w>innan</w>
+  <w>midnatt</w>
+  <w>?</w>
+  <w>Kommer</w>
+  <w>politikerna</w>
+  <w>trippla</w>
+  <w>invandringen</w>
+  <w>som</w>
+  <w>en</w>
+  <w>respons</w>
+  <w>på</w>
+  <w>detta</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

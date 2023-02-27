@@ -1,0 +1,148 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=1 target=2>
+    <w>Vem</w>
+    <w>i</w>
+    <w>helvete</w>
+    <w>röstar</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Centerpartiet</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Dom</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>vill</w>
+    <w>ha</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>fri</w>
+    <w>invandring</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Dom</w>
+  <w>är</w>
+  <w>på</w>
+  <w>väg</w>
+  <w>att</w>
+  <w>bryta</w>
+  <w>med</w>
+  <w>alliansen</w>
+  <w>när</w>
+  <w>gäller</w>
+  <w>storlän</w>
+  <w>.</w>
+  <absaspan id=6>
+    <w>De</w>
+  </absaspan>
+  <w>är</w>
+  <w>det</w>
+  <w>enda</w>
+  <w>borgerliga</w>
+  <w>parti</w>
+  <w>som</w>
+  <absaspan id=7 senti=4>
+    <w>är</w>
+    <w>positiva</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>de</w>
+  <w>bryter</w>
+  <w>inte</w>
+  <w>bara</w>
+  <w>med</w>
+  <w>alliansen</w>
+  <w>,</w>
+  <w>de</w>
+  <w>bryter</w>
+  <w>med</w>
+  <w>sitt</w>
+  <w>fotfolk</w>
+  <w>också</w>
+  <w>på</w>
+  <w>landsbygden</w>
+  <w>.</w>
+  <w>Där</w>
+  <w>har</w>
+  <absaspan id=8>
+    <w>folk</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>fått</w>
+    <w>nog</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=10>
+    <w>centralstyrning</w>
+    <w>och</w>
+    <w>storskalighet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Partiet</w>
+  <w>har</w>
+  <w>verkligen</w>
+  <w>tagit</w>
+  <w>en</w>
+  <w>ny</w>
+  <w>väg</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Invandrare</w>
+  <w>röstar</w>
+  <w>inte</w>
+  <w>på</w>
+  <w>dom</w>
+  <w>.</w>
+  <w>Storstäderna</w>
+  <w>är</w>
+  <w>moderater</w>
+  <w>sossar</w>
+  <w>och</w>
+  <w>miljöpartister</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=11>
+    <w>Landsbygsen</w>
+  </absaspan>
+  <absaspan id=12 senti=1>
+    <w>verkar</w>
+    <w>börja</w>
+    <w>hata</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>dom</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Var</w>
+  <w>fam</w>
+  <w>hittar</w>
+  <absaspan id=14 senti=1>
+    <w>dom</w>
+  </absaspan>
+  <w>sina</w>
+  <w>10%</w>
+  <w>?</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Känner</w>
+  <w>ingen</w>
+  <w>centerpartist</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+</absadoc>

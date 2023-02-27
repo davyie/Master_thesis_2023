@@ -1,0 +1,314 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <absaspan id=1>
+    <w>Kolmisoppis</w>
+    <w>angrepp</w>
+  </absaspan>
+  <w>mot</w>
+  <w>polisen</w>
+  <w>är</w>
+  <absaspan id=2 senti=2 target=1>
+    <w>obefogat</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Kolmisoppis</w>
+    <w>påstående</w>
+    <w>om</w>
+    <w>att</w>
+    <w>invandrares</w>
+    <w>misstro</w>
+    <w>mot</w>
+    <w>polisen</w>
+    <w>är</w>
+    <w>begripligt</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=4 senti=2>
+    <w>upprör</w>
+    <w>mig</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=5>
+    <w>Den</w>
+    <w>bild</w>
+    <w>som</w>
+    <w>han</w>
+    <w>ger</w>
+    <w>av</w>
+    <w>Skånepolisen</w>
+  </absaspan>
+  <w>är</w>
+  <w>för</w>
+  <w>mig</w>
+  <absaspan id=6 senti=2>
+    <w>högst</w>
+    <w>främmande</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>finns</w>
+  <w>självfallet</w>
+  <absaspan id=7 senti=1>
+    <w>rötägg</w>
+  </absaspan>
+  <w>inom</w>
+  <w>alla</w>
+  <w>yrken</w>
+  <w>.</w>
+  <w>Nyligen</w>
+  <w>meddelade</w>
+  <w>media</w>
+  <w>att</w>
+  <w>läkare</w>
+  <w>begår</w>
+  <w>allt</w>
+  <w>fler</w>
+  <w>grova</w>
+  <w>brott</w>
+  <w>.</w>
+  <absaspan id=8 senti=2>
+    <w>Inte</w>
+    <w>på</w>
+    <w>något</w>
+    <w>sätt</w>
+    <w>är</w>
+    <w>detta</w>
+    <w>representativt</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=9>
+    <w>svensk</w>
+    <w>sjukvård</w>
+    <w>och</w>
+    <w>våra</w>
+    <w>läkare</w>
+  </absaspan>
+  <w>.</w>
+  <w>På</w>
+  <w>samma</w>
+  <w>sätt</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>en</w>
+  <absaspan id=10 senti=2>
+    <w>olämplig</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>polis</w>
+  </absaspan>
+  <w>representativt</w>
+  <w>för</w>
+  <w>den</w>
+  <w>svenska</w>
+  <w>poliskåren</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Romregistret</w>
+  <w>nämns</w>
+  <w>i</w>
+  <w>artikeln</w>
+  <w>som</w>
+  <w>ett</w>
+  <w>exempel</w>
+  <w>på</w>
+  <absaspan id=12>
+    <w>polisens</w>
+  </absaspan>
+  <absaspan id=13 senti=1>
+    <w>invandringsfientlighet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Säkerhets-och</w>
+  <w>Integritetsskyddsnämnden</w>
+  <w>slår</w>
+  <w>dock</w>
+  <w>fast</w>
+  <w>att</w>
+  <w>detta</w>
+  <w>register</w>
+  <w>inte</w>
+  <w>är</w>
+  <w>baserat</w>
+  <w>på</w>
+  <w>etnicitet</w>
+  <w>.</w>
+  <absaspan id=14 senti=2>
+    <w>Apjävelhistorien</w>
+  </absaspan>
+  <w>som</w>
+  <w>också</w>
+  <w>tas</w>
+  <w>upp</w>
+  <w>var</w>
+  <w>inte</w>
+  <w>på</w>
+  <w>något</w>
+  <w>sätt</w>
+  <w>riktad</w>
+  <w>mot</w>
+  <w>invandrare</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>handlade</w>
+  <w>om</w>
+  <w>de</w>
+  <w>kriminella</w>
+  <w>som</w>
+  <w>attackerade</w>
+  <w>polisbussar</w>
+  <w>med</w>
+  <w>hemgjorda</w>
+  <w>bomber</w>
+  <w>samt</w>
+  <w>som</w>
+  <w>”</w>
+  <w>apor</w>
+  <w>”</w>
+  <w>klättrade</w>
+  <w>över</w>
+  <w>polisbussarna</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Jag</w>
+  <w>har</w>
+  <w>under</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>3</w>
+  <w>år</w>
+  <w>varit</w>
+  <w>högst</w>
+  <w>involverad</w>
+  <w>i</w>
+  <w>Malmöpolisens</w>
+  <w>arbete</w>
+  <w>,</w>
+  <w>och</w>
+  <w>tiotals</w>
+  <w>gånger</w>
+  <w>patrullerat</w>
+  <w>med</w>
+  <w>polisen</w>
+  <w>i</w>
+  <w>staden</w>
+  <w>.</w>
+  <w>Aldrig</w>
+  <w>någonsin</w>
+  <w>har</w>
+  <w>ett</w>
+  <absaspan id=15 senti=1>
+    <w>rasistiskt</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>ord</w>
+  </absaspan>
+  <w>sagts</w>
+  <w>.</w>
+  <w>Aldrig</w>
+  <w>har</w>
+  <w>man</w>
+  <w>stoppat</w>
+  <w>någon</w>
+  <w>baserad</w>
+  <w>på</w>
+  <w>hudfärg</w>
+  <w>.</w>
+  <w>Samtidigt</w>
+  <w>som</w>
+  <w>Kolmisoppis</w>
+  <w>artikel</w>
+  <w>är</w>
+  <w>baserad</w>
+  <w>på</w>
+  <w>känslor</w>
+  <w>,</w>
+  <w>väljer</w>
+  <w>jag</w>
+  <w>att</w>
+  <w>bygga</w>
+  <w>min</w>
+  <w>artikel</w>
+  <w>på</w>
+  <w>statistik</w>
+  <w>och</w>
+  <w>vetenskap</w>
+  <w>.</w>
+  <absaspan id=17>
+    <w>Allmänheten</w>
+    <w>,</w>
+    <w>där</w>
+    <w>även</w>
+    <w>invandrare</w>
+    <w>ingår</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=18 senti=4>
+    <w>har</w>
+    <w>högst</w>
+    <w>,</w>
+    <w>och</w>
+    <w>störst</w>
+    <w>,</w>
+    <w>förtroende</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=19>
+    <w>polisen</w>
+  </absaspan>
+  <w>.</w>
+  <w>Enligt</w>
+  <w>nationella</w>
+  <w>trygghetsundersökningen</w>
+  <w>från</w>
+  <w>2012</w>
+  <absaspan id=20 senti=4>
+    <w>är</w>
+    <w>förtroendet</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=21>
+    <w>polisen</w>
+  </absaspan>
+  <w>även</w>
+  <w>större</w>
+  <w>än</w>
+  <w>resten</w>
+  <w>av</w>
+  <w>rättsväsendet</w>
+  <absaspan id=22>
+    <w>.</w>
+  </absaspan>
+  <w>Det</w>
+  <w>Per</w>
+  <w>Sunde</w>
+  <w>Kolmisoppi</w>
+  <w>,</w>
+  <w>är</w>
+  <w>klaven</w>
+  <w>på</w>
+  <w>det</w>
+  <w>mynt</w>
+  <w>som</w>
+  <w>du</w>
+  <w>letar</w>
+  <w>efter</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Ardavan</w>
+  <w>Khoshnood</w>
+  <w>(</w>
+  <w>Kd</w>
+  <w>)</w>
+  <w>Ledamot</w>
+  <w>polisnämnden</w>
+  <w>Malmö</w>
+  <w>.</w>
+</absapar>
+</absadoc>

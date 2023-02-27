@@ -1,0 +1,516 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Att</w>
+    <w>få</w>
+    <w>träffa</w>
+    <w>en</w>
+    <w>läkare</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>löser</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=3 senti=2 target=1 target=3>
+    <w>vårdkrisen</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>REPLIK</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>representerar</w>
+  <w>några</w>
+  <w>av</w>
+  <w>de</w>
+  <w>legitimerade</w>
+  <w>hälso</w>
+  <w>-</w>
+  <w>och</w>
+  <w>sjukvårdsprofessioner</w>
+  <w>som</w>
+  <w>Anders</w>
+  <w>W</w>
+  <w>Jonsson</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>debattartikel</w>
+  <w>i</w>
+  <w>den</w>
+  <w>3</w>
+  <w>februari</w>
+  <w>beskriver</w>
+  <w>som</w>
+  <w>”</w>
+  <w>vem</w>
+  <w>som</w>
+  <w>helst</w>
+  <w>”</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=4>
+    <w>Vi</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=5>
+    <w>högskoleutbildade</w>
+    <w>professioner</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>spelar</w>
+    <w>en</w>
+    <w>avgörande</w>
+    <w>roll</w>
+  </absaspan>
+  <w>för</w>
+  <w>primärvårdens</w>
+  <w>patienter</w>
+  <w>och</w>
+  <w>som</w>
+  <w>i</w>
+  <w>enlighet</w>
+  <w>med</w>
+  <w>hälso</w>
+  <w>-</w>
+  <w>och</w>
+  <w>sjukvårdslagen</w>
+  <w>arbetar</w>
+  <w>utifrån</w>
+  <w>vetenskap</w>
+  <w>och</w>
+  <w>beprövad</w>
+  <w>erfarenhet</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Vi</w>
+  <w>anser</w>
+  <w>,</w>
+  <w>likt</w>
+  <w>Anders</w>
+  <w>W</w>
+  <w>Jonsson</w>
+  <w>,</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=7 senti=4>
+    <w>krävs</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>stora</w>
+    <w>förändringar</w>
+    <w>och</w>
+    <w>förbättringar</w>
+  </absaspan>
+  <w>av</w>
+  <w>den</w>
+  <w>nära</w>
+  <w>vården</w>
+  <w>som</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>till</w>
+  <w>största</w>
+  <w>del</w>
+  <w>sköts</w>
+  <w>av</w>
+  <w>primärvården</w>
+  <w>men</w>
+  <w>som</w>
+  <w>också</w>
+  <w>finns</w>
+  <w>inom</w>
+  <w>den</w>
+  <w>kommunala</w>
+  <w>omsorgen</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vi</w>
+  <w>behöver</w>
+  <w>öka</w>
+  <w>tillgängligheten</w>
+  <w>,</w>
+  <w>ge</w>
+  <absaspan id=9 senti=4>
+    <w>rätt</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>vård</w>
+  </absaspan>
+  <w>,</w>
+  <w>i</w>
+  <absaspan id=11 senti=4>
+    <w>rätt</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>tid</w>
+  </absaspan>
+  <w>och</w>
+  <w>på</w>
+  <absaspan id=13 senti=4>
+    <w>effektivaste</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>sätt</w>
+  </absaspan>
+  <w>för</w>
+  <w>patientens</w>
+  <w>bästa</w>
+  <absaspan id=15>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>Frågan</w>
+  <w>kan</w>
+  <w>vid</w>
+  <w>en</w>
+  <w>första</w>
+  <w>genomläsning</w>
+  <w>av</w>
+  <w>debattartikeln</w>
+  <w>vara</w>
+  <w>enkel</w>
+  <w>–</w>
+  <absaspan id=16>
+    <w>om</w>
+    <w>alla</w>
+    <w>hade</w>
+    <w>en</w>
+    <w>fast</w>
+    <w>läkarkontakt</w>
+  </absaspan>
+  <w>så</w>
+  <absaspan id=17 senti=4>
+    <w>löser</w>
+    <w>sig</w>
+    <w>allt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=18>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=19 senti=5>
+    <w>tror</w>
+    <w>absolut</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>en</w>
+    <w>utbyggd</w>
+    <w>primärvård</w>
+    <w>/</w>
+    <w>nära</w>
+    <w>vård</w>
+    <w>där</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>läkare</w>
+  </absaspan>
+  <absaspan id=22 senti=4>
+    <w>är</w>
+    <w>en</w>
+    <w>viktig</w>
+    <w>spelare</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>och</w>
+    <w>där</w>
+    <w>det</w>
+    <w>finns</w>
+    <w>kontinuitet</w>
+    <w>i</w>
+    <w>läkarkontakten</w>
+    <w>när</w>
+    <w>sådan</w>
+    <w>behövs</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Utifrån</w>
+  <w>den</w>
+  <w>kunskap</w>
+  <w>och</w>
+  <w>evidens</w>
+  <w>som</w>
+  <w>finns</w>
+  <w>går</w>
+  <w>det</w>
+  <w>dock</w>
+  <w>inte</w>
+  <w>att</w>
+  <w>se</w>
+  <w>att</w>
+  <w>en</w>
+  <w>fast</w>
+  <w>läkarkontakt</w>
+  <w>löser</w>
+  <w>alla</w>
+  <w>problem</w>
+  <w>med</w>
+  <w>tillgänglighet</w>
+  <w>och</w>
+  <w>en</w>
+  <w>patientsäker</w>
+  <w>vård</w>
+  <w>i</w>
+  <w>framtiden</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Här</w>
+  <w>är</w>
+  <w>det</w>
+  <w>fler</w>
+  <w>behov</w>
+  <w>som</w>
+  <w>måste</w>
+  <w>tas</w>
+  <w>med</w>
+  <w>i</w>
+  <w>beräkningen</w>
+  <w>och</w>
+  <w>därmed</w>
+  <w>fler</w>
+  <absaspan id=24 senti=4>
+    <w>lösningar</w>
+  </absaspan>
+  <w>som</w>
+  <w>måste</w>
+  <w>till</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <absaspan id=25>
+    <w>Förändringen</w>
+    <w>med</w>
+    <w>en</w>
+    <w>professionsneutral</w>
+    <w>vårdgaranti</w>
+  </absaspan>
+  <absaspan id=26 senti=4>
+    <w>är</w>
+  </absaspan>
+  <w>inte</w>
+  <w>bara</w>
+  <absaspan id=27 senti=4>
+    <w>nödvändig</w>
+  </absaspan>
+  <w>,</w>
+  <w>för</w>
+  <w>att</w>
+  <w>klara</w>
+  <w>vårdens</w>
+  <w>utmaningar</w>
+  <w>,</w>
+  <w>utan</w>
+  <w>också</w>
+  <absaspan id=28 senti=5>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=29 senti=5>
+    <w>förutsättning</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>göra</w>
+  <w>vården</w>
+  <w>mer</w>
+  <w>patientsäker</w>
+  <w>.</w>
+  <w>Om</w>
+  <w>patienten</w>
+  <w>träffar</w>
+  <absaspan id=30 senti=4>
+    <w>rätt</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>kompetens</w>
+  </absaspan>
+  <w>vid</w>
+  <w>första</w>
+  <w>besöket</w>
+  <w>kan</w>
+  <absaspan id=32 senti=2>
+    <w>onödiga</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>återbesök</w>
+    <w>och</w>
+    <w>remisser</w>
+  </absaspan>
+  <w>undvikas</w>
+  <absaspan id=34>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=10>
+  <w>Det</w>
+  <w>finns</w>
+  <w>många</w>
+  <absaspan id=35 senti=4>
+    <w>goda</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>exempel</w>
+  </absaspan>
+  <w>där</w>
+  <w>man</w>
+  <w>redan</w>
+  <w>arbetar</w>
+  <w>på</w>
+  <w>detta</w>
+  <w>sätt</w>
+  <w>och</w>
+  <w>forskning</w>
+  <w>visar</w>
+  <w>att</w>
+  <w>vården</w>
+  <w>blir</w>
+  <w>likvärdig</w>
+  <w>eller</w>
+  <w>bättre</w>
+  <w>med</w>
+  <w>nöjda</w>
+  <w>patienter</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <absaspan id=37>
+    <w>Om</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>förväntningarna</w>
+    <w>på</w>
+    <w>framtidens</w>
+    <w>primärvård</w>
+    <w>ska</w>
+    <w>införlivas</w>
+    <w>behövs</w>
+    <w>också</w>
+    <w>strategier</w>
+    <w>och</w>
+    <w>handlingsplaner</w>
+    <w>för</w>
+    <w>hur</w>
+    <w>kompetensförsörjning</w>
+    <w>och</w>
+    <w>rätt</w>
+    <w>använd</w>
+    <w>kompetens</w>
+    <w>,</w>
+    <w>användandet</w>
+    <w>av</w>
+    <w>ny</w>
+    <w>teknik</w>
+    <w>och</w>
+    <w>digitalisering</w>
+    <w>ska</w>
+    <w>fungera</w>
+    <w>samt</w>
+    <w>ett</w>
+    <w>större</w>
+    <w>fokus</w>
+    <w>på</w>
+    <w>hälsofrämjande</w>
+    <w>och</w>
+    <w>preventiva</w>
+    <w>åtgärder</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <absaspan id=39>
+    <w>Detta</w>
+  </absaspan>
+  <w>tror</w>
+  <absaspan id=40>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=41 senti=4>
+    <w>är</w>
+    <w>en</w>
+    <w>god</w>
+    <w>väg</w>
+    <w>framåt</w>
+  </absaspan>
+  <w>mot</w>
+  <w>en</w>
+  <w>framtid</w>
+  <w>där</w>
+  <w>patientens</w>
+  <w>behov</w>
+  <w>får</w>
+  <w>styra</w>
+  <w>och</w>
+  <w>där</w>
+  <w>vi</w>
+  <w>är</w>
+  <w>fler</w>
+  <w>professioner</w>
+  <w>som</w>
+  <w>tillsammans</w>
+  <w>bär</w>
+  <w>ansvaret</w>
+  <w>för</w>
+  <w>att</w>
+  <w>skapa</w>
+  <w>en</w>
+  <absaspan id=42 senti=4>
+    <w>effektiv</w>
+    <w>och</w>
+    <w>patientsäker</w>
+  </absaspan>
+  <absaspan id=43>
+    <w>primärvård</w>
+  </absaspan>
+  <w>!</w>
+  <absaspan id=44>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=13>
+  <w>Stefan</w>
+  <w>Jutterdal</w>
+  <w>,</w>
+  <w>ordförande</w>
+  <w>FysioterapeuternaIda</w>
+  <w>Kåhlin</w>
+  <w>,</w>
+  <w>ordförande</w>
+  <w>Sveriges</w>
+  <w>ArbetsterapeuterAnders</w>
+  <w>Wahlberg</w>
+  <w>,</w>
+  <w>ordförande</w>
+  <w>Sveriges</w>
+  <w>PsykologförbundSineva</w>
+  <w>Ribeiro</w>
+  <w>,</w>
+  <w>ordförande</w>
+  <w>Vårdförbundet</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Häng</w>
+  <w>med</w>
+  <w>i</w>
+  <w>debatten</w>
+  <w>och</w>
+  <w>kommentera</w>
+  <w>artikeln</w>
+  <w>–</w>
+  <w>gilla</w>
+  <w>Debatt</w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>.</w>
+</absapar>
+</absadoc>

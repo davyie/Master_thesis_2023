@@ -1,0 +1,111 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Har</w>
+  <w>invandrare</w>
+  <w>lägre</w>
+  <w>IQ</w>
+  <w>än</w>
+  <w>Svensken</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=1>
+  <w>Sitter</w>
+  <w>och</w>
+  <w>läser</w>
+  <w>på</w>
+  <w>en</w>
+  <w>av</w>
+  <w>Sverigedemokraternas</w>
+  <w>gilla-sida</w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>.</w>
+  <absaspan id=1>
+    <w>99</w>
+    <w>/</w>
+    <w>100</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>invandrare</w>
+  </absaspan>
+  <w>verkar</w>
+  <w>inte</w>
+  <w>kunna</w>
+  <w>komma</w>
+  <w>med</w>
+  <w>något</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>;</w>
+  <absaspan id=3 senti=1>
+    <w>fitta</w>
+    <w>,</w>
+    <w>hora</w>
+    <w>,</w>
+    <w>svennejävel</w>
+    <w>,</w>
+    <w>knulla</w>
+    <w>dig</w>
+    <w>i</w>
+    <w>arslet</w>
+    <w>,</w>
+    <w>din</w>
+    <w>mamma</w>
+    <w>,</w>
+    <w>bögjävel</w>
+    <w>etc</w>
+  </absaspan>
+  <w>till</w>
+  <absaspan id=4>
+    <w>de</w>
+    <w>som</w>
+    <w>skriver</w>
+    <w>att</w>
+    <w>de</w>
+    <w>vill</w>
+    <w>minska</w>
+    <w>invandringen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=5>
+    <w>De</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>verkar</w>
+    <w>absolut</w>
+    <w>inte</w>
+    <w>ha</w>
+    <w>någon</w>
+    <w>som</w>
+    <w>helst</w>
+    <w>förankring</w>
+    <w>till</w>
+    <w>verkligheten</w>
+  </absaspan>
+  <w>.</w>
+  <w>En</w>
+  <w>kille</w>
+  <w>med</w>
+  <w>utländskt</w>
+  <w>namn</w>
+  <w>skrev</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=1>
+  <w>Är</w>
+  <w>deras</w>
+  <w>intelligens</w>
+  <w>lägre</w>
+  <w>än</w>
+  <w>vår</w>
+  <w>?</w>
+  <w>jag</w>
+  <w>börjar</w>
+  <w>tro</w>
+  <w>det</w>
+  <w>.</w>
+</absapar>
+</absadoc>

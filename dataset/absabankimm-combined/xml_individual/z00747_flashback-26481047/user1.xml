@@ -1,0 +1,109 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Varför</w>
+  <w>är</w>
+  <w>islamofobi</w>
+  <w>(</w>
+  <w>och</w>
+  <w>likande</w>
+  <w>)</w>
+  <w>ett</w>
+  <w>problem</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Medierna</w>
+  <w>tar</w>
+  <w>ofta</w>
+  <w>upp</w>
+  <w>"</w>
+  <w>islamofobi</w>
+  <w>"</w>
+  <w>eller</w>
+  <absaspan id=1>
+    <w>kritik</w>
+    <w>mot</w>
+    <w>judar</w>
+    <w>(</w>
+    <w>som</w>
+    <w>förvisso</w>
+    <w>är</w>
+    <w>ett</w>
+    <w>folk</w>
+    <w>också</w>
+    <w>)</w>
+    <w>som</w>
+    <w>ett</w>
+    <w>problem</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=2 senti=2>
+    <w>man</w>
+    <w>kan</w>
+    <w>verkligen</w>
+    <w>undra</w>
+    <w>varför</w>
+  </absaspan>
+  <w>.</w>
+  <w>Man</w>
+  <w>kan</w>
+  <w>ju</w>
+  <w>tycka</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>tidningar</w>
+  </absaspan>
+  <w>på</w>
+  <w>något</w>
+  <w>sätt</w>
+  <w>är</w>
+  <w>en</w>
+  <w>symbol</w>
+  <w>för</w>
+  <w>det</w>
+  <w>fria</w>
+  <w>ordet</w>
+  <w>och</w>
+  <w>upplysta</w>
+  <w>samhället</w>
+  <w>och</w>
+  <w>därför</w>
+  <w>inte</w>
+  <w>ständigt</w>
+  <w>borde</w>
+  <w>vinkla</w>
+  <w>kritiker</w>
+  <w>av</w>
+  <w>religion</w>
+  <w>och</w>
+  <w>dess</w>
+  <w>utövare</w>
+  <w>som</w>
+  <w>att</w>
+  <w>de</w>
+  <w>är</w>
+  <w>hemska</w>
+  <w>mördarnazister</w>
+  <w>utan</w>
+  <w>snarare</w>
+  <w>rationellt</w>
+  <w>tänkande</w>
+  <w>individer</w>
+  <absaspan id=4 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Varför</w>
+  <w>vinklar</w>
+  <w>de</w>
+  <w>som</w>
+  <w>de</w>
+  <w>gör</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

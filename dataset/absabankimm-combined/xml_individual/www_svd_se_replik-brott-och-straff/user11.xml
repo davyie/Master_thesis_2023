@@ -1,0 +1,560 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>REPLIK</w>
+  <w>Brott</w>
+  <w>och</w>
+  <w>straff</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Hägglund</w>
+  <w>glömmer</w>
+  <w>nämna</w>
+  <w>hur</w>
+  <w>brotten</w>
+  <w>ska</w>
+  <w>minskas</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=1>
+    <w>Paulina</w>
+    <w>Neuding</w>
+  </absaspan>
+  <w>(</w>
+  <w>25</w>
+  <w>/</w>
+  <w>3</w>
+  <w>)</w>
+  <absaspan id=2 senti=4>
+    <w>har</w>
+    <w>helt</w>
+    <w>rätt</w>
+  </absaspan>
+  <w>i</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>dagens</w>
+    <w>kriminalpolitik</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>präglas</w>
+    <w>av</w>
+  </absaspan>
+  <w>en</w>
+  <w>blandning</w>
+  <w>av</w>
+  <absaspan id=5 senti=2>
+    <w>brist</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>på</w>
+    <w>idéer</w>
+    <w>,</w>
+    <w>plakatpolitik</w>
+    <w>och</w>
+    <w>uppgivenhet</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=7>
+    <w>Göran</w>
+    <w>Hägglund</w>
+  </absaspan>
+  <w>illustrerar</w>
+  <w>detta</w>
+  <w>väl</w>
+  <w>(</w>
+  <w>1</w>
+  <w>/</w>
+  <w>4</w>
+  <w>)</w>
+  <w>när</w>
+  <w>han</w>
+  <w>ägnar</w>
+  <w>en</w>
+  <w>hel</w>
+  <w>artikel</w>
+  <w>åt</w>
+  <absaspan id=8 senti=2>
+    <w>att</w>
+    <w>sjunga</w>
+    <w>straffets</w>
+    <w>lov</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>För</w>
+  <w>det</w>
+  <w>första</w>
+  <w>:</w>
+  <absaspan id=9>
+    <w>Hägglund</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>för</w>
+    <w>en</w>
+    <w>pseudodebatt</w>
+  </absaspan>
+  <w>eftersom</w>
+  <w>ingen</w>
+  <w>har</w>
+  <w>förespråkat</w>
+  <w>ett</w>
+  <w>straffritt</w>
+  <w>samhälle</w>
+  <w>.</w>
+  <w>För</w>
+  <w>det</w>
+  <w>andra</w>
+  <w>:</w>
+  <w>Hur</w>
+  <w>kan</w>
+  <w>en</w>
+  <w>socialminister</w>
+  <w>,</w>
+  <w>tillika</w>
+  <w>ledare</w>
+  <w>för</w>
+  <w>ett</w>
+  <w>kristet</w>
+  <w>parti</w>
+  <w>,</w>
+  <w>skriva</w>
+  <w>en</w>
+  <w>kriminalpolitisk</w>
+  <w>artikel</w>
+  <w>utan</w>
+  <w>att</w>
+  <w>med</w>
+  <w>ett</w>
+  <w>enda</w>
+  <w>ord</w>
+  <w>nämna</w>
+  <w>hur</w>
+  <w>han</w>
+  <w>vill</w>
+  <w>minska</w>
+  <w>brottsligheten</w>
+  <w>?</w>
+  <w>Många</w>
+  <w>av</w>
+  <w>de</w>
+  <absaspan id=11 senti=4>
+    <w>förebyggande</w>
+    <w>åtgärder</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=12>
+    <w>skulle</w>
+    <w>minska</w>
+    <w>antalet</w>
+    <w>brottsoffer</w>
+  </absaspan>
+  <w>finns</w>
+  <w>ju</w>
+  <w>inom</w>
+  <w>hans</w>
+  <w>ansvarsområde</w>
+  <w>,</w>
+  <w>socialpolitiken</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <w>Om</w>
+  <w>Hägglund</w>
+  <w>dessutom</w>
+  <w>verkligen</w>
+  <w>menar</w>
+  <w>att</w>
+  <w>den</w>
+  <w>enskilde</w>
+  <w>normalt</w>
+  <w>oavsett</w>
+  <w>omständigheter</w>
+  <w>är</w>
+  <absaspan id=13>
+    <w>en</w>
+    <w>moralisk</w>
+    <w>person</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=14 senti=4>
+    <w>har</w>
+    <w>i</w>
+    <w>sin</w>
+    <w>makt</w>
+    <w>välja</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>mellan</w>
+    <w>rätt</w>
+    <w>och</w>
+    <w>fel</w>
+  </absaspan>
+  <w>,</w>
+  <w>det</w>
+  <w>vill</w>
+  <w>säga</w>
+  <w>att</w>
+  <w>brott</w>
+  <w>bara</w>
+  <w>beror</w>
+  <w>på</w>
+  <absaspan id=16 senti=2>
+    <w>bristande</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>moral</w>
+  </absaspan>
+  <w>,</w>
+  <w>så</w>
+  <w>måste</w>
+  <absaspan id=18>
+    <w>han</w>
+  </absaspan>
+  <w>mena</w>
+  <w>att</w>
+  <absaspan id=19>
+    <w>invandrare</w>
+  </absaspan>
+  <absaspan id=20 senti=2>
+    <w>har</w>
+    <w>2,5</w>
+    <w>gånger</w>
+    <w>sämre</w>
+    <w>moral</w>
+    <w>än</w>
+    <w>svenskarna</w>
+  </absaspan>
+  <w>,</w>
+  <w>att</w>
+  <absaspan id=21>
+    <w>lågutbildade</w>
+  </absaspan>
+  <absaspan id=22 senti=2>
+    <w>har</w>
+    <w>5,7</w>
+    <w>gånger</w>
+    <w>sämre</w>
+    <w>moral</w>
+    <w>än</w>
+    <w>högutbildade</w>
+  </absaspan>
+  <w>och</w>
+  <w>att</w>
+  <absaspan id=23>
+    <w>socialhjälpstagarna</w>
+  </absaspan>
+  <absaspan id=24 senti=2>
+    <w>har</w>
+    <w>6,1</w>
+    <w>gånger</w>
+    <w>sämre</w>
+    <w>moral</w>
+    <w>än</w>
+    <w>övriga</w>
+  </absaspan>
+  <w>.</w>
+  <w>Detta</w>
+  <w>är</w>
+  <w>skillnaderna</w>
+  <w>i</w>
+  <w>registrerad</w>
+  <absaspan id=25 senti=2>
+    <w>brottslighet</w>
+  </absaspan>
+  <w>mellan</w>
+  <w>dessa</w>
+  <w>grupper</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=26>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=27 senti=2>
+    <w>är</w>
+  </absaspan>
+  <w>däremot</w>
+  <absaspan id=28 senti=5>
+    <w>mycket</w>
+  </absaspan>
+  <absaspan id=29 senti=5>
+    <w>glada</w>
+    <w>åt</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>att</w>
+    <w>årets</w>
+    <w>pristagare</w>
+    <w>i</w>
+    <w>Stockholm</w>
+    <w>Prize</w>
+    <w>in</w>
+    <w>Criminology</w>
+    <w>,</w>
+    <w>David</w>
+    <w>Weisburd</w>
+    <w>,</w>
+    <w>uppmärksammas</w>
+  </absaspan>
+  <w>.</w>
+  <w>Hans</w>
+  <w>forskningsfynd</w>
+  <w>visar</w>
+  <w>att</w>
+  <absaspan id=31>
+    <w>kunskapsbaserade</w>
+    <w>polismetoder</w>
+  </absaspan>
+  <absaspan id=32 senti=4>
+    <w>kan</w>
+    <w>minska</w>
+    <w>brottsligheten</w>
+  </absaspan>
+  <w>.</w>
+  <w>Detta</w>
+  <w>betyder</w>
+  <w>naturligtvis</w>
+  <w>inte</w>
+  <w>att</w>
+  <w>riktade</w>
+  <w>polisinsatser</w>
+  <w>mot</w>
+  <w>så</w>
+  <w>kallade</w>
+  <w>hot</w>
+  <w>spots</w>
+  <w>,</w>
+  <w>är</w>
+  <w>de</w>
+  <w>enda</w>
+  <absaspan id=33 senti=4>
+    <w>effektiva</w>
+  </absaspan>
+  <absaspan id=34>
+    <w>åtgärderna</w>
+    <w>mot</w>
+    <w>brottslighet</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=35 senti=4>
+    <w>Brottsprevention</w>
+  </absaspan>
+  <w>handlar</w>
+  <w>om</w>
+  <w>insatser</w>
+  <w>på</w>
+  <w>flera</w>
+  <w>nivåer</w>
+  <w>.</w>
+  <w>Davis</w>
+  <w>Olds</w>
+  <w>,</w>
+  <w>en</w>
+  <w>tidigare</w>
+  <w>pristagare</w>
+  <w>av</w>
+  <w>det</w>
+  <w>ovan</w>
+  <w>nämnda</w>
+  <w>priset</w>
+  <w>,</w>
+  <w>har</w>
+  <w>till</w>
+  <w>exempel</w>
+  <w>visat</w>
+  <w>att</w>
+  <w>insatser</w>
+  <w>i</w>
+  <w>form</w>
+  <w>av</w>
+  <absaspan id=36 senti=4>
+    <w>stöd</w>
+  </absaspan>
+  <w>till</w>
+  <absaspan id=37>
+    <w>socialt</w>
+    <w>utsatta</w>
+    <w>mammor</w>
+  </absaspan>
+  <w>ger</w>
+  <w>effekter</w>
+  <w>i</w>
+  <w>form</w>
+  <w>av</w>
+  <absaspan id=38 senti=4>
+    <w>minskad</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>brottslighet</w>
+  </absaspan>
+  <w>både</w>
+  <w>mot</w>
+  <w>och</w>
+  <w>av</w>
+  <w>dessa</w>
+  <w>barn</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=40>
+    <w>Hägglunds</w>
+    <w>teori</w>
+  </absaspan>
+  <w>tycks</w>
+  <w>vara</w>
+  <w>att</w>
+  <absaspan id=41 senti=4>
+    <w>straffet</w>
+    <w>underlättar</w>
+  </absaspan>
+  <w>för</w>
+  <w>den</w>
+  <w>brottslige</w>
+  <absaspan id=42>
+    <w>att</w>
+    <w>återinträda</w>
+    <w>i</w>
+    <w>samhällsgemenskapen</w>
+    <w>och</w>
+    <w>leva</w>
+    <w>ett</w>
+    <w>laglydigt</w>
+    <w>liv</w>
+  </absaspan>
+  <w>.</w>
+  <w>De</w>
+  <w>flesta</w>
+  <w>vet</w>
+  <w>att</w>
+  <w>i</w>
+  <w>praktiken</w>
+  <w>så</w>
+  <absaspan id=43 senti=2>
+    <w>innebär</w>
+  </absaspan>
+  <w>ett</w>
+  <absaspan id=44>
+    <w>avtjänat</w>
+    <w>fängelsestraff</w>
+  </absaspan>
+  <w>dels</w>
+  <w>en</w>
+  <absaspan id=45 senti=2>
+    <w>hög</w>
+  </absaspan>
+  <absaspan id=46 senti=2>
+    <w>återfallsrisk</w>
+  </absaspan>
+  <w>,</w>
+  <w>dels</w>
+  <absaspan id=47 senti=2>
+    <w>stora</w>
+  </absaspan>
+  <absaspan id=48 senti=2>
+    <w>svårigheter</w>
+  </absaspan>
+  <absaspan id=49>
+    <w>att</w>
+    <w>till</w>
+    <w>exempel</w>
+    <w>erhålla</w>
+    <w>ett</w>
+    <w>lagligt</w>
+    <w>arbete</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>JERZY</w>
+  <w>SARNECKI</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>professor</w>
+  <w>i</w>
+  <w>allmän</w>
+  <w>kriminologi</w>
+  <w>och</w>
+  <w>ordförande</w>
+  <w>i</w>
+  <w>juryn</w>
+  <w>för</w>
+  <w>Stockholms</w>
+  <w>Prize</w>
+  <w>in</w>
+  <w>Criminology</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Björn</w>
+  <w>Fries</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Socialpolitisk</w>
+  <w>rådgivare</w>
+  <w>åt</w>
+  <w>S</w>
+  <w>i</w>
+  <w>Stockholm</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,202 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <absaspan id=1>
+    <w>Forskare</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>låtsas</w>
+    <w>inte</w>
+    <w>förstå</w>
+  </absaspan>
+  <w>varför</w>
+  <w>IQ-nivån</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>sjunker</w>
+  <w>.</w>
+  <absaspan id=3 senti=2>
+    <w>Skyller</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>ipads</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Som</w>
+  <w>rubriken</w>
+  <w>lyder</w>
+  <absaspan id=5 senti=2>
+    <w>låtsas</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>forskare</w>
+  </absaspan>
+  <w>helt</w>
+  <w>enkelt</w>
+  <absaspan id=7 senti=2>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>förstå</w>
+  </absaspan>
+  <w>varför</w>
+  <w>den</w>
+  <w>genomsnittliga</w>
+  <w>IQ</w>
+  <w>:</w>
+  <w>n</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>sjunker</w>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=9 senti=2>
+    <w>skyller</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>således</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>ipads</w>
+    <w>och</w>
+    <w>mobiltelefoner</w>
+  </absaspan>
+  <w>,</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=13 senti=2>
+    <w>inte</w>
+    <w>finns</w>
+    <w>samband</w>
+    <w>överhuvudtaget</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>De</w>
+  <absaspan id=14 senti=2>
+    <w>nämner</w>
+    <w>inte</w>
+    <w>ett</w>
+    <w>ord</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>att</w>
+    <w>en</w>
+    <w>stor</w>
+    <w>del</w>
+    <w>av</w>
+    <w>ungdomarna</w>
+    <w>kommer</w>
+    <w>från</w>
+    <w>länder</w>
+    <w>med</w>
+    <w>en</w>
+    <w>genomsnittlig</w>
+    <w>IQ</w>
+    <w>på</w>
+    <w>mellan</w>
+    <w>68</w>
+    <w>och</w>
+    <w>85</w>
+  </absaspan>
+  <w>,</w>
+  <w>beroende</w>
+  <w>på</w>
+  <w>varifrån</w>
+  <w>de</w>
+  <w>kommer</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Om</w>
+  <w>etniska</w>
+  <w>svenskar</w>
+  <w>,</w>
+  <w>vilka</w>
+  <w>har</w>
+  <w>en</w>
+  <w>genomsnittlig</w>
+  <w>IQ</w>
+  <w>på</w>
+  <w>100</w>
+  <w>+</w>
+  <w>,</w>
+  <w>hamnar</w>
+  <w>under</w>
+  <w>samma</w>
+  <w>grupp</w>
+  <w>som</w>
+  <w>folk</w>
+  <w>med</w>
+  <w>betydligt</w>
+  <w>lägre</w>
+  <w>IQ</w>
+  <w>,</w>
+  <w>så</w>
+  <w>sjunker</w>
+  <w>den</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>behövs</w>
+  <w>det</w>
+  <w>knappast</w>
+  <w>forskning</w>
+  <w>för</w>
+  <w>att</w>
+  <w>fastslå</w>
+  <absaspan id=16 senti=2>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>IQ</w>
+    <w>är</w>
+    <w>dessutom</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>väldigt</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>svårt</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>att</w>
+    <w>träna</w>
+    <w>upp</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=21 senti=2>
+    <w>om</w>
+    <w>det</w>
+    <w>ens</w>
+    <w>går</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>detta</w>
+  <absaspan id=22 senti=2>
+    <w>PK-uttalande</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Artikel</w>
+  <w>i</w>
+  <w>SVD</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+</absadoc>

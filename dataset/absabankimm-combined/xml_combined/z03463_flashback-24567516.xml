@@ -1,0 +1,85 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>kommunistiska</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>partiet</w>
+  </absaspan>
+  <w>mot</w>
+  <w>invandring</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Jag</w>
+  <w>har</w>
+  <w>läst</w>
+  <w>någonstans</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>KPLM</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>(</w>
+    <w>r</w>
+    <w>)</w>
+  </absaspan>
+  <w>nuvarande</w>
+  <absaspan id=5>
+    <w>KP</w>
+  </absaspan>
+  <w>inte</w>
+  <w>vill</w>
+  <w>ha</w>
+  <w>invandring</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <absaspan id=6>
+    <w>De</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>är</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>trotskismens</w>
+    <w>internationalisering</w>
+  </absaspan>
+  <w>och</w>
+  <w>vill</w>
+  <w>skapa</w>
+  <w>en</w>
+  <w>socialism</w>
+  <w>som</w>
+  <w>bara</w>
+  <w>innefattar</w>
+  <w>infödda</w>
+  <w>svenskar</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Hur</w>
+  <w>ligger</w>
+  <w>det</w>
+  <w>till</w>
+  <w>?</w>
+  <w>'</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Är</w>
+  <absaspan id=9>
+    <w>Stalinistiska</w>
+    <w>ideologin</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>invandring</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

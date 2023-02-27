@@ -1,0 +1,170 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>M</w>
+  </absaspan>
+  <absaspan id=2 senti=2 partof=3>
+    <w>riskerar</w>
+  </absaspan>
+  <w>nu</w>
+  <w>att</w>
+  <absaspan id=3 senti=2 target=1>
+    <w>slängas</w>
+  </absaspan>
+  <absaspan id=4 senti=2 target=1>
+    <w>ut</w>
+  </absaspan>
+  <w>ur</w>
+  <w>Alliansen</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=5>
+    <w>Annie</w>
+  </absaspan>
+  <w>har</w>
+  <w>redan</w>
+  <w>krönts</w>
+  <w>till</w>
+  <absaspan id=6 senti=4>
+    <w>Alliansens</w>
+    <w>nya</w>
+    <w>Drottning</w>
+  </absaspan>
+  <w>,</w>
+  <w>samtidigt</w>
+  <w>som</w>
+  <absaspan id=7>
+    <w>Medierna</w>
+  </absaspan>
+  <absaspan id=8 senti=1>
+    <w>kastar</w>
+    <w>så</w>
+    <w>mycket</w>
+    <w>skit</w>
+    <w>de</w>
+    <w>bara</w>
+    <w>kan</w>
+  </absaspan>
+  <w>på</w>
+  <absaspan id=9>
+    <w>AKB</w>
+  </absaspan>
+  <w>.</w>
+  <w>Samtidigt</w>
+  <w>som</w>
+  <absaspan id=10>
+    <w>flera</w>
+    <w>borgerliga</w>
+    <w>skribenter</w>
+  </absaspan>
+  <w>antyder</w>
+  <w>att</w>
+  <absaspan id=11>
+    <w>M</w>
+  </absaspan>
+  <w>kan</w>
+  <w>vara</w>
+  <w>på</w>
+  <w>väga</w>
+  <w>att</w>
+  <absaspan id=12 senti=2>
+    <w>kastas</w>
+    <w>ut</w>
+    <w>ur</w>
+    <w>Alliansens</w>
+    <w>värme</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Hur</w>
+  <w>ser</w>
+  <w>ni</w>
+  <w>på</w>
+  <w>scenariot</w>
+  <w>där</w>
+  <w>L-C-KD</w>
+  <w>bildar</w>
+  <w>en</w>
+  <w>egen</w>
+  <w>block</w>
+  <w>utan</w>
+  <w>M</w>
+  <w>men</w>
+  <w>med</w>
+  <absaspan id=13 senti=4>
+    <w>ett</w>
+    <w>väldigt</w>
+    <w>starkt</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>C</w>
+  </absaspan>
+  <w>som</w>
+  <w>tar</w>
+  <w>över</w>
+  <w>rollen</w>
+  <w>som</w>
+  <w>vågmästare</w>
+  <w>mellan</w>
+  <w>S-MP-regeringen</w>
+  <w>till</w>
+  <w>vänster</w>
+  <w>och</w>
+  <w>M</w>
+  <w>till</w>
+  <w>höger</w>
+  <w>med</w>
+  <absaspan id=15>
+    <w>VPK</w>
+    <w>och</w>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>utfrysta</w>
+  </absaspan>
+  <w>på</w>
+  <w>var</w>
+  <w>sin</w>
+  <w>kant</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>På</w>
+  <w>det</w>
+  <w>sättet</w>
+  <w>skulle</w>
+  <absaspan id=17>
+    <w>parlamentet</w>
+  </absaspan>
+  <w>ha</w>
+  <w>lyckats</w>
+  <w>hålla</w>
+  <w>bort</w>
+  <absaspan id=18 senti=1>
+    <w>kommunisterna</w>
+    <w>och</w>
+    <w>rasist</w>
+    <w>/</w>
+    <w>fascist</w>
+    <w>/</w>
+    <w>nazisterna</w>
+  </absaspan>
+  <w>från</w>
+  <w>parlamentarisk</w>
+  <w>inflytande</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>Annie</w>
+  <w>och</w>
+  <w>Alliansen</w>
+  <w>skulle</w>
+  <w>så</w>
+  <w>klart</w>
+  <w>hyllas</w>
+  <w>för</w>
+  <w>detta</w>
+  <w>.</w>
+</absapar>
+</absadoc>

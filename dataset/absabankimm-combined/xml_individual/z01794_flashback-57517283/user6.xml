@@ -1,0 +1,292 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Tysklands</w>
+    <w>finansminister</w>
+  </absaspan>
+  <absaspan id=2 senti=4 source=1 target=3>
+    <w>hyllar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>muslimer</w>
+    <w>som</w>
+    <w>europas</w>
+    <w>framtid</w>
+  </absaspan>
+  <w>-</w>
+  <w>Islam</w>
+  <w>tillhör</w>
+  <w>Tyskland</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4>
+    <w>Tysklands</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>kristdemokratiske</w>
+    <w>finansminister</w>
+    <w>Wolfgang</w>
+    <w>Schäuble</w>
+  </absaspan>
+  <w>skräder</w>
+  <w>inte</w>
+  <w>orden</w>
+  <w>utan</w>
+  <absaspan id=6 senti=2>
+    <w>markerar</w>
+  </absaspan>
+  <w>åter</w>
+  <absaspan id=7 senti=2>
+    <w>kraftfullt</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>mot</w>
+    <w>de</w>
+    <w>länder</w>
+    <w>i</w>
+    <w>europa</w>
+    <w>som</w>
+    <w>inte</w>
+    <w>tar</w>
+    <w>sitt</w>
+    <w>ansvar</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=9>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>varnar</w>
+  </absaspan>
+  <w>europas</w>
+  <w>länder</w>
+  <w>för</w>
+  <absaspan id=11>
+    <w>att</w>
+    <w>isolera</w>
+    <w>sig</w>
+    <w>och</w>
+    <w>avskärma</w>
+    <w>sig</w>
+    <w>från</w>
+    <w>omvärlden</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=12>
+    <w>han</w>
+  </absaspan>
+  <w>säger</w>
+  <w>att</w>
+  <absaspan id=13>
+    <w>de</w>
+    <w>länder</w>
+    <w>som</w>
+    <w>avskärmar</w>
+    <w>sig</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>riskerar</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>att</w>
+    <w>gå</w>
+    <w>under</w>
+    <w>genom</w>
+    <w>ekonomisk</w>
+    <w>stagnation</w>
+    <w>och</w>
+    <w>inavel</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Redan</w>
+  <w>tidigare</w>
+  <w>har</w>
+  <w>han</w>
+  <w>sagt</w>
+  <w>att</w>
+  <w>Islam</w>
+  <w>tillhör</w>
+  <w>Tyskland</w>
+  <w>,</w>
+  <w>precis</w>
+  <w>som</w>
+  <w>Angela</w>
+  <w>Merkel</w>
+  <w>har</w>
+  <w>sagt</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Nu</w>
+  <w>i</w>
+  <w>dagarna</w>
+  <w>blev</w>
+  <w>för</w>
+  <w>övrigt</w>
+  <absaspan id=16>
+    <w>Angela</w>
+    <w>Merkel</w>
+  </absaspan>
+  <w>för</w>
+  <w>sjätte</w>
+  <w>gången</w>
+  <w>i</w>
+  <w>rad</w>
+  <absaspan id=17 senti=5>
+    <w>utnämnd</w>
+    <w>till</w>
+    <w>världens</w>
+    <w>mäktigaste</w>
+    <w>kvinna</w>
+  </absaspan>
+  <w>!</w>
+  <absaspan id=18>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <absaspan id=19>
+    <w>Wolfgang</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>Schäuble</w>
+  </absaspan>
+  <absaspan id=21 senti=5>
+    <w>hyllar</w>
+  </absaspan>
+  <w>nu</w>
+  <absaspan id=22>
+    <w>muslimerna</w>
+    <w>som</w>
+    <w>europas</w>
+    <w>räddning</w>
+  </absaspan>
+  <w>och</w>
+  <w>som</w>
+  <w>europas</w>
+  <w>framtid</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>En</w>
+  <absaspan id=23 senti=5>
+    <w>särskild</w>
+    <w>hyllning</w>
+  </absaspan>
+  <w>framför</w>
+  <absaspan id=24>
+    <w>han</w>
+  </absaspan>
+  <w>till</w>
+  <absaspan id=25>
+    <w>de</w>
+    <w>miljoner</w>
+    <w>unga</w>
+    <w>muslimska</w>
+    <w>tyskar</w>
+    <w>med</w>
+    <w>turkisk</w>
+    <w>bakgrund</w>
+    <w>,</w>
+    <w>och</w>
+    <w>till</w>
+    <w>kvinnorna</w>
+    <w>i</w>
+    <w>synnerhet</w>
+    <w>för</w>
+    <w>deras</w>
+    <w>roll</w>
+    <w>i</w>
+    <w>det</w>
+    <w>nya</w>
+    <w>Tyskland</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Diskutera</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Hur</w>
+  <w>reagerar</w>
+  <w>de</w>
+  <w>östeuropeiska</w>
+  <w>länderna</w>
+  <w>på</w>
+  <w>Tysklands</w>
+  <absaspan id=26 senti=2>
+    <w>utspel</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Vad</w>
+  <w>betyder</w>
+  <w>det</w>
+  <w>för</w>
+  <w>europa</w>
+  <w>att</w>
+  <absaspan id=27>
+    <w>europas</w>
+    <w>mäktigaste</w>
+    <w>och</w>
+    <w>rikaste</w>
+    <w>land</w>
+  </absaspan>
+  <absaspan id=28 senti=5>
+    <w>hyllar</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>muslimerna</w>
+    <w>och</w>
+    <w>islam</w>
+  </absaspan>
+  <w>på</w>
+  <w>ett</w>
+  <w>så</w>
+  <w>tydligt</w>
+  <w>sätt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Kan</w>
+  <absaspan id=30>
+    <w>Tyskland</w>
+  </absaspan>
+  <w>övertyga</w>
+  <w>andra</w>
+  <w>länder</w>
+  <w>att</w>
+  <absaspan id=31>
+    <w>Islam</w>
+  </absaspan>
+  <absaspan id=32 senti=4>
+    <w>är</w>
+    <w>en</w>
+    <w>naturlig</w>
+    <w>del</w>
+    <w>av</w>
+    <w>europa</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>personligen</w>
+  <w>om</w>
+  <w>detta</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

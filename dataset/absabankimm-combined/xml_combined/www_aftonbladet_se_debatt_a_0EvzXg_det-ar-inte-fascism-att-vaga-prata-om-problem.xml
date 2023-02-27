@@ -1,0 +1,687 @@
+<absadoc annotators=10 senti=3>
+<absatitle>
+  <absaspan id=1 senti=3 target=2>
+    <w>Det</w>
+    <w>är</w>
+    <w>inte</w>
+    <w>fascism</w>
+  </absaspan>
+  <absaspan id=2 senti=4 target=1>
+    <w>att</w>
+    <w>våga</w>
+    <w>prata</w>
+    <w>om</w>
+    <w>problem</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>DEBATT</w>
+  <w>.</w>
+  <w>I</w>
+  <w>förra</w>
+  <w>veckan</w>
+  <w>släppte</w>
+  <absaspan id=4>
+    <w>vi</w>
+    <w>Göteborgsmoderater</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>en</w>
+    <w>valfilm</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>har</w>
+    <w>fått</w>
+    <w>en</w>
+    <w>hel</w>
+    <w>del</w>
+    <w>kritik</w>
+  </absaspan>
+  <w>de</w>
+  <w>senaste</w>
+  <w>dagarna</w>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+  <w>Bland</w>
+  <w>annat</w>
+  <absaspan id=9 senti=2>
+    <w>skrev</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>Petter</w>
+    <w>Larsson</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>artikel</w>
+  </absaspan>
+  <w>på</w>
+  <w>Aftonbladet</w>
+  <w>Kultur</w>
+  <absaspan id=13 senti=2>
+    <w>under</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>rubriken</w>
+    <w>”</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>Moderaternas</w>
+    <w>film</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>är</w>
+    <w>en</w>
+    <w>farlig</w>
+    <w>flirt</w>
+  </absaspan>
+  <absaspan id=17 senti=1>
+    <w>med</w>
+    <w>mörka</w>
+    <w>krafter</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>”</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=19>
+    <w>vår</w>
+    <w>film</w>
+  </absaspan>
+  <w>”</w>
+  <absaspan id=20 senti=2>
+    <w>består</w>
+    <w>av</w>
+    <w>flera</w>
+    <w>,</w>
+    <w>men</w>
+    <w>inte</w>
+    <w>alla</w>
+    <w>,</w>
+    <w>fascistiska</w>
+    <w>grundelement</w>
+  </absaspan>
+  <w>”</w>
+  <w>.</w>
+  <w> </w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Vad</w>
+  <w>har</w>
+  <absaspan id=21>
+    <w>vi</w>
+  </absaspan>
+  <w>då</w>
+  <w>sagt</w>
+  <w>i</w>
+  <absaspan id=22>
+    <w>vår</w>
+    <w>film</w>
+  </absaspan>
+  <w>?</w>
+  <w>Jo</w>
+  <w>att</w>
+  <absaspan id=23>
+    <w>Göteborg</w>
+  </absaspan>
+  <absaspan id=24 senti=5>
+    <w>är</w>
+    <w>en</w>
+    <w>stolt</w>
+    <w>stad</w>
+  </absaspan>
+  <absaspan id=25 senti=5>
+    <w>med</w>
+    <w>en</w>
+    <w>alldeles</w>
+    <w>egen</w>
+    <w>karaktär</w>
+  </absaspan>
+  <w>men</w>
+  <absaspan id=26>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>vi</w>
+    <w>i</w>
+    <w>dag</w>
+  </absaspan>
+  <absaspan id=28 senti=2>
+    <w>har</w>
+    <w>problem</w>
+    <w>med</w>
+    <w>gängkriminalitet</w>
+  </absaspan>
+  <absaspan id=29 senti=1>
+    <w>,</w>
+    <w>utanförskap</w>
+    <w>och</w>
+    <w>religiös</w>
+    <w>extremism</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>Det</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=32>
+    <w>något</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>många</w>
+    <w>göteborgare</w>
+  </absaspan>
+  <absaspan id=34 senti=2>
+    <w>ser</w>
+    <w>allvarligt</w>
+    <w>på</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=35>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=36 senti=4>
+    <w>vill</w>
+    <w>presentera</w>
+    <w>lösningar</w>
+  </absaspan>
+  <absaspan id=37 senti=4>
+    <w>för</w>
+    <w>att</w>
+    <w>möta</w>
+    <w>de</w>
+    <w>problemen</w>
+  </absaspan>
+  <w>.</w>
+  <w> </w>
+</absapar>
+<absapar id=3 senti=3>
+  <absaspan id=38 senti=3>
+    <w>Ingenstans</w>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=40 senti=3>
+    <w>sagt</w>
+  </absaspan>
+  <absaspan id=41 senti=4>
+    <w>att</w>
+    <w>det</w>
+    <w>var</w>
+    <w>guld</w>
+    <w>och</w>
+    <w>gröna</w>
+    <w>skogar</w>
+  </absaspan>
+  <absaspan id=42 senti=3 irony>
+    <w>på</w>
+    <w>80</w>
+    <w>-</w>
+    <w>talet</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=43 senti=3>
+    <w>ingenstans</w>
+    <w>påstår</w>
+    <w>vi</w>
+    <w>att</w>
+    <w>problemen</w>
+  </absaspan>
+  <absaspan id=44 senti=2>
+    <w>orsakats</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=45 senti=3>
+    <w>invandrare</w>
+  </absaspan>
+  <absaspan id=46 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Tvärtom</w>
+  <w>menar</w>
+  <absaspan id=47>
+    <w>vi</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=48 senti=4>
+    <w>Göteborgs</w>
+    <w>bästa</w>
+    <w>tid</w>
+  </absaspan>
+  <absaspan id=49 senti=4>
+    <w>inte</w>
+    <w>varit</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=50>
+    <w>de</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=51 senti=2>
+    <w>drabbats</w>
+    <w>hårdast</w>
+    <w>av</w>
+    <w>segregationen</w>
+  </absaspan>
+  <absaspan id=52 senti=1>
+    <w>i</w>
+    <w>staden</w>
+  </absaspan>
+  <w>,</w>
+  <w>efter</w>
+  <absaspan id=53 senti=1>
+    <w>24</w>
+    <w>års</w>
+    <w>misslyckat</w>
+    <w>S-styre</w>
+  </absaspan>
+  <w>,</w>
+  <w>är</w>
+  <absaspan id=54>
+    <w>alla</w>
+    <w>de</w>
+    <w>människor</w>
+    <w>som</w>
+    <w>kommit</w>
+    <w>till</w>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=55 senti=2>
+    <w>men</w>
+    <w>som</w>
+    <w>aldrig</w>
+    <w>lyckats</w>
+  </absaspan>
+  <absaspan id=56 senti=2>
+    <w>komma</w>
+    <w>in</w>
+    <w>i</w>
+    <w>det</w>
+    <w>svenska</w>
+    <w>samhället</w>
+    <w>.</w>
+    <w> </w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>För</w>
+  <w>det</w>
+  <w>är</w>
+  <absaspan id=57 senti=2>
+    <w>inte</w>
+  </absaspan>
+  <w>primärt</w>
+  <absaspan id=58>
+    <w>i</w>
+    <w>innerstaden</w>
+    <w>eller</w>
+    <w>i</w>
+    <w>villaområdena</w>
+  </absaspan>
+  <absaspan id=59 senti=2>
+    <w>bilar</w>
+  </absaspan>
+  <absaspan id=60 senti=2>
+    <w>brinner</w>
+  </absaspan>
+  <w>eller</w>
+  <absaspan id=61 senti=2>
+    <w>handgranater</w>
+  </absaspan>
+  <absaspan id=62 senti=2>
+    <w>sprängs</w>
+  </absaspan>
+  <absaspan id=63 senti=1>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>Trots</w>
+  <w>att</w>
+  <absaspan id=64 senti=2>
+    <w>brottsligheten</w>
+  </absaspan>
+  <w>totalt</w>
+  <absaspan id=65 senti=4>
+    <w>ligger</w>
+    <w>ganska</w>
+    <w>konstant</w>
+  </absaspan>
+  <absaspan id=66 senti=2>
+    <w>tvingas</w>
+    <w>också</w>
+    <w>skribenter</w>
+    <w>som</w>
+    <w>Petter</w>
+    <w>Larsson</w>
+  </absaspan>
+  <absaspan id=67 senti=2>
+    <w>tillstå</w>
+  </absaspan>
+  <absaspan id=68 senti=2>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=69 senti=2>
+    <w>de</w>
+    <w>grova</w>
+    <w>våldsbrotten</w>
+  </absaspan>
+  <absaspan id=70 senti=2>
+    <w>har</w>
+    <w>ökat</w>
+  </absaspan>
+  <w>och</w>
+  <w>även</w>
+  <w>om</w>
+  <absaspan id=71 senti=2>
+    <w>de</w>
+    <w>anlagda</w>
+    <w>bilbränderna</w>
+  </absaspan>
+  <absaspan id=72 senti=4>
+    <w>minskat</w>
+  </absaspan>
+  <w>mellan</w>
+  <w>2015</w>
+  <w>och</w>
+  <w>2017</w>
+  <w>så</w>
+  <w>är</w>
+  <w>66</w>
+  <w>bilbränder</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>en</w>
+  <w>anlagd</w>
+  <w>brand</w>
+  <w>i</w>
+  <w>veckan</w>
+  <w>och</w>
+  <w>en</w>
+  <absaspan id=73 senti=2>
+    <w>betydande</w>
+  </absaspan>
+  <absaspan id=74>
+    <w>ökning</w>
+  </absaspan>
+  <w>från</w>
+  <w>16</w>
+  <w>bilbränder</w>
+  <w>1998</w>
+  <absaspan id=75 senti=2>
+    <w>.</w>
+    <w> </w>
+  </absaspan>
+</absapar>
+<absapar id=6>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>2017</w>
+  <w>konstaterade</w>
+  <absaspan id=76>
+    <w>polisen</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=77>
+    <w>​</w>
+  </absaspan>
+  <absaspan id=78 senti=1>
+    <w>sju</w>
+    <w> </w>
+    <w>av</w>
+    <w>Sveriges</w>
+    <w>23</w>
+    <w>särskilt</w>
+    <w>utsatta</w>
+    <w>områden</w>
+  </absaspan>
+  <w>finns</w>
+  <absaspan id=79>
+    <w>i</w>
+    <w>Göteborg</w>
+  </absaspan>
+  <absaspan id=80 senti=2>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=81>
+    <w>Där</w>
+  </absaspan>
+  <absaspan id=82 senti=2>
+    <w>har</w>
+    <w>polisen</w>
+    <w>svårt</w>
+    <w>att</w>
+    <w>utföra</w>
+    <w>sitt</w>
+    <w>arbete</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=83>
+    <w>där</w>
+  </absaspan>
+  <absaspan id=84 senti=2>
+    <w>råder</w>
+    <w>det</w>
+    <w>parallella</w>
+    <w>samhällsstrukturer</w>
+  </absaspan>
+  <absaspan id=85 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=7>
+  <w>I</w>
+  <w>en</w>
+  <w>undersökning</w>
+  <w>som</w>
+  <w>Göteborgs</w>
+  <w>Stad</w>
+  <w>själva</w>
+  <w>presenterade</w>
+  <w>den</w>
+  <w>12</w>
+  <w>februari</w>
+  <w>,</w>
+  <w>svarade</w>
+  <absaspan id=86>
+    <w>54</w>
+    <w>procent</w>
+    <w>av</w>
+    <w>anställda</w>
+    <w>inom</w>
+    <w>olika</w>
+    <w>samhällssektorer</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=87 senti=2>
+    <w>religiös</w>
+    <w>extremism</w>
+  </absaspan>
+  <absaspan id=88 senti=2>
+    <w>är</w>
+    <w>ett</w>
+    <w>problem</w>
+  </absaspan>
+  <absaspan id=89>
+    <w>i</w>
+    <w>Göteborg</w>
+  </absaspan>
+  <absaspan id=90>
+    <w>.</w>
+  </absaspan>
+  <w> </w>
+</absapar>
+<absapar id=8 senti=3>
+  <absaspan id=91 senti=2>
+    <w>Ledarskribenter</w>
+    <w>och</w>
+    <w>proffstyckare</w>
+  </absaspan>
+  <absaspan id=92>
+    <w>i</w>
+    <w>Stockholm</w>
+  </absaspan>
+  <absaspan id=93 senti=2>
+    <w>gillar</w>
+    <w>kanske</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=94>
+    <w>att</w>
+    <w>vi</w>
+    <w>pratar</w>
+    <w>om</w>
+    <w>problemen</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>en</w>
+  <absaspan id=95 senti=4>
+    <w>färsk</w>
+  </absaspan>
+  <absaspan id=96>
+    <w>undersökning</w>
+  </absaspan>
+  <w>från</w>
+  <w>Demoskop</w>
+  <w>visar</w>
+  <w>att</w>
+  <w> </w>
+  <absaspan id=97>
+    <w>”</w>
+    <w>Lag</w>
+    <w>och</w>
+    <w>ordning</w>
+  </absaspan>
+  <absaspan id=98>
+    <w>”</w>
+    <w> </w>
+    <w>respektive</w>
+    <w> </w>
+    <w>”</w>
+    <w>Invandring</w>
+  </absaspan>
+  <absaspan id=99>
+    <w>”</w>
+  </absaspan>
+  <w> </w>
+  <w>är</w>
+  <absaspan id=100 senti=4>
+    <w>de</w>
+    <w>två</w>
+    <w>viktigaste</w>
+    <w>valfrågorna</w>
+  </absaspan>
+  <w>bland</w>
+  <absaspan id=101>
+    <w>väljarna</w>
+  </absaspan>
+  <absaspan id=102 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=9>
+  <w>I</w>
+  <absaspan id=103 senti=3>
+    <w>den</w>
+    <w>kontexten</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=104 senti=3>
+    <w>det</w>
+    <w>inte</w>
+    <w>utslag</w>
+    <w>av</w>
+    <w>fascism</w>
+  </absaspan>
+  <absaspan id=105 senti=4>
+    <w>att</w>
+    <w>våga</w>
+    <w>prata</w>
+    <w>om</w>
+    <w>problemen</w>
+  </absaspan>
+  <w>utan</w>
+  <w>tvärtom</w>
+  <absaspan id=106 senti=4>
+    <w>det</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=107>
+    <w>göteborgarna</w>
+  </absaspan>
+  <absaspan id=108 senti=3>
+    <w>kräver</w>
+    <w>av</w>
+    <w>oss</w>
+    <w>politiker</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+</absapar>
+<absapar id=11>
+  <w>Hampus</w>
+  <w>Magnusson</w>
+  <w>,</w>
+  <w>kommunalråd</w>
+  <w>(</w>
+  <w>M</w>
+  <w>)</w>
+  <w>Axel</w>
+  <w>Josefson</w>
+  <w>,</w>
+  <w>tf</w>
+  <w>.</w>
+  <w>ordförande</w>
+  <w>Göteborgsmoderaterna</w>
+  <w>(</w>
+  <w>M</w>
+  <w>)</w>
+  <w>David</w>
+  <w>Josefs​son</w>
+  <w>,</w>
+  <w>riksdagskandidat</w>
+  <w>och</w>
+  <w>ledamot</w>
+  <w>kretsstyrelsen</w>
+  <w>(</w>
+  <w>M</w>
+  <w>)</w>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>⁠</w>
+  <w>Häng</w>
+  <w>med</w>
+  <w>i</w>
+  <w>debatten</w>
+  <w>och</w>
+  <w>kommentera</w>
+  <w>artikeln</w>
+  <w>–</w>
+  <w>gilla</w>
+  <w>Aftonbladet</w>
+  <w>Debatt</w>
+  <w> </w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>.</w>
+</absapar>
+</absadoc>

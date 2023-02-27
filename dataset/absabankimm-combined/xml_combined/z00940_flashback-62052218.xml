@@ -1,0 +1,126 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Varför</w>
+  <absaspan id=1 senti=2 target=2 source=3>
+    <w>svårt</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>att</w>
+    <w>utvisa</w>
+    <w>folk</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=2>
+  <absaspan id=4>
+    <w>Sveriges</w>
+    <w>regering</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>ju</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>uppenbarligen</w>
+  </absaspan>
+  <absaspan id=8 senti=1>
+    <w>enorma</w>
+    <w>problem</w>
+    <w>att</w>
+    <w>lyckas</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>med</w>
+    <w>att</w>
+    <w>utvisa</w>
+    <w>ens</w>
+    <w>en</w>
+    <w>bråkdel</w>
+    <w>av</w>
+    <w>alla</w>
+    <w>de</w>
+    <w>som</w>
+    <w>regeringen</w>
+    <w>utlovat</w>
+    <w>ska</w>
+    <w>utvisas</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vad</w>
+  <w>beror</w>
+  <absaspan id=10 senti=2>
+    <w>denna</w>
+    <w>inkompetens</w>
+  </absaspan>
+  <w>på</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Att</w>
+  <w>landet</w>
+  <w>man</w>
+  <w>ska</w>
+  <w>utvisas</w>
+  <w>inte</w>
+  <w>vill</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>köper</w>
+  <w>jag</w>
+  <w>inte</w>
+  <w>.</w>
+  <absaspan id=11 senti=2>
+    <w>Politiskt</w>
+    <w>inkorrekta</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>länder</w>
+  </absaspan>
+  <absaspan id=13 senti=3>
+    <w>har</w>
+  </absaspan>
+  <w>ju</w>
+  <absaspan id=14 senti=3>
+    <w>inga</w>
+  </absaspan>
+  <absaspan id=15 senti=3>
+    <w>problem</w>
+  </absaspan>
+  <w>att</w>
+  <w>hastigt</w>
+  <w>genomföra</w>
+  <w>massdeportationer</w>
+  <w>av</w>
+  <w>tiotusentals</w>
+  <w>människor</w>
+  <w>:</w>
+  <absaspan id=16>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Så</w>
+  <w>vad</w>
+  <w>är</w>
+  <w>det</w>
+  <w>för</w>
+  <w>kompetens</w>
+  <w>svenska</w>
+  <w>regeringen</w>
+  <w>saknar</w>
+  <w>men</w>
+  <w>som</w>
+  <w>länder</w>
+  <w>som</w>
+  <w>Saudiarabien</w>
+  <w>uppenbarligen</w>
+  <w>besitter</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

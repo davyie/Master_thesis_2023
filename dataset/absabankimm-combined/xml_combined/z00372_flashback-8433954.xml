@@ -1,0 +1,280 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Hur</w>
+  <absaspan id=1 senti=2 target=2>
+    <w>illa</w>
+  </absaspan>
+  <w>är</w>
+  <w>det</w>
+  <w>egentligen</w>
+  <absaspan id=2>
+    <w>i</w>
+    <w>Malmö</w>
+  </absaspan>
+  <w>?</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>är</w>
+  <w>medlem</w>
+  <w>på</w>
+  <w>en</w>
+  <w>hemsida</w>
+  <w>för</w>
+  <absaspan id=3>
+    <w>en</w>
+    <w>amerikans</w>
+    <w>sci-fi</w>
+    <w>författare</w>
+  </absaspan>
+  <w>som</w>
+  <w>jag</w>
+  <absaspan id=4 senti=5>
+    <w>avgudar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Döm</w>
+  <w>om</w>
+  <w>min</w>
+  <w>förvåning</w>
+  <w>när</w>
+  <w>det</w>
+  <w>nu</w>
+  <w>har</w>
+  <w>uppkommit</w>
+  <w>en</w>
+  <w>diskussion</w>
+  <w>på</w>
+  <w>denna</w>
+  <w>sida</w>
+  <w>om</w>
+  <w>dels</w>
+  <w>Lars</w>
+  <w>Vilks</w>
+  <w>och</w>
+  <w>dödshoten</w>
+  <w>emot</w>
+  <w>honom</w>
+  <w>,</w>
+  <w>dels</w>
+  <w>om</w>
+  <w>situationen</w>
+  <w>i</w>
+  <w>Malmö</w>
+  <w>med</w>
+  <w>dess</w>
+  <absaspan id=5 senti=2>
+    <w>enorma</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>muslimpopulation</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Det</w>
+  <w>som</w>
+  <w>förvånar</w>
+  <w>mig</w>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=7>
+    <w>dessa</w>
+    <w>amerikaner</w>
+  </absaspan>
+  <w>har</w>
+  <absaspan id=8>
+    <w>en</w>
+    <w>uppfattning</w>
+    <w>om</w>
+    <w>hur</w>
+    <w>det</w>
+    <w>ser</w>
+    <w>ut</w>
+    <w>i</w>
+    <w>Rosengård</w>
+  </absaspan>
+  <w>och</w>
+  <w>denna</w>
+  <w>uppfattning</w>
+  <w>är</w>
+  <absaspan id=9 senti=2>
+    <w>allt</w>
+    <w>annat</w>
+    <w>än</w>
+    <w>positiv</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=10>
+    <w>Man</w>
+  </absaspan>
+  <w>kallar</w>
+  <absaspan id=11>
+    <w>Malmö</w>
+  </absaspan>
+  <w>för</w>
+  <w>en</w>
+  <w>av</w>
+  <w>Europas</w>
+  <absaspan id=12 senti=2>
+    <w>"</w>
+    <w>muslimska</w>
+    <w>enklaver</w>
+    <w>"</w>
+  </absaspan>
+  <w>.</w>
+  <w>Man</w>
+  <w>skriver</w>
+  <w>om</w>
+  <w>hur</w>
+  <w>ambulansen</w>
+  <w>t</w>
+  <w>ex</w>
+  <w>inte</w>
+  <w>törs</w>
+  <w>åka</w>
+  <w>in</w>
+  <w>i</w>
+  <w>vissa</w>
+  <w>områden</w>
+  <w>utan</w>
+  <w>poliseskort</w>
+  <w>,</w>
+  <w>hur</w>
+  <w>tegelstenar</w>
+  <w>kastas</w>
+  <w>genom</w>
+  <w>ambulansfönstren</w>
+  <w>etc</w>
+  <w>.</w>
+  <w>Man</w>
+  <w>ger</w>
+  <w>också</w>
+  <w>länkar</w>
+  <w>till</w>
+  <absaspan id=13>
+    <w>olika</w>
+    <w>bloggar</w>
+    <w>och</w>
+    <w>hemsidor</w>
+  </absaspan>
+  <w>där</w>
+  <absaspan id=14>
+    <w>situationen</w>
+    <w>i</w>
+    <w>Malmö</w>
+  </absaspan>
+  <w>beskrivs</w>
+  <w>som</w>
+  <absaspan id=15 senti=2>
+    <w>fullständigt</w>
+    <w>utom</w>
+    <w>kontroll</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Exempel</w>
+  <w>:</w>
+  <w>Etniska</w>
+  <w>svenska</w>
+  <w>familjer</w>
+  <absaspan id=16 senti=2>
+    <w>flyr</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>Malmö</w>
+  </absaspan>
+  <w>,</w>
+  <w>svenska</w>
+  <w>tjejer</w>
+  <absaspan id=18 senti=2>
+    <w>trackasseras</w>
+  </absaspan>
+  <w>i</w>
+  <w>skolan</w>
+  <w>av</w>
+  <absaspan id=19>
+    <w>den</w>
+    <w>muslimska</w>
+    <w>majoriteten</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=20 senti=2>
+    <w>kallas</w>
+    <w>för</w>
+    <w>horor</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>de</w>
+  <w>inte</w>
+  <w>bär</w>
+  <w>slöja</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>etc</w>
+  <w>etc</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Min</w>
+  <w>fråga</w>
+  <w>:</w>
+  <w>ÄR</w>
+  <absaspan id=21>
+    <w>det</w>
+  </absaspan>
+  <w>verkligen</w>
+  <w>så</w>
+  <w>här</w>
+  <absaspan id=22 senti=2>
+    <w>illa</w>
+  </absaspan>
+  <w>?</w>
+  <w>?</w>
+  <w>Varför</w>
+  <w>hör</w>
+  <w>vi</w>
+  <w>så</w>
+  <w>lite</w>
+  <w>om</w>
+  <w>det</w>
+  <w>i</w>
+  <w>så</w>
+  <w>fall</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>HUR</w>
+  <absaspan id=23 senti=2>
+    <w>politiskt</w>
+    <w>korrekt</w>
+    <w>och</w>
+    <w>toppstyrd</w>
+  </absaspan>
+  <w>är</w>
+  <w>egentligen</w>
+  <absaspan id=24>
+    <w>svensk</w>
+    <w>media</w>
+  </absaspan>
+  <w>?</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>mvh</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>tt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

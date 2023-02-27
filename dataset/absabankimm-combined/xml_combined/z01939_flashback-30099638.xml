@@ -1,0 +1,130 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>AVKLÄDNINGEN</w>
+  <w>:</w>
+  <absaspan id=1>
+    <w>SVT</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>ställs</w>
+    <w>mot</w>
+    <w>väggen</w>
+  </absaspan>
+  <w>i</w>
+  <w>radio</w>
+  <w>ang</w>
+  <w>invandrarbrottsligheten</w>
+  <absaspan id=3>
+    <w>!</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Peter</w>
+  <w>Glowinski</w>
+  <w>på</w>
+  <w>Byaradion</w>
+  <w>ringer</w>
+  <w>upp</w>
+  <w>Roger</w>
+  <w>Jansson</w>
+  <w>på</w>
+  <w>SVT</w>
+  <w>:</w>
+  <w>s</w>
+  <w>Rapport</w>
+  <w>för</w>
+  <w>att</w>
+  <w>fråga</w>
+  <w>hur</w>
+  <w>de</w>
+  <w>tänkte</w>
+  <w>kring</w>
+  <w>rapporteringen</w>
+  <w>av</w>
+  <w>Thoralf</w>
+  <w>Alfssons</w>
+  <w>(</w>
+  <w>SD</w>
+  <w>)</w>
+  <w>påstådda</w>
+  <w></w>
+  <absaspan id=4 senti=1>
+    <w>rasistiska</w>
+  </absaspan>
+  <w></w>
+  <absaspan id=5>
+    <w>uttalande</w>
+  </absaspan>
+  <w>på</w>
+  <w>sin</w>
+  <w>blogg</w>
+  <w>nyligen</w>
+  <absaspan id=6>
+    <w>.</w>
+  </absaspan>
+  <w>Ett</w>
+  <w>samtal</w>
+  <w>som</w>
+  <w>blir</w>
+  <w>ganska</w>
+  <w>talande</w>
+  <w>för</w>
+  <absaspan id=7>
+    <w>gammelmedias</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>förvirring</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=9 senti=1>
+    <w>totala</w>
+    <w>brist</w>
+    <w>på</w>
+    <w>verklighetsförankring</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>LÄNK</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>intervjun</w>
+  <w>med</w>
+  <w>SVT</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=10>
+    <w>Vem</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>har</w>
+    <w>rätt</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>(</w>
+  <w>Ytterligare</w>
+  <w>diskussion</w>
+  <w>på</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+</absadoc>

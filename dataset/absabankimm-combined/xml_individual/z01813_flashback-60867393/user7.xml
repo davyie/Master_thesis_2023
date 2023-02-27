@@ -1,0 +1,236 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>Artikel</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=2 senti=1 target=1>
+    <w>trasar</w>
+    <w>sönder</w>
+  </absaspan>
+  <w>den</w>
+  <w>offentliga</w>
+  <w>bilden</w>
+  <w>av</w>
+  <w>asylinvandringen</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>I</w>
+  <w>en</w>
+  <w>artikel</w>
+  <w>i</w>
+  <w>dagens</w>
+  <w>Expressen</w>
+  <w>berättar</w>
+  <w>en</w>
+  <w>afghansk</w>
+  <w>asylinvandrare</w>
+  <w>om</w>
+  <absaspan id=3 senti=1>
+    <w>kaotiska</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>omständigheter</w>
+  </absaspan>
+  <w>runt</w>
+  <w>svensk</w>
+  <w>identitetsbestämning</w>
+  <w>i</w>
+  <w>samband</w>
+  <w>med</w>
+  <w>asylansökningar</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>I</w>
+  <w>artikeln</w>
+  <w>tycks</w>
+  <w>framskymta</w>
+  <w>ett</w>
+  <w>antal</w>
+  <w>omständigheter</w>
+  <w>,</w>
+  <w>indikationer</w>
+  <w>och</w>
+  <w>belägg</w>
+  <w>för</w>
+  <w>att</w>
+  <w>den</w>
+  <w>svenska</w>
+  <w>asylprocessen</w>
+  <w>systematiskt</w>
+  <absaspan id=5 senti=1>
+    <w>missbrukas</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Jag</w>
+  <w>vill</w>
+  <w>i</w>
+  <w>denna</w>
+  <w>tråd</w>
+  <w>gemensamt</w>
+  <w>identifiera</w>
+  <w>och</w>
+  <w>bena</w>
+  <w>ut</w>
+  <w>de</w>
+  <w>spörsmål</w>
+  <w>och</w>
+  <w>frågor</w>
+  <w>som</w>
+  <w>denna</w>
+  <w>artikel</w>
+  <w>väcker</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Här</w>
+  <w>är</w>
+  <w>några</w>
+  <w>inledande</w>
+  <w>frågor</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Kan</w>
+  <w>följande</w>
+  <w>citat</w>
+  <w>indikera</w>
+  <w>att</w>
+  <w>svensk</w>
+  <w>asylrätt</w>
+  <w>systematiskt</w>
+  <absaspan id=6 senti=1>
+    <w>missbrukats</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=3>
+  <w>Kan</w>
+  <w>de</w>
+  <w>uttalade</w>
+  <w>avsikterna</w>
+  <w>i</w>
+  <w>citatet</w>
+  <w>nedan</w>
+  <w>att</w>
+  <w>resa</w>
+  <w>fram</w>
+  <w>och</w>
+  <w>tillbaka</w>
+  <w>mellan</w>
+  <w>Sverige</w>
+  <w>och</w>
+  <w>hemländerna</w>
+  <w>indikera</w>
+  <w>att</w>
+  <w>personerna</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>har</w>
+  <w>skyddsbehov</w>
+  <w>fått</w>
+  <w>asyl</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=7 senti=3>
+  <w>Verkar</w>
+  <w>det</w>
+  <w>som</w>
+  <w>att</w>
+  <w>tjänstemän</w>
+  <w>vid</w>
+  <w>migrationsverket</w>
+  <w>aktivt</w>
+  <w>deltar</w>
+  <w>i</w>
+  <w>en</w>
+  <w>manipulation</w>
+  <w>av</w>
+  <w>asylprocessen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=8 senti=3>
+  <w>Uppfattar</w>
+  <w>ni</w>
+  <w>att</w>
+  <w>afghanska</w>
+  <w>ambassaden</w>
+  <w>i</w>
+  <w>Stockholm</w>
+  <w>verkar</w>
+  <w>ha</w>
+  <w>en</w>
+  <w>fullständigare</w>
+  <w>verklighetsbild</w>
+  <w>och</w>
+  <w>ställa</w>
+  <w>rimligare</w>
+  <w>krav</w>
+  <w>än</w>
+  <w>svenska</w>
+  <w>asylmyndigheter</w>
+  <w>,</w>
+  <w>och</w>
+  <w>är</w>
+  <w>det</w>
+  <w>i</w>
+  <w>så</w>
+  <w>fall</w>
+  <w>rimligt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=9 senti=3>
+  <w>Är</w>
+  <w>det</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>ordning</w>
+  <w>att</w>
+  <w>personer</w>
+  <w>med</w>
+  <w>en</w>
+  <w>till</w>
+  <w>synes</w>
+  <absaspan id=7 senti=3>
+    <w>problemfri</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>kontakt</w>
+  </absaspan>
+  <w>med</w>
+  <w>ursprungslandet</w>
+  <w>har</w>
+  <w>skyddsbehov</w>
+  <w>och</w>
+  <w>därmed</w>
+  <w>asylstatus</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Vilka</w>
+  <w>ytterligare</w>
+  <w>frågor</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>den</w>
+  <w>här</w>
+  <w>artikeln</w>
+  <w>väcker</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

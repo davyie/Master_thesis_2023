@@ -1,0 +1,214 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Afghanistan</w>
+  <w>tar</w>
+  <w>inte</w>
+  <w>emot</w>
+  <w>utvisade</w>
+  <w>-</w>
+  <w>alla</w>
+  <w>afghaner</w>
+  <w>får</w>
+  <w>stanna</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>tills</w>
+  <w>vidare</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Precis</w>
+  <w>som</w>
+  <w>vi</w>
+  <w>alla</w>
+  <w>redan</w>
+  <w>visste</w>
+  <w>så</w>
+  <w>var</w>
+  <absaspan id=1>
+    <w>snacket</w>
+    <w>om</w>
+    <w>80.000</w>
+    <w>avvisningar</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>bara</w>
+    <w>rent</w>
+    <w>snack</w>
+  </absaspan>
+  <w>som</w>
+  <w>aldrig</w>
+  <w>kommer</w>
+  <w>gå</w>
+  <w>att</w>
+  <w>genomföra</w>
+  <w>i</w>
+  <w>praktiken</w>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <absaspan id=4>
+    <w>Lars</w>
+    <w>Wilderäng</w>
+  </absaspan>
+  <w>skriver</w>
+  <w>idag</w>
+  <w>på</w>
+  <w>sin</w>
+  <w>blogg</w>
+  <w>Cornucopia</w>
+  <w>om</w>
+  <absaspan id=5 senti=2>
+    <w>kaoset</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=6>
+    <w>utvisade</w>
+    <w>från</w>
+    <w>Afghhanistan</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=1>
+  <w>Hoppsan</w>
+  <w>!</w>
+  <w>Hur</w>
+  <w>ska</w>
+  <w>man</w>
+  <w>nu</w>
+  <w>göra</w>
+  <w>med</w>
+  <w>alla</w>
+  <w>dessa</w>
+  <w>som</w>
+  <w>blivit</w>
+  <w>utvisade</w>
+  <w>,</w>
+  <w>men</w>
+  <w>i</w>
+  <w>praktiken</w>
+  <w>inte</w>
+  <w>går</w>
+  <w>att</w>
+  <w>utvisa</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Dessutom</w>
+  <w>verkar</w>
+  <w>budgeten</w>
+  <w>för</w>
+  <w>att</w>
+  <w>kunna</w>
+  <w>utvisa</w>
+  <w>vara</w>
+  <w>densamma</w>
+  <w>fram</w>
+  <w>till</w>
+  <w>2020</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=1>
+  <absaspan id=7>
+    <w>Vad</w>
+    <w>blir</w>
+    <w>nästa</w>
+    <w>steg</w>
+  </absaspan>
+  <w>-</w>
+  <absaspan id=8 senti=2>
+    <w>muta</w>
+    <w>någon</w>
+    <w>skurkstat</w>
+    <w>med</w>
+    <w>x</w>
+    <w>antal</w>
+    <w>miljarder</w>
+    <w>för</w>
+    <w>att</w>
+    <w>ta</w>
+    <w>hand</w>
+    <w>om</w>
+    <w>packet</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=9 senti=2>
+    <w>Sätta</w>
+    <w>dem</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>alla</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>arbetsläger</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=13 senti=2>
+    <w>Avliva</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>hela</w>
+    <w>bunten</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Den</w>
+  <absaspan id=15 senti=2 irony>
+    <w>humanistiska</w>
+    <w>stormakten</w>
+  </absaspan>
+  <absaspan id=16 senti=2 irony>
+    <w>Sverige</w>
+  </absaspan>
+  <w>står</w>
+  <w>inför</w>
+  <w>väldigt</w>
+  <w>intressanta</w>
+  <w>utmaningar</w>
+  <w>.</w>
+  <w>Problemen</w>
+  <w>med</w>
+  <w>de</w>
+  <absaspan id=17>
+    <w>afghanska</w>
+    <w>flykting"barnen</w>
+    <w>"</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=18 senti=1>
+    <w>lever</w>
+    <w>rövare</w>
+  </absaspan>
+  <w>på</w>
+  <w>Centralen</w>
+  <w>i</w>
+  <w>Stockholm</w>
+  <w>kommer</w>
+  <w>fortsättningsvis</w>
+  <w>att</w>
+  <w>bestå</w>
+  <w>då</w>
+  <w>polisen</w>
+  <w>inte</w>
+  <w>kan</w>
+  <w>gripa</w>
+  <w>dem</w>
+  <w>och</w>
+  <w>Afghanistan</w>
+  <w>tar</w>
+  <w>inte</w>
+  <w>emot</w>
+  <w>dem</w>
+  <w>.</w>
+</absapar>
+</absadoc>

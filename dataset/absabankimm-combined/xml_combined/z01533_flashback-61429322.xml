@@ -1,0 +1,114 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <absaspan id=1>
+    <w>MPs</w>
+    <w>Jonas</w>
+    <w>Serneholt</w>
+  </absaspan>
+  <absaspan id=2 senti=1 partof=4>
+    <w>kallar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>Somalier</w>
+  </absaspan>
+  <absaspan id=4 senti=1 source=1 target=3>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=5 senti=1 source=1 source=5 target=3>
+    <w>cancersvulst</w>
+  </absaspan>
+  <w>-</w>
+  <w>får</w>
+  <w>böter</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=6>
+    <w>Politiske</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>sekreteraren</w>
+    <w>och</w>
+    <w>ledamot</w>
+    <w>i</w>
+    <w>kommunfullmäktige</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>Jonas</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>Serneholt</w>
+  </absaspan>
+  <absaspan id=10 senti=1>
+    <w>har</w>
+    <w>kallat</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>somalier</w>
+  </absaspan>
+  <absaspan id=12 senti=1>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=13 senti=1>
+    <w>cancersvulst</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=14>
+    <w>Han</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>skyller</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>fylla</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Är</w>
+  <w>det</w>
+  <w>första</w>
+  <w>gången</w>
+  <absaspan id=17>
+    <w>en</w>
+    <w>miljöpartist</w>
+  </absaspan>
+  <absaspan id=18 senti=4>
+    <w>säger</w>
+  </absaspan>
+  <absaspan id=19 senti=4>
+    <w>något</w>
+  </absaspan>
+  <absaspan id=20 senti=4>
+    <w>vettigt</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=2>
+  <absaspan id=21 senti=4>
+    <w>Kan</w>
+  </absaspan>
+  <w>MP</w>
+  <absaspan id=22 senti=4>
+    <w>tjäna</w>
+  </absaspan>
+  <w>på</w>
+  <absaspan id=23>
+    <w>det</w>
+    <w>här</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Konsekvenser</w>
+  <w>för</w>
+  <w>Jonas</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

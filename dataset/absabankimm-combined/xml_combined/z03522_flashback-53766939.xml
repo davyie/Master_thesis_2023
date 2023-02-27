@@ -1,0 +1,70 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Svenska</w>
+    <w>pensionärer</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=3 source=1>
+    <w>har</w>
+    <w>inte</w>
+    <w>råd</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>att</w>
+    <w>gå</w>
+    <w>i</w>
+    <w>pension</w>
+  </absaspan>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>På</w>
+  <w>Expressens</w>
+  <w>Facebook</w>
+  <w>skriver</w>
+  <w>en</w>
+  <w>person</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>En</w>
+  <w>annan</w>
+  <w>svarar</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>En</w>
+  <w>tredje</w>
+  <w>skriver</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Det</w>
+  <w>jag</w>
+  <w>undrar</w>
+  <w>är</w>
+  <w>hur</w>
+  <w>det</w>
+  <w>egentligen</w>
+  <w>ligger</w>
+  <w>till</w>
+  <w>rent</w>
+  <w>ekonomiskt</w>
+  <w>?</w>
+  <w>Stämmer</w>
+  <w>det</w>
+  <w>att</w>
+  <w>de</w>
+  <w>får</w>
+  <w>drygt</w>
+  <w>14.000</w>
+  <w>:</w>
+  <w>-</w>
+  <w>skattefritt</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

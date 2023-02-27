@@ -1,0 +1,248 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Svartjobb</w>
+  </absaspan>
+  <absaspan id=2 senti=3 target=1 source=3>
+    <w>inte</w>
+    <w>fel</w>
+  </absaspan>
+  <w>enligt</w>
+  <absaspan id=3>
+    <w>allmänna</w>
+    <w>synen</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Var</w>
+  <w>åttonde</w>
+  <w>svensk</w>
+  <w>jobbar</w>
+  <w>svart</w>
+  <w>!</w>
+  <w>Är</w>
+  <w>vi</w>
+  <w>förvånade</w>
+  <w>?</w>
+  <w>Inte</w>
+  <w>jag</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>det</w>
+  <w>kostar</w>
+  <w>samhället</w>
+  <w>120</w>
+  <w>miljarder</w>
+  <w>om</w>
+  <w>året</w>
+  <w>.</w>
+  <absaspan id=4>
+    <w>Svartjobb</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>är</w>
+    <w>knappast</w>
+    <w>ett</w>
+    <w>nytt</w>
+    <w>problem</w>
+  </absaspan>
+  <w>.</w>
+  <w>Politikerna</w>
+  <w>har</w>
+  <w>diskuterat</w>
+  <w>frågan</w>
+  <w>i</w>
+  <w>många</w>
+  <w>år</w>
+  <w>.</w>
+  <w>En</w>
+  <w>tid</w>
+  <w>på</w>
+  <w>1900</w>
+  <w>-</w>
+  <w>talet</w>
+  <w>vädjade</w>
+  <w>politiker</w>
+  <w>till</w>
+  <w>människors</w>
+  <absaspan id=6 senti=4>
+    <w>solidaritet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Då</w>
+  <absaspan id=7 senti=4>
+    <w>fungerade</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>välfärdssamhället</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>relativt</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>bra</w>
+  </absaspan>
+  <w>och</w>
+  <w>politikerna</w>
+  <w>hade</w>
+  <w>kontroll</w>
+  <w>på</w>
+  <w>arbetslösheten</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Då</w>
+  <absaspan id=11 senti=2>
+    <w>stämplades</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>svartjobbarna</w>
+  </absaspan>
+  <w>mer</w>
+  <w>av</w>
+  <absaspan id=13>
+    <w>gemene</w>
+    <w>man</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>osolidariska</w>
+  </absaspan>
+  <w>och</w>
+  <w>som</w>
+  <w>tärande</w>
+  <w>på</w>
+  <w>vår</w>
+  <w>gemensamma</w>
+  <w>kaka</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Annat</w>
+  <w>är</w>
+  <w>det</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>.</w>
+  <absaspan id=16>
+    <w>Politikerna</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>står</w>
+    <w>handfallna</w>
+  </absaspan>
+  <w>inför</w>
+  <w>långtidsarbetslösheten</w>
+  <w>.</w>
+  <w>Ungdomar</w>
+  <w>,</w>
+  <w>akademiker</w>
+  <w>och</w>
+  <w>invandrare</w>
+  <w>har</w>
+  <w>stora</w>
+  <w>problem</w>
+  <w>att</w>
+  <w>komma</w>
+  <w>in</w>
+  <w>på</w>
+  <w>arbetsmarknaden</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>det</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>bara</w>
+  <w>arbetslösa</w>
+  <w>som</w>
+  <w>jobbar</w>
+  <w>svart</w>
+  <w>.</w>
+  <w>Hantverkare</w>
+  <w>tjänar</w>
+  <w>extra</w>
+  <w>på</w>
+  <w>hushållens</w>
+  <w>stora</w>
+  <w>lusta</w>
+  <w>att</w>
+  <w>renovera</w>
+  <w>.</w>
+  <w>För</w>
+  <w>att</w>
+  <w>inte</w>
+  <w>tala</w>
+  <w>om</w>
+  <w>alla</w>
+  <w>som</w>
+  <w>byter</w>
+  <w>tjänster</w>
+  <w>med</w>
+  <w>varandra</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>finns</w>
+  <w>numera</w>
+  <absaspan id=18>
+    <w>en</w>
+    <w>allmän</w>
+    <w>syn</w>
+  </absaspan>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=19>
+    <w>svartjobb</w>
+  </absaspan>
+  <absaspan id=20 senti=3>
+    <w>inte</w>
+    <w>är</w>
+    <w>fel</w>
+  </absaspan>
+  <w>.</w>
+  <w>En</w>
+  <w>av</w>
+  <w>förklaringarna</w>
+  <w>är</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>har</w>
+  <w>ett</w>
+  <w>regelverk</w>
+  <w>och</w>
+  <w>en</w>
+  <w>skattelagstiftning</w>
+  <w>uppbyggd</w>
+  <w>kring</w>
+  <w>ett</w>
+  <w>annat</w>
+  <w>århundrade</w>
+  <w>,</w>
+  <w>en</w>
+  <w>svunnen</w>
+  <w>tid</w>
+  <w>.</w>
+  <w>Krav</w>
+  <w>på</w>
+  <w>förändringar</w>
+  <w>kommer</w>
+  <w>alltid</w>
+  <w>underifrån</w>
+  <w>,</w>
+  <w>från</w>
+  <w>de</w>
+  <w>människor</w>
+  <w>som</w>
+  <w>måste</w>
+  <w>klara</w>
+  <w>vardagen</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,714 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Israel</w>
+    <w>under</w>
+    <w>Sharon</w>
+  </absaspan>
+  <w>är</w>
+  <w>en</w>
+  <absaspan id=2 senti=1 target=1>
+    <w>skurkstat</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Israel</w>
+  <w>leds</w>
+  <w>av</w>
+  <w>en</w>
+  <absaspan id=3 senti=1>
+    <w>avskyvärd</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>människa</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=5 senti=2>
+    <w>Mörkerkrafter</w>
+  </absaspan>
+  <w>världen</w>
+  <w>över</w>
+  <w>tar</w>
+  <w>därför</w>
+  <w>chansen</w>
+  <w>att</w>
+  <w>uttrycka</w>
+  <w>sin</w>
+  <absaspan id=6 senti=1>
+    <w>antisemitism</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>I</w>
+  <w>den</w>
+  <w>saudiska</w>
+  <w>dagstidningen</w>
+  <w>Al-Riyadh</w>
+  <w>beskrivs</w>
+  <w>,</w>
+  <absaspan id=7 senti=1>
+    <w>komplett</w>
+    <w>lögnaktigt</w>
+  </absaspan>
+  <w>,</w>
+  <w>hur</w>
+  <absaspan id=8>
+    <w>bakverken</w>
+    <w>för</w>
+    <w>den</w>
+    <w>judiska</w>
+    <w>påsken</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>kräver</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>blod</w>
+    <w>av</w>
+    <w>kristna</w>
+    <w>och</w>
+    <w>muslimska</w>
+    <w>barn</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>under</w>
+    <w>tio</w>
+    <w>år</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>I</w>
+  <absaspan id=12>
+    <w>egyptiska</w>
+    <w>tidningar</w>
+  </absaspan>
+  <w>publiceras</w>
+  <w>numer</w>
+  <w>då</w>
+  <w>och</w>
+  <w>då</w>
+  <w>artiklar</w>
+  <w>som</w>
+  <absaspan id=13 senti=2>
+    <w>förnekar</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>förintelsen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>I</w>
+  <w>Frankrike</w>
+  <absaspan id=15 senti=1>
+    <w>attackeras</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>synagogor</w>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=6>
+  <w>I</w>
+  <w>Storbritannien</w>
+  <w>kom</w>
+  <w>i</w>
+  <w>veckan</w>
+  <w>rapporter</w>
+  <w>om</w>
+  <w>hur</w>
+  <absaspan id=17>
+    <w>unga</w>
+    <w>judar</w>
+  </absaspan>
+  <absaspan id=18 senti=1>
+    <w>trakasseras</w>
+  </absaspan>
+  <w>på</w>
+  <w>jobbet</w>
+  <absaspan id=19>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=7>
+  <w>I</w>
+  <w>Sverige</w>
+  <absaspan id=20 senti=1>
+    <w>bombhotas</w>
+  </absaspan>
+  <w>en</w>
+  <absaspan id=21>
+    <w>judisk</w>
+    <w>samlingslokal</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=22>
+    <w>debattörer</w>
+  </absaspan>
+  <absaspan id=23 senti=2>
+    <w>varnar</w>
+  </absaspan>
+  <w>andra</w>
+  <w>debattörer</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=24>
+    <w>låta</w>
+    <w>känslorna</w>
+    <w>rusa</w>
+    <w>i</w>
+    <w>väg</w>
+  </absaspan>
+  <w>och</w>
+  <w>vakta</w>
+  <w>sin</w>
+  <w>tunga</w>
+  <w>mot</w>
+  <absaspan id=25 senti=1>
+    <w>antisemitism</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=8>
+  <absaspan id=27>
+    <w>Känslosvallet</w>
+    <w>i</w>
+    <w>Mellanösterndebatten</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=28 senti=2>
+    <w>obehagligt</w>
+    <w>fascinerande</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Varför</w>
+  <absaspan id=29 senti=2>
+    <w>utlöser</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>konflikten</w>
+    <w>mellan</w>
+    <w>Israel</w>
+    <w>och</w>
+    <w>Palestina</w>
+  </absaspan>
+  <absaspan id=31 senti=2>
+    <w>så</w>
+  </absaspan>
+  <absaspan id=32 senti=2>
+    <w>starka</w>
+    <w>känslor</w>
+  </absaspan>
+  <w>även</w>
+  <w>bland</w>
+  <absaspan id=33>
+    <w>folk</w>
+  </absaspan>
+  <w>som</w>
+  <w>inte</w>
+  <w>har</w>
+  <w>minsta</w>
+  <w>anknytning</w>
+  <w>till</w>
+  <w>regionen</w>
+  <w>och</w>
+  <w>normalt</w>
+  <w>är</w>
+  <absaspan id=34 senti=2>
+    <w>ointresserade</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=35>
+    <w>utrikespolitik</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Ett</w>
+  <w>svar</w>
+  <w>är</w>
+  <w>naturligtvis</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>alla</w>
+  <w>har</w>
+  <w>andlig</w>
+  <w>anknytning</w>
+  <w>till</w>
+  <w>det</w>
+  <w>heliga</w>
+  <w>landet</w>
+  <w>,</w>
+  <w>oavsett</w>
+  <w>om</w>
+  <w>vi</w>
+  <w>är</w>
+  <w>kristna</w>
+  <w>,</w>
+  <w>judar</w>
+  <w>eller</w>
+  <w>muslimer</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Ett</w>
+  <w>annat</w>
+  <w>att</w>
+  <w>världens</w>
+  <w>öde</w>
+  <w>efter</w>
+  <w>den</w>
+  <w>11</w>
+  <w>september</w>
+  <w>nu</w>
+  <w>bytt</w>
+  <w>scen</w>
+  <w>från</w>
+  <w>Afghanistan</w>
+  <w>till</w>
+  <w>Mellanöstern</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Men</w>
+  <w>jag</w>
+  <w>tror</w>
+  <w>det</w>
+  <w>är</w>
+  <w>något</w>
+  <w>annat</w>
+  <w>också</w>
+  <w>.</w>
+  <absaspan id=36>
+    <w>Konflikten</w>
+  </absaspan>
+  <w>rör</w>
+  <w>en</w>
+  <absaspan id=37 senti=2>
+    <w>öm</w>
+    <w>punkt</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=38>
+    <w>oss</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=39>
+    <w>Israel</w>
+  </absaspan>
+  <w>som</w>
+  <w>vi</w>
+  <w>känner</w>
+  <w>det</w>
+  <w>efter</w>
+  <w>1948</w>
+  <w>är</w>
+  <absaspan id=40>
+    <w>västerlandets</w>
+  </absaspan>
+  <absaspan id=41 senti=2>
+    <w>dåliga</w>
+    <w>samvete</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>vår</w>
+  <w>civilisation</w>
+  <w>visade</w>
+  <w>sig</w>
+  <w>vara</w>
+  <w>så</w>
+  <w>bräcklig</w>
+  <w>att</w>
+  <w>något</w>
+  <w>så</w>
+  <absaspan id=42 senti=1>
+    <w>durkdrivet</w>
+    <w>vidrigt</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=43>
+    <w>förintelsen</w>
+  </absaspan>
+  <w>var</w>
+  <w>möjligt</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>När</w>
+  <w>Israel</w>
+  <w>av</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>röstar</w>
+  <w>fram</w>
+  <w>en</w>
+  <absaspan id=44 senti=1>
+    <w>humanitär</w>
+    <w>katastrof</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=45>
+    <w>Ariel</w>
+    <w>Sharon</w>
+  </absaspan>
+  <w>och</w>
+  <w>visar</w>
+  <w>starkt</w>
+  <w>folkligt</w>
+  <w>stöd</w>
+  <w>för</w>
+  <absaspan id=46 senti=2>
+    <w>rena</w>
+  </absaspan>
+  <absaspan id=47 senti=2>
+    <w>folkfördrivningar</w>
+  </absaspan>
+  <w>av</w>
+  <w>palestinierna</w>
+  <w>(</w>
+  <w>”</w>
+  <w>transfer</w>
+  <w>”</w>
+  <w>)</w>
+  <w>väcker</w>
+  <w>det</w>
+  <w>komplicerade</w>
+  <w>känslor</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Det</w>
+  <w>är</w>
+  <absaspan id=48 senti=2>
+    <w>ingen</w>
+    <w>ursäkt</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=49>
+    <w>antisemitism</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>en</w>
+  <w>början</w>
+  <w>till</w>
+  <w>att</w>
+  <absaspan id=50 senti=2>
+    <w>kräva</w>
+  </absaspan>
+  <w>ett</w>
+  <absaspan id=51>
+    <w>ledarskap</w>
+  </absaspan>
+  <w>i</w>
+  <w>Israel</w>
+  <w>som</w>
+  <absaspan id=52 senti=4>
+    <w>värnar</w>
+  </absaspan>
+  <w>den</w>
+  <absaspan id=53>
+    <w>judiska</w>
+    <w>traditionen</w>
+    <w>av</w>
+    <w>humanism</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>De</w>
+  <w>flesta</w>
+  <w>debattörer</w>
+  <w>förklarar</w>
+  <w>i</w>
+  <w>stället</w>
+  <w>rationellt</w>
+  <absaspan id=54>
+    <w>Israels</w>
+  </absaspan>
+  <absaspan id=55 senti=2>
+    <w>humanitära</w>
+    <w>kollaps</w>
+  </absaspan>
+  <w>med</w>
+  <w>dödsdansen</w>
+  <w>som</w>
+  <w>pågår</w>
+  <w>mellan</w>
+  <absaspan id=56 senti=1>
+    <w>självmordsbombare</w>
+  </absaspan>
+  <w>och</w>
+  <w>israelisk</w>
+  <w>militär</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <absaspan id=57 senti=2>
+    <w>Problemet</w>
+  </absaspan>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=58>
+    <w>de</w>
+    <w>hamnar</w>
+    <w>i</w>
+    <w>en</w>
+    <w>cirkeldebatt</w>
+  </absaspan>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>Skapar</w>
+  <w>ockupation</w>
+  <w>självmordsbombare</w>
+  <w>,</w>
+  <w>eller</w>
+  <w>skapar</w>
+  <w>självmordsbombare</w>
+  <w>ockupation</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <absaspan id=59 senti=2>
+    <w>Det</w>
+    <w>enda</w>
+    <w>intressanta</w>
+  </absaspan>
+  <w>med</w>
+  <w>den</w>
+  <w>debatten</w>
+  <w>är</w>
+  <w>att</w>
+  <absaspan id=60>
+    <w>ingen</w>
+    <w>utfärdar</w>
+    <w>en</w>
+    <w>varning</w>
+    <w>för</w>
+    <w>att</w>
+    <w>vakta</w>
+    <w>sin</w>
+    <w>tunga</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=61 senti=1>
+    <w>rasism</w>
+  </absaspan>
+  <absaspan id=62>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=63>
+    <w>araber</w>
+  </absaspan>
+  <absaspan id=64>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=19>
+  <w>I</w>
+  <w>övrigt</w>
+  <w>leder</w>
+  <w>debatten</w>
+  <w>om</w>
+  <absaspan id=65 senti=1>
+    <w>ockupation</w>
+    <w>/</w>
+    <w>självmordsterror</w>
+  </absaspan>
+  <w>ingenstans</w>
+  <w>.</w>
+  <w>Utom</w>
+  <w>till</w>
+  <w>den</w>
+  <w>självklara</w>
+  <w>slutsatsen</w>
+  <w>att</w>
+  <absaspan id=66>
+    <w>båda</w>
+    <w>fenomenen</w>
+  </absaspan>
+  <w>omedelbart</w>
+  <w>och</w>
+  <w>samtidigt</w>
+  <absaspan id=67 senti=2>
+    <w>måste</w>
+    <w>upphöra</w>
+  </absaspan>
+  <w>om</w>
+  <w>staten</w>
+  <w>Israel</w>
+  <w>och</w>
+  <w>staten</w>
+  <w>Palestina</w>
+  <w>ska</w>
+  <w>ha</w>
+  <w>en</w>
+  <w>chans</w>
+  <w>.</w>
+</absapar>
+<absapar id=20>
+  <absaspan id=68>
+    <w>Israel</w>
+    <w>under</w>
+    <w>Sharon</w>
+  </absaspan>
+  <w>är</w>
+  <w>en</w>
+  <w>stat</w>
+  <w>som</w>
+  <w>hävdar</w>
+  <w>att</w>
+  <w>Genèvekonventionen</w>
+  <w>och</w>
+  <w>internationell</w>
+  <w>rätt</w>
+  <w>inte</w>
+  <w>gäller</w>
+  <w>just</w>
+  <w>dem</w>
+  <w>.</w>
+  <w>Alltså</w>
+  <w>en</w>
+  <absaspan id=69 senti=1>
+    <w>skurkstat</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=21>
+  <absaspan id=70>
+    <w>En</w>
+    <w>sådan</w>
+    <w>stat</w>
+  </absaspan>
+  <absaspan id=71 senti=2>
+    <w>bör</w>
+    <w>interveneras</w>
+  </absaspan>
+  <w>av</w>
+  <w>en</w>
+  <w>politiskt</w>
+  <w>,</w>
+  <w>ekonomiskt</w>
+  <w>och</w>
+  <w>militärt</w>
+  <w>överlägsen</w>
+  <w>makt</w>
+  <w>med</w>
+  <w>FN-mandat</w>
+  <w>.</w>
+</absapar>
+<absapar id=22>
+  <w>Så</w>
+  <w>var</w>
+  <w>vi</w>
+  <w>där</w>
+  <w>igen</w>
+  <w>–</w>
+  <w>ropandes</w>
+  <w>på</w>
+  <w>USA</w>
+  <w>efter</w>
+  <w>hjälp</w>
+  <w>.</w>
+</absapar>
+<absapar id=23>
+  <w>Ett</w>
+  <w>USA</w>
+  <w>vars</w>
+  <absaspan id=72>
+    <w>regering</w>
+  </absaspan>
+  <w>i</w>
+  <w>denna</w>
+  <w>fråga</w>
+  <w>under</w>
+  <w>lång</w>
+  <w>tid</w>
+  <absaspan id=73 senti=2>
+    <w>låtit</w>
+    <w>sig</w>
+    <w>korrumperas</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=74 senti=2>
+    <w>ansvarslösa</w>
+  </absaspan>
+  <absaspan id=75>
+    <w>amerikansk-judiska</w>
+    <w>ledare</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=76 senti=1>
+    <w>nykonservativa</w>
+    <w>och</w>
+    <w>kristna</w>
+    <w>fundamentalister</w>
+  </absaspan>
+  <w>i</w>
+  <w>en</w>
+  <absaspan id=77 senti=2>
+    <w>ohelig</w>
+  </absaspan>
+  <absaspan id=78>
+    <w>lobby-allians</w>
+  </absaspan>
+  <w>som</w>
+  <w>sett</w>
+  <w>till</w>
+  <w>att</w>
+  <absaspan id=79 senti=2>
+    <w>kritik</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=80>
+    <w>Israels</w>
+    <w>vansinniga</w>
+    <w>bosättningspolitik</w>
+  </absaspan>
+  <w>uppfattats</w>
+  <w>som</w>
+  <absaspan id=81 senti=2>
+    <w>anti-israelisk</w>
+  </absaspan>
+  <absaspan id=82>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=24>
+  <w>Det</w>
+  <w>är</w>
+  <w>åt</w>
+  <w>det</w>
+  <w>hållet</w>
+  <w>debatten</w>
+  <w>bör</w>
+  <w>riktas</w>
+  <w>när</w>
+  <w>Colin</w>
+  <w>Powell</w>
+  <w>i</w>
+  <w>veckan</w>
+  <w>besöker</w>
+  <w>Mellanöstern</w>
+  <w>.</w>
+</absapar>
+<absapar id=25>
+  <w>Jan</w>
+  <w>Helin</w>
+  <w>.</w>
+</absapar>
+</absadoc>

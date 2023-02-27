@@ -1,0 +1,195 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Kvinna</w>
+  <w>ringer</w>
+  <w>P1</w>
+  <w>och</w>
+  <w>säger</w>
+  <w>sin</w>
+  <w>sanning</w>
+  <w>om</w>
+  <w>sexuella</w>
+  <w>övergrepp</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ring</w>
+  <w>P1</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>radioprogram</w>
+  <w>där</w>
+  <w>lyssnare</w>
+  <w>ringer</w>
+  <w>in</w>
+  <w>och</w>
+  <w>säger</w>
+  <w>sin</w>
+  <w>åsikt</w>
+  <w>om</w>
+  <w>ett</w>
+  <w>visst</w>
+  <w>ämne</w>
+  <w>,</w>
+  <w>igår</w>
+  <w>5</w>
+  <w>aug</w>
+  <w>avhandlades</w>
+  <w>bla</w>
+  <w>"</w>
+  <w>övergrepp</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <w>En</w>
+  <w>medelålders</w>
+  <w>kvinna</w>
+  <w>ringer</w>
+  <w>in</w>
+  <w>och</w>
+  <w>delar</w>
+  <w>med</w>
+  <w>sig</w>
+  <w>av</w>
+  <w>sin</w>
+  <w>livserfarhet</w>
+  <w>och</w>
+  <w>vittnar</w>
+  <w>om</w>
+  <w>att</w>
+  <w>dom</w>
+  <w>systematiska</w>
+  <w>och</w>
+  <w>utstuderande</w>
+  <w>övergreppen</w>
+  <w>utförs</w>
+  <w>av</w>
+  <w>män</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>är</w>
+  <w>av</w>
+  <w>svensk</w>
+  <w>härkomst</w>
+  <w>,</w>
+  <w>pga</w>
+  <w>kulur</w>
+  <w>,</w>
+  <w>kvinnosyn</w>
+  <w>etc</w>
+  <w>.</w>
+  <w>Man</w>
+  <w>kan</w>
+  <w>nästan</w>
+  <w>ta</w>
+  <w>på</w>
+  <w>stämningen</w>
+  <w>mellan</w>
+  <w>programledaren</w>
+  <w>och</w>
+  <w>den</w>
+  <w>inringande</w>
+  <w>kvinnan</w>
+  <w>,</w>
+  <w>när</w>
+  <w>pk</w>
+  <absaspan id=1>
+    <w>Täppas</w>
+    <w>Fogelberg</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>insinuerar</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=3>
+    <w>hon</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=4 senti=1 irony>
+    <w>främlingsfientlig</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>blir</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>hon</w>
+  </absaspan>
+  <absaspan id=7 senti=1>
+    <w>fly</w>
+  </absaspan>
+  <absaspan id=8 senti=1>
+    <w>förbannad</w>
+  </absaspan>
+  <w>och</w>
+  <w>ryter</w>
+  <w>ifrån</w>
+  <w>än</w>
+  <w>mer</w>
+  <w>,</w>
+  <w>jag</w>
+  <w>trodde</w>
+  <w>P1</w>
+  <w>skulle</w>
+  <w>bryta</w>
+  <w>samtalet</w>
+  <w>men</w>
+  <w>icke</w>
+  <w>,</w>
+  <w>vart</w>
+  <w>än</w>
+  <w>mer</w>
+  <w>förvånad</w>
+  <w>när</w>
+  <w>jag</w>
+  <w>kan</w>
+  <w>hitta</w>
+  <w>klippet</w>
+  <w>på</w>
+  <w>hemsidan</w>
+  <w>,</w>
+  <w>så</w>
+  <w>jag</w>
+  <w>tänkte</w>
+  <w>ni</w>
+  <w>kan</w>
+  <w>få</w>
+  <w>ta</w>
+  <w>del</w>
+  <w>av</w>
+  <w>det</w>
+  <w>med</w>
+  <w>,</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>ringer</w>
+  <w>kvinnan</w>
+  <w>in</w>
+  <w>jag</w>
+  <w>pratar</w>
+  <w>om</w>
+  <w>,</w>
+  <w>en</w>
+  <w>rök</w>
+  <w>höger</w>
+  <w>mot</w>
+  <absaspan id=9 senti=1>
+    <w>vänsteretablissemanget</w>
+  </absaspan>
+  <w>på</w>
+  <w>Sveriges</w>
+  <w>radio</w>
+  <w>,</w>
+  <absaspan id=10>
+    <w>hon</w>
+  </absaspan>
+  <absaspan id=11 senti=5>
+    <w>gjorde</w>
+    <w>min</w>
+    <w>dag</w>
+  </absaspan>
+  <w>igår</w>
+  <w>.</w>
+</absapar>
+</absadoc>

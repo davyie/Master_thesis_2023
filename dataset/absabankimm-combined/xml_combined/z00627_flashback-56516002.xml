@@ -1,0 +1,55 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>SD</w>
+  <w>:</w>
+  <w>tvinga</w>
+  <w>alla</w>
+  <w>flyktingar</w>
+  <w>till</w>
+  <w>hälsotest</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <w>verkar</w>
+  <w>som</w>
+  <w>att</w>
+  <w>Dhimmi</w>
+  <w>Åkesson</w>
+  <w>har</w>
+  <w>uppdaterat</w>
+  <w>sig</w>
+  <w>på</w>
+  <w>Mengeles</w>
+  <w>memoarer</w>
+  <w>.</w>
+  <absaspan id=1>
+    <w>Aftabloidens</w>
+    <w>ledarskribent</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>är</w>
+    <w>inte</w>
+    <w>nådig</w>
+  </absaspan>
+  <w>heller</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=3 senti=2>
+    <w>Fascistoida</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>utspel</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>klarar</w>
+    <w>vi</w>
+    <w>oss</w>
+    <w>bäst</w>
+    <w>utan</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

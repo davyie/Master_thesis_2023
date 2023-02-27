@@ -1,0 +1,101 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Oslo-skola</w>
+  <w>delar</w>
+  <w>eleverna</w>
+  <w>efter</w>
+  <w>etnicitet</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Var</w>
+  <w>det</w>
+  <absaspan id=1>
+    <w>rätt</w>
+    <w>beslut</w>
+  </absaspan>
+  <w>av</w>
+  <w>skolan</w>
+  <absaspan id=2 senti=3>
+    <w>?</w>
+  </absaspan>
+  <w>Hade</w>
+  <w>de</w>
+  <w>egentligen</w>
+  <w>något</w>
+  <w>annat</w>
+  <w>val</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>När</w>
+  <w>jag</w>
+  <w>läser</w>
+  <w>artikeln</w>
+  <absaspan id=3 senti=2>
+    <w>får</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>en</w>
+    <w>känsla</w>
+    <w>av</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>man</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>säger</w>
+    <w>hela</w>
+    <w>sanningen</w>
+  </absaspan>
+  <w>.</w>
+  <w>Har</w>
+  <w>det</w>
+  <w>så</w>
+  <w>stor</w>
+  <w>betydelse</w>
+  <w>vilken</w>
+  <w>färg</w>
+  <w>på</w>
+  <w>huden</w>
+  <w>man</w>
+  <w>har</w>
+  <w>att</w>
+  <w>eleverna</w>
+  <w>slutade</w>
+  <w>enbart</w>
+  <w>p.g.a</w>
+  <w>.</w>
+  <w>detta</w>
+  <w>eller</w>
+  <w>har</w>
+  <w>det</w>
+  <w>med</w>
+  <w>elevernas</w>
+  <w>attityder</w>
+  <w>mot</w>
+  <w>varandra</w>
+  <w>att</w>
+  <w>göra</w>
+  <w>och</w>
+  <absaspan id=9>
+    <w>lärarnas</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>oförmåga</w>
+    <w>att</w>
+    <w>hantera</w>
+    <w>dem</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

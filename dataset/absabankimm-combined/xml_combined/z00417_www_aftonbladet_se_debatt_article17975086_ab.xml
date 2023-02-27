@@ -1,0 +1,613 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Minskade</w>
+    <w>anslag</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>ökar</w>
+    <w>olycksrisken</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ännu</w>
+  <w>en</w>
+  <w>gång</w>
+  <w>har</w>
+  <absaspan id=3>
+    <w>svenska</w>
+    <w>folkets</w>
+    <w>älskade</w>
+    <w>järnväg</w>
+  </absaspan>
+  <w>fått</w>
+  <absaspan id=4 senti=2>
+    <w>nedgörande</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>kritik</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=6>
+    <w>De</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>alltför</w>
+    <w>låga</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>anslagen</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>för</w>
+    <w>underhåll</w>
+    <w>till</w>
+    <w>Trafikverket</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>hindrar</w>
+  </absaspan>
+  <w>privata</w>
+  <w>entreprenadfirmor</w>
+  <w>att</w>
+  <w>bygga</w>
+  <w>upp</w>
+  <w>en</w>
+  <w>tillräckligt</w>
+  <w>stor</w>
+  <w>kapacitet</w>
+  <w>för</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>hand</w>
+  <w>om</w>
+  <w>underhållsberget</w>
+  <w>.</w>
+  <w>I</w>
+  <w>grunden</w>
+  <w>beror</w>
+  <w>det</w>
+  <w>på</w>
+  <absaspan id=11 senti=2>
+    <w>alltför</w>
+    <w>låga</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>anslag</w>
+  </absaspan>
+  <w>i</w>
+  <w>regeringens</w>
+  <w>budget</w>
+  <w>.</w>
+  <w>Detta</w>
+  <w>är</w>
+  <w>den</w>
+  <w>politiska</w>
+  <w>innebörden</w>
+  <w>av</w>
+  <w>Riksrevisionsverkets</w>
+  <w>rapport</w>
+  <w>den</w>
+  <w>3</w>
+  <w>december</w>
+  <w>.</w>
+  <absaspan id=13>
+    <w>Brister</w>
+    <w>i</w>
+    <w>interna</w>
+    <w>rutiner</w>
+    <w>och</w>
+    <w>organisation</w>
+    <w>i</w>
+    <w>Trafikverket</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>gör</w>
+    <w>inte</w>
+    <w>saken</w>
+    <w>bättre</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Både</w>
+  <w>infrastrukturminister</w>
+  <w>Catharina</w>
+  <w>Elmsäter</w>
+  <w>Svärdh</w>
+  <w>(</w>
+  <w>M</w>
+  <w>)</w>
+  <w>och</w>
+  <w>trafikutskottets</w>
+  <w>ordförande</w>
+  <w>Anders</w>
+  <w>Ygeman</w>
+  <w>(</w>
+  <w>S</w>
+  <w>)</w>
+  <w>har</w>
+  <w>nyligen</w>
+  <w>,</w>
+  <w>senast</w>
+  <w>i</w>
+  <w>Rapport</w>
+  <w>den</w>
+  <w>3</w>
+  <w>december</w>
+  <w>förklarat</w>
+  <w>att</w>
+  <w>man</w>
+  <w>ska</w>
+  <w>höja</w>
+  <w>underhållsanslagen</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>kan</w>
+  <w>ju</w>
+  <absaspan id=15 senti=3>
+    <w>låta</w>
+    <w>betryggande</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Men</w>
+  <w>det</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>sant</w>
+  <absaspan id=17 senti=2>
+    <w>!</w>
+  </absaspan>
+  <w>Om</w>
+  <w>man</w>
+  <w>jämför</w>
+  <w>anslagen</w>
+  <w>som</w>
+  <w>lett</w>
+  <w>till</w>
+  <w>det</w>
+  <absaspan id=18 senti=2>
+    <w>eftersatta</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>järnvägsunderhållet</w>
+  </absaspan>
+  <w>med</w>
+  <w>de</w>
+  <w>bådas</w>
+  <w>föreslagna</w>
+  <w>budgetar</w>
+  <w>för</w>
+  <w>2014</w>
+  <w>,</w>
+  <absaspan id=20 senti=2>
+    <w>inger</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>Elmsäter</w>
+    <w>Svärdhs</w>
+    <w>och</w>
+    <w>Ygemans</w>
+    <w>uttalanden</w>
+  </absaspan>
+  <absaspan id=22 senti=2>
+    <w>inget</w>
+  </absaspan>
+  <absaspan id=23 senti=2>
+    <w>förtroende</w>
+  </absaspan>
+  <w>.</w>
+  <w>Varken</w>
+  <w>för</w>
+  <w>dem</w>
+  <w>eller</w>
+  <w>järnvägens</w>
+  <w>säkerhet</w>
+  <w>.</w>
+  <w>För</w>
+  <w>år</w>
+  <w>2014</w>
+  <w>anger</w>
+  <w>Alliansen</w>
+  <w>i</w>
+  <w>sitt</w>
+  <w>budgetförslag</w>
+  <w>till</w>
+  <w>Riksdagen</w>
+  <w>ett</w>
+  <w>något</w>
+  <w>lägre</w>
+  <w>belopp</w>
+  <w>än</w>
+  <w>för</w>
+  <w>2013</w>
+  <w>.</w>
+  <w>Så</w>
+  <w>gör</w>
+  <w>även</w>
+  <w>Ygemans</w>
+  <w>parti</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=24>
+    <w>Sverige</w>
+  </absaspan>
+  <w>är</w>
+  <w>det</w>
+  <w>västeuropeiska</w>
+  <w>land</w>
+  <w>som</w>
+  <absaspan id=25 senti=2>
+    <w>satsat</w>
+    <w>minst</w>
+  </absaspan>
+  <w>på</w>
+  <w>järnvägsunderhåll</w>
+  <w>räknat</w>
+  <w>per</w>
+  <w>spårkilometer</w>
+  <w>efter</w>
+  <w>Portugal</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>visar</w>
+  <w>statistik</w>
+  <w>från</w>
+  <w>Internationella</w>
+  <w>Järnvägsunionen</w>
+  <w>UIC</w>
+  <w>.</w>
+  <w>Vi</w>
+  <w>anslår</w>
+  <w>mindre</w>
+  <w>än</w>
+  <w>hälften</w>
+  <w>av</w>
+  <w>genomsnittet</w>
+  <w>av</w>
+  <w>redovisade</w>
+  <w>nationer</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>För</w>
+  <w>2013</w>
+  <w>beräknas</w>
+  <w>underhållsanslaget</w>
+  <w>till</w>
+  <w>cirka</w>
+  <w>8</w>
+  <w>miljarder</w>
+  <w>kr</w>
+  <w>totalt</w>
+  <w>,</w>
+  <w>inklusive</w>
+  <w>banavgifter</w>
+  <w>på</w>
+  <w>en</w>
+  <w>miljard</w>
+  <w>kr</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>enligt</w>
+  <w>Trafikverkets</w>
+  <w>rapport</w>
+  <w>”</w>
+  <w>Banavgifter</w>
+  <w>för</w>
+  <w>ökad</w>
+  <w>kvalitet</w>
+  <w>och</w>
+  <w>samhällsnytta</w>
+  <w>”</w>
+  <w>(</w>
+  <w>2013</w>
+  <w>)</w>
+  <w>krävs</w>
+  <w>9,6</w>
+  <w>miljarder</w>
+  <w>kr</w>
+  <w>per</w>
+  <w>år</w>
+  <w>.</w>
+  <w>Enbart</w>
+  <w>Miljöpartiet</w>
+  <w>och</w>
+  <w>vänstern</w>
+  <w>når</w>
+  <w>med</w>
+  <w>sina</w>
+  <w>budgetförslag</w>
+  <w>rätt</w>
+  <w>nivå</w>
+  <w>,</w>
+  <w>under</w>
+  <w>förutsättning</w>
+  <w>att</w>
+  <w>alla</w>
+  <w>banavgifter</w>
+  <w>används</w>
+  <w>för</w>
+  <w>järnvägsunderhåll</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Avregleringen</w>
+  <w>av</w>
+  <w>vår</w>
+  <w>järnväg</w>
+  <w>har</w>
+  <w>lett</w>
+  <w>till</w>
+  <w>att</w>
+  <w>Trafikverket</w>
+  <absaspan id=26 senti=2>
+    <w>tvingas</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>upphandla</w>
+    <w>allt</w>
+    <w>underhåll</w>
+    <w>i</w>
+    <w>stället</w>
+    <w>för</w>
+    <w>att</w>
+    <w>utföra</w>
+    <w>det</w>
+    <w>i</w>
+    <w>egen</w>
+    <w>regi</w>
+  </absaspan>
+  <w>.</w>
+  <w>Upphandlingsprocessen</w>
+  <w>kräver</w>
+  <w>fler</w>
+  <w>anställda</w>
+  <w>.</w>
+  <w>1500</w>
+  <w>fler</w>
+  <w>kontorstjänster</w>
+  <w>har</w>
+  <w>därför</w>
+  <w>inrättats</w>
+  <w>på</w>
+  <w>bolaget</w>
+  <w>Infranord</w>
+  <w>,</w>
+  <w>som</w>
+  <w>det</w>
+  <w>omorganiserade</w>
+  <w>Banverkets</w>
+  <w>underhållsavdelning</w>
+  <w>nu</w>
+  <w>heter</w>
+  <w>.</w>
+  <w>Samtidigt</w>
+  <w>försvann</w>
+  <w>det</w>
+  <w>lika</w>
+  <w>många</w>
+  <w>aktiva</w>
+  <w>underhållsarbetare</w>
+  <w>ute</w>
+  <w>längs</w>
+  <w>spåren</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Pengar</w>
+  <w>flyttas</w>
+  <w>därför</w>
+  <w>från</w>
+  <w>spårarbete</w>
+  <w>till</w>
+  <w>administration</w>
+  <absaspan id=28 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Denna</w>
+  <w>höst</w>
+  <w>har</w>
+  <w>Infranord</w>
+  <w>varslat</w>
+  <w>ytterligare</w>
+  <w>400</w>
+  <w>man</w>
+  <w>om</w>
+  <w>övertalighet</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>elever</w>
+  <w>på</w>
+  <w>Järnvägsbyggarlinjen</w>
+  <w>i</w>
+  <w>Nässjö</w>
+  <w>får</w>
+  <w>inga</w>
+  <w>jobb</w>
+  <w>.</w>
+  <w>Som</w>
+  <w>om</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>funnes</w>
+  <w>behov</w>
+  <w>av</w>
+  <w>underhåll</w>
+  <w>av</w>
+  <w>banorna</w>
+  <absaspan id=29 senti=2>
+    <w>!</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Urspårningen</w>
+  <w>vid</w>
+  <w>Stockholm</w>
+  <w>Södra</w>
+  <w>visar</w>
+  <w>att</w>
+  <absaspan id=30>
+    <w>järnvägsunderhållet</w>
+  </absaspan>
+  <absaspan id=31 senti=2>
+    <w>är</w>
+    <w>undermånligt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Sedan</w>
+  <w>2008</w>
+  <w>har</w>
+  <w>61</w>
+  <w>tåg</w>
+  <w>spårat</w>
+  <w>ut</w>
+  <w>,</w>
+  <w>varav</w>
+  <w>en</w>
+  <w>stor</w>
+  <w>andel</w>
+  <w>pga</w>
+  <w>brister</w>
+  <w>i</w>
+  <w>banan</w>
+  <w>.</w>
+  <w>Med</w>
+  <w>både</w>
+  <absaspan id=32 senti=2>
+    <w>alltför</w>
+    <w>små</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>underhållsanslag</w>
+  </absaspan>
+  <w>och</w>
+  <w>en</w>
+  <absaspan id=34 senti=2>
+    <w>felaktig</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>organisation</w>
+    <w>för</w>
+    <w>skötseln</w>
+    <w>av</w>
+    <w>banorna</w>
+  </absaspan>
+  <w>finns</w>
+  <w>det</w>
+  <w>fortsatt</w>
+  <absaspan id=36 senti=2>
+    <w>stora</w>
+  </absaspan>
+  <absaspan id=37 senti=2>
+    <w>risker</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=38>
+    <w>nya</w>
+    <w>tillbud</w>
+    <w>eller</w>
+    <w>olyckor</w>
+    <w>längs</w>
+    <w>spåren</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>I</w>
+  <w>en</w>
+  <w>tid</w>
+  <w>när</w>
+  <w>tågresandet</w>
+  <w>ökar</w>
+  <w>och</w>
+  <absaspan id=39>
+    <w>svensk</w>
+    <w>opinion</w>
+  </absaspan>
+  <absaspan id=40 senti=4>
+    <w>önskar</w>
+  </absaspan>
+  <absaspan id=41>
+    <w>kraftfulla</w>
+    <w>åtgärder</w>
+    <w>mot</w>
+    <w>klimatförändringar</w>
+  </absaspan>
+  <w>är</w>
+  <w>det</w>
+  <w>hög</w>
+  <w>tid</w>
+  <w>för</w>
+  <w>alla</w>
+  <w>partier</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>ansvar</w>
+  <w>.</w>
+  <w>Internationella</w>
+  <w>erfarenheter</w>
+  <w>från</w>
+  <w>Schweiz</w>
+  <w>och</w>
+  <w>Japan</w>
+  <w>visar</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=42 senti=4>
+    <w>går</w>
+    <w>att</w>
+    <w>få</w>
+  </absaspan>
+  <absaspan id=43>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=44 senti=4>
+    <w>pålitlig</w>
+    <w>och</w>
+    <w>effektiv</w>
+  </absaspan>
+  <absaspan id=45>
+    <w>järnvägstrafik</w>
+  </absaspan>
+  <w>.</w>
+  <w>Låt</w>
+  <w>oss</w>
+  <w>få</w>
+  <w>det</w>
+  <w>även</w>
+  <w>i</w>
+  <w>vårt</w>
+  <w>land</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Ulf</w>
+  <w>Flodin</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Karin</w>
+  <w>Svensson</w>
+  <w>Smith</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Åke</w>
+  <w>Johansson</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+</absadoc>

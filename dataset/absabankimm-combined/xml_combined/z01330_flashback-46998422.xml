@@ -1,0 +1,52 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>The</w>
+  <w>Globe</w>
+  <w>and</w>
+  <w>Mail</w>
+  <w>,</w>
+  <w>skall</w>
+  <w>vi</w>
+  <w>släta</w>
+  <w>över</w>
+  <absaspan id=1 senti=1>
+    <w>deras</w>
+    <w>bistra</w>
+    <w>profetia</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Kan</w>
+  <w>inte</w>
+  <w>hitta</w>
+  <w>något</w>
+  <w>tråd</w>
+  <w>om</w>
+  <w>den</w>
+  <w>här</w>
+  <w>artikeln</w>
+  <w>,</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>halvår</w>
+  <w>gammal</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Man</w>
+  <w>får</w>
+  <w>kramp</w>
+  <w>,</w>
+  <w>skriv</w>
+  <w>att</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>är</w>
+  <w>så</w>
+  <absaspan id=2 senti=1>
+    <w>illa</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

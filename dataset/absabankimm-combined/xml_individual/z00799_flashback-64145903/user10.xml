@@ -1,0 +1,258 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Politiktoppar</w>
+  </absaspan>
+  <w>tror</w>
+  <w>SD</w>
+  <w>blir</w>
+  <w>största</w>
+  <w>parti</w>
+  <w>i</w>
+  <w>valet</w>
+  <w>&</w>
+  <absaspan id=2 senti=5>
+    <w>ger</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=4 senti=5>
+    <w>beröm</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Idag</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>läsa</w>
+  <w>en</w>
+  <w>artikel</w>
+  <w>i</w>
+  <w>Expressen</w>
+  <w>där</w>
+  <w>ex-ministern</w>
+  <w>Sven-Otto</w>
+  <w>Littorin</w>
+  <w>uttalar</w>
+  <w>sig</w>
+  <w>angående</w>
+  <w>Sverigedemokraterna</w>
+  <w>.</w>
+  <w>Han</w>
+  <w>tror</w>
+  <w>att</w>
+  <w>Sverigedemokraterna</w>
+  <w>mycket</w>
+  <w>väl</w>
+  <w>kan</w>
+  <w>bli</w>
+  <w>största</w>
+  <w>parti</w>
+  <w>i</w>
+  <w>riksdagsvalet</w>
+  <w>i</w>
+  <w>september</w>
+  <w>och</w>
+  <w>att</w>
+  <w>SD</w>
+  <w>kommer</w>
+  <w>försöka</w>
+  <w>rösta</w>
+  <w>fram</w>
+  <absaspan id=5 senti=1>
+    <w>en</w>
+    <w>svag</w>
+    <w>regering</w>
+  </absaspan>
+  <w>som</w>
+  <w>är</w>
+  <w>starkt</w>
+  <w>beroende</w>
+  <w>av</w>
+  <w>stöd</w>
+  <w>från</w>
+  <w>Sverigedemokraterna</w>
+  <w>gällande</w>
+  <w>all</w>
+  <w>politik</w>
+  <w>i</w>
+  <w>varenda</w>
+  <w>omröstning</w>
+  <w>i</w>
+  <w>riksdagen</w>
+  <w>.</w>
+  <w>Även</w>
+  <w>den</w>
+  <w>M-nära</w>
+  <w>Peje</w>
+  <w>Emilsson</w>
+  <w>tror</w>
+  <w>att</w>
+  <w>Sverigedemokraterna</w>
+  <w>mycket</w>
+  <w>väl</w>
+  <w>kan</w>
+  <w>bli</w>
+  <w>det</w>
+  <w>största</w>
+  <w>partiet</w>
+  <w>i</w>
+  <w>valet</w>
+  <w>i</w>
+  <w>september</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Littorin</w>
+  <w>tror</w>
+  <w>på</w>
+  <w>ett</w>
+  <w>generationsskifte</w>
+  <w>i</w>
+  <w>Sverigedemokraterna</w>
+  <w>efter</w>
+  <w>valet</w>
+  <w>där</w>
+  <w>dagens</w>
+  <w>partiledning</w>
+  <w>kan</w>
+  <w>komma</w>
+  <w>att</w>
+  <w>vilja</w>
+  <w>göra</w>
+  <w>någonting</w>
+  <w>annat</w>
+  <w>och</w>
+  <w>Littorin</w>
+  <w>menar</w>
+  <w>att</w>
+  <absaspan id=6>
+    <w>Jimmie</w>
+    <w>Åkesson</w>
+  </absaspan>
+  <w>då</w>
+  <absaspan id=7 senti=5>
+    <w>kan</w>
+    <w>gå</w>
+    <w>med</w>
+    <w>flaggan</w>
+    <w>i</w>
+    <w>topp</w>
+  </absaspan>
+  <w>och</w>
+  <w>lämna</w>
+  <w>över</w>
+  <absaspan id=8>
+    <w>Sverigedemokraterna</w>
+  </absaspan>
+  <w>i</w>
+  <w>topp</w>
+  <w>,</w>
+  <absaspan id=9 senti=5>
+    <w>framgång</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=10 senti=5>
+    <w>i</w>
+    <w>dess</w>
+    <w>bästa</w>
+    <w>skick</w>
+  </absaspan>
+  <w>till</w>
+  <w>en</w>
+  <w>efterträdare</w>
+  <w>.</w>
+  <w>Där</w>
+  <w>har</w>
+  <absaspan id=11>
+    <w>Jimmie</w>
+    <w>Åkesson</w>
+  </absaspan>
+  <w>senaste</w>
+  <w>dagarna</w>
+  <w>i</w>
+  <w>flera</w>
+  <w>intervjuer</w>
+  <w>sagt</w>
+  <w>att</w>
+  <w>han</w>
+  <absaspan id=12 senti=3>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>stanna</w>
+    <w>kvar</w>
+    <w>flera</w>
+    <w>år</w>
+    <w>till</w>
+  </absaspan>
+  <w>så</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>inget</w>
+  <w>som</w>
+  <w>tyder</w>
+  <w>på</w>
+  <w>det</w>
+  <w>officiellt</w>
+  <w>än</w>
+  <w>så</w>
+  <w>länge</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=14>
+    <w>Littorin</w>
+  </absaspan>
+  <absaspan id=15 senti=5>
+    <w>berömmer</w>
+  </absaspan>
+  <w>även</w>
+  <absaspan id=16>
+    <w>Sverigedemokraterna</w>
+  </absaspan>
+  <w>för</w>
+  <w>partiets</w>
+  <w>riksdagsarbete</w>
+  <w>där</w>
+  <w>han</w>
+  <w>menar</w>
+  <w>att</w>
+  <absaspan id=17>
+    <w>partiet</w>
+  </absaspan>
+  <absaspan id=18 senti=5>
+    <w>sköter</w>
+    <w>sig</w>
+    <w>bra</w>
+  </absaspan>
+  <w>och</w>
+  <w>att</w>
+  <w>man</w>
+  <absaspan id=19 senti=5>
+    <w>är</w>
+    <w>duktiga</w>
+  </absaspan>
+  <w>och</w>
+  <w>har</w>
+  <w>lärt</w>
+  <w>sig</w>
+  <w>mycket</w>
+  <w>.</w>
+  <absaspan id=20>
+    <w>Sverigedemokraterna</w>
+  </absaspan>
+  <absaspan id=21 senti=5>
+    <w>är</w>
+    <w>skickliga</w>
+    <w>i</w>
+    <w>riksdagsarbetet</w>
+  </absaspan>
+  <w>,</w>
+  <w>menar</w>
+  <w>han</w>
+  <w>.</w>
+</absapar>
+</absadoc>

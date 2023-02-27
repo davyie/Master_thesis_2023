@@ -1,0 +1,118 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Jimmie</w>
+  <w>Åkesson</w>
+  <w>håller</w>
+  <w>sommartal</w>
+  <w>,</w>
+  <w>2015</w>
+  <w>-</w>
+  <w>08</w>
+  <w>-</w>
+  <w>29</w>
+  <w>Sölvesborg</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Nu</w>
+  <w>är</w>
+  <w>det</w>
+  <w>dags</w>
+  <w>att</w>
+  <w>börja</w>
+  <w>förbereda</w>
+  <w>sig</w>
+  <w>för</w>
+  <w>Jimmie</w>
+  <w>Åkessons</w>
+  <w>sommartal</w>
+  <w>i</w>
+  <w>Sölvesborg</w>
+  <w>29</w>
+  <w>augusti</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Talet</w>
+  <w>hålls</w>
+  <w>traditionsenligt</w>
+  <w>i</w>
+  <w>Jimmie</w>
+  <w>Åkessons</w>
+  <w>hemstad</w>
+  <w>Sölvesborg</w>
+  <w>,</w>
+  <w>i</w>
+  <w>Fyra</w>
+  <w>årstiders</w>
+  <w>park</w>
+  <w>i</w>
+  <w>hamnen</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Biljetterna</w>
+  <w>är</w>
+  <w>slutsålda</w>
+  <w>sedan</w>
+  <w>länge</w>
+  <w>för</w>
+  <w>festligheterna</w>
+  <w>i</w>
+  <w>samband</w>
+  <w>med</w>
+  <w>sommartalet</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>.</w>
+  <w>-</w>
+  <w>Vad</w>
+  <w>tror</w>
+  <w>du</w>
+  <w>Jimmie</w>
+  <w>Åkesson</w>
+  <w>kommer</w>
+  <w>ta</w>
+  <w>upp</w>
+  <w>i</w>
+  <w>talet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>.</w>
+  <w>-</w>
+  <absaspan id=1>
+    <w>Vad</w>
+  </absaspan>
+  <absaspan id=2 senti=3>
+    <w>VILL</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>du</w>
+  </absaspan>
+  <w>höra</w>
+  <w>?</w>
+  <w>Vad</w>
+  <w>är</w>
+  <absaspan id=4 senti=4>
+    <w>viktigt</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=5>
+    <w>SD</w>
+    <w>:</w>
+    <w>s</w>
+    <w>partiledare</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>nämna</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,188 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>Unga</w>
+    <w>tyskar</w>
+  </absaspan>
+  <absaspan id=2 senti=1 partof=4 source=1 target=3>
+    <w>hatar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>turkar</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>mest</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>av</w>
+    <w>alla</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Unersökningen</w>
+  <w>från</w>
+  <w>Niedersachsens</w>
+  <w>kriminologiska</w>
+  <w>forskningsinstitut</w>
+  <w>visar</w>
+  <w>att</w>
+  <absaspan id=6>
+    <w>turkar</w>
+  </absaspan>
+  <w>är</w>
+  <w>det</w>
+  <w>folkslag</w>
+  <w>som</w>
+  <absaspan id=7>
+    <w>unga</w>
+    <w>tyskar</w>
+  </absaspan>
+  <absaspan id=8 senti=1>
+    <w>tycker</w>
+    <w>mest</w>
+    <w>illa</w>
+    <w>om</w>
+  </absaspan>
+  <w>.</w>
+  <w>Detta</w>
+  <w>trots</w>
+  <w>att</w>
+  <w>det</w>
+  <w>bor</w>
+  <w>ungefär</w>
+  <w>3,5</w>
+  <w>miljoner</w>
+  <w>turkar</w>
+  <w>i</w>
+  <w>landet</w>
+  <w>:</w>
+  <w>något</w>
+  <w>som</w>
+  <w>borde</w>
+  <w>ha</w>
+  <w>gett</w>
+  <w>upphov</w>
+  <w>till</w>
+  <w>många</w>
+  <w>tillfällen</w>
+  <w>till</w>
+  <w>möten</w>
+  <w>mellan</w>
+  <w>människor</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=9 senti=4>
+    <w>bygga</w>
+    <w>broar</w>
+    <w>av</w>
+    <w>tolerans</w>
+    <w>och</w>
+    <w>förståelse</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Bland</w>
+  <w>tyskarna</w>
+  <w>svarade</w>
+  <w>endast</w>
+  <absaspan id=10>
+    <w>9,2</w>
+    <w>procent</w>
+    <w>av</w>
+    <w>de</w>
+    <w>40</w>
+    <w>000</w>
+    <w>tillfrågade</w>
+  </absaspan>
+  <w>att</w>
+  <w>de</w>
+  <w>anser</w>
+  <absaspan id=11>
+    <w>turkar</w>
+  </absaspan>
+  <absaspan id=12 senti=4>
+    <w>vara</w>
+    <w></w>
+    <w>mycket</w>
+    <w>trevliga</w>
+  </absaspan>
+  <w></w>
+  <w>.</w>
+  <w>Hela</w>
+  <absaspan id=13>
+    <w>38</w>
+    <w>procent</w>
+  </absaspan>
+  <w>uppgav</w>
+  <w>att</w>
+  <w>de</w>
+  <absaspan id=14 senti=1>
+    <w>över</w>
+    <w>huvud</w>
+    <w>taget</w>
+    <w>inte</w>
+    <w>ville</w>
+    <w>ha</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>turkar</w>
+    <w>som</w>
+    <w>grannar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>innebär</w>
+  <w>att</w>
+  <absaspan id=16>
+    <w>turkarna</w>
+  </absaspan>
+  <absaspan id=17 senti=1>
+    <w>är</w>
+    <w>det</w>
+    <w>minst</w>
+    <w>omtyckta</w>
+    <w>av</w>
+    <w>alla</w>
+    <w>nationaliteter</w>
+  </absaspan>
+  <w>,</w>
+  <w>mindre</w>
+  <w>så</w>
+  <w>än</w>
+  <w>judar</w>
+  <w>och</w>
+  <w>svarta</w>
+  <w>afrikaner</w>
+  <absaspan id=18>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Är</w>
+  <w>detta</w>
+  <absaspan id=19 senti=1>
+    <w>hat</w>
+  </absaspan>
+  <w>mot</w>
+  <absaspan id=20>
+    <w>turkar</w>
+  </absaspan>
+  <w>något</w>
+  <w>som</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>bli</w>
+  <w>verklighet</w>
+  <w>också</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>snart</w>
+  <w>?</w>
+  <absaspan id=21>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

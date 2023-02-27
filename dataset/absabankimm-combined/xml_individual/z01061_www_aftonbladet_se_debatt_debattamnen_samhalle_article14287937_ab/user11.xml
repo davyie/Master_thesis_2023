@@ -1,0 +1,844 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Behandling</w>
+  <w>finns</w>
+  <w>–</w>
+  <w>men</w>
+  <absaspan id=1>
+    <w>staten</w>
+  </absaspan>
+  <absaspan id=2 senti=2 source=1 target=3>
+    <w>vägrar</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=3>
+    <w>betala</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>”</w>
+  <absaspan id=4>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>känns</w>
+    <w>som</w>
+    <w>tusen</w>
+    <w>knivar</w>
+    <w>i</w>
+    <w>magen</w>
+  </absaspan>
+  <w>och</w>
+  <w>jag</w>
+  <w>är</w>
+  <w>så</w>
+  <w>himla</w>
+  <w>trött</w>
+  <w>.</w>
+  <w>”</w>
+  <absaspan id=6>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>I</w>
+  <w>torsdags</w>
+  <w>skrev</w>
+  <w>om</w>
+  <absaspan id=7>
+    <w>Emilia</w>
+  </absaspan>
+  <w>,</w>
+  <w>27</w>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=8 senti=2>
+    <w>tragiskt</w>
+    <w>avled</w>
+  </absaspan>
+  <w>efter</w>
+  <w>att</w>
+  <w>inte</w>
+  <w>ha</w>
+  <w>fått</w>
+  <w>behandling</w>
+  <w>i</w>
+  <w>tid</w>
+  <w>mot</w>
+  <w>sin</w>
+  <absaspan id=9 senti=1>
+    <w>mycket</w>
+    <w>allvarliga</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>endometrios</w>
+  </absaspan>
+  <w>,</w>
+  <w>sjukdomen</w>
+  <w>som</w>
+  <w>ibland</w>
+  <w>även</w>
+  <w>kallas</w>
+  <w>”</w>
+  <absaspan id=11 senti=2>
+    <w>falsk</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>mensvärk</w>
+  </absaspan>
+  <w>”</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=13>
+    <w>Emilia</w>
+  </absaspan>
+  <w>är</w>
+  <w>ett</w>
+  <absaspan id=14 senti=2>
+    <w>extremfall</w>
+  </absaspan>
+  <w>,</w>
+  <w>det</w>
+  <w>är</w>
+  <w>ytterst</w>
+  <w>sällsynt</w>
+  <w>med</w>
+  <w>dödsfall</w>
+  <w>i</w>
+  <w>denna</w>
+  <w>sjukdom</w>
+  <w>.</w>
+  <w>Trots</w>
+  <w>det</w>
+  <w>är</w>
+  <absaspan id=15>
+    <w>Emilias</w>
+    <w>historia</w>
+  </absaspan>
+  <absaspan id=16 senti=3>
+    <w>talande</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=17>
+    <w>Endometrios</w>
+  </absaspan>
+  <w>är</w>
+  <w>en</w>
+  <w>dold</w>
+  <w>kvinnosjukdom</w>
+  <w>som</w>
+  <w>över</w>
+  <w>200</w>
+  <w>000</w>
+  <absaspan id=18>
+    <w>kvinnor</w>
+  </absaspan>
+  <w>i</w>
+  <w>Sverige</w>
+  <absaspan id=19 senti=1>
+    <w>lider</w>
+    <w>av</w>
+  </absaspan>
+  <w>.</w>
+  <w>Många</w>
+  <w>vet</w>
+  <w>inte</w>
+  <w>om</w>
+  <w>att</w>
+  <w>de</w>
+  <w>är</w>
+  <w>drabbade</w>
+  <w>,</w>
+  <w>få</w>
+  <w>får</w>
+  <w>diagnos</w>
+  <w>i</w>
+  <w>tid</w>
+  <w>och</w>
+  <w>bland</w>
+  <w>dem</w>
+  <w>som</w>
+  <w>får</w>
+  <w>det</w>
+  <w>är</w>
+  <w>det</w>
+  <w>många</w>
+  <w>som</w>
+  <w>inte</w>
+  <w>får</w>
+  <w>tillgång</w>
+  <w>till</w>
+  <w>en</w>
+  <absaspan id=20 senti=4>
+    <w>effektiv</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>behandling</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Endometrios</w>
+  <w>är</w>
+  <w>en</w>
+  <w>sjukdom</w>
+  <w>som</w>
+  <w>sätter</w>
+  <w>sig</w>
+  <w>på</w>
+  <w>olika</w>
+  <w>organ</w>
+  <w>och</w>
+  <w>på</w>
+  <w>bukhinnan</w>
+  <w>och</w>
+  <w>skapar</w>
+  <w>en</w>
+  <w>inflammation</w>
+  <w>.</w>
+  <w>Sjukdomen</w>
+  <w>drabbar</w>
+  <w>kvinnor</w>
+  <w>i</w>
+  <w>fertil</w>
+  <w>ålder</w>
+  <w>och</w>
+  <w>leder</w>
+  <w>till</w>
+  <w>kraftiga</w>
+  <w>smärtor</w>
+  <w>och</w>
+  <w>blödningar</w>
+  <w>.</w>
+  <w>I</w>
+  <w>lindrigare</w>
+  <w>fall</w>
+  <absaspan id=22 senti=2>
+    <w>upplevs</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>symptomen</w>
+    <w>som</w>
+    <w>starka</w>
+    <w>menssmärtor</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>.</w>
+  </absaspan>
+  <w>Men</w>
+  <w>för</w>
+  <w>många</w>
+  <w>leder</w>
+  <w>sjukdomen</w>
+  <w>till</w>
+  <w>svåra</w>
+  <w>,</w>
+  <w>kroniska</w>
+  <w>smärtor</w>
+  <w>och</w>
+  <w>även</w>
+  <w>barnlöshet</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Trots</w>
+  <w>att</w>
+  <w>mellan</w>
+  <w>fem</w>
+  <w>och</w>
+  <w>tio</w>
+  <w>procent</w>
+  <w>av</w>
+  <w>kvinnorna</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>är</w>
+  <w>drabbade</w>
+  <w>är</w>
+  <w>sjukdomen</w>
+  <w>okänd</w>
+  <w>.</w>
+  <w>För</w>
+  <absaspan id=25>
+    <w>många</w>
+    <w>kvinnor</w>
+  </absaspan>
+  <w>är</w>
+  <w>det</w>
+  <absaspan id=26 senti=2>
+    <w>skamfyllt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=27>
+    <w>tala</w>
+    <w>om</w>
+    <w>smärtor</w>
+    <w>i</w>
+    <w>underlivet</w>
+    <w>eller</w>
+    <w>vid</w>
+    <w>sex</w>
+  </absaspan>
+  <w>.</w>
+  <w>Många</w>
+  <w>har</w>
+  <w>sett</w>
+  <w>sin</w>
+  <w>mamma</w>
+  <w>ha</w>
+  <w>ont</w>
+  <w>och</w>
+  <w>tror</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>såhär</w>
+  <w>en</w>
+  <w>menscykel</w>
+  <w>känns</w>
+  <w>.</w>
+  <w>Även</w>
+  <absaspan id=28>
+    <w>inom</w>
+    <w>vården</w>
+  </absaspan>
+  <absaspan id=29 senti=2>
+    <w>förekommer</w>
+    <w>tyvärr</w>
+    <w>attityden</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=30>
+    <w>kvinnors</w>
+    <w>smärtor</w>
+    <w>är</w>
+    <w>något</w>
+    <w>de</w>
+    <w>får</w>
+    <w>leva</w>
+    <w>med</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>I</w>
+  <w>Danmark</w>
+  <w>finns</w>
+  <w>en</w>
+  <absaspan id=31 senti=4>
+    <w>välutvecklad</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>vårdkedja</w>
+    <w>kring</w>
+    <w>endometrios</w>
+  </absaspan>
+  <w>,</w>
+  <w>där</w>
+  <w>kvinnor</w>
+  <w>via</w>
+  <w>särskilda</w>
+  <w>vårdinrättningar</w>
+  <w>får</w>
+  <w>aktiv</w>
+  <w>vägledning</w>
+  <w>till</w>
+  <w>diagnos</w>
+  <w>och</w>
+  <w>behandling</w>
+  <absaspan id=33>
+    <w>.</w>
+  </absaspan>
+  <w>Det</w>
+  <absaspan id=34 senti=4>
+    <w>hjälper</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>kvinnan</w>
+  </absaspan>
+  <w>och</w>
+  <w>hennes</w>
+  <w>familj</w>
+  <w>till</w>
+  <w>ett</w>
+  <w>bättre</w>
+  <w>liv</w>
+  <w>,</w>
+  <w>och</w>
+  <w>är</w>
+  <w>också</w>
+  <w>en</w>
+  <absaspan id=36 senti=4>
+    <w>stor</w>
+    <w>ekonomisk</w>
+    <w>besparing</w>
+  </absaspan>
+  <w>för</w>
+  <w>samhället</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>I</w>
+  <w>Sverige</w>
+  <w>hänvisas</w>
+  <w>kvinnor</w>
+  <w>ofta</w>
+  <w>till</w>
+  <w>vanliga</w>
+  <w>värktabletter</w>
+  <w>eller</w>
+  <w>att</w>
+  <w>”</w>
+  <w>ta</w>
+  <w>ett</w>
+  <w>varmt</w>
+  <w>bad</w>
+  <w>”</w>
+  <w>.</w>
+  <w>På</w>
+  <w>många</w>
+  <w>orter</w>
+  <w>i</w>
+  <w>landet</w>
+  <w>finns</w>
+  <w>ingen</w>
+  <w>medicinsk</w>
+  <w>expertis</w>
+  <w>alls</w>
+  <w>om</w>
+  <w>sjukdomen</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Studier</w>
+  <w>som</w>
+  <w>gjorts</w>
+  <w>i</w>
+  <w>USA</w>
+  <w>och</w>
+  <w>i</w>
+  <w>EU</w>
+  <w>visar</w>
+  <w>att</w>
+  <absaspan id=37 senti=2>
+    <w>problem</w>
+    <w>orsakade</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=38>
+    <w>endometrios</w>
+  </absaspan>
+  <w>–</w>
+  <w>som</w>
+  <w>att</w>
+  <w>kvinnan</w>
+  <w>måste</w>
+  <w>ställa</w>
+  <w>in</w>
+  <w>möten</w>
+  <w>,</w>
+  <w>stanna</w>
+  <w>hemma</w>
+  <w>från</w>
+  <w>jobbet</w>
+  <w>och</w>
+  <w>tvingas</w>
+  <w>uppsöka</w>
+  <w>läkare</w>
+  <w>–</w>
+  <w>leder</w>
+  <w>till</w>
+  <w>många</w>
+  <w>miljarder</w>
+  <w>kronor</w>
+  <w>årligen</w>
+  <w>i</w>
+  <w>inkomstbortfall</w>
+  <w>.</w>
+  <w>Sjukdomen</w>
+  <w>är</w>
+  <w>en</w>
+  <w>typisk</w>
+  <w>familjesjukdom</w>
+  <w>–</w>
+  <absaspan id=39>
+    <w>sexlivet</w>
+    <w>och</w>
+    <w>relationen</w>
+    <w>till</w>
+    <w>partnern</w>
+  </absaspan>
+  <absaspan id=40 senti=2>
+    <w>blir</w>
+    <w>lidande</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>mänskliga</w>
+  <w>och</w>
+  <w>ekonomiska</w>
+  <w>priset</w>
+  <w>av</w>
+  <w>denna</w>
+  <w>folksjukdom</w>
+  <w>är</w>
+  <w>alltså</w>
+  <w>stort</w>
+  <w>och</w>
+  <w>delas</w>
+  <w>av</w>
+  <w>många</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <absaspan id=41>
+    <w>Sjukvården</w>
+  </absaspan>
+  <absaspan id=42 senti=2>
+    <w>måste</w>
+    <w>göra</w>
+    <w>mer</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=43 senti=2>
+    <w>Tyvärr</w>
+  </absaspan>
+  <w>har</w>
+  <absaspan id=44>
+    <w>staten</w>
+  </absaspan>
+  <w>i</w>
+  <w>stället</w>
+  <w>nyligen</w>
+  <absaspan id=45 senti=2>
+    <w>tagit</w>
+  </absaspan>
+  <absaspan id=46 senti=2>
+    <w>ett</w>
+    <w>steg</w>
+    <w>i</w>
+    <w>fel</w>
+    <w>riktning</w>
+  </absaspan>
+  <w>,</w>
+  <w>genom</w>
+  <w>att</w>
+  <w>nyligen</w>
+  <w>avslå</w>
+  <w>subvention</w>
+  <w>för</w>
+  <w>Visanne</w>
+  <w>,</w>
+  <w>ett</w>
+  <w>nytt</w>
+  <w>läkemedel</w>
+  <w>mot</w>
+  <w>endometrios</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Hittills</w>
+  <w>har</w>
+  <w>behandling</w>
+  <w>mot</w>
+  <w>svår</w>
+  <w>endometrios</w>
+  <w>skett</w>
+  <w>med</w>
+  <w>läkemedel</w>
+  <w>som</w>
+  <w>stänger</w>
+  <w>av</w>
+  <w>ägglossningen</w>
+  <w>och</w>
+  <w>försätter</w>
+  <w>kvinnan</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>förtida</w>
+  <w>,</w>
+  <w>kemiskt</w>
+  <w>klimakterium</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>dämpar</w>
+  <w>smärtorna</w>
+  <w>men</w>
+  <w>ger</w>
+  <w>ofta</w>
+  <w>svåra</w>
+  <w>biverkningar</w>
+  <w>i</w>
+  <w>form</w>
+  <w>av</w>
+  <w>vallningar</w>
+  <w>,</w>
+  <w>sömnproblem</w>
+  <w>och</w>
+  <w>depression</w>
+  <w>.</w>
+  <absaspan id=47>
+    <w>Den</w>
+    <w>nya</w>
+    <w>behandlingen</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=48 senti=4>
+    <w>effektiv</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>är</w>
+  <w>mer</w>
+  <absaspan id=49 senti=4>
+    <w>skonsam</w>
+  </absaspan>
+  <w>–</w>
+  <w>de</w>
+  <w>allra</w>
+  <w>flesta</w>
+  <w>slipper</w>
+  <w>biverkningar</w>
+  <w>.</w>
+  <absaspan id=50>
+    <w>För</w>
+    <w>många</w>
+    <w>kvinnor</w>
+  </absaspan>
+  <w>med</w>
+  <w>kraftiga</w>
+  <w>besvär</w>
+  <w>skulle</w>
+  <absaspan id=51>
+    <w>den</w>
+  </absaspan>
+  <absaspan id=52 senti=4>
+    <w>innebära</w>
+    <w>en</w>
+    <w>väsentligt</w>
+    <w>höjd</w>
+    <w>livskvalitet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Behandling</w>
+  <w>finns</w>
+  <w>alltså</w>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=53>
+    <w>staten</w>
+  </absaspan>
+  <absaspan id=54 senti=2>
+    <w>vägrar</w>
+  </absaspan>
+  <absaspan id=55>
+    <w>betala</w>
+  </absaspan>
+  <w>och</w>
+  <w>därför</w>
+  <w>skriver</w>
+  <w>inte</w>
+  <w>läkarna</w>
+  <w>ut</w>
+  <w>läkemedlet</w>
+  <w>till</w>
+  <w>de</w>
+  <w>kvinnor</w>
+  <w>som</w>
+  <w>det</w>
+  <w>skulle</w>
+  <w>kunna</w>
+  <w>hjälpa</w>
+  <w>.</w>
+  <w>För</w>
+  <w>de</w>
+  <w>kvinnor</w>
+  <w>där</w>
+  <w>det</w>
+  <w>nya</w>
+  <w>läkemedlet</w>
+  <w>skulle</w>
+  <w>vara</w>
+  <w>rätt</w>
+  <w>behandling</w>
+  <w>står</w>
+  <w>nu</w>
+  <w>hoppet</w>
+  <w>till</w>
+  <w>att</w>
+  <w>landstinget</w>
+  <w>på</w>
+  <w>den</w>
+  <w>ort</w>
+  <w>de</w>
+  <w>bor</w>
+  <w>väljer</w>
+  <w>att</w>
+  <w>betala</w>
+  <w>ur</w>
+  <w>sin</w>
+  <w>egen</w>
+  <w>budget</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>När</w>
+  <w>vi</w>
+  <w>i</w>
+  <w>Endometriosföreningen</w>
+  <w>träffar</w>
+  <w>kvinnor</w>
+  <w>för</w>
+  <w>att</w>
+  <w>lyssna</w>
+  <w>på</w>
+  <w>deras</w>
+  <w>erfarenheter</w>
+  <w>är</w>
+  <w>det</w>
+  <w>ofta</w>
+  <w>som</w>
+  <w>att</w>
+  <w>öppna</w>
+  <w>en</w>
+  <w>dammlucka</w>
+  <w>.</w>
+  <absaspan id=56>
+    <w>Kvinnors</w>
+  </absaspan>
+  <absaspan id=57 senti=5>
+    <w>glädje</w>
+  </absaspan>
+  <w>av</w>
+  <w>att</w>
+  <absaspan id=58>
+    <w>förstå</w>
+    <w>vad</w>
+    <w>smärtan</w>
+    <w>beror</w>
+    <w>på</w>
+  </absaspan>
+  <w>blandas</w>
+  <w>med</w>
+  <absaspan id=59 senti=1>
+    <w>ilska</w>
+  </absaspan>
+  <w>över</w>
+  <w>att</w>
+  <absaspan id=60>
+    <w>de</w>
+    <w>ofta</w>
+    <w>fått</w>
+    <w>leva</w>
+    <w>år</w>
+    <w>eller</w>
+    <w>decennier</w>
+    <w>med</w>
+    <w>den</w>
+    <w>helt</w>
+    <w>i</w>
+    <w>onödan</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Emilia</w>
+  <w>går</w>
+  <w>inte</w>
+  <w>att</w>
+  <w>rädda</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>de</w>
+  <w>många</w>
+  <absaspan id=61>
+    <w>tusentals</w>
+    <w>kvinnor</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=62 senti=1>
+    <w>lider</w>
+    <w>i</w>
+    <w>tysthet</w>
+  </absaspan>
+  <w>kan</w>
+  <w>få</w>
+  <w>hjälp</w>
+  <w>.</w>
+  <absaspan id=63>
+    <w>Kvinnors</w>
+    <w>smärtor</w>
+  </absaspan>
+  <absaspan id=64 senti=4>
+    <w>måste</w>
+    <w>tas</w>
+    <w>på</w>
+    <w>allvar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vården</w>
+  <absaspan id=65 senti=4>
+    <w>bör</w>
+  </absaspan>
+  <w>som</w>
+  <w>ett</w>
+  <w>första</w>
+  <w>steg</w>
+  <absaspan id=66 senti=4>
+    <w>se</w>
+  </absaspan>
+  <absaspan id=67 senti=4>
+    <w>till</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=68>
+    <w>fler</w>
+    <w>drabbade</w>
+    <w>kvinnor</w>
+    <w>får</w>
+    <w>en</w>
+    <w>diagnos</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>att</w>
+  <w>nya</w>
+  <w>läkemedel</w>
+  <w>på</w>
+  <w>området</w>
+  <w>görs</w>
+  <w>tillgängliga</w>
+  <w>för</w>
+  <w>de</w>
+  <w>drabbade</w>
+  <w>som</w>
+  <w>behöver</w>
+  <w>dem</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>REN</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>N</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>Christina</w>
+  <w>Liffner</w>
+  <w>.</w>
+</absapar>
+</absadoc>

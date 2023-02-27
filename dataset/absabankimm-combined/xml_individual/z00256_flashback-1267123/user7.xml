@@ -1,0 +1,73 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Vanligaste</w>
+  <w>ordet</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>stava</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>fel</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Är</w>
+  <w>det</w>
+  <w>någon</w>
+  <w>som</w>
+  <w>vet</w>
+  <w>vilket</w>
+  <w>ord</w>
+  <w>som</w>
+  <w>oftast</w>
+  <absaspan id=3>
+    <w>stavas</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>fel</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Själv</w>
+  <w>skulle</w>
+  <w>jag</w>
+  <w>tippa</w>
+  <w>på</w>
+  <w>ordet</w>
+  <w>väl</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>I</w>
+  <w>meningar</w>
+  <w>som</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>"</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>väl</w>
+  <w>så</w>
+  <w>här</w>
+  <w>man</w>
+  <w>gör</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>stavar</w>
+  <w>många</w>
+  <w>även</w>
+  <w>här</w>
+  <w>på</w>
+  <w>FB</w>
+  <w>"</w>
+  <w>väll</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+</absadoc>

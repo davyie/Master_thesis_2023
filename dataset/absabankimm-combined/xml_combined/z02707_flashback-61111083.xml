@@ -1,0 +1,94 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>DN</w>
+  <w>:</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>INTE</w>
+  <w>sant</w>
+  <w>att</w>
+  <w>nyanlända</w>
+  <w>får</w>
+  <w>förmåner</w>
+  <w>(</w>
+  <w>pengar</w>
+  <w>,</w>
+  <w>lägenheter</w>
+  <w>,</w>
+  <w>jobb</w>
+  <w>mm</w>
+  <w>)</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <absaspan id=1>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>är</w>
+    <w>tveksam</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>att</w>
+    <w>DN</w>
+    <w>berättar</w>
+    <w>hela</w>
+    <w>sanningen</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Jag</w>
+  <w>trodde</w>
+  <w>att</w>
+  <w>det</w>
+  <w>delades</w>
+  <w>ut</w>
+  <w>av</w>
+  <w>det</w>
+  <w>som</w>
+  <w>nämns</w>
+  <w>om</w>
+  <w>än</w>
+  <w>inte</w>
+  <w>allt</w>
+  <w>till</w>
+  <w>samma</w>
+  <w>person</w>
+  <w>.</w>
+  <w>(</w>
+  <w>Om</w>
+  <w>nu</w>
+  <w>inte</w>
+  <w>en</w>
+  <w>nyanländ</w>
+  <w>bara</w>
+  <w>definieras</w>
+  <w>som</w>
+  <w>den</w>
+  <w>som</w>
+  <w>passerat</w>
+  <w>gränsen</w>
+  <w>den</w>
+  <w>senaste</w>
+  <w>halvtimmen</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>därefter</w>
+  <w>inte</w>
+  <w>längre</w>
+  <w>är</w>
+  <w>nyanländ</w>
+  <w>.</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <w>Har</w>
+  <w>jag</w>
+  <w>fel</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

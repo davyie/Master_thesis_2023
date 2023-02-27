@@ -1,0 +1,1104 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Sälja</w>
+    <w>vapen</w>
+    <w>till</w>
+    <w>Indonesien</w>
+  </absaspan>
+  <absaspan id=2 senti=2 source=3 target=1>
+    <w>strider</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=3 senti=2 target=1 source=3>
+    <w>riktlinjerna</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>bör</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>sätta</w>
+    <w>ytterligare</w>
+    <w>vapen</w>
+    <w>i</w>
+    <w>händerna</w>
+    <w>på</w>
+    <w>en</w>
+    <w>av</w>
+    <w>parterna</w>
+  </absaspan>
+  <w>och</w>
+  <w>riskera</w>
+  <w>att</w>
+  <w>trappa</w>
+  <w>upp</w>
+  <w>våldsnivån.Anna</w>
+  <w>Ek</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=7>
+    <w>Handelsminister</w>
+    <w>Ewa</w>
+    <w>Björling</w>
+    <w>och</w>
+    <w>statsminister</w>
+    <w>Fredrik</w>
+    <w>Reinfeldt</w>
+  </absaspan>
+  <w>skriver</w>
+  <w>på</w>
+  <w>Brännpunkt12</w>
+  <w>/</w>
+  <w>11</w>
+  <w>om</w>
+  <w>sin</w>
+  <w>resa</w>
+  <w>till</w>
+  <w>Burma</w>
+  <w>och</w>
+  <w>Indonesien</w>
+  <w>.</w>
+  <w>På</w>
+  <w>schemat</w>
+  <w>stod</w>
+  <w>både</w>
+  <w>politisk</w>
+  <w>dialog</w>
+  <w>och</w>
+  <absaspan id=8 senti=4>
+    <w>ansträngningar</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>att</w>
+    <w>skapa</w>
+    <w>handelskontakter</w>
+    <w>på</w>
+    <w>den</w>
+    <w>nya</w>
+    <w>marknad</w>
+    <w>som</w>
+    <w>både</w>
+    <w>Burma</w>
+    <w>och</w>
+    <w>Indonesien</w>
+    <w>innebär</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>"</w>
+  <w>Sydostasien</w>
+  <w>tillhör</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>de</w>
+  <w>mest</w>
+  <w>dynamiska</w>
+  <w>regionerna</w>
+  <w>med</w>
+  <w>hög</w>
+  <w>ekonomisk</w>
+  <w>tillväxt</w>
+  <w>och</w>
+  <w>politisk</w>
+  <w>reformtakt</w>
+  <w>i</w>
+  <w>flera</w>
+  <w>länder</w>
+  <w>.</w>
+  <absaspan id=10>
+    <w>För</w>
+    <w>den</w>
+    <w>svenska</w>
+    <w>regeringen</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>är</w>
+    <w>det</w>
+    <w>mycket</w>
+    <w>viktigt</w>
+    <w>att</w>
+    <w>stödja</w>
+    <w>denna</w>
+    <w>utveckling</w>
+    <w>och</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>–</w>
+    <w>som</w>
+    <w>exportberoende</w>
+    <w>land</w>
+    <w>–</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>tillvarata</w>
+  </absaspan>
+  <absaspan id=14 senti=4>
+    <w>de</w>
+    <w>nya</w>
+    <w>möjligheter</w>
+    <w>som</w>
+    <w>uppstår</w>
+  </absaspan>
+  <w>"</w>
+  <w>,</w>
+  <w>skriver</w>
+  <absaspan id=15>
+    <w>Björling</w>
+    <w>och</w>
+    <w>Reinfeldt</w>
+  </absaspan>
+  <w>och</w>
+  <w>visar</w>
+  <w>på</w>
+  <w>resans</w>
+  <w>dubbla</w>
+  <w>syften</w>
+  <w>.</w>
+  <w>Å</w>
+  <w>ena</w>
+  <w>sidan</w>
+  <absaspan id=16 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=18 senti=4>
+    <w>stötta</w>
+  </absaspan>
+  <w>,</w>
+  <w>å</w>
+  <w>andra</w>
+  <w>sidan</w>
+  <w>även</w>
+  <w>handla</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Men</w>
+  <w>hur</w>
+  <w>gör</w>
+  <w>vi</w>
+  <w>om</w>
+  <absaspan id=19>
+    <w>vår</w>
+    <w>handel</w>
+  </absaspan>
+  <absaspan id=20 senti=2>
+    <w>är</w>
+    <w>på</w>
+    <w>bekostnad</w>
+    <w>av</w>
+    <w>den</w>
+    <w>utveckling</w>
+    <w>och</w>
+    <w>den</w>
+    <w>fred</w>
+    <w>vi</w>
+    <w>påstår</w>
+    <w>oss</w>
+    <w>vilja</w>
+    <w>främja</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=22>
+    <w>Vi</w>
+    <w>i</w>
+    <w>Svenska</w>
+    <w>Freds</w>
+  </absaspan>
+  <w>tror</w>
+  <w>också</w>
+  <w>att</w>
+  <absaspan id=23>
+    <w>handel</w>
+  </absaspan>
+  <absaspan id=24 senti=4>
+    <w>är</w>
+    <w>ett</w>
+    <w>viktigt</w>
+    <w>instrument</w>
+    <w>för</w>
+    <w>att</w>
+    <w>bidra</w>
+    <w>till</w>
+    <w>utveckling</w>
+    <w>,</w>
+    <w>demokrati</w>
+    <w>och</w>
+    <w>mänskliga</w>
+    <w>rättigheter</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>inte</w>
+  <w>när</w>
+  <w>det</w>
+  <w>kommer</w>
+  <w>till</w>
+  <w>krigsmateriel</w>
+  <w>.</w>
+  <w>Där</w>
+  <w>har</w>
+  <absaspan id=25>
+    <w>regeringen</w>
+  </absaspan>
+  <w>själv</w>
+  <w>också</w>
+  <w>gjort</w>
+  <w>en</w>
+  <w>annan</w>
+  <w>analys</w>
+  <w>,</w>
+  <w>nämligen</w>
+  <w>att</w>
+  <w>det</w>
+  <w>behövs</w>
+  <w>regler</w>
+  <w>och</w>
+  <w>riktlinjer</w>
+  <w>för</w>
+  <w>att</w>
+  <w>minska</w>
+  <absaspan id=26 senti=2>
+    <w>risken</w>
+  </absaspan>
+  <absaspan id=27 senti=2>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>den</w>
+    <w>svenska</w>
+    <w>vapenexporten</w>
+  </absaspan>
+  <absaspan id=29 senti=2>
+    <w>bidrar</w>
+    <w>till</w>
+    <w>att</w>
+    <w>förvärra</w>
+    <w>väpnade</w>
+    <w>konflikter</w>
+    <w>,</w>
+    <w>hämma</w>
+    <w>fattigdomsbekämpning</w>
+    <w>,</w>
+    <w>eller</w>
+    <w>bidra</w>
+    <w>till</w>
+    <w>kränkningar</w>
+    <w>av</w>
+    <w>mänskliga</w>
+    <w>rättigheter</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>I</w>
+  <w>debattartikeln</w>
+  <w>nämns</w>
+  <w>inte</w>
+  <w>att</w>
+  <w>även</w>
+  <w>representanter</w>
+  <w>för</w>
+  <w>Saab</w>
+  <w>,</w>
+  <w>Sveriges</w>
+  <w>största</w>
+  <w>vapenföretag</w>
+  <w>,</w>
+  <w>också</w>
+  <w>fanns</w>
+  <w>med</w>
+  <w>i</w>
+  <w>näringslivsdelegationen</w>
+  <w>.</w>
+  <absaspan id=30>
+    <w>Saab</w>
+  </absaspan>
+  <absaspan id=31 senti=4>
+    <w>har</w>
+    <w>siktet</w>
+    <w>inställt</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>försäljning</w>
+    <w>av</w>
+    <w>Jas</w>
+    <w>Gripen</w>
+    <w>till</w>
+    <w>den</w>
+    <w>indonesiska</w>
+    <w>marknaden</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=33>
+    <w>En</w>
+    <w>sådan</w>
+    <w>affär</w>
+  </absaspan>
+  <absaspan id=34 senti=2>
+    <w>skulle</w>
+    <w>strida</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=35 senti=2>
+    <w>Sveriges</w>
+    <w>riktlinjer</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>för</w>
+    <w>vapenexport</w>
+    <w>om</w>
+    <w>att</w>
+    <w>inte</w>
+    <w>exportera</w>
+    <w>till</w>
+    <w>länder</w>
+    <w>i</w>
+    <w>väpnad</w>
+    <w>konflikt</w>
+    <w>och</w>
+    <w>att</w>
+    <w>situationen</w>
+    <w>för</w>
+    <w>de</w>
+    <w>mänskliga</w>
+    <w>rättigheterna</w>
+    <w>ska</w>
+    <w>vara</w>
+    <w>ett</w>
+    <w>centralt</w>
+    <w>villkor</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=37>
+    <w>Vapenhandel</w>
+    <w>med</w>
+    <w>fattiga</w>
+    <w>länder</w>
+  </absaspan>
+  <w>strider</w>
+  <w>också</w>
+  <w>mot</w>
+  <absaspan id=38>
+    <w>Politiken</w>
+    <w>för</w>
+    <w>Global</w>
+    <w>Utveckling</w>
+    <w>,</w>
+    <w>PGU</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>mot</w>
+  <absaspan id=39>
+    <w>EU</w>
+    <w>:</w>
+    <w>s</w>
+    <w>uppförandekod</w>
+    <w>för</w>
+    <w>vapenexport</w>
+  </absaspan>
+  <absaspan id=40 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=8>
+  <w>Skräddarsydda</w>
+  <w>kurser</w>
+  <w>i</w>
+  <w>ämnen</w>
+  <w>som</w>
+  <w>intresserar</w>
+  <w>och</w>
+  <w>engagerar</w>
+  <w>både</w>
+  <w>kropp</w>
+  <w>och</w>
+  <w>själ</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>För</w>
+  <w>det</w>
+  <w>första</w>
+  <absaspan id=41 senti=1>
+    <w>tampas</w>
+  </absaspan>
+  <absaspan id=42>
+    <w>Indonesien</w>
+  </absaspan>
+  <absaspan id=43 senti=1>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=44 senti=1>
+    <w>stora</w>
+    <w>fattigdomsproblem</w>
+  </absaspan>
+  <w>.</w>
+  <w>Fredrik</w>
+  <w>Reinfeldt</w>
+  <w>och</w>
+  <w>Ewa</w>
+  <w>Björling</w>
+  <w>skriver</w>
+  <w>att</w>
+  <w>Indonesien</w>
+  <w>är</w>
+  <w>en</w>
+  <w>ekonomi</w>
+  <w>i</w>
+  <w>utveckling</w>
+  <w>.</w>
+  <w>Detta</w>
+  <w>stämmer</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>samtidigt</w>
+  <w>visar</w>
+  <w>siffror</w>
+  <w>från</w>
+  <w>Världsbanken</w>
+  <w>att</w>
+  <w>32,5</w>
+  <w>miljoner</w>
+  <w>indonesier</w>
+  <w>lever</w>
+  <w>på</w>
+  <w>en</w>
+  <w>dollar</w>
+  <w>om</w>
+  <w>dagen</w>
+  <w>och</w>
+  <w>att</w>
+  <w>hälften</w>
+  <w>av</w>
+  <w>hushållen</w>
+  <w>befinner</w>
+  <w>sig</w>
+  <w>strax</w>
+  <w>under</w>
+  <w>eller</w>
+  <w>över</w>
+  <w>fattigdomsgränsen</w>
+  <w>.</w>
+  <absaspan id=45>
+    <w>Att</w>
+    <w>främja</w>
+    <w>vapenaffärer</w>
+    <w>med</w>
+    <w>ett</w>
+    <w>land</w>
+    <w>med</w>
+    <w>så</w>
+    <w>uppenbara</w>
+    <w>fattigdomsproblem</w>
+  </absaspan>
+  <absaspan id=46 senti=2>
+    <w>borde</w>
+    <w>inte</w>
+    <w>ligga</w>
+    <w>i</w>
+    <w>Sveriges</w>
+    <w>intresse</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=47>
+    <w>Varför</w>
+    <w>ska</w>
+  </absaspan>
+  <absaspan id=48 senti=2>
+    <w>fattiga</w>
+    <w>människor</w>
+  </absaspan>
+  <absaspan id=49>
+    <w>i</w>
+    <w>Indonesien</w>
+  </absaspan>
+  <absaspan id=50 senti=2>
+    <w>behöva</w>
+  </absaspan>
+  <absaspan id=51 senti=2>
+    <w>betala</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=52>
+    <w>att</w>
+    <w>vapenindustrins</w>
+    <w>vinster</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>För</w>
+  <w>det</w>
+  <w>andra</w>
+  <w>sker</w>
+  <w>det</w>
+  <w>en</w>
+  <w>generell</w>
+  <w>upprustning</w>
+  <w>i</w>
+  <w>regionen</w>
+  <w>.</w>
+  <w>Enligt</w>
+  <w>fredsforskningsinstitutet</w>
+  <w>Sipri</w>
+  <w>har</w>
+  <w>vapenaffärerna</w>
+  <w>med</w>
+  <w>Sydostasien</w>
+  <w>inte</w>
+  <w>varit</w>
+  <w>så</w>
+  <w>här</w>
+  <w>höga</w>
+  <w>sedan</w>
+  <w>slutet</w>
+  <w>av</w>
+  <w>Vietnamkriget</w>
+  <w>.</w>
+  <w>Enbart</w>
+  <absaspan id=53>
+    <w>Indonesien</w>
+  </absaspan>
+  <w>har</w>
+  <w>ökat</w>
+  <w>sina</w>
+  <w>vapeninköp</w>
+  <w>med</w>
+  <w>144</w>
+  <w>procent</w>
+  <w>de</w>
+  <w>senaste</w>
+  <w>åren</w>
+  <w>.</w>
+  <absaspan id=54>
+    <w>Militär</w>
+  </absaspan>
+  <absaspan id=55>
+    <w>upprustning</w>
+  </absaspan>
+  <absaspan id=56 senti=2>
+    <w>är</w>
+    <w>ofta</w>
+    <w>en</w>
+    <w>orsak</w>
+    <w>till</w>
+    <w>att</w>
+    <w>konflikter</w>
+    <w>eskalerar</w>
+    <w>och</w>
+    <w>blir</w>
+    <w>väpnade</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=57>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=58 senti=2>
+    <w>leder</w>
+    <w>till</w>
+    <w>kapprustning</w>
+    <w>och</w>
+    <w>instabilitet</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=59>
+    <w>Att</w>
+    <w>i</w>
+    <w>den</w>
+    <w>situationen</w>
+    <w>bidra</w>
+    <w>till</w>
+    <w>ökad</w>
+    <w>militarisering</w>
+  </absaspan>
+  <absaspan id=60 senti=2>
+    <w>går</w>
+    <w>helt</w>
+    <w>emot</w>
+  </absaspan>
+  <w>de</w>
+  <absaspan id=61 senti=2>
+    <w>ambitioner</w>
+  </absaspan>
+  <absaspan id=62 senti=2>
+    <w>om</w>
+    <w>demokrati</w>
+    <w>och</w>
+    <w>utveckling</w>
+  </absaspan>
+  <w>som</w>
+  <w>Björling</w>
+  <w>och</w>
+  <w>Reinfeldt</w>
+  <w>menar</w>
+  <w>är</w>
+  <w>resans</w>
+  <w>syfte</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>För</w>
+  <w>det</w>
+  <w>tredje</w>
+  <absaspan id=63 senti=2>
+    <w>är</w>
+    <w>situationen</w>
+    <w>för</w>
+    <w>de</w>
+    <w>mänskliga</w>
+    <w>rättigheterna</w>
+  </absaspan>
+  <absaspan id=64>
+    <w>i</w>
+  </absaspan>
+  <absaspan id=65>
+    <w>landet</w>
+  </absaspan>
+  <absaspan id=66 senti=2>
+    <w>allvarlig</w>
+  </absaspan>
+  <w>.</w>
+  <w>Utrikesdepartementet</w>
+  <w>konstaterar</w>
+  <w>följande</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>senaste</w>
+  <w>rapport</w>
+  <w>om</w>
+  <w>mänskliga</w>
+  <w>rättigheter</w>
+  <w>i</w>
+  <absaspan id=67>
+    <w>Indonesien</w>
+  </absaspan>
+  <w>:</w>
+  <w>"</w>
+  <absaspan id=68>
+    <w>Det</w>
+    <w>indonesiska</w>
+    <w>rättssystemet</w>
+  </absaspan>
+  <w>anses</w>
+  <w>alltjämt</w>
+  <absaspan id=69 senti=1>
+    <w>vara</w>
+    <w>ett</w>
+    <w>av</w>
+    <w>världens</w>
+    <w>mest</w>
+    <w>korrupta</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=70 senti=2>
+    <w>rättssäkerheten</w>
+    <w>och</w>
+    <w>förtroendet</w>
+    <w>för</w>
+    <w>rättsapparaten</w>
+    <w>är</w>
+    <w>mycket</w>
+    <w>begränsat</w>
+  </absaspan>
+  <absaspan id=71>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=72>
+    <w>Straffrihet</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=73 senti=1>
+    <w>övergrepp</w>
+    <w>och</w>
+    <w>brott</w>
+    <w>mot</w>
+    <w>de</w>
+    <w>mänskliga</w>
+    <w>rättigheterna</w>
+  </absaspan>
+  <absaspan id=74 senti=1>
+    <w>är</w>
+    <w>ett</w>
+    <w>allvarligt</w>
+    <w>problem</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=75 senti=1>
+    <w>tortyr</w>
+  </absaspan>
+  <absaspan id=76 senti=1>
+    <w>förekommer</w>
+  </absaspan>
+  <w>,</w>
+  <w>särskilt</w>
+  <w>i</w>
+  <w>häkten</w>
+  <w>.</w>
+  <absaspan id=77 senti=1>
+    <w>Brutalitet</w>
+  </absaspan>
+  <absaspan id=78 senti=1>
+    <w>och</w>
+    <w>övervåld</w>
+  </absaspan>
+  <absaspan id=79>
+    <w>från</w>
+    <w>säkerhetsstyrkornas</w>
+    <w>sida</w>
+  </absaspan>
+  <absaspan id=80 senti=1>
+    <w>förekommer</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=81>
+    <w>Situationen</w>
+    <w>i</w>
+    <w>Papua</w>
+  </absaspan>
+  <absaspan id=82 senti=2>
+    <w>är</w>
+    <w>särskilt</w>
+    <w>bekymmersam</w>
+  </absaspan>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <absaspan id=83>
+    <w>Att</w>
+    <w>främja</w>
+    <w>vapenexport</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=84>
+    <w>Indonesien</w>
+  </absaspan>
+  <absaspan id=85>
+    <w>trots</w>
+    <w>så</w>
+    <w>tydliga</w>
+    <w>konstateranden</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=86 senti=2>
+    <w>brister</w>
+    <w>i</w>
+    <w>efterlevnaden</w>
+    <w>av</w>
+    <w>de</w>
+    <w>mänskliga</w>
+    <w>rättigheterna</w>
+  </absaspan>
+  <absaspan id=87 senti=2>
+    <w>stämmer</w>
+    <w>inte</w>
+    <w>överens</w>
+    <w>med</w>
+    <w>svenska</w>
+    <w>riktlinjer</w>
+  </absaspan>
+  <w>för</w>
+  <w>vapenexport</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>För</w>
+  <w>det</w>
+  <w>fjärde</w>
+  <w>pågår</w>
+  <w>det</w>
+  <w>,</w>
+  <w>precis</w>
+  <w>som</w>
+  <w>UD</w>
+  <w>konstaterar</w>
+  <w>,</w>
+  <absaspan id=88>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=89 senti=1>
+    <w>väpnad</w>
+    <w>konflikt</w>
+  </absaspan>
+  <absaspan id=90>
+    <w>i</w>
+    <w>Papua</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=91>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=92 senti=1>
+    <w>är</w>
+    <w>en</w>
+    <w>svårlöst</w>
+    <w>konflikt</w>
+    <w>som</w>
+    <w>riskerar</w>
+    <w>att</w>
+    <w>eskalera</w>
+  </absaspan>
+  <w>om</w>
+  <w>den</w>
+  <w>inte</w>
+  <w>löses</w>
+  <w>snart</w>
+  <w>.</w>
+  <absaspan id=93>
+    <w>Den</w>
+    <w>amerikanska</w>
+    <w>människorättsorganisationen</w>
+    <w>Human</w>
+    <w>Rights</w>
+    <w>Watch</w>
+  </absaspan>
+  <absaspan id=94 senti=2>
+    <w>har</w>
+    <w>riktat</w>
+    <w>kritik</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=95 senti=2>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=96 senti=2>
+    <w>övergrepp</w>
+    <w>som</w>
+    <w>skett</w>
+    <w>i</w>
+    <w>konflikten</w>
+  </absaspan>
+  <absaspan id=97>
+    <w>och</w>
+    <w>den</w>
+    <w>immunitet</w>
+    <w>som</w>
+    <w>råder</w>
+    <w>för</w>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=98>
+    <w>militära</w>
+    <w>styrkor</w>
+  </absaspan>
+  <absaspan id=99>
+    <w>som</w>
+    <w>begått</w>
+    <w>dem</w>
+  </absaspan>
+  <w>.</w>
+  <w>Specialstyrkor</w>
+  <w>har</w>
+  <w>övervakat</w>
+  <w>fredliga</w>
+  <w>aktivister</w>
+  <w>,</w>
+  <w>politiker</w>
+  <w>och</w>
+  <w>religiösa</w>
+  <w>ledare</w>
+  <w>i</w>
+  <w>Papua</w>
+  <w>som</w>
+  <w>sedan</w>
+  <absaspan id=100 senti=1>
+    <w>utsatts</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=101 senti=1>
+    <w>hot</w>
+    <w>och</w>
+    <w>trakasserier</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <absaspan id=102>
+    <w>Sverige</w>
+  </absaspan>
+  <absaspan id=103 senti=4>
+    <w>borde</w>
+    <w>stödja</w>
+    <w>en</w>
+    <w>lösning</w>
+  </absaspan>
+  <absaspan id=104>
+    <w>på</w>
+    <w>den</w>
+    <w>väpnade</w>
+    <w>konflikten</w>
+  </absaspan>
+  <w>snarare</w>
+  <w>än</w>
+  <absaspan id=105>
+    <w>att</w>
+    <w>sätta</w>
+    <w>ytterligare</w>
+    <w>vapen</w>
+    <w>i</w>
+    <w>händerna</w>
+    <w>på</w>
+    <w>en</w>
+    <w>av</w>
+    <w>parterna</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=106 senti=2>
+    <w>riskera</w>
+    <w>att</w>
+    <w>trappa</w>
+    <w>upp</w>
+    <w>våldsnivån</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Om</w>
+  <absaspan id=107>
+    <w>regeringen</w>
+  </absaspan>
+  <w>menar</w>
+  <w>allvar</w>
+  <w>med</w>
+  <w>att</w>
+  <absaspan id=108 senti=4>
+    <w>främja</w>
+  </absaspan>
+  <absaspan id=109 senti=4>
+    <w>demokrati</w>
+    <w>och</w>
+    <w>mänskliga</w>
+    <w>rättigheter</w>
+  </absaspan>
+  <absaspan id=110>
+    <w>i</w>
+    <w>Indonesien</w>
+  </absaspan>
+  <w>får</w>
+  <w>dessa</w>
+  <w>mål</w>
+  <w>inte</w>
+  <w>underställas</w>
+  <w>vapenindustrins</w>
+  <w>exportintressen</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>ANNA</w>
+  <w>EK</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>ordförande</w>
+  <w>Svenska</w>
+  <w>Freds</w>
+  <w>-</w>
+  <w>och</w>
+  <w>Skiljedomsföreningen</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>Läs</w>
+  <w>också</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=19>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>13</w>
+  <w>/</w>
+  <w>11</w>
+  <w>.</w>
+  <w>Palmecentret</w>
+  <w>:</w>
+  <w>Sverige</w>
+  <w>måste</w>
+  <w>ställa</w>
+  <w>tydliga</w>
+  <w>krav</w>
+  <w>på</w>
+  <w>reformer</w>
+  <w>.</w>
+</absapar>
+<absapar id=20>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

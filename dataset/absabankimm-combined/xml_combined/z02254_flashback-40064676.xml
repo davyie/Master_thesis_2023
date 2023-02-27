@@ -1,0 +1,166 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Vilken</w>
+  <w>etnisk</w>
+  <w>twist</w>
+  <w>vill</w>
+  <w>du</w>
+  <w>se</w>
+  <w>på</w>
+  <w>duken</w>
+  <w>/</w>
+  <w>scenen</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Carl</w>
+  <w>Gustaf</w>
+  <w>Mannerheim</w>
+  <w>,</w>
+  <w>Strindberg</w>
+  <w>,</w>
+  <w>Julius</w>
+  <w>Caesar</w>
+  <w>och</w>
+  <w>inte</w>
+  <w>minst</w>
+  <w>den</w>
+  <w>store</w>
+  <w>asaguden</w>
+  <w>Heimdal</w>
+  <w>var</w>
+  <w>alla</w>
+  <w>väldigt</w>
+  <w>inflytelserika</w>
+  <w>negrer</w>
+  <w>i</w>
+  <w>historien</w>
+  <w>.</w>
+  <w>I</w>
+  <w>alla</w>
+  <w>fall</w>
+  <w>om</w>
+  <w>man</w>
+  <w>ska</w>
+  <w>tro</w>
+  <w>sina</w>
+  <w>ögon</w>
+  <w>.</w>
+  <w>Förutom</w>
+  <w>August</w>
+  <w>Strindberg</w>
+  <w>är</w>
+  <w>våg</w>
+  <w>egen</w>
+  <w>konung</w>
+  <w>Carl</w>
+  <w>XVI</w>
+  <w>Gustaf</w>
+  <w>kanske</w>
+  <w>den</w>
+  <w>person</w>
+  <w>som</w>
+  <w>oftast</w>
+  <w>dyker</w>
+  <w>upp</w>
+  <w>i</w>
+  <w>folks</w>
+  <w>huvuden</w>
+  <w>när</w>
+  <w>man</w>
+  <w>pratar</w>
+  <w>om</w>
+  <w>kända</w>
+  <w>,</w>
+  <w>svenska</w>
+  <w>negrer</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Jag</w>
+  <w>tycker</w>
+  <w>ändå</w>
+  <w>att</w>
+  <w>de</w>
+  <w>vitas</w>
+  <w>historia</w>
+  <w>hamnat</w>
+  <w>lite</w>
+  <w>i</w>
+  <w>skymundan</w>
+  <w>på</w>
+  <w>bioduken</w>
+  <w>.</w>
+  <w>Vad</w>
+  <absaspan id=1>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>önskar</w>
+    <w>se</w>
+  </absaspan>
+  <w>på</w>
+  <w>bioduken</w>
+  <w>redan</w>
+  <w>nästa</w>
+  <w>år</w>
+  <w>är</w>
+  <absaspan id=3>
+    <w>en</w>
+    <w>målande</w>
+    <w>historia</w>
+    <w>om</w>
+    <w>samspelet</w>
+    <w>mellan</w>
+    <w>nutidens</w>
+    <w>kanske</w>
+    <w>största</w>
+    <w>förkämpar</w>
+    <w>för</w>
+    <w>den</w>
+    <w>vita</w>
+    <w>världens</w>
+    <w>civilisationsspridning</w>
+  </absaspan>
+  <w>.</w>
+  <w>Jag</w>
+  <w>syftar</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>på</w>
+  <w>ärkeänglarna</w>
+  <absaspan id=4>
+    <w>Nelson</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>Mandela</w>
+    <w>(</w>
+    <w>f.d</w>
+    <w>Johansson</w>
+    <w>)</w>
+    <w>och</w>
+    <w>Robert</w>
+    <w>Mugabe</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=6 senti=5>
+    <w>Guds</w>
+    <w>fred</w>
+    <w>vare</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>er</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vad</w>
+  <w>vill</w>
+  <w>ni</w>
+  <w>se</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

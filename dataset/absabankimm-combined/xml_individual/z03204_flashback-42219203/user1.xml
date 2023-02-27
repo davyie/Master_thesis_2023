@@ -1,0 +1,208 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Vad</w>
+  <w>vill</w>
+  <absaspan id=1>
+    <w>Beppe</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Grillo</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Ja</w>
+  <w>,</w>
+  <w>som</w>
+  <w>rubriken</w>
+  <w>säger</w>
+  <w>,</w>
+  <w>vad</w>
+  <w>vill</w>
+  <w>han</w>
+  <w>egentligen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=3 senti=2>
+    <w>Populist</w>
+    <w>ska</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>ju</w>
+    <w>vara</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=6 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <w>enligt</w>
+  <w>vaga</w>
+  <w>uppgifter</w>
+  <absaspan id=7>
+    <w>införa</w>
+    <w>direktdemokrati</w>
+    <w>på</w>
+    <w>nätet</w>
+    <w>genom</w>
+    <w>att</w>
+    <w>dela</w>
+    <w>ut</w>
+    <w>gratis</w>
+    <w>Ipads</w>
+    <w>,</w>
+    <w>spola</w>
+    <w>euron</w>
+    <w>+</w>
+    <w>införa</w>
+    <w>medborgarlön</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+  <w>Det</w>
+  <w>där</w>
+  <w>med</w>
+  <w>vem</w>
+  <w>som</w>
+  <w>är</w>
+  <w>populisten</w>
+  <w>är</w>
+  <w>svårt</w>
+  <w>att</w>
+  <w>avgöra</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>land</w>
+  <w>i</w>
+  <w>Italien</w>
+  <w>antar</w>
+  <w>jag</w>
+  <w>där</w>
+  <w>en</w>
+  <w>av</w>
+  <w>hans</w>
+  <w>motståndares</w>
+  <w>vallöfte</w>
+  <w>är</w>
+  <w>att</w>
+  <w>skicka</w>
+  <w>pengar</w>
+  <w>i</w>
+  <w>kuvert</w>
+  <w>till</w>
+  <w>alla</w>
+  <w>medborgare</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Han</w>
+  <w>är</w>
+  <w>ju</w>
+  <w>intressant</w>
+  <w>på</w>
+  <w>så</w>
+  <w>sätt</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>en</w>
+  <w>populism</w>
+  <w>enligt</w>
+  <w>uppgift</w>
+  <w>utan</w>
+  <w>nationalistisk</w>
+  <w>ideologi</w>
+  <w>vilket</w>
+  <w>är</w>
+  <w>rätt</w>
+  <w>så</w>
+  <w>ovanligt</w>
+  <w>i</w>
+  <w>krisens</w>
+  <w>Europa</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>är</w>
+  <w>jävligt</w>
+  <w>nyfiken</w>
+  <w>på</w>
+  <w>vad</w>
+  <w>det</w>
+  <w>är</w>
+  <w>han</w>
+  <w>vill</w>
+  <w>,</w>
+  <w>det</w>
+  <w>enda</w>
+  <w>man</w>
+  <w>får</w>
+  <w>höra</w>
+  <w>är</w>
+  <w>att</w>
+  <w>han</w>
+  <w>är</w>
+  <w>en</w>
+  <w>pajas</w>
+  <w>och</w>
+  <w>etablissemang-hatare</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Jag</w>
+  <w>har</w>
+  <w>kollat</w>
+  <w>italienska</w>
+  <w>val-tråden</w>
+  <w>men</w>
+  <w>inte</w>
+  <w>fått</w>
+  <w>nog</w>
+  <w>med</w>
+  <w>mat</w>
+  <w>därifrån</w>
+  <w>och</w>
+  <absaspan id=9 senti=2>
+    <w>vill</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>starta</w>
+    <w>någon</w>
+    <w>OT-diskussion</w>
+    <w>där</w>
+  </absaspan>
+  <w>så</w>
+  <w>därför</w>
+  <w>får</w>
+  <w>Beppe</w>
+  <w>en</w>
+  <w>egen</w>
+  <w>tråd</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=11 senti=4>
+    <w>Kom</w>
+    <w>igen</w>
+    <w>nu</w>
+  </absaspan>
+  <w>svensk-italienare</w>
+  <w>,</w>
+  <absaspan id=12>
+    <w>ge</w>
+    <w>mig</w>
+    <w>lite</w>
+    <w>översättningar</w>
+    <w>från</w>
+    <w>blogen</w>
+    <w>och</w>
+    <w>uttalanden</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

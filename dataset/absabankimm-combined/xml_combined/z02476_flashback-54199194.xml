@@ -1,0 +1,84 @@
+<absadoc annotators=1 senti=4>
+<absatitle>
+  <w>#</w>
+  <w>T</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>14</w>
+  <w>-</w>
+  <w>åring</w>
+  <w>utvisas</w>
+  <w>till</w>
+  <w>Italien</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>#</w>
+  <w>P</w>
+  <absaspan id=1 senti=2>
+    <w>IMM</w>
+  </absaspan>
+  <w>.</w>
+  <w>14</w>
+  <w>-</w>
+  <w>åringen</w>
+  <w>Sharmaki</w>
+  <w>Abubacars</w>
+  <w>utvisas</w>
+  <w>från</w>
+  <w>Sverige</w>
+  <w>till</w>
+  <w>Italien</w>
+  <w>.</w>
+  <w>Barnet</w>
+  <w>vet</w>
+  <w>inte</w>
+  <w>hur</w>
+  <w>han</w>
+  <w>ska</w>
+  <w>överleva</w>
+  <w>i</w>
+  <w>Italien</w>
+  <w>.</w>
+  <w>Han</w>
+  <absaspan id=2 senti=2>
+    <w>känner</w>
+    <w>ingen</w>
+    <w>trygghet</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Är</w>
+  <w>detta</w>
+  <w>verkligen</w>
+  <w>rätt</w>
+  <w>?</w>
+  <w>Hur</w>
+  <w>kan</w>
+  <w>man</w>
+  <w>skicka</w>
+  <w>ett</w>
+  <w>barn</w>
+  <w>utan</w>
+  <w>föräldrar</w>
+  <w>rakt</w>
+  <w>ut</w>
+  <w>i</w>
+  <w>Europa</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Edit</w>
+  <w>:</w>
+  <w>Glömde</w>
+  <w>ett</w>
+  <w>́</w>
+  <w>N</w>
+  <w>`</w>
+  <w>.</w>
+</absapar>
+</absadoc>

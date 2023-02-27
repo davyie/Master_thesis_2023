@@ -1,0 +1,153 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Danmark</w>
+  <w>utvisar</w>
+  <w>kriminella</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>"</w>
+  <absaspan id=1>
+    <w>Utvisning</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>är</w>
+    <w>den</w>
+    <w>rätta</w>
+    <w>vägen</w>
+    <w>att</w>
+    <w>gå</w>
+    <w>när</w>
+    <w>utländska</w>
+    <w>medborgare</w>
+    <w>bryter</w>
+    <w>mot</w>
+    <w>dansk</w>
+    <w>lag</w>
+  </absaspan>
+  <w>,</w>
+  <w>säger</w>
+  <absaspan id=3>
+    <w>Lene</w>
+    <w>Espersen</w>
+  </absaspan>
+  <w>till</w>
+  <w>tidningen</w>
+  <w>Politiken</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>tycker</w>
+  <w>att</w>
+  <w>man</w>
+  <w>bara</w>
+  <w>ska</w>
+  <w>skicka</w>
+  <w>ut</w>
+  <absaspan id=4>
+    <w>brottslingarna</w>
+  </absaspan>
+  <w>ur</w>
+  <w>landet</w>
+  <w>.</w>
+  <w>"</w>
+  <absaspan id=5 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Kan</w>
+  <w>berätta</w>
+  <w>att</w>
+  <w>en</w>
+  <w>tex</w>
+  <w>engelsman</w>
+  <w>som</w>
+  <w>spottat</w>
+  <w>o</w>
+  <w>slagit</w>
+  <w>på</w>
+  <w>en</w>
+  <w>busschaförr</w>
+  <w>utvisades</w>
+  <w>direkt</w>
+  <w>.</w>
+  <w>-</w>
+  <w>Man</w>
+  <w>såg</w>
+  <w>det</w>
+  <w>som</w>
+  <w>ett</w>
+  <w>attentat</w>
+  <w>på</w>
+  <absaspan id=6>
+    <w>kollektivtrafiken</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>är</w>
+    <w>nödvändig</w>
+    <w>för</w>
+    <w>att</w>
+    <w>upprätthålla</w>
+    <w>hela</w>
+    <w>samhället</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+  <w>Kan</w>
+  <w>inte</w>
+  <w>folk</w>
+  <w>åka</w>
+  <w>till</w>
+  <w>jobbet</w>
+  <w>så</w>
+  <w>havererar</w>
+  <w>hela</w>
+  <w>välfärdstaten</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=9>
+    <w>Danska</w>
+    <w>jurister</w>
+  </absaspan>
+  <absaspan id=10 senti=5>
+    <w>försvarar</w>
+    <w>ivrigt</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>att</w>
+    <w>utlänningar</w>
+    <w>skall</w>
+    <w>straffas</w>
+    <w>hårdare</w>
+    <w>än</w>
+    <w>danskar</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=12>
+    <w>Man</w>
+  </absaspan>
+  <w>menar</w>
+  <w>att</w>
+  <w>Danmark</w>
+  <w>har</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>slänga</w>
+  <w>ut</w>
+  <absaspan id=13>
+    <w>personer</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>inte</w>
+    <w>sköter</w>
+    <w>sig</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

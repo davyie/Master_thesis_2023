@@ -1,0 +1,62 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Expressens</w>
+  <w>kultursida</w>
+  <w>tillbakavisar</w>
+  <w>hotet</w>
+  <w>av</w>
+  <w>"</w>
+  <absaspan id=1 senti=2 target=1>
+    <w>fake</w>
+    <w>news</w>
+  </absaspan>
+  <w>"</w>
+  <w>medan</w>
+  <absaspan id=2 senti=2>
+    <w>S</w>
+    <w>trollfabrik</w>
+  </absaspan>
+  <w>avslöjas</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Tja</w>
+  <w>,</w>
+  <absaspan id=3>
+    <w>S</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>har</w>
+    <w>såklart</w>
+    <w>fler</w>
+    <w>trollfabriker</w>
+    <w>än</w>
+    <w>så</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>det</w>
+  <w>rymdes</w>
+  <w>inte</w>
+  <w>med</w>
+  <w>mer</w>
+  <w>i</w>
+  <w>rubriken</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Frågeställning</w>
+  <w>:</w>
+  <w>Gammelmedia</w>
+  <w>dödsrycker</w>
+  <w>?</w>
+  <w>Eller</w>
+  <w>har</w>
+  <w>skribenten</w>
+  <w>en</w>
+  <w>poäng</w>
+  <w>här</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

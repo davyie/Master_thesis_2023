@@ -1,0 +1,78 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>'</w>
+    <w>Black</w>
+    <w>Power</w>
+    <w>'</w>
+  </absaspan>
+  <w>-</w>
+  <absaspan id=2 senti=4 target=1>
+    <w>helt</w>
+    <w>accepterat</w>
+  </absaspan>
+  <w>,</w>
+  <w>'</w>
+  <w>White</w>
+  <w>Power</w>
+  <w>'</w>
+  <w>-</w>
+  <w>rasism</w>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Hur</w>
+  <w>kan</w>
+  <absaspan id=4>
+    <w>svarta</w>
+  </absaspan>
+  <w>få</w>
+  <w>uttrycka</w>
+  <absaspan id=5>
+    <w>sitt</w>
+  </absaspan>
+  <absaspan id=6 senti=1>
+    <w>hat</w>
+  </absaspan>
+  <w>offentligt</w>
+  <w>utan</w>
+  <w>konsekvenser</w>
+  <w>?</w>
+  <w>Hur</w>
+  <w>tillåts</w>
+  <w>det</w>
+  <w>?</w>
+  <w>En</w>
+  <absaspan id=7 senti=1>
+    <w>negerrasse</w>
+  </absaspan>
+  <w>är</w>
+  <w>knappast</w>
+  <w>annorlunda</w>
+  <w>en</w>
+  <w>Nazist</w>
+  <w>?</w>
+  <w>Varför</w>
+  <w>tillåts</w>
+  <w>negrers</w>
+  <absaspan id=8 senti=1>
+    <w>aggressivitet</w>
+  </absaspan>
+  <w>i</w>
+  <w>väst</w>
+  <w>?</w>
+  <w>Bör</w>
+  <w>alla</w>
+  <absaspan id=9 senti=1>
+    <w>negrer</w>
+  </absaspan>
+  <w>skickas</w>
+  <w>tillbaka</w>
+  <w>till</w>
+  <w>Afrika</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,85 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=1 target=2>
+    <w>Jävla</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>flyktingläger</w>
+  </absaspan>
+  <w>byggs</w>
+  <w>i</w>
+  <w>östra</w>
+  <w>Lund</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Har</w>
+  <w>hållts</w>
+  <w>på</w>
+  <w>att</w>
+  <w>byggas</w>
+  <w>i</w>
+  <w>några</w>
+  <w>månader</w>
+  <w>,</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=3 senti=2>
+    <w>TYVÄRR</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>ser</w>
+    <w>det</w>
+    <w>ganska</w>
+    <w>permanent</w>
+    <w>ut</w>
+  </absaspan>
+  <w>,</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>dvs</w>
+  <w>inga</w>
+  <w>lösa</w>
+  <w>baracker</w>
+  <w>utan</w>
+  <w>vattenledning</w>
+  <w>och</w>
+  <w>nymodigheter</w>
+  <w>som</w>
+  <w>elektricitet</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>och</w>
+  <w>asfaltsparkering</w>
+  <w>ska</w>
+  <w>det</w>
+  <w>vara</w>
+  <w>för</w>
+  <w>hela</w>
+  <w>skatteslanten</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Varför</w>
+  <w>?</w>
+  <w>Varför</w>
+  <w>just</w>
+  <w>där</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Kan</w>
+  <w>man</w>
+  <w>göra</w>
+  <w>något</w>
+  <w>åt</w>
+  <w>det</w>
+  <w>tro</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,37 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Domare</w>
+  </absaspan>
+  <w>:</w>
+  <w>Bättre</w>
+  <w>att</w>
+  <w>vara</w>
+  <w>öppen</w>
+  <w>med</w>
+  <absaspan id=2>
+    <w>invandringens</w>
+  </absaspan>
+  <absaspan id=3 senti=2>
+    <w>brottsliga</w>
+    <w>avigsidor</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Riktigt</w>
+  <w>bra</w>
+  <w>skrivet</w>
+  <w>gällande</w>
+  <absaspan id=4 senti=2>
+    <w>mörkning</w>
+    <w>av</w>
+    <w>statistik</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=5>
+    <w>media</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

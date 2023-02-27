@@ -1,0 +1,266 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>"</w>
+  <w>Jag</w>
+  <w>skulle</w>
+  <w>vilja</w>
+  <w>gå</w>
+  <w>ur</w>
+  <w>Myndighetssverige</w>
+  <w>"</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Kära</w>
+  <w>Medborgare</w>
+  <w>!</w>
+  <w>Välj</w>
+  <w>nu</w>
+  <w>ett</w>
+  <w>ämne</w>
+  <w>och</w>
+  <w>ge</w>
+  <w>dig</w>
+  <w>in</w>
+  <w>i</w>
+  <w>debatten</w>
+  <w>.</w>
+  <w>Den</w>
+  <w>uppmaningen</w>
+  <w>kan</w>
+  <w>vi</w>
+  <w>läsa</w>
+  <w>på</w>
+  <w>den</w>
+  <w>statliga</w>
+  <w>kommittén</w>
+  <w>för</w>
+  <w>EU-debatts</w>
+  <w>hemsida</w>
+  <w>som</w>
+  <w>regering</w>
+  <w>startat</w>
+  <w>för</w>
+  <w>att</w>
+  <w>folk</w>
+  <w>ute</w>
+  <w>i</w>
+  <w>buskarna</w>
+  <w>ska</w>
+  <w>debattera</w>
+  <w>EU</w>
+  <w>”</w>
+  <w>bättre</w>
+  <w>”</w>
+  <w>.</w>
+  <w>Grundtanken</w>
+  <w>är</w>
+  <w>:</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>tänka</w>
+    <w>fritt</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>är</w>
+    <w>stort</w>
+  </absaspan>
+  <w>,</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>tänka</w>
+    <w>rätt</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>är</w>
+    <w>större</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>.</w>
+  </absaspan>
+  <w>Vi</w>
+  <w>,</w>
+  <w>alltså</w>
+  <absaspan id=6>
+    <w>folket</w>
+  </absaspan>
+  <w>,</w>
+  <w>är</w>
+  <w>ett</w>
+  <absaspan id=7 senti=2>
+    <w>stort</w>
+    <w>problem</w>
+  </absaspan>
+  <w>eftersom</w>
+  <w>vi</w>
+  <w>tänker</w>
+  <w>själva</w>
+  <w>och</w>
+  <w>inte</w>
+  <w>anpassar</w>
+  <w>oss</w>
+  <w>i</w>
+  <w>politikernas</w>
+  <w>förankringsprocess</w>
+  <absaspan id=8>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Därför</w>
+  <w>har</w>
+  <w>denna</w>
+  <absaspan id=9 senti=2>
+    <w>propagandakommitté</w>
+  </absaspan>
+  <w>tillkommit</w>
+  <w>.</w>
+  <w>Ett</w>
+  <w>litet</w>
+  <w>antal</w>
+  <w>tjänstemän</w>
+  <w>har</w>
+  <w>fått</w>
+  <w>ett</w>
+  <w>antal</w>
+  <w>miljoner</w>
+  <w>att</w>
+  <w>spela</w>
+  <w>med</w>
+  <w>.</w>
+  <absaspan id=10>
+    <w>Skickar</w>
+    <w>du</w>
+    <w>in</w>
+    <w>en</w>
+    <w>ansökan</w>
+    <w>och</w>
+    <w>har</w>
+    <w>rätt</w>
+    <w>frågeställning</w>
+  </absaspan>
+  <w>,</w>
+  <w>då</w>
+  <absaspan id=11 senti=4 irony>
+    <w>tillhör</w>
+    <w>du</w>
+    <w>de</w>
+    <w>lyckligt</w>
+    <w>lottade</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=12>
+    <w>Regeringen</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>kan</w>
+    <w>stolt</w>
+    <w>mäta</w>
+  </absaspan>
+  <w>via</w>
+  <w>antalet</w>
+  <w>ansökningar</w>
+  <w>att</w>
+  <absaspan id=14>
+    <w>demokratin</w>
+    <w>ändå</w>
+    <w>fungerar</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=15>
+    <w>De</w>
+  </absaspan>
+  <w>som</w>
+  <w>redan</w>
+  <absaspan id=16 senti=4>
+    <w>tycker</w>
+    <w>rätt</w>
+  </absaspan>
+  <w>är</w>
+  <w>också</w>
+  <w>de</w>
+  <w>som</w>
+  <w>i</w>
+  <w>huvudsak</w>
+  <w>är</w>
+  <w>ämnade</w>
+  <w>för</w>
+  <w>lekpengarna</w>
+  <absaspan id=17>
+    <w>.</w>
+  </absaspan>
+  <w>Kommittén</w>
+  <w>”</w>
+  <w>ska</w>
+  <w>skapa</w>
+  <w>ett</w>
+  <w>debattforum</w>
+  <w>där</w>
+  <w>företrädare</w>
+  <w>för</w>
+  <w>organisationer</w>
+  <w>,</w>
+  <w>specifika</w>
+  <w>grupper</w>
+  <w>och</w>
+  <w>allmänhet</w>
+  <w>ska</w>
+  <w>diskutera</w>
+  <w>EU-frågor</w>
+  <w>.</w>
+  <w>”</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>förmodligen</w>
+  <w>förankringstanken</w>
+  <w>igen</w>
+  <w>–</w>
+  <w>vi</w>
+  <w>som</w>
+  <w>begriper</w>
+  <w>lär</w>
+  <w>oss</w>
+  <w>argumenten</w>
+  <w>och</w>
+  <w>övertygar</w>
+  <w>de</w>
+  <w>okunniga</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Jag</w>
+  <w>skulle</w>
+  <w>vilja</w>
+  <w>gå</w>
+  <w>ur</w>
+  <w>Myndighetssverige</w>
+  <w>.</w>
+  <w>Tänk</w>
+  <w>om</w>
+  <w>man</w>
+  <w>via</w>
+  <w>deklarationen</w>
+  <w>åtminstone</w>
+  <w>fick</w>
+  <w>rätten</w>
+  <w>att</w>
+  <absaspan id=18 senti=2>
+    <w>protestera</w>
+    <w>mot</w>
+    <w>onödiga</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>myndigheter</w>
+    <w>,</w>
+    <w>kommittéer</w>
+    <w>och</w>
+    <w>byråkrati</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,56 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Tyska</w>
+    <w>fotbolls</w>
+    <w>supportrar</w>
+  </absaspan>
+  <absaspan id=2 senti=4 source=1 target=3>
+    <w>välkomnar</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>asylsökande</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>i</w>
+  <w>hur</w>
+  <w>stor</w>
+  <w>utsträckning</w>
+  <w>är</w>
+  <w>tyskarna</w>
+  <w>så</w>
+  <w>här</w>
+  <w>positiva</w>
+  <w>till</w>
+  <w>invandringen</w>
+  <w>?</w>
+  <w>Är</w>
+  <w>tyskarna</w>
+  <w>så</w>
+  <w>mycket</w>
+  <w>positivare</w>
+  <w>till</w>
+  <w>invandring</w>
+  <w>än</w>
+  <w>svenskarna</w>
+  <w>?</w>
+  <w>Eller</w>
+  <w>är</w>
+  <w>detta</w>
+  <w>ett</w>
+  <w>försök</w>
+  <w>av</w>
+  <w>att</w>
+  <w>få</w>
+  <w>oss</w>
+  <w>svenskar</w>
+  <w>att</w>
+  <w>få</w>
+  <w>dåligt</w>
+  <w>samvete</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

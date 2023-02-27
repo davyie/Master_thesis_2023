@@ -1,0 +1,58 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>SVT</w>
+  <w>Debatt</w>
+  <w>:</w>
+  <absaspan id=1 senti=4 target=2>
+    <w>Det</w>
+    <w>är</w>
+    <w>dags</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>att</w>
+    <w>sluta</w>
+    <w>tiga</w>
+    <w>om</w>
+    <w>extremvänsterns</w>
+    <w>våld</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Anna-Lena</w>
+    <w>Lodenius</w>
+  </absaspan>
+  <absaspan id=4 senti=3>
+    <w>har</w>
+  </absaspan>
+  <w>äntligen</w>
+  <absaspan id=5 senti=3>
+    <w>skrivit</w>
+  </absaspan>
+  <absaspan id=6 senti=3>
+    <w>något</w>
+    <w>vettigt</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=7>
+    <w>Extremvänsterns</w>
+    <w>våld</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>har</w>
+    <w>alltför</w>
+    <w>länge</w>
+    <w>varit</w>
+    <w>accepterat</w>
+  </absaspan>
+  <w>.</w>
+  <w>Ett</w>
+  <w>litet</w>
+  <w>utdrag</w>
+  <w>ur</w>
+  <w>artikeln</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+</absadoc>

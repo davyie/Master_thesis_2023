@@ -1,0 +1,91 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>Har</w>
+  <absaspan id=1>
+    <w>Löfven</w>
+  </absaspan>
+  <w>blivit</w>
+  <absaspan id=2 senti=1 target=1>
+    <w>rasist</w>
+    <w>/</w>
+    <w>nazist</w>
+  </absaspan>
+  <w>(</w>
+  <w>eller</w>
+  <w>läst</w>
+  <w>för</w>
+  <w>mycket</w>
+  <w>på</w>
+  <w>Flashback</w>
+  <w>)</w>
+  <absaspan id=3>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Höjde</w>
+  <w>på</w>
+  <w>ögonbrynen</w>
+  <w>och</w>
+  <w>kunde</w>
+  <w>inte</w>
+  <w>tro</w>
+  <w>mina</w>
+  <w>öron</w>
+  <w>när</w>
+  <w>nyheterna</w>
+  <w>på</w>
+  <w>TV4</w>
+  <w>sa</w>
+  <w>att</w>
+  <absaspan id=4>
+    <w>Löfven</w>
+  </absaspan>
+  <w>pekar</w>
+  <w>ut</w>
+  <absaspan id=5>
+    <w>invandrare</w>
+    <w>från</w>
+    <w>Mellanöstern</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=6 senti=1>
+    <w>judehatare</w>
+  </absaspan>
+  <w>.</w>
+  <w>Är</w>
+  <w>inte</w>
+  <w>det</w>
+  <absaspan id=7 senti=1>
+    <w>rasistiskt</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>att</w>
+    <w>peka</w>
+    <w>på</w>
+    <w>en</w>
+    <w>grupp</w>
+    <w>på</w>
+    <w>det</w>
+    <w>sättet</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>?</w>
+  </absaspan>
+  <w>Har</w>
+  <absaspan id=10>
+    <w>självaste</w>
+    <w>Löfven</w>
+  </absaspan>
+  <absaspan id=11 senti=1>
+    <w>blivit</w>
+    <w>rasist</w>
+    <w>/</w>
+    <w>nazist</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

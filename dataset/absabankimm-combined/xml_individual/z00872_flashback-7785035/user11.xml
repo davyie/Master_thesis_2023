@@ -1,0 +1,221 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Invandrare</w>
+  <w>och</w>
+  <w>deras</w>
+  <w>(</w>
+  <w>dyra</w>
+  <w>?</w>
+  <w>)</w>
+  <w>bilar</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>undrar</w>
+  <w>rätt</w>
+  <w>ofta</w>
+  <w>om</w>
+  <w>följande</w>
+  <w>frågor</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Fråga</w>
+  <w>1</w>
+  <w>Varför</w>
+  <w>är</w>
+  <absaspan id=1>
+    <w>invandrare</w>
+  </absaspan>
+  <w>speciellt</w>
+  <w>muslimer</w>
+  <w>så</w>
+  <absaspan id=2 senti=5>
+    <w>förälskade</w>
+  </absaspan>
+  <w>i</w>
+  <w>sina</w>
+  <absaspan id=3>
+    <w>Mercedes-Benz</w>
+    <w>och</w>
+    <w>BMW</w>
+  </absaspan>
+  <w>?</w>
+  <absaspan id=4 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <w>Fråga</w>
+  <w>2</w>
+  <w>Är</w>
+  <w>det</w>
+  <w>inte</w>
+  <absaspan id=5 senti=4>
+    <w>mer</w>
+    <w>status</w>
+  </absaspan>
+  <w>med</w>
+  <w>en</w>
+  <absaspan id=6>
+    <w>Ferrari</w>
+  </absaspan>
+  <w>eller</w>
+  <w>liknande</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Fråga</w>
+  <w>3</w>
+  <w>Vad</w>
+  <w>är</w>
+  <w>det</w>
+  <w>för</w>
+  <w>fel</w>
+  <w>på</w>
+  <w>Saab</w>
+  <w>eller</w>
+  <w>Volvo</w>
+  <w>?</w>
+  <w>Även</w>
+  <w>dom</w>
+  <w>har</w>
+  <w>ju</w>
+  <w>lyxiga</w>
+  <w>modeller</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=2>
+  <w>Fråga</w>
+  <w>4</w>
+  <w>Mercedes-Benz</w>
+  <w>är</w>
+  <w>ju</w>
+  <w>ett</w>
+  <w>tyskt</w>
+  <w>märke</w>
+  <w>,</w>
+  <w>om</w>
+  <absaspan id=7>
+    <w>invandrare</w>
+  </absaspan>
+  <w>nu</w>
+  <w>e</w>
+  <w>så</w>
+  <absaspan id=8 senti=2>
+    <w>rädda</w>
+    <w>för</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=9>
+    <w>rasister</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>"</w>
+  </absaspan>
+  <w>Varför</w>
+  <w>köpa</w>
+  <w>bilar</w>
+  <w>från</w>
+  <w>ett</w>
+  <absaspan id=11>
+    <w>land</w>
+  </absaspan>
+  <w>som</w>
+  <w>har</w>
+  <w>hårda</w>
+  <w>regler</w>
+  <w>emot</w>
+  <w>invandrare</w>
+  <w>och</w>
+  <w>sedan</w>
+  <w>en</w>
+  <w>lång</w>
+  <w>tid</w>
+  <w>tillbaka</w>
+  <w>i</w>
+  <w>tiden</w>
+  <w>har</w>
+  <w>haft</w>
+  <w>en</w>
+  <absaspan id=12 senti=2>
+    <w>ÄKTA</w>
+    <w>rasistisk</w>
+    <w>inställning</w>
+    <w>till</w>
+    <w>olika</w>
+    <w>religoner</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>t.ex</w>
+  <w>Adolf</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=1>
+  <w>Fråga</w>
+  <w>5</w>
+  <w>Hur</w>
+  <w>kan</w>
+  <absaspan id=13 senti=2>
+    <w>muslimer</w>
+    <w>eller</w>
+    <w>flyktingar</w>
+  </absaspan>
+  <w>för</w>
+  <w>övrigt</w>
+  <w>ha</w>
+  <w>råd</w>
+  <w>att</w>
+  <w>köpa</w>
+  <w>dessa</w>
+  <w>dyra</w>
+  <w>modeller</w>
+  <absaspan id=14 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>Dom</w>
+  <w>flyr</w>
+  <w>från</w>
+  <w>öken</w>
+  <w>med</w>
+  <w>löner</w>
+  <w>som</w>
+  <w>knappt</w>
+  <w>våra</w>
+  <w>barn</w>
+  <w>skulle</w>
+  <w>kunna</w>
+  <w>köpa</w>
+  <w>godis</w>
+  <w>för</w>
+  <w>,</w>
+  <w>hur</w>
+  <w>kan</w>
+  <w>det</w>
+  <w>då</w>
+  <w>komma</w>
+  <w>sig</w>
+  <w>att</w>
+  <w>unga</w>
+  <w>invandrare</w>
+  <w>kan</w>
+  <w>dra</w>
+  <w>runt</w>
+  <w>med</w>
+  <w>bilar</w>
+  <w>i</w>
+  <w>500.000kr</w>
+  <w>`</w>
+  <w>s</w>
+  <w>klassen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,54 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1 senti=5 target=2>
+    <w>Optimal</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>invandringspolitik</w>
+  </absaspan>
+  <w>för</w>
+  <w>Sverige</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Om</w>
+  <w>du</w>
+  <w>fick</w>
+  <w>bestämma</w>
+  <w>.</w>
+  <absaspan id=3>
+    <w>Vilken</w>
+  </absaspan>
+  <absaspan id=4 senti=5>
+    <w>skulle</w>
+    <w>vara</w>
+    <w>optimal</w>
+    <w>invandringspolitik</w>
+  </absaspan>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+  <w>Vilka</w>
+  <w>skulle</w>
+  <w>kunna</w>
+  <w>få</w>
+  <w>bli</w>
+  <w>svenska</w>
+  <w>medborgare</w>
+  <w>och</w>
+  <w>varför</w>
+  <w>?</w>
+  <w>Vilka</w>
+  <w>skulle</w>
+  <w>inte</w>
+  <w>få</w>
+  <w>bli</w>
+  <w>det</w>
+  <w>,</w>
+  <w>och</w>
+  <w>varför</w>
+  <w>inte</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

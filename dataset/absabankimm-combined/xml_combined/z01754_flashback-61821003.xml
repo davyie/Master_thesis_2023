@@ -1,0 +1,143 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Studie</w>
+  <w>:</w>
+  <absaspan id=1>
+    <w>Svenskarnas</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=3 source=1 partof=4>
+    <w>attityd</w>
+  </absaspan>
+  <w>till</w>
+  <absaspan id=3>
+    <w>invandring</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>försämras</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>snabbast</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Frågor</w>
+  <w>:</w>
+  <w>Varför</w>
+  <w>ökar</w>
+  <w>det</w>
+  <w>mer</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>än</w>
+  <w>i</w>
+  <w>t.ex</w>
+  <w>Frankrike</w>
+  <w>som</w>
+  <w>har</w>
+  <w>sett</w>
+  <absaspan id=6 senti=2>
+    <w>extremt</w>
+    <w>många</w>
+    <w>fler</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>islamistiska</w>
+    <w>terrordåd</w>
+  </absaspan>
+  <w>i</w>
+  <w>sitt</w>
+  <w>land</w>
+  <w>än</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=1>
+  <w>Innebär</w>
+  <w>denna</w>
+  <w>ökning</w>
+  <w>i</w>
+  <w>att</w>
+  <absaspan id=8>
+    <w>fler</w>
+  </absaspan>
+  <w>har</w>
+  <w>en</w>
+  <absaspan id=9 senti=2>
+    <w>negativ</w>
+    <w>syn</w>
+  </absaspan>
+  <w>på</w>
+  <absaspan id=10>
+    <w>invandring</w>
+  </absaspan>
+  <w>att</w>
+  <w>fler</w>
+  <absaspan id=11>
+    <w>Svenskar</w>
+  </absaspan>
+  <w>bli</w>
+  <w>nationalister</w>
+  <w>och</w>
+  <absaspan id=12 senti=4>
+    <w>vill</w>
+    <w>rädda</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>sitt</w>
+    <w>land</w>
+  </absaspan>
+  <w>eller</w>
+  <w>är</w>
+  <w>det</w>
+  <w>enbart</w>
+  <w>pga</w>
+  <w>att</w>
+  <w>dom</w>
+  <w>inte</w>
+  <absaspan id=14 senti=1>
+    <w>vill</w>
+    <w>se</w>
+    <w>och</w>
+    <w>lukta</w>
+  </absaspan>
+  <w>på</w>
+  <w>massa</w>
+  <absaspan id=15 senti=1>
+    <w>neger</w>
+    <w>stank</w>
+  </absaspan>
+  <w>när</w>
+  <w>dom</w>
+  <w>är</w>
+  <w>och</w>
+  <w>går</w>
+  <w>på</w>
+  <w>stan</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=16 senti=2>
+    <w>Dumma</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>frågor</w>
+  </absaspan>
+  <w>jag</w>
+  <w>vet</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>alltid</w>
+  <w>roligt</w>
+  <w>att</w>
+  <w>bara</w>
+  <w>starta</w>
+  <w>en</w>
+  <w>diskussion</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+</absadoc>

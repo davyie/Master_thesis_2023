@@ -1,0 +1,97 @@
+<absadoc annotators=1 senti=0>
+<absatitle>
+  <w>Hur</w>
+  <absaspan id=1 senti=1 target=2>
+    <w>välfärden</w>
+    <w>offras</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=2>
+    <w>invandringen</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ser</w>
+  <w>nu</w>
+  <w>på</w>
+  <w>TV-nyheterna</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>assistenserättningen</w>
+    <w>för</w>
+    <w>handikappade</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>offras</w>
+  </absaspan>
+  <w>.</w>
+  <w>Kommunerna</w>
+  <w>har</w>
+  <w>inte</w>
+  <w>råd</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Häromdagen</w>
+  <w>fick</w>
+  <w>vi</w>
+  <w>höra</w>
+  <w>att</w>
+  <w>pensionsåldern</w>
+  <w>måste</w>
+  <w>höjas</w>
+  <w>för</w>
+  <w>att</w>
+  <w>klara</w>
+  <w>den</w>
+  <w>offentliga</w>
+  <w>ekonomin</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=1>
+  <w>Men</w>
+  <w>för</w>
+  <w>lycksökare</w>
+  <w>från</w>
+  <absaspan id=5>
+    <w>Afghanistan</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=6 senti=1>
+    <w>liknande</w>
+    <w>råtthål</w>
+  </absaspan>
+  <w>verkar</w>
+  <w>det</w>
+  <w>finnas</w>
+  <w>hur</w>
+  <w>mycket</w>
+  <w>pengar</w>
+  <w>som</w>
+  <w>helst</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=7>
+    <w>Detta</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>är</w>
+    <w>en</w>
+    <w>skam</w>
+    <w>emot</w>
+    <w>gamla</w>
+    <w>och</w>
+    <w>svaga</w>
+    <w>svenskar</w>
+  </absaspan>
+  <w>som</w>
+  <w>våra</w>
+  <w>skattepengar</w>
+  <w>bör</w>
+  <w>gå</w>
+  <w>till</w>
+  <w>.</w>
+</absapar>
+</absadoc>

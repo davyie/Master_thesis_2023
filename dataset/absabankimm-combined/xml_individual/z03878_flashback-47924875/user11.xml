@@ -1,0 +1,141 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Jimmie</w>
+  <w>Åkesson</w>
+  <w>(</w>
+  <w>SD</w>
+  <w>)</w>
+  <w>vs</w>
+  <w>Gustav</w>
+  <w>Fridolin</w>
+  <w>(</w>
+  <w>MP</w>
+  <w>)</w>
+  <w>i</w>
+  <w>debatt</w>
+  <w>i</w>
+  <w>Agenda</w>
+  <w>söndag</w>
+  <w>16</w>
+  <w>/</w>
+  <w>3</w>
+  <w>-</w>
+  <w>14</w>
+  <w>kl</w>
+  <w>.21</w>
+  <w>:</w>
+  <w>15</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>På</w>
+  <w>söndag</w>
+  <w>möts</w>
+  <w>Jimmie</w>
+  <w>Åkesson</w>
+  <w>(</w>
+  <w>SD</w>
+  <w>)</w>
+  <w>och</w>
+  <w>Gustav</w>
+  <w>Fridolin</w>
+  <w>(</w>
+  <w>MP</w>
+  <w>i</w>
+  <w>Agenda</w>
+  <w>.</w>
+  <w>Programmet</w>
+  <w>börjar</w>
+  <w>klockan</w>
+  <w>21</w>
+  <w>:</w>
+  <w>15</w>
+  <w>.</w>
+  <absaspan id=1 senti=2>
+    <w>Oklart</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>exakt</w>
+    <w>vilken</w>
+    <w>tid</w>
+    <w>denna</w>
+    <w>debatt</w>
+    <w>startar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Tydligen</w>
+  <w>ska</w>
+  <w>även</w>
+  <absaspan id=3 senti=2>
+    <w>imam</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>Reinfeldt</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=5 senti=2>
+    <w>tysta</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>Stefan</w>
+  </absaspan>
+  <w>debattera</w>
+  <w>men</w>
+  <w>den</w>
+  <w>debatten</w>
+  <w>får</w>
+  <w>debatteras</w>
+  <w>i</w>
+  <w>en</w>
+  <w>annan</w>
+  <w>tråd</w>
+  <w>.</w>
+  <w>Här</w>
+  <w>är</w>
+  <w>fokus</w>
+  <w>på</w>
+  <w>debatten</w>
+  <w>Åkesson</w>
+  <w>vs</w>
+  <w>Fridolin</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>har</w>
+  <w>vi</w>
+  <w>att</w>
+  <w>vänta</w>
+  <w>oss</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Vem</w>
+  <w>vinner</w>
+  <w>debatten</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vilka</w>
+  <w>argument</w>
+  <w>framförs</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Etc</w>
+  <w>.</w>
+  <w>(</w>
+  <w>allt</w>
+  <w>som</w>
+  <w>berör</w>
+  <w>ämnet</w>
+  <w>kan</w>
+  <w>diskuteras</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+</absadoc>

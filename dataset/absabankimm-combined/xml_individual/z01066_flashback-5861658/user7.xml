@@ -1,0 +1,72 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Dykning</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Vet</w>
+  <w>inte</w>
+  <w>om</w>
+  <w>ja</w>
+  <absaspan id=1>
+    <w>postat</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>rätt</w>
+  </absaspan>
+  <w>annars</w>
+  <w>får</w>
+  <w>mod</w>
+  <w>flytta</w>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Iaf</w>
+  <w>jag</w>
+  <w>har</w>
+  <w>precis</w>
+  <w>börjat</w>
+  <w>på</w>
+  <w>min</w>
+  <w>dykarutbildning</w>
+  <w>.</w>
+  <w>.</w>
+  <w>så</w>
+  <w>ja</w>
+  <absaspan id=4>
+    <w>allt</w>
+    <w>om</w>
+    <w>dykning</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>är</w>
+    <w>välkommet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>-</w>
+  <w>platser</w>
+  <w>i</w>
+  <w>världen</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>-</w>
+  <w>material</w>
+  <w>o</w>
+  <w>utrustning</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>-</w>
+  <w>kostnader</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>aaaallltttt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

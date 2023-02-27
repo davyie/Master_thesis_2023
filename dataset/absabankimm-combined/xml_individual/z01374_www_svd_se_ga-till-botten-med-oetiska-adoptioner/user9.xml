@@ -1,0 +1,783 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Gå</w>
+  <w>till</w>
+  <w>botten</w>
+  <w>med</w>
+  <absaspan id=1 senti=2 target=2>
+    <w>oetiska</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>adoptioner</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ansvariga</w>
+  <w>organisationer</w>
+  <w>och</w>
+  <w>myndigheter</w>
+  <w>måste</w>
+  <w>ta</w>
+  <w>tag</w>
+  <w>i</w>
+  <absaspan id=3 senti=2>
+    <w>problemet</w>
+    <w>kring</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>adoptioner</w>
+    <w>som</w>
+    <w>inte</w>
+    <w>gått</w>
+    <w>rätt</w>
+    <w>till</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>inte</w>
+  <w>sopa</w>
+  <w>något</w>
+  <w>under</w>
+  <w>mattan</w>
+  <w>.</w>
+  <absaspan id=5>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>står</w>
+    <w>bakom</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>de</w>
+    <w>krav</w>
+    <w>som</w>
+    <w>vuxna</w>
+    <w>adopterade</w>
+    <w>ställt</w>
+    <w>på</w>
+    <w>att</w>
+    <w>det</w>
+    <w>görs</w>
+    <w>en</w>
+    <w>utredning</w>
+  </absaspan>
+  <w>,</w>
+  <w>skriver</w>
+  <w>en</w>
+  <w>grupp</w>
+  <w>adoptivföräldrar</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=8>
+    <w>Att</w>
+    <w>bli</w>
+    <w>förälder</w>
+    <w>till</w>
+    <w>ett</w>
+    <w>barn</w>
+    <w>som</w>
+    <w>redan</w>
+    <w>finns</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>är</w>
+    <w>ett</w>
+    <w>stort</w>
+    <w>privilegium</w>
+  </absaspan>
+  <w>och</w>
+  <w>ett</w>
+  <w>omfattande</w>
+  <w>ansvar</w>
+  <w>.</w>
+  <w>Som</w>
+  <w>adoptivförälder</w>
+  <w>sätter</w>
+  <w>du</w>
+  <w>stor</w>
+  <w>tilltro</w>
+  <w>till</w>
+  <w>den</w>
+  <w>organisation</w>
+  <w>du</w>
+  <w>väljer</w>
+  <w>för</w>
+  <w>förmedling</w>
+  <w>av</w>
+  <w>ditt</w>
+  <w>blivande</w>
+  <w>barn</w>
+  <w>.</w>
+  <w>Ingen</w>
+  <w>vill</w>
+  <w>att</w>
+  <w>ens</w>
+  <w>egna</w>
+  <absaspan id=10 senti=4>
+    <w>största</w>
+    <w>lycka</w>
+  </absaspan>
+  <w>skall</w>
+  <w>vara</w>
+  <w>baserat</w>
+  <w>på</w>
+  <absaspan id=11 senti=2>
+    <w>oetiska</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>påtryckningar</w>
+  </absaspan>
+  <w>samt</w>
+  <w>förfalskad</w>
+  <w>dokumentation</w>
+  <w>för</w>
+  <w>att</w>
+  <w>göra</w>
+  <w>ett</w>
+  <w>barn</w>
+  <w>tillgängligt</w>
+  <w>för</w>
+  <w>internationell</w>
+  <w>adoption</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>en</w>
+  <w>argumenterande</w>
+  <w>text</w>
+  <w>med</w>
+  <w>syfte</w>
+  <w>att</w>
+  <w>påverka</w>
+  <w>.</w>
+  <w>Åsikterna</w>
+  <w>som</w>
+  <w>uttrycks</w>
+  <w>är</w>
+  <w>skribentens</w>
+  <w>egna</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=13 senti=2>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>är</w>
+    <w>med</w>
+    <w>stor</w>
+    <w>upprördhet</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>vi</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>har</w>
+    <w>tagit</w>
+    <w>del</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>medierapportering</w>
+    <w>kring</w>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>oetiskt</w>
+    <w>genomförda</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>adoptionerna</w>
+    <w>som</w>
+    <w>skett</w>
+    <w>i</w>
+    <w>Chile</w>
+    <w>under</w>
+    <w>militärdiktaturen</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=20>
+    <w>Att</w>
+    <w>det</w>
+    <w>i</w>
+    <w>nutid</w>
+    <w>pågår</w>
+    <w>en</w>
+    <w>förundersökning</w>
+    <w>för</w>
+    <w>att</w>
+    <w>hitta</w>
+    <w>skyldiga</w>
+    <w>till</w>
+    <w>människorättsbrott</w>
+  </absaspan>
+  <absaspan id=21 senti=4>
+    <w>är</w>
+    <w>bra</w>
+  </absaspan>
+  <w>,</w>
+  <w>men</w>
+  <w>samtidigt</w>
+  <w>allvarligt</w>
+  <w>.</w>
+  <w>Att</w>
+  <w>en</w>
+  <w>specialdomare</w>
+  <w>utreder</w>
+  <w>detta</w>
+  <w>är</w>
+  <w>något</w>
+  <w>som</w>
+  <w>svenska</w>
+  <w>myndigheter</w>
+  <w>och</w>
+  <w>berörda</w>
+  <w>organisationer</w>
+  <w>borde</w>
+  <w>ta</w>
+  <w>på</w>
+  <w>största</w>
+  <w>allvar</w>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=22 senti=2>
+    <w>räcker</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>att</w>
+    <w>enbart</w>
+    <w>svara</w>
+    <w>att</w>
+    <w>de</w>
+    <w>följt</w>
+    <w>de</w>
+    <w>lagar</w>
+    <w>och</w>
+    <w>regelverk</w>
+    <w>som</w>
+    <w>fanns</w>
+    <w>då</w>
+  </absaspan>
+  <w>.</w>
+  <w>Snarare</w>
+  <w>borde</w>
+  <w>de</w>
+  <w>självmant</w>
+  <w>påbörja</w>
+  <w>egna</w>
+  <w>internutredningar</w>
+  <w>för</w>
+  <w>att</w>
+  <w>fastställa</w>
+  <w>eventuella</w>
+  <w>oegentligheter</w>
+  <w>som</w>
+  <w>kan</w>
+  <w>ha</w>
+  <w>skett</w>
+  <w>,</w>
+  <w>samt</w>
+  <w>på</w>
+  <w>egen</w>
+  <w>hand</w>
+  <w>ta</w>
+  <w>kontakt</w>
+  <w>med</w>
+  <w>chilenska</w>
+  <w>myndigheter</w>
+  <w>för</w>
+  <w>att</w>
+  <w>stilla</w>
+  <w>den</w>
+  <w>oron</w>
+  <w>som</w>
+  <w>finns</w>
+  <w>hos</w>
+  <w>många</w>
+  <w>vuxna</w>
+  <w>adopterade</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Det</w>
+  <w>är</w>
+  <w>med</w>
+  <w>anledning</w>
+  <w>av</w>
+  <w>detta</w>
+  <w>vi</w>
+  <w>som</w>
+  <w>adoptivföräldrar</w>
+  <w>går</w>
+  <w>ut</w>
+  <w>offentligt</w>
+  <w>och</w>
+  <w>vill</w>
+  <w>uttala</w>
+  <w>vårt</w>
+  <w>stöd</w>
+  <w>.</w>
+  <absaspan id=24>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=25 senti=4>
+    <w>står</w>
+    <w>bakom</w>
+  </absaspan>
+  <absaspan id=26>
+    <w>de</w>
+    <w>krav</w>
+    <w>som</w>
+    <w>vuxna</w>
+    <w>adopterade</w>
+    <w>ställt</w>
+    <w>på</w>
+    <w>att</w>
+    <w>det</w>
+    <w>görs</w>
+    <w>en</w>
+    <w>utredning</w>
+    <w>av</w>
+    <w>alla</w>
+    <w>adoptioner</w>
+    <w>som</w>
+    <w>misstänkas</w>
+    <w>ha</w>
+    <w>gått</w>
+    <w>till</w>
+    <w>på</w>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=27 senti=2>
+    <w>oetiskt</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>sätt</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vi</w>
+  <w>vill</w>
+  <w>även</w>
+  <w>att</w>
+  <w>berörda</w>
+  <w>organisationer</w>
+  <w>och</w>
+  <w>den</w>
+  <w>ansvariga</w>
+  <w>myndigheten</w>
+  <w>för</w>
+  <w>familjerätt</w>
+  <w>och</w>
+  <w>föräldraskapsstöd</w>
+  <w>MFoF</w>
+  <w>,</w>
+  <w>påbörjar</w>
+  <w>en</w>
+  <w>utredning</w>
+  <w>av</w>
+  <w>adoptioner</w>
+  <w>som</w>
+  <w>skett</w>
+  <w>under</w>
+  <w>70</w>
+  <w>-</w>
+  <w>och</w>
+  <w>80</w>
+  <w>-</w>
+  <w>talen</w>
+  <w>.</w>
+  <w>Detta</w>
+  <w>eftersom</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>enbart</w>
+  <w>är</w>
+  <w>i</w>
+  <w>Chile</w>
+  <w>det</w>
+  <w>framträtt</w>
+  <w>ett</w>
+  <w>systematiskt</w>
+  <w>mönster</w>
+  <w>av</w>
+  <w>motstridiga</w>
+  <w>uppgifter</w>
+  <w>i</w>
+  <w>adoptionsdokument</w>
+  <w>och</w>
+  <absaspan id=29 senti=2>
+    <w>tveksamma</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>påtryckningsmetoder</w>
+  </absaspan>
+  <w>,</w>
+  <w>utan</w>
+  <w>också</w>
+  <w>i</w>
+  <w>andra</w>
+  <w>länder</w>
+  <w>som</w>
+  <w>till</w>
+  <w>exempel</w>
+  <w>Sri</w>
+  <w>Lanka</w>
+  <w>,</w>
+  <w>Thailand</w>
+  <w>och</w>
+  <w>Sydkorea</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Vi</w>
+  <w>vill</w>
+  <w>även</w>
+  <w>att</w>
+  <w>MFoF</w>
+  <w>tar</w>
+  <w>fram</w>
+  <w>rutiner</w>
+  <w>och</w>
+  <w>tillvägagångsätt</w>
+  <w>för</w>
+  <w>att</w>
+  <w>berörda</w>
+  <w>parter</w>
+  <w>ska</w>
+  <w>kunna</w>
+  <w>hantera</w>
+  <w>fall</w>
+  <w>där</w>
+  <w>det</w>
+  <w>i</w>
+  <w>efterhand</w>
+  <w>framkommer</w>
+  <w>att</w>
+  <absaspan id=31>
+    <w>en</w>
+    <w>adoption</w>
+  </absaspan>
+  <absaspan id=32 senti=2>
+    <w>inte</w>
+    <w>gått</w>
+    <w>rätt</w>
+    <w>till</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vi</w>
+  <w>tror</w>
+  <w>att</w>
+  <absaspan id=33>
+    <w>en</w>
+    <w>sådan</w>
+    <w>internutredning</w>
+    <w>och</w>
+    <w>ett</w>
+    <w>framtagande</w>
+    <w>av</w>
+    <w>nya</w>
+    <w>rutiner</w>
+  </absaspan>
+  <absaspan id=34 senti=2>
+    <w>skulle</w>
+    <w>vara</w>
+    <w>till</w>
+    <w>stor</w>
+    <w>hjälp</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>kunna</w>
+  <w>förbättra</w>
+  <w>adoptionsverksamheten</w>
+  <w>av</w>
+  <w>idag</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=35>
+    <w>Vi</w>
+  </absaspan>
+  <absaspan id=36 senti=4>
+    <w>ställer</w>
+    <w>oss</w>
+    <w>även</w>
+    <w>bakom</w>
+  </absaspan>
+  <absaspan id=37>
+    <w>kravet</w>
+    <w>på</w>
+    <w>en</w>
+    <w>officiell</w>
+    <w>ursäkt</w>
+    <w>och</w>
+    <w>upprättelse</w>
+    <w>till</w>
+    <w>de</w>
+    <w>drabbade</w>
+    <w>familjerna</w>
+  </absaspan>
+  <w>.</w>
+  <w>Ingen</w>
+  <w>person</w>
+  <w>som</w>
+  <w>väljer</w>
+  <w>adoption</w>
+  <w>som</w>
+  <w>familjebildning</w>
+  <w>vill</w>
+  <w>göra</w>
+  <w>det</w>
+  <w>under</w>
+  <w>former</w>
+  <w>som</w>
+  <w>är</w>
+  <w>oetiska</w>
+  <w>,</w>
+  <w>därför</w>
+  <absaspan id=38 senti=4>
+    <w>är</w>
+    <w>det</w>
+    <w>viktigt</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>oss</w>
+    <w>adoptivföräldrar</w>
+  </absaspan>
+  <absaspan id=40>
+    <w>att</w>
+    <w>ansvariga</w>
+    <w>adoptionsorganisationer</w>
+    <w>och</w>
+    <w>myndigheter</w>
+    <w>tar</w>
+    <w>tag</w>
+    <w>i</w>
+    <w>problemet</w>
+    <w>och</w>
+    <w>inte</w>
+    <w>sopar</w>
+    <w>något</w>
+    <w>under</w>
+    <w>mattan</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Vi</w>
+  <w>som</w>
+  <w>undertecknar</w>
+  <w>detta</w>
+  <w>brev</w>
+  <w>kräver</w>
+  <w>att</w>
+  <w>adoptionsorganisationerna</w>
+  <w>och</w>
+  <w>MFoF</w>
+  <w>lyssnar</w>
+  <w>till</w>
+  <w>och</w>
+  <w>hörsammar</w>
+  <w>de</w>
+  <w>idag</w>
+  <w>vuxna</w>
+  <w>adopterade</w>
+  <w>som</w>
+  <w>kräver</w>
+  <w>upprättelse</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Suzanna</w>
+  <w>Asp</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Eva</w>
+  <w>Berggren</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Henrik</w>
+  <w>Berggren</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Anna</w>
+  <w>Gemfeldt</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>Lena</w>
+  <w>Gordin</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>Ragnar</w>
+  <w>Gordin</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Bengt</w>
+  <w>Johansson</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>Eivor</w>
+  <w>Johansson</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>Ingvar</w>
+  <w>Lundqvist</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>Lena</w>
+  <w>Lundqvist</w>
+  <w>.</w>
+</absapar>
+<absapar id=19>
+  <w>Shanna</w>
+  <w>Löfgren</w>
+  <w>.</w>
+</absapar>
+<absapar id=20>
+  <w>Marie</w>
+  <w>Paulsson</w>
+  <w>.</w>
+</absapar>
+<absapar id=21>
+  <w>Aino</w>
+  <w>Rindlav</w>
+  <w>.</w>
+</absapar>
+<absapar id=22>
+  <w>Mats</w>
+  <w>Rindlav</w>
+  <w>.</w>
+</absapar>
+<absapar id=23>
+  <w>Marita</w>
+  <w>Rodriguez</w>
+  <w>Gallardo</w>
+  <w>.</w>
+</absapar>
+<absapar id=24>
+  <w>Tomas</w>
+  <w>Rodriguez</w>
+  <w>Hedling</w>
+  <w>.</w>
+</absapar>
+<absapar id=25>
+  <w>Ulrika</w>
+  <w>Siira</w>
+  <w>.</w>
+</absapar>
+<absapar id=26>
+  <w>Anette</w>
+  <w>Sidén</w>
+  <w>.</w>
+</absapar>
+<absapar id=27>
+  <w>Ingemar</w>
+  <w>Sidén</w>
+  <w>.</w>
+</absapar>
+<absapar id=28>
+  <w>Sofia</w>
+  <w>Strickson</w>
+  <w>.</w>
+</absapar>
+<absapar id=29>
+  <w>Johan</w>
+  <w>Svensson</w>
+  <w>.</w>
+</absapar>
+<absapar id=30>
+  <w>Anna-Stina</w>
+  <w>Takala</w>
+  <w>.</w>
+</absapar>
+<absapar id=31>
+  <w>Katarina</w>
+  <w>De</w>
+  <w>Verdier</w>
+  <w>.</w>
+</absapar>
+<absapar id=32>
+  <w>Kristin</w>
+  <w>Vinqvist</w>
+  <w>.</w>
+</absapar>
+<absapar id=33>
+  <w>Lisa</w>
+  <w>Wall</w>
+  <w>.</w>
+</absapar>
+<absapar id=34>
+  <w>Rolf</w>
+  <w>Öhrn</w>
+  <w>.</w>
+</absapar>
+<absapar id=35>
+  <w>Sally</w>
+  <w>Öhrn</w>
+  <w>.</w>
+</absapar>
+<absapar id=36>
+  <w>Fotnot</w>
+  <w>:</w>
+  <w>MFoF</w>
+  <w>står</w>
+  <w>för</w>
+  <w>Myndigheten</w>
+  <w>för</w>
+  <w>Familjerätt</w>
+  <w>och</w>
+  <w>Föräldraskapsstöd</w>
+  <w>.</w>
+</absapar>
+<absapar id=37>
+  <w>Redaktör</w>
+  <w>:</w>
+  <w>Carina</w>
+  <w>Stensson</w>
+  <w>,</w>
+  <w>Biträdande</w>
+  <w>redaktör</w>
+  <w>:</w>
+  <w>Björn</w>
+  <w>Jorner</w>
+  <w>,</w>
+  <w>Mejl</w>
+  <w>:</w>
+  <w>debatt</w>
+  <w>@</w>
+  <w>svd.se</w>
+  <w>,</w>
+  <w>Telefonnummer</w>
+  <w>:</w>
+  <w>08</w>
+  <w>-</w>
+  <w>135149</w>
+  <w>,</w>
+  <w>Twitter</w>
+  <w>:</w>
+  <w>@</w>
+  <w>SvDDebatt</w>
+  <w>,</w>
+  <w>Facebook</w>
+  <w>:</w>
+  <w>SvD</w>
+  <w>Debatt</w>
+  <w>.</w>
+</absapar>
+</absadoc>

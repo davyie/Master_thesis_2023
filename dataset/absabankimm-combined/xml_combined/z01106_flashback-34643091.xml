@@ -1,0 +1,124 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Ullenhags</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>myter</w>
+  </absaspan>
+  <w>:</w>
+  <w>8</w>
+  <w>.</w>
+  <absaspan id=3>
+    <w>Invandringen</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>har</w>
+    <w>lett</w>
+    <w>till</w>
+    <w>en</w>
+    <w>våg</w>
+    <w>av</w>
+    <w>kriminalitet</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>I</w>
+  <w>dessa</w>
+  <w>trådar</w>
+  <w>diskuterar</w>
+  <w>vi</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>(</w>
+  <w>och</w>
+  <w>indirekt</w>
+  <w>regeringens</w>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>där</w>
+  <w>man</w>
+  <w>"</w>
+  <w>besvarar</w>
+  <absaspan id=5 senti=2>
+    <w>myter</w>
+  </absaspan>
+  <w>med</w>
+  <w>fakta</w>
+  <w>"</w>
+  <w>.</w>
+  <w>För</w>
+  <w>att</w>
+  <w>få</w>
+  <w>ordning</w>
+  <w>på</w>
+  <w>torpet</w>
+  <w>så</w>
+  <w>gör</w>
+  <w>vi</w>
+  <w>en</w>
+  <w>tråd</w>
+  <w>för</w>
+  <w>varje</w>
+  <w>myt</w>
+  <w>(</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>finns</w>
+  <w>under</w>
+  <w>Judiska</w>
+  <w>maktförhållanden</w>
+  <w>)</w>
+  <w>,</w>
+  <w>så</w>
+  <w>att</w>
+  <w>det</w>
+  <w>blir</w>
+  <absaspan id=6 senti=4>
+    <w>lättare</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=7>
+    <w>diskutera</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>i</w>
+  <w>varje</w>
+  <w>aktuell</w>
+  <w>myt</w>
+  <w>och</w>
+  <w>svaret</w>
+  <w>därpå</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Vill</w>
+  <w>man</w>
+  <w>diskutera</w>
+  <w>Ullenhags</w>
+  <w>och</w>
+  <w>regeringens</w>
+  <w>initiativ</w>
+  <w>mer</w>
+  <w>principiellt</w>
+  <w>,</w>
+  <w>så</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>trådar</w>
+  <w>under</w>
+  <w>både</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>och</w>
+  <w>.</w>
+</absapar>
+</absadoc>

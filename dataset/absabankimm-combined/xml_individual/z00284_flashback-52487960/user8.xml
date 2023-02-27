@@ -1,0 +1,286 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Kille</w>
+    <w>från</w>
+    <w>counter</w>
+    <w>jihad</w>
+  </absaspan>
+  <w>säger</w>
+  <w>"</w>
+  <absaspan id=2 senti=1 source=1>
+    <w>Muslimjävel</w>
+  </absaspan>
+  <w>"</w>
+  <w>till</w>
+  <absaspan id=3>
+    <w>en</w>
+    <w>reporter</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=4 senti=1>
+    <w>Rasism</w>
+  </absaspan>
+  <w>eller</w>
+  <w>inte</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=5>
+    <w>En</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>muslimsk</w>
+    <w>tv</w>
+    <w>2</w>
+    <w>reporter</w>
+    <w>från</w>
+    <w>Norge</w>
+  </absaspan>
+  <w>står</w>
+  <w>och</w>
+  <w>intervjuar</w>
+  <w>om</w>
+  <w>anti</w>
+  <w>Islamistiska</w>
+  <w>grupper</w>
+  <w>som</w>
+  <w>ska</w>
+  <w>demonstrera</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>När</w>
+  <absaspan id=7>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>ung</w>
+    <w>man</w>
+    <w>från</w>
+    <w>counter</w>
+    <w>jihad</w>
+  </absaspan>
+  <w>kommer</w>
+  <w>fram</w>
+  <w>och</w>
+  <w>blåser</w>
+  <w>rök</w>
+  <w>på</w>
+  <w>honom</w>
+  <w>och</w>
+  <w>kallar</w>
+  <absaspan id=9>
+    <w>han</w>
+  </absaspan>
+  <w>för</w>
+  <w>"</w>
+  <absaspan id=10 senti=1>
+    <w>Muslimjävel</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Citat</w>
+  <w>:</w>
+  <w>"</w>
+  <absaspan id=11>
+    <w>Jag</w>
+  </absaspan>
+  <w>är</w>
+  <w>här</w>
+  <w>för</w>
+  <w>att</w>
+  <w>visa</w>
+  <w>min</w>
+  <absaspan id=12 senti=1>
+    <w>avsky</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=13 senti=1>
+    <w>muslimjävlar</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>dig</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Det</w>
+  <w>jag</w>
+  <w>är</w>
+  <w>nyfiken</w>
+  <w>på</w>
+  <w>,</w>
+  <w>som</w>
+  <w>jag</w>
+  <w>finner</w>
+  <w>otroligt</w>
+  <w>relevant</w>
+  <w>i</w>
+  <w>dessa</w>
+  <w>tider</w>
+  <w>är</w>
+  <w>,</w>
+  <w>hur</w>
+  <w>ser</w>
+  <w>ni</w>
+  <w>på</w>
+  <w>det</w>
+  <w>här</w>
+  <w>?</w>
+  <w>Tycker</w>
+  <w>ni</w>
+  <w>att</w>
+  <w>det</w>
+  <w>här</w>
+  <w>är</w>
+  <absaspan id=16 senti=1>
+    <w>rasism</w>
+  </absaspan>
+  <w>?</w>
+  <w>Varför</w>
+  <w>är</w>
+  <w>det</w>
+  <w>i</w>
+  <w>så</w>
+  <w>fall</w>
+  <absaspan id=17 senti=1>
+    <w>rasism</w>
+  </absaspan>
+  <w>?</w>
+  <w>Förklara</w>
+  <w>hur</w>
+  <w>detta</w>
+  <w>kan</w>
+  <w>vara</w>
+  <absaspan id=18 senti=1>
+    <w>rasism</w>
+  </absaspan>
+  <w>?</w>
+  <w>För</w>
+  <w>det</w>
+  <w>är</w>
+  <w>jämt</w>
+  <w>det</w>
+  <w>man</w>
+  <w>hör</w>
+  <w>när</w>
+  <w>någon</w>
+  <w>säger</w>
+  <w>ett</w>
+  <w>ont</w>
+  <w>ord</w>
+  <w>om</w>
+  <w>muslimer</w>
+  <w>,</w>
+  <w>då</w>
+  <w>blir</w>
+  <w>det</w>
+  <w>"</w>
+  <w>Rasism</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Hur</w>
+  <w>jag</w>
+  <w>ser</w>
+  <w>på</w>
+  <w>det</w>
+  <w>här</w>
+  <w>är</w>
+  <w>att</w>
+  <w>jag</w>
+  <w>har</w>
+  <w>kunskapen</w>
+  <w>att</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>har</w>
+  <w>alltså</w>
+  <w>med</w>
+  <w>religion</w>
+  <w>att</w>
+  <w>göra</w>
+  <w>.</w>
+  <w>Har</w>
+  <w>inget</w>
+  <w>med</w>
+  <w>ras</w>
+  <w>att</w>
+  <w>göra</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=19>
+    <w>Ni</w>
+  </absaspan>
+  <w>som</w>
+  <w>har</w>
+  <w>läst</w>
+  <w>hur</w>
+  <w>jag</w>
+  <w>tänker</w>
+  <w>och</w>
+  <w>fortfarande</w>
+  <w>säger</w>
+  <w>att</w>
+  <absaspan id=20>
+    <w>detta</w>
+  </absaspan>
+  <w>var</w>
+  <absaspan id=21 senti=1>
+    <w>rasistiskt</w>
+  </absaspan>
+  <w>,</w>
+  <w>hur</w>
+  <w>tänker</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Kan</w>
+  <w>det</w>
+  <w>bara</w>
+  <w>vara</w>
+  <w>så</w>
+  <w>att</w>
+  <absaspan id=22>
+    <w>den</w>
+    <w>här</w>
+    <w>killen</w>
+    <w>och</w>
+    <w>många</w>
+    <w>andra</w>
+    <w>av</w>
+    <w>oss</w>
+  </absaspan>
+  <w>bara</w>
+  <absaspan id=23 senti=2>
+    <w>ogillar</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>muslimer</w>
+  </absaspan>
+  <w>av</w>
+  <w>väldigt</w>
+  <w>goda</w>
+  <w>orsaker</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

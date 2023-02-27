@@ -1,0 +1,198 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1 senti=1>
+    <w>Kärleks-demonstration</w>
+  </absaspan>
+  <w>i</w>
+  <w>Berlin</w>
+  <w>ikväll</w>
+  <w>21</w>
+  <w>/</w>
+  <w>12</w>
+  <w>-</w>
+  <absaspan id=2 senti=1>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>rasism</w>
+    <w>och</w>
+    <w>intolerans</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>.</w>
+  </absaspan>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>När</w>
+  <w>50</w>
+  <w>personer</w>
+  <w>från</w>
+  <absaspan id=5 senti=1>
+    <w>det</w>
+    <w>främlingsfientliga</w>
+    <w>partiet</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>npd</w>
+  </absaspan>
+  <w>demonstrerade</w>
+  <w>nu</w>
+  <w>ikväll</w>
+  <w>under</w>
+  <w>parollen</w>
+  <w>"</w>
+  <w>stäng</w>
+  <w>gränserna</w>
+  <w>"</w>
+  <w>så</w>
+  <w>samlades</w>
+  <absaspan id=7>
+    <w>runt</w>
+    <w>1000</w>
+    <w>berlinare</w>
+  </absaspan>
+  <w>med</w>
+  <w>plakat</w>
+  <w>med</w>
+  <w>stora</w>
+  <w>röda</w>
+  <w>hjärtan</w>
+  <w>i</w>
+  <w>en</w>
+  <w>kärleks-demonstration</w>
+  <w>under</w>
+  <w>parollerna</w>
+  <w>"</w>
+  <absaspan id=8 senti=5>
+    <w>kärlek</w>
+    <w>åt</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>alla</w>
+  </absaspan>
+  <w>"</w>
+  <w>,</w>
+  <w>"</w>
+  <w>refugees</w>
+  <w>welcome</w>
+  <w>"</w>
+  <w>och</w>
+  <w>"</w>
+  <absaspan id=10 senti=5>
+    <w>solidaritet</w>
+    <w>,</w>
+    <w>kärlek</w>
+    <w>och</w>
+    <w>tolerans</w>
+  </absaspan>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Enligt</w>
+  <w>miljöpartisten</w>
+  <w>och</w>
+  <absaspan id=11>
+    <w>berlin-politikern</w>
+    <w>Özcan</w>
+    <w>Mutlu</w>
+  </absaspan>
+  <w>är</w>
+  <w>det</w>
+  <absaspan id=12 senti=1>
+    <w>viktigt</w>
+    <w>att</w>
+    <w>aldrig</w>
+    <w>låta</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>hatet</w>
+  </absaspan>
+  <absaspan id=14 senti=1>
+    <w>segra</w>
+  </absaspan>
+  <w>,</w>
+  <w>utan</w>
+  <w>istället</w>
+  <absaspan id=15 senti=5>
+    <w>kämpa</w>
+    <w>för</w>
+    <w>ett</w>
+    <w>solidariskt</w>
+    <w>,</w>
+    <w>tolerant</w>
+    <w>samhälle</w>
+    <w>med</w>
+    <w>kärlek</w>
+    <w>som</w>
+    <w>främsta</w>
+    <w>vapen</w>
+  </absaspan>
+  <w>i</w>
+  <absaspan id=16 senti=1>
+    <w>kampen</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>terrorism</w>
+    <w>och</w>
+    <w>främlingsfientlighet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Diskutera</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Är</w>
+  <w>det</w>
+  <w>kanske</w>
+  <w>så</w>
+  <w>vi</w>
+  <w>ska</w>
+  <w>bemöta</w>
+  <w>terroristerna</w>
+  <w>istället</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <w>.</w>
+  <w>-</w>
+  <w>att</w>
+  <absaspan id=18 senti=5>
+    <w>inte</w>
+    <w>ge</w>
+    <w>efter</w>
+    <w>för</w>
+    <w>hat</w>
+    <w>och</w>
+    <w>splittring</w>
+  </absaspan>
+  <w>och</w>
+  <w>istället</w>
+  <w>visa</w>
+  <w>styrka</w>
+  <w>genom</w>
+  <w>att</w>
+  <w>tillsammans</w>
+  <absaspan id=19 senti=5>
+    <w>stå</w>
+    <w>upp</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>ett</w>
+    <w>tolerant</w>
+    <w>,</w>
+    <w>mångkulturellt</w>
+    <w>och</w>
+    <w>solidariskt</w>
+    <w>samhälle</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,86 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Hur</w>
+  <w>ställer</w>
+  <w>ni</w>
+  <w>invandringskritiska</w>
+  <w>er</w>
+  <w>till</w>
+  <w>att</w>
+  <w>hjälpa</w>
+  <w>era</w>
+  <absaspan id=1>
+    <w>europeiska</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>bröder</w>
+    <w>/</w>
+    <w>systrar</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3 senti=2 irony>
+    <w>Tydligen</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>krisar</w>
+    <w>europa</w>
+    <w>lite</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=3>
+  <w>Hur</w>
+  <w>ställer</w>
+  <w>ni</w>
+  <w>invandringskritiska</w>
+  <w>er</w>
+  <w>till</w>
+  <w>att</w>
+  <w>hjälpa</w>
+  <w>era</w>
+  <absaspan id=5>
+    <w>europeiska</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>bröder</w>
+    <w>/</w>
+    <w>systrar</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Kan</w>
+  <w>/</w>
+  <w>bör</w>
+  <w>vi</w>
+  <w>vara</w>
+  <w>generösare</w>
+  <w>mot</w>
+  <w>dessa</w>
+  <w>ekonomiska</w>
+  <w>flyktingar-våra</w>
+  <w>grannar-än</w>
+  <w>mot</w>
+  <w>MENA-ekonomiska</w>
+  <w>flyktingar</w>
+  <w>?</w>
+  <absaspan id=7 senti=4>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4 senti=2>
+  <w>Eller</w>
+  <w>är</w>
+  <w>det</w>
+  <w>stängda</w>
+  <w>gränser</w>
+  <w>som</w>
+  <w>gäller</w>
+  <w>oavsett</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,247 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Det</w>
+    <w>traditionella</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>bråket</w>
+  </absaspan>
+  <w>har</w>
+  <w>startat</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Det</w>
+    <w>traditionella</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>bråket</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>i</w>
+    <w>alla</w>
+    <w>valrörelser</w>
+    <w>,</w>
+    <w>mellan</w>
+    <w>direktörer</w>
+    <w>inom</w>
+    <w>näringslivet</w>
+    <w>och</w>
+    <w>den</w>
+    <w>socialdemokratiska</w>
+    <w>regeringen</w>
+  </absaspan>
+  <w>har</w>
+  <w>nu</w>
+  <w>utbrutit</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>började</w>
+  <w>med</w>
+  <absaspan id=6>
+    <w>Ericssons</w>
+    <w>vd</w>
+    <w>Carl-Henric</w>
+    <w>Svanberg</w>
+  </absaspan>
+  <w>som</w>
+  <w>hävdade</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=7 senti=4>
+    <w>skulle</w>
+    <w>vara</w>
+    <w>uppfriskande</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=8>
+    <w>en</w>
+    <w>ny</w>
+    <w>regering</w>
+  </absaspan>
+  <w>.</w>
+  <w>Göran</w>
+  <w>Persson</w>
+  <w>svarade</w>
+  <w>något</w>
+  <w>luddigt</w>
+  <w>om</w>
+  <w>ägandeförhållanden</w>
+  <w>inom</w>
+  <w>näringslivet</w>
+  <w>,</w>
+  <w>vilket</w>
+  <w>fick</w>
+  <absaspan id=9>
+    <w>Jacob</w>
+    <w>Wallenberg</w>
+  </absaspan>
+  <w>att</w>
+  <w>hävda</w>
+  <w>att</w>
+  <absaspan id=10>
+    <w>statsministern</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>hotar</w>
+    <w>näringslivet</w>
+  </absaspan>
+  <w>.</w>
+  <w>Nu</w>
+  <w>rullar</w>
+  <w>det</w>
+  <w>på</w>
+  <w>.</w>
+  <w>Vill</w>
+  <w>de</w>
+  <w>ha</w>
+  <w>en</w>
+  <w>fight</w>
+  <w>ska</w>
+  <w>de</w>
+  <w>få</w>
+  <w>det</w>
+  <w>,</w>
+  <w>sa</w>
+  <w>den</w>
+  <w>annars</w>
+  <w>mycket</w>
+  <w>osynlige</w>
+  <w>arbetslivsministern</w>
+  <w>Hans</w>
+  <w>Karlsson</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Håhåjaja</w>
+  <w>,</w>
+  <w>visst</w>
+  <w>blir</w>
+  <w>man</w>
+  <w>lite</w>
+  <w>trött</w>
+  <absaspan id=12 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>Jag</w>
+  <w>är</w>
+  <w>mest</w>
+  <w>förvånad</w>
+  <w>över</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <absaspan id=13>
+    <w>storindustrins</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>magnater</w>
+  </absaspan>
+  <w>som</w>
+  <w>går</w>
+  <w>till</w>
+  <w>angrepp</w>
+  <w>.</w>
+  <w>Allt</w>
+  <w>Ericsson</w>
+  <w>,</w>
+  <w>Volvo</w>
+  <w>,</w>
+  <w>Investor</w>
+  <w>och</w>
+  <w>Saab</w>
+  <w>andas</w>
+  <w>om</w>
+  <w>blir</w>
+  <w>ju</w>
+  <w>genomfört</w>
+  <w>.</w>
+  <w>Alla</w>
+  <w>viktiga</w>
+  <w>samtal</w>
+  <w>om</w>
+  <w>närningslivets</w>
+  <w>förutsättningar</w>
+  <w>,</w>
+  <w>framtid</w>
+  <w>tas</w>
+  <w>alltid</w>
+  <w>med</w>
+  <w>dessa</w>
+  <w>representanter</w>
+  <w>.</w>
+  <w>Vad</w>
+  <absaspan id=15 senti=2>
+    <w>gnäller</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>de</w>
+  </absaspan>
+  <w>för</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Är</w>
+  <w>det</w>
+  <w>några</w>
+  <w>som</w>
+  <w>har</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>vara</w>
+  <w>förbannade</w>
+  <w>däremot</w>
+  <w>så</w>
+  <w>är</w>
+  <w>det</w>
+  <w>småföretagarna</w>
+  <w>.</w>
+  <w>De</w>
+  <absaspan id=17 senti=2>
+    <w>ses</w>
+    <w>alltid</w>
+    <w>över</w>
+    <w>axeln</w>
+    <w>och</w>
+    <w>får</w>
+    <w>på</w>
+    <w>sin</w>
+    <w>höjd</w>
+    <w>en</w>
+    <w>klapp</w>
+    <w>på</w>
+    <w>huvudet</w>
+  </absaspan>
+  <w>med</w>
+  <w>orden</w>
+  <w>skapa</w>
+  <w>nu</w>
+  <w>mera</w>
+  <w>jobb</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>Mejla</w>
+  <w>oss</w>
+  <w>på</w>
+  <w>[</w>
+  <w>email</w>
+  <w>protected</w>
+  <w>]</w>
+  <w>.</w>
+  <w>se</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

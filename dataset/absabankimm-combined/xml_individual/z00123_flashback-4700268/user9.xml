@@ -1,0 +1,69 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Barn</w>
+  <w>lekte</w>
+  <w>i</w>
+  <w>träd</w>
+  <w>,</w>
+  <w>blev</w>
+  <w>DNA-testade</w>
+  <w>och</w>
+  <w>förhörda</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Nu</w>
+  <w>är</w>
+  <w>ju</w>
+  <w>min</w>
+  <w>fråga</w>
+  <w>till</w>
+  <absaspan id=1>
+    <w>er</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>som</w>
+    <w>vill</w>
+    <w>ha</w>
+    <w>ökad</w>
+    <w>DNA-registrering</w>
+  </absaspan>
+  <w>om</w>
+  <absaspan id=3>
+    <w>ni</w>
+  </absaspan>
+  <absaspan id=4 senti=4>
+    <w>tycker</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>det</w>
+    <w>här</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>är</w>
+    <w>en</w>
+    <w>bra</w>
+    <w>idé</w>
+  </absaspan>
+  <w>,</w>
+  <w>alltså</w>
+  <w>om</w>
+  <w>ni</w>
+  <w>vill</w>
+  <absaspan id=7>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>polisen</w>
+    <w>ska</w>
+    <w>tvinga</w>
+    <w>lekande</w>
+    <w>barn</w>
+    <w>att</w>
+    <w>ge</w>
+    <w>DNA</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,81 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Ekstrabladet</w>
+  <w>:</w>
+  <w>"</w>
+  <w>Zigenargangster</w>
+  <w>utvisas</w>
+  <w>från</w>
+  <w>Danmark</w>
+  <w>"</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Är</w>
+  <w>det</w>
+  <w>rätt</w>
+  <w>att</w>
+  <w>utvisa</w>
+  <w>en</w>
+  <w>kriminell</w>
+  <w>bankrånare</w>
+  <w>på</w>
+  <w>livstid</w>
+  <w>till</w>
+  <w>ett</w>
+  <w>land</w>
+  <w>där</w>
+  <w>han</w>
+  <w>inte</w>
+  <w>kan</w>
+  <w>språket</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Borde</w>
+  <w>Sverige</w>
+  <w>ta</w>
+  <w>efter</w>
+  <w>eller</w>
+  <w>fortsätta</w>
+  <w>på</w>
+  <w>vägen</w>
+  <w>att</w>
+  <w>låta</w>
+  <w>vadsomhelst</w>
+  <w>stanna</w>
+  <w>kvar</w>
+  <w>oavsett</w>
+  <w>vad</w>
+  <w>dom</w>
+  <w>gjort</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=1 senti=1>
+    <w>Riskerar</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>dansk</w>
+    <w>medias</w>
+  </absaspan>
+  <absaspan id=3 senti=1>
+    <w>rubriksättning</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>att</w>
+    <w>motverka</w>
+    <w>integration</w>
+    <w>och</w>
+    <w>stigmatisera</w>
+    <w>en</w>
+    <w>redan</w>
+    <w>utsatt</w>
+    <w>grupp</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

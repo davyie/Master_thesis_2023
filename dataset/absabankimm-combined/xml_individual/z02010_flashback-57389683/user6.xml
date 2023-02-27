@@ -1,0 +1,110 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Förlossningvård</w>
+  <w>i</w>
+  <w>Sthlm</w>
+  <w>går</w>
+  <w>på</w>
+  <w>knäna</w>
+  <w>pga</w>
+  <absaspan id=1 senti=2 target=1>
+    <w>bidragsinvandringen</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Den</w>
+  <w>muslimska</w>
+  <w>invandringen</w>
+  <w>kostar</w>
+  <w>600</w>
+  <w>miljarder</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Vilket</w>
+  <w>har</w>
+  <w>gjort</w>
+  <w>att</w>
+  <w>Sverige</w>
+  <w>inte</w>
+  <w>längre</w>
+  <w>har</w>
+  <w>råd</w>
+  <w>med</w>
+  <w>sjukvård</w>
+  <w>eftersom</w>
+  <w>nästan</w>
+  <w>alla</w>
+  <w>våra</w>
+  <w>skattepengar</w>
+  <w>går</w>
+  <w>istället</w>
+  <w>till</w>
+  <w>bidragen</w>
+  <w>för</w>
+  <w>muslimerna</w>
+  <w>-</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>pga</w>
+  <w>det</w>
+  <w>inga</w>
+  <w>pengar</w>
+  <w>till</w>
+  <w>offentliga</w>
+  <w>sektorn</w>
+  <w>längre</w>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=2>
+  <w>Det</w>
+  <w>var</w>
+  <w>kvinnorna</w>
+  <w>som</w>
+  <absaspan id=2>
+    <w>röstade</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>för</w>
+    <w>mer</w>
+    <w>muslimsk</w>
+    <w>invandring</w>
+  </absaspan>
+  <w>.</w>
+  <w>Nu</w>
+  <w>får</w>
+  <w>de</w>
+  <absaspan id=4 senti=2>
+    <w>betala</w>
+    <w>priset</w>
+  </absaspan>
+  <w>för</w>
+  <absaspan id=5>
+    <w>sin</w>
+    <w>dumhet</w>
+  </absaspan>
+  <w>när</w>
+  <w>alltfler</w>
+  <w>offentlig</w>
+  <w>sektor</w>
+  <w>dukar</w>
+  <w>under</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Kommer</w>
+  <absaspan id=6>
+    <w>kvinnorna</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>lära</w>
+    <w>sig</w>
+    <w>en</w>
+    <w>läxa</w>
+  </absaspan>
+  <w>nu</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

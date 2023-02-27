@@ -1,0 +1,332 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Skrota</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>arbetslinjen</w>
+  </absaspan>
+  <w>-</w>
+  <absaspan id=3 senti=4 target=4>
+    <w>inför</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>medborgarlön</w>
+  </absaspan>
+  <w>!</w>
+  <w>[</w>
+  <w>Sammanfogade</w>
+  <w>ämnen</w>
+  <w>/</w>
+  <w>mod</w>
+  <w>]</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=5>
+    <w>Alliansens</w>
+    <w>arbetslinje</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=6 senti=2>
+    <w>innebär</w>
+    <w>att</w>
+    <w>alla</w>
+    <w>arbetssökande</w>
+    <w>i</w>
+    <w>praktiken</w>
+    <w>behandlas</w>
+    <w>som</w>
+    <w>mindre</w>
+    <w>värda</w>
+    <w>slöfockar</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=7 senti=2>
+    <w>är</w>
+    <w>otidsenlig</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=8>
+    <w>Själva</w>
+    <w>idén</w>
+    <w>om</w>
+    <w>en</w>
+    <w>s.k</w>
+    <w>.</w>
+    <w>arbetslinje</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>är</w>
+    <w>förlegad</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <w>tillhör</w>
+  <w>det</w>
+  <w>gamla</w>
+  <w>industrisamhället</w>
+  <w>.</w>
+  <w>I</w>
+  <w>dagens</w>
+  <w>samhälle</w>
+  <w>har</w>
+  <w>vi</w>
+  <w>konstant</w>
+  <w>hög</w>
+  <w>arbetslöshet</w>
+  <w>-</w>
+  <w>ett</w>
+  <w>tillstånd</w>
+  <w>som</w>
+  <w>antagligen</w>
+  <w>knappast</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>bli</w>
+  <w>bättre</w>
+  <w>framöver</w>
+  <w>,</w>
+  <w>oavsett</w>
+  <w>konjunktursvängningar</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Arbetslösa</w>
+  <w>personer</w>
+  <w>borde</w>
+  <w>istället</w>
+  <w>ges</w>
+  <w>möjligheten</w>
+  <w>att</w>
+  <w>erhålla</w>
+  <w>medborgarlön</w>
+  <w>-</w>
+  <w>en</w>
+  <w>inkomst</w>
+  <w>utan</w>
+  <w>krav</w>
+  <w>på</w>
+  <w>att</w>
+  <w>stå</w>
+  <w>till</w>
+  <w>arbetsmarknadens</w>
+  <w>förfogande</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>skulle</w>
+  <w>givetvis</w>
+  <w>inte</w>
+  <w>handla</w>
+  <w>om</w>
+  <w>några</w>
+  <w>fantasisummor</w>
+  <w>,</w>
+  <w>men</w>
+  <w>en</w>
+  <w>ca</w>
+  <w>8</w>
+  <w>-</w>
+  <w>9</w>
+  <w>tusen</w>
+  <w>brutto</w>
+  <w>i</w>
+  <w>månaden</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=10>
+    <w>Medborgarlönen</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>innebär</w>
+    <w>många</w>
+    <w>fördelar</w>
+    <w>för</w>
+    <w>såväl</w>
+    <w>den</w>
+    <w>enskilde</w>
+    <w>som</w>
+    <w>för</w>
+    <w>samhället</w>
+    <w>i</w>
+    <w>stort</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=12 senti=4>
+    <w>Fördelarna</w>
+    <w>för</w>
+    <w>den</w>
+    <w>enskilde</w>
+    <w>arbetslöse</w>
+    <w>,</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>att</w>
+    <w>denne</w>
+    <w>återfår</w>
+    <w>sin</w>
+    <w>värdighet</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=14>
+    <w>Detta</w>
+  </absaspan>
+  <absaspan id=15 senti=4>
+    <w>vinner</w>
+    <w>samhället</w>
+    <w>på</w>
+    <w>i</w>
+    <w>längden</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=16>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=17 senti=5>
+    <w>är</w>
+    <w>jag</w>
+    <w>övertygad</w>
+    <w>om</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Medborgarlön</w>
+  <w>verkar</w>
+  <w>vara</w>
+  <w>ett</w>
+  <w>koncept</w>
+  <w>,</w>
+  <w>som</w>
+  <w>vinner</w>
+  <w>allt</w>
+  <w>fler</w>
+  <w>anhängare</w>
+  <w>.</w>
+  <w>Även</w>
+  <w>i</w>
+  <w>Tyskland</w>
+  <w>har</w>
+  <w>det</w>
+  <w>aktualiserats</w>
+  <w>,</w>
+  <w>senast</w>
+  <w>av</w>
+  <w>företagaren</w>
+  <w>Götz</w>
+  <w>Werner</w>
+  <w>,</w>
+  <w>som</w>
+  <w>nyligen</w>
+  <w>utkommit</w>
+  <w>med</w>
+  <w>en</w>
+  <w>bok</w>
+  <w>på</w>
+  <w>temat</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Här</w>
+  <w>finns</w>
+  <w>en</w>
+  <w>intervju</w>
+  <w>på</w>
+  <w>tyska</w>
+  <w>med</w>
+  <w>densamme</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <absaspan id=18>
+    <w>Werners</w>
+    <w>grundtanke</w>
+  </absaspan>
+  <w>är</w>
+  <w>,</w>
+  <w>att</w>
+  <absaspan id=19>
+    <w>medborgarlönen</w>
+  </absaspan>
+  <absaspan id=20 senti=4>
+    <w>gör</w>
+    <w>den</w>
+    <w>enskilde</w>
+    <w>kreativ</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=21 senti=4>
+    <w>att</w>
+    <w>denne</w>
+    <w>därigenom</w>
+    <w>kan</w>
+    <w>kläcka</w>
+    <w>nya</w>
+    <w>,</w>
+    <w>friska</w>
+    <w>idéer</w>
+    <w>,</w>
+    <w>som</w>
+    <w>kommer</w>
+    <w>samhället</w>
+    <w>till</w>
+    <w>gagn</w>
+    <w>längre</w>
+    <w>fram</w>
+    <w>.</w>
+  </absaspan>
+  <w>Jag</w>
+  <w>tror</w>
+  <absaspan id=22 senti=4>
+    <w>han</w>
+    <w>har</w>
+    <w>helt</w>
+    <w>rätt</w>
+  </absaspan>
+  <w>.</w>
+  <w>här</w>
+  <w>finns</w>
+  <w>en</w>
+  <w>kreativitetspotential</w>
+  <w>,</w>
+  <w>som</w>
+  <w>bara</w>
+  <w>väntar</w>
+  <w>på</w>
+  <w>att</w>
+  <w>frigöras</w>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <absaspan id=23>
+    <w>Medborgarlönen</w>
+    <w>kanske</w>
+    <w>dock</w>
+    <w>borde</w>
+    <w>kallas</w>
+    <w>kreativitetslön</w>
+    <w>i</w>
+    <w>stället</w>
+  </absaspan>
+  <w>,</w>
+  <w>vilket</w>
+  <absaspan id=24 senti=4>
+    <w>torde</w>
+    <w>ge</w>
+    <w>en</w>
+    <w>bättre</w>
+    <w>klang</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

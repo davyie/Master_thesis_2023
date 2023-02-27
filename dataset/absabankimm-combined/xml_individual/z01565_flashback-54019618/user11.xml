@@ -1,0 +1,47 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Kommuner</w>
+  <absaspan id=1 senti=2 target=2>
+    <w>tvingas</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>ta</w>
+    <w>emot</w>
+    <w>ensamkommande</w>
+    <w>barn</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <absaspan id=3 senti=2>
+    <w>Där</w>
+    <w>rök</w>
+  </absaspan>
+  <w>den</w>
+  <absaspan id=4>
+    <w>kommunala</w>
+    <w>självständigheten</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Det</w>
+  <w>är</w>
+  <w>tydligen</w>
+  <w>fullt</w>
+  <w>överallt</w>
+  <w>,</w>
+  <w>men</w>
+  <w>,</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>hjärterum</w>
+  <w>så</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>stjärterum</w>
+  <absaspan id=5 senti=2 irony>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

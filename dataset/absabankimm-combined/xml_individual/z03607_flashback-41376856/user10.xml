@@ -1,0 +1,78 @@
+<absadoc annotators=1 senti=1>
+<absatitle>
+  <w>Cecilia</w>
+  <w>Malmström</w>
+  <w>vill</w>
+  <absaspan id=1 senti=4 irony target=1>
+    <w>kulturberika</w>
+  </absaspan>
+  <w>Estland</w>
+  <w>och</w>
+  <w>Polen</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=1>
+  <absaspan id=2>
+    <w>Polackerna</w>
+    <w>,</w>
+    <w>estländarna</w>
+    <w>och</w>
+    <w>övriga</w>
+    <w>östeuropéer</w>
+  </absaspan>
+  <w>är</w>
+  <w>ännu</w>
+  <w>ovetande</w>
+  <w>(</w>
+  <w>?</w>
+  <w>)</w>
+  <w>om</w>
+  <w>vad</w>
+  <w>Cecilia</w>
+  <w>Malmström</w>
+  <w>har</w>
+  <w>för</w>
+  <w>planer</w>
+  <w>för</w>
+  <w>dem</w>
+  <w>.</w>
+  <absaspan id=3 senti=4>
+    <w>Stackars</w>
+    <w>satar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Hur</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>asylpaketet</w>
+  <w>tas</w>
+  <w>emot</w>
+  <w>i</w>
+  <w>östeuropa</w>
+  <w>?</w>
+  <w>Kommer</w>
+  <w>deras</w>
+  <w>media</w>
+  <w>ge</w>
+  <w>hela</w>
+  <w>sanningen</w>
+  <w>?</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>ju</w>
+  <absaspan id=4 senti=1>
+    <w>fruktansvärt</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>att</w>
+    <w>det</w>
+    <w>finns</w>
+    <w>så</w>
+    <w>få</w>
+    <w>mörkhåriga</w>
+    <w>i</w>
+    <w>Tallinn</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

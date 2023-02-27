@@ -1,0 +1,50 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>s</w>
+  <w>varning</w>
+  <w>:</w>
+  <w>"</w>
+  <absaspan id=1>
+    <w>Lejonkungen</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=2 senti=2 target=1>
+    <w>är</w>
+    <w>en</w>
+    <w>fascistisk</w>
+    <w>film</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>En</w>
+  <absaspan id=3>
+    <w>Andrev</w>
+    <w>Walden</w>
+  </absaspan>
+  <w>på</w>
+  <w>har</w>
+  <w>kommit</w>
+  <w>fram</w>
+  <w>genom</w>
+  <w>riktigt</w>
+  <absaspan id=4 senti=2>
+    <w>kvasiintellektuellt</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>analyserande</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=6>
+    <w>Disneyfilmen</w>
+    <w>Lejonkungen</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>är</w>
+    <w>fascistisk</w>
+    <w>/</w>
+    <w>rasistisk</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

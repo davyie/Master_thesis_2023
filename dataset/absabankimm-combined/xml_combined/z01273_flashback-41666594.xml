@@ -1,0 +1,103 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>"</w>
+  <w>Molanders</w>
+  <w>"</w>
+  <w>-</w>
+  <w>ny</w>
+  <w>dramasatsning</w>
+  <w>ifrån</w>
+  <w>SVT</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>På</w>
+  <w>måndag</w>
+  <w>,</w>
+  <w>den</w>
+  <w>28</w>
+  <w>/</w>
+  <w>01</w>
+  <w>är</w>
+  <w>det</w>
+  <w>alltså</w>
+  <w>dags</w>
+  <w>för</w>
+  <w>SVT</w>
+  <w>:</w>
+  <w>s</w>
+  <w>nya</w>
+  <w>drama</w>
+  <absaspan id=1>
+    <w>"</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Molanders</w>
+    <w>"</w>
+  </absaspan>
+  <w>som</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>Familjen</w>
+  <w>Molander</w>
+  <w>,</w>
+  <w>som</w>
+  <w>lämnar</w>
+  <w>det</w>
+  <w>hektiska</w>
+  <w>livet</w>
+  <w>i</w>
+  <w>Stockholm</w>
+  <w>och</w>
+  <w>flyttar</w>
+  <w>till</w>
+  <w>Alingsås</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Trailer</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Vad</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>?</w>
+  <w>Själv</w>
+  <absaspan id=3 senti=4>
+    <w>gillar</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>jag</w>
+    <w>trailern</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=5 senti=5>
+    <w>framför</w>
+  </absaspan>
+  <absaspan id=6 senti=5>
+    <w>allt</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>Eric</w>
+    <w>Ericson</w>
+  </absaspan>
+  <w>och</w>
+  <w>tror</w>
+  <w>att</w>
+  <absaspan id=8>
+    <w>detta</w>
+  </absaspan>
+  <absaspan id=9 senti=4>
+    <w>kan</w>
+    <w>bli</w>
+    <w>trevligt</w>
+    <w>att</w>
+    <w>följa</w>
+  </absaspan>
+  <w>nu</w>
+  <w>framöver</w>
+  <w>.</w>
+</absapar>
+</absadoc>

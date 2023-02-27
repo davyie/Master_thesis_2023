@@ -1,0 +1,93 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Norge</w>
+  <w>förbereder</w>
+  <w>sig</w>
+  <w>för</w>
+  <w>Sveriges</w>
+  <w>kollaps-asylrätten</w>
+  <w>kan</w>
+  <w>skrotas</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <absaspan id=1 senti=4>
+    <w>Gör</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>Norge</w>
+  </absaspan>
+  <absaspan id=3 senti=4>
+    <w>rätt</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>när</w>
+    <w>dom</w>
+    <w>av</w>
+    <w>nödtvång</w>
+    <w>kommer</w>
+    <w>att</w>
+    <w>sluta</w>
+    <w>följa</w>
+    <w>FNs</w>
+    <w>flyktingkonvention</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Sitter</w>
+  <w>Norge</w>
+  <w>som</w>
+  <w>NATO-medlem</w>
+  <w>på</w>
+  <w>CIA-uppgifter</w>
+  <w>om</w>
+  <w>hur</w>
+  <absaspan id=6 senti=2>
+    <w>illa</w>
+    <w>det</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>i</w>
+    <w>Sverige</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=8 senti=2>
+    <w>undanhålls</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>våra</w>
+    <w>politiker</w>
+    <w>och</w>
+    <w>media</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=3>
+  <absaspan id=11 senti=2>
+    <w>Riskerar</w>
+    <w>det</w>
+    <w>att</w>
+    <w>drabba</w>
+  </absaspan>
+  <w>svenskar</w>
+  <w>som</w>
+  <w>flyr</w>
+  <w>till</w>
+  <w>Norge</w>
+  <w>vid</w>
+  <w>Sveriges</w>
+  <w>kollaps</w>
+  <absaspan id=12>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

@@ -1,0 +1,133 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Varför</w>
+  <absaspan id=1 senti=1 partof=3>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>alla</w>
+  </absaspan>
+  <absaspan id=3 senti=1 target=4 source=2>
+    <w>emot</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>SD</w>
+  </absaspan>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Tjo</w>
+  <w>!</w>
+  <w>jag</w>
+  <w>kan</w>
+  <w>inte</w>
+  <w>så</w>
+  <w>mycket</w>
+  <w>om</w>
+  <w>ämnet</w>
+  <w>men</w>
+  <absaspan id=5>
+    <w>detta</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>tycker</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>helt</w>
+    <w>konstigt</w>
+    <w>asså</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Varför</w>
+  <absaspan id=10 senti=1>
+    <w>börjar</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>alla</w>
+    <w>partier</w>
+    <w>och</w>
+    <w>svenskar</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=12 senti=1>
+    <w>överreagera</w>
+  </absaspan>
+  <w>när</w>
+  <w>SD</w>
+  <w>kom</w>
+  <w>in</w>
+  <w>i</w>
+  <w>riksdagen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Danmark</w>
+  <w>och</w>
+  <w>Frankrike</w>
+  <w>har</w>
+  <w>ju</w>
+  <w>haft</w>
+  <w>dom</w>
+  <w>lagarna</w>
+  <w>/</w>
+  <w>reglerna</w>
+  <w>hur</w>
+  <w>länge</w>
+  <w>som</w>
+  <w>helst</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Varför</w>
+  <w>går</w>
+  <w>ni</w>
+  <w>inte</w>
+  <w>till</w>
+  <w>danmark</w>
+  <w>och</w>
+  <w>protesterar</w>
+  <w>?</w>
+  <absaspan id=13 senti=1>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>Varför</w>
+  <w>har</w>
+  <w>ni</w>
+  <w>inga</w>
+  <w>parader</w>
+  <w>i</w>
+  <w>frankrike</w>
+  <w>för</w>
+  <w>att</w>
+  <w>man</w>
+  <w>inte</w>
+  <w>får</w>
+  <w>ha</w>
+  <w>slöja</w>
+  <w>?</w>
+  <absaspan id=14 senti=1>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=6>
+  <w>bara</w>
+  <w>undrar</w>
+  <w>vad</w>
+  <w>folk</w>
+  <w>tänker</w>
+  <w>ibland</w>
+  <w>.</w>
+</absapar>
+</absadoc>

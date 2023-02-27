@@ -1,0 +1,74 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Södertälje</w>
+  </absaspan>
+  <absaspan id=2 senti=1 target=1>
+    <w>i</w>
+    <w>kris</w>
+  </absaspan>
+  <w>2000</w>
+  <w>nya</w>
+  <w>asylsökande</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Såg</w>
+  <w>tv4</w>
+  <w>lokal</w>
+  <w>tv</w>
+  <w>,</w>
+  <w>södertälje</w>
+  <w>ansöker</w>
+  <w>mer</w>
+  <w>pengar</w>
+  <w>,</w>
+  <absaspan id=3>
+    <w>kommun</w>
+  </absaspan>
+  <absaspan id=4 senti=1>
+    <w>i</w>
+    <w>kris</w>
+  </absaspan>
+  <w>,</w>
+  <w>2000</w>
+  <w>nya</w>
+  <w>syriska</w>
+  <w>flyktingar</w>
+  <w>,</w>
+  <w>länk</w>
+  <w>nedan</w>
+  <w>från</w>
+  <w>2012</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>redan</w>
+  <w>då</w>
+  <w>var</w>
+  <w>det</w>
+  <w>svårt</w>
+  <w>att</w>
+  <w>få</w>
+  <w>det</w>
+  <w>att</w>
+  <w>gå</w>
+  <w>ihop.Så</w>
+  <w>vad</w>
+  <w>händer</w>
+  <w>nu</w>
+  <w>i</w>
+  <w>södertälje</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Axplock</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Reuter</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+</absadoc>

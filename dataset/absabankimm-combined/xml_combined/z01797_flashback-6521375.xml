@@ -1,0 +1,193 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>skillnad</w>
+  <w>på</w>
+  <absaspan id=1 senti=2 source=2 target=1>
+    <w>främlingsfientlig</w>
+  </absaspan>
+  <w>och</w>
+  <w>rasist</w>
+  <absaspan id=2>
+    <w>?</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>"</w>
+  <w>rasism</w>
+  <w>"</w>
+  <w>och</w>
+  <w>"</w>
+  <w>rasister</w>
+  <w>"</w>
+  <w>hör</w>
+  <w>man</w>
+  <w>nästan</w>
+  <w>aldrig</w>
+  <w>numera</w>
+  <w>i</w>
+  <w>medierna</w>
+  <w>,</w>
+  <w>inte</w>
+  <w>sen</w>
+  <w>VAMs</w>
+  <w>dagar</w>
+  <w>,</w>
+  <w>istället</w>
+  <w>är</w>
+  <w>det</w>
+  <w>"</w>
+  <absaspan id=3 senti=2>
+    <w>främlingsfientlig</w>
+  </absaspan>
+  <w>"</w>
+  <w>eller</w>
+  <w>det</w>
+  <w>exakt</w>
+  <w>likadana</w>
+  <w>"</w>
+  <absaspan id=4 senti=2>
+    <w>invandrarfientlig</w>
+  </absaspan>
+  <w>"</w>
+  <w>som</w>
+  <w>gäller</w>
+  <absaspan id=5 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Varför</w>
+  <w>då</w>
+  <w>?</w>
+  <w>Vad</w>
+  <w>är</w>
+  <w>skillnad</w>
+  <w>mellan</w>
+  <absaspan id=6 senti=2>
+    <w>främlingsfientlig</w>
+  </absaspan>
+  <w>och</w>
+  <w>rasist</w>
+  <absaspan id=7 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>Om</w>
+  <absaspan id=8>
+    <w>jag</w>
+  </absaspan>
+  <w>t.ex</w>
+  <w>.</w>
+  <absaspan id=9 senti=2>
+    <w>har</w>
+    <w>svårt</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>mellanöstingar</w>
+  </absaspan>
+  <w>(</w>
+  <w>naturligtvis</w>
+  <w>känner</w>
+  <w>till</w>
+  <w>jag</w>
+  <w>många</w>
+  <w>undantag</w>
+  <w>!</w>
+  <w>)</w>
+  <w>,</w>
+  <w>men</w>
+  <absaspan id=11 senti=3>
+    <w>inte</w>
+    <w>har</w>
+    <w>samma</w>
+    <w>ovilja</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>japaner</w>
+    <w>eller</w>
+    <w>mexikaner</w>
+  </absaspan>
+  <w>,</w>
+  <w>är</w>
+  <w>jag</w>
+  <w>då</w>
+  <w>inte</w>
+  <w>rasist</w>
+  <w>?</w>
+  <w>Jag</w>
+  <w>är</w>
+  <w>ju</w>
+  <w>rasist</w>
+  <w>mot</w>
+  <w>araber</w>
+  <w>men</w>
+  <w>inte</w>
+  <w>mot</w>
+  <w>latinos</w>
+  <w>?</w>
+  <w>Det</w>
+  <w>samma</w>
+  <w>gäller</w>
+  <w>alla</w>
+  <w>mina</w>
+  <w>kompisar</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>har</w>
+  <w>aldrig</w>
+  <w>träffat</w>
+  <absaspan id=13>
+    <w>nån</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>är</w>
+    <w>fientlig</w>
+    <w>eller</w>
+    <w>rasist</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>kineser</w>
+    <w>eller</w>
+    <w>asiater</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=17>
+    <w>en</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>främlingsfientlig</w>
+  </absaspan>
+  <absaspan id=19 senti=2>
+    <w>är</w>
+  </absaspan>
+  <w>väl</w>
+  <w>enligt</w>
+  <w>defnitionen</w>
+  <absaspan id=20 senti=2>
+    <w>fientlig</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>mot</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=22>
+    <w>främlingar</w>
+  </absaspan>
+  <w>,</w>
+  <w>oavsett</w>
+  <w>om</w>
+  <w>dom</w>
+  <w>är</w>
+  <w>från</w>
+  <w>Grekland</w>
+  <w>eller</w>
+  <w>Hawaii</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

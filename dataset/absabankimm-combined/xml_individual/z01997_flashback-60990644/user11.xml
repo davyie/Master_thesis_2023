@@ -1,0 +1,79 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Alliansen</w>
+  <w>slår</w>
+  <w>tillbaka</w>
+  <w>-</w>
+  <w>stoppar</w>
+  <w>skattehöjningar</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Flera</w>
+  <w>medier</w>
+  <w>rapporterar</w>
+  <w>nu</w>
+  <w>på</w>
+  <w>morgonen</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>alliansen</w>
+  </absaspan>
+  <absaspan id=2 senti=4>
+    <w>har</w>
+    <w>enats</w>
+  </absaspan>
+  <w>om</w>
+  <w>en</w>
+  <w>plan</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=3>
+    <w>stoppa</w>
+    <w>skattehöjningar</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Tror</w>
+  <w>vi</w>
+  <w>på</w>
+  <w>det</w>
+  <w>?</w>
+  <w>Har</w>
+  <w>de</w>
+  <w>enats</w>
+  <w>om</w>
+  <w>nånting</w>
+  <w>?</w>
+  <w>Har</w>
+  <w>de</w>
+  <w>en</w>
+  <w>plan</w>
+  <w>?</w>
+  <absaspan id=4 senti=2>
+    <w>Hotar</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>de</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=6>
+    <w>misstroendevotum</w>
+  </absaspan>
+  <w>utan</w>
+  <w>att</w>
+  <w>att</w>
+  <w>faktiskt</w>
+  <w>ha</w>
+  <w>en</w>
+  <w>plan</w>
+  <w>på</w>
+  <w>att</w>
+  <w>genomföra</w>
+  <w>den</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

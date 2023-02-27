@@ -1,0 +1,125 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Stort</w>
+  <w>fokus</w>
+  <w>på</w>
+  <w>skrikande</w>
+  <w>spädbarn</w>
+  <w>vid</w>
+  <w>ungerska</w>
+  <w>gränsen</w>
+  <w>i</w>
+  <w>SVT</w>
+  <w>Agenda</w>
+  <w>16</w>
+  <w>/</w>
+  <w>04</w>
+  <w>/</w>
+  <w>17</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Reportage</w>
+  <w>illustrerar</w>
+  <w>medborgare</w>
+  <w>i</w>
+  <w>Ungern</w>
+  <w>som</w>
+  <w>patrullerar</w>
+  <w>gränsen</w>
+  <w>.</w>
+  <w>När</w>
+  <w>dom</w>
+  <w>hittar</w>
+  <w>ett</w>
+  <w>hål</w>
+  <w>i</w>
+  <w>det</w>
+  <w>höga</w>
+  <w>stängslet</w>
+  <w>är</w>
+  <w>det</w>
+  <w>en</w>
+  <w>herre</w>
+  <w>som</w>
+  <w>håller</w>
+  <w>i</w>
+  <absaspan id=1 senti=3>
+    <w>vad</w>
+    <w>som</w>
+    <w>ser</w>
+    <w>ut</w>
+    <w>att</w>
+    <w>vara</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>ett</w>
+    <w>spädbarn</w>
+  </absaspan>
+  <w>.</w>
+  <w>Kamera-teamet</w>
+  <w>är</w>
+  <w>på</w>
+  <w>ungerska</w>
+  <w>sidan</w>
+  <w>av</w>
+  <w>stängslet</w>
+  <w>men</w>
+  <w>helt</w>
+  <w>plötsligt</w>
+  <w>hörs</w>
+  <w>ett</w>
+  <w>högt</w>
+  <w>barnskrik</w>
+  <w>från</w>
+  <w>vänster</w>
+  <w>högtalare</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Frågeställning</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Hur</w>
+  <w>opartiskt</w>
+  <w>framställs</w>
+  <w>reportaget</w>
+  <w>i</w>
+  <w>Agenda</w>
+  <w>?</w>
+  <absaspan id=3 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>Är</w>
+  <w>det</w>
+  <w>sannolikt</w>
+  <w>att</w>
+  <w>kamera-teamet</w>
+  <w>fick</w>
+  <w>in</w>
+  <w>spädbarns-skriket</w>
+  <w>så</w>
+  <w>perfekt</w>
+  <w>med</w>
+  <w>den</w>
+  <w>utrustningen</w>
+  <w>på</w>
+  <w>det</w>
+  <w>avståndet</w>
+  <w>?</w>
+  <absaspan id=4 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <w>.</w>
+  <w>~</w>
+  <w>26</w>
+  <w>:</w>
+  <w>41</w>
+  <w>.</w>
+</absapar>
+</absadoc>

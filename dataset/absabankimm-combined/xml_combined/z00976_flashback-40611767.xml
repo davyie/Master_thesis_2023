@@ -1,0 +1,117 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Sprida</w>
+  <absaspan id=1 senti=1 target=3>
+    <w>rasistisk</w>
+  </absaspan>
+  <w>och</w>
+  <w>"</w>
+  <absaspan id=2 senti=1 target=3>
+    <w>främlingsfientlig</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=3>
+    <w>syn</w>
+  </absaspan>
+  <w>på</w>
+  <w>I</w>
+  <w>&</w>
+  <w>I</w>
+  <w>i</w>
+  <w>skolan</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>De</w>
+  <w>sista</w>
+  <w>3</w>
+  <w>veckorna</w>
+  <w>innan</w>
+  <w>jullovet</w>
+  <w>ska</w>
+  <w>vi</w>
+  <w>i</w>
+  <w>klassen</w>
+  <w>arbeta</w>
+  <w>med</w>
+  <absaspan id=4 senti=1>
+    <w>rasism</w>
+  </absaspan>
+  <w>och</w>
+  <w>då</w>
+  <w>läraren</w>
+  <w>ännu</w>
+  <w>inte</w>
+  <w>planerat</w>
+  <absaspan id=5 senti=4>
+    <w>tar</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>han</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>gärna</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>emot</w>
+    <w>förslag</w>
+  </absaspan>
+  <w>.</w>
+  <w>Något</w>
+  <w>som</w>
+  <w>föreslogs</w>
+  <w>var</w>
+  <w>att</w>
+  <w>alla</w>
+  <w>i</w>
+  <w>klassen</w>
+  <w>skulle</w>
+  <w>skriva</w>
+  <w>en</w>
+  <w>debattartikel</w>
+  <w>och</w>
+  <w>sen</w>
+  <w>debattera</w>
+  <w>muntligt</w>
+  <w>med</w>
+  <w>varann</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Hur</w>
+  <w>ska</w>
+  <w>skolarbetet</w>
+  <w>om</w>
+  <absaspan id=9 senti=1>
+    <w>rasism</w>
+  </absaspan>
+  <w>utformas</w>
+  <w>för</w>
+  <w>att</w>
+  <w>jag</w>
+  <w>ska</w>
+  <w>kunna</w>
+  <w>uttrycka</w>
+  <w>och</w>
+  <w>sprida</w>
+  <w>en</w>
+  <absaspan id=10 senti=1>
+    <w>rasistisk</w>
+  </absaspan>
+  <w>och</w>
+  <w>"</w>
+  <absaspan id=11 senti=1>
+    <w>främlingsfientlig</w>
+  </absaspan>
+  <w>"</w>
+  <absaspan id=12>
+    <w>syn</w>
+  </absaspan>
+  <w>på</w>
+  <w>I</w>
+  <w>&</w>
+  <w>I</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

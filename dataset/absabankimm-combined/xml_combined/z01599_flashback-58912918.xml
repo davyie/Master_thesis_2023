@@ -1,0 +1,67 @@
+<absadoc annotators=1 senti=4>
+<absatitle>
+  <absaspan id=1>
+    <w>SDS</w>
+  </absaspan>
+  <w>:</w>
+  <w>Statistik</w>
+  <w>bevisar</w>
+  <w>att</w>
+  <absaspan id=2>
+    <w>invandring</w>
+  </absaspan>
+  <absaspan id=3 senti=5 source=1 target=2>
+    <w>är</w>
+    <w>en</w>
+    <w>svensk</w>
+    <w>succé</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Som</w>
+  <w>nytillkommen</w>
+  <w>läsare</w>
+  <w>undrar</w>
+  <w>man</w>
+  <w>varför</w>
+  <absaspan id=4>
+    <w>I</w>
+    <w>&</w>
+    <w>I</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>är</w>
+    <w>så</w>
+    <w>negativ</w>
+  </absaspan>
+  <w>när</w>
+  <w>det</w>
+  <w>uppenbarligen</w>
+  <w>föreligger</w>
+  <w>en</w>
+  <absaspan id=6 senti=2>
+    <w>succé</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=4>
+  <absaspan id=7 senti=4>
+    <w>Vad</w>
+    <w>är</w>
+    <w>det</w>
+    <w>som</w>
+    <w>inte</w>
+    <w>skulle</w>
+    <w>vara</w>
+    <w>statistiskt</w>
+    <w>perfekt</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>invandringen</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

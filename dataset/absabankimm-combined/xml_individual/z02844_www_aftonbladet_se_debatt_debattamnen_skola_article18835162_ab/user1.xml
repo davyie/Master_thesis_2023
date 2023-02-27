@@ -1,0 +1,716 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=4 target=2>
+    <w>Inför</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>social</w>
+    <w>kvotering</w>
+    <w>till</w>
+    <w>de</w>
+    <w>bästa</w>
+    <w>skolorna</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Det</w>
+  <w>fria</w>
+  <w>skolvalet</w>
+  <w>har</w>
+  <w>flyttat</w>
+  <w>makt</w>
+  <w>från</w>
+  <w>politiker</w>
+  <w>till</w>
+  <w>elever</w>
+  <w>och</w>
+  <w>föräldrar</w>
+  <w>.</w>
+  <absaspan id=3 senti=4>
+    <w>Tack</w>
+    <w>vare</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>mångfalden</w>
+    <w>i</w>
+    <w>den</w>
+    <w>svenska</w>
+    <w>skolan</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>kan</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>fler</w>
+    <w>hitta</w>
+    <w>en</w>
+    <w>skola</w>
+    <w>och</w>
+    <w>en</w>
+    <w>studiemiljö</w>
+    <w>som</w>
+    <w>passar</w>
+    <w>just</w>
+    <w>honom</w>
+    <w>eller</w>
+    <w>henne</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=7 senti=4>
+    <w>ger</w>
+    <w>mer</w>
+    <w>motiverade</w>
+    <w>elever</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>vilket</w>
+    <w>i</w>
+    <w>sin</w>
+    <w>tur</w>
+    <w>påverkar</w>
+    <w>kunskapsresultaten</w>
+    <w>positivt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=9>
+    <w>Segregation</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>är</w>
+    <w>ett</w>
+    <w>allvarligt</w>
+    <w>samhällsproblem</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>den</w>
+  <w>upphetsade</w>
+  <w>partipolitiska</w>
+  <w>debatten</w>
+  <absaspan id=11 senti=2>
+    <w>dras</w>
+    <w>till</w>
+    <w>exempel</w>
+    <w>ofta</w>
+    <w>likhetstecken</w>
+    <w>mellan</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>elevers</w>
+    <w>/</w>
+    <w>föräldrars</w>
+    <w>fria</w>
+    <w>val</w>
+    <w>av</w>
+    <w>skolor</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>och</w>
+    <w>ökad</w>
+    <w>segregation</w>
+  </absaspan>
+  <w>;</w>
+  <w>som</w>
+  <w>om</w>
+  <w>människors</w>
+  <w>fria</w>
+  <w>val</w>
+  <w>i</w>
+  <w>sig</w>
+  <w>själva</w>
+  <w>leder</w>
+  <w>till</w>
+  <w>större</w>
+  <w>åtskillnad</w>
+  <w>och</w>
+  <w>därför</w>
+  <w>måste</w>
+  <w>förbjudas</w>
+  <absaspan id=14>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <absaspan id=15>
+    <w>Det</w>
+    <w>fria</w>
+    <w>skolvalet</w>
+  </absaspan>
+  <absaspan id=16 senti=3>
+    <w>kan</w>
+    <w>ha</w>
+    <w>en</w>
+    <w>viss</w>
+    <w>segregerande</w>
+    <w>effekt</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=17>
+    <w>När</w>
+    <w>högpresterande</w>
+    <w>elever</w>
+    <w>aktivt</w>
+    <w>söker</w>
+    <w>sig</w>
+    <w>bort</w>
+    <w>från</w>
+    <w>dåliga</w>
+    <w>skolor</w>
+  </absaspan>
+  <absaspan id=18 senti=2>
+    <w>finns</w>
+    <w>risker</w>
+    <w>för</w>
+    <w>att</w>
+    <w>de</w>
+    <w>lämnar</w>
+    <w>elever</w>
+    <w>med</w>
+    <w>sämre</w>
+    <w>förutsättningar</w>
+    <w>bakom</w>
+    <w>sig</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>den</w>
+  <w>andra</w>
+  <w>vågskålen</w>
+  <w>finns</w>
+  <w>å</w>
+  <w>andra</w>
+  <w>sidan</w>
+  <w>vetskapen</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=19>
+    <w>det</w>
+    <w>fria</w>
+    <w>skolvalet</w>
+  </absaspan>
+  <w>också</w>
+  <absaspan id=20 senti=4>
+    <w>är</w>
+    <w>en</w>
+    <w>kraft</w>
+    <w>för</w>
+    <w>minskad</w>
+    <w>segregation</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=21>
+    <w>Ungdomar</w>
+    <w>från</w>
+    <w>socialt</w>
+    <w>utsatta</w>
+    <w>områden</w>
+    <w>är</w>
+    <w>inte</w>
+    <w>automatiskt</w>
+    <w>hänvisade</w>
+    <w>till</w>
+    <w>närmaste</w>
+    <w>skola</w>
+    <w>utan</w>
+    <w>kan</w>
+    <w>söka</w>
+    <w>sig</w>
+    <w>vidare</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=22 senti=4>
+    <w>vilket</w>
+    <w>gör</w>
+    <w>klassresor</w>
+    <w>möjliga</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=23>
+    <w>Att</w>
+    <w>avskaffa</w>
+    <w>skolvalet</w>
+    <w>för</w>
+    <w>att</w>
+    <w>i</w>
+    <w>stället</w>
+    <w>återgå</w>
+    <w>till</w>
+    <w>”</w>
+    <w>närhetsprincipen</w>
+  </absaspan>
+  <w>”</w>
+  <w>–</w>
+  <w>där</w>
+  <w>varje</w>
+  <w>elev</w>
+  <w>och</w>
+  <w>familj</w>
+  <w>sitter</w>
+  <w>fast</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>geografi</w>
+  <w>–</w>
+  <absaspan id=24 senti=2>
+    <w>leder</w>
+    <w>till</w>
+    <w>att</w>
+    <w>bostadssegregationen</w>
+    <w>får</w>
+    <w>fullt</w>
+    <w>genomslag</w>
+    <w>i</w>
+    <w>skolan</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=25 senti=2>
+    <w>är</w>
+  </absaspan>
+  <w>därför</w>
+  <absaspan id=26 senti=2>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=27 senti=2>
+    <w>ett</w>
+    <w>seriöst</w>
+    <w>alternativ</w>
+  </absaspan>
+  <w>.</w>
+  <w>Istället</w>
+  <w>borde</w>
+  <w>vi</w>
+  <w>fråga</w>
+  <w>oss</w>
+  <w>hur</w>
+  <w>det</w>
+  <w>fria</w>
+  <w>skolvalet</w>
+  <w>kan</w>
+  <w>utvecklas</w>
+  <w>.</w>
+  <w>Kan</w>
+  <w>vi</w>
+  <w>hitta</w>
+  <w>en</w>
+  <w>modell</w>
+  <w>där</w>
+  <w>det</w>
+  <w>goda</w>
+  <w>tas</w>
+  <w>tillvara</w>
+  <w>samtidigt</w>
+  <w>som</w>
+  <w>de</w>
+  <w>negativa</w>
+  <w>konsekvenserna</w>
+  <w>minimeras</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <absaspan id=28 senti=4>
+    <w>Ett</w>
+    <w>möjligt</w>
+    <w>inslag</w>
+    <w>i</w>
+    <w>en</w>
+    <w>sådan</w>
+    <w>framåtsyftande</w>
+    <w>diskussion</w>
+    <w>kan</w>
+    <w>vara</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>att</w>
+    <w>utifrån</w>
+    <w>sociala</w>
+    <w>förutsättningar</w>
+    <w>kvotera</w>
+    <w>antagningen</w>
+    <w>till</w>
+    <w>de</w>
+    <w>bästa</w>
+    <w>skolorna</w>
+    <w>,</w>
+    <w>i</w>
+    <w>likhet</w>
+    <w>med</w>
+    <w>det</w>
+    <w>system</w>
+    <w>som</w>
+    <w>prövats</w>
+    <w>i</w>
+    <w>universitetsvärlden</w>
+  </absaspan>
+  <w>.</w>
+  <w>Rätt</w>
+  <w>utformat</w>
+  <w>skulle</w>
+  <w>det</w>
+  <w>kunna</w>
+  <w>bryta</w>
+  <w>upp</w>
+  <w>barriärer</w>
+  <w>och</w>
+  <w>skapa</w>
+  <w>möjligheter</w>
+  <w>för</w>
+  <w>fler</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Först</w>
+  <w>måste</w>
+  <w>vi</w>
+  <w>dock</w>
+  <w>avgöra</w>
+  <w>vilka</w>
+  <w>skolor</w>
+  <w>som</w>
+  <w>faktiskt</w>
+  <w>är</w>
+  <w>bäst</w>
+  <w>.</w>
+  <absaspan id=30 senti=2>
+    <w>I</w>
+    <w>dag</w>
+    <w>begränsas</w>
+    <w>valfriheten</w>
+    <w>i</w>
+    <w>praktiken</w>
+    <w>genom</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>att</w>
+    <w>det</w>
+    <w>är</w>
+    <w>så</w>
+    <w>svårt</w>
+    <w>att</w>
+    <w>jämföra</w>
+    <w>skolor</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=32 senti=4>
+    <w>Här</w>
+    <w>behövs</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>ett</w>
+    <w>system</w>
+    <w>med</w>
+    <w>kvalitetsdeklarationer</w>
+    <w>som</w>
+    <w>tydligt</w>
+    <w>redovisar</w>
+    <w>hur</w>
+    <w>väl</w>
+    <w>en</w>
+    <w>skola</w>
+    <w>levererar</w>
+    <w>på</w>
+    <w>olika</w>
+    <w>parametrar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vi</w>
+  <absaspan id=34 senti=4>
+    <w>behöver</w>
+  </absaspan>
+  <absaspan id=35>
+    <w>betygssätta</w>
+    <w>skolor</w>
+  </absaspan>
+  <w>,</w>
+  <w>helt</w>
+  <w>enkelt</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Andelen</w>
+  <w>elever</w>
+  <w>som</w>
+  <w>aktivt</w>
+  <w>använder</w>
+  <w>sig</w>
+  <w>av</w>
+  <w>skolvalet</w>
+  <w>är</w>
+  <w>i</w>
+  <w>grundskolan</w>
+  <w>är</w>
+  <w>ökande</w>
+  <w>men</w>
+  <w>fortfarande</w>
+  <w>lägre</w>
+  <w>än</w>
+  <w>i</w>
+  <w>förskolan</w>
+  <w>och</w>
+  <w>gymnasiet</w>
+  <w>.</w>
+  <w>Tydligare</w>
+  <w>jämförelser</w>
+  <w>skulle</w>
+  <w>sannolikt</w>
+  <w>ändra</w>
+  <w>på</w>
+  <w>det</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Men</w>
+  <w>det</w>
+  <absaspan id=36 senti=4>
+    <w>är</w>
+  </absaspan>
+  <w>också</w>
+  <absaspan id=37 senti=4>
+    <w>önskvärt</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>att</w>
+    <w>diskutera</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>införandet</w>
+  </absaspan>
+  <absaspan id=40>
+    <w>av</w>
+    <w>ett</w>
+    <w>allmänt</w>
+    <w>och</w>
+    <w>obligatoriskt</w>
+    <w>skolval</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=41>
+    <w>En</w>
+    <w>sådan</w>
+    <w>reform</w>
+  </absaspan>
+  <w>skulle</w>
+  <w>understryka</w>
+  <w>att</w>
+  <w>det</w>
+  <w>fria</w>
+  <w>skolvalet</w>
+  <w>omfattar</w>
+  <w>alla</w>
+  <w>och</w>
+  <w>samtidig</w>
+  <absaspan id=42 senti=4>
+    <w>öka</w>
+    <w>motivation</w>
+    <w>och</w>
+    <w>delaktighet</w>
+    <w>i</w>
+    <w>skolan</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Det</w>
+  <w>fria</w>
+  <w>skolvalet</w>
+  <w>bygger</w>
+  <w>på</w>
+  <w>att</w>
+  <w>eleven</w>
+  <w>väljer</w>
+  <w>skola</w>
+  <w>under</w>
+  <w>jämlika</w>
+  <w>och</w>
+  <w>rättssäkra</w>
+  <w>former</w>
+  <w>.</w>
+  <absaspan id=43 senti=4>
+    <w>För</w>
+    <w>att</w>
+    <w>undanröja</w>
+    <w>misstankar</w>
+    <w>om</w>
+    <w>att</w>
+    <w>vissa</w>
+    <w>elever</w>
+    <w>ges</w>
+    <w>otillbörliga</w>
+    <w>fördelar</w>
+    <w>borde</w>
+  </absaspan>
+  <absaspan id=44>
+    <w>antagningen</w>
+    <w>till</w>
+    <w>grundskolan</w>
+    <w>samlas</w>
+    <w>hos</w>
+    <w>kommunerna</w>
+    <w>eller</w>
+    <w>i</w>
+    <w>regioner</w>
+    <w>i</w>
+    <w>samband</w>
+    <w>med</w>
+    <w>att</w>
+    <w>det</w>
+    <w>obligatoriskt</w>
+    <w>skolval</w>
+    <w>införs</w>
+  </absaspan>
+  <w>.</w>
+  <w>Ett</w>
+  <w>liknade</w>
+  <w>system</w>
+  <w>finns</w>
+  <w>idag</w>
+  <w>för</w>
+  <w>förskolor</w>
+  <w>och</w>
+  <w>gymnasieskolor</w>
+  <w>.</w>
+  <w>En</w>
+  <w>gemensam</w>
+  <w>antagning</w>
+  <w>skulle</w>
+  <w>ge</w>
+  <w>ökad</w>
+  <w>information</w>
+  <w>om</w>
+  <w>de</w>
+  <w>olika</w>
+  <w>alternativen</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <absaspan id=45>
+    <w>Det</w>
+    <w>fria</w>
+    <w>skolvalet</w>
+  </absaspan>
+  <absaspan id=46 senti=4>
+    <w>har</w>
+    <w>skapat</w>
+    <w>en</w>
+    <w>ny</w>
+    <w>och</w>
+    <w>bättre</w>
+    <w>maktbalans</w>
+    <w>mellan</w>
+    <w>myndigheter</w>
+    <w>och</w>
+    <w>medborgare</w>
+  </absaspan>
+  <w>.</w>
+  <w>Människor</w>
+  <w>är</w>
+  <w>olika</w>
+  <w>och</w>
+  <w>en</w>
+  <w>modell</w>
+  <w>passar</w>
+  <w>inte</w>
+  <w>alla</w>
+  <w>.</w>
+  <absaspan id=47 senti=4>
+    <w>Tack</w>
+    <w>vare</w>
+  </absaspan>
+  <absaspan id=48>
+    <w>mångfalden</w>
+    <w>i</w>
+    <w>den</w>
+    <w>svenska</w>
+    <w>skolan</w>
+  </absaspan>
+  <absaspan id=49 senti=4>
+    <w>kan</w>
+  </absaspan>
+  <absaspan id=50 senti=4>
+    <w>fler</w>
+    <w>hitta</w>
+    <w>en</w>
+    <w>studiemiljö</w>
+    <w>som</w>
+    <w>passar</w>
+    <w>just</w>
+    <w>honom</w>
+    <w>eller</w>
+    <w>henne</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=51>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=52 senti=4>
+    <w>ger</w>
+    <w>mer</w>
+    <w>motiverade</w>
+    <w>elever</w>
+  </absaspan>
+  <absaspan id=53 senti=4>
+    <w>vilket</w>
+    <w>i</w>
+    <w>sin</w>
+    <w>tur</w>
+    <w>leder</w>
+    <w>till</w>
+    <w>bättre</w>
+    <w>resultat</w>
+    <w>.</w>
+  </absaspan>
+  <w>Men</w>
+  <absaspan id=54>
+    <w>valfrihetsvänner</w>
+    <w>som</w>
+    <w>väljer</w>
+    <w>att</w>
+    <w>ignorera</w>
+    <w>brister</w>
+    <w>och</w>
+    <w>problem</w>
+  </absaspan>
+  <absaspan id=55 senti=2>
+    <w>gör</w>
+    <w>skolvalet</w>
+    <w>en</w>
+    <w>otjänst</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vårt</w>
+  <w>fokus</w>
+  <w>borde</w>
+  <w>istället</w>
+  <w>vara</w>
+  <w>att</w>
+  <w>förbättra</w>
+  <w>och</w>
+  <w>utveckla</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Marcus</w>
+  <w>Strömberg</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>Vd</w>
+  <w>,</w>
+  <w>AcadeMedia</w>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+<absapar id=14>
+  <w>REN</w>
+  <w>.</w>
+</absapar>
+</absadoc>

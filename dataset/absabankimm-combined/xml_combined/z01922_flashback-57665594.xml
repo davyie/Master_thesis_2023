@@ -1,0 +1,91 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Brexit</w>
+  <w>ett</w>
+  <w>faktum</w>
+  <w>,</w>
+  <w>vilka</w>
+  <w>är</w>
+  <w>konsekvenserna</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Brexit</w>
+  <w>är</w>
+  <w>nu</w>
+  <w>ett</w>
+  <w>faktum</w>
+  <w>.</w>
+  <w>Vad</w>
+  <w>kommer</w>
+  <w>denna</w>
+  <w>brexit</w>
+  <w>leda</w>
+  <w>till</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Kommer</w>
+  <w>vi</w>
+  <w>se</w>
+  <w>börserna</w>
+  <w>runt</w>
+  <w>om</w>
+  <w>i</w>
+  <w>världen</w>
+  <w>att</w>
+  <w>störtdyka</w>
+  <w>i</w>
+  <w>spekulation</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Kommer</w>
+  <w>det</w>
+  <w>leda</w>
+  <w>till</w>
+  <w>några</w>
+  <w>långvariga</w>
+  <w>konsekvenser</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Blir</w>
+  <w>det</w>
+  <absaspan id=1 senti=2>
+    <w>panik</w>
+  </absaspan>
+  <w>följt</w>
+  <w>av</w>
+  <w>en</w>
+  <absaspan id=2 senti=4>
+    <w>upphämtning</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>på</w>
+    <w>börsen</w>
+  </absaspan>
+  <w>som</w>
+  <w>det</w>
+  <w>ofta</w>
+  <w>sker</w>
+  <w>eller</w>
+  <w>hålls</w>
+  <w>kurserna</w>
+  <w>nere</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Vad</w>
+  <w>tror</w>
+  <w>ni</w>
+  <w>händer</w>
+  <w>,</w>
+  <w>diskutera</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,70 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=1>
+    <w>Tvångskvotering</w>
+  </absaspan>
+  <w>av</w>
+  <w>nyanlända</w>
+  <w>till</w>
+  <w>samtliga</w>
+  <w>skolor</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=2>
+    <w>Skolministern</w>
+  </absaspan>
+  <absaspan id=3 senti=4>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>enligt</w>
+    <w>TV4</w>
+  </absaspan>
+  <absaspan id=5 senti=4>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=6 senti=4>
+    <w>avsikt</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>att</w>
+    <w>alla</w>
+    <w>skolor</w>
+    <w>i</w>
+    <w>Sverige</w>
+    <w>måste</w>
+    <w>avsätta</w>
+    <w>5%</w>
+    <w>av</w>
+    <w>sina</w>
+    <w>platser</w>
+    <w>till</w>
+    <w>nyanlända</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Innebär</w>
+  <w>det</w>
+  <w>att</w>
+  <w>Sverige</w>
+  <w>ytterligare</w>
+  <w>totalt</w>
+  <w>sett</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>tappa</w>
+  <w>i</w>
+  <w>kunskapsnivå</w>
+  <w>mot</w>
+  <w>resten</w>
+  <w>av</w>
+  <w>jämförbara</w>
+  <w>länder</w>
+  <absaspan id=8 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,186 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Is</w>
+  <absaspan id=1>
+    <w>Sweden</w>
+  </absaspan>
+  <w>really</w>
+  <w>so</w>
+  <absaspan id=2 senti=2 source=3 target=1>
+    <w>bad</w>
+  </absaspan>
+  <w>as</w>
+  <absaspan id=3>
+    <w>some</w>
+  </absaspan>
+  <w>want</w>
+  <w>us</w>
+  <w>to</w>
+  <w>believe</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>I</w>
+  <absaspan id=4 senti=2>
+    <w>apologise</w>
+    <w>for</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>not</w>
+    <w>speaking</w>
+    <w>Swedish</w>
+  </absaspan>
+  <w>,</w>
+  <w>but</w>
+  <w>I</w>
+  <w>am</w>
+  <w>a</w>
+  <w>bit</w>
+  <absaspan id=6 senti=4>
+    <w>curious</w>
+    <w>about</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>other</w>
+    <w>countries</w>
+    <w>and</w>
+    <w>espeically</w>
+    <w>of</w>
+    <w>their</w>
+    <w>political</w>
+    <w>system</w>
+    <w>and</w>
+    <w>culture</w>
+  </absaspan>
+  <w>.</w>
+  <w>I</w>
+  <w>am</w>
+  <w>college</w>
+  <w>student</w>
+  <w>from</w>
+  <w>Croatia</w>
+  <w>and</w>
+  <w>need</w>
+  <w>to</w>
+  <w>make</w>
+  <w>a</w>
+  <w>seminar</w>
+  <w>on</w>
+  <w>Sweden</w>
+  <w>.</w>
+  <w>So</w>
+  <w>,</w>
+  <w>there</w>
+  <w>is</w>
+  <w>not</w>
+  <w>many</w>
+  <w>English</w>
+  <w>based</w>
+  <w>sources</w>
+  <w>on</w>
+  <w>swedish</w>
+  <w>political</w>
+  <w>culture</w>
+  <w>,</w>
+  <w>with</w>
+  <w>the</w>
+  <w>exception</w>
+  <w>of</w>
+  <w>"</w>
+  <w>The</w>
+  <w>New</w>
+  <w>Totalitarians</w>
+  <w>"</w>
+  <w>of</w>
+  <w>Roland</w>
+  <w>Huntford</w>
+  <w>.</w>
+  <absaspan id=8>
+    <w>The</w>
+    <w>news</w>
+    <w>article</w>
+  </absaspan>
+  <w>are</w>
+  <w>often</w>
+  <w>also</w>
+  <absaspan id=9 senti=2>
+    <w>sound</w>
+    <w>very</w>
+    <w>unrealistic</w>
+    <w>and</w>
+    <w>bizzare</w>
+  </absaspan>
+  <w>.</w>
+  <w>So</w>
+  <w>one</w>
+  <w>of</w>
+  <w>the</w>
+  <w>recent</w>
+  <w>news</w>
+  <w>is</w>
+  <w>that</w>
+  <w>Swedish</w>
+  <w>PM</w>
+  <w>want</w>
+  <w>to</w>
+  <w>make</w>
+  <w>a</w>
+  <w>law</w>
+  <w>in</w>
+  <w>which</w>
+  <w>a</w>
+  <w>written</w>
+  <w>contract</w>
+  <w>is</w>
+  <w>needed</w>
+  <w>to</w>
+  <w>have</w>
+  <w>sexual</w>
+  <w>intercourse</w>
+  <w>(</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>#</w>
+  <w>P</w>
+  <w>IMM</w>
+  <w>.</w>
+  <w>)</w>
+  <w>and</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>claims</w>
+  <w>a</w>
+  <w>man</w>
+  <w>was</w>
+  <w>prosecuted</w>
+  <w>for</w>
+  <w>eating</w>
+  <w>bacon</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>I</w>
+  <w>personally</w>
+  <w>have</w>
+  <absaspan id=10 senti=2>
+    <w>hard</w>
+    <w>to</w>
+    <w>believe</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>all</w>
+    <w>of</w>
+    <w>this</w>
+  </absaspan>
+  <w>,</w>
+  <w>so</w>
+  <w>how</w>
+  <w>true</w>
+  <w>is</w>
+  <w>it</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,139 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2>
+    <w>Bomben</w>
+    <w>!</w>
+  </absaspan>
+  <w>:</w>
+  <absaspan id=2>
+    <w>Sd</w>
+    <w>Kräver</w>
+    <w>Repatriering</w>
+  </absaspan>
+  <w>!</w>
+  <absaspan id=3 senti=2>
+    <w>Wtf</w>
+    <w>?</w>
+    <w>!</w>
+    <w>?</w>
+    <w>!</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <absaspan id=4>
+    <w>Vad</w>
+    <w>är</w>
+    <w>det</w>
+    <w>som</w>
+    <w>har</w>
+    <w>hänt</w>
+    <w>?</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Ju</w>
+  <absaspan id=5 senti=2>
+    <w>galnare</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>migrantkrisen</w>
+  </absaspan>
+  <absaspan id=7 senti=2>
+    <w>blivit</w>
+  </absaspan>
+  <w>,</w>
+  <w>desto</w>
+  <w>mer</w>
+  <absaspan id=8 senti=2>
+    <w>extrema</w>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>SD</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>blivit</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Kommer</w>
+  <absaspan id=11>
+    <w>SD</w>
+    <w>:</w>
+    <w>s</w>
+    <w>krav</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=12 senti=2>
+    <w>ses</w>
+    <w>som</w>
+    <w>för</w>
+    <w>extrema</w>
+  </absaspan>
+  <w>eller</w>
+  <w>kommer</w>
+  <w>väljarna</w>
+  <w>att</w>
+  <absaspan id=13 senti=2>
+    <w>gå</w>
+    <w>med</w>
+    <w>på</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>SD</w>
+    <w>:</w>
+    <w>s</w>
+    <w>extrema</w>
+    <w>utspel</w>
+  </absaspan>
+  <w>nu</w>
+  <w>när</w>
+  <absaspan id=15>
+    <w>migrantkrisen</w>
+  </absaspan>
+  <absaspan id=16 senti=2>
+    <w>blivit</w>
+    <w>värre</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>?</w>
+  </absaspan>
+  <w>Är</w>
+  <w>det</w>
+  <w>taktiskt</w>
+  <w>rätt</w>
+  <w>av</w>
+  <absaspan id=18>
+    <w>SD</w>
+  </absaspan>
+  <w>att</w>
+  <w>komma</w>
+  <w>med</w>
+  <w>det</w>
+  <w>här</w>
+  <w>utspelet</w>
+  <w>nu</w>
+  <absaspan id=19 senti=2>
+    <w>?</w>
+  </absaspan>
+  <w>Eller</w>
+  <absaspan id=20 senti=2>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>de</w>
+  </absaspan>
+  <absaspan id=22 senti=2>
+    <w>gjort</w>
+  </absaspan>
+  <absaspan id=23 senti=2>
+    <w>bort</w>
+    <w>sig</w>
+  </absaspan>
+  <w>nu</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

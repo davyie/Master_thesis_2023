@@ -1,0 +1,685 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Rädda</w>
+  <w>liv</w>
+  <w>–</w>
+  <w>skicka</w>
+  <w>bilderna</w>
+  <w>utomlands</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Öppet</w>
+  <w>brev</w>
+  <w>till</w>
+  <w>Socialminister</w>
+  <w>Göran</w>
+  <w>Hägglund</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>En</w>
+  <w>akut</w>
+  <w>lösning</w>
+  <w>på</w>
+  <w>mammografi</w>
+  <w>-</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>screeningsproblemet</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=1>
+    <w>Ledande</w>
+    <w>experter</w>
+  </absaspan>
+  <w>inom</w>
+  <w>bröströntgen</w>
+  <absaspan id=2 senti=2>
+    <w>varnar</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>bristen</w>
+    <w>på</w>
+    <w>mammografikompetenta</w>
+    <w>röntgenläkare</w>
+    <w>och</w>
+    <w>mammografisjuksköterskor</w>
+  </absaspan>
+  <absaspan id=5 senti=1>
+    <w>håller</w>
+    <w>på</w>
+    <w>att</w>
+    <w>bli</w>
+    <w>katastrofal</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=5>
+  <absaspan id=7>
+    <w>Regeringens</w>
+    <w>förslag</w>
+    <w>att</w>
+    <w>öka</w>
+    <w>antalet</w>
+    <w>utbildningsplatser</w>
+    <w>på</w>
+    <w>läkarlinjen</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>är</w>
+    <w>välkommet</w>
+    <w>och</w>
+    <w>välbehövt</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=9 senti=2>
+    <w>Ett</w>
+    <w>uppenbart</w>
+    <w>problem</w>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>att</w>
+    <w>tiden</w>
+    <w>från</w>
+    <w>det</w>
+    <w>att</w>
+    <w>en</w>
+    <w>student</w>
+    <w>påbörjar</w>
+    <w>läkarutbildningen</w>
+    <w>tills</w>
+    <w>det</w>
+    <w>han</w>
+    <w>/</w>
+    <w>hon</w>
+    <w>är</w>
+    <w>färdig</w>
+    <w>specialist</w>
+    <w>är</w>
+    <w>minst</w>
+    <w>12</w>
+    <w>år</w>
+  </absaspan>
+  <w>.</w>
+  <w>Även</w>
+  <absaspan id=11>
+    <w>en</w>
+    <w>dramatisk</w>
+    <w>ökning</w>
+    <w>av</w>
+    <w>antalet</w>
+    <w>utbildningsplatser</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>kommer</w>
+  </absaspan>
+  <w>därför</w>
+  <absaspan id=13 senti=2>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>att</w>
+    <w>lösa</w>
+  </absaspan>
+  <w>det</w>
+  <w>akuta</w>
+  <w>problem</w>
+  <w>mammografin</w>
+  <w>står</w>
+  <w>inför</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Den</w>
+  <absaspan id=15 senti=1>
+    <w>akuta</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>bristen</w>
+    <w>på</w>
+    <w>mammografiexperter</w>
+  </absaspan>
+  <w>i</w>
+  <w>Sverige</w>
+  <absaspan id=17 senti=4>
+    <w>kan</w>
+    <w>lösas</w>
+    <w>med</w>
+    <w>hjälp</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>teleradiologin</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>De</w>
+  <w>tekniska</w>
+  <w>framstegen</w>
+  <w>inom</w>
+  <w>radiologin</w>
+  <w>har</w>
+  <absaspan id=19 senti=4>
+    <w>öppnat</w>
+    <w>upp</w>
+    <w>nya</w>
+    <w>möjligheter</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>distansarbete</w>
+  </absaspan>
+  <w>.</w>
+  <w>Digitaliseringen</w>
+  <w>av</w>
+  <w>röntgenbilden</w>
+  <w>och</w>
+  <w>utvecklingen</w>
+  <w>av</w>
+  <w>allt</w>
+  <w>snabbare</w>
+  <w>bredbandsuppkopplingar</w>
+  <w>mot</w>
+  <w>Internet</w>
+  <w>,</w>
+  <w>gör</w>
+  <w>att</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>spelar</w>
+  <w>någon</w>
+  <w>roll</w>
+  <w>om</w>
+  <w>den</w>
+  <w>tolkande</w>
+  <w>radiologen</w>
+  <w>sitter</w>
+  <w>i</w>
+  <w>rummet</w>
+  <w>bredvid</w>
+  <w>eller</w>
+  <w>på</w>
+  <w>andra</w>
+  <w>sidan</w>
+  <w>jorden</w>
+  <w>.</w>
+  <w>I</w>
+  <w>USA</w>
+  <w>skickas</w>
+  <w>sedan</w>
+  <w>flera</w>
+  <w>år</w>
+  <w>en</w>
+  <w>stor</w>
+  <w>andel</w>
+  <w>av</w>
+  <w>röntgenbilderna</w>
+  <w>utomlands</w>
+  <w>för</w>
+  <w>tolkning</w>
+  <w>,</w>
+  <w>till</w>
+  <w>exempel</w>
+  <w>till</w>
+  <w>Schweiz</w>
+  <w>,</w>
+  <w>Australien</w>
+  <w>och</w>
+  <w>Indien</w>
+  <w>.</w>
+  <absaspan id=21>
+    <w>Flera</w>
+    <w>vetenskapliga</w>
+    <w>studier</w>
+  </absaspan>
+  <absaspan id=22 senti=4>
+    <w>stödjer</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>teleradiologin</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=24>
+    <w>Tekniken</w>
+  </absaspan>
+  <absaspan id=25 senti=4>
+    <w>är</w>
+    <w>säker</w>
+    <w>,</w>
+    <w>väl</w>
+    <w>beprövad</w>
+    <w>och</w>
+    <w>accepteras</w>
+    <w>av</w>
+    <w>ledande</w>
+    <w>radiologiföreningar</w>
+    <w>runt</w>
+    <w>om</w>
+    <w>i</w>
+    <w>världen</w>
+  </absaspan>
+  <w>,</w>
+  <w>däribland</w>
+  <w>det</w>
+  <w>världsledande</w>
+  <w>American</w>
+  <w>College</w>
+  <w>of</w>
+  <w>Radiology</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Region</w>
+  <w>Skåne</w>
+  <w>har</w>
+  <w>precis</w>
+  <w>upphandlat</w>
+  <w>teleradiologiska</w>
+  <w>tjänster</w>
+  <w>som</w>
+  <w>kommer</w>
+  <w>att</w>
+  <w>inledas</w>
+  <w>redan</w>
+  <w>under</w>
+  <w>de</w>
+  <w>kommande</w>
+  <w>veckorna</w>
+  <w>,</w>
+  <w>på</w>
+  <w>andra</w>
+  <w>sidan</w>
+  <w>Östersjön</w>
+  <w>.</w>
+  <w>Upphandlingen</w>
+  <w>innebär</w>
+  <w>ett</w>
+  <w>omedelbart</w>
+  <w>tillskott</w>
+  <w>av</w>
+  <w>radiologisk</w>
+  <w>specialistkompetens</w>
+  <w>till</w>
+  <w>regionen</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Den</w>
+  <w>medicinska</w>
+  <w>kvalitén</w>
+  <w>och</w>
+  <w>patientsäkerheten</w>
+  <w>bibehålls</w>
+  <w>genom</w>
+  <w>användandet</w>
+  <w>av</w>
+  <w>gemensamma</w>
+  <w>internationella</w>
+  <w>riktlinjer</w>
+  <w>;</w>
+  <w>European</w>
+  <w>Guidelines</w>
+  <w>for</w>
+  <w>Quality</w>
+  <w>Assurance</w>
+  <w>of</w>
+  <w>Mammography</w>
+  <w>Screening</w>
+  <w>.</w>
+  <w>Gemensamma</w>
+  <w>riktlinjer</w>
+  <w>för</w>
+  <w>tolkning</w>
+  <w>av</w>
+  <w>röntgenbilder</w>
+  <w>och</w>
+  <w>EUs</w>
+  <w>erkännande</w>
+  <w>av</w>
+  <w>likvärdigheten</w>
+  <w>av</w>
+  <w>läkarexamen</w>
+  <w>inom</w>
+  <w>gemenskapen</w>
+  <w>innebär</w>
+  <w>att</w>
+  <w>specialistkompetens</w>
+  <w>inom</w>
+  <w>EU</w>
+  <w>nu</w>
+  <w>är</w>
+  <w>tillgänglig</w>
+  <w>över</w>
+  <w>gränserna</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Detta</w>
+  <w>innebär</w>
+  <w>i</w>
+  <w>praktiken</w>
+  <w>att</w>
+  <w>en</w>
+  <w>röntgenläkare</w>
+  <w>i</w>
+  <w>Köpenhamn</w>
+  <w>eller</w>
+  <w>Krakow</w>
+  <w>kan</w>
+  <w>tolka</w>
+  <w>en</w>
+  <w>mammografibild</w>
+  <w>tagen</w>
+  <w>i</w>
+  <w>Lund</w>
+  <w>eller</w>
+  <w>Luleå</w>
+  <w>.</w>
+  <w>I</w>
+  <w>delar</w>
+  <w>av</w>
+  <w>EU</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>dessutom</w>
+  <w>mammografiexperter</w>
+  <w>med</w>
+  <w>ledig</w>
+  <w>kapacitet</w>
+  <w>.</w>
+  <w>Om</w>
+  <w>de</w>
+  <w>arbetar</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>land</w>
+  <w>med</w>
+  <w>lägre</w>
+  <w>kostnadsbas</w>
+  <w>än</w>
+  <w>Sverige</w>
+  <w>kan</w>
+  <w>bildtolkningarna</w>
+  <w>även</w>
+  <w>göras</w>
+  <w>mer</w>
+  <absaspan id=26 senti=4>
+    <w>kostnadseffektivt</w>
+  </absaspan>
+  <w>än</w>
+  <w>i</w>
+  <w>Sverige</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <absaspan id=27>
+    <w>Teleradiologin</w>
+  </absaspan>
+  <w>är</w>
+  <w>naturligtvis</w>
+  <w>inte</w>
+  <w>lämplig</w>
+  <w>för</w>
+  <w>alla</w>
+  <w>radiologiska</w>
+  <w>undersökningar</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>för</w>
+  <w>bl.a</w>
+  <w>.</w>
+  <w>mammografiscreening</w>
+  <absaspan id=28 senti=5>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=29>
+    <w>den</w>
+  </absaspan>
+  <absaspan id=30 senti=5>
+    <w>optimal</w>
+  </absaspan>
+  <w>;</w>
+  <w>standardiserade</w>
+  <w>undersökningar</w>
+  <w>,</w>
+  <w>väl</w>
+  <w>definierade</w>
+  <w>frågeställningar</w>
+  <w>och</w>
+  <w>en</w>
+  <w>norm</w>
+  <w>för</w>
+  <w>angivande</w>
+  <w>av</w>
+  <w>svar</w>
+  <w>.</w>
+</absapar>
+<absapar id=12>
+  <w>De</w>
+  <w>svenska</w>
+  <w>mammografiexperterna</w>
+  <absaspan id=31 senti=2>
+    <w>kan</w>
+    <w>istället</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>att</w>
+    <w>lägga</w>
+    <w>sin</w>
+    <w>tid</w>
+    <w>på</w>
+    <w>traditionell</w>
+    <w>screeningverksamhet</w>
+  </absaspan>
+  <w>fokusera</w>
+  <w>på</w>
+  <w>komplexa</w>
+  <w>utredningar</w>
+  <w>eller</w>
+  <w>undersökningarna</w>
+  <w>som</w>
+  <w>kräver</w>
+  <w>närhet</w>
+  <w>till</w>
+  <w>patienten</w>
+  <w>.</w>
+  <w>Istället</w>
+  <w>för</w>
+  <w>det</w>
+  <absaspan id=33 senti=1>
+    <w>katastrofscenario</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=34>
+    <w>svenska</w>
+    <w>röntgenexperter</w>
+  </absaspan>
+  <w>nu</w>
+  <absaspan id=35 senti=1>
+    <w>varnar</w>
+    <w>för</w>
+  </absaspan>
+  <w>kan</w>
+  <w>Sverige</w>
+  <w>fortsätta</w>
+  <w>att</w>
+  <w>vara</w>
+  <w>ett</w>
+  <absaspan id=36 senti=2>
+    <w>föregångsland</w>
+  </absaspan>
+  <w>inom</w>
+  <w>mammografi</w>
+  <w>.</w>
+  <w>Framförallt</w>
+  <absaspan id=37 senti=2>
+    <w>säkerställs</w>
+  </absaspan>
+  <w>kvinnors</w>
+  <w>självklara</w>
+  <w>och</w>
+  <w>lagstadgade</w>
+  <w>rätt</w>
+  <w>till</w>
+  <w>tidig</w>
+  <w>diagnostisering</w>
+  <w>av</w>
+  <w>bröstcancer</w>
+  <w>.</w>
+  <w>För</w>
+  <w>att</w>
+  <w>klara</w>
+  <w>den</w>
+  <absaspan id=38 senti=1>
+    <w>akuta</w>
+  </absaspan>
+  <absaspan id=39>
+    <w>bristen</w>
+    <w>på</w>
+    <w>tolkningskapaciteten</w>
+  </absaspan>
+  <absaspan id=40 senti=4>
+    <w>behöver</w>
+  </absaspan>
+  <w>Sverige</w>
+  <absaspan id=41>
+    <w>omedelbart</w>
+    <w>tillskott</w>
+    <w>av</w>
+    <w>radiologisk</w>
+    <w>specialistkompetens</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <absaspan id=42 senti=4>
+    <w>är</w>
+    <w>fullt</w>
+    <w>genomförbart</w>
+  </absaspan>
+  <absaspan id=43>
+    <w>att</w>
+    <w>tillhandahålla</w>
+    <w>tolkningskapaciteten</w>
+    <w>inom</w>
+    <w>kort</w>
+    <w>tid</w>
+    <w>,</w>
+    <w>eventuellt</w>
+    <w>redan</w>
+    <w>inom</w>
+    <w>ett</w>
+    <w>par</w>
+    <w>veckor</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=13>
+  <absaspan id=44>
+    <w>Teleradiologin</w>
+  </absaspan>
+  <absaspan id=45 senti=4>
+    <w>är</w>
+    <w>inte</w>
+    <w>en</w>
+    <w>fullständig</w>
+    <w>lösning</w>
+  </absaspan>
+  <w>på</w>
+  <w>något</w>
+  <w>som</w>
+  <w>själfallet</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>komplext</w>
+  <w>problem</w>
+  <w>.</w>
+  <w>I</w>
+  <w>kombination</w>
+  <w>med</w>
+  <w>andra</w>
+  <w>långsiktiga</w>
+  <w>satsningar</w>
+  <absaspan id=46 senti=4>
+    <w>förbättrar</w>
+  </absaspan>
+  <absaspan id=47>
+    <w>den</w>
+  </absaspan>
+  <w>dock</w>
+  <absaspan id=48 senti=4>
+    <w>dramatiskt</w>
+  </absaspan>
+  <absaspan id=49 senti=4>
+    <w>utsikterna</w>
+  </absaspan>
+  <w>för</w>
+  <w>de</w>
+  <w>kvinnor</w>
+  <w>som</w>
+  <w>nu</w>
+  <absaspan id=50 senti=2>
+    <w>riskerar</w>
+  </absaspan>
+  <absaspan id=51>
+    <w>att</w>
+    <w>stå</w>
+    <w>utan</w>
+    <w>diagnosmöjlighet</w>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=14>
+  <w>FAKTA</w>
+  <w>.</w>
+</absapar>
+<absapar id=15>
+  <w>Dagens</w>
+  <w>debattör</w>
+  <w>.</w>
+</absapar>
+<absapar id=16>
+  <w>Jakob</w>
+  <w>Ratz</w>
+  <w>.</w>
+</absapar>
+<absapar id=17>
+  <w>Legitimerad</w>
+  <w>läkare</w>
+  <w>,</w>
+  <w>.</w>
+</absapar>
+<absapar id=18>
+  <w>Warszawa</w>
+  <w>.</w>
+</absapar>
+<absapar id=19>
+  <w>Verksamhets</w>
+  <w>-</w>
+  <w>.</w>
+</absapar>
+<absapar id=20>
+  <w>ansvarig</w>
+  <w>för</w>
+  <w>Medicinsk</w>
+  <w>.</w>
+</absapar>
+<absapar id=21>
+  <w>diagnostik</w>
+  <w>.</w>
+</absapar>
+</absadoc>

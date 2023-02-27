@@ -1,0 +1,90 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Okända</w>
+    <w>män</w>
+    <w>knuffar</w>
+    <w>folk</w>
+    <w>i</w>
+    <w>vattnet</w>
+  </absaspan>
+  <w>vid</w>
+  <w>hamnen</w>
+  <w>i</w>
+  <w>Malmö</w>
+  <w>.</w>
+  <absaspan id=2 senti=2>
+    <w>Taskigt</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>tidsfördriv</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Vad</w>
+  <w>är</w>
+  <w>nu</w>
+  <w>det</w>
+  <w>här</w>
+  <w>för</w>
+  <absaspan id=4 senti=2>
+    <w>stollerier</w>
+  </absaspan>
+  <w>?</w>
+  <w>Alla</w>
+  <w>kan</w>
+  <w>ju</w>
+  <w>inte</w>
+  <w>simma</w>
+  <w>så</w>
+  <w>det</w>
+  <absaspan id=5 senti=2>
+    <w>kan</w>
+    <w>går</w>
+    <w>illa</w>
+  </absaspan>
+  <w>,</w>
+  <w>drunkning</w>
+  <w>eller</w>
+  <w>annat</w>
+  <w>på</w>
+  <w>köpet</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Mordförsök</w>
+  <w>kanske</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Det</w>
+  <w>har</w>
+  <w>hänt</w>
+  <w>flera</w>
+  <w>gånger</w>
+  <w>.</w>
+  <absaspan id=6 senti=2>
+    <w>Fy</w>
+    <w>fan</w>
+    <w>för</w>
+    <w>detta</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>Malmö</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>är</w>
+  <w>det</w>
+  <w>berikare</w>
+  <w>?</w>
+  <w>Såna</w>
+  <w>kan</w>
+  <w>ju</w>
+  <w>inte</w>
+  <w>simma</w>
+  <w>.</w>
+</absapar>
+</absadoc>

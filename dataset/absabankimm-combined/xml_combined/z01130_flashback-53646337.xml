@@ -1,0 +1,212 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <w>Har</w>
+  <w>du</w>
+  <w>blivit</w>
+  <absaspan id=1 senti=2 source=2>
+    <w>utsatt</w>
+    <w>för</w>
+    <w>omvänd</w>
+    <w>rasism</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>!</w>
+  </absaspan>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>hittade</w>
+  <w>inte</w>
+  <w>en</w>
+  <w>liknande</w>
+  <w>tråd</w>
+  <w>trots</w>
+  <w>många</w>
+  <w>om</w>
+  <w>ämnet</w>
+  <w>.</w>
+  <w>Så</w>
+  <absaspan id=3>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>ber</w>
+    <w>om</w>
+    <w>ursäkt</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>att</w>
+    <w>jag</w>
+    <w>missat</w>
+    <w>den</w>
+    <w>tråden</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=2>
+  <w>Har</w>
+  <w>du</w>
+  <absaspan id=6 senti=2>
+    <w>blivit</w>
+    <w>utsatt</w>
+  </absaspan>
+  <w>eller</w>
+  <w>sett</w>
+  <absaspan id=7 senti=2>
+    <w>omvänd</w>
+    <w>rasism</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>!</w>
+  </absaspan>
+  <w>Då</w>
+  <w>snackar</w>
+  <absaspan id=9>
+    <w>jag</w>
+  </absaspan>
+  <w>alltså</w>
+  <w>om</w>
+  <absaspan id=10>
+    <w>invandrare</w>
+    <w>som</w>
+  </absaspan>
+  <absaspan id=11 senti=1>
+    <w>diskriminerar</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>Svensken</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=13>
+    <w>Jag</w>
+  </absaspan>
+  <w>har</w>
+  <w>själv</w>
+  <absaspan id=14 senti=2>
+    <w>blivit</w>
+    <w>drabbad</w>
+    <w>av</w>
+    <w>omvänd</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>av</w>
+  <absaspan id=15>
+    <w>både</w>
+    <w>svenskar</w>
+    <w>och</w>
+    <w>invandrare</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>var</w>
+  <w>då</w>
+  <absaspan id=16 senti=1>
+    <w>svennejävel</w>
+    <w>,</w>
+    <w>jävla</w>
+    <w>rasist</w>
+  </absaspan>
+  <w>etc</w>
+  <absaspan id=17>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=18 senti=1>
+    <w>Jävla</w>
+    <w>rasist</w>
+  </absaspan>
+  <w>var</w>
+  <w>med</w>
+  <w>anledning</w>
+  <w>att</w>
+  <w>folk</w>
+  <w>i</w>
+  <w>min</w>
+  <w>omgivning</w>
+  <w>fick</w>
+  <w>reda</w>
+  <w>på</w>
+  <w>att</w>
+  <absaspan id=19>
+    <w>jag</w>
+  </absaspan>
+  <w>var</w>
+  <absaspan id=20 senti=2>
+    <w>kritisk</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>svenska</w>
+    <w>invandringen</w>
+  </absaspan>
+  <w>,</w>
+  <w>och</w>
+  <absaspan id=22 senti=2>
+    <w>"</w>
+    <w>dumma</w>
+    <w>svensken</w>
+    <w>"</w>
+  </absaspan>
+  <w>förstod</w>
+  <w>aldrig</w>
+  <w>vad</w>
+  <w>jag</w>
+  <w>menade</w>
+  <w>när</w>
+  <w>jag</w>
+  <w>förklarade</w>
+  <w>mig</w>
+  <absaspan id=23>
+    <w>.</w>
+  </absaspan>
+  <w>Jag</w>
+  <w>har</w>
+  <w>också</w>
+  <w>bevittnat</w>
+  <absaspan id=24 senti=2>
+    <w>omvänd</w>
+    <w>rasism</w>
+  </absaspan>
+  <w>,</w>
+  <w>där</w>
+  <absaspan id=25>
+    <w>invandrare</w>
+  </absaspan>
+  <absaspan id=26 senti=1>
+    <w>diskriminerar</w>
+  </absaspan>
+  <absaspan id=27 senti=1>
+    <w>och</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>då</w>
+  </absaspan>
+  <absaspan id=29 senti=1>
+    <w>kastar</w>
+    <w>slagord</w>
+  </absaspan>
+  <absaspan id=30 senti=1>
+    <w>och</w>
+    <w>blickar</w>
+  </absaspan>
+  <absaspan id=31>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=32>
+    <w>funktionshindrade</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>det</w>
+  <w>sker</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Vad</w>
+  <w>har</w>
+  <w>ni</w>
+  <w>för</w>
+  <w>historier</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,66 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Skottlossning</w>
+  <w>vid</w>
+  <w>Notre</w>
+  <w>Dame</w>
+  <w>i</w>
+  <w>Paris</w>
+  <w>6</w>
+  <w>/</w>
+  <w>6</w>
+  <w>-</w>
+  <w>17</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Är</w>
+  <w>det</w>
+  <w>terrorism</w>
+  <w>igen</w>
+  <w>då</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>.</w>
+  <w>"</w>
+  <w>Skottlossning</w>
+  <w>har</w>
+  <w>brutit</w>
+  <w>ut</w>
+  <w>vid</w>
+  <w>katedralen</w>
+  <w>Notre</w>
+  <w>Dame</w>
+  <w>i</w>
+  <w>centrala</w>
+  <w>Paris</w>
+  <w>,</w>
+  <w>uppger</w>
+  <w>BBC</w>
+  <w>.</w>
+  <absaspan id=1>
+    <w>Katedralen</w>
+  </absaspan>
+  <w>är</w>
+  <absaspan id=2 senti=5>
+    <w>ett</w>
+    <w>populärt</w>
+    <w>turistmål</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>.</w>
+  </absaspan>
+  <w>Polisen</w>
+  <w>uppmanar</w>
+  <w>allmänheten</w>
+  <w>att</w>
+  <w>hålla</w>
+  <w>sig</w>
+  <w>borta</w>
+  <w>.</w>
+  <w>"</w>
+  <w>.</w>
+</absapar>
+</absadoc>

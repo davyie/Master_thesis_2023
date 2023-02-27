@@ -1,0 +1,90 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Reinfeldt</w>
+  <w>använder</w>
+  <w>invandringen</w>
+  <w>till</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>makten</w>
+  <w>eller</w>
+  <w>finns</w>
+  <w>moraliska</w>
+  <w>skäl</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Jag</w>
+  <w>anser</w>
+  <w>att</w>
+  <w>Reinfeldt</w>
+  <w>använder</w>
+  <absaspan id=1 senti=2>
+    <w>hög</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>invandring</w>
+  </absaspan>
+  <w>till</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>makten</w>
+  <w>i</w>
+  <w>ett</w>
+  <w>framtida</w>
+  <absaspan id=3 senti=2>
+    <w>fattigare</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>Sverige</w>
+  </absaspan>
+  <w>.</w>
+  <w>Tror</w>
+  <w>ni</w>
+  <absaspan id=5>
+    <w>Reinfeldt</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>överhuvudtaget</w>
+  </absaspan>
+  <w>har</w>
+  <w>några</w>
+  <w>moraliska</w>
+  <w>skäl</w>
+  <w>till</w>
+  <w>att</w>
+  <w>ta</w>
+  <w>emot</w>
+  <w>invandrare</w>
+  <w>?</w>
+  <w>Jag</w>
+  <w>tänker</w>
+  <w>på</w>
+  <absaspan id=7 senti=4>
+    <w>humanitära</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>skäl</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <absaspan id=9>
+    <w>att</w>
+    <w>hjälpa</w>
+    <w>människor</w>
+    <w>på</w>
+    <w>flykt</w>
+    <w>,</w>
+    <w>att</w>
+    <w>ge</w>
+    <w>människor</w>
+    <w>i</w>
+    <w>världen</w>
+    <w>en</w>
+    <w>bättre</w>
+    <w>framtid</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

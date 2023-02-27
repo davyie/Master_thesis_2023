@@ -1,0 +1,34 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Migrationsverket</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=1>
+    <w>varnas</w>
+    <w>för</w>
+    <w>Ohörsamhet</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Användaren</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=4 senti=2>
+    <w>varnas</w>
+    <w>för</w>
+    <w>Ohörsamhet</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Avstängd</w>
+  <w>i</w>
+  <w>en</w>
+  <w>månad</w>
+  <w>.</w>
+</absapar>
+</absadoc>

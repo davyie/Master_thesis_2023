@@ -1,0 +1,133 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>DI</w>
+  </absaspan>
+  <w>:</w>
+  <w>Sverige</w>
+  <absaspan id=2 senti=5 source=1>
+    <w>är</w>
+    <w>i</w>
+    <w>akut</w>
+    <w>behov</w>
+    <w>av</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>en</w>
+    <w>integrationspolitisk</w>
+    <w>offensiv</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>I</w>
+  <absaspan id=4>
+    <w>en</w>
+    <w>ledare</w>
+    <w>i</w>
+    <w>Dagens</w>
+    <w>Industri</w>
+  </absaspan>
+  <w>erkänner</w>
+  <w>man</w>
+  <w>nu</w>
+  <w>att</w>
+  <absaspan id=5>
+    <w>invandringen</w>
+  </absaspan>
+  <absaspan id=6 senti=2>
+    <w>är</w>
+    <w>förödande</w>
+  </absaspan>
+  <w>för</w>
+  <w>det</w>
+  <w>svenska</w>
+  <w>samhället</w>
+  <w>.</w>
+  <absaspan id=7>
+    <w>Invandringen</w>
+  </absaspan>
+  <w>leder</w>
+  <w>till</w>
+  <w>att</w>
+  <w>arbetslösheten</w>
+  <w>ökar</w>
+  <w>,</w>
+  <w>att</w>
+  <w>skolresultaten</w>
+  <w>sjunker</w>
+  <w>samt</w>
+  <w>att</w>
+  <w>allt</w>
+  <w>reformutrymme</w>
+  <w>till</w>
+  <w>välfärden</w>
+  <absaspan id=8 senti=2>
+    <w>äts</w>
+    <w>upp</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>anser</w>
+  <w>du</w>
+  <w>om</w>
+  <w>svenska</w>
+  <w>politikers</w>
+  <w>prioriteringar</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=9>
+    <w>PM</w>
+    <w>Nilsson</w>
+  </absaspan>
+  <absaspan id=10 senti=4>
+    <w>vill</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>införa</w>
+    <w>skola</w>
+    <w>i</w>
+    <w>Sverige</w>
+    <w>på</w>
+    <w>arabiska</w>
+    <w>och</w>
+    <w>somaliska</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vad</w>
+  <w>anser</w>
+  <w>du</w>
+  <w>om</w>
+  <w>det</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=2>
+  <w>Varför</w>
+  <w>nämns</w>
+  <w>inget</w>
+  <w>om</w>
+  <w>att</w>
+  <absaspan id=12 senti=2>
+    <w>stoppa</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>invandringen</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <w>inte</w>
+  <absaspan id=14 senti=2>
+    <w>skapa</w>
+    <w>ännu</w>
+    <w>större</w>
+    <w>problem</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

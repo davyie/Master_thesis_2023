@@ -1,0 +1,57 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <absaspan id=1>
+    <w>Avpixlat</w>
+  </absaspan>
+  <absaspan id=2 senti=4 source=1 target=3>
+    <w>vill</w>
+    <w>se</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>ökad</w>
+    <w>massinvandring</w>
+  </absaspan>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=4 senti=2 source=1>
+    <w>stoppa</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>islamiseringen</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Vad</w>
+  <w>tycker</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>förslaget</w>
+  <w>från</w>
+  <w>SD-anknutna</w>
+  <w>Avpixlat</w>
+  <w>?</w>
+  <w>Vore</w>
+  <w>det</w>
+  <w>bra</w>
+  <w>att</w>
+  <w>massöka</w>
+  <w>invandringen</w>
+  <w>från</w>
+  <w>Argentina</w>
+  <w>,</w>
+  <w>Japan</w>
+  <w>och</w>
+  <w>Polen</w>
+  <w>för</w>
+  <w>att</w>
+  <absaspan id=6 senti=2>
+    <w>stoppa</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>islamiseringen</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

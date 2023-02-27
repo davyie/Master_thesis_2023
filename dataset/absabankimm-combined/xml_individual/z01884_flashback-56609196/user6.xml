@@ -1,0 +1,84 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Om</w>
+  <w>fenomenet</w>
+  <w>masskjutningar</w>
+  <w>i</w>
+  <w>USA</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Dom</w>
+  <w>droppar</w>
+  <w>ju</w>
+  <w>in</w>
+  <w>hela</w>
+  <w>tiden</w>
+  <w>i</w>
+  <w>USA</w>
+  <absaspan id=1 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Att</w>
+  <w>det</w>
+  <w>till</w>
+  <w>största</w>
+  <w>delen</w>
+  <w>beror</w>
+  <w>på</w>
+  <w>deras</w>
+  <w>Liberala</w>
+  <w>Vapenlagar</w>
+  <w>är</w>
+  <w>väll</w>
+  <w>svårt</w>
+  <w>att</w>
+  <w>förneka</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Hur</w>
+  <w>många</w>
+  <w>liknande</w>
+  <w>händer</w>
+  <w>i</w>
+  <w>Europa</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Hur</w>
+  <w>tänker</w>
+  <w>egentligen</w>
+  <absaspan id=2 senti=4>
+    <w>normal</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>Amerikanen</w>
+  </absaspan>
+  <w>?</w>
+  <w>Nä</w>
+  <w>mer</w>
+  <w>vapen</w>
+  <w>Lärare</w>
+  <w>beväpnade</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>.</w>
+  <w>så</w>
+  <w>löser</w>
+  <w>det</w>
+  <w>sej</w>
+  <w>!</w>
+  <w>!</w>
+  <w>!</w>
+  <absaspan id=4 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+</absadoc>

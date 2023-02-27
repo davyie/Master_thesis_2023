@@ -1,0 +1,167 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Jimmie</w>
+    <w>Åkesson</w>
+  </absaspan>
+  <absaspan id=2 senti=2 target=3 source=1>
+    <w>lägger</w>
+    <w>misstroendeförklaring</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>Stefan</w>
+    <w>Löfven</w>
+  </absaspan>
+  <w>imorgon</w>
+  <w>onsdag</w>
+  <w>!</w>
+</absatitle>
+<absapar id=1>
+  <w>Vid</w>
+  <w>riksmötets</w>
+  <w>högtidliga</w>
+  <w>öppnande</w>
+  <w>idag</w>
+  <w>uppger</w>
+  <w>Sverigedemokraternas</w>
+  <w>partiledare</w>
+  <absaspan id=4>
+    <w>Jimmie</w>
+    <w>Åkesson</w>
+  </absaspan>
+  <w>att</w>
+  <w>han</w>
+  <w>imorgon</w>
+  <w>onsdag</w>
+  <w>13</w>
+  <w>september</w>
+  <absaspan id=5 senti=4>
+    <w>komma</w>
+    <w>kräva</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>Stefan</w>
+    <w>Löfvens</w>
+    <w>och</w>
+    <w>regeringen</w>
+    <w>avgång</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=7 senti=2>
+    <w>lägga</w>
+    <w>en</w>
+    <w>misstroendeförklaring</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>statsminister</w>
+    <w>Stefan</w>
+    <w>Löfven</w>
+  </absaspan>
+  <w>.</w>
+  <w>Baserat</w>
+  <w>på</w>
+  <w>ett</w>
+  <absaspan id=9 senti=2>
+    <w>allmänt</w>
+    <w>missnöje</w>
+    <w>och</w>
+    <w>misstroende</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=10>
+    <w>statsministern</w>
+    <w>och</w>
+    <w>regeringen</w>
+  </absaspan>
+  <w>och</w>
+  <w>efter</w>
+  <w>sommarens</w>
+  <w>stora</w>
+  <w>skandal</w>
+  <w>på</w>
+  <w>Transportstyrelsen</w>
+  <w>som</w>
+  <w>Stefan</w>
+  <w>Löfven</w>
+  <w>är</w>
+  <w>högst</w>
+  <w>ansvarig</w>
+  <w>för</w>
+  <absaspan id=11>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>Jimmie</w>
+    <w>Åkesson</w>
+    <w>och</w>
+    <w>Sverigedemokraterna</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>förväntar</w>
+    <w>sig</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>att</w>
+    <w>alla</w>
+    <w>oppositionspartier</w>
+    <w>som</w>
+    <w>vill</w>
+    <w>vara</w>
+    <w>värda</w>
+    <w>namnet</w>
+    <w>ställer</w>
+    <w>sig</w>
+    <w>bakom</w>
+    <w>misstroendeförklaringen</w>
+  </absaspan>
+  <w>och</w>
+  <w>därmed</w>
+  <w>fäller</w>
+  <w>regeringen</w>
+  <w>ett</w>
+  <w>år</w>
+  <w>före</w>
+  <w>valet</w>
+  <w>2018</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Bild</w>
+  <w>där</w>
+  <w>Jimmie</w>
+  <w>Åkesson</w>
+  <w>poserar</w>
+  <w>lite</w>
+  <w>högre</w>
+  <w>stående</w>
+  <w>än</w>
+  <w>övriga</w>
+  <w>oppositionspartiledare</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>.</w>
+  <w>:</w>
+  <w>Jag</w>
+  <absaspan id=15 senti=2>
+    <w>räknar</w>
+    <w>absolut</w>
+    <w>inte</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>Centerpartiet</w>
+    <w>eller</w>
+    <w>Liberalerna</w>
+  </absaspan>
+  <w>,</w>
+  <w>säger</w>
+  <absaspan id=17>
+    <w>Åkesson</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+</absadoc>

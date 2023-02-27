@@ -1,0 +1,303 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Därför</w>
+  <absaspan id=1 senti=4 target=1 partof=3>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>rasism</w>
+  </absaspan>
+  <absaspan id=3 senti=4 target=1>
+    <w>bra</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>för</w>
+    <w>våran</w>
+    <w>överlevnad</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>SKIT</w>
+  <w>I</w>
+  <w>ORDET</w>
+  <w>RAS</w>
+  <w>SOM</w>
+  <w>NI</w>
+  <w>ÄR</w>
+  <w>SÅ</w>
+  <w>RÄDDA</w>
+  <w>FÖR</w>
+  <w>OCH</w>
+  <w>SE</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Alla</w>
+  <w>djur</w>
+  <w>är</w>
+  <w>rasistiska</w>
+  <w>,</w>
+  <w>dom</w>
+  <w>gör</w>
+  <w>bara</w>
+  <w>barn</w>
+  <w>med</w>
+  <w>sin</w>
+  <w>egen</w>
+  <w>ras</w>
+  <w>,</w>
+  <w>vissa</w>
+  <w>djur</w>
+  <w>knullar</w>
+  <w>annat</w>
+  <w>om</w>
+  <w>det</w>
+  <w>finns</w>
+  <w>brist</w>
+  <w>på</w>
+  <w>den</w>
+  <w>egna</w>
+  <w>rasen</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Har</w>
+  <w>du</w>
+  <w>någonsin</w>
+  <w>sett</w>
+  <w>en</w>
+  <w>mygga</w>
+  <w>försöka</w>
+  <w>knulla</w>
+  <w>en</w>
+  <w>blåval</w>
+  <w>?</w>
+  <w>Inte</w>
+  <w>jag</w>
+  <w>heller</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Varför</w>
+  <w>står</w>
+  <w>djur</w>
+  <w>ifrån</w>
+  <w>samma</w>
+  <w>ras</w>
+  <w>i</w>
+  <w>flock</w>
+  <w>i</w>
+  <w>naturen</w>
+  <w>?</w>
+  <w>Till</w>
+  <w>och</w>
+  <w>med</w>
+  <w>myggor</w>
+  <w>fattar</w>
+  <w>att</w>
+  <w>dom</w>
+  <w>svärmar</w>
+  <w>med</w>
+  <w>sina</w>
+  <w>myggvänner</w>
+  <w>ifrån</w>
+  <w>samma</w>
+  <w>ras</w>
+  <w>.</w>
+  <w>Varför</w>
+  <absaspan id=5 senti=4>
+    <w>tenderar</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>alla</w>
+    <w>människor</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>söka</w>
+    <w>sig</w>
+    <w>till</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>sin</w>
+    <w>egen</w>
+    <w>ras</w>
+  </absaspan>
+  <w>om</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>finns</w>
+  <w>brist</w>
+  <w>på</w>
+  <w>vänner</w>
+  <w>eller</w>
+  <w>partners</w>
+  <w>av</w>
+  <w>samma</w>
+  <w>ras</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Pingviner</w>
+  <w>står</w>
+  <w>i</w>
+  <w>flock</w>
+  <w>,</w>
+  <w>ifall</w>
+  <w>det</w>
+  <w>föds</w>
+  <w>ett</w>
+  <w>djur</w>
+  <w>som</w>
+  <w>ser</w>
+  <w>annorlunda</w>
+  <w>ut</w>
+  <w>brukar</w>
+  <w>det</w>
+  <w>bli</w>
+  <w>undanfyst</w>
+  <w>i</w>
+  <w>djurriket</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <absaspan id=10>
+    <w>"</w>
+    <w>Rasistiska</w>
+    <w>"</w>
+    <w>djur</w>
+  </absaspan>
+  <absaspan id=11 senti=4>
+    <w>har</w>
+    <w>underlättat</w>
+    <w>deras</w>
+    <w>överlevnad</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=12>
+    <w>När</w>
+    <w>dom</w>
+    <w>är</w>
+    <w>i</w>
+    <w>flock</w>
+  </absaspan>
+  <absaspan id=13 senti=4>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=14>
+    <w>dom</w>
+  </absaspan>
+  <absaspan id=15 senti=4>
+    <w>säkrare</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>mot</w>
+    <w>dom</w>
+    <w>andra</w>
+    <w>raserna</w>
+  </absaspan>
+  <absaspan id=17>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=7>
+  <w>Rasism</w>
+  <w>är</w>
+  <w>så</w>
+  <w>jorden</w>
+  <w>fungerar</w>
+  <w>,</w>
+  <w>alla</w>
+  <w>föds</w>
+  <w>rasister</w>
+  <w>det</w>
+  <w>är</w>
+  <w>ingenting</w>
+  <w>vi</w>
+  <w>kan</w>
+  <w>tvätta</w>
+  <w>bort</w>
+  <w>med</w>
+  <absaspan id=18 senti=2>
+    <w>trams</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=20>
+    <w>rasism</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>skulle</w>
+    <w>vara</w>
+    <w>negativt</w>
+  </absaspan>
+  <absaspan id=22>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=8>
+  <w>Kan</w>
+  <w>ni</w>
+  <w>ge</w>
+  <w>mer</w>
+  <w>exempel</w>
+  <w>på</w>
+  <w>varför</w>
+  <absaspan id=23>
+    <w>rasism</w>
+  </absaspan>
+  <absaspan id=24 senti=4>
+    <w>är</w>
+    <w>positivt</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Mitt</w>
+  <w>argument</w>
+  <w>:</w>
+  <w>(</w>
+  <absaspan id=25>
+    <w>Rasism</w>
+  </absaspan>
+  <absaspan id=26 senti=4>
+    <w>underlättar</w>
+    <w>överlevnad</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>av</w>
+    <w>en</w>
+    <w>ras</w>
+  </absaspan>
+  <w>)</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <absaspan id=28>
+    <w>Tar</w>
+    <w>man</w>
+    <w>bort</w>
+    <w>rasism</w>
+  </absaspan>
+  <absaspan id=29 senti=2>
+    <w>överlever</w>
+    <w>inte</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>en</w>
+    <w>ras</w>
+  </absaspan>
+  <w>.</w>
+  <w>Så</w>
+  <w>är</w>
+  <w>det</w>
+  <w>.</w>
+</absapar>
+</absadoc>

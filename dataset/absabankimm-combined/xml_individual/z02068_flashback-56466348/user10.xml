@@ -1,0 +1,101 @@
+<absadoc annotators=1 senti=3>
+<absatitle>
+  <w>Kvinna</w>
+  <w>lämnade</w>
+  <w>bebis</w>
+  <w>på</w>
+  <w>Migrationsverket</w>
+  <w>med</w>
+  <w>en</w>
+  <w>lapp-ta</w>
+  <w>hand</w>
+  <w>om</w>
+  <w>mig</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>En</w>
+  <w>kvinna</w>
+  <w>överlämnade</w>
+  <w>i</w>
+  <w>dag</w>
+  <w>en</w>
+  <w>bebis</w>
+  <w>till</w>
+  <w>en</w>
+  <w>vakt</w>
+  <w>på</w>
+  <w>MV</w>
+  <w>i</w>
+  <w>Norrköping</w>
+  <w>med</w>
+  <w>ursäkten</w>
+  <w>att</w>
+  <w>gå</w>
+  <w>på</w>
+  <w>toaletten</w>
+  <w>.</w>
+  <w>Men</w>
+  <w>hon</w>
+  <w>kom</w>
+  <w>inte</w>
+  <w>tillbaka</w>
+  <w>så</w>
+  <absaspan id=1>
+    <w>vakten</w>
+  </absaspan>
+  <w>blev</w>
+  <absaspan id=2 senti=3>
+    <w>misstänktsam</w>
+  </absaspan>
+  <w>.</w>
+  <w>Han</w>
+  <w>hittade</w>
+  <w>då</w>
+  <w>en</w>
+  <w>lapp</w>
+  <w>där</w>
+  <w>det</w>
+  <w>stod</w>
+  <w>på</w>
+  <w>franska</w>
+  <w>"</w>
+  <w>ta</w>
+  <w>hand</w>
+  <w>om</w>
+  <w>mig</w>
+  <w>och</w>
+  <w>mina</w>
+  <w>syskon</w>
+  <w>"</w>
+  <w>.</w>
+  <w>Låter</w>
+  <w>både</w>
+  <absaspan id=3 senti=1>
+    <w>tragiskt</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=4 senti=1>
+    <w>ren</w>
+    <w>desperation</w>
+  </absaspan>
+  <w>men</w>
+  <w>var</w>
+  <w>finns</w>
+  <w>barnets</w>
+  <w>syskon</w>
+  <w>?</w>
+  <w>Hur</w>
+  <w>ska</w>
+  <w>MV</w>
+  <w>agera</w>
+  <w>om</w>
+  <w>inte</w>
+  <w>föräldern</w>
+  <w>går</w>
+  <w>att</w>
+  <w>spåra</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,220 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>PK-folket</w>
+  <w>faller</w>
+  <w>nu</w>
+  <w>en</w>
+  <w>efter</w>
+  <w>en</w>
+  <w>,</w>
+  <w>efter</w>
+  <w>folkliga</w>
+  <w>protester</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ser</w>
+  <w>ni</w>
+  <w>det</w>
+  <w>jag</w>
+  <w>ser</w>
+  <w>?</w>
+  <w>Det</w>
+  <w>tycks</w>
+  <w>som</w>
+  <w>det</w>
+  <w>blir</w>
+  <w>svårare</w>
+  <w>och</w>
+  <w>svårare</w>
+  <w>för</w>
+  <w>PK-folket</w>
+  <w>att</w>
+  <w>få</w>
+  <w>jobb</w>
+  <w>utanför</w>
+  <w>den</w>
+  <w>egna</w>
+  <w>bubblan</w>
+  <w>.</w>
+  <absaspan id=1 senti=2>
+    <w>Kakan</w>
+    <w>Hermansson</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>blev</w>
+    <w>just</w>
+    <w>nekad</w>
+    <w>ett</w>
+    <w>uppdrag</w>
+  </absaspan>
+  <w>på</w>
+  <absaspan id=3>
+    <w>Audi</w>
+  </absaspan>
+  <w>efter</w>
+  <w>protester</w>
+  <w>och</w>
+  <w>detta</w>
+  <w>är</w>
+  <w>i</w>
+  <w>vart</w>
+  <w>fall</w>
+  <w>andra</w>
+  <w>gången</w>
+  <w>hon</w>
+  <w>går</w>
+  <w>på</w>
+  <w>pumpen</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <absaspan id=4>
+    <w>Folk</w>
+  </absaspan>
+  <absaspan id=5 senti=2>
+    <w>protesterar</w>
+    <w>mot</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>frälsningsarmen</w>
+    <w>som</w>
+    <w>inte</w>
+    <w>hade</w>
+    <w>styrkan</w>
+    <w>eller</w>
+    <w>kuraget</w>
+    <w>att</w>
+    <w>agera</w>
+    <w>handfast</w>
+    <w>mot</w>
+    <w>en</w>
+    <w>våldtäktsman</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Veronica</w>
+  <w>Palm</w>
+  <w>fick</w>
+  <w>inte</w>
+  <w>jobbet</w>
+  <w>på</w>
+  <w>Rädda</w>
+  <w>barnen</w>
+  <w>efter</w>
+  <w>protester</w>
+  <w>även</w>
+  <w>om</w>
+  <w>den</w>
+  <w>officiella</w>
+  <w>versionen</w>
+  <w>var</w>
+  <w>en</w>
+  <w>annan</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Gissar</w>
+  <w>att</w>
+  <w>det</w>
+  <w>kommer</w>
+  <w>bli</w>
+  <w>svårare</w>
+  <w>för</w>
+  <w>personer</w>
+  <w>som</w>
+  <w>Schyffert</w>
+  <w>,</w>
+  <w>Betner</w>
+  <w>etc</w>
+  <w>att</w>
+  <w>locka</w>
+  <w>folk</w>
+  <w>.</w>
+  <w>Jag</w>
+  <absaspan id=7 senti=2>
+    <w>vet</w>
+    <w>att</w>
+    <w>det</w>
+    <w>är</w>
+    <w>fel</w>
+  </absaspan>
+  <absaspan id=8>
+    <w>att</w>
+    <w>vara</w>
+    <w>skadeglad</w>
+  </absaspan>
+  <w>men</w>
+  <w>samtidigt</w>
+  <w>kan</w>
+  <w>jag</w>
+  <w>tycka</w>
+  <w>att</w>
+  <absaspan id=9>
+    <w>skit</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>ska</w>
+    <w>skit</w>
+    <w>ha</w>
+  </absaspan>
+  <w>,</w>
+  <w>speciellt</w>
+  <w>i</w>
+  <w>fallet</w>
+  <w>med</w>
+  <absaspan id=11>
+    <w>Frälsningsarmen</w>
+  </absaspan>
+  <w>där</w>
+  <absaspan id=12 senti=2>
+    <w>PK-syndromet</w>
+    <w>inte</w>
+    <w>stannade</w>
+    <w>vid</w>
+    <w>ord</w>
+    <w>utan</w>
+    <w>övergick</w>
+    <w>i</w>
+    <w>handling</w>
+  </absaspan>
+  <w>,</w>
+  <w>eller</w>
+  <w>snarare</w>
+  <w>brist</w>
+  <w>på</w>
+  <w>,</w>
+  <w>men</w>
+  <w>ja</w>
+  <w>ni</w>
+  <w>fattar</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Folket</w>
+  <w>är</w>
+  <w>makten</w>
+  <w>och</w>
+  <w>makten</w>
+  <w>är</w>
+  <w>folket</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Hur</w>
+  <w>ser</w>
+  <w>ni</w>
+  <w>själva</w>
+  <w>på</w>
+  <w>detta</w>
+  <w>?</w>
+  <w>Vilka</w>
+  <w>fler</w>
+  <w>exempel</w>
+  <w>finns</w>
+  <w>det</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

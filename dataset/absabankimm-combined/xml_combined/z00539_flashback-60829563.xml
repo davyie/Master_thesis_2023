@@ -1,0 +1,53 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Läkare</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>bekymrade-villfarelse</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=3>
+    <w>Sverige</w>
+    <w>kan</w>
+    <w>erbjuda</w>
+    <w>alla</w>
+    <w>i</w>
+    <w>världen</w>
+    <w>obegränsad</w>
+    <w>vård</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=2>
+  <w>Är</w>
+  <w>det</w>
+  <w>möjligt</w>
+  <w>att</w>
+  <absaspan id=4 senti=2>
+    <w>vägra</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>välfärdsmigranterna</w>
+  </absaspan>
+  <w>på</w>
+  <w>sjukhustrappan</w>
+  <absaspan id=6 senti=2>
+    <w>vård</w>
+  </absaspan>
+  <w>eller</w>
+  <w>hur</w>
+  <w>löser</w>
+  <w>man</w>
+  <w>det</w>
+  <w>här</w>
+  <w>med</w>
+  <w>att</w>
+  <w>knyta</w>
+  <w>vård</w>
+  <w>till</w>
+  <w>medborgarskapet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

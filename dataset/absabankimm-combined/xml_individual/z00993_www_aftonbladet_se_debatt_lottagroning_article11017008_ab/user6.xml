@@ -1,0 +1,285 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=4 target=2>
+    <w>Bra</w>
+  </absaspan>
+  <w>med</w>
+  <absaspan id=2>
+    <w>muller</w>
+    <w>mellan</w>
+    <w>direktörer</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <absaspan id=3>
+    <w>Michael</w>
+    <w>Treschow</w>
+    <w>,</w>
+    <w>ordförande</w>
+    <w>för</w>
+    <w>Svenskt</w>
+    <w>Näringsliv</w>
+  </absaspan>
+  <absaspan id=4 senti=2>
+    <w>är</w>
+    <w>tondöv</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>hävdar</w>
+  <w>i</w>
+  <w>alla</w>
+  <w>fall</w>
+  <absaspan id=5>
+    <w>Olof</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>Stenhammar</w>
+    <w>,</w>
+    <w>ordförande</w>
+    <w>i</w>
+    <w>OMX</w>
+    <w>och</w>
+    <w>riskkapitalbolaget</w>
+    <w>Ratos</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=7>
+    <w>Han</w>
+  </absaspan>
+  <absaspan id=8 senti=2>
+    <w>blev</w>
+    <w>störtförbannad</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>över</w>
+    <w>Michael</w>
+    <w>Treschows</w>
+    <w>krav</w>
+    <w>på</w>
+    <w>högre</w>
+    <w>löner</w>
+    <w>för</w>
+    <w>direktörerna</w>
+  </absaspan>
+  <w>.</w>
+  <w>Höjda</w>
+  <w>styrelsearvoden</w>
+  <w>kommer</w>
+  <w>automatiskt</w>
+  <w>att</w>
+  <w>höja</w>
+  <w>fackens</w>
+  <w>lönekrav</w>
+  <w>,</w>
+  <w>hävdar</w>
+  <w>han</w>
+  <absaspan id=10 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Olof</w>
+  <w>Stenhammar</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>ensam</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>ilska</w>
+  <w>.</w>
+  <w>Han</w>
+  <w>får</w>
+  <w>också</w>
+  <w>stöd</w>
+  <w>av</w>
+  <absaspan id=11>
+    <w>förre</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>vd</w>
+    <w>:</w>
+    <w>n</w>
+    <w>för</w>
+    <w>Svenskt</w>
+    <w>Näringsliv</w>
+    <w>Olof</w>
+    <w>Ljunggren</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=13>
+    <w>Han</w>
+  </absaspan>
+  <absaspan id=14 senti=4>
+    <w>är</w>
+    <w>lite</w>
+    <w>klarare</w>
+    <w>i</w>
+    <w>tanken</w>
+  </absaspan>
+  <w>än</w>
+  <w>sin</w>
+  <w>efterträdare</w>
+  <w>.</w>
+  <absaspan id=15>
+    <w>Har</w>
+  </absaspan>
+  <absaspan id=16>
+    <w>man</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>svårt</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>att</w>
+    <w>rekrytera</w>
+    <w>kompetenta</w>
+    <w>styrelseordföranden</w>
+    <w>från</w>
+    <w>andra</w>
+    <w>länder</w>
+    <w>på</w>
+    <w>grund</w>
+    <w>av</w>
+    <w>låga</w>
+    <w>arvoden</w>
+  </absaspan>
+  <absaspan id=19>
+    <w>,</w>
+    <w>då</w>
+  </absaspan>
+  <absaspan id=20 senti=4>
+    <w>bör</w>
+    <w>det</w>
+    <w>räcka</w>
+    <w>med</w>
+  </absaspan>
+  <absaspan id=21>
+    <w>att</w>
+    <w>höja</w>
+    <w>arvodet</w>
+    <w>för</w>
+    <w>den</w>
+    <w>man</w>
+    <w>rekryterar</w>
+  </absaspan>
+  <w>,</w>
+  <w>säger</w>
+  <absaspan id=22>
+    <w>han</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=23>
+    <w>Det</w>
+  </absaspan>
+  <absaspan id=24 senti=4 irony>
+    <w>är</w>
+    <w>ju</w>
+    <w>fiffigt</w>
+    <w>tänkt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=25 senti=4>
+    <w>Uppfriskande</w>
+    <w>är</w>
+  </absaspan>
+  <w>det</w>
+  <w>i</w>
+  <w>alla</w>
+  <w>fall</w>
+  <absaspan id=26>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>direktörerna</w>
+  </absaspan>
+  <absaspan id=28>
+    <w>nu</w>
+    <w>mullrar</w>
+    <w>på</w>
+    <w>varandra</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>en</w>
+  <w>dag</w>
+  <w>försent</w>
+  <absaspan id=29 senti=4>
+    <w>.</w>
+  </absaspan>
+  <absaspan id=30>
+    <w>De</w>
+  </absaspan>
+  <absaspan id=31 senti=2>
+    <w>brukar</w>
+    <w>uppträda</w>
+    <w>som</w>
+    <w>en</w>
+    <w>packe</w>
+    <w>sardiner</w>
+  </absaspan>
+  <w>och</w>
+  <w>i</w>
+  <w>trupp</w>
+  <w>skälla</w>
+  <w>på</w>
+  <w>andra</w>
+  <w>.</w>
+  <w>Nu</w>
+  <absaspan id=32 senti=2>
+    <w>blottas</w>
+  </absaspan>
+  <absaspan id=33>
+    <w>sprickorna</w>
+  </absaspan>
+  <absaspan id=34 senti=4>
+    <w>.</w>
+  </absaspan>
+  <w>Kanske</w>
+  <w>tycker</w>
+  <w>också</w>
+  <w>Ljunggren</w>
+  <w>och</w>
+  <w>Stenhammar</w>
+  <w>att</w>
+  <w>det</w>
+  <absaspan id=35 senti=2>
+    <w>blir</w>
+    <w>oskäligt</w>
+  </absaspan>
+  <absaspan id=36>
+    <w>att</w>
+    <w>svenska</w>
+    <w>direktörer</w>
+    <w>ska</w>
+    <w>få</w>
+    <w>en</w>
+    <w>omotiverad</w>
+    <w>löneförhöjning</w>
+    <w>bara</w>
+    <w>för</w>
+    <w>att</w>
+  </absaspan>
+  <absaspan id=37 senti=4>
+    <w>locka</w>
+    <w>hit</w>
+  </absaspan>
+  <absaspan id=38>
+    <w>internationella</w>
+    <w>toppkrafter</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

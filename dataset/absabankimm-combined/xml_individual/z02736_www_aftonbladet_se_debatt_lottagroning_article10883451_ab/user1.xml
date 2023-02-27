@@ -1,0 +1,287 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1>
+    <w>Ju</w>
+    <w>äldre</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=2 senti=2 target=1>
+    <w>desto</w>
+    <w>värre</w>
+    <w>blir</w>
+    <w>det</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Minns</w>
+  <w>ni</w>
+  <w>valrörelsen</w>
+  <w>?</w>
+  <w>Minns</w>
+  <w>ni</w>
+  <w>hur</w>
+  <w>alla</w>
+  <w>partier</w>
+  <absaspan id=3 senti=4>
+    <w>slogs</w>
+    <w>om</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>att</w>
+    <w>vara</w>
+    <w>bäst</w>
+    <w>,</w>
+    <w>störst</w>
+    <w>och</w>
+    <w>trovärdigast</w>
+    <w>när</w>
+    <w>det</w>
+    <w>gällde</w>
+    <w>äldreomsorgen</w>
+  </absaspan>
+  <w>?</w>
+  <w>Empatin</w>
+  <w>för</w>
+  <w>de</w>
+  <w>gamla</w>
+  <w>hade</w>
+  <w>inga</w>
+  <w>gränser</w>
+  <w>.</w>
+  <absaspan id=5 senti=5>
+    <w>Självklart</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>skulle</w>
+    <w>det</w>
+    <w>satsas</w>
+    <w>miljarder</w>
+    <w>för</w>
+    <w>en</w>
+    <w>trygg</w>
+    <w>ålderdom</w>
+  </absaspan>
+  <absaspan id=7>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=2>
+  <w>Ja</w>
+  <w>,</w>
+  <w>det</w>
+  <w>var</w>
+  <w>då</w>
+  <w>det</w>
+  <w>.</w>
+  <w>Nu</w>
+  <w>har</w>
+  <w>det</w>
+  <w>gått</w>
+  <w>dryga</w>
+  <w>sex</w>
+  <w>månader</w>
+  <w>och</w>
+  <absaspan id=8>
+    <w>alla</w>
+    <w>politiker</w>
+  </absaspan>
+  <absaspan id=9 senti=2>
+    <w>har</w>
+    <w>krupit</w>
+    <w>in</w>
+    <w>i</w>
+    <w>sina</w>
+    <w>skrubbar</w>
+  </absaspan>
+  <w>.</w>
+  <w>Det</w>
+  <w>är</w>
+  <w>tyst</w>
+  <w>som</w>
+  <w>i</w>
+  <w>graven</w>
+  <w>,</w>
+  <w>inte</w>
+  <w>ens</w>
+  <w>Göran</w>
+  <w>Persson</w>
+  <w>mullrar</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Men</w>
+  <w>Socialstyrelsen</w>
+  <w>är</w>
+  <w>alert</w>
+  <w>och</w>
+  <w>kommer</w>
+  <w>med</w>
+  <w>nya</w>
+  <w>larmrapporter</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>de</w>
+  <w>äldres</w>
+  <w>alltmer</w>
+  <w>besvärliga</w>
+  <w>situation</w>
+  <w>.</w>
+  <w>Ju</w>
+  <w>äldre</w>
+  <w>du</w>
+  <w>är</w>
+  <w>,</w>
+  <w>desto</w>
+  <w>värre</w>
+  <w>blir</w>
+  <w>det</w>
+  <w>.</w>
+  <w>På</w>
+  <w>sex</w>
+  <w>år</w>
+  <w>har</w>
+  <w>alla</w>
+  <w>län</w>
+  <w>utom</w>
+  <w>Jämtland</w>
+  <w>minskat</w>
+  <w>på</w>
+  <w>hjälpen</w>
+  <w>till</w>
+  <w>de</w>
+  <w>allra</w>
+  <w>äldsta</w>
+  <w>.</w>
+  <w>I</w>
+  <absaspan id=10>
+    <w>Stockholm</w>
+  </absaspan>
+  <absaspan id=11 senti=2>
+    <w>är</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>besparingarna</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>värst</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=4>
+  <w>Socialstyrelsen</w>
+  <w>befarar</w>
+  <w>nu</w>
+  <w>de</w>
+  <w>äldre</w>
+  <w>patienternas</w>
+  <w>hälsa</w>
+  <w>.</w>
+  <w>Dessutom</w>
+  <w>har</w>
+  <w>trycket</w>
+  <w>på</w>
+  <w>anhöriga</w>
+  <w>ökat</w>
+  <w>betydligt</w>
+  <w>.</w>
+  <absaspan id=15 senti=2>
+    <w>Den</w>
+    <w>omsorg</w>
+    <w>som</w>
+    <w>välfärdssamhället</w>
+    <w>en</w>
+    <w>gång</w>
+    <w>stod</w>
+    <w>för</w>
+    <w>gäller</w>
+    <w>inte</w>
+    <w>längre</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vi</w>
+  <w>betalade</w>
+  <w>skatt</w>
+  <w>och</w>
+  <w>många</w>
+  <w>tror</w>
+  <w>fortfarande</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>betalar</w>
+  <w>skatt</w>
+  <w>för</w>
+  <w>rättvisa</w>
+  <w>och</w>
+  <w>allas</w>
+  <w>lika</w>
+  <w>värde</w>
+  <w>när</w>
+  <w>vi</w>
+  <w>är</w>
+  <w>i</w>
+  <w>behov</w>
+  <w>av</w>
+  <w>samhällets</w>
+  <w>insatser</w>
+  <w>och</w>
+  <w>stöd.Men</w>
+  <w>det</w>
+  <w>är</w>
+  <w>bara</w>
+  <w>kronor</w>
+  <w>och</w>
+  <w>ören</w>
+  <w>som</w>
+  <w>är</w>
+  <w>viktiga</w>
+  <w>.</w>
+  <w>Vad</w>
+  <w>är</w>
+  <w>en</w>
+  <w>människa</w>
+  <w>värd</w>
+  <w>egentligen</w>
+  <w>?</w>
+  <absaspan id=16 senti=2>
+    <w>Kommuner</w>
+    <w>och</w>
+    <w>landsting</w>
+  </absaspan>
+  <w>gör</w>
+  <w>miljardvinster</w>
+  <w>och</w>
+  <w>ändå</w>
+  <w>har</w>
+  <w>de</w>
+  <w>inte</w>
+  <w>råd</w>
+  <w>med</w>
+  <w>en</w>
+  <w>grund-läggande</w>
+  <w>trygghet</w>
+  <absaspan id=17 senti=2>
+    <w>.</w>
+  </absaspan>
+  <w>Jag</w>
+  <w>har</w>
+  <w>bara</w>
+  <w>ett</w>
+  <w>ord</w>
+  <w>.</w>
+  <absaspan id=18 senti=1>
+    <w>Vedervärdigt</w>
+  </absaspan>
+  <w>!</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Lotta</w>
+  <w>Gröning</w>
+  <w>.</w>
+</absapar>
+</absadoc>

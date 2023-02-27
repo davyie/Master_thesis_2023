@@ -1,0 +1,72 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=4 target=2>
+    <w>Bra</w>
+    <w>skrivet</w>
+  </absaspan>
+  <w>från</w>
+  <absaspan id=2>
+    <w>anställd</w>
+    <w>på</w>
+    <w>Migrationsverket</w>
+    <w>[</w>
+    <w>Visselblåsaren</w>
+    <w>"</w>
+    <w>Anna</w>
+    <w>"</w>
+    <w>]</w>
+  </absaspan>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Anställd</w>
+  <w>på</w>
+  <w>migrationsverket</w>
+  <w>bloggar</w>
+  <w>på</w>
+  <w>Öhrlunds</w>
+  <w>bloggsida</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Svårt</w>
+  <w>att</w>
+  <w>tro</w>
+  <w>det</w>
+  <w>är</w>
+  <w>sant</w>
+  <w>det</w>
+  <w>hon</w>
+  <w>skriver</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Tydligen</w>
+  <w>så</w>
+  <w>är</w>
+  <w>det</w>
+  <w>kod</w>
+  <w>291</w>
+  <w>rakt</w>
+  <w>igenom</w>
+  <w>inom</w>
+  <w>migrationsverket</w>
+  <w>,</w>
+  <w>kommer</w>
+  <absaspan id=3>
+    <w>gammelmedia</w>
+  </absaspan>
+  <w>ta</w>
+  <w>upp</w>
+  <w>detta</w>
+  <w>eller</w>
+  <absaspan id=4 senti=2>
+    <w>mörkas</w>
+    <w>det</w>
+    <w>som</w>
+    <w>vanligt</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

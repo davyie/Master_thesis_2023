@@ -1,0 +1,110 @@
+<absadoc annotators=1 senti=2>
+<absatitle>
+  <absaspan id=1>
+    <w>Åsa</w>
+    <w>Lindhagen</w>
+  </absaspan>
+  <w>,</w>
+  <w>MP</w>
+  <w>,</w>
+  <absaspan id=2 senti=1 target=1>
+    <w>ljuger</w>
+  </absaspan>
+  <w>om</w>
+  <w>att</w>
+  <w>servicehus</w>
+  <w>inte</w>
+  <w>stängs</w>
+  <w>till</w>
+  <w>förmån</w>
+  <w>för</w>
+  <w>asylsökande</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>Ytterligare</w>
+  <absaspan id=3 senti=1>
+    <w>hån</w>
+  </absaspan>
+  <w>från</w>
+  <absaspan id=4>
+    <w>Åsa</w>
+    <w>Lindhagen</w>
+  </absaspan>
+  <w>(</w>
+  <w>MP</w>
+  <w>)</w>
+  <w>,</w>
+  <w>socialborgarråd</w>
+  <w>,</w>
+  <w>Stockholms</w>
+  <w>stad</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Vad</w>
+  <w>säger</w>
+  <w>ni</w>
+  <w>om</w>
+  <w>denna</w>
+  <w>artikel</w>
+  <w>av</w>
+  <w>Åsa</w>
+  <w>Lindhagen</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <w>Fakta</w>
+  <w>är</w>
+  <w>att</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=4 senti=3>
+  <w>Servicehus</w>
+  <w>som</w>
+  <w>gjorts</w>
+  <w>om</w>
+  <w>till</w>
+  <w>boende</w>
+  <w>för</w>
+  <w>nyanlända</w>
+  <w>:</w>
+  <w>.</w>
+</absapar>
+<absapar id=5 senti=3>
+  <w>Har</w>
+  <absaspan id=5 senti=1>
+    <w>vänsterextrema</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>Åsa</w>
+    <w>Lindhagen</w>
+  </absaspan>
+  <w>rätt</w>
+  <w>i</w>
+  <w>sin</w>
+  <w>debattartikel</w>
+  <w>,</w>
+  <w>när</w>
+  <absaspan id=7>
+    <w>hon</w>
+  </absaspan>
+  <absaspan id=8 senti=4>
+    <w>påstår</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=9>
+    <w>asylsökande</w>
+    <w>inte</w>
+    <w>ges</w>
+    <w>bostäder</w>
+    <w>från</w>
+    <w>andra</w>
+    <w>grupper</w>
+  </absaspan>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+</absadoc>

@@ -1,0 +1,82 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <absaspan id=1 senti=2 target=2>
+    <w>Extremt</w>
+    <w>hög</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>smäll</w>
+  </absaspan>
+  <w>hördes</w>
+  <w>över</w>
+  <w>hela</w>
+  <w>Malmö</w>
+  <w>(</w>
+  <w>vid</w>
+  <w>polishuset</w>
+  <w>)</w>
+  <w>2018</w>
+  <w>-</w>
+  <w>01</w>
+  <w>-</w>
+  <w>17</w>
+  <w>runt</w>
+  <w>kl</w>
+  <w>21.15</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>En</w>
+  <absaspan id=3 senti=2>
+    <w>extremt</w>
+    <w>hög</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>smäll</w>
+  </absaspan>
+  <w>hördes</w>
+  <w>över</w>
+  <w>flera</w>
+  <w>delar</w>
+  <w>av</w>
+  <w>Malmö</w>
+  <w>Stad</w>
+  <w>.</w>
+  <w>Flera</w>
+  <w>människor</w>
+  <w>kände</w>
+  <w>hur</w>
+  <w>deras</w>
+  <w>hus</w>
+  <w>skakades</w>
+  <w>av</w>
+  <w>smällen</w>
+  <w>.</w>
+  <w>Poliser</w>
+  <w>från</w>
+  <w>Polisstationen</w>
+  <w>vid</w>
+  <w>Rosengård</w>
+  <w>sprang</w>
+  <w>ut</w>
+  <w>och</w>
+  <w>polisstationen</w>
+  <w>är</w>
+  <w>nu</w>
+  <w>avspärrat</w>
+  <w>!</w>
+  <w>Alla</w>
+  <w>poliser</w>
+  <w>gick</w>
+  <w>precis</w>
+  <w>igång</w>
+  <w>.</w>
+  <w>Har</w>
+  <w>mött</w>
+  <w>8</w>
+  <w>med</w>
+  <w>blåljus</w>
+  <w>nu</w>
+  <w>.</w>
+</absapar>
+</absadoc>

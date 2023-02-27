@@ -1,0 +1,141 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Vilka</w>
+  <w>är</w>
+  <w>dom</w>
+  <w>tre</w>
+  <w>främsta</w>
+  <w>bevisen</w>
+  <w>för</w>
+  <w>och</w>
+  <w>emot</w>
+  <w>existensen</w>
+  <w>av</w>
+  <w>förintelsen</w>
+  <w>?</w>
+</absatitle>
+<absapar id=1>
+  <w>Vilka</w>
+  <w>är</w>
+  <w>dom</w>
+  <w>tre</w>
+  <absaspan id=1 senti=3>
+    <w>troligaste</w>
+  </absaspan>
+  <absaspan id=2>
+    <w>förklaringarna</w>
+  </absaspan>
+  <w>till</w>
+  <w>att</w>
+  <w>förintelsen</w>
+  <w>ägt</w>
+  <w>rum</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Likaså</w>
+  <w>vilka</w>
+  <w>är</w>
+  <w>dom</w>
+  <w>tre</w>
+  <absaspan id=3 senti=2>
+    <w>mest</w>
+    <w>diskuterade</w>
+  </absaspan>
+  <absaspan id=4>
+    <w>förklaringar</w>
+  </absaspan>
+  <w>till</w>
+  <w>att</w>
+  <w>förintelsen</w>
+  <w>aldrig</w>
+  <w>ägt</w>
+  <w>rum</w>
+  <w>?</w>
+  <absaspan id=5>
+    <w>.</w>
+  </absaspan>
+</absapar>
+<absapar id=3>
+  <absaspan id=6>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=7 senti=4>
+    <w>tror</w>
+  </absaspan>
+  <w>på</w>
+  <w>att</w>
+  <absaspan id=8>
+    <w>någon</w>
+    <w>slags</w>
+    <w>"</w>
+    <w>förintelse</w>
+    <w>"</w>
+    <w>ägt</w>
+    <w>rum</w>
+  </absaspan>
+  <w>.</w>
+  <w>Med</w>
+  <w>deportationer</w>
+  <w>.</w>
+  <w>Jag</w>
+  <w>tror</w>
+  <w>alltså</w>
+  <w>på</w>
+  <w>att</w>
+  <w>judar</w>
+  <w>deporterats</w>
+  <w>till</w>
+  <w>läger</w>
+  <w>.</w>
+  <w>Där</w>
+  <absaspan id=9 senti=2>
+    <w>diverse</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>otrevligheter</w>
+  </absaspan>
+  <w>hänt</w>
+  <w>.</w>
+  <w>Som</w>
+  <w>straffarbete</w>
+  <w>,</w>
+  <w>medicinska</w>
+  <w>tester</w>
+  <w>.</w>
+  <w>Och</w>
+  <w>krematorier</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Däremot</w>
+  <w>har</w>
+  <absaspan id=11>
+    <w>jag</w>
+  </absaspan>
+  <absaspan id=12 senti=2>
+    <w>aldrig</w>
+    <w>kunna</w>
+    <w>förlika</w>
+    <w>mig</w>
+    <w>vid</w>
+    <w>tanken</w>
+  </absaspan>
+  <w>på</w>
+  <absaspan id=13>
+    <w>miljoner</w>
+    <w>döda</w>
+    <w>judiska</w>
+    <w>straffångar</w>
+    <w>i</w>
+    <w>tyska</w>
+    <w>koncentrationsläger</w>
+    <w>under</w>
+    <w>1940</w>
+  </absaspan>
+  <w>-</w>
+  <w>talet</w>
+  <w>.</w>
+</absapar>
+</absadoc>

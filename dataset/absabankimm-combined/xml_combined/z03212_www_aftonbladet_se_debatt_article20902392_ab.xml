@@ -1,0 +1,375 @@
+<absadoc annotators=1 senti=4>
+<absatitle>
+  <w>Integration</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>möjligt</w>
+  <w>utan</w>
+  <w>konflikt</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1 senti=3>
+  <w>Jag</w>
+  <w>har</w>
+  <w>fram</w>
+  <w>till</w>
+  <w>nyligen</w>
+  <w>tänkt</w>
+  <w>att</w>
+  <w>integration</w>
+  <w>handlar</w>
+  <w>om</w>
+  <w>arbete</w>
+  <w>,</w>
+  <w>att</w>
+  <absaspan id=1>
+    <w>bristen</w>
+    <w>på</w>
+    <w>jobb</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>är</w>
+    <w>vår</w>
+    <w>största</w>
+    <w>utmaning</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>integration</w>
+  <w>är</w>
+  <w>mer</w>
+  <w>än</w>
+  <w>så</w>
+  <w>.</w>
+</absapar>
+<absapar id=2 senti=4>
+  <absaspan id=3 senti=4>
+    <w>Man</w>
+    <w>skulle</w>
+    <w>kunna</w>
+    <w>tänka</w>
+    <w>sig</w>
+  </absaspan>
+  <w>att</w>
+  <w>ett</w>
+  <w>så</w>
+  <w>individualistiskt</w>
+  <w>land</w>
+  <w>som</w>
+  <w>Sverige</w>
+  <w>,</w>
+  <w>där</w>
+  <w>vi</w>
+  <w>har</w>
+  <w>en</w>
+  <w>liberal</w>
+  <w>syn</w>
+  <w>på</w>
+  <w>livsstil</w>
+  <w>,</w>
+  <absaspan id=4>
+    <w>är</w>
+    <w>det</w>
+    <w>enkelt</w>
+    <w>att</w>
+    <w>som</w>
+    <w>invandrare</w>
+    <w>komma</w>
+    <w>in</w>
+    <w>i</w>
+    <w>samhället</w>
+  </absaspan>
+  <absaspan id=5>
+    <w>.</w>
+  </absaspan>
+  <w>Men</w>
+  <w>så</w>
+  <w>är</w>
+  <w>det</w>
+  <w>inte</w>
+  <w>.</w>
+  <w>Snarare</w>
+  <absaspan id=6>
+    <w>har</w>
+    <w>landet</w>
+    <w>gått</w>
+  </absaspan>
+  <w>i</w>
+  <w>motsatt</w>
+  <w>riktning</w>
+  <w>–</w>
+  <absaspan id=7 senti=2>
+    <w>mot</w>
+    <w>segregering</w>
+  </absaspan>
+  <w>.</w>
+  <w>Mot</w>
+  <absaspan id=8 senti=2>
+    <w>radikalisering</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3 senti=4>
+  <absaspan id=9>
+    <w>Jag</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>tror</w>
+    <w>misstaget</w>
+    <w>är</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=11>
+    <w>inte</w>
+    <w>inkludera</w>
+    <w>människor</w>
+    <w>i</w>
+    <w>våra</w>
+    <w>normer</w>
+  </absaspan>
+  <w>.</w>
+  <w>Vår</w>
+  <w>individualistiska</w>
+  <w>norm</w>
+  <w>har</w>
+  <w>blivit</w>
+  <w>så</w>
+  <w>relativistisk</w>
+  <w>att</w>
+  <w>till</w>
+  <w>och</w>
+  <w>med</w>
+  <absaspan id=12 senti=1>
+    <w>intoleranta</w>
+    <w>,</w>
+    <w>reaktionära</w>
+  </absaspan>
+  <absaspan id=13>
+    <w>strukturer</w>
+    <w>och</w>
+    <w>normer</w>
+  </absaspan>
+  <absaspan id=14 senti=4>
+    <w>accepteras</w>
+  </absaspan>
+  <absaspan id=15>
+    <w>.</w>
+  </absaspan>
+  <w>Feminism</w>
+  <w>blir</w>
+  <w>något</w>
+  <w>för</w>
+  <w>en</w>
+  <w>vit</w>
+  <w>,</w>
+  <w>intellektuell</w>
+  <w>elit</w>
+  <w>,</w>
+  <w>HBT-rörelsen</w>
+  <w>blir</w>
+  <w>något</w>
+  <w>för</w>
+  <w>en</w>
+  <w>klick</w>
+  <w>i</w>
+  <w>storstaden</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <absaspan id=16>
+    <w>Individualism</w>
+    <w>,</w>
+    <w>att</w>
+    <w>låta</w>
+    <w>enskilda</w>
+    <w>människor</w>
+    <w>växa</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=17 senti=4>
+    <w>ger</w>
+    <w>samhället</w>
+    <w>styrka</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>samhället</w>
+  <w>har</w>
+  <w>också</w>
+  <absaspan id=18>
+    <w>kollektiva</w>
+    <w>värderingar</w>
+  </absaspan>
+  <w>som</w>
+  <absaspan id=19 senti=4>
+    <w>håller</w>
+    <w>ihop</w>
+    <w>oss</w>
+  </absaspan>
+  <w>.</w>
+  <w>När</w>
+  <w>vi</w>
+  <w>inte</w>
+  <w>längre</w>
+  <w>talar</w>
+  <w>om</w>
+  <w>dessa</w>
+  <w>så</w>
+  <w>kan</w>
+  <w>grupper</w>
+  <w>odla</w>
+  <w>sina</w>
+  <w>egna</w>
+  <w>,</w>
+  <w>i</w>
+  <w>konflikt</w>
+  <w>med</w>
+  <w>samhällets</w>
+  <w>värderingar</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Det</w>
+  <absaspan id=20 senti=2>
+    <w>är</w>
+    <w>ironiskt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=21>
+    <w>jag</w>
+    <w>som</w>
+    <w>representant</w>
+    <w>för</w>
+    <w>Moderaterna</w>
+    <w>skriver</w>
+    <w>detta</w>
+  </absaspan>
+  <w>;</w>
+  <absaspan id=22 senti=4>
+    <w>önskar</w>
+    <w>mer</w>
+  </absaspan>
+  <absaspan id=23>
+    <w>feminism</w>
+    <w>och</w>
+    <w>mer</w>
+    <w>HBT-rörelse</w>
+  </absaspan>
+  <w>,</w>
+  <absaspan id=24 senti=4>
+    <w>önskar</w>
+    <w>fler</w>
+  </absaspan>
+  <absaspan id=25>
+    <w>kollektiva</w>
+    <w>värderingar</w>
+  </absaspan>
+  <w>och</w>
+  <absaspan id=26 senti=4>
+    <w>söker</w>
+    <w>mer</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>folkrörelse</w>
+  </absaspan>
+  <w>.</w>
+  <w>Men</w>
+  <w>det</w>
+  <absaspan id=28 senti=2>
+    <w>är</w>
+    <w>också</w>
+    <w>ironiskt</w>
+  </absaspan>
+  <w>att</w>
+  <absaspan id=29>
+    <w>när</w>
+    <w>en</w>
+    <w>motion</w>
+    <w>behandlades</w>
+    <w>här</w>
+    <w>i</w>
+    <w>Stockholm</w>
+    <w>nyligen</w>
+    <w>om</w>
+    <w>hedersrelaterat</w>
+    <w>våld</w>
+    <w>så</w>
+    <w>var</w>
+    <w>den</w>
+    <w>inte</w>
+    <w>var</w>
+    <w>skriven</w>
+    <w>av</w>
+    <w>F</w>
+  </absaspan>
+  <w>!</w>
+  <w>eller</w>
+  <w>något</w>
+  <w>annat</w>
+  <w>socialistiskt</w>
+  <w>parti</w>
+  <w>,</w>
+  <w>utan</w>
+  <w>av</w>
+  <w>SD</w>
+  <w>.</w>
+</absapar>
+<absapar id=6 senti=4>
+  <w>I</w>
+  <w>ett</w>
+  <w>samhälle</w>
+  <w>där</w>
+  <w>man</w>
+  <w>inte</w>
+  <w>tar</w>
+  <w>konflikter</w>
+  <w>,</w>
+  <w>även</w>
+  <w>om</w>
+  <absaspan id=30>
+    <w>någon</w>
+  </absaspan>
+  <absaspan id=31 senti=2>
+    <w>känner</w>
+    <w>sig</w>
+    <w>utpekad</w>
+    <w>och</w>
+    <w>ifrågasatt</w>
+  </absaspan>
+  <w>,</w>
+  <w>kan</w>
+  <w>ingen</w>
+  <w>integration</w>
+  <w>ske</w>
+  <w>.</w>
+  <absaspan id=32>
+    <w>Konflikten</w>
+  </absaspan>
+  <absaspan id=33 senti=4>
+    <w>är</w>
+    <w>inte</w>
+    <w>slutet</w>
+    <w>utan</w>
+    <w>början</w>
+    <w>på</w>
+    <w>integration</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Tapani</w>
+  <w>Juntunen</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <w>Ledamot</w>
+  <w>(</w>
+  <w>M</w>
+  <w>)</w>
+  <w>i</w>
+  <w>stadsdelsnämnden</w>
+  <w>i</w>
+  <w>Skärholmen</w>
+  <w>.</w>
+</absapar>
+</absadoc>

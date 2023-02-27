@@ -1,0 +1,421 @@
+<absadoc annotators=1 senti=>
+<absatitle>
+  <w>Förintelsen</w>
+  <w>är</w>
+  <w>inte</w>
+  <w>ett</w>
+  <w>politiskt</w>
+  <w>slagträ</w>
+  <w>.</w>
+</absatitle>
+<absapar id=1>
+  <w>REPLIK</w>
+  <w>.</w>
+  <w>Annika</w>
+  <w>Strandhäll</w>
+  <w>försöker</w>
+  <w>använda</w>
+  <w>Förintelsen</w>
+  <w>som</w>
+  <w>politiskt</w>
+  <w>slagträ</w>
+  <w>när</w>
+  <w>hon</w>
+  <w>skriver</w>
+  <w>om</w>
+  <w>samtal</w>
+  <w>mellan</w>
+  <w>M</w>
+  <w>och</w>
+  <w>SD</w>
+  <w>.</w>
+  <w>Enligt</w>
+  <absaspan id=1>
+    <w>mig</w>
+  </absaspan>
+  <absaspan id=2 senti=2>
+    <w>har</w>
+  </absaspan>
+  <absaspan id=3>
+    <w>man</w>
+  </absaspan>
+  <w>då</w>
+  <absaspan id=4 senti=2>
+    <w>gått</w>
+    <w>flera</w>
+    <w>steg</w>
+    <w>för</w>
+    <w>långt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=2>
+  <w>Jag</w>
+  <w>tycker</w>
+  <w>det</w>
+  <absaspan id=5 senti=2>
+    <w>är</w>
+    <w>synd</w>
+  </absaspan>
+  <absaspan id=6>
+    <w>när</w>
+    <w>en</w>
+    <w>minister</w>
+    <w>i</w>
+    <w>Sveriges</w>
+    <w>regering</w>
+    <w>inte</w>
+    <w>tycks</w>
+    <w>förstå</w>
+    <w>hur</w>
+    <w>allvarlig</w>
+    <w>Förintelsen</w>
+    <w>är</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=3>
+  <absaspan id=7>
+    <w>Annika</w>
+    <w>Strandhäll</w>
+  </absaspan>
+  <w>,</w>
+  <w>som</w>
+  <w>är</w>
+  <w>en</w>
+  <w>av</w>
+  <w>de</w>
+  <w>personer</w>
+  <w>som</w>
+  <w>har</w>
+  <absaspan id=8 senti=2>
+    <w>utsatts</w>
+    <w>för</w>
+  </absaspan>
+  <absaspan id=9>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=10 senti=2>
+    <w>försämrade</w>
+  </absaspan>
+  <absaspan id=11>
+    <w>debattklimatet</w>
+  </absaspan>
+  <absaspan id=12>
+    <w>,</w>
+  </absaspan>
+  <absaspan id=13 senti=2>
+    <w>väljer</w>
+    <w>nu</w>
+    <w>också</w>
+    <w>att</w>
+    <w>själv</w>
+    <w>bidra</w>
+    <w>till</w>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=14 senti=2>
+    <w>sämre</w>
+  </absaspan>
+  <absaspan id=15 senti=2>
+    <w>tonläge</w>
+  </absaspan>
+  <w>i</w>
+  <w>det</w>
+  <w>offentliga</w>
+  <w>samtalet</w>
+  <w>.</w>
+</absapar>
+<absapar id=4>
+  <w>Min</w>
+  <w>farmor</w>
+  <w>och</w>
+  <w>farfar</w>
+  <w>överlevde</w>
+  <w>Lodz</w>
+  <w>Ghetto</w>
+  <w>och</w>
+  <w>därmed</w>
+  <w>Förintelsen</w>
+  <w>.</w>
+  <w>De</w>
+  <w>vet</w>
+  <w>hur</w>
+  <w>det</w>
+  <w>var</w>
+  <w>och</w>
+  <w>det</w>
+  <w>är</w>
+  <w>deras</w>
+  <w>berättelser</w>
+  <w>som</w>
+  <w>jag</w>
+  <w>har</w>
+  <w>valt</w>
+  <w>att</w>
+  <w>föra</w>
+  <w>vidare</w>
+  <w>genom</w>
+  <w>föreningen</w>
+  <w>Zikaron</w>
+  <w>som</w>
+  <w>jag</w>
+  <w>är</w>
+  <w>föreläsare</w>
+  <w>för</w>
+  <w>.</w>
+</absapar>
+<absapar id=5>
+  <w>Jag</w>
+  <w>tänker</w>
+  <w>på</w>
+  <w>min</w>
+  <w>farmor</w>
+  <w>och</w>
+  <w>farfar</w>
+  <w>när</w>
+  <w>Annika</w>
+  <w>Strandhäll</w>
+  <w>använder</w>
+  <w>Förintelsen</w>
+  <w>för</w>
+  <w>att</w>
+  <w>prata</w>
+  <w>om</w>
+  <w>att</w>
+  <w>M</w>
+  <w>öppnat</w>
+  <w>för</w>
+  <w>samtal</w>
+  <w>med</w>
+  <w>riksdagspartiet</w>
+  <w>SD</w>
+  <w>.</w>
+  <w>Vad</w>
+  <w>skulle</w>
+  <w>de</w>
+  <w>känna</w>
+  <w>när</w>
+  <absaspan id=16>
+    <w>det</w>
+  </absaspan>
+  <absaspan id=17 senti=2>
+    <w>hemska</w>
+  </absaspan>
+  <absaspan id=18>
+    <w>de</w>
+    <w>har</w>
+    <w>varit</w>
+    <w>med</w>
+    <w>om</w>
+  </absaspan>
+  <w>nu</w>
+  <w>används</w>
+  <w>av</w>
+  <w>Strandhäll</w>
+  <w>på</w>
+  <w>det</w>
+  <w>här</w>
+  <w>sättet</w>
+  <w>?</w>
+  <w>.</w>
+</absapar>
+<absapar id=6>
+  <w>Självklart</w>
+  <w>ska</w>
+  <w>man</w>
+  <w>alltid</w>
+  <w>arbeta</w>
+  <w>för</w>
+  <w>framgångar</w>
+  <w>för</w>
+  <w>ens</w>
+  <w>eget</w>
+  <w>parti</w>
+  <w>,</w>
+  <w>men</w>
+  <w>man</w>
+  <w>ska</w>
+  <w>absolut</w>
+  <w>inte</w>
+  <w>använda</w>
+  <w>Förintelsen</w>
+  <w>för</w>
+  <w>att</w>
+  <w>göra</w>
+  <w>det</w>
+  <w>.</w>
+</absapar>
+<absapar id=7>
+  <w>Moderaterna</w>
+  <w>är</w>
+  <w>ett</w>
+  <w>parti</w>
+  <w>som</w>
+  <w>står</w>
+  <w>för</w>
+  <w>öppenhet</w>
+  <w>och</w>
+  <w>tolerans</w>
+  <w>.</w>
+  <w>Det</w>
+  <w>har</w>
+  <w>vi</w>
+  <w>alltid</w>
+  <w>gjort</w>
+  <w>och</w>
+  <w>det</w>
+  <w>kommer</w>
+  <w>vi</w>
+  <w>alltid</w>
+  <w>att</w>
+  <w>göra</w>
+  <w>.</w>
+  <w>Moderaterna</w>
+  <w>har</w>
+  <w>också</w>
+  <w>gjort</w>
+  <w>tydligt</w>
+  <w>att</w>
+  <w>det</w>
+  <w>är</w>
+  <w>uteslutet</w>
+  <w>att</w>
+  <w>bilda</w>
+  <w>regering</w>
+  <w>eller</w>
+  <w>budgetförhandla</w>
+  <w>med</w>
+  <w>Sverigedemokraterna</w>
+  <w>.</w>
+</absapar>
+<absapar id=8>
+  <absaspan id=19>
+    <w>Annika</w>
+    <w>Strandhäll</w>
+  </absaspan>
+  <w>försöker</w>
+  <w>få</w>
+  <w>det</w>
+  <w>att</w>
+  <w>se</w>
+  <w>ut</w>
+  <w>som</w>
+  <w>att</w>
+  <w>vi</w>
+  <w>i</w>
+  <w>Moderaterna</w>
+  <w>inte</w>
+  <w>behandlar</w>
+  <w>överlevande</w>
+  <w>med</w>
+  <w>respekt</w>
+  <w>och</w>
+  <absaspan id=20 senti=2>
+    <w>försöker</w>
+    <w>vinkla</w>
+    <w>sin</w>
+    <w>text</w>
+    <w>på</w>
+    <w>ett</w>
+  </absaspan>
+  <absaspan id=21 senti=2>
+    <w>väldigt</w>
+    <w>obehagligt</w>
+  </absaspan>
+  <absaspan id=22 senti=2>
+    <w>sätt</w>
+  </absaspan>
+  <w>.</w>
+</absapar>
+<absapar id=9>
+  <w>Det</w>
+  <absaspan id=23 senti=2>
+    <w>kommer</w>
+    <w>aldrig</w>
+    <w>att</w>
+    <w>vara</w>
+    <w>acceptabelt</w>
+  </absaspan>
+  <absaspan id=24>
+    <w>att</w>
+    <w>använda</w>
+    <w>sig</w>
+    <w>av</w>
+    <w>det</w>
+    <w>största</w>
+    <w>folkmordet</w>
+    <w>under</w>
+    <w>modern</w>
+    <w>tid</w>
+    <w>för</w>
+    <w>att</w>
+    <w>vinna</w>
+    <w>väljare</w>
+  </absaspan>
+  <w>.</w>
+  <absaspan id=25>
+    <w>Jag</w>
+  </absaspan>
+  <w>tror</w>
+  <absaspan id=26 senti=4>
+    <w>det</w>
+    <w>bästa</w>
+    <w>hade</w>
+    <w>varit</w>
+  </absaspan>
+  <absaspan id=27>
+    <w>om</w>
+    <w>Annika</w>
+    <w>Strandhäll</w>
+    <w>började</w>
+    <w>läsa</w>
+    <w>på</w>
+    <w>om</w>
+    <w>Förintelsen</w>
+  </absaspan>
+  <w>–</w>
+  <w>så</w>
+  <w>att</w>
+  <w>ministern</w>
+  <w>inte</w>
+  <w>upprepar</w>
+  <w>en</w>
+  <w>sådan</w>
+  <w>text</w>
+  <w>igen</w>
+  <w>.</w>
+</absapar>
+<absapar id=10>
+  <w>Eliot</w>
+  <w>Moskowicz</w>
+  <w>,</w>
+  <w>15</w>
+  <w>,</w>
+  <w>medlem</w>
+  <w>av</w>
+  <w>MUF</w>
+  <w>och</w>
+  <w>föreläsare</w>
+  <w>för</w>
+  <w>föreningen</w>
+  <w>Zikaron</w>
+  <w>.</w>
+  <w>Har</w>
+  <w>judiska</w>
+  <w>farföräldrar</w>
+  <w>.</w>
+</absapar>
+<absapar id=11>
+  <w>Häng</w>
+  <w>med</w>
+  <w>i</w>
+  <w>debatten</w>
+  <w>–</w>
+  <w>följ</w>
+  <w>Debatt</w>
+  <w>på</w>
+  <w>Facebook</w>
+  <w>.</w>
+</absapar>
+</absadoc>
