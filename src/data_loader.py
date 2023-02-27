@@ -31,17 +31,11 @@ class DataLoader:
         self.data.average = map(round,  self.data.average)
 
         def replace_score_with_label(score): # Local method
-            return constants.labels[score]
+            return constants.absa_labels[score]
         # Replace all integers with words. 
         self.data.average = map(replace_score_with_label, self.data.average)
 
         return list(zip(self.data.text, self.data.average))
-    
-    def get_labels(self):
-        '''
-          Return labels
-        '''
-        return self.labels
 
     def load(self, path):
       '''
