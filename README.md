@@ -135,8 +135,8 @@ This dataset contains text from two news sites and one forum. This project will 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To start the project we have to enable the virtual environment for Python3 using venv. 
+Go to the parent folder `./` where we should find a `.env` folder. This folder contains the virtual environment for Python3. We want to enable the enviroment by running the following command `source .env/bin/activate` and to deactivate the enviroment we run `deactivate` in the terminal. 
 
 ### Prerequisites
 
