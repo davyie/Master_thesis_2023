@@ -1,12 +1,12 @@
-from web_anno_tsv import open_web_anno_tsv
+from constants import constants
+
+from data_loader import DataLoader
 
 def main():
-  tsv = '../dataset/absabank_imm/D_annotation.tsv'
+  DL = DataLoader(constants.absa_file_path)
 
-  with open_web_anno_tsv(tsv) as f: 
-    for i, sentence in enumerate(f):
-      print(i, sentence)
-  print("Hello world")
+  data = DL.get_data_with_labels()
+  print(data)
 
 if __name__ == '__main__': 
   main()
