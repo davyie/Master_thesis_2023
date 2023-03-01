@@ -6,3 +6,11 @@ class constants:
   ski_labels = {1: 'image', 2: 'product quality', 3: 'service quality', 4: 'expectation'}
 
   absa_file_path = '../dataset/absabank_imm/P_annotation.tsv'
+
+  # Model names 
+  KBLab_bert = 'KBLab/bert-base-swedish-cased'
+  KBLab_sbert = 'KBLab/sentence-bert-swedish-cased'
+  KBLab_albert = 'KBLab/albert-base-swedish-cased-alpha'
+  AF_bert = 'af-ai-center/bert-base-swedish-uncased'
+  ML_bert = 'bert-base-multilingual-cased'
+  ML_sbert = 'sentence-transformers/distiluse-base-multilingual-cased-v2'
