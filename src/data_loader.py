@@ -35,7 +35,7 @@ class DataLoader:
         # Replace all integers with words. 
         self.data.average = map(replace_score_with_label, self.data.average)
 
-        return list(zip(self.data.text, self.data.average))
+        return self.data.text, list(self.data.average)
 
     def load(self, path):
       '''
