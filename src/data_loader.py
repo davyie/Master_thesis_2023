@@ -1,6 +1,8 @@
 import pandas as pd
 
 from constants import constants 
+from utils import Utils
+from collections import Counter 
 
 class DataLoader: 
     def __init__(self, path) -> None:
@@ -28,17 +30,20 @@ class DataLoader:
           Return a list of tuple with text and sentiment words. 
         '''
         
-        self.data.average = map(round,  self.data.average)
+        self.data.average = map(round, self.data.average)
 
-        def replace_score_with_label(score): # Local method
-            return constants.absa_labels[score]
+        # def replace_score_with_label(score): # Local method
+        #     return constants.absa_labels[score]
         # Replace all integers with words. 
-        self.data.average = map(replace_score_with_label, self.data.average)
+        # self.data.average = map(replace_score_with_label, self.data.average)
 
-        return self.data.text, list(self.data.average)
+        return Utils.from_series_to_list(self.data.text), list(self.data.average)
 
     def load(self, path):
       '''
         This method is used to load in the TSV data 
       '''
       return pd.read_csv(path, sep='\t')
+
+    def get_label_distribution(self):
+        return Counter(list(map(round, self.data.average)))
