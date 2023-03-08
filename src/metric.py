@@ -46,3 +46,6 @@ class Metric:
   
   def compute_davies_bouldin_score(self):
     return davies_bouldin_score(self.data, self.cluster_labels)
+  
+  def compute_all(self):
+    return {"Accuracy": self.compute_accuracy(), "Precision": self.compute_precision(), "Recall": self.compute_recall(), "F1": self.compute_F1(), "Silhouette": self.compute_silhouette(), "CHS": self.compute_calinski_harabasz_score(), "DBS": self.compute_davies_bouldin_score()}
