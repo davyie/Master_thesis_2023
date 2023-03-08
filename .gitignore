@@ -784,3 +784,6 @@ FodyWeavers.xsd
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,pycharm,xcode,linux,windows
 src/scrap.py
 models/
+output/
+result/
+absa_textdata.txt
