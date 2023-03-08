@@ -1,5 +1,6 @@
 import torch 
 from transformers import AutoModel, AutoTokenizer, AdamW, AutoModelForMaskedLM, AlbertTokenizer, AlbertModel, AlbertForMaskedLM
+from sentence_transformers import SentenceTransformer
 import numpy as np
 from tqdm import tqdm
 from constants import constants
@@ -7,15 +8,15 @@ from constants import constants
 from dataset import Dataset
 
 class Models: 
-  def __init__(self, model_name) -> None:
+  def __init__(self, model_name, tokenizer_name) -> None:
     '''
       This class contains different models we can use to obtain the embeddings 
     '''
     self.model_name = model_name
     if model_name == constants.KBLab_albert:
-      self.tok = AlbertTokenizer.from_pretrained(model_name)
+      self.tok = AlbertTokenizer.from_pretrained(tokenizer_name, return_token_type_ids=True)
     else: 
-      self.tok = AutoTokenizer.from_pretrained(model_name)
+      self.tok = AutoTokenizer.from_pretrained(tokenizer_name, return_token_type_ids=True)
     return 
   
   def process(self, data): 
@@ -77,7 +78,7 @@ class Models:
     if self.model_name == constants.KBLab_albert:
       model = AlbertForMaskedLM.from_pretrained(self.model_name)
     else: 
-      model = AutoModel.from_pretrained(self.model_name)
+      model = AutoModelForMaskedLM.from_pretrained(self.model_name)
 
     model.train() # Turn on training state
 
