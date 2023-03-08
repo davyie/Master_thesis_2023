@@ -72,3 +72,7 @@ class Utils:
     return confusion_matrix 
         
     
+  def print_to_file(filename, metrics):
+    with open(filename, 'w') as out:
+      for (name, metric) in metrics.items():
+        out.write( "{}: {}\n".format(name, metric))
