@@ -8,7 +8,7 @@ from transformers import AutoModel,AutoTokenizer, AlbertModel, AlbertTokenizer
 from sentence_transformers import SentenceTransformer
 from clustering import Clustering
 from sklearn.cluster import KMeans
-from metric import Metric
+from experiment import Experiment
 
 # texts = ['En mening', 'En annan mening', 'En ännu längre mening']
 
@@ -32,11 +32,11 @@ def test_run() :
 
 def test_train():
   DL = DataLoader(constants.absa_file_path)
-  ML = Models(constants.KBLab_bert)
-  data = Utils.from_series_to_list(DL.get_data_by_col_name('text'))[0:64]
+  ML = Models(constants.ML_sbert, constants.ML_sbert)
+  data = Utils.from_series_to_list(DL.get_data_by_col_name('text'))[0:16]
   epochs = 3
 
-  ML.fine_tune_MLM(data, epochs=epochs)
+  ML.fine_tune_MLM(data, epochs=epochs, is_save=False)
 
 #Mean Pooling - Take attention mask into account for correct averaging
 def mean_pooling(model_output, attention_mask):
@@ -58,17 +58,11 @@ def main():
   # sembed = mean_pooling(model_output, encoded_input['attention_mask'])
 
   # print(sembed.size())
-  # test_run()
   # test_train()
-  
-  data, true_labels, cluster_labels = Clustering.cluster_bert(constants.AF_bert, constants.absa_file_path)
-  M = Metric(data, true_labels=true_labels, cluster_labels=cluster_labels)
-  print('Without improvement: ', M.compute_accuracy(), M.compute_precision(), M.compute_recall(), M.compute_silhouette(), M.compute_calinski_harabasz_score())
-
-  data, true_labels, cluster_labels = Clustering.cluster_bert(constants.AF_bert, constants.absa_file_path, is_initial_points=True)
-  M = Metric(data, true_labels=true_labels, cluster_labels=cluster_labels)
-  print('With improvement: ', M.compute_accuracy(), M.compute_precision(), M.compute_recall(), M.compute_silhouette(), M.compute_calinski_harabasz_score())
   # print(dl.get_label_distribution())
+  DL = DataLoader(constants.absa_file_path)
+  DL.save_to_file()
+  pass
 
 
 if __name__ == '__main__': 
