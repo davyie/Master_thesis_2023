@@ -46,4 +46,10 @@ class DataLoader:
       return pd.read_csv(path, sep='\t')
 
     def get_label_distribution(self):
-        return Counter(list(map(round, self.data.average)))
+      return Counter(list(map(round, self.data.average)))
+    
+    def save_to_file(self):
+      list_of_sen = Utils.from_series_to_list(self.data.text)
+      with open("absa_textdata", 'w') as out:
+        for s in list_of_sen:
+           out.write(s + '\n')
