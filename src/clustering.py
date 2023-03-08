@@ -17,7 +17,7 @@ class Clustering:
       '''
       return self.kmeans.labels_
   
-  def cluster_bert(model_name, path_to_data, interval = slice(0, 16), is_initial_points = False):
+  def cluster_bert(model_name, tokenizer_name, path_to_data, interval = slice(0, 16), is_initial_points = False):
     '''
     This clustering method works for 
     - KBLab BERT 
@@ -25,7 +25,7 @@ class Clustering:
     - ML BERT 
     '''
     DL = DataLoader(path_to_data)
-    ML = Models(model_name=model_name)
+    ML = Models(model_name=model_name, tokenizer_name=tokenizer_name)
     text_data, true_labels = DL.get_data_with_labels()
     # data = Utils.from_series_to_list(text_data)[interval] # Get subset of texts
     model_output, _ = ML.process(text_data[interval])
