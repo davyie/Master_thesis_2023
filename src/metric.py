@@ -1,4 +1,4 @@
-from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bouldin_score
+from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bouldin_score, rand_score, homogeneity_completeness_v_measure
 from utils import Utils
 
 class Metric:
@@ -20,24 +20,6 @@ class Metric:
     '''
     return (self.TP + self.TN) / (self.TP + self.TN + self.FP + self.FN)
   
-  def compute_precision(self):
-    '''
-      The number of correctly predicted datapoints given all positive. 
-    '''
-    return self.TP / (self.TP + self.FP)
-  
-  def compute_recall(self):
-    '''
-      This computes the number of correctly predicted positives out of 
-      actual positives. 
-    '''
-    return self.TP / (self.TP + self.FN)
-
-  def compute_F1(self):
-    recall_score = self.compute_recall()
-    precision_score = self.compute_precision()
-    return 2 * precision_score * recall_score / (precision_score + recall_score)
-  
   def compute_silhouette(self):
     return silhouette_score(self.data, self.cluster_labels)
   
@@ -47,5 +29,13 @@ class Metric:
   def compute_davies_bouldin_score(self):
     return davies_bouldin_score(self.data, self.cluster_labels)
   
+  def compute_rand_index(self):
+    return rand_score(self.true_labels, self.cluster_labels)
+  
+  def compute_v_measure(self):
+    self.h, self.c, self.v = homogeneity_completeness_v_measure(self.true_labels, self.cluster_labels)
+    return self.h, self.c, self.v
+  
   def compute_all(self):
-    return {"Accuracy": self.compute_accuracy(), "Precision": self.compute_precision(), "Recall": self.compute_recall(), "F1": self.compute_F1(), "Silhouette": self.compute_silhouette(), "CHS": self.compute_calinski_harabasz_score(), "DBS": self.compute_davies_bouldin_score()}
+    self.compute_v_measure()
+    return {"Rand": self.compute_accuracy(), "Silhouette": self.compute_silhouette(), "CHS": self.compute_calinski_harabasz_score(), "DBS": self.compute_davies_bouldin_score(), 'Homogeneity': self.h, 'Completeness': self.c, 'V-measure': self.v }
