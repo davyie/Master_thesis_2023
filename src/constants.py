@@ -1,6 +1,3 @@
-from enums import ModelType
-from transformers import AutoModel, AutoTokenizer, AlbertTokenizer, AlbertModel
-
 class constants:
   '''
     This class contains constants for the project 
@@ -11,14 +8,17 @@ class constants:
   absa_file_path = '../dataset/absabank_imm/P_annotation.tsv'
 
   # Model names 
-  KBLab_bert = 'KBLab/bert-base-swedish-cased'
-  KBLab_sbert = 'KBLab/sentence-bert-swedish-cased'
-  KBLab_albert = 'KBLab/albert-base-swedish-cased-alpha'
+  KB_bert = 'KBLab/bert-base-swedish-cased'
+  KB_sbert = 'KBLab/sentence-bert-swedish-cased'
+  KB_albert = 'KBLab/albert-base-swedish-cased-alpha'
   AF_bert = 'af-ai-center/bert-base-swedish-uncased'
   ML_bert = 'bert-base-multilingual-cased'
   ML_sbert = 'sentence-transformers/distiluse-base-multilingual-cased-v2'
 
-  # models = {
-  #   ModelType.KBLab_BERT: [AutoTokenizer.from_pretrained(KBLab_bert), AutoModel.from_pretrained(KBLab_bert)], 
-  #   ModelType.AF_BERT: [AutoTokenizer.from_pretrained(AF_bert), AutoModel.from_pretrained(AF_bert)],
-  #   ModelType.KBLAB_ALBERT: [AlbertTokenizer.from_pretrained()]}
+
+  KB_bert_finetuned = './models/KBLab/bert-base-swedish-cased_finetuned'
+  KB_albert_finetuned = './models/KBLab/albert-base-swedish-cased-alpha_finetuned'
+  KB_sbert_finetuned = './models/KBLab/sentence-bert-swedish-cased_finetuned'
+  AF_bert_finetuned = './models/af-ai-center/bert-base-swedish-uncased_finetuned'
+  ML_bert_finetuned = './models/bert-base-multilingual-cased_finetuned'
+  ML_sbert_finetuned = './models/sentence-transformers/distiluse-base-multilingual-cased-v2_finetuned'
