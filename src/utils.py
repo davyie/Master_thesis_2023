@@ -1,6 +1,7 @@
 from collections import Counter
-from itertools import combinations
+from itertools import combinations, product
 import numpy as np 
+
 class Utils:
     
   def from_tensor_to_nparray(tensor):
@@ -32,6 +33,26 @@ class Utils:
   
   def from_series_to_list(series):
      return series.tolist()
+
+  def get_true_labels_per_cluster(true_labels, cluster_ids, nr_clusters=5):
+    '''
+    This function is used to draw figures. It returns a dictionary of the 
+    format {cluster_id: Counter({true_label: count})} which is sent to 
+    draw method. Use this function after we have run embedding and K-means. 
+    It takes two arguements, true_labels and cluster_ids. 
+    @param true_labels - This is a list of true labels 
+    @param cluster_ids - This is a list of cluster ids 
+    '''
+    cluster_label_dict = {}
+    for cluster_id in range(nr_clusters):
+      indices = [idx for idx in range(len(cluster_ids)) if cluster_ids[idx] == cluster_id ]
+      true_labels_cluster = [true_labels[i] for i in indices]
+      counts = Counter(true_labels_cluster)
+      for i in range(1, 6): # True label start from 1 up to 5 
+        if i not in counts.keys():
+          counts[i] = 0
+      cluster_label_dict[cluster_id] = counts
+    return cluster_label_dict # {0: [1, 2, 1, 1, 2, 3...], 1: [1, 3, 3...], ...}
 
   def get_confusion_matrix(true_labels, cluster_labels):
     '''
@@ -71,7 +92,6 @@ class Utils:
         confusion_matrix[0][0] += 1 
     return confusion_matrix 
         
-    
   def print_to_file(filename, metrics):
     with open(filename, 'w') as out:
       for (name, metric) in metrics.items():
