@@ -13,7 +13,8 @@ class Models:
       This class contains different models we can use to obtain the embeddings 
     '''
     self.model_name = model_name
-    if model_name == constants.KBLab_albert:
+    self.tokenizer = tokenizer_name
+    if tokenizer_name == constants.KB_albert:
       self.tok = AlbertTokenizer.from_pretrained(tokenizer_name, return_token_type_ids=True)
     else: 
       self.tok = AutoTokenizer.from_pretrained(tokenizer_name, return_token_type_ids=True)
@@ -24,7 +25,7 @@ class Models:
       This method will process the data and obtain embeddings 
     '''
 
-    if self.model_name == constants.KBLab_albert:
+    if self.tokenizer == constants.KB_albert:
       model = AlbertModel.from_pretrained(self.model_name)
     else:
       model = AutoModel.from_pretrained(self.model_name)
@@ -65,7 +66,7 @@ class Models:
     dataloader = torch.utils.data.DataLoader(tokenized_dataset, batch_size=batch_size, shuffle=True)
     return dataloader
 
-  def fine_tune_MLM(self, text_data, epochs, is_save=False):
+  def fine_tune_MLM(self, text_data, epochs, lr, batch_size, is_save=False):
     '''
       This method contains training loop for the model. 
       First it inits the model and then process the data. 
@@ -75,7 +76,7 @@ class Models:
       @param epochs - the number of epochs we train the model 
     '''
     # Load in the model. Tokenizer is already loaded in 
-    if self.model_name == constants.KBLab_albert:
+    if self.model_name == constants.KB_albert:
       model = AlbertForMaskedLM.from_pretrained(self.model_name)
     else: 
       model = AutoModelForMaskedLM.from_pretrained(self.model_name)
@@ -83,10 +84,10 @@ class Models:
     model.train() # Turn on training state
 
     # Prepare dataset 
-    dataloader = self.preprocess_maskedLM_dataset(text_data, 0.15)
+    dataloader = self.preprocess_maskedLM_dataset(text_data, 0.15, batch_size=batch_size)
     
-    optimizer = AdamW(model.parameters(), lr=1e-5)
-
+    optimizer = AdamW(model.parameters(), lr=lr)
+    losses = []
     for epoch in range(epochs):
       loop = tqdm(dataloader)
       for batch in loop:
@@ -98,11 +99,12 @@ class Models:
         loss = outputs[0]
         loss.backward()
         optimizer.step()
-
         loop.set_description('Epoch: {}'.format(epoch))
-        loop.set_postfix(loss=loss.item)
+        loop.set_postfix(loss=loss.item())
+        losses.append(loss.item())
     if is_save:
       model.eval()
       self.model_name = self.model_name + "_finetuned"
       model.save_pretrained("./models/" + self.model_name)
       print("./models/" + self.model_name)
+    return losses
