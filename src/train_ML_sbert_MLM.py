@@ -20,7 +20,7 @@ if len(sys.argv) < 3:
     exit()
 
 model_name = sys.argv[1]
-per_device_train_batch_size = 64
+per_device_train_batch_size = 32
 
 save_steps = 1000               #Save model every 1k steps
 num_train_epochs = 3            #Number of epochs
@@ -28,6 +28,7 @@ use_fp16 = False                #Set to True, if your GPU supports FP16 operatio
 max_length = 100                #Max length for a text input
 do_whole_word_mask = True       #If set to true, whole words are masked
 mlm_prob = 0.15                 #Probability that a word is replaced by a [MASK] token
+lr = 5e-5
 
 # Load the model
 model = AutoModelForMaskedLM.from_pretrained(model_name)
@@ -102,7 +103,8 @@ training_args = TrainingArguments(
     logging_steps=save_steps,
     save_total_limit=1,
     prediction_loss_only=True,
-    fp16=use_fp16
+    fp16=use_fp16,
+    learning_rate=lr
 )
 
 trainer = Trainer(
