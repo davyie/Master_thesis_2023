@@ -35,7 +35,7 @@ class Figures:
     print('**********************************************************************')
     print('\n')
   
-  def true_labels_per_cluster_figure(cluster_labels):
+  def true_labels_per_cluster_figure(cluster_labels, model_name):
     '''
     This method takes a dictionary {cluster_id: Counter({true_label: count})}
     '''
@@ -53,12 +53,11 @@ class Figures:
       bars.append(ax.bar(X_axis, count, width=width))
       X_axis = X_axis + width
 
-    title = "Number of True labels in each cluster"
-    filename = "figures/number_of_true_labels_in_cluster"
+    title = "Number of True labels in each cluster - " + model_name
+    filename = "figures/number_of_true_labels_in_cluster_" + model_name
 
     X_axis = np.arange(0.7, len(cluster_ids))
     labels = [constants.absa_labels[i] for i in range(1, 6)]
-    print(labels)
     ax.set_title(title)
     ax.set_ylabel(ylabel="True label count")
     ax.set_xlabel(xlabel="True label")
@@ -86,24 +85,6 @@ class Figures:
     ax.set_ylabel(ylabel='Agree cluster ID')
     ax.set_title('Confusion Matrix')
     fig.savefig("figures/confusion_matrix")
-    fig.show()
-
-  def metric_all_model_figure(metric_list):
-    '''
-    This method draws a bar figure that compares metrics for all models.
-    The metrics are precision, accuracy/F1, recall, Silhouette score, HB score etc..
-    @param metric_list - This is a list of metrics for all models. The size should be 6. 
-    '''
-    models = ['KB bert', 'KB sbert', 'KB albert', 'AF bert', 'ML bert', 'ML sbert']
-    fig, ax = plt.subplots()
-    X_axis = np.arange(len(metric_list))
-    ax.bar(X_axis, metric_list)
-    ax.set_xticks([i for i in range(6)])
-    ax.set_xticklabels(models)
-    ax.set_ylabel('<Metric>')
-    ax.set_xlabel('Models')
-    ax.set_title('<Metric name>')
-    fig.savefig('figures/metric_figure')
     fig.show()
   
   def search_hyperparam_figure():
@@ -139,7 +120,6 @@ class Figures:
           mets[k] = [v]
         else:
           mets[k].append(v)
-    
     
     for k, v in mets.items():
       fig, ax = plt.subplots()
