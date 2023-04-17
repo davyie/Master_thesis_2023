@@ -1,6 +1,6 @@
 import torch 
 from transformers import AutoModel, AutoTokenizer, AdamW, AutoModelForMaskedLM, AlbertTokenizer, AlbertModel, AlbertForMaskedLM
-from sentence_transformers import SentenceTransformer
+#from sentence_transformers import SentenceTransformer
 import numpy as np
 from tqdm import tqdm
 from constants import constants
@@ -14,6 +14,7 @@ class Models:
     '''
     self.model_name = model_name
     self.tokenizer = tokenizer_name
+    self.device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     if tokenizer_name == constants.KB_albert:
       self.tok = AlbertTokenizer.from_pretrained(tokenizer_name, return_token_type_ids=True)
     else: 
@@ -29,8 +30,10 @@ class Models:
       model = AlbertModel.from_pretrained(self.model_name)
     else:
       model = AutoModel.from_pretrained(self.model_name)
+
+    model.to(self.device)
     
-    inputs = self.tokenize_text(data)
+    inputs = self.tokenize_text(data).to(self.device)
     return model(**inputs), inputs
   
   def decode(self, token_id):

@@ -15,27 +15,34 @@ import numpy as np
 
 def test_run() :
   DL = DataLoader(constants.absa_file_path)
-  interval = slice(0, 32)
+  intervals = [slice(0, 64), slice(64, 128), slice(128, 256)]
+  #intervals = [slice(0, 64)]
+  #interval = slice(0, 2048)
   text_data, true_labels = DL.get_data_with_labels()
-
+  embed_data = []
   ML = Models(constants.KB_bert, constants.KB_bert)
-  embeds, encoded_input = ML.process(text_data[interval])
-  embeds = normalize(embeds.last_hidden_state[:, 0, :].detach().numpy())
-
+  for interval in intervals:
+    embeds, encoded_input = ML.process(text_data[interval])
+    embeds = torch.Tensor.cpu(embeds.last_hidden_state[:, 0, :])
+    embeds = embeds.detach().numpy()
+    embed_data.append(embeds)
+    torch.cuda.empty_cache()
+  #embeds = embeds.last_hidden_state[:, 0, :].detach().numpy()
+  embed_data = np.concatenate(embed_data)
   nr_clusters = 5
   kmeans = KMeans(init='k-means++', n_clusters=nr_clusters)
-  kmeans.fit(embeds)
+  kmeans.fit(embed_data)
   print('Cluster labels: ', kmeans.labels_)
-  print('Real labels: ', true_labels[interval])
+  print('Real labels: ', true_labels[slice(0, 128)])
 
   # print(np.sum(embeds, axis=1))
 
-  metric = Metric(embeds, true_labels=true_labels[interval], cluster_labels=kmeans.labels_)
+  metric = Metric(embeds, true_labels=true_labels[slice(0, 128)], cluster_labels=kmeans.labels_)
   # print(metric.compute_all())
   cm = metric.compute_contingency_matrix()
-  # f = pd.DataFrame(cm)
-  Figures.contingency_matrix_figure(cm)
-  # print(f)
+  f = pd.DataFrame(cm)
+  #Figures.contingency_matrix_figure(cm)
+  print(f)
   
 
 
@@ -68,19 +75,11 @@ def get_distribution_figures(file_name):
 
 def main():
   # train()
-  # test_run()
+  test_run()
   # Figures.search_hyperparam_figure()
   # Experiment.run_experiment_base(is_interval=False)
   # get_distribution_figures('label_distribution_base.pkl')
   # Figures.evaluation_metric_figure()
-  print(f"Is CUDA supported by this system? {torch.cuda.is_available()}")
-  print(f"CUDA version: {torch.version.cuda}")
-    
-  # Storing ID of current CUDA device
-  cuda_id = torch.cuda.current_device()
-  print(f"ID of current CUDA device: {torch.cuda.current_device()}")
-          
-  print(f"Name of current CUDA device: {torch.cuda.get_device_name(cuda_id)}")
   pass
 
 
