@@ -1,4 +1,5 @@
 from sklearn.cluster import KMeans
+from sklearn.preprocessing import normalize
 import torch
 from constants import constants
 
@@ -20,7 +21,7 @@ class Clustering:
       '''
       return self.kmeans.labels_
   
-  def cluster_bert(model_name, tokenizer_name, path_to_data, is_interval, is_improve=False):
+  def cluster_bert(model_name, tokenizer_name, path_to_data, is_interval=True, is_improve=False):
     '''
     This clustering method works for 
     - KBLab BERT 
@@ -35,7 +36,8 @@ class Clustering:
       model_output, _ = ML.process(text_data[0:16])
     else:
       model_output, _ = ML.process(text_data)
-    embeds = model_output.last_hidden_state[:, 0, :] # Get embedding. Grab first vector
+    embeds = model_output.last_hidden_state[:, 0, :].detach().numpy() # Get embedding. Grab first vector
+    embeds = normalize(embeds)
     
     list_of_labels = list(constants.absa_labels.values())
     initial_points, _ = ML.process(list_of_labels)
@@ -43,9 +45,9 @@ class Clustering:
 
     nr_clusters = 5
     kmeans = KMeans(init=initial_points if is_improve else 'k-means++', n_clusters=nr_clusters)
-    kmeans.fit(embeds.detach().numpy())
+    kmeans.fit(embeds)
 
-    return embeds.detach().numpy(), true_labels[0:16] if is_interval else true_labels, kmeans.labels_
+    return embeds, true_labels[0:16] if is_interval else true_labels, kmeans.labels_
 
   def cluster_sbert(model_name, tokenizer, path_to_data, is_interval=False, is_improve=False):
     '''
@@ -67,7 +69,8 @@ class Clustering:
     else:
       model_output, encoded_inputs = ML.process(data)
     # print(model_output, encoded_inputs)
-    embeds = mean_pooling(model_output, encoded_inputs['attention_mask'])
+    embeds = mean_pooling(model_output, encoded_inputs['attention_mask']).detach().numpy()
+    embeds = normalize(embeds)
 
     list_of_labels = list(constants.absa_labels.values())
     initial_points, encoded_inputs = ML.process(list_of_labels)
@@ -75,9 +78,9 @@ class Clustering:
 
     nr_clusters = 5
     kmeans = KMeans(init=initial_points.detach().numpy() if is_improve else 'k-means++', n_clusters=nr_clusters)
-    kmeans.fit(embeds.detach().numpy())
+    kmeans.fit(embeds)
 
-    return embeds.detach().numpy(), true_labels[0:16] if is_interval else true_labels, kmeans.labels_
+    return embeds, true_labels[0:16] if is_interval else true_labels, kmeans.labels_
 
   def cluster_albert(model_name, tokenizer, path_to_data, is_interval = False, is_improve=False):
     DL = DataLoader(path=path_to_data)
@@ -87,7 +90,8 @@ class Clustering:
       model_output, _ = ML.process(data[0:16])
     else:
       model_output, _ = ML.process(data)
-    embeds = model_output.last_hidden_state[:, 0, :]
+    embeds = model_output.last_hidden_state[:, 0, :].detach().numpy()
+    embeds = normalize(embeds)
     
     list_of_labels = list(constants.absa_labels.values())
     initial_points, _ = ML.process(list_of_labels)
@@ -95,6 +99,6 @@ class Clustering:
 
     nr_clusters = 5
     kmeans = KMeans(init=initial_points if is_improve else 'k-means++', n_clusters=nr_clusters)
-    kmeans.fit(embeds.detach().numpy())
+    kmeans.fit(embeds)
     
-    return embeds.detach().numpy(), true_labels[0:16] if is_interval else true_labels, kmeans.labels_
+    return embeds, true_labels[0:16] if is_interval else true_labels, kmeans.labels_

@@ -5,8 +5,7 @@ from utils import Utils
 import pickle
 
 class Experiment: 
-  def run_experiment_base():
-    is_interval = True
+  def run_experiment_base(is_interval=True):
     metrics = {}
     cluster_distributions = {}
 

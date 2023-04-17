@@ -1,7 +1,6 @@
 import numpy as np
 from constants import constants
 from data_loader import DataLoader
-from print_figures import draw_bar
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sn
@@ -129,4 +128,22 @@ class Figures:
       ax.set_xlabel('Model')
       ax.set_ylabel('Metric: ' + k)
       ax.set_title('Evaluation metric ' + k)
+    plt.show()
+
+  def contingency_matrix_figure(matrix):
+    n = len(matrix)
+    m = len(matrix[0])
+    fig, ax = plt.subplots()
+    ax.matshow(matrix, cmap='ocean')
+
+    for i in range(m):
+      for j in range(n):
+          c = matrix[j, i]
+          ax.text(i, j, str(c), va='center', ha='center')
+
+    ax.set_xlabel(xlabel='Cluster ID')
+    ax.set_ylabel(ylabel='Partition ID')
+    ax.set_yticks([0, 1, 2, 3, 4])
+    ax.set_yticklabels(['Very Negative', 'Negative', 'Neutral', 'Positive', 'Very Positive'])
+    ax.set_title('Contingency Matrix')
     plt.show()

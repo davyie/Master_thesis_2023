@@ -92,6 +92,7 @@ class Utils:
         confusion_matrix[0][0] += 1 
     return confusion_matrix 
         
+
   def print_to_file(filename, metrics):
     with open(filename, 'w') as out:
       for (name, metric) in metrics.items():
