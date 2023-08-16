@@ -138,61 +138,39 @@ This dataset contains text from two news sites and one forum. This project will 
 To start the project we have to enable the virtual environment for Python3 using venv. 
 Go to the parent folder `./` where we should find a `.env` folder. This folder contains the virtual environment for Python3. We want to enable the enviroment by running the following command `source .env/bin/activate` and to deactivate the enviroment we run `deactivate` in the terminal. 
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+<!-- ### Prerequisites -->
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone git@github.com:davyie/Master_thesis_2023.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+3. Run main.py 
+  ```sh
+    python3 main.py
+  ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Import data
-- [] Import KB BERT
-- [] Import KB ALBERT 
-- [] Import KB Sentence BERT 
-- [] Import Arbetsförmedlingen BERT 
-- [] Import Multilingual BERT 
-- [] Import Multilingual Sentence BERT 
-- [] Fine-tune above models 
-- [] Obtain embeddings 
-- [] Write experiments 
-- [] Obtain metrics 
+- [x] Import data
+- [x] Import KB BERT
+- [x] Import KB ALBERT 
+- [x] Import KB Sentence BERT 
+- [x] Import Arbetsförmedlingen BERT 
+- [x] Import Multilingual BERT 
+- [x] Import Multilingual Sentence BERT 
+- [x] Fine-tune above models 
+- [x] Obtain embeddings 
+- [x] Write experiments 
+- [x] Obtain metrics 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -217,7 +195,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+David Yu - [@DavidYu](https://www.linkedin.com/in/david-yu-81124211b/)
 
 Project Link: [https://github.com/davyie/Master_thesis_2023](https://github.com/davyie/Master_thesis_2023)
 
