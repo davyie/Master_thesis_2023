@@ -789,3 +789,6 @@ result/
 absa_textdata.txt
 src/bar_colors.py
 src/eval_*
+src/result_absa
+src/result_august
+src/result_sst
