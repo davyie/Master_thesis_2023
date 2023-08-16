@@ -1,4 +1,5 @@
 import pandas as pd
+import json 
 
 from constants import constants 
 from utils import Utils
@@ -30,14 +31,12 @@ class DataLoader:
           Return a list of tuple with text and sentiment words. 
         '''
         
-        self.data.average = map(round, self.data.average)
-
         # def replace_score_with_label(score): # Local method
         #     return constants.absa_labels[score]
         # Replace all integers with words. 
         # self.data.average = map(replace_score_with_label, self.data.average)
 
-        return Utils.from_series_to_list(self.data.text), list(self.data.average)
+        return Utils.from_series_to_list(self.data.text), list(map(round, self.data.average))
 
     def load(self, path):
       '''
@@ -53,3 +52,11 @@ class DataLoader:
       with open("absa_textdata", 'w') as out:
         for s in list_of_sen:
            out.write(s + '\n')
+
+    def read_json(self, path):
+      f = open(path, 'r')
+      data = f.readlines()
+      labels = [json.loads(r"{}".format(line))['label'] for line in data]
+      text_data = [json.loads(r"{}".format(line))['text'] for line in data]
+      return text_data, labels
+        

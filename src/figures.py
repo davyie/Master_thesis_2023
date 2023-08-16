@@ -6,6 +6,7 @@ import pandas as pd
 import seaborn as sn
 from hyperparam import result
 import pickle
+from print_figures import draw_bar
 
 class Figures:
   def data_distribution_figure():
@@ -16,8 +17,8 @@ class Figures:
     
     label_color_swe = {'mycket negativ': '#F0AF73', 'negativ': '#FF675C', 'neutral': '#FFE066', 'positiv': '#C3EB67', 'mycket positiv': '#54FF7D'}
     label_color_eng = {'very negative': '#FF675C', 'negative': '#F0AF73', 'neutral': '#FFE066', 'positive': '#C3EB67', 'very positive': '#54FF7D'}
-    title = 'Data distribution'
-    filename = 'figures/data_distribution_bar_chart_eng'
+    title = 'ABSABank IMM - Data distribution'
+    filename = 'data_distribution_bar_chart_eng'
     draw_bar(keys, values, y_axis_name="Opinion counts",x_axis_name="Opinion", label_color_dict=label_color_eng, title=title, legend_title="Labels", filename=filename)
 
   def sample_data_figure():
@@ -26,12 +27,25 @@ class Figures:
     sample_indicies = [labels.index(label) for label in range(1, 6)]
     label_max_len = max(map(len, [constants.absa_labels[i] for i in labels]))
     print('\n')
-    print('**********************************************************************')
+    print('***********************************************************************************************')
     print('Label           |  Text')
-    print('----------------------------------------------------------------------')
+    print('-----------------------------------------------------------------------------------------------')
     for i in sample_indicies:
-      print(constants.absa_labels[labels[i]].ljust(label_max_len), '| ' , data[i][0:50])
-    print('**********************************************************************')
+      print(constants.absa_labels[labels[i]].ljust(label_max_len), '| ' , data[i][0:75])
+    print('***********************************************************************************************')
+    print('\n')
+
+    labels = ['very negative', 'negative', 'neutral', 'positive', 'very positive']
+    samples = ['However, we had the crisis in 2015, senselessly increased violence with shootings and other things, ter', 'All immigration is not bad, but few can deny that the deterioration that in may', '84% of asylum seekers want to stay in Sweden.', 'In the last ten years, Sweden has successfully received almost ten times', 'Crucial to protect immigrant businesses.' ]
+    english_samples = zip(labels, samples)
+
+    print('\n')
+    print('***********************************************************************************************')
+    print('Label           |  Text')
+    print('-----------------------------------------------------------------------------------------------')
+    for (label, text) in english_samples:
+      print(label.ljust(label_max_len), '| ' , text[0:75])
+    print('***********************************************************************************************')
     print('\n')
   
   def true_labels_per_cluster_figure(cluster_labels, model_name):
@@ -53,7 +67,7 @@ class Figures:
       X_axis = X_axis + width
 
     title = "Number of True labels in each cluster - " + model_name
-    filename = "figures/number_of_true_labels_in_cluster_" + model_name
+    filename = "result/improv_number_of_true_labels_in_cluster_" + model_name
 
     X_axis = np.arange(0.7, len(cluster_ids))
     labels = [constants.absa_labels[i] for i in range(1, 6)]
@@ -64,7 +78,7 @@ class Figures:
     ax.set_xticklabels(labels)
     ax.legend(bars, ['Cluster: {}'.format(i + 1) for i in cluster_ids])
     fig.savefig(filename)
-    fig.show()
+    # fig.show()
     pass
 
   def confusion_matrix_figure(conf_matrix):
@@ -105,12 +119,11 @@ class Figures:
     plt.show()
     # print(loss)
     
-  def evaluation_metric_figure():
+  def evaluation_metric_figure(file_name, folder):
   
-    with open('eval_metrics_base.pkl', 'rb') as f:
+    with open(file_name, 'rb') as f:
       metrics = pickle.load(f)
-      
-    # print(metrics)
+    print(metrics)
     models = metrics.keys()
     mets = {}
     for metric in metrics.values():
@@ -127,10 +140,11 @@ class Figures:
       ax.set_xticklabels(models)
       ax.set_xlabel('Model')
       ax.set_ylabel('Metric: ' + k)
-      ax.set_title('Evaluation metric ' + k)
-    plt.show()
+      ax.set_title('Evaluation metric - ' + k)
+      plt.savefig(folder + k + '_evaluation_figure')
+    # plt.show()
 
-  def contingency_matrix_figure(matrix):
+  def contingency_matrix_figure(matrix, title, path, dataset_labels, dataset_labels_tick, cluster_ids):
     n = len(matrix)
     m = len(matrix[0])
     fig, ax = plt.subplots()
@@ -142,8 +156,10 @@ class Figures:
           ax.text(i, j, str(c), va='center', ha='center')
 
     ax.set_xlabel(xlabel='Cluster ID')
+    ax.set_xticks(dataset_labels_tick)
+    ax.set_xticklabels(cluster_ids)
     ax.set_ylabel(ylabel='Partition ID')
-    ax.set_yticks([0, 1, 2, 3, 4])
-    ax.set_yticklabels(['Very Negative', 'Negative', 'Neutral', 'Positive', 'Very Positive'])
-    ax.set_title('Contingency Matrix')
-    plt.show()
+    ax.set_yticks(dataset_labels_tick)
+    ax.set_yticklabels(dataset_labels)
+    ax.set_title(title + ' - Contingency Matrix')
+    plt.savefig(path + 'contingency_matrix_' + title)

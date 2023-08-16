@@ -1,6 +1,7 @@
 from collections import Counter
 from itertools import combinations, product
 import numpy as np 
+import pickle
 
 class Utils:
     
@@ -97,3 +98,19 @@ class Utils:
     with open(filename, 'w') as out:
       for (name, metric) in metrics.items():
         out.write( "{}: {}\n".format(name, metric))
+
+  def get_intervals(data, batch_size=64):
+    intervals = []
+    current = 0
+    while True: 
+      if current + batch_size > len(data):
+        intervals.append(slice(current, len(data)))
+        break
+      intervals.append(slice(current, current + batch_size))
+      current += batch_size
+    return intervals
+
+  def read_file(file_name):
+    with open(file_name, 'rb') as f:
+        data = pickle.load(f)
+    return data

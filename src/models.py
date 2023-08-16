@@ -1,6 +1,6 @@
 import torch 
 from transformers import AutoModel, AutoTokenizer, AdamW, AutoModelForMaskedLM, AlbertTokenizer, AlbertModel, AlbertForMaskedLM
-#from sentence_transformers import SentenceTransformer
+from sentence_transformers import SentenceTransformer
 import numpy as np
 from tqdm import tqdm
 from constants import constants
@@ -14,7 +14,6 @@ class Models:
     '''
     self.model_name = model_name
     self.tokenizer = tokenizer_name
-    self.device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     if tokenizer_name == constants.KB_albert:
       self.tok = AlbertTokenizer.from_pretrained(tokenizer_name, return_token_type_ids=True)
     else: 
@@ -30,10 +29,8 @@ class Models:
       model = AlbertModel.from_pretrained(self.model_name)
     else:
       model = AutoModel.from_pretrained(self.model_name)
-
-    model.to(self.device)
     
-    inputs = self.tokenize_text(data).to(self.device)
+    inputs = self.tokenize_text(data)
     return model(**inputs), inputs
   
   def decode(self, token_id):
@@ -69,7 +66,7 @@ class Models:
     dataloader = torch.utils.data.DataLoader(tokenized_dataset, batch_size=batch_size, shuffle=True)
     return dataloader
 
-  def fine_tune_MLM(self, text_data, epochs, lr, batch_size, is_save=False):
+  def fine_tune_MLM(self, text_data, epochs, lr, batch_size, folder="./models/", is_save=False):
     '''
       This method contains training loop for the model. 
       First it inits the model and then process the data. 
@@ -108,6 +105,6 @@ class Models:
     if is_save:
       model.eval()
       self.model_name = self.model_name + "_finetuned"
-      model.save_pretrained("./models/" + self.model_name)
-      print("./models/" + self.model_name)
+      model.save_pretrained(folder + self.model_name)
+      print(folder + self.model_name)
     return losses
